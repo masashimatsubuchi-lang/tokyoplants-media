@@ -3,6 +3,7 @@ import { getCategoryBySlug } from "@/lib/categories";
 import ArticleJsonLd from "./ArticleJsonLd";
 import RelatedPosts from "./RelatedPosts";
 import BaseProductBlock from "./BaseProductBlock";
+import ShopBanner from "./ShopBanner";
 import Link from "next/link";
 
 export default function ArticleDetail({ post }: { post: Post }) {
@@ -43,6 +44,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
         {post.baseProducts && post.baseProducts.length > 0 && (
           <BaseProductBlock products={post.baseProducts} />
         )}
+
+        {/* Shop Banner */}
+        <ShopBanner />
 
         {/* Related Posts */}
         <RelatedPosts posts={relatedPosts} title="関連記事" />

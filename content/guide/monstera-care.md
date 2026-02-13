@@ -8,10 +8,10 @@ relatedSlugs:
   - "soil/basic-soil-mix"
 baseProducts:
   - title: "モンステラ 6号鉢"
-    url: "https://example.thebase.in/items/000001"
+    url: "https://www.tokyoplants.com/items/000001"
     price: "¥3,980"
   - title: "観葉植物用 培養土 5L"
-    url: "https://example.thebase.in/items/000002"
+    url: "https://www.tokyoplants.com/items/000002"
     price: "¥1,280"
 ---
 

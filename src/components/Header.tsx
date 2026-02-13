@@ -21,6 +21,14 @@ export default function Header() {
           <Link href="/about" className="text-gray-600 hover:text-green-700 transition-colors">
             About
           </Link>
+          <a
+            href="https://www.tokyoplants.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-green-700 hover:text-green-900 transition-colors"
+          >
+            SHOP
+          </a>
         </nav>
       </div>
     </header>

@@ -7,7 +7,7 @@ relatedSlugs:
   - "guide/monstera-care"
 baseProducts:
   - title: "植物育成LEDライト クリップ式"
-    url: "https://example.thebase.in/items/000005"
+    url: "https://www.tokyoplants.com/items/000005"
     price: "¥2,980"
 ---
 

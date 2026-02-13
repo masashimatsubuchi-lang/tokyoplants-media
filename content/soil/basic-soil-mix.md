@@ -7,10 +7,10 @@ relatedSlugs:
   - "guide/monstera-care"
 baseProducts:
   - title: "赤玉土（小粒）14L"
-    url: "https://example.thebase.in/items/000003"
+    url: "https://www.tokyoplants.com/items/000003"
     price: "¥680"
   - title: "観葉植物の土 プレミアム 12L"
-    url: "https://example.thebase.in/items/000004"
+    url: "https://www.tokyoplants.com/items/000004"
     price: "¥1,480"
 ---
 

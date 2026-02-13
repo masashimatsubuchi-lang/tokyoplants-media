@@ -27,6 +27,14 @@ export default function Footer() {
             <Link href="/about" className="text-gray-500 hover:text-green-700 transition-colors">
               About
             </Link>
+            <a
+              href="https://www.tokyoplants.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-green-700 hover:text-green-800 transition-colors"
+            >
+              SHOP
+            </a>
           </nav>
         </div>
         <p className="mt-8 text-xs text-gray-400 text-center">
