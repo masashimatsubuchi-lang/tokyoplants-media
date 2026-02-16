@@ -218,12 +218,12 @@ export default function Home() {
             </p>
             <div className="mt-10 flex flex-wrap justify-center gap-3">
               {[
-                { name: "Monstera", path: "/categories/monstera" },
-                { name: "Philodendron", path: "/categories/philodendron" },
-                { name: "Anthurium", path: "/categories/anthurium" },
-                { name: "Alocasia", path: "/categories/alocasia" },
-                { name: "Aglaonema", path: "/categories/aglaonema" },
-                { name: "Begonia", path: "/categories/begonia" },
+                { name: "Monstera", path: "/categories/6382102" },
+                { name: "Philodendron", path: "/categories/6382100" },
+                { name: "Anthurium", path: "/categories/6382097" },
+                { name: "Alocasia", path: "/categories/6382096" },
+                { name: "Aglaonema", path: "/categories/6382098" },
+                { name: "Begonia", path: "/categories/7114659" },
               ].map((cat) => (
                 <a
                   key={cat.name}
