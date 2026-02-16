@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllPosts, getPostsByCategory } from "@/lib/posts";
+import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
 
 export default function Home() {
@@ -12,29 +13,26 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="py-32 md:py-44">
+      <section className="py-36 md:py-48">
         <div className="mx-auto max-w-5xl px-4 text-center">
-          <p className="text-xs font-semibold uppercase tracking-widest text-green-700">
-            tokyoplants Media
-          </p>
-          <h1 className="mt-4 text-4xl md:text-7xl font-extrabold tracking-tight text-gray-900">
-            観葉植物専門メディア
+          <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-gray-900 leading-tight">
+            tokyoplants｜観葉植物専門メディア
           </h1>
-          <p className="mt-6 text-base md:text-lg leading-relaxed text-gray-400">
+          <p className="mt-5 text-sm md:text-base leading-relaxed text-gray-400">
             用土・育て方・図鑑・レビューを発信
           </p>
-          <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+          <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
               href="/soil"
-              className="inline-block rounded-full bg-green-800 px-8 py-3 text-sm font-semibold text-white hover:bg-green-900 transition-colors"
+              className="inline-block rounded-full bg-teal-700 px-8 py-3 text-sm font-semibold text-white hover:bg-teal-800 transition-colors"
             >
-              用土の記事を読む
+              記事を読む
             </Link>
             <a
               href="https://www.tokyoplants.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block rounded-full border border-green-800 px-8 py-3 text-sm font-semibold text-green-800 hover:bg-green-50 transition-colors"
+              className="inline-block rounded-full border border-gray-300 px-8 py-3 text-sm font-semibold text-gray-700 hover:border-gray-400 hover:text-gray-900 transition-colors"
             >
               ショップを見る
             </a>
@@ -42,25 +40,52 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Category Navigation */}
+      <section className="border-y border-gray-100 py-16">
+        <div className="mx-auto max-w-5xl px-4">
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
+            {categories.map((cat) => (
+              <Link
+                key={cat.slug}
+                href={`/${cat.slug}`}
+                className="group rounded-xl border border-gray-100 bg-white p-5 text-center hover:border-teal-600 hover:shadow-sm transition-all"
+              >
+                <span className="block text-sm font-bold text-gray-900 group-hover:text-teal-700 transition-colors">
+                  {cat.name}
+                </span>
+                <span className="mt-1.5 block text-xs leading-relaxed text-gray-400">
+                  {cat.description}
+                </span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Soil 特集 */}
-      <section className="bg-green-50/50 py-24">
+      <section className="py-24">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
-              <p className="text-xs font-semibold uppercase tracking-widest text-green-700">Featured</p>
+              <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
+                Featured
+              </p>
               <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
                 土・用土
               </h2>
-              <p className="mt-2 text-sm leading-relaxed text-gray-500">
+              <p className="mt-2 text-sm leading-relaxed text-gray-400">
                 観葉植物の土選び・配合・市販土の比較など
               </p>
             </div>
-            <Link href="/soil" className="hidden sm:block text-sm font-medium text-green-700 hover:text-green-900 transition-colors">
-              すべて見る →
+            <Link
+              href="/soil"
+              className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
+            >
+              すべて見る &rarr;
             </Link>
           </div>
           {soilPosts.length === 0 ? (
-            <p className="mt-8 text-gray-400">まだ記事がありません。</p>
+            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
             <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
               {soilPosts.map((post) => (
@@ -69,31 +94,34 @@ export default function Home() {
             </div>
           )}
           <div className="mt-8 sm:hidden text-center">
-            <Link href="/soil" className="text-sm font-medium text-green-700 hover:text-green-900 transition-colors">
-              すべて見る →
+            <Link href="/soil" className="text-sm font-medium text-teal-700">
+              すべて見る &rarr;
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Guide ブロック */}
-      <section className="py-24">
+      {/* Guide */}
+      <section className="bg-gray-50/60 py-24">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
               <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
                 育て方ガイド
               </h2>
-              <p className="mt-2 text-sm leading-relaxed text-gray-500">
+              <p className="mt-2 text-sm leading-relaxed text-gray-400">
                 初心者から中級者まで、育て方の基本とコツ
               </p>
             </div>
-            <Link href="/guide" className="hidden sm:block text-sm font-medium text-green-700 hover:text-green-900 transition-colors">
-              すべて見る →
+            <Link
+              href="/guide"
+              className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
+            >
+              すべて見る &rarr;
             </Link>
           </div>
           {guidePosts.length === 0 ? (
-            <p className="mt-8 text-gray-400">まだ記事がありません。</p>
+            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
             <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
               {guidePosts.map((post) => (
@@ -102,31 +130,34 @@ export default function Home() {
             </div>
           )}
           <div className="mt-8 sm:hidden text-center">
-            <Link href="/guide" className="text-sm font-medium text-green-700 hover:text-green-900 transition-colors">
-              すべて見る →
+            <Link href="/guide" className="text-sm font-medium text-teal-700">
+              すべて見る &rarr;
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Species ブロック */}
-      <section className="bg-gray-50/50 py-24">
+      {/* Species */}
+      <section className="py-24">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
               <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
                 植物図鑑
               </h2>
-              <p className="mt-2 text-sm leading-relaxed text-gray-500">
+              <p className="mt-2 text-sm leading-relaxed text-gray-400">
                 観葉植物の種類と特徴を詳しく紹介
               </p>
             </div>
-            <Link href="/species" className="hidden sm:block text-sm font-medium text-green-700 hover:text-green-900 transition-colors">
-              すべて見る →
+            <Link
+              href="/species"
+              className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
+            >
+              すべて見る &rarr;
             </Link>
           </div>
           {speciesPosts.length === 0 ? (
-            <p className="mt-8 text-gray-400">まだ記事がありません。</p>
+            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
             <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
               {speciesPosts.map((post) => (
@@ -135,21 +166,21 @@ export default function Home() {
             </div>
           )}
           <div className="mt-8 sm:hidden text-center">
-            <Link href="/species" className="text-sm font-medium text-green-700 hover:text-green-900 transition-colors">
-              すべて見る →
+            <Link href="/species" className="text-sm font-medium text-teal-700">
+              すべて見る &rarr;
             </Link>
           </div>
         </div>
       </section>
 
-      {/* 最新記事一覧 */}
-      <section className="py-24">
+      {/* Latest */}
+      <section className="border-t border-gray-100 py-24">
         <div className="mx-auto max-w-5xl px-4">
           <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
             最新の記事
           </h2>
           {latestPosts.length === 0 ? (
-            <p className="mt-8 text-gray-400">まだ記事がありません。</p>
+            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
             <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
               {latestPosts.map((post) => (
@@ -160,18 +191,20 @@ export default function Home() {
         </div>
       </section>
 
-      {/* EC導線 */}
+      {/* EC Banner */}
       <section className="py-24">
         <div className="mx-auto max-w-5xl px-4">
-          <div className="rounded-2xl bg-green-900 px-6 py-16 text-center">
-            <p className="text-xs font-semibold uppercase tracking-widest text-green-300">Online Shop</p>
+          <div className="rounded-2xl bg-teal-800 px-6 py-20 text-center">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-300">
+              Online Shop
+            </p>
             <h2 className="mt-3 text-2xl md:text-3xl font-bold tracking-tight text-white">
               希少植物のオンラインショップ
             </h2>
-            <p className="mt-3 text-sm leading-relaxed text-green-200">
+            <p className="mt-3 text-sm leading-relaxed text-teal-200">
               厳選された希少植物をお届けします
             </p>
-            <div className="mt-8 flex flex-wrap justify-center gap-3">
+            <div className="mt-10 flex flex-wrap justify-center gap-3">
               {[
                 { name: "Monstera", path: "/categories/monstera" },
                 { name: "Philodendron", path: "/categories/philodendron" },
@@ -185,18 +218,18 @@ export default function Home() {
                   href={`https://www.tokyoplants.com${cat.path}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="rounded-full border border-white/20 px-5 py-2 text-sm font-medium text-white hover:bg-white/10 transition-colors"
+                  className="rounded-full border border-white/20 px-5 py-2 text-[13px] font-medium text-white hover:bg-white/10 transition-colors"
                 >
                   {cat.name}
                 </a>
               ))}
             </div>
-            <div className="mt-8">
+            <div className="mt-10">
               <a
                 href="https://www.tokyoplants.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block rounded-full bg-white px-8 py-3 text-sm font-semibold text-green-900 hover:bg-green-50 transition-colors"
+                className="inline-block rounded-full bg-white px-8 py-3 text-sm font-semibold text-teal-800 hover:bg-gray-50 transition-colors"
               >
                 ショップを見る
               </a>
