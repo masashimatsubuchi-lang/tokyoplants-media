@@ -10,13 +10,13 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="bg-green-50 py-20">
+      <section className="py-24 md:py-32">
         <div className="mx-auto max-w-5xl px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
-            植物と暮らす、<br className="md:hidden" />豊かな毎日。
+          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-gray-900">
+            tokyoplants｜観葉植物専門メディア
           </h1>
-          <p className="mt-4 text-lg text-gray-600">
-            観葉植物の育て方・図鑑・レビューをお届けするメディア
+          <p className="mt-6 text-base md:text-lg text-gray-500">
+            用土・育て方・図鑑・レビューを発信
           </p>
         </div>
       </section>
