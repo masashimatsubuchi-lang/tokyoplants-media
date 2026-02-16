@@ -1,4 +1,5 @@
 ---
+image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=800&q=80"
 title: "モンステラの育て方完全ガイド"
 description: "初心者でも安心。モンステラの水やり、日当たり、植え替えのコツを詳しく解説します。"
 date: "2025-01-15"

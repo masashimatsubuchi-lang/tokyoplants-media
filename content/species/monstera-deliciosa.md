@@ -1,4 +1,5 @@
 ---
+image: "https://images.unsplash.com/photo-1637967886160-fd78dc3ce3f5?w=800&q=80"
 title: "モンステラ・デリシオーサ"
 description: "モンステラ・デリシオーサの特徴、育て方、品種情報をまとめた図鑑ページです。"
 date: "2025-01-12"

@@ -4,6 +4,7 @@ import ArticleJsonLd from "./ArticleJsonLd";
 import RelatedPosts from "./RelatedPosts";
 import BaseProductBlock from "./BaseProductBlock";
 import ShopBanner from "./ShopBanner";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function ArticleDetail({ post }: { post: Post }) {
@@ -14,6 +15,21 @@ export default function ArticleDetail({ post }: { post: Post }) {
   return (
     <>
       <ArticleJsonLd post={post} />
+
+      {/* Hero Image */}
+      {post.image && (
+        <div className="relative h-64 md:h-96 w-full bg-gray-100">
+          <Image
+            src={post.image}
+            alt={post.title}
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover"
+          />
+        </div>
+      )}
+
       <article className="mx-auto max-w-3xl px-4 py-12">
         {/* Breadcrumb */}
         <nav className="mb-8 text-[13px] text-zinc-400">

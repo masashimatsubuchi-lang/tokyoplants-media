@@ -1,4 +1,5 @@
 ---
+image: "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?w=800&q=80"
 title: "観葉植物の基本の土の作り方"
 description: "観葉植物に適した用土の配合と選び方を初心者向けに解説します。"
 date: "2025-01-10"

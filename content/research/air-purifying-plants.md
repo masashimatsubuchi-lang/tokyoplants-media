@@ -1,4 +1,5 @@
 ---
+image: "https://images.unsplash.com/photo-1545241047-6083a3684587?w=800&q=80"
 title: "空気清浄効果のある観葉植物 TOP5"
 description: "NASAの研究をもとに、空気清浄効果が高い観葉植物をランキング形式で紹介します。"
 date: "2025-01-08"

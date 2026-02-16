@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { getAllPosts, getPostsByCategory } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
@@ -13,29 +14,40 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="py-36 md:py-48">
-        <div className="mx-auto max-w-5xl px-4 text-center">
-          <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-gray-900 leading-tight">
-            tokyoplants｜観葉植物専門メディア
-          </h1>
-          <p className="mt-5 text-sm md:text-base leading-relaxed text-gray-400">
-            用土・育て方・図鑑・レビューを発信
-          </p>
-          <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Link
-              href="/soil"
-              className="inline-block rounded-full bg-teal-700 px-8 py-3 text-sm font-semibold text-white hover:bg-teal-800 transition-colors"
-            >
-              記事を読む
-            </Link>
-            <a
-              href="https://www.tokyoplants.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block rounded-full border border-gray-300 px-8 py-3 text-sm font-semibold text-gray-700 hover:border-gray-400 hover:text-gray-900 transition-colors"
-            >
-              ショップを見る
-            </a>
+      <section className="relative overflow-hidden">
+        <Image
+          src="https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=1600&q=80"
+          alt="観葉植物"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover"
+        />
+        <div className="absolute inset-0 bg-white/70" />
+        <div className="relative py-36 md:py-48">
+          <div className="mx-auto max-w-5xl px-4 text-center">
+            <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-gray-900 leading-tight">
+              tokyoplants｜観葉植物専門メディア
+            </h1>
+            <p className="mt-5 text-sm md:text-base leading-relaxed text-gray-500">
+              用土・育て方・図鑑・レビューを発信
+            </p>
+            <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
+              <Link
+                href="/soil"
+                className="inline-block rounded-full bg-teal-700 px-8 py-3 text-sm font-semibold text-white hover:bg-teal-800 transition-colors"
+              >
+                記事を読む
+              </Link>
+              <a
+                href="https://www.tokyoplants.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block rounded-full border border-gray-400 bg-white/60 px-8 py-3 text-sm font-semibold text-gray-700 hover:bg-white hover:border-gray-500 transition-colors"
+              >
+                ショップを見る
+              </a>
+            </div>
           </div>
         </div>
       </section>
