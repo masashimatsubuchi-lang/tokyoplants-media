@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=800&q=80"
+image: "https://images.unsplash.com/photo-1639573955842-fdbb88f9ff1e?w=800&q=80"
 title: "パキラの土おすすめと植え替え方法｜根腐れしない用土の選び方"
 description: "パキラに最適な土の条件、おすすめの用土、自分で配合する場合のレシピを紹介。植え替え手順と失敗例も解説。パキラを長く健康に育てたい方向け。"
 date: "2026-02-16"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1679131086918-94fb9fea2afa?w=800&q=80"
 title: "観葉植物の土は再利用できる？｜使い回しのリスクと正しい再生方法"
 description: "観葉植物の古い土を再利用する方法とリスクを解説。天日干し・消毒・再配合の手順、再利用NGなケース、新しい土に替えるべき判断基準がわかります。"
 date: "2026-02-16"

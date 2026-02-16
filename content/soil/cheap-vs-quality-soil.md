@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1678722939806-918b114b740e?w=800&q=80"
 title: "100均の土と専門店の土は何が違う？｜観葉植物の用土を徹底比較"
 description: "100均・ホームセンター・専門店の観葉植物の土を比較。価格差の理由、品質の違い、選ぶべき基準を解説。コスパ重視で失敗しない土の選び方がわかります。"
 date: "2026-02-16"

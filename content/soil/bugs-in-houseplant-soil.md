@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1661696080503-5235f7509490?w=800&q=80"
 title: "観葉植物の土に虫が湧く原因と対策｜虫が出にくい土の選び方"
 description: "観葉植物の土からコバエやキノコバエが湧く原因を特定し、駆除方法と再発防止策を解説。虫が湧きにくい土の条件と、おすすめの用土も紹介します。"
 date: "2026-02-16"

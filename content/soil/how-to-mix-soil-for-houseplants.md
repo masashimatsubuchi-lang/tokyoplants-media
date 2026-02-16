@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1678371209936-0b3e2f6a9fc1?w=800&q=80"
 title: "観葉植物の土を自分で配合する方法｜基本の割合と植物別レシピ"
 description: "観葉植物の土を自分で配合したい方へ。基本の配合比率、植物タイプ別のレシピ、必要な素材の選び方をわかりやすく解説します。"
 date: "2026-02-16"

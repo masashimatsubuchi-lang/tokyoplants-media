@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1637967886160-fd78dc3ce3f5?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1764329343978-eddf330ac825?w=800&q=80"
 title: "アロカシアの育て方完全ガイド｜水やり・日当たり・冬越しのコツ"
 description: "アロカシアの育て方を初心者向けに解説。水やり頻度、最適な日当たり、冬越しの方法、用土の選び方、トラブル対処法まで網羅的にまとめました。"
 date: "2026-02-16"

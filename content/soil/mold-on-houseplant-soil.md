@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&q=80"
+image: "https://images.unsplash.com/photo-1649088307572-b9f21913deba?w=800&q=80"
 title: "観葉植物の土にカビが生える原因と対策｜白カビの正体と除去方法"
 description: "観葉植物の土に白いカビが生えたときの原因・除去方法・再発防止策を解説。カビが植物に与える影響、土の交換手順、カビが生えにくい土の選び方まで網羅します。"
 date: "2026-02-16"

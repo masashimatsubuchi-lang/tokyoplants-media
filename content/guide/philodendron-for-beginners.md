@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1545241047-6083a3684587?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1726862434433-e43be0d016df?w=800&q=80"
 title: "フィロデンドロン初心者におすすめの品種5選｜育てやすい種類と育て方"
 description: "フィロデンドロンを初めて育てる方へ。丈夫で育てやすいおすすめ品種5選と、水やり・日当たり・用土など基本の育て方をわかりやすく解説します。"
 date: "2026-02-16"

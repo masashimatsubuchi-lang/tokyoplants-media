@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1530968033775-2c92736b131e?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1673203734691-cdebcf12f003?w=800&q=80"
 title: "室内の観葉植物に最適な土の選び方｜清潔で虫が出にくい用土とは"
 description: "室内で観葉植物を育てるための土の選び方を徹底解説。虫が出にくい清潔な用土の条件、室内向きの素材、おすすめ商品、臭い対策まで具体的に紹介します。"
 date: "2026-02-16"

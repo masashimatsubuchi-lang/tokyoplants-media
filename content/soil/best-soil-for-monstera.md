@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1664015821166-d88627c6bb26?w=800&q=80"
 title: "モンステラの植え替えに最適な土は？｜配合・手順・失敗しないコツ"
 description: "モンステラの植え替えに使う土の選び方を徹底解説。最適な配合レシピ、市販土の改良方法、植え替え手順と時期、失敗しないためのコツをまとめました。"
 date: "2026-02-16"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1679516402692-e8dfde752d37?w=800&q=80"
 title: "観葉植物の土の入れ替え時期と方法｜根詰まり・水はけ悪化のサインを見逃さない"
 description: "観葉植物の土はいつ交換すべき？根詰まりや水はけ悪化のサインと、正しい土の入れ替え手順を解説します。"
 date: "2026-02-16"

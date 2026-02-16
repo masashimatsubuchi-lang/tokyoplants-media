@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1617576683096-00fc8eecb3af?w=800&q=80"
+image: "https://images.unsplash.com/photo-1712912828040-54e51184b9fa?w=800&q=80"
 title: "観葉植物の植え替えに最適な土の選び方｜失敗しない用土ガイド"
 description: "観葉植物の植え替えで土選びに迷っていませんか？植え替え用の土に必要な条件、市販土の選び方、植物タイプ別のおすすめ配合をプロの視点から解説します。"
 date: "2026-02-16"

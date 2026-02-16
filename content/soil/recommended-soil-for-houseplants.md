@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1585336261022-680e295ce3fe?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1679516403540-daa04a035cf9?w=800&q=80"
 title: "観葉植物の土おすすめ7選｜室内でも虫が湧きにくい用土の選び方"
 description: "観葉植物の土選びで失敗しないために、室内向け・虫が湧きにくい用土を厳選して紹介。市販土の比較ポイントや選び方の基準を、専門店の視点からわかりやすく解説します。"
 date: "2026-02-16"

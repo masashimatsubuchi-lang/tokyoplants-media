@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&q=80"
+image: "https://images.unsplash.com/photo-1574483078807-f1c78259e290?w=800&q=80"
 title: "観葉植物が根腐れする原因と復活方法｜土・水やり・鉢の見直し"
 description: "観葉植物の根腐れはなぜ起こる？原因の特定方法から、復活させるための植え替え手順、再発を防ぐ土・水やり・鉢の選び方まで詳しく解説します。"
 date: "2026-02-16"
