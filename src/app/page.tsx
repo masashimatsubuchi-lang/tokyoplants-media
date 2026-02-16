@@ -12,12 +12,15 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="py-24 md:py-36">
+      <section className="py-32 md:py-44">
         <div className="mx-auto max-w-5xl px-4 text-center">
-          <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-gray-900">
-            tokyoplants｜観葉植物専門メディア
+          <p className="text-xs font-semibold uppercase tracking-widest text-green-700">
+            tokyoplants Media
+          </p>
+          <h1 className="mt-4 text-4xl md:text-7xl font-extrabold tracking-tight text-gray-900">
+            観葉植物専門メディア
           </h1>
-          <p className="mt-6 text-base md:text-lg leading-relaxed text-gray-500">
+          <p className="mt-6 text-base md:text-lg leading-relaxed text-gray-400">
             用土・育て方・図鑑・レビューを発信
           </p>
           <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">

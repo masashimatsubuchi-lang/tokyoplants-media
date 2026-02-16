@@ -5,8 +5,9 @@ export default function Header() {
   return (
     <header className="border-b border-gray-200 bg-white">
       <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
-        <Link href="/" className="text-xl font-bold text-green-700">
-          BOTANY LIFE
+        <Link href="/" className="flex items-baseline gap-1.5">
+          <span className="text-xl font-extrabold tracking-tight text-gray-900">tokyoplants</span>
+          <span className="text-xs font-semibold uppercase tracking-widest text-green-700">Media</span>
         </Link>
         <nav className="hidden md:flex gap-6 text-sm">
           {categories.map((cat) => (

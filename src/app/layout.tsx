@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "BOTANY LIFE | 観葉植物メディア",
-    template: "%s | BOTANY LIFE",
+    default: "tokyoplants MEDIA | 観葉植物専門メディア",
+    template: "%s | tokyoplants MEDIA",
   },
   description: "観葉植物の育て方・図鑑・レビューをお届けするオウンドメディア",
 };
