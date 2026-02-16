@@ -7,7 +7,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     <section className="mt-12 rounded-xl border border-green-200 bg-green-50/50 p-6">
       <div className="flex items-center justify-between">
         <h2 className="text-lg font-bold text-gray-900">
-          TOKYO PLANTS で購入する
+          tokyoplants で購入する
         </h2>
         <a
           href="https://www.tokyoplants.com"

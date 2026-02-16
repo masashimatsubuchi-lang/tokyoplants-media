@@ -1,7 +1,7 @@
 export default function ShopBanner() {
   return (
     <section className="mt-12 rounded-xl bg-gradient-to-r from-green-700 to-green-600 p-8 text-center">
-      <p className="text-sm font-medium text-green-200">TOKYO PLANTS</p>
+      <p className="text-sm font-medium text-green-200">tokyoplants</p>
       <h3 className="mt-2 text-xl font-bold text-white">
         お気に入りの植物を見つけよう
       </h3>
