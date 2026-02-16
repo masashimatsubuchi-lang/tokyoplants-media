@@ -25,6 +25,14 @@ export default function Footer() {
               </Link>
             ))}
             <a
+              href="https://www.instagram.com/tokyoplants_"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-400 hover:text-gray-900 transition-colors"
+            >
+              Instagram
+            </a>
+            <a
               href="https://www.tokyoplants.com"
               target="_blank"
               rel="noopener noreferrer"

@@ -249,6 +249,31 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Instagram */}
+      <section className="border-t border-gray-100 py-16">
+        <div className="mx-auto max-w-5xl px-4 text-center">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400">
+            Instagram
+          </p>
+          <h2 className="mt-3 text-xl md:text-2xl font-bold tracking-tight text-gray-900">
+            @tokyoplants_
+          </h2>
+          <p className="mt-2 text-sm text-gray-400">
+            入荷情報・育て方のコツを発信中
+          </p>
+          <div className="mt-6">
+            <a
+              href="https://www.instagram.com/tokyoplants_"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block rounded-full bg-gray-900 px-8 py-3 text-sm font-semibold text-white hover:bg-gray-700 transition-colors"
+            >
+              フォローする
+            </a>
+          </div>
+        </div>
+      </section>
     </>
   );
 }
