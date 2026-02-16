@@ -16,19 +16,19 @@ export default function ArticleDetail({ post }: { post: Post }) {
       <ArticleJsonLd post={post} />
       <article className="mx-auto max-w-3xl px-4 py-12">
         {/* Breadcrumb */}
-        <nav className="mb-6 text-sm text-gray-500">
-          <Link href="/" className="hover:text-green-700">トップ</Link>
+        <nav className="mb-8 text-[13px] text-zinc-400">
+          <Link href="/" className="hover:text-zinc-900 transition-colors">トップ</Link>
           <span className="mx-2">/</span>
-          <Link href={`/${post.category}`} className="hover:text-green-700">{category?.name}</Link>
+          <Link href={`/${post.category}`} className="hover:text-zinc-900 transition-colors">{category?.name}</Link>
           <span className="mx-2">/</span>
-          <span className="text-gray-700">{post.title}</span>
+          <span className="text-zinc-600">{post.title}</span>
         </nav>
 
         {/* Header */}
         <header>
-          <span className="text-sm font-medium text-green-600">{category?.name}</span>
-          <h1 className="mt-2 text-3xl font-bold text-gray-900 leading-tight">{post.title}</h1>
-          <div className="mt-3 flex items-center gap-4 text-sm text-gray-500">
+          <span className="text-[11px] font-semibold uppercase tracking-[0.15em] text-teal-700">{category?.name}</span>
+          <h1 className="mt-3 text-2xl md:text-4xl font-extrabold tracking-tight text-zinc-900 leading-tight">{post.title}</h1>
+          <div className="mt-4 flex items-center gap-4 text-[13px] text-zinc-400">
             <time>{post.date}</time>
             {post.author && <span>by {post.author}</span>}
           </div>
@@ -36,7 +36,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
 
         {/* Content */}
         <div
-          className="prose prose-green mt-8 max-w-none"
+          className="prose prose-zinc mt-12 max-w-none prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-600 prose-a:text-teal-700 prose-a:no-underline hover:prose-a:underline prose-strong:text-zinc-800 prose-li:text-zinc-600 prose-li:leading-[1.85]"
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
 
