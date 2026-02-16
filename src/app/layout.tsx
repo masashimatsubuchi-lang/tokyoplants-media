@@ -16,11 +16,15 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "tokyoplants MEDIA | 観葉植物専門メディア",
-    template: "%s | tokyoplants MEDIA",
+    default: "tokyoplants｜観葉植物専門メディア",
+    template: "%s | tokyoplants",
   },
-  description: "観葉植物の育て方・図鑑・レビューをお届けするオウンドメディア",
+  description: "用土・育て方・図鑑・レビューを発信する観葉植物専門メディア",
+  verification: {
+    google: "_zyLhlGGI-nDjNHRDAqfF0GDHJ1qwYJxu4zRkl88M28",
+  },
 };
+
 
 export default function RootLayout({
   children,
