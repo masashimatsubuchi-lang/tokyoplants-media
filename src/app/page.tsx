@@ -16,7 +16,7 @@ export default function Home() {
       {/* Hero */}
       <section className="relative overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=1600&q=80"
+          src="https://images.unsplash.com/photo-1628246499185-54f441171885?w=1600&q=80"
           alt="観葉植物"
           fill
           priority
@@ -27,10 +27,10 @@ export default function Home() {
         <div className="relative py-36 md:py-48">
           <div className="mx-auto max-w-5xl px-4 text-center">
             <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-gray-900 leading-tight">
-              tokyoplants｜観葉植物専門メディア
+              観葉植物専門メディア
             </h1>
             <p className="mt-5 text-sm md:text-base leading-relaxed text-gray-500">
-              用土・育て方・図鑑・レビューを発信
+              育て方・図鑑・トラブル解決ガイド
             </p>
             <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
               <Link
