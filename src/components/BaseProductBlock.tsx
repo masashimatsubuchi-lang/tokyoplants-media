@@ -12,7 +12,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (product.image) return product.image;
 
     // Fallback for the main tokyoplants soil product card.
-    return isSoilProduct(product) ? "/images/products/im-original-soil.jpg" : undefined;
+    return isSoilProduct(product) ? "/images/products/im-original-soil-main.jpg" : undefined;
   };
 
   return (
