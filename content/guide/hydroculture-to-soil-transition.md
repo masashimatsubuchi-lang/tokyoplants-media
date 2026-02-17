@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1759421278715-cf910ceaf31e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1668888501413-4cbcfe853442?auto=format&fit=crop&w=1200&q=80"
 title: "ハイドロから土へ植え替える方法"
 description: "ハイドロカルチャーから土植えへ切り替える手順を解説。根の違い、失敗しやすいポイント、移行後の管理までわかります。"
 date: "2026-02-17"
