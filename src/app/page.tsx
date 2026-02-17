@@ -13,6 +13,7 @@ const heroSans = Noto_Sans_JP({
 export default function Home() {
   const allPosts = getAllPosts();
   const soilPosts = getPostsByCategory("soil").slice(0, 3);
+  const [featuredSoil, ...otherSoil] = soilPosts;
   const guidePosts = getPostsByCategory("guide").slice(0, 3);
   const speciesPosts = getPostsByCategory("species").slice(0, 3);
   const latestPosts = allPosts.slice(0, 6);
@@ -83,8 +84,33 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Intent Navigation */}
+      <section className="bg-gradient-to-r from-emerald-50/70 via-white to-emerald-50/40 py-16">
+        <div className="mx-auto max-w-5xl px-4">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-emerald-700">Quick Start</p>
+          <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">目的から探す</h2>
+          <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {[
+              { title: "初心者向け", desc: "最初の1鉢で失敗しにくい記事", href: "/guide" },
+              { title: "症状から探す", desc: "黄化・害虫・根腐れの対処", href: "/search?q=%E5%8E%9F%E5%9B%A0" },
+              { title: "植物別で探す", desc: "モンステラやアンスリウムの図鑑", href: "/species" },
+              { title: "季節の作業", desc: "植え替え・水やりの時期別ガイド", href: "/search?q=%E5%86%AC" },
+            ].map((item) => (
+              <Link
+                key={item.title}
+                href={item.href}
+                className="rounded-2xl border border-emerald-100 bg-white p-5 transition-all hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-sm"
+              >
+                <p className="text-[15px] font-bold text-emerald-800">{item.title}</p>
+                <p className="mt-2 text-[13px] leading-relaxed text-gray-600">{item.desc}</p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Soil 特集 */}
-      <section className="py-24">
+      <section className="py-24 bg-white">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -108,10 +134,20 @@ export default function Home() {
           {soilPosts.length === 0 ? (
             <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
-            <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-              {soilPosts.map((post) => (
-                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
-              ))}
+            <div className="mt-10 grid gap-8 lg:grid-cols-[1.3fr_1fr]">
+              {featuredSoil && (
+                <div className="rounded-3xl border border-teal-100 bg-teal-50/40 p-4 md:p-6">
+                  <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Editors Pick</p>
+                  <div className="mt-4">
+                    <ArticleCard post={featuredSoil} />
+                  </div>
+                </div>
+              )}
+              <div className="grid gap-6">
+                {otherSoil.map((post) => (
+                  <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+                ))}
+              </div>
             </div>
           )}
           <div className="mt-8 sm:hidden text-center">
@@ -123,7 +159,7 @@ export default function Home() {
       </section>
 
       {/* Guide */}
-      <section className="bg-gray-50/60 py-24">
+      <section className="bg-gray-50/80 py-24">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -159,7 +195,7 @@ export default function Home() {
       </section>
 
       {/* Species */}
-      <section className="py-24">
+      <section className="py-24 bg-white">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -195,8 +231,9 @@ export default function Home() {
       </section>
 
       {/* Latest */}
-      <section className="border-t border-gray-100 py-24">
+      <section className="border-t border-gray-100 py-24 bg-gray-50/50">
         <div className="mx-auto max-w-5xl px-4">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">New</p>
           <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
             最新の記事
           </h2>
