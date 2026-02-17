@@ -12,8 +12,12 @@ const heroSans = Noto_Sans_JP({
 
 export default function Home() {
   const allPosts = getAllPosts();
-  const soilPosts = getPostsByCategory("soil").slice(0, 3);
-  const [featuredSoil, ...otherSoil] = soilPosts;
+  const soilPosts = getPostsByCategory("soil");
+  const editorsPickSlugs = ["houseplant-soil-hub-guide", "recommended-soil-for-houseplants"];
+  const editorsPickSoil = editorsPickSlugs
+    .map((slug) => soilPosts.find((post) => post.slug === slug))
+    .filter((post) => post !== undefined);
+  const otherSoil = soilPosts.filter((post) => !editorsPickSlugs.includes(post.slug)).slice(0, 2);
   const guidePosts = getPostsByCategory("guide").slice(0, 3);
   const speciesPosts = getPostsByCategory("species").slice(0, 3);
   const latestPosts = allPosts.slice(0, 6);
@@ -135,11 +139,13 @@ export default function Home() {
             <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
             <div className="mt-10 grid gap-8 lg:grid-cols-[1.3fr_1fr]">
-              {featuredSoil && (
+              {editorsPickSoil.length > 0 && (
                 <div className="rounded-3xl border border-teal-100 bg-teal-50/40 p-4 md:p-6">
                   <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Editors Pick</p>
-                  <div className="mt-4">
-                    <ArticleCard post={featuredSoil} />
+                  <div className="mt-4 grid gap-6">
+                    {editorsPickSoil.map((post) => (
+                      <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+                    ))}
                   </div>
                 </div>
               )}
