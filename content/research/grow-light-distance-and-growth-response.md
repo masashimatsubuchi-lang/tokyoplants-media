@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1593691509543-c55fb32e5b13?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=1200&q=80"
 title: "育成ライトは何cmが最適？距離別の生育差を比較"
 description: "植物育成ライトの距離を20cm・40cm・60cmで比較し、葉焼けリスクと成長速度のバランスを検証しました。"
 date: "2026-02-17"
