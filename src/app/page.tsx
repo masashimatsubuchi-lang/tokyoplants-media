@@ -13,7 +13,7 @@ const heroSans = Noto_Sans_JP({
 export default function Home() {
   const allPosts = getAllPosts();
   const soilPosts = getPostsByCategory("soil");
-  const editorsPickSlugs = ["houseplant-soil-hub-guide", "recommended-soil-for-houseplants"];
+  const editorsPickSlugs = ["houseplant-soil-hub-guide"];
   const editorsPickSoil = editorsPickSlugs
     .map((slug) => soilPosts.find((post) => post.slug === slug))
     .filter((post) => post !== undefined);
