@@ -45,45 +45,23 @@ export default function Home() {
               <p className="mt-6 text-sm tracking-[0.14em] text-slate-500">
                 by tokyoplants
               </p>
-              <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
-                <Link
-                  href="/soil"
-                  className="inline-block rounded-full bg-teal-700 px-8 py-3 text-sm font-semibold text-white shadow-lg shadow-teal-900/20 hover:bg-teal-800 transition-colors"
-                >
-                  記事を読む
-                </Link>
-                <a
-                  href="https://www.tokyoplants.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block rounded-full border border-slate-400/60 bg-white/70 px-8 py-3 text-sm font-semibold text-slate-700 hover:bg-white hover:border-slate-500 transition-colors"
-                >
-                  ショップを見る
-                </a>
+              <div className="mt-10 grid grid-cols-2 gap-3 md:mt-12 md:grid-cols-5">
+                {categories.map((cat) => (
+                  <Link
+                    key={cat.slug}
+                    href={`/${cat.slug}`}
+                    className="rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white"
+                  >
+                    <span className="block text-[13px] font-bold text-slate-800">
+                      {cat.name}
+                    </span>
+                    <span className="mt-1 block text-[11px] leading-relaxed text-slate-500">
+                      {cat.description}
+                    </span>
+                  </Link>
+                ))}
               </div>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Category Navigation */}
-      <section className="border-y border-gray-100 py-16">
-        <div className="mx-auto max-w-5xl px-4">
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
-            {categories.map((cat) => (
-              <Link
-                key={cat.slug}
-                href={`/${cat.slug}`}
-                className="group rounded-xl border border-gray-100 bg-white p-5 text-center hover:border-teal-600 hover:shadow-sm transition-all"
-              >
-                <span className="block text-sm font-bold text-gray-900 group-hover:text-teal-700 transition-colors">
-                  {cat.name}
-                </span>
-                <span className="mt-1.5 block text-xs leading-relaxed text-gray-400">
-                  {cat.description}
-                </span>
-              </Link>
-            ))}
           </div>
         </div>
       </section>
