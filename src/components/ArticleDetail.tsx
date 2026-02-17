@@ -1,7 +1,8 @@
-import { Post, PostMeta, resolveRelatedPosts, getSameCategoryPosts } from "@/lib/posts";
+import { Post, PostMeta, resolveRelatedPosts, getSameCategoryPosts, getSpeciesByGenus } from "@/lib/posts";
 import { getCategoryBySlug } from "@/lib/categories";
 import ArticleJsonLd from "./ArticleJsonLd";
 import RelatedPosts from "./RelatedPosts";
+import ArticleCard from "./ArticleCard";
 import BaseProductBlock from "./BaseProductBlock";
 import ShopBanner from "./ShopBanner";
 import Image from "next/image";
@@ -11,6 +12,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const category = getCategoryBySlug(post.category);
   const relatedPosts: PostMeta[] = post.relatedSlugs ? resolveRelatedPosts(post.relatedSlugs) : [];
   const sameCategoryPosts = getSameCategoryPosts(post.category, post.slug);
+  const isGenusPage = post.slug.startsWith("genus-");
+  const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
 
   return (
     <>
@@ -55,6 +58,18 @@ export default function ArticleDetail({ post }: { post: Post }) {
           className="prose prose-zinc mt-12 max-w-none prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-600 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-600 prose-li:leading-[1.85]"
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
+
+        {/* Species Cards for Genus Pages */}
+        {isGenusPage && speciesPosts.length > 0 && (
+          <section className="mt-12">
+            <h2 className="text-lg font-bold text-gray-900">品種別の図鑑記事</h2>
+            <div className="mt-4 grid gap-6 sm:grid-cols-2">
+              {speciesPosts.map((sp) => (
+                <ArticleCard key={`${sp.category}-${sp.slug}`} post={sp} />
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* BASE Products */}
         {post.baseProducts && post.baseProducts.length > 0 && (

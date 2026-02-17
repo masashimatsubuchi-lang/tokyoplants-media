@@ -112,3 +112,13 @@ export function getSameCategoryPosts(category: CategorySlug, excludeSlug: string
     .filter((p) => p.slug !== excludeSlug)
     .slice(0, limit);
 }
+
+/**
+ * 属ページの slug から、その属に属する品種記事を取得
+ * 例: "genus-anthurium" → genus "anthurium" を持つ種ページ一覧
+ */
+export function getSpeciesByGenus(genusSlug: string): PostMeta[] {
+  const genusKey = genusSlug.replace("genus-", "");
+  return getPostsByCategory("species")
+    .filter((p) => !p.slug.startsWith("genus-") && p.genus === genusKey);
+}
