@@ -15,7 +15,28 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const post = await getPostBySlug("soil", slug);
   if (!post) return {};
-  return { title: post.title, description: post.description };
+  const url = `/soil/${post.slug}`;
+  return {
+    title: post.title,
+    description: post.description,
+    alternates: { canonical: url },
+    openGraph: {
+      type: "article",
+      url,
+      title: post.title,
+      description: post.description,
+      locale: "ja_JP",
+      siteName: "tokyoplants media",
+      publishedTime: post.date,
+      images: post.image ? [{ url: post.image, alt: post.title }] : undefined,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.description,
+      images: post.image ? [post.image] : undefined,
+    },
+  };
 }
 
 export default async function SoilArticlePage({ params }: Props) {

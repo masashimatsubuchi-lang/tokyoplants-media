@@ -1,6 +1,16 @@
+import { Metadata } from "next";
 import ArticleCard from "@/components/ArticleCard";
 import { getCategoryBySlug } from "@/lib/categories";
 import { getAllPosts } from "@/lib/posts";
+
+export const metadata: Metadata = {
+  title: "記事検索",
+  description: "tokyoplants media内の記事をキーワードで検索できます。",
+  robots: {
+    index: false,
+    follow: true,
+  },
+};
 
 type SearchPageProps = {
   searchParams: Promise<{ q?: string }>;
