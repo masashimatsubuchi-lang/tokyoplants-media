@@ -1,8 +1,14 @@
 import Link from "next/link";
 import Image from "next/image";
+import { Noto_Serif_JP } from "next/font/google";
 import { getAllPosts, getPostsByCategory } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
+
+const heroSerif = Noto_Serif_JP({
+  subsets: ["latin"],
+  weight: ["500", "700"],
+});
 
 export default function Home() {
   const allPosts = getAllPosts();
@@ -25,16 +31,16 @@ export default function Home() {
         />
         <div className="absolute inset-0 bg-gradient-to-br from-white/75 via-white/60 to-emerald-100/55" />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_10%,rgba(15,118,110,0.25),transparent_40%),radial-gradient(circle_at_80%_80%,rgba(20,83,45,0.2),transparent_45%)]" />
-        <div className="relative py-28 md:py-36">
+        <div className="relative py-32 md:py-44">
           <div className="mx-auto max-w-5xl px-4">
-            <div className="mx-auto max-w-3xl rounded-3xl border border-white/60 bg-white/45 px-6 py-10 text-center shadow-[0_20px_70px_-30px_rgba(15,23,42,0.6)] backdrop-blur-md md:px-10 md:py-14">
-              <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight">
-                観葉植物専門メディア
+            <div className="mx-auto max-w-3xl rounded-3xl border border-white/60 bg-white/45 px-8 py-14 text-center shadow-[0_20px_70px_-30px_rgba(15,23,42,0.6)] backdrop-blur-md md:px-14 md:py-20">
+              <h1 className={`${heroSerif.className} text-4xl md:text-6xl font-bold tracking-[0.03em] text-slate-900 leading-[1.35]`}>
+                観葉植物を知り、育てる。
               </h1>
-              <p className="mt-5 text-sm md:text-base leading-relaxed text-slate-600">
-                育て方・図鑑・トラブル解決ガイド
+              <p className="mt-6 text-sm tracking-[0.14em] text-slate-500">
+                by tokyoplants
               </p>
-              <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+              <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
                 <Link
                   href="/soil"
                   className="inline-block rounded-full bg-teal-700 px-8 py-3 text-sm font-semibold text-white shadow-lg shadow-teal-900/20 hover:bg-teal-800 transition-colors"
