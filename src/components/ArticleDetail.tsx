@@ -52,7 +52,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
 
         {/* Content */}
         <div
-          className="prose prose-zinc mt-12 max-w-none prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-600 prose-a:text-teal-700 prose-a:no-underline hover:prose-a:underline prose-strong:text-zinc-800 prose-li:text-zinc-600 prose-li:leading-[1.85]"
+          className="prose prose-zinc mt-12 max-w-none prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-600 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-600 prose-li:leading-[1.85]"
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
 
