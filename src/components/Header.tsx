@@ -27,6 +27,26 @@ export default function Header() {
             SHOP
           </a>
         </nav>
+        <form action="/search" method="get" className="hidden md:flex items-center gap-2">
+          <input
+            type="search"
+            name="q"
+            placeholder="記事を検索"
+            className="w-44 rounded-full border border-gray-200 bg-white px-4 py-2 text-xs text-gray-700 placeholder:text-gray-400 focus:border-teal-600 focus:outline-none"
+          />
+          <button
+            type="submit"
+            className="rounded-full bg-gray-900 px-4 py-2 text-xs font-semibold text-white hover:bg-gray-700 transition-colors"
+          >
+            検索
+          </button>
+        </form>
+        <Link
+          href="/search"
+          className="md:hidden rounded-full border border-gray-200 px-3 py-1.5 text-xs font-semibold text-gray-700"
+        >
+          検索
+        </Link>
       </div>
     </header>
   );
