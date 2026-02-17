@@ -1,16 +1,13 @@
 import { Metadata } from "next";
 import { getPostsByCategory } from "@/lib/posts";
-import { getCategoryBySlug } from "@/lib/categories";
-import CategoryList from "@/components/CategoryList";
-
-const category = getCategoryBySlug("species")!;
+import SpeciesDirectory from "@/components/SpeciesDirectory";
 
 export const metadata: Metadata = {
-  title: category.name,
-  description: category.description,
+  title: "植物図鑑",
+  description: "属ごとに観葉植物の特徴・品種・育て方を解説",
 };
 
 export default function SpeciesPage() {
   const posts = getPostsByCategory("species");
-  return <CategoryList posts={posts} title={category.name} description={category.description} />;
+  return <SpeciesDirectory posts={posts} />;
 }

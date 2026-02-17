@@ -6,6 +6,7 @@ date: "2026-02-17"
 category: "species"
 tags: ["ウンベラータ", "フィカス", "図鑑", "インテリア", "大型観葉植物"]
 author: "tokyoplants 編集部"
+genus: "ficus"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"

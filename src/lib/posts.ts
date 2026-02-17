@@ -23,6 +23,7 @@ export interface PostMeta {
   date: string;
   author: string;
   image?: string;
+  genus?: string;
   relatedSlugs?: string[]; // "category/slug" 形式
   baseProducts?: BaseProduct[];
 }
@@ -51,6 +52,7 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
       date: data.date ?? "",
       author: data.author ?? "",
       image: data.image,
+      genus: data.genus,
       relatedSlugs: data.relatedSlugs,
       baseProducts: data.baseProducts,
     } satisfies PostMeta;
@@ -82,6 +84,7 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
     date: data.date ?? "",
     author: data.author ?? "",
     image: data.image,
+    genus: data.genus,
     relatedSlugs: data.relatedSlugs,
     baseProducts: data.baseProducts,
     contentHtml,
