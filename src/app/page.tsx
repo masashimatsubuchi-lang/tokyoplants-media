@@ -1,11 +1,11 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Noto_Serif_JP } from "next/font/google";
+import { Noto_Sans_JP } from "next/font/google";
 import { getAllPosts, getPostsByCategory } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
 
-const heroSerif = Noto_Serif_JP({
+const heroSans = Noto_Sans_JP({
   subsets: ["latin"],
   weight: ["500", "700"],
 });
@@ -34,7 +34,7 @@ export default function Home() {
         <div className="relative py-32 md:py-44">
           <div className="mx-auto max-w-5xl px-4">
             <div className="mx-auto max-w-3xl rounded-3xl border border-white/60 bg-white/45 px-8 py-14 text-center shadow-[0_20px_70px_-30px_rgba(15,23,42,0.6)] backdrop-blur-md md:px-14 md:py-20">
-              <h1 className={`${heroSerif.className} text-4xl md:text-6xl font-bold tracking-[0.03em] text-slate-900 leading-[1.35]`}>
+              <h1 className={`${heroSans.className} whitespace-nowrap text-[clamp(1.6rem,5vw,4.5rem)] font-bold tracking-[0.08em] text-slate-900 leading-[1.25]`}>
                 観葉植物を知り、育てる。
               </h1>
               <p className="mt-6 text-sm tracking-[0.14em] text-slate-500">
