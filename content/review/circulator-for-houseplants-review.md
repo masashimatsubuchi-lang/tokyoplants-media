@@ -1,5 +1,5 @@
 ---
-image: "/images/DSCF9895.jpg"
+image: "https://images.unsplash.com/photo-1721570799675-219f44e44d17?w=1200&q=80"
 title: "観葉植物向けサーキュレーター比較"
 description: "観葉植物向けサーキュレーターの選び方と比較ポイントを解説。風量、静音性、首振り、電気代の観点でレビューします。"
 date: "2026-02-17"

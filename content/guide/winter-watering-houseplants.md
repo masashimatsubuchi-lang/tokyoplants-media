@@ -1,5 +1,5 @@
 ---
-image: "/images/DSC07898.jpg"
+image: "https://images.unsplash.com/photo-1619158450110-b47355359742?w=1200&q=80"
 title: "観葉植物の冬の水やり完全ガイド"
 description: "観葉植物の冬の水やり頻度・時間帯・暖房環境での注意点を解説。根腐れと水切れを防ぐ具体策がわかります。"
 date: "2026-02-17"

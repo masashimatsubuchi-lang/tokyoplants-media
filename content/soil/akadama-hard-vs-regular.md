@@ -1,5 +1,5 @@
 ---
-image: "/images/DSCF9360.jpg"
+image: "https://images.unsplash.com/photo-1712912828040-54e51184b9fa?w=1200&q=80"
 title: "硬質赤玉土と普通赤玉土の違い"
 description: "硬質赤玉土と普通赤玉土の違いを比較。崩れやすさ、排水性、再利用性、観葉植物での使い分けを解説します。"
 date: "2026-02-17"
