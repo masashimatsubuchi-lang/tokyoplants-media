@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1667847624472-404fba0fef4a?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1619158450110-b47355359742?auto=format&fit=crop&w=1200&q=80"
 title: "窓の方角で光量はどれだけ違う？室内観葉植物の実測データ"
 description: "東西南北の窓際で照度を実測し、観葉植物に適した置き場所を比較。方角別の特徴と管理のコツをまとめました。"
 date: "2026-02-17"
