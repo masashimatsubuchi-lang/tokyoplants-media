@@ -25,3 +25,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Fix overlapping link click areas in prose content */
+.prose a {
+  position: relative;
+  z-index: 1;
+}
+
+.prose p > a:only-child {
+  display: inline-block;
+}
