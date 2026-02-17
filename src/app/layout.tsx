@@ -15,6 +15,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const GA_ID = "G-F1NSGZ0BQ6";
+
 export const metadata: Metadata = {
   metadataBase: new URL("https://media.tokyoplants.com"),
   applicationName: "tokyoplants media",
@@ -98,7 +100,7 @@ export default function RootLayout({
     <html lang="ja">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-F1NSGZ0BQ6"
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -106,7 +108,7 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-F1NSGZ0BQ6');
+            gtag('config', '${GA_ID}', { send_page_view: true });
           `}
         </Script>
         <script
