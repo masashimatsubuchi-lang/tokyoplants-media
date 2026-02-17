@@ -34,7 +34,7 @@ export default function Home() {
         <div className="relative py-32 md:py-44">
           <div className="mx-auto max-w-5xl px-4">
             <div className="mx-auto max-w-3xl rounded-3xl border border-white/60 bg-white/45 px-8 py-14 text-center shadow-[0_20px_70px_-30px_rgba(15,23,42,0.6)] backdrop-blur-md md:px-14 md:py-20">
-              <h1 className={`${heroSans.className} whitespace-nowrap text-[clamp(1.45rem,4.1vw,3.8rem)] font-bold tracking-[0.06em] text-slate-900 leading-[1.2]`}>
+              <h1 className={`${heroSans.className} inline-block whitespace-nowrap text-center text-[clamp(1.2rem,3.1vw,2.8rem)] font-bold tracking-[0.04em] text-slate-900 leading-[1.2]`}>
                 観葉植物を知り、育てる。
               </h1>
               <p className="mt-6 text-sm tracking-[0.14em] text-slate-500">
