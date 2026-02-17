@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1597055181300-e363c4cce119?w=800&q=80"
+image: "https://images.unsplash.com/photo-1711289561042-80960f29b572?w=800&q=80"
 title: "アロカシア・フライデック｜白葉脈が映える育て方"
 description: "アロカシア・フライデックの基本情報、ベルベット葉の特徴、育て方、休眠期の管理とトラブル対策を解説します。"
 date: "2026-02-17"

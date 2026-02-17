@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1586093248292-4f4981a0a2c6?w=800&q=80"
+image: "https://images.unsplash.com/photo-1711288889145-46a79c570e53?w=800&q=80"
 title: "アグラオネマ・ピクタム トリカラー｜迷彩葉の育て方"
 description: "アグラオネマ・ピクタム トリカラーの特徴、迷彩模様の個体差、育て方、蒸れと乾燥のバランス管理を解説します。"
 date: "2026-02-17"
