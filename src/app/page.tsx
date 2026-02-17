@@ -14,39 +14,50 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="relative overflow-hidden">
+      <section className="relative isolate overflow-hidden">
         <Image
           src="https://images.unsplash.com/photo-1628246499185-54f441171885?w=1600&q=80"
           alt="観葉植物"
           fill
           priority
           sizes="100vw"
-          className="object-cover"
+          className="object-cover scale-[1.03]"
         />
-        <div className="absolute inset-0 bg-white/70" />
-        <div className="relative py-36 md:py-48">
-          <div className="mx-auto max-w-5xl px-4 text-center">
-            <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-gray-900 leading-tight">
-              観葉植物専門メディア
-            </h1>
-            <p className="mt-5 text-sm md:text-base leading-relaxed text-gray-500">
-              育て方・図鑑・トラブル解決ガイド
-            </p>
-            <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link
-                href="/soil"
-                className="inline-block rounded-full bg-teal-700 px-8 py-3 text-sm font-semibold text-white hover:bg-teal-800 transition-colors"
-              >
-                記事を読む
-              </Link>
-              <a
-                href="https://www.tokyoplants.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block rounded-full border border-gray-400 bg-white/60 px-8 py-3 text-sm font-semibold text-gray-700 hover:bg-white hover:border-gray-500 transition-colors"
-              >
-                ショップを見る
-              </a>
+        <div className="absolute inset-0 bg-gradient-to-br from-white/75 via-white/60 to-emerald-100/55" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_10%,rgba(15,118,110,0.25),transparent_40%),radial-gradient(circle_at_80%_80%,rgba(20,83,45,0.2),transparent_45%)]" />
+        <div className="relative py-28 md:py-36">
+          <div className="mx-auto max-w-5xl px-4">
+            <div className="mx-auto max-w-3xl rounded-3xl border border-white/60 bg-white/45 px-6 py-10 text-center shadow-[0_20px_70px_-30px_rgba(15,23,42,0.6)] backdrop-blur-md md:px-10 md:py-14">
+              <p className="inline-flex items-center rounded-full border border-emerald-700/20 bg-emerald-50/70 px-4 py-1.5 text-[11px] font-semibold tracking-[0.16em] text-emerald-800">
+                TOKYOPLANTS MEDIA
+              </p>
+              <h1 className="mt-5 text-3xl md:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight">
+                観葉植物専門メディア
+              </h1>
+              <p className="mt-5 text-sm md:text-base leading-relaxed text-slate-600">
+                育て方・図鑑・トラブル解決ガイド
+              </p>
+              <div className="mt-10 flex flex-wrap items-center justify-center gap-2 text-[11px] font-semibold text-emerald-900/90">
+                <span className="rounded-full border border-emerald-700/20 bg-white/70 px-3 py-1.5">実践ベースの記事</span>
+                <span className="rounded-full border border-emerald-700/20 bg-white/70 px-3 py-1.5">カテゴリ横断で検索可能</span>
+                <span className="rounded-full border border-emerald-700/20 bg-white/70 px-3 py-1.5">土・育成ノウハウを集約</span>
+              </div>
+              <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+                <Link
+                  href="/soil"
+                  className="inline-block rounded-full bg-teal-700 px-8 py-3 text-sm font-semibold text-white shadow-lg shadow-teal-900/20 hover:bg-teal-800 transition-colors"
+                >
+                  記事を読む
+                </Link>
+                <a
+                  href="https://www.tokyoplants.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block rounded-full border border-slate-400/60 bg-white/70 px-8 py-3 text-sm font-semibold text-slate-700 hover:bg-white hover:border-slate-500 transition-colors"
+                >
+                  ショップを見る
+                </a>
+              </div>
             </div>
           </div>
         </div>
