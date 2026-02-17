@@ -117,15 +117,17 @@ baseProducts:
 
 手順全体は次の記事で詳細化しています。
 
-- [植え替え時の土選び完全ガイド](https://media.tokyoplants.com/soil/repotting-soil-guide)
-- [土を入れ替えるタイミング](https://media.tokyoplants.com/soil/when-to-replace-soil)
+[植え替え時の土選び完全ガイド](https://media.tokyoplants.com/soil/repotting-soil-guide)
+
+[土を入れ替えるタイミング](https://media.tokyoplants.com/soil/when-to-replace-soil)
 
 ### 6. 鉢底石や赤玉土の扱いを標準化する
 
 土のトラブルは、補助資材の使い方でも変わります。
 
-- [鉢底石は必要か？使い方の基準](https://media.tokyoplants.com/soil/drainage-stones-guide)
-- [硬質赤玉土と通常赤玉土の違い](https://media.tokyoplants.com/soil/akadama-hard-vs-regular)
+[鉢底石は必要か？使い方の基準](https://media.tokyoplants.com/soil/drainage-stones-guide)
+
+[硬質赤玉土と通常赤玉土の違い](https://media.tokyoplants.com/soil/akadama-hard-vs-regular)
 
 「何となく入れる」ではなく、目的を明確にして使うことが重要です。
 
@@ -133,9 +135,11 @@ baseProducts:
 
 同じ観葉植物カテゴリでも、根の性質で最適土は変わります。
 
-- [モンステラ向けの土](https://media.tokyoplants.com/soil/best-soil-for-monstera)
-- [ポトス向けの土](https://media.tokyoplants.com/soil/best-soil-for-pothos)
-- [パキラ向けの土](https://media.tokyoplants.com/soil/best-soil-for-pachira)
+[モンステラ向けの土](https://media.tokyoplants.com/soil/best-soil-for-monstera)
+
+[ポトス向けの土](https://media.tokyoplants.com/soil/best-soil-for-pothos)
+
+[パキラ向けの土](https://media.tokyoplants.com/soil/best-soil-for-pachira)
 
 ここで重要なのは「植物特性に合わせる」だけでなく、「自分の置き場に合わせる」ことです。植物別記事は最終調整の参考として使うのが効率的です。
 
