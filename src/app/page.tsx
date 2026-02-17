@@ -28,20 +28,12 @@ export default function Home() {
         <div className="relative py-28 md:py-36">
           <div className="mx-auto max-w-5xl px-4">
             <div className="mx-auto max-w-3xl rounded-3xl border border-white/60 bg-white/45 px-6 py-10 text-center shadow-[0_20px_70px_-30px_rgba(15,23,42,0.6)] backdrop-blur-md md:px-10 md:py-14">
-              <p className="inline-flex items-center rounded-full border border-emerald-700/20 bg-emerald-50/70 px-4 py-1.5 text-[11px] font-semibold tracking-[0.16em] text-emerald-800">
-                TOKYOPLANTS MEDIA
-              </p>
-              <h1 className="mt-5 text-3xl md:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight">
+              <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight">
                 観葉植物専門メディア
               </h1>
               <p className="mt-5 text-sm md:text-base leading-relaxed text-slate-600">
                 育て方・図鑑・トラブル解決ガイド
               </p>
-              <div className="mt-10 flex flex-wrap items-center justify-center gap-2 text-[11px] font-semibold text-emerald-900/90">
-                <span className="rounded-full border border-emerald-700/20 bg-white/70 px-3 py-1.5">実践ベースの記事</span>
-                <span className="rounded-full border border-emerald-700/20 bg-white/70 px-3 py-1.5">カテゴリ横断で検索可能</span>
-                <span className="rounded-full border border-emerald-700/20 bg-white/70 px-3 py-1.5">土・育成ノウハウを集約</span>
-              </div>
               <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
                 <Link
                   href="/soil"
