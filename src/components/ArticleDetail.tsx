@@ -82,6 +82,27 @@ export default function ArticleDetail({ post }: { post: Post }) {
               </div>
             </header>
 
+            {/* Species Pills for Genus Pages */}
+            {isGenusPage && speciesPosts.length > 0 && (
+              <nav className="mt-8 rounded-xl border border-teal-100 bg-teal-50/30 px-4 py-3">
+                <p className="text-[11px] font-semibold uppercase tracking-[0.15em] text-teal-700 mb-2">品種別の図鑑</p>
+                <div className="flex flex-wrap gap-2">
+                  {speciesPosts.map((sp) => (
+                    <Link
+                      key={`${sp.category}-${sp.slug}`}
+                      href={`/${sp.category}/${sp.slug}`}
+                      className="inline-flex items-center gap-1.5 rounded-full border border-teal-200 bg-white px-3 py-1.5 text-[13px] font-medium text-zinc-700 transition-colors hover:border-teal-400 hover:bg-teal-50 hover:text-teal-800"
+                    >
+                      {sp.image && (
+                        <Image src={sp.image} alt="" width={20} height={20} className="rounded-full object-cover" />
+                      )}
+                      <span>{sp.title.replace(/\|.*$/, "").replace(/図鑑$/, "").trim()}</span>
+                    </Link>
+                  ))}
+                </div>
+              </nav>
+            )}
+
             {/* Content */}
             <div
               className="prose prose-zinc mt-10 max-w-none prose-headings:scroll-mt-28 prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-700 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-700 prose-li:leading-[1.85]"
@@ -95,18 +116,6 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 <div className="mt-5 grid gap-6 md:grid-cols-3">
                   {nextReads.map((item) => (
                     <ArticleCard key={`${item.category}-${item.slug}`} post={item} />
-                  ))}
-                </div>
-              </section>
-            )}
-
-            {/* Species Cards for Genus Pages */}
-            {isGenusPage && speciesPosts.length > 0 && (
-              <section className="mt-12">
-                <h2 className="text-lg font-bold text-gray-900">品種別の図鑑記事</h2>
-                <div className="mt-4 grid gap-6 sm:grid-cols-2">
-                  {speciesPosts.map((sp) => (
-                    <ArticleCard key={`${sp.category}-${sp.slug}`} post={sp} />
                   ))}
                 </div>
               </section>
