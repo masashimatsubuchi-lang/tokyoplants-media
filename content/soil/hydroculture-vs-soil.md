@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1501004318855-b174af8f4023?w=800&q=80"
+image: "https://images.unsplash.com/photo-1622210445956-ca3320a5e7c5?w=800&q=80"
 title: "ハイドロカルチャーと土栽培の違い｜観葉植物にはどちらが良い？"
 description: "観葉植物のハイドロカルチャーと土栽培を徹底比較。メリット・デメリット、向いている植物、コスト、管理のしやすさの違いを解説。"
 date: "2026-02-18"
