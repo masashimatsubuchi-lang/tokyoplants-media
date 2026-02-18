@@ -93,7 +93,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
                       href={`/${sp.category}/${sp.slug}`}
                       className="rounded-full border border-teal-200 bg-white px-3 py-1.5 text-[13px] font-medium text-zinc-700 transition-colors hover:border-teal-400 hover:bg-teal-50 hover:text-teal-800"
                     >
-                      {sp.title.replace(/[｜|].*/s, "").replace(/図鑑$/, "").trim()}
+                      {sp.title.replace(/[｜|][\s\S]*/, "").replace(/図鑑$/, "").trim()}
                     </Link>
                   ))}
                 </div>
