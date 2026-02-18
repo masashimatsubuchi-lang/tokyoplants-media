@@ -91,12 +91,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
                     <Link
                       key={`${sp.category}-${sp.slug}`}
                       href={`/${sp.category}/${sp.slug}`}
-                      className="inline-flex items-center gap-1.5 rounded-full border border-teal-200 bg-white px-3 py-1.5 text-[13px] font-medium text-zinc-700 transition-colors hover:border-teal-400 hover:bg-teal-50 hover:text-teal-800"
+                      className="rounded-full border border-teal-200 bg-white px-3 py-1.5 text-[13px] font-medium text-zinc-700 transition-colors hover:border-teal-400 hover:bg-teal-50 hover:text-teal-800"
                     >
-                      {sp.image && (
-                        <Image src={sp.image} alt="" width={20} height={20} className="rounded-full object-cover" />
-                      )}
-                      <span>{sp.title.replace(/\|.*$/, "").replace(/図鑑$/, "").trim()}</span>
+                      {sp.title.replace(/[｜|].*/s, "").replace(/図鑑$/, "").trim()}
                     </Link>
                   ))}
                 </div>
