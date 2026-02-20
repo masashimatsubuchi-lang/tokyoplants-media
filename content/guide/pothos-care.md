@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 ポトスは丈夫で育てやすく、初心者に最もおすすめできる観葉植物のひとつです。100均やホームセンターでも手軽に手に入り、つるを伸ばして成長する姿はインテリアとしても優秀。しかし「葉が黄色くなってきた」「伸びすぎて見た目が悪い」「水やりの頻度がわからない」といった悩みを持つ方も少なくありません。この記事では、ポトスを元気に長く育てるための基本をまとめました。

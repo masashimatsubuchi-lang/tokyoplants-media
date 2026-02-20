@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 「そろそろ植え替えたいけど、どの土を使えばいいかわからない」——これは観葉植物を育て始めた多くの人が最初にぶつかる壁です。ホームセンターで土を買ってきたら虫が湧いた、水はけが悪くて根腐れした。こうした失敗のほとんどは、土の選び方を知らなかっただけです。

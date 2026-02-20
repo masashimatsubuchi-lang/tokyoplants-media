@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 3〜4月は引っ越しが増える時期で、観葉植物のダメージ相談も増えます。輸送中の低温・揺れ・乾燥で、到着後に黄変や萎れが出るケースが多いのが実態です。

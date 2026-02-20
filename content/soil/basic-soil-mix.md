@@ -13,6 +13,9 @@ baseProducts:
   - title: "観葉植物の土 プレミアム 12L"
     url: "https://www.tokyoplants.com/items/000004"
     price: "¥1,480"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 ## はじめに

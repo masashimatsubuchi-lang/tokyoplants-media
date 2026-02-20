@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 観葉植物の土は100均で110円から買えます。一方で、専門店の土は1,000円以上するものもあります。この価格差は何なのか。高い土を買う意味はあるのか。多くの人が一度は疑問に思うことです。

@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 東京の希少観葉植物市場は、単に「店数が多い」だけで成立しているわけではありません。輸入規制対応、国内ナーサリーとの連携、都心立地の回転率、SNSによる需要形成が同時に動くことで、短期間で相場と在庫が変化する市場になっています。この記事では、店舗紹介を目的化せず、東京で希少種が流通する構造を先に分解したうえで、公式情報に基づいて専門店の使い分けを整理します。

@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 「鉢の近くで変な匂いがする」「水やりのたびに土から嫌な臭いがする」——観葉植物の土が臭いと感じたら、それは土や根に問題が起きているサインです。

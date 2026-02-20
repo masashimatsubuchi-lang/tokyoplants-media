@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 「水やりをしているのに、葉が黄色くなって元気がない」。その原因、根腐れかもしれません。根腐れは観葉植物が枯れる原因の第1位ですが、早期に気づけば復活の可能性は十分にあります。この記事では、根腐れの原因を特定し、復活させるための具体的な手順を解説します。

@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 3月は冬管理から春管理へ切り替わる移行月です。この時期に管理を更新できるかで、4〜6月の生育差が大きくなります。この記事では、3月に優先すべき作業を順序化します。

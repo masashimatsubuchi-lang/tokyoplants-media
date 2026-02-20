@@ -15,6 +15,9 @@ baseProducts:
   - title: "ウンベラータの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 ## 基本情報

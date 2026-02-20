@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 「植え替えは春がいい」と聞くけれど、具体的に何月がベストなのか。今の時期にやっても大丈夫なのか。植え替えの時期を間違えると、植物に大きなストレスを与え、最悪の場合枯れてしまいます。

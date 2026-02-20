@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 葉水は観葉植物の管理において欠かせない基本のケアです。乾燥を防ぎ、ハダニなどの害虫予防にもなり、葉のツヤを保つ効果もあります。しかし、100均の霧吹きと専用品では霧の質がまるで違います。粗い水滴がボタボタと垂れるか、きめ細かいミストが葉全体を包むか――その差は植物の状態に直結します。

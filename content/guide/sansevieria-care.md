@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 「サンスベリアは枯れない」と聞いて購入したのに、冬を越せずにダメにしてしまった――そんな経験はないだろうか。たしかにサンスベリアは丈夫な植物だが、管理を間違えるとあっけなく枯れてしまう。特に冬場の水やりが最大の落とし穴だ。正しい育て方を押さえれば、10年以上つき合える頼もしいパートナーになる。この記事では、サンスベリアを長く楽しむための具体的な管理方法を解説する。

@@ -10,6 +10,9 @@ baseProducts:
   - title: "植物育成LEDライト クリップ式"
     url: "https://www.tokyoplants.com/items/000005"
     price: "¥2,980"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 ## はじめに

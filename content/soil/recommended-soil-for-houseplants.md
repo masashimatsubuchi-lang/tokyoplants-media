@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 観葉植物の土は「なんとなく」で選ぶと失敗します。室内で育てるなら、水はけ・通気性・清潔さの3つが揃った用土が必須です。この記事では、実際に多くの観葉植物を扱ってきた専門店の視点から、本当に使える土だけを厳選して紹介します。

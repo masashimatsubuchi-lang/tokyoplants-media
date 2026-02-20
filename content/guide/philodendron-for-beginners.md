@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 フィロデンドロンは、サトイモ科の中でも特に育てやすいグループです。種類が非常に多く、コンパクトなものから大型のものまで、初心者でも失敗しにくい品種が豊富に揃っています。この記事では、初めてフィロデンドロンを育てる方に向けて、おすすめの品種と基本の管理方法を紹介します。

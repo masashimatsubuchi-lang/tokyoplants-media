@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 観葉植物を長く育てていると、必ず必要になるのが植え替えです。しかし「いつやればいいの？」「やり方がわからない」と後回しにしている方も多いのではないでしょうか。植え替えは植物の健康を大きく左右する重要な作業です。この記事では、初心者でも迷わず実践できるよう、植え替えの全工程を詳しく解説します。

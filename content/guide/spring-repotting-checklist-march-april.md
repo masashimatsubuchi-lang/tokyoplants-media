@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 春は植え替え需要が急増する時期ですが、準備不足で失敗するケースも増えます。この記事は、3〜4月に植え替えを始める前提で、実施可否を判断するチェックリストを提供します。

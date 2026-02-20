@@ -15,6 +15,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 観葉植物の葉が黄色くなると、多くの人は「水不足か水のやりすぎか」の二択で判断しがちです。しかし実際には、黄化は複数要因が重なって発生することが多く、単発の対処だけでは再発しやすい症状です。特に室内管理では、光量不足・通気不足・土の劣化・根の傷み・肥料濃度・害虫被害が同時進行するケースが珍しくありません。

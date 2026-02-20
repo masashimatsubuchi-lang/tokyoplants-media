@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 観葉植物の鉢から小さな虫が飛び出す。室内で植物を育てている人なら、一度は経験したことがあるのではないでしょうか。結論から言えば、虫が湧く原因のほとんどは「土」にあります。土の選び方と管理方法を変えるだけで、虫の悩みは大幅に減らせます。

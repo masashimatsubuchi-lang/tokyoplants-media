@@ -21,6 +21,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 観葉植物の管理で、もっとも差が出るのは「水やりの回数」ではなく「土の設計」です。葉が黄色くなる、成長が止まる、虫が出る、カビが出る、植え替え後に弱る。これらの不調は、それぞれ別問題に見えても、土の通気性・排水性・保水性・保肥性のバランスで説明できます。

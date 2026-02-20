@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 「一回り大きい鉢に植え替える」と言われても、一回りとはどのくらいなのか。素材は何がいいのか。底穴はいくつ必要なのか——鉢選びには意外と多くの判断ポイントがあります。

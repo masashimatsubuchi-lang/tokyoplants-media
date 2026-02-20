@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 吊り鉢で育てたいけど重くて不安。ベランダの耐荷重が心配。鉢の移動が大変——こうした悩みは、軽い土を選ぶことで解決できます。
