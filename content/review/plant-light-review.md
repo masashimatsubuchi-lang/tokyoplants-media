@@ -13,6 +13,13 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "クリップ式 植物育成ライト"
+    url: "https://www.amazon.co.jp/s?k=%E3%82%AF%E3%83%AA%E3%83%83%E3%83%97%E5%BC%8F+%E6%A4%8D%E7%89%A9%E8%82%B2%E6%88%90%E3%83%A9%E3%82%A4%E3%83%88"
+    note: "小型株向け。設置自由度が高いタイプ"
+  - title: "フルスペクトル 植物ライト"
+    url: "https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%AB%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%83%AB+%E6%A4%8D%E7%89%A9%E3%83%A9%E3%82%A4%E3%83%88"
+    note: "複数鉢の補光を前提にした定番カテゴリ"
 ---
 
 ## はじめに

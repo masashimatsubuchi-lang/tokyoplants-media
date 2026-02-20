@@ -17,6 +17,13 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "DCモーター サーキュレーター"
+    url: "https://www.amazon.co.jp/s?k=dc+%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC"
+    note: "弱風の連続運転に向くモデルを比較"
+  - title: "上下左右 首振りサーキュレーター"
+    url: "https://www.amazon.co.jp/s?k=%E4%B8%8A%E4%B8%8B%E5%B7%A6%E5%8F%B3+%E9%A6%96%E6%8C%AF%E3%82%8A+%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC"
+    note: "棚上段と床置きを同時に回したい方向け"
 ---
 
 # 観葉植物向けサーキュレーター比較

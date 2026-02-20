@@ -17,6 +17,13 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "観葉植物用 培養土"
+    url: "https://www.amazon.co.jp/s?k=%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9+%E5%9F%B9%E9%A4%8A%E5%9C%9F"
+    note: "排水性・通気性を軸に比較しやすいカテゴリ"
+  - title: "赤玉土 小粒"
+    url: "https://www.amazon.co.jp/s?k=%E8%B5%A4%E7%8E%89%E5%9C%9F+%E5%B0%8F%E7%B2%92"
+    note: "自作配合のベース材として使用頻度が高い資材"
 ---
 
 # 観葉植物の土を徹底比較｜市販5タイプの特徴と選び方

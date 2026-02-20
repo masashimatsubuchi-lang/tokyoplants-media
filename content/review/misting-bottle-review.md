@@ -17,6 +17,13 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "蓄圧式 霧吹き"
+    url: "https://www.amazon.co.jp/s?k=%E8%93%84%E5%9C%A7%E5%BC%8F+%E9%9C%A7%E5%90%B9%E3%81%8D"
+    note: "連続噴霧がしやすく株数が多い環境向け"
+  - title: "電動 ミストスプレー"
+    url: "https://www.amazon.co.jp/s?k=%E9%9B%BB%E5%8B%95+%E3%83%9F%E3%82%B9%E3%83%88%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC"
+    note: "細霧重視で葉面に均一に散布しやすいタイプ"
 ---
 
 葉水は観葉植物の管理において欠かせない基本のケアです。乾燥を防ぎ、ハダニなどの害虫予防にもなり、葉のツヤを保つ効果もあります。しかし、100均の霧吹きと専用品では霧の質がまるで違います。粗い水滴がボタボタと垂れるか、きめ細かいミストが葉全体を包むか――その差は植物の状態に直結します。
