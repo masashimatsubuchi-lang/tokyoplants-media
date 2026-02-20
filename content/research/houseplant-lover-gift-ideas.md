@@ -27,6 +27,7 @@ amazonProducts:
   - title: "プロトリーフ 室内向け観葉・多肉の土 8.4L"
     asin: "B07BG6VZPR"
     note: "Amazon評価 4.4 / 4,148件（2026-02-20取得）"
+hideAmazonBlock: true
 ---
 
 「観葉植物が好きな人にプレゼントを贈りたいけど、何を選べばいいかわからない」——そんな悩みを持つ方は多いはずです。
@@ -93,6 +94,10 @@ tokyoplants のオリジナルアイテム。モンステラ、アンスリウ�
 
 真鍮やガラス製のデザイン性の高い霧吹きは、植物好きの日常を少し豊かにしてくれるアイテムです。毎日の葉水に使うものだからこそ、見た目にもこだわりたい。
 
+[![フルプラ ダイヤスプレー エクセレント500](https://m.media-amazon.com/images/I/51Vjlka5HpL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B001HPEIWI?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B001HPEIWI?tag=tokyoplants0f-22)  
+Amazon評価: 4.3 / 1,579件（2026-02-20取得）
+
 ### 6. 鉢カバー・プランターカバー
 
 **¥2,000〜5,000円**
@@ -113,6 +118,10 @@ tokyoplants のオリジナルアイテム。モンステラ、アンスリウ�
 
 日当たりの悪い部屋でも植物を育てられる育成ライト。本格的なものは自分ではなかなか買わないので、プレゼントとして最適です。
 
+[![BRIM FLORA クリップ式 植物育成ライト](https://m.media-amazon.com/images/I/81nywh0p0lL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B0CLD6QSDD?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0CLD6QSDD?tag=tokyoplants0f-22)  
+Amazon評価: 4.3 / 741件（2026-02-20取得）
+
 ### 9. おしゃれなジョウロ
 
 **¥5,000〜8,000円**
@@ -124,6 +133,10 @@ HAWSなどの老舗ブランドのジョウロは、実用性とデザイン性�
 **¥3,200〜**
 
 tokyoplants のリーフタオルとオリジナル用土『 I'm original SOIL 』を組み合わせたセット。「使うもの」と「育てるもの」を一緒に贈ることで、植物のある暮らし全体を提案できます。
+
+[![プロトリーフ 室内向け観葉・多肉の土 8.4L](https://m.media-amazon.com/images/I/717pVsHXbML._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B07BG6VZPR?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B07BG6VZPR?tag=tokyoplants0f-22)  
+Amazon評価: 4.4 / 4,148件（2026-02-20取得）
 
 ## 避けた方がいいプレゼント
 

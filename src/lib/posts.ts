@@ -37,6 +37,7 @@ export interface PostMeta {
   relatedSlugs?: string[]; // "category/slug" 形式
   baseProducts?: BaseProduct[];
   amazonProducts?: AmazonProduct[];
+  hideAmazonBlock?: boolean;
 }
 
 export interface Post extends PostMeta {
@@ -68,6 +69,7 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
       relatedSlugs: data.relatedSlugs,
       baseProducts: data.baseProducts,
       amazonProducts: data.amazonProducts,
+      hideAmazonBlock: data.hideAmazonBlock,
     } satisfies PostMeta;
   });
 
@@ -102,6 +104,7 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
     relatedSlugs: data.relatedSlugs,
     baseProducts: data.baseProducts,
     amazonProducts: data.amazonProducts,
+    hideAmazonBlock: data.hideAmazonBlock,
     contentHtml,
   };
 }

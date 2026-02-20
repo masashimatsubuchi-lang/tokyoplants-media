@@ -24,9 +24,10 @@ amazonProducts:
   - title: "フルプラ ダイヤスプレー ピストル型 500"
     asin: "B001VJSBGE"
     note: "Amazon評価 4.2 / 1,378件（2026-02-20取得）"
-  - title: "フルプラ ダイヤスプレー ピストル型 500（レッド）"
-    asin: "B001VJXZL0"
-    note: "Amazon評価 4.2 / 1,378件（2026-02-20取得）"
+  - title: "HeGeed 電動霧吹き 2L"
+    asin: "B0G1M8RNNX"
+    note: "Amazon評価 4.6 / 28件（2026-02-20取得）"
+hideAmazonBlock: true
 ---
 
 葉水は観葉植物の管理において欠かせない基本のケアです。乾燥を防ぎ、ハダニなどの害虫予防にもなり、葉のツヤを保つ効果もあります。しかし、100均の霧吹きと専用品では霧の質がまるで違います。粗い水滴がボタボタと垂れるか、きめ細かいミストが葉全体を包むか――その差は植物の状態に直結します。
@@ -67,6 +68,11 @@ amazonProducts:
 
 ポンプで空気を溜めてから噴霧するタイプ。一度加圧すれば連続して細かいミストが出るため、植物が多い方に最適です。手の疲れが少なく、霧の粒子も非常に細かいのが特長です。
 
+[![フルプラ ダイヤスプレー エクセレント500](https://m.media-amazon.com/images/I/51Vjlka5HpL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B001HPEIWI?tag=tokyoplants0f-22)
+
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B001HPEIWI?tag=tokyoplants0f-22)  
+Amazon評価: 4.3 / 1,579件（2026-02-20取得）
+
 ### 2. トリガー式タイプ
 
 - **価格帯**: 800〜2,000円
@@ -75,6 +81,11 @@ amazonProducts:
 
 最も一般的なタイプ。園芸メーカーの製品は霧の細かさが調整できるものもあり、汎用性が高いです。手頃な価格で入手しやすく、初めての1本として安心して選べます。
 
+[![フルプラ ダイヤスプレー ピストル型 500](https://m.media-amazon.com/images/I/41ogReaSZcL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B001VJSBGE?tag=tokyoplants0f-22)
+
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B001VJSBGE?tag=tokyoplants0f-22)  
+Amazon評価: 4.2 / 1,378件（2026-02-20取得）
+
 ### 3. 電動ミストタイプ
 
 - **価格帯**: 2,000〜4,000円
@@ -82,6 +93,11 @@ amazonProducts:
 - **おすすめ度**: ★★★★☆
 
 ボタンを押すだけで自動噴霧する充電式タイプ。握力を使わないので手が疲れません。霧の粒子が極めて細かい製品が多く、繊細な植物のケアに向いています。充電の手間がある点だけ注意が必要です。
+
+[![HeGeed 電動霧吹き 2L](https://m.media-amazon.com/images/I/71l9PVaAf2L._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B0G1M8RNNX?tag=tokyoplants0f-22)
+
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0G1M8RNNX?tag=tokyoplants0f-22)  
+Amazon評価: 4.6 / 28件（2026-02-20取得）
 
 ### 4. ガラス製おしゃれタイプ
 

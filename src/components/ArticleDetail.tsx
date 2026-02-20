@@ -124,7 +124,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
               <BaseProductBlock products={post.baseProducts} />
             )}
 
-            {post.amazonProducts && post.amazonProducts.length > 0 && (
+            {!post.hideAmazonBlock && post.amazonProducts && post.amazonProducts.length > 0 && (
               <AmazonAffiliateBlock products={post.amazonProducts} />
             )}
 
