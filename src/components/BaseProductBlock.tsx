@@ -15,8 +15,9 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
-    // Fallback for the main tokyoplants soil product card.
-    return isSoilProduct(product) ? "/images/products/im-original-soil-main.jpg" : undefined;
+    if (isSoilProduct(product)) return "/images/products/im-original-soil-main.jpg";
+    if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
+    return undefined;
   };
 
   return (
