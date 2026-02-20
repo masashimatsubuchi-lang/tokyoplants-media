@@ -18,12 +18,15 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
 amazonProducts:
-  - title: "観葉植物用 培養土"
-    url: "https://www.amazon.co.jp/s?k=%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9+%E5%9F%B9%E9%A4%8A%E5%9C%9F"
-    note: "排水性・通気性を軸に比較しやすいカテゴリ"
-  - title: "赤玉土 小粒"
-    url: "https://www.amazon.co.jp/s?k=%E8%B5%A4%E7%8E%89%E5%9C%9F+%E5%B0%8F%E7%B2%92"
-    note: "自作配合のベース材として使用頻度が高い資材"
+  - title: "プロトリーフ 室内向け観葉・多肉の土 8.4L"
+    asin: "B07BG6VZPR"
+    note: "Amazon評価 4.4 / 4,148件（2026-02-20取得）"
+  - title: "花ごころ 観葉植物の土 5L"
+    asin: "B000IAA1XI"
+    note: "Amazon評価 4.2 / 3,098件（2026-02-20取得）"
+  - title: "花ごころ 観葉植物の土 12L"
+    asin: "B0023OA3JY"
+    note: "Amazon評価 4.2 / 3,098件（2026-02-20取得）"
 ---
 
 # 観葉植物の土を徹底比較｜市販5タイプの特徴と選び方
