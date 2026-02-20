@@ -3,12 +3,12 @@ image: "https://plus.unsplash.com/premium_photo-1680125268023-b726a02f3200?w=800
 title: "植物を置かなくてもできるボタニカルインテリアの始め方"
 description: "観葉植物を育てる自信がなくても大丈夫。植物モチーフの雑貨やファブリックで、手軽にボタニカルな空間を作る方法を紹介します。"
 date: "2026-02-20"
-category: "guide"
+category: "research"
 tags: ["ボタニカル", "インテリア", "植物モチーフ", "雑貨", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/daily-botanical-towel-review"
-  - "guide/houseplant-lover-gift-ideas"
+  - "research/houseplant-lover-gift-ideas"
   - "guide/monstera-care"
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"

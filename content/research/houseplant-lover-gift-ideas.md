@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1661699972347-122ab0bc4679?w=800
 title: "観葉植物好きが喜ぶプレゼント10選｜予算別おすすめギフト"
 description: "観葉植物好きな方へのプレゼント選びに迷っていませんか？予算1,000円〜5,000円超まで、植物好きが本当に喜ぶギフトを厳選して10個紹介します。"
 date: "2026-02-20"
-category: "guide"
+category: "research"
 tags: ["プレゼント", "ギフト", "観葉植物", "おすすめ", "予算別"]
 author: "tokyoplants 編集部"
 relatedSlugs:
