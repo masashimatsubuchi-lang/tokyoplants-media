@@ -1,5 +1,5 @@
 ---
-image: "/images/products/botanical-towel/hero.jpg"
+image: "/images/products/botanical-towel/product-on-table.jpg"
 title: "観葉植物モチーフのタオルで暮らしにグリーンを｜Daily Botanical Towel レビュー"
 description: "tokyoplants の Daily Botanical Towel を実際に使ってレビュー。希少植物のリーフデザイン全7種、マイクロファイバー素材の使い心地、ギフトとしての魅力を紹介します。"
 date: "2026-02-20"
@@ -26,7 +26,7 @@ baseProducts:
 
 tokyoplants が「希少な観葉植物を、もっと身近に」というコンセプトで開発したマイクロファイバータオルです。
 
-![アンスリウムモチーフのリーフタオル](/images/products/botanical-towel/product-on-table.jpg)
+![モンステラタオルを壁に飾ったようす](/images/products/botanical-towel/hero.jpg)
 
 | 項目 | 内容 |
 |------|------|
