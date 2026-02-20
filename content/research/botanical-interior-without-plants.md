@@ -17,6 +17,16 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ミニ インテリアグリーン 3点セット"
+    asin: "B07Z9B9YZ7"
+    note: "Amazon評価 4.2 / 1,224件（2026-02-20取得）"
+  - title: "光触媒フェイクグリーン モンステラ（国内製造）"
+    asin: "B07374RDJM"
+    note: "Amazon評価 4.0 / 526件（2026-02-20取得）"
+  - title: "光触媒ミニ観葉 3個セット"
+    asin: "B0B4ZV11SM"
+    note: "Amazon評価 4.2 / 188件（2026-02-20取得）"
 ---
 
 「植物のある暮らしに憧れるけど、枯らしてしまいそうで怖い」「日当たりが悪くて観葉植物を置けない」——そんな方でも、ボタニカルな空間は作れます。

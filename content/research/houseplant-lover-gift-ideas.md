@@ -17,6 +17,16 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "フルプラ ダイヤスプレー エクセレント500"
+    asin: "B001HPEIWI"
+    note: "Amazon評価 4.3 / 1,579件（2026-02-20取得）"
+  - title: "BRIM FLORA クリップ式 植物育成ライト"
+    asin: "B0CLD6QSDD"
+    note: "Amazon評価 4.3 / 741件（2026-02-20取得）"
+  - title: "プロトリーフ 室内向け観葉・多肉の土 8.4L"
+    asin: "B07BG6VZPR"
+    note: "Amazon評価 4.4 / 4,148件（2026-02-20取得）"
 ---
 
 「観葉植物が好きな人にプレゼントを贈りたいけど、何を選べばいいかわからない」——そんな悩みを持つ方は多いはずです。
