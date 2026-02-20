@@ -29,7 +29,7 @@ function buildAmazonUrl(product: AmazonProduct, associateTag?: string): string |
 export default function AmazonAffiliateBlock({ products }: { products: AmazonProduct[] }) {
   if (products.length === 0) return null;
 
-  const associateTag = process.env.AMAZON_ASSOCIATE_TAG;
+  const associateTag = process.env.AMAZON_ASSOCIATE_TAG || "tokyoplants0f-22";
 
   return (
     <section className="mt-8 rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50/70 via-white to-amber-50/40 p-6 md:p-7">
