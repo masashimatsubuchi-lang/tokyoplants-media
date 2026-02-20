@@ -14,6 +14,9 @@ baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"
     price: ""
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 ## モンステラ属とは

@@ -8,6 +8,10 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return soilKeywords.some((keyword) => product.title.includes(keyword)) || product.url.includes("/items/99620939");
   };
 
+  const isTowelProduct = (product: BaseProduct): boolean => {
+    return product.title.includes("Botanical Towel") || product.url.includes("/items/135803882");
+  };
+
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
@@ -35,6 +39,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           const isSoldOut = product.price === "SOLD OUT";
           const productImage = getProductImage(product);
           const isSoil = isSoilProduct(product);
+          const isTowel = isTowelProduct(product);
 
           return (
             <a
@@ -45,13 +50,13 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
                 isSoldOut
                   ? "border-gray-200 opacity-60 cursor-not-allowed"
-                  : isSoil
+                  : isSoil || isTowel
                     ? "border-emerald-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:shadow-md"
                     : "border-gray-200 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
               }`}
             >
               <div className={`flex items-center justify-center overflow-hidden rounded-xl border ${
-                isSoil
+                isSoil || isTowel
                   ? "h-24 w-24 border-emerald-200 bg-emerald-50/70"
                   : "h-20 w-20 border-emerald-100 bg-emerald-50"
               }`}>
@@ -83,6 +88,25 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         化学肥料不使用
+                      </span>
+                    </div>
+                  </>
+                )}
+                {isTowel && (
+                  <>
+                    <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
+                      希少植物のシルエットをモチーフにしたマイクロファイバータオル。
+                    </p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">サイズ: 約30cm × 20cm</p>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        マイクロファイバー
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        速乾・吸水
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        全7種
                       </span>
                     </div>
                   </>

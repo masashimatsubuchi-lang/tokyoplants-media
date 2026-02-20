@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物用 培養土 5L"
     url: "https://www.tokyoplants.com/items/000002"
     price: "¥1,280"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 ## モンステラとは

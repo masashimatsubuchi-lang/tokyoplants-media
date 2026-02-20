@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 アロカシアは、シャープな葉形と独特の葉脈模様が美しい熱帯植物です。SNSで人気が急上昇していますが、「買ったけどすぐ枯らしてしまった」という声も多い植物です。実はアロカシアには他の観葉植物とは異なるいくつかの特性があり、それを理解していないと管理を誤ります。この記事では、アロカシアを長く楽しむための育て方を解説します。

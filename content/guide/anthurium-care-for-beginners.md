@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Daily Botanical Towel｜リーフタオル"
+    url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
 ---
 
 アンスリウムは、光沢のある葉と鮮やかな仏炎苞（ぶつえんほう）が魅力の熱帯植物です。丈夫で育てやすいイメージがありますが、水やりと用土の選び方を間違えると簡単に根腐れします。この記事では、初心者が最初に押さえるべきポイントを、優先度の高い順に解説します。
