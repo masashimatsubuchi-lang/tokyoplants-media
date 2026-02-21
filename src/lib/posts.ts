@@ -88,7 +88,7 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
   const fileContents = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(fileContents);
 
-  const processedContent = await remark().use(remarkGfm).use(html, { allowDangerousHtml: true }).process(content);
+  const processedContent = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
   const contentHtml = processedContent.toString();
 
   return {
