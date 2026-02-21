@@ -18,6 +18,7 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+hideAmazonBlock: true
 amazonProducts:
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
     asin: "B0BXPKS4S7"
@@ -172,6 +173,16 @@ BARRELが開発した植物育成ライトの上位モデル。PPFDが20Wクラ�
 
 **注意点**: 照射範囲が狭く集中的、別途E26ソケット・スタンドが必要、色温度がやや高い
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0BXPKS4S7?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/51r6l+Jzg5L._AC_SL1000_.jpg" alt="BARREL NEO AMATERAS LED 20W" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
+<div>
+<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BARREL NEO AMATERAS LED 20W</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ### 2. BARREL TSUKUYOMI LED 20W（電球型）
 
 AMATERASの姉妹モデル。同じBARREL社の製品だが、設計思想が異なる。色温度は約4,000〜5,000Kとやや暖色寄りで、自然光に近い穏やかな光色が特徴。演色性はRa97とAMATERASと同等だが、スペクトルのバランスが異なり、赤色波長の比率がやや高い。
@@ -184,6 +195,16 @@ PPFDはAMATERASにわずかに劣るが、20Wクラスとしては十分に高�
 
 **注意点**: AMATERASに比べ徒長抑制効果はやや穏やか、別途E26ソケット・スタンドが必要
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0CV49M4PT?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/51ztqTqwsGS._AC_SL1000_.jpg" alt="BARREL TSUKUYOMI LED 20W" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
+<div>
+<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BARREL TSUKUYOMI LED 20W</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ### 3. BRIM SOL 24W（クリップ式）
 
 BRIM社のクリップ式育成ライト。24Wの出力でフルスペクトルLEDを搭載しており、クリップ式としてはPPFDが高めの部類に入る。棚や机の縁にクリップで固定でき、フレキシブルアームで角度調整が可能。
@@ -193,6 +214,16 @@ BRIM社のクリップ式育成ライト。24Wの出力でフルスペクトルL
 **強み**: クリップで即設置可能、24Wで十分な光量、角度調整が柔軟
 
 **注意点**: パネル型ほどの照射範囲はない、クリップの挟める厚さに制限あり
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0B3M47RQJ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL1500_.jpg" alt="BRIM SOL 24W" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
+<div>
+<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM SOL 24W 植物育成ライト</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
+</div>
+</a>
+</div>
 
 ### 4. BRIM FLORA クリップ式 植物育成ライト（クリップ式）
 
@@ -204,6 +235,16 @@ BRIM SOLと同シリーズのエントリーモデル。調光機能とタイマ
 
 **注意点**: PPFDは上位モデルに劣る、高光量種の主光源としては力不足の場合がある
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0CLD6QSDD?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL1500_.jpg" alt="BRIM FLORA クリップ式" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
+<div>
+<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM FLORA クリップ式 植物育成ライト</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ### 5. BRIM PANEL A パネル型 植物育成ライト（パネル型）
 
 BRIM社のパネル型育成ライト。面発光で広範囲を均一に照射でき、植物棚やメタルラックの上段に取り付けて使うのに適している。棚1段（幅60〜90cm程度）を1台でカバーでき、端の株までPPFDの落差が小さい。
@@ -213,6 +254,16 @@ BRIM社のパネル型育成ライト。面発光で広範囲を均一に照射�
 **強み**: 広範囲照射で均一性が高い、棚管理との相性がよい、1台で複数株をカバー
 
 **注意点**: 吊り下げ金具やフックの設置が必要、本体サイズがある程度大きい
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0CP4BVWMN?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL1500_.jpg" alt="BRIM PANEL A" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
+<div>
+<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM PANEL A 植物育成パネルライト</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
+</div>
+</a>
+</div>
 
 ---
 
