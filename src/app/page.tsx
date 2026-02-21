@@ -12,13 +12,17 @@ const heroSans = Noto_Sans_JP({
 
 export default function Home() {
   const allPosts = getAllPosts();
-  const soilPosts = getPostsByCategory("soil");
-  const editorsPickSlugs = ["houseplant-soil-hub-guide"];
-  const editorsPickSoil = editorsPickSlugs
-    .map((slug) => soilPosts.find((post) => post.slug === slug))
+  const editorsPickDefs = [
+    { category: "review", slug: "daily-botanical-towel-review" },
+    { category: "soil", slug: "houseplant-soil-hub-guide" },
+    { category: "guide", slug: "monstera-care" },
+  ];
+  const editorsPick = editorsPickDefs
+    .map((def) => allPosts.find((p) => p.category === def.category && p.slug === def.slug))
     .filter((post) => post !== undefined);
-  const otherSoil = soilPosts.filter((post) => !editorsPickSlugs.includes(post.slug)).slice(0, 2);
-  const guidePosts = getPostsByCategory("guide").slice(0, 3);
+  const editorsPickSlugs = new Set(editorsPickDefs.map((d) => d.slug));
+  const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 3);
+  const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 3);
   const speciesPosts = getPostsByCategory("species").slice(0, 3);
   const latestPosts = allPosts.slice(0, 6);
 
@@ -91,8 +95,27 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Editors Pick */}
+      {editorsPick.length > 0 && (
+        <section className="py-24 bg-white">
+          <div className="mx-auto max-w-5xl px-4">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
+              Editors Pick
+            </p>
+            <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
+              注目の記事
+            </h2>
+            <div className="mt-10 grid gap-8 sm:grid-cols-3">
+              {editorsPick.map((post) => (
+                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Soil 特集 */}
-      <section className="py-24 bg-white">
+      <section className="py-24 bg-gray-50/80">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -116,22 +139,10 @@ export default function Home() {
           {soilPosts.length === 0 ? (
             <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
-            <div className="mt-10 grid gap-8 lg:grid-cols-[1.3fr_1fr]">
-              {editorsPickSoil.length > 0 && (
-                <div className="rounded-3xl border border-teal-100 bg-teal-50/40 p-4 md:p-6">
-                  <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Editors Pick</p>
-                  <div className="mt-4 grid gap-6">
-                    {editorsPickSoil.map((post) => (
-                      <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
-                    ))}
-                  </div>
-                </div>
-              )}
-              <div className="grid gap-6">
-                {otherSoil.map((post) => (
-                  <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
-                ))}
-              </div>
+            <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+              {soilPosts.map((post) => (
+                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+              ))}
             </div>
           )}
           <div className="mt-8 sm:hidden text-center">
@@ -143,7 +154,7 @@ export default function Home() {
       </section>
 
       {/* Guide */}
-      <section className="bg-gray-50/80 py-24">
+      <section className="bg-white py-24">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -179,7 +190,7 @@ export default function Home() {
       </section>
 
       {/* Species */}
-      <section className="py-24 bg-white">
+      <section className="py-24 bg-gray-50/80">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
