@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1617693136125-c812468e2115?w=800&q=80"
+image: "https://images.unsplash.com/photo-1617693136125-c8824dd53e34?w=800&q=80"
 title: "アロカシア・ドラゴンスケール｜硬質葉の育て方"
 description: "アロカシア・ドラゴンスケールの基本情報、竜の鱗のような硬質葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-02-21"
