@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1534367610401-9f5ed68180aa?w=1400&q=80"
+image: "https://images.unsplash.com/photo-1732229035217-e7e42f61af4b?auto=format&fit=crop&q=80&w=1400"
 title: "冬の湿度管理と加湿器・除湿機の選び方"
 description: "観葉植物の冬管理で失敗しやすい乾燥と過湿を、加湿器と除湿機の選定・運用まで整理。カビを防ぐ実務目線で解説します。"
 date: "2026-02-24"
