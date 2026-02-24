@@ -20,14 +20,14 @@ amazonProducts:
     asin: "B0D1D5FS33"
     note: "Amazon評価 4.5 / 23件（2026-02-24確認）"
   - title: "アイリスオーヤマ 除湿機 IJC-J56"
-    url: "https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%A4%E3%83%9E+IJC-J56&tag=tokyoplants0f-22"
-    note: "Amazon検索結果（モデル指定）"
+    asin: "B0827SGDZX"
+    note: "Amazon評価 4.1 / 1,698件（2026-02-24確認）"
   - title: "象印 スチーム式加湿器 EE-DE50"
-    url: "https://www.amazon.co.jp/s?k=%E8%B1%A1%E5%8D%B0+%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E5%BC%8F%E5%8A%A0%E6%B9%BF%E5%99%A8+EE-DE50&tag=tokyoplants0f-22"
-    note: "Amazon検索結果（モデル指定）"
+    asin: "B0D5V7JVGP"
+    note: "Amazon評価 4.4 / 602件（2026-02-24確認）"
   - title: "小型USB卓上加湿器（超音波）"
-    url: "https://www.amazon.co.jp/s?k=%E5%8D%93%E4%B8%8A+USB+%E5%8A%A0%E6%B9%BF%E5%99%A8&tag=tokyoplants0f-22"
-    note: "Amazon検索結果（レビュー件数上位帯を比較）"
+    asin: "B0DCFXF1H1"
+    note: "Amazon評価 4.5 / 487件（2026-02-24確認）"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -104,8 +104,8 @@ Amazon評価: 4.5 / 23件（2026-02-24確認）
 
 初期コストを抑えて導入しやすい価格帯。派生モデルが混在しやすいため、購入時は型番で検索してタンク容量・騒音・モード差を確認してください。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%A4%E3%83%9E+IJC-J56&tag=tokyoplants0f-22)  
-Amazon検索結果: IJC-J56（価格・レビューは随時変動）
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0827SGDZX?tag=tokyoplants0f-22)  
+Amazon評価: 4.1 / 1,698件（2026-02-24確認）
 
 ## 小型卓上加湿器レビュー
 
@@ -120,15 +120,15 @@ Amazon検索結果: IJC-J56（価格・レビューは随時変動）
 
 卓上専用ではないものの、冬の湿度安定では再現性が高い方式です。衛生管理しやすく、部屋全体の底上げを担わせやすい。植物棚近傍はサーキュレーター併用で過湿を防ぐ運用が現実的です。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/s?k=%E8%B1%A1%E5%8D%B0+%E3%82%B9%E3%83%81%E3%83%BC%E3%83%A0%E5%BC%8F%E5%8A%A0%E6%B9%BF%E5%99%A8+EE-DE50&tag=tokyoplants0f-22)  
-Amazon検索結果: 象印 スチーム式加湿器 EE-DE50（価格・レビューは随時変動）
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0D5V7JVGP?tag=tokyoplants0f-22)  
+Amazon評価: 4.4 / 602件（2026-02-24確認）
 
 ### 2) 小型USB卓上加湿器（超音波）
 
 棚前面やデスク周辺での局所補正に向きます。機種差が大きいため、レビュー件数と最新評価の両方で比較するのが安全です。噴霧口を葉面へ向けず、30〜50cm離して使ってください。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/s?k=%E5%8D%93%E4%B8%8A+USB+%E5%8A%A0%E6%B9%BF%E5%99%A8&tag=tokyoplants0f-22)  
-Amazon検索結果: 卓上USB加湿器（レビュー件数上位モデルを比較推奨）
+→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0DCFXF1H1?tag=tokyoplants0f-22)  
+Amazon評価: 4.5 / 487件（2026-02-24確認）
 
 ## 冬に失敗しない運用手順
 
