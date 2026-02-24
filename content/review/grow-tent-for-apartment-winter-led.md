@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1400&q=80"
+image: "https://images.unsplash.com/photo-1721575653628-c5186b4b9e5e?w=800&q=80"
 title: "植物育成テントの選び方｜冬越しとLED運用"
 description: "マンションで使いやすい植物育成テント（グロウテント）を、本格派向けに解説。冬越し・LED併用の設計、サイズ選定、運用ミス、Amazon購入導線までまとめました。"
 date: "2026-02-24"
