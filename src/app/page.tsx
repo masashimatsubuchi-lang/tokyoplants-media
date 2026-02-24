@@ -41,7 +41,9 @@ export default function Home() {
                 <Link
                   key={cat.slug}
                   href={`/${cat.slug}`}
-                  className="rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white"
+                  className={`rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white ${
+                    cat.slug === "species" ? "col-span-2 md:col-span-1" : ""
+                  }`}
                 >
                   <span className="block text-[13px] font-bold text-slate-800">
                     {cat.name}
