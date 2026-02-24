@@ -23,18 +23,18 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="bg-[#f5f0e8]">
-        <div className="mx-auto max-w-4xl px-4 pt-8 pb-0 md:pt-12">
+      <section className="bg-[#f4f2ec]">
+        <div className="mx-auto max-w-5xl px-4 pt-8 pb-0 md:pt-12">
           <Image
             src="/images/hero-illustration.png"
             alt="tokyoplants — 植物を知り、育てる。"
             width={1400}
             height={933}
             priority
-            className="w-full h-auto"
+            className="mx-auto h-auto w-full max-w-[1280px]"
           />
         </div>
-        <div className="bg-[#f5f0e8] pb-10 pt-6">
+        <div className="bg-[#f4f2ec] pb-10 pt-6">
           <div className="mx-auto max-w-3xl px-4">
             <div className="grid grid-cols-2 gap-3 md:grid-cols-5">
               {categories.map((cat) => (
