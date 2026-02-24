@@ -1,14 +1,8 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Noto_Sans_JP } from "next/font/google";
 import { getAllPosts, getPostsByCategory } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
-
-const heroSans = Noto_Sans_JP({
-  subsets: ["latin"],
-  weight: ["500", "700"],
-});
 
 export default function Home() {
   const allPosts = getAllPosts();
@@ -29,42 +23,34 @@ export default function Home() {
   return (
     <>
       {/* Hero */}
-      <section className="relative isolate overflow-hidden">
-        <Image
-          src="https://images.unsplash.com/photo-1628246499185-54f441171885?w=1600&q=80"
-          alt="観葉植物"
-          fill
-          priority
-          sizes="100vw"
-          className="object-cover scale-[1.03]"
-        />
-        <div className="absolute inset-0 bg-gradient-to-br from-white/75 via-white/60 to-emerald-100/55" />
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_10%,rgba(15,118,110,0.25),transparent_40%),radial-gradient(circle_at_80%_80%,rgba(20,83,45,0.2),transparent_45%)]" />
-        <div className="relative py-32 md:py-44">
-          <div className="mx-auto max-w-5xl px-4">
-            <div className="mx-auto max-w-3xl rounded-3xl border border-white/60 bg-white/45 px-8 py-14 text-center shadow-[0_20px_70px_-30px_rgba(15,23,42,0.6)] backdrop-blur-md md:px-14 md:py-20">
-              <h1 className={`${heroSans.className} inline-block whitespace-nowrap text-center text-[clamp(1.2rem,3.1vw,2.8rem)] font-bold tracking-[0.04em] text-slate-900 leading-[1.2]`}>
-                観葉植物を知り、育てる。
-              </h1>
-              <p className="mt-6 text-sm tracking-[0.14em] text-slate-500">
-                by tokyoplants
-              </p>
-              <div className="mt-10 grid grid-cols-2 gap-3 md:mt-12 md:grid-cols-5">
-                {categories.map((cat) => (
-                  <Link
-                    key={cat.slug}
-                    href={`/${cat.slug}`}
-                    className="rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white"
-                  >
-                    <span className="block text-[13px] font-bold text-slate-800">
-                      {cat.name}
-                    </span>
-                    <span className="mt-1 block text-[11px] leading-relaxed text-slate-500">
-                      {cat.description}
-                    </span>
-                  </Link>
-                ))}
-              </div>
+      <section className="bg-[#f5f0e8]">
+        <div className="mx-auto max-w-4xl px-4 pt-8 pb-0 md:pt-12">
+          <Image
+            src="/images/hero-illustration.png"
+            alt="tokyoplants — 植物を知り、育てる。"
+            width={1400}
+            height={933}
+            priority
+            className="w-full h-auto"
+          />
+        </div>
+        <div className="bg-[#f5f0e8] pb-10 pt-6">
+          <div className="mx-auto max-w-3xl px-4">
+            <div className="grid grid-cols-2 gap-3 md:grid-cols-5">
+              {categories.map((cat) => (
+                <Link
+                  key={cat.slug}
+                  href={`/${cat.slug}`}
+                  className="rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white"
+                >
+                  <span className="block text-[13px] font-bold text-slate-800">
+                    {cat.name}
+                  </span>
+                  <span className="mt-1 block text-[11px] leading-relaxed text-slate-500">
+                    {cat.description}
+                  </span>
+                </Link>
+              ))}
             </div>
           </div>
         </div>
