@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=1200&q=80"
+image: "https://images.pexels.com/photos/9710606/pexels-photo-9710606.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "鉢の素材で土の乾きはどう変わる？乾燥速度を比較"
 description: "プラ鉢・素焼き鉢・セメント鉢で土の乾燥速度を実測。水やり頻度と根腐れリスクへの影響を解説します。"
 date: "2026-02-17"

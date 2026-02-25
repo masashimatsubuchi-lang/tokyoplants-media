@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1463936575829-25148e1db1b8?w=800&q=80"
+image: "https://images.pexels.com/photos/5939718/pexels-photo-5939718.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物の土が臭い原因と対策｜匂いの種類別に解説"
 description: "観葉植物の土から嫌な匂いがする原因を種類別に解説。カビ臭・腐敗臭・酸っぱい匂いなど、それぞれの対処法がわかります。"
 date: "2026-02-18"

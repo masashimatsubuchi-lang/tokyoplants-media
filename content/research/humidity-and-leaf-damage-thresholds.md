@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.pexels.com/photos/9413694/pexels-photo-9413694.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "湿度は何％が最適？葉傷みが増える境界を検証"
 description: "室内湿度と葉先枯れ・黄変の発生率を比較し、観葉植物管理における実用的な湿度レンジを整理しました。"
 date: "2026-02-17"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1200&q=80"
+image: "https://images.pexels.com/photos/9032133/pexels-photo-9032133.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "3月の観葉植物リセット手順"
 description: "3月にやるべき観葉植物管理を、置き場所・水やり・施肥・害虫点検の順に整理。春の立ち上がりを失敗しない実践手順を解説します。"
 date: "2026-02-17"

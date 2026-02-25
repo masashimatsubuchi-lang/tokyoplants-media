@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=800&q=80"
+image: "https://images.pexels.com/photos/9413786/pexels-photo-9413786.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "ピートモスの使い方｜観葉植物での配合量と注意点"
 description: "観葉植物にピートモスを使う方法を解説。適切な配合量、メリット・デメリット、使うべき植物と避けるべき植物がわかります。"
 date: "2026-02-18"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=800&q=80"
+image: "https://images.pexels.com/photos/34496457/pexels-photo-34496457.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "フィロデンドロン・ミカンス｜ビロード葉の魅力と育て方"
 description: "フィロデンドロン・ミカンスの基本情報、葉色の変化、つる性の管理方法、育て方とトラブル対策を図鑑形式で解説します。"
 date: "2026-02-17"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1712912828040-54e51184b9fa?w=1200&q=80"
+image: "https://images.pexels.com/photos/5830992/pexels-photo-5830992.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物の土 完全ガイド｜選び方からトラブル解決まで"
 description: "観葉植物の土に関する基礎知識、配合の考え方、植え替え時の判断、虫・カビ・根腐れなどの対策を1本に集約。既存の土関連記事へ内部リンクでつなぐハブ記事です。"
 date: "2026-02-17"

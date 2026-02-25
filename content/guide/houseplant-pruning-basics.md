@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200&q=80"
+image: "https://images.pexels.com/photos/7299969/pexels-photo-7299969.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物の剪定・切り戻し入門"
 description: "観葉植物の剪定で失敗しないための基礎ガイド。切る位置、時期、道具、植物タイプ別の注意点、剪定後の管理まで実践的に解説します。"
 date: "2026-02-17"

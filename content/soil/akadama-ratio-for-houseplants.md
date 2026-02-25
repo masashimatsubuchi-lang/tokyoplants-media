@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80"
+image: "https://images.pexels.com/photos/22610795/pexels-photo-22610795.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物に使う赤玉土の割合｜配合の基本と植物別レシピ"
 description: "観葉植物の土に赤玉土をどのくらいの割合で配合すべきか、基本の配合比率と植物タイプ別のレシピを解説。粒のサイズ選びや劣化対策もわかります。"
 date: "2026-02-18"

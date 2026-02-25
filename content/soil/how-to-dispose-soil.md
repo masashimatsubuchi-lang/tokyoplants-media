@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&q=80"
+image: "https://images.pexels.com/photos/6913414/pexels-photo-6913414.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物の土の捨て方｜正しい処分方法と再利用のコツ"
 description: "観葉植物の土の捨て方を自治体ルール別に解説。燃えるゴミ・回収サービス・再利用など、処分の選択肢と手順がわかります。"
 date: "2026-02-18"

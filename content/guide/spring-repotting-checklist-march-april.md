@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=1200&q=80"
+image: "https://images.pexels.com/photos/6913725/pexels-photo-6913725.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "春の植え替え前チェックリスト"
 description: "3〜4月に観葉植物の植え替えを始める前に確認すべき項目をチェックリスト化。時期判断、道具準備、失敗回避ポイントを解説します。"
 date: "2026-02-17"

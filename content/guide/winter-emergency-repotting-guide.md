@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=1200&q=80"
+image: "https://images.pexels.com/photos/6913451/pexels-photo-6913451.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "冬の植え替えはNG？緊急時の判断基準"
 description: "冬の植え替えは原則避けるべきですが、例外的に必要なケースがあります。緊急度の判断基準、実施手順、失敗しない養生方法を解説します。"
 date: "2026-02-17"

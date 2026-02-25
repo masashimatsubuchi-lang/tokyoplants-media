@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1200&q=80"
+image: "https://images.pexels.com/photos/7219680/pexels-photo-7219680.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "季節で水やり頻度は何倍変わる？室内環境で比較"
 description: "春夏秋冬で観葉植物の水やり間隔を比較し、季節ごとの適正頻度をデータで整理しました。"
 date: "2026-02-17"

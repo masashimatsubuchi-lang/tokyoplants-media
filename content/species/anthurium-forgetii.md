@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1672997710081-dd833b37f044?w=800&q=80"
+image: "https://images.pexels.com/photos/33220690/pexels-photo-33220690.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "アンスリウム・フォルゲティー｜丸い盾状葉が独特の品種と育て方"
 description: "アンスリウム・フォルゲティーの基本情報、頂裂がない丸い盾状葉、シルバーの模様、育て方、よくあるトラブルを解説します。"
 date: "2026-02-17"

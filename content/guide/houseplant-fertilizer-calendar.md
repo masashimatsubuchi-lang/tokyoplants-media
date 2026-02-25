@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=1200&q=80"
+image: "https://images.pexels.com/photos/28214180/pexels-photo-28214180.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物の肥料カレンダー完全版"
 description: "観葉植物の肥料管理を春夏秋冬で最適化するための実務ガイド。液体肥料と緩効性肥料の使い分け、停止時期、失敗回避の基準を解説します。"
 date: "2026-02-17"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1200&q=80"
+image: "https://images.pexels.com/photos/9270065/pexels-photo-9270065.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "東京の希少観葉植物店・市場分析"
 description: "東京の希少観葉植物市場を、輸入ルート・仕入れ構造・立地特性の観点から分析。公式情報ベースで専門店の使い分けを整理します。"
 date: "2026-02-19"

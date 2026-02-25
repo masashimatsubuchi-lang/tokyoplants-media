@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=1200&q=80"
+image: "https://images.pexels.com/photos/12032902/pexels-photo-12032902.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物の葉が黄色い原因チェック"
 description: "観葉植物の葉が黄色くなる原因を、水やり・光・根・肥料・害虫の5軸で切り分ける実践チェックリスト。症状別の対処手順を解説します。"
 date: "2026-02-17"
