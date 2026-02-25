@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1754339071921-07c34eb8b959?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
 title: "サンスベリア｜空気清浄効果と品種・育て方を徹底解説"
 description: "サンスベリア（サンセベリア）の品種一覧、育て方、水やり、冬越し方法を図鑑形式で解説。空気清浄効果やマイナスイオンの真実についても触れています。"
 date: "2026-02-17"

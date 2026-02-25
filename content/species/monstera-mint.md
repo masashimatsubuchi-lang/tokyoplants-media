@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1692810411467-281703454edc?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Monstera_deliciosa2.jpg/1200px-Monstera_deliciosa2.jpg"
 title: "モンステラ・ミント｜希少な斑入りモンステラの特徴と育て方"
 description: "モンステラ・ミント（Monstera Mint）の基本情報、ミント斑の特徴、タイコンステレーションとの違い、育て方を解説します。"
 date: "2026-02-17"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1749703935929-c48e2a6c7b56?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Anthurium_magnificum_a1.jpg/1200px-Anthurium_magnificum_a1.jpg"
 title: "アンスリウム・マグニフィカム｜大型ベルベット葉の特徴と育て方"
 description: "アンスリウム・マグニフィカムの基本情報、ベルベット質の大型葉、育て方、よくあるトラブルを解説。コレクター人気の高い葉もの種です。"
 date: "2026-02-17"

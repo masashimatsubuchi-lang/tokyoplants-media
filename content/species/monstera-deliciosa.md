@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1560871402-467c8633acba?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Monstera_deliciosa2.jpg/1200px-Monstera_deliciosa2.jpg"
 title: "モンステラ・デリシオーサ｜特徴・育て方・斑入り品種まで徹底解説"
 description: "モンステラ・デリシオーサの基本情報、切れ込み葉の仕組み、主な園芸品種（タイコンステレーション・アルボ等）、育て方、よくあるトラブルを詳しく解説します。"
 date: "2026-02-17"

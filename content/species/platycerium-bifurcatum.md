@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1589480591378-56044db002f8?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Platycerium_bifurcatum_kz01.jpg/1200px-Platycerium_bifurcatum_kz01.jpg"
 title: "ビカクシダ・ビフルカツム｜初心者向きな定番種の育て方"
 description: "ビカクシダ・ビフルカツムの基本情報、胞子葉と貯水葉の特徴、板付け・鉢植えでの育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-02-21"

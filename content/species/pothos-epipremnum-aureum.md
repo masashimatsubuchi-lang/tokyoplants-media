@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1663962975773-44cfbefe880b?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Money_Plant_%28Epipremnum_aureum%29_4.jpg/1200px-Money_Plant_%28Epipremnum_aureum%29_4.jpg"
 title: "ポトス（エピプレムナム）｜品種・育て方・飾り方まで徹底解説"
 description: "ポトス（エピプレムナム・アウレウム）の基本情報、人気品種の特徴、育て方、増やし方、飾り方を図鑑形式で解説。初心者にも育てやすい理由と注意点がわかります。"
 date: "2026-02-17"

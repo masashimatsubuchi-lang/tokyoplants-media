@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1733034766955-a8b0b023783a?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Monstera_deliciosa2.jpg/1200px-Monstera_deliciosa2.jpg"
 title: "モンステラ・タイコンステレーション｜斑入りモンステラの特徴と育て方"
 description: "モンステラ・タイコンステレーション（Thai Constellation）の基本情報、斑の特徴、育て方、よくあるトラブルを解説。斑入りモンステラの中で最も安定した品種です。"
 date: "2026-02-17"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1600958004614-e5bfd666538b?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Alocasia_x_amazonica_a1.jpg/1200px-Alocasia_x_amazonica_a1.jpg"
 title: "アロカシア・アマゾニカの育て方｜特徴と管理のコツ"
 description: "アロカシア・アマゾニカ（ポリー）の基本情報、矢じり型の葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-02-21"

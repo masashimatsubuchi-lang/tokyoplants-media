@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1493666438817-866a91353ca9?w=800&q=80"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hoya-kerrii_flowers_op.jpg/1200px-Hoya-kerrii_flowers_op.jpg"
 title: "ホヤ・ケリー｜ハート葉ホヤの育て方図鑑"
 description: "ホヤ・ケリーの基本情報、ハート型葉の特徴、つるを伸ばす管理方法、開花条件とトラブル対策を解説します。"
 date: "2026-02-17"
