@@ -28,8 +28,8 @@ export default function Home() {
           <Image
             src="/images/hero-illustration.png"
             alt="tokyoplants — 植物を知り、育てる。"
-            width={1400}
-            height={933}
+            width={6144}
+            height={3048}
             priority
             className="mx-auto h-auto w-full max-w-[1280px]"
           />
