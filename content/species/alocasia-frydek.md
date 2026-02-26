@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alocasia_micholitziana.JPG/1200px-Alocasia_micholitziana.JPG"
+image: "https://images.unsplash.com/photo-1595313082034-91e3c9ba273e?w=800&q=80"
 title: "アロカシア・フライデック｜白葉脈が映える育て方"
 description: "アロカシア・フライデックの基本情報、ベルベット葉の特徴、育て方、休眠期の管理とトラブル対策を解説します。"
 date: "2026-02-17"

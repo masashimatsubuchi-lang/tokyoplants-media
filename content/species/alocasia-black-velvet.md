@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alocasia_reginula_%28Philippines%29_01.jpg/1200px-Alocasia_reginula_%28Philippines%29_01.jpg"
+image: "https://images.unsplash.com/photo-1632320209415-a6b634ccaede?w=800&q=80"
 title: "アロカシア・ブラックベルベット｜黒葉の小型種を育てる"
 description: "アロカシア・ブラックベルベットの基本情報、漆黒のベルベット葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-02-21"
