@@ -12,11 +12,16 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("Botanical Towel") || product.url.includes("/items/135803882");
   };
 
+  const isHydroProduct = (product: BaseProduct): boolean => {
+    return product.title.includes("HYDRO MINERAL") || product.url.includes("/items/142692278");
+  };
+
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
     if (isSoilProduct(product)) return "/images/products/im-original-soil-main.jpg";
     if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
+    if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
     return undefined;
   };
 
@@ -41,6 +46,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           const productImage = getProductImage(product);
           const isSoil = isSoilProduct(product);
           const isTowel = isTowelProduct(product);
+          const isHydro = isHydroProduct(product);
 
           return (
             <a
@@ -51,13 +57,13 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
                 isSoldOut
                   ? "border-gray-200 opacity-60 cursor-not-allowed"
-                  : isSoil || isTowel
+                  : isSoil || isTowel || isHydro
                     ? "border-emerald-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:shadow-md"
                     : "border-gray-200 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
               }`}
             >
               <div className={`flex items-center justify-center overflow-hidden rounded-xl border ${
-                isSoil || isTowel
+                isSoil || isTowel || isHydro
                   ? "h-24 w-24 border-emerald-200 bg-emerald-50/70"
                   : "h-20 w-20 border-emerald-100 bg-emerald-50"
               }`}>
@@ -89,6 +95,25 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         化学肥料不使用
+                      </span>
+                    </div>
+                  </>
+                )}
+                {isHydro && (
+                  <>
+                    <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
+                      富士山溶岩石×ゼオライト配合のハイドロ・底面給水向け無機培地。
+                    </p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">容量: 2L / 粒サイズ: 3〜5mm</p>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        溶岩石×ゼオライト
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        肥料8〜9ヶ月分
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        ハイドロ対応
                       </span>
                     </div>
                   </>
