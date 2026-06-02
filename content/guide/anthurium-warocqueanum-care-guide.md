@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1749703935929-c48e2a6c7b56?w=800&q=80"
+image: "/images/products/anthurium-warocqueanum-closeup.jpg"
 title: "アンスリウム・ワロクアーナムの育て方｜湿度・光・用土を完全解説"
 description: "アンスリウム・ワロクアーナム（Queen Anthurium）の育て方を徹底解説。高湿度環境の作り方、水苔栽培のコツ、着生種特有の水やり・用土・温度管理まで具体的にわかります。"
 date: "2026-06-03"

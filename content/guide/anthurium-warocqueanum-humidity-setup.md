@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1767131543464-7ab5b80dba7f?w=800&q=80"
+image: "/images/products/anthurium-warocqueanum-mature.jpg"
 title: "アンスリウム・ワロクアーナムを枯らさない湿度環境の作り方"
 description: "ワロクアーナムの葉先が枯れる最大原因は湿度不足。ガラスキャビネット・テラリウム・グロウテントを使った湿度70〜80%の環境設計を具体的に解説します。"
 date: "2026-06-03"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1525498128493-380d1990a112?w=800&q=80"
+image: "/images/products/anthurium-warocqueanum-group.jpg"
 title: "ベルベットアンスリウム5種類の比較｜ワロクアーナム・クラリネルビウム・クリスタリナム"
 description: "ベルベット質の葉が美しい葉ものアンスリウム5種を比較。ワロクアーナム・クラリネルビウム・クリスタリナム・マグニフィカム・フォルゲティの特徴・難易度・入手性を解説します。"
 date: "2026-06-03"
