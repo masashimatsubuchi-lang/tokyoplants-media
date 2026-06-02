@@ -135,7 +135,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                         Queen Anthurium
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
-                        白銀の葉脈
+                        お得なセレクト株
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         希少コレクター種
