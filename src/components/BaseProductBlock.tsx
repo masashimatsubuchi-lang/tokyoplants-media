@@ -20,6 +20,10 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("Warocqueanum") || product.title.includes("ワロクアーナム") || product.url.includes("/items/94920117");
   };
 
+  const isRegale = (product: BaseProduct): boolean => {
+    return product.title.includes("Regale") || product.title.includes("レガレ") || product.url.includes("/items/94918874");
+  };
+
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
@@ -27,6 +31,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
     if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
+    if (isRegale(product)) return "/images/products/anthurium-regale-group.jpg";
     return undefined;
   };
 
@@ -53,6 +58,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           const isTowel = isTowelProduct(product);
           const isHydro = isHydroProduct(product);
           const isWaroc = isWarocqueanum(product);
+          const isReg = isRegale(product);
 
           return (
             <a
@@ -63,13 +69,13 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
                 isSoldOut
                   ? "border-gray-200 opacity-60 cursor-not-allowed"
-                  : isSoil || isTowel || isHydro || isWaroc
+                  : isSoil || isTowel || isHydro || isWaroc || isReg
                     ? "border-emerald-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:shadow-md"
                     : "border-gray-200 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
               }`}
             >
               <div className={`flex items-center justify-center overflow-hidden rounded-xl border ${
-                isSoil || isTowel || isHydro || isWaroc
+                isSoil || isTowel || isHydro || isWaroc || isReg
                   ? "h-24 w-24 border-emerald-200 bg-emerald-50/70"
                   : "h-20 w-20 border-emerald-100 bg-emerald-50"
               }`}>
@@ -120,6 +126,25 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         ハイドロ対応
+                      </span>
+                    </div>
+                  </>
+                )}
+                {isReg && (
+                  <>
+                    <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
+                      横幅のある重厚なベルベット葉と白い葉脈のコントラスト。成熟するほど葉幅が増す。
+                    </p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">水苔植え・SELECT STOCK</p>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        大判ハート型葉
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        お得なセレクト株
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        希少コレクター種
                       </span>
                     </div>
                   </>
