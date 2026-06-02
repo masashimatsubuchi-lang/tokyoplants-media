@@ -26,7 +26,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isSoilProduct(product)) return "/images/products/im-original-soil-main.jpg";
     if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
-    if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-closeup.jpg";
+    if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
     return undefined;
   };
 
@@ -127,18 +127,18 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                 {isWaroc && (
                   <>
                     <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
-                      コロンビア原産の着生種。成熟するほど葉が長く垂れ下がる「Queen Anthurium」。
+                      深緑のベルベット葉に白銀の葉脈。成熟するほど葉が伸び、垂れ下がる圧倒的な存在感。
                     </p>
-                    <p className="mt-1 text-xs font-medium text-gray-500">水苔植え・幼株〜中株</p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">水苔植え・SELECT STOCK</p>
                     <div className="mt-2 flex flex-wrap gap-1.5">
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
-                        ベルベット葉
+                        Queen Anthurium
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
-                        葉長1m超
+                        白銀の葉脈
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
-                        希少種
+                        希少コレクター種
                       </span>
                     </div>
                   </>
