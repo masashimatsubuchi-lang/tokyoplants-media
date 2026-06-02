@@ -70,7 +70,7 @@ hideAmazonBlock: true
 
 [![フルプラ ダイヤスプレー エクセレント500](https://m.media-amazon.com/images/I/51Vjlka5HpL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B001HPEIWI?tag=tokyoplants0f-22)
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B001HPEIWI?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B001HPEIWI?tag=tokyoplants0f-22)  
 Amazon評価: 4.3 / 1,579件（2026-02-20取得）
 
 ### 2. トリガー式タイプ
@@ -83,7 +83,7 @@ Amazon評価: 4.3 / 1,579件（2026-02-20取得）
 
 [![フルプラ ダイヤスプレー ピストル型 500](https://m.media-amazon.com/images/I/41ogReaSZcL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B001VJSBGE?tag=tokyoplants0f-22)
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B001VJSBGE?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B001VJSBGE?tag=tokyoplants0f-22)  
 Amazon評価: 4.2 / 1,378件（2026-02-20取得）
 
 ### 3. 電動ミストタイプ
@@ -96,7 +96,7 @@ Amazon評価: 4.2 / 1,378件（2026-02-20取得）
 
 [![HeGeed 電動霧吹き 2L](https://m.media-amazon.com/images/I/71l9PVaAf2L._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B0G1M8RNNX?tag=tokyoplants0f-22)
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0G1M8RNNX?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0G1M8RNNX?tag=tokyoplants0f-22)  
 Amazon評価: 4.6 / 28件（2026-02-20取得）
 
 ### 4. ガラス製おしゃれタイプ

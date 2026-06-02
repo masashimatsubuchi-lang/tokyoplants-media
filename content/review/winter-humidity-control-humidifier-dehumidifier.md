@@ -88,7 +88,7 @@ baseProducts:
 
 [![シャープ 衣類乾燥除湿機 CV-R71-W](https://m.media-amazon.com/images/I/61w9+3Q5ycL._AC_SY300_SX300_.jpg)](https://www.amazon.co.jp/dp/B0CZTGPY25?tag=tokyoplants0f-22)
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0CZTGPY25?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0CZTGPY25?tag=tokyoplants0f-22)  
 Amazon評価: 4.3 / 724件（2026-02-24確認）
 
 ### 2) コロナ 衣類乾燥除湿機 CD-P6324(W)
@@ -97,14 +97,14 @@ Amazon評価: 4.3 / 724件（2026-02-24確認）
 
 [![コロナ 衣類乾燥除湿機 CD-P6324(W)](https://m.media-amazon.com/images/I/51WNfUvQTyL._AC_SY300_SX300_.jpg)](https://www.amazon.co.jp/dp/B0D1D5FS33?tag=tokyoplants0f-22)
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0D1D5FS33?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0D1D5FS33?tag=tokyoplants0f-22)  
 Amazon評価: 4.5 / 23件（2026-02-24確認）
 
 ### 3) アイリスオーヤマ IJC-J56（型番比較）
 
 初期コストを抑えて導入しやすい価格帯。派生モデルが混在しやすいため、購入時は型番で検索してタンク容量・騒音・モード差を確認してください。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0827SGDZX?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0827SGDZX?tag=tokyoplants0f-22)  
 Amazon評価: 4.1 / 1,698件（2026-02-24確認）
 
 ## 小型卓上加湿器レビュー
@@ -120,14 +120,14 @@ Amazon評価: 4.1 / 1,698件（2026-02-24確認）
 
 卓上専用ではないものの、冬の湿度安定では再現性が高い方式です。衛生管理しやすく、部屋全体の底上げを担わせやすい。植物棚近傍はサーキュレーター併用で過湿を防ぐ運用が現実的です。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0D5V7JVGP?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0D5V7JVGP?tag=tokyoplants0f-22)  
 Amazon評価: 4.4 / 602件（2026-02-24確認）
 
 ### 2) 小型USB卓上加湿器（超音波）
 
 棚前面やデスク周辺での局所補正に向きます。機種差が大きいため、レビュー件数と最新評価の両方で比較するのが安全です。噴霧口を葉面へ向けず、30〜50cm離して使ってください。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0DCFXF1H1?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0DCFXF1H1?tag=tokyoplants0f-22)  
 Amazon評価: 4.5 / 487件（2026-02-24確認）
 
 ## 冬に失敗しない運用手順

@@ -88,15 +88,15 @@ tokyoplants の **Daily Botanical Towel** は、モンステラやアンスリ�
 フェイクグリーンを選ぶ場合の参考商品（画像リンク）:
 
 [![ミニ インテリアグリーン 3点セット](https://m.media-amazon.com/images/I/91WmFbcWIgL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B07Z9B9YZ7?tag=tokyoplants0f-22)
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B07Z9B9YZ7?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B07Z9B9YZ7?tag=tokyoplants0f-22)  
 Amazon評価: 4.2 / 1,224件（2026-02-20取得）
 
 [![光触媒フェイクグリーン モンステラ（国内製造）](https://m.media-amazon.com/images/I/71sRJAMs-nL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B07374RDJM?tag=tokyoplants0f-22)
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B07374RDJM?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B07374RDJM?tag=tokyoplants0f-22)  
 Amazon評価: 4.0 / 526件（2026-02-20取得）
 
 [![光触媒ミニ観葉 3個セット](https://m.media-amazon.com/images/I/61VOiv2RcXL._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B0B4ZV11SM?tag=tokyoplants0f-22)
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B0B4ZV11SM?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0B4ZV11SM?tag=tokyoplants0f-22)  
 Amazon評価: 4.2 / 188件（2026-02-20取得）
 
 ## 洗面所・バスルーム｜湿気に強いアイテムを選ぶ

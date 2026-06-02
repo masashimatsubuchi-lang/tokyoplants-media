@@ -13,9 +13,9 @@ relatedSlugs:
   - "research/temperature-and-houseplant-growth"
 hideAmazonBlock: true
 amazonProducts:
-  - title: "VIVOSUN グロウテント 2x2ft（約60x60x140）"
-    asin: "B07VRSCVVC"
-    note: "Amazon評価 4.4 / 2,769件（2026-02-24確認）"
+  - title: "VIVOSUN グロウテント 60x60x140cm"
+    asin: "B08M3RFJZK"
+    note: ""
   - title: "Mars Hydro グロウテント 70x70x160"
     asin: "B078XTJXYY"
     note: "Amazon評価 4.6 / 1,671件（2026-02-24確認）"
@@ -90,35 +90,35 @@ baseProducts:
 
 ## 本格派向けおすすめ構成（冬越し・LED併用）
 
-### 1) 小型標準: VIVOSUN 2x2ft（約60x60x140）
+### 1) 小型標準: VIVOSUN グロウテント 60x60x140cm
 
 初号機として扱いやすい定番サイズ。マンションでも圧迫感が比較的小さく、床荷重と生活導線を崩しにくいのが利点です。観葉植物中心であれば、LED 100W前後と4インチ排気の組み合わせで十分運用できます。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B07VRSCVVC?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B08M3RFJZK?tag=tokyoplants0f-22)
 
 ### 2) バランス型: Mars Hydro 70x70x160
 
 冬越しだけでなく、通年の育成環境として使いやすいサイズ。60角より高さと奥行に余裕があり、植物間の距離を取りやすいため、蒸れと接触障害が減ります。LEDを中出力で運用しやすい点も強みです。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B078XTJXYY?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B078XTJXYY?tag=tokyoplants0f-22)
 
 ### 3) 上位帯: AC Infinity Cloudlab 733（90x90x180）
 
 気密性、縫製、ジッパー品質を重視するなら候補に入る上位帯。管理規模を拡大したい人向けです。排気ファン・フィルター・ダクトの設計まで含めて初めて性能を活かせるため、導入前に運用図を作るのが前提です。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B08MVG5BPP?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B08MVG5BPP?tag=tokyoplants0f-22)
 
 ### 4) LEDの基準: Spider Farmer SF1000
 
 2x2〜70角クラスで使いやすい出力帯。重要なのはスペック値より、調光と距離調整のしやすさです。冬は温度を上げたいからと近づけすぎると葉焼けリスクが増えるため、照度計または葉面観察で段階的に調整してください。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B07TYNYCB9?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B07TYNYCB9?tag=tokyoplants0f-22)
 
 ### 5) カビ対策の要: AC Infinity CLOUDLINE A4（排気）
 
 テント内のカビを防ぐ主役は加湿器ではなく排気です。排気が弱いと夜間に結露し、土表面と葉柄基部にトラブルが出ます。静音性と風量制御のしやすさを重視してファンを選ぶと、マンションでも継続運用しやすくなります。
 
-→ [Amazonで商品を見る（アソシエイトリンク）](https://www.amazon.co.jp/dp/B09FYK6Z3R?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B09FYK6Z3R?tag=tokyoplants0f-22)
 
 ## 冬越し運用の実務ポイント
 
