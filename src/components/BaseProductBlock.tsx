@@ -16,12 +16,17 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("HYDRO MINERAL") || product.url.includes("/items/142692278");
   };
 
+  const isWarocqueanum = (product: BaseProduct): boolean => {
+    return product.title.includes("Warocqueanum") || product.title.includes("ワロクアーナム") || product.url.includes("/items/94920117");
+  };
+
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
     if (isSoilProduct(product)) return "/images/products/im-original-soil-main.jpg";
     if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
+    if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-closeup.jpg";
     return undefined;
   };
 
@@ -47,6 +52,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           const isSoil = isSoilProduct(product);
           const isTowel = isTowelProduct(product);
           const isHydro = isHydroProduct(product);
+          const isWaroc = isWarocqueanum(product);
 
           return (
             <a
@@ -57,13 +63,13 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
                 isSoldOut
                   ? "border-gray-200 opacity-60 cursor-not-allowed"
-                  : isSoil || isTowel || isHydro
+                  : isSoil || isTowel || isHydro || isWaroc
                     ? "border-emerald-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:shadow-md"
                     : "border-gray-200 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
               }`}
             >
               <div className={`flex items-center justify-center overflow-hidden rounded-xl border ${
-                isSoil || isTowel || isHydro
+                isSoil || isTowel || isHydro || isWaroc
                   ? "h-24 w-24 border-emerald-200 bg-emerald-50/70"
                   : "h-20 w-20 border-emerald-100 bg-emerald-50"
               }`}>
@@ -114,6 +120,25 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         ハイドロ対応
+                      </span>
+                    </div>
+                  </>
+                )}
+                {isWaroc && (
+                  <>
+                    <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
+                      コロンビア原産の着生種。成熟するほど葉が長く垂れ下がる「Queen Anthurium」。
+                    </p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">水苔植え・幼株〜中株</p>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        ベルベット葉
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        葉長1m超
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        希少種
                       </span>
                     </div>
                   </>
