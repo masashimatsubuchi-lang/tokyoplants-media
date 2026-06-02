@@ -1,16 +1,21 @@
 ---
 image: "https://images.unsplash.com/photo-1668888501413-4cbcfe853442?auto=format&fit=crop&w=1200&q=80"
 title: "ハイドロから土へ植え替える方法"
-description: "ハイドロカルチャーから土植えへ切り替える手順を解説。根の違い、失敗しやすいポイント、移行後の管理までわかります。"
+description: "ハイドロカルチャーから土植えへ切り替える方法を徹底解説。ハイドロ根と土植え根の違い、枯らさずに移行するための段階的な手順、移行後の水やり管理まで具体的にわかります。"
 date: "2026-02-17"
 category: "guide"
 tags: ["ハイドロカルチャー", "水耕栽培", "植え替え", "観葉植物", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "soil/hydroculture-vs-soil"
   - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/how-to-mix-soil-for-houseplants"
+  - "guide/plant-not-recovering-after-repotting"
 baseProducts:
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"

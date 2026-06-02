@@ -11,6 +11,9 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/indoor-houseplant-soil"
 baseProducts:
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
