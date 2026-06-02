@@ -11,15 +11,12 @@ relatedSlugs:
   - "soil/bugs-in-houseplant-soil"
   - "soil/commercial-soil-ingredients"
 baseProducts:
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 「土の中に白い粒がある。これは何？」「土の表面に白いものが出てきた。カビ？虫？」——観葉植物を育てていると、土の中や表面に白いものを見つけて不安になることがあります。

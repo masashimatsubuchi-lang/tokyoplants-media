@@ -11,15 +11,12 @@ relatedSlugs:
   - "soil/bugs-in-houseplant-soil"
   - "soil/commercial-soil-ingredients"
 baseProducts:
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 観葉植物を室内で育てるとき、屋外栽培と同じ土を使うのはおすすめしません。室内には「虫が出にくい」「臭いがない」「清潔」という屋外にはない条件が加わります。この記事では、室内栽培に特化した土の選び方と、快適に植物を楽しむためのポイントを解説します。

@@ -14,9 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 モンステラは成長が旺盛で、1〜2年で根が鉢いっぱいになります。「葉が小さくなった」「水の吸いが悪い」と感じたら、植え替えのサインです。この記事ではモンステラに特化した植え替え方法を、時期・土・鉢・気根の処理まで詳しく解説します。

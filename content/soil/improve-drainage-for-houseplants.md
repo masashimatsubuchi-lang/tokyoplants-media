@@ -11,15 +11,12 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 水やりしても鉢底から水が出てこない。土の表面にいつまでも水が溜まっている。こうした症状は「水はけが悪い」サインです。放置すると根腐れに直結します。

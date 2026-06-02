@@ -11,15 +11,12 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/indoor-houseplant-soil"
 baseProducts:
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 「土を使いたくない」「虫が嫌」「もっとおしゃれに飾りたい」——観葉植物を土なしで育てたい理由は人それぞれです。

@@ -13,12 +13,12 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "soil/drainage-stones-guide"
 baseProducts:
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 「溶岩石って観葉植物に本当に使えるの？」「土と何が違うの？」——インテリアショップや専門店で溶岩石を見かけたことはあっても、実際の効果がよくわからない人は多いです。

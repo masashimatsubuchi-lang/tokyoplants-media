@@ -14,9 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 「ピートモスは観葉植物に使えるの？」「どのくらいの割合で混ぜればいいの？」——ピートモスは保水性を高める優秀な素材ですが、使い方を間違えると逆効果になります。

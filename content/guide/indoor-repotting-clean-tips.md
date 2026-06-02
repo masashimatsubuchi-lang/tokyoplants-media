@@ -14,6 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 「植え替えしたいけど、庭もベランダも狭い」「室内で土を扱うと汚れそうで怖い」——マンション住まいの方にとって、植え替えの最大のハードルは作業スペースの問題です。この記事では、室内でも部屋を汚さずに植え替えを完了させる方法を、準備・手順・片付けまで具体的に解説します。

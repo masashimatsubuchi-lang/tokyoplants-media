@@ -13,12 +13,12 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "soil/white-particles-in-soil"
 baseProducts:
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 「ゼオライトって本当に効果あるの？」「土に混ぜるだけでいいの？」「100均のゼオライトでも同じ？」——ゼオライトの効果について疑問を抱いている人は多いです。

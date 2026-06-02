@@ -14,9 +14,9 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
+    url: "https://www.tokyoplants.com/items/142692278"
+    price: "¥1,200"
 ---
 
 ポトスは「初心者でも枯れにくい」と言われる観葉植物の代表格です。水挿しでも育つほど丈夫ですが、土植えで長く育てるなら土選びが重要になります。
