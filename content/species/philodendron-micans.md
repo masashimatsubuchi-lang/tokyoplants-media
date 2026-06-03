@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Philodendron_scandens_subsp_oxycardium2.jpg/1200px-Philodendron_scandens_subsp_oxycardium2.jpg"
+image: "https://plus.unsplash.com/premium_photo-1672419013359-3e0a2f9c039a?w=800&q=80"
 title: "フィロデンドロン・ミカンス｜ビロード葉の魅力と育て方"
 description: "フィロデンドロン・ミカンスの基本情報、葉色の変化、つる性の管理方法、育て方とトラブル対策を図鑑形式で解説します。"
 date: "2026-02-17"

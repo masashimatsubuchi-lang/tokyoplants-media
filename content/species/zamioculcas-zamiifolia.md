@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Zamioculcas_zamiifolia_1.jpg/1200px-Zamioculcas_zamiifolia_1.jpg"
+image: "https://plus.unsplash.com/premium_photo-1743947642524-f1cddd6cb625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ザミオクルカスの育て方図鑑"
 description: "ザミオクルカス（ZZ plant）の特徴、置き場所、水やり、植え替え、増やし方、トラブル対策を図鑑形式で解説します。"
 date: "2026-02-17"

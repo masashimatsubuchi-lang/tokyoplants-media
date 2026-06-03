@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Philodendron_gloriosum_%2829587099650%29.jpg/1200px-Philodendron_gloriosum_%2829587099650%29.jpg"
+image: "https://images.unsplash.com/photo-1710858391978-d698fdaf23d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "フィロデンドロン・グロリオーサム｜ベルベット葉の特徴と育て方"
 description: "フィロデンドロン・グロリオーサムの基本情報、這うように伸びる茎の性質、育て方、よくあるトラブルと対処法を図鑑形式で解説します。"
 date: "2026-02-17"

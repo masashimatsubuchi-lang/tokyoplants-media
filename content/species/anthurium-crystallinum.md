@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alismatales_-_Anthurium_crystallinum_2.jpg/1200px-Alismatales_-_Anthurium_crystallinum_2.jpg"
+image: "https://plus.unsplash.com/premium_photo-1701193527116-7bef6b0ce8e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アンスリウム・クリスタリナム｜銀葉脈が美しい葉ものアンスリウムの育て方"
 description: "アンスリウム・クリスタリナムの基本情報、銀色の葉脈の特徴、クラリネルビウムとの違い、育て方、よくあるトラブルを解説します。"
 date: "2026-02-17"

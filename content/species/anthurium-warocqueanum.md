@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/L%27Illustration_horticole_%28Plate_392%29.jpg/1200px-L%27Illustration_horticole_%28Plate_392%29.jpg"
+image: "/images/products/anthurium-warocqueanum-mature.jpg"
 title: "アンスリウム・ワロクアナム｜キングアンスリウムの特徴と育て方"
 description: "アンスリウム・ワロクアナム（Queen Anthurium）の基本情報、1m超の剣状葉の特徴、栽培環境、よくあるトラブルを解説します。"
 date: "2026-02-17"

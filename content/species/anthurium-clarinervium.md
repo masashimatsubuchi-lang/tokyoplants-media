@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Anthurium_clarinervium.jpg/1200px-Anthurium_clarinervium.jpg"
+image: "https://plus.unsplash.com/premium_photo-1676654936496-67e5bc9e7235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アンスリウム・クラリネルビウム｜ハート型の銀葉脈が人気の品種"
 description: "アンスリウム・クラリネルビウムの基本情報、革質の厚い葉、育て方、よくあるトラブルを解説。葉ものアンスリウムの入門種です。"
 date: "2026-02-17"

@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Monstera_adansonii_79319231.jpg/1200px-Monstera_adansonii_79319231.jpg"
+image: "https://plus.unsplash.com/premium_photo-1777051405301-9a96dfb2133b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "モンステラ・アダンソニー（マドカズラ）｜特徴・育て方・品種を解説"
 description: "モンステラ・アダンソニー（マドカズラ）の基本情報、葉の穴の特徴、品種バリエーション、育て方、よくあるトラブルを詳しく解説します。"
 date: "2026-02-17"

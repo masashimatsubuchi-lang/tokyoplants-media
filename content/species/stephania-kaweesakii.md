@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%81%E0%B8%AB%E0%B8%B4%E0%B8%99_3.jpg/1200px-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%81%E0%B8%AB%E0%B8%B4%E0%B8%99_3.jpg"
+image: "https://plus.unsplash.com/premium_photo-1675720869138-0bc85ab78f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ステファニア・カウィーサキ｜丸い塊根と透明感のある葉の図鑑"
 description: "ステファニア・カウィーサキの基本情報、特徴、他品種との違い、入手方法をまとめた図鑑ページです。丸い塊根と薄く透明感のある丸葉が魅力の希少コーデックスを解説します。"
 date: "2026-02-20"

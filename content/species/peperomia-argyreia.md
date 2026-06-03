@@ -1,5 +1,5 @@
 ---
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Peperomia_argyreia.jpg/1200px-Peperomia_argyreia.jpg"
+image: "https://plus.unsplash.com/premium_photo-1675342786681-e33a19414cfd?w=800&q=80"
 title: "ペペロミア・アルギレイア｜スイカ柄葉の育て方"
 description: "ペペロミア・アルギレイア（スイカペペ）の特徴、葉柄の管理、水やりのコツ、徒長や根腐れの対策を図鑑形式で解説します。"
 date: "2026-02-17"
