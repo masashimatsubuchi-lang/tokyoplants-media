@@ -1,5 +1,5 @@
 ---
-image: "/images/products/anthurium-warocqueanum-portrait.jpg"
+image: "https://plus.unsplash.com/premium_photo-1672419013359-3e0a2f9c039a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アンスリウムの梅雨・夏管理｜高湿度を活かす育て方と注意点"
 description: "梅雨・夏はアンスリウム（ワロクアーナム・レガレ）の成長期。高湿度を活かしながら蒸れ・根腐れを防ぐ管理方法、水やり頻度の調整、夏の肥料タイミングを解説します。"
 date: "2026-06-03"

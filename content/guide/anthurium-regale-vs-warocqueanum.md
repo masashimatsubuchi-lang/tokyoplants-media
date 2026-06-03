@@ -1,5 +1,5 @@
 ---
-image: "/images/products/anthurium-regale-group.jpg"
+image: "https://plus.unsplash.com/premium_photo-1677623061869-d1372f0bebe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アンスリウム・レガレとワロクアーナムの違い｜どちらを選ぶべきか"
 description: "アンスリウム・レガレとワロクアーナムの葉形・難易度・湿度要求・育てやすさを徹底比較。はじめてベルベットアンスリウムを選ぶ人への判断基準を解説します。"
 date: "2026-06-03"
