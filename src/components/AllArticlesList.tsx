@@ -13,7 +13,7 @@ export default function AllArticlesList({ posts }: { posts: PostMeta[] }) {
 
   return (
     <>
-      <div className="mt-10 grid gap-8 sm:grid-cols-2">
+      <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
         {visible.map((post) => (
           <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
         ))}
