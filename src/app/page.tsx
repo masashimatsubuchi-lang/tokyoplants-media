@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import Script from "next/script";
 import { getAllPosts, getPostsByCategory } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
@@ -274,17 +275,24 @@ export default function Home() {
 
       {/* Instagram */}
       <section className="border-t border-gray-100 py-16">
-        <div className="mx-auto max-w-5xl px-4 text-center">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400">
-            Instagram
-          </p>
-          <h2 className="mt-3 text-xl md:text-2xl font-bold tracking-tight text-gray-900">
-            @tokyoplants_
-          </h2>
-          <p className="mt-2 text-sm text-gray-400">
-            入荷情報・育て方のコツを発信中
-          </p>
-          <div className="mt-6">
+        <div className="mx-auto max-w-5xl px-4">
+          <div className="text-center">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400">
+              Instagram
+            </p>
+            <h2 className="mt-3 text-xl md:text-2xl font-bold tracking-tight text-gray-900">
+              @tokyoplants_
+            </h2>
+            <p className="mt-2 text-sm text-gray-400">
+              入荷情報・育て方のコツを発信中
+            </p>
+          </div>
+          {/* Behold Instagram feed */}
+          <div className="mt-8">
+            {/* @ts-expect-error: behold-widget is a custom element */}
+            <behold-widget feed-id="bSzZ9HspWQL63I2d0INH"></behold-widget>
+          </div>
+          <div className="mt-8 text-center">
             <a
               href="https://www.instagram.com/tokyoplants_"
               target="_blank"
@@ -296,6 +304,11 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <Script
+        src="https://w.behold.so/widget.js"
+        type="module"
+        strategy="afterInteractive"
+      />
     </>
   );
 }
