@@ -142,7 +142,11 @@ export default function AdminPage() {
                   e.preventDefault();
                   setDragOver((prev) => ({ ...prev, [slug]: true }));
                 }}
-                onDragLeave={() => setDragOver((prev) => ({ ...prev, [slug]: false }))}
+                onDragLeave={(e) => {
+                  if (!e.currentTarget.contains(e.relatedTarget as Node)) {
+                    setDragOver((prev) => ({ ...prev, [slug]: false }));
+                  }
+                }}
                 onDrop={(e) => handleDrop(e, slug)}
                 className={`bg-white rounded-xl overflow-hidden shadow-sm border-2 transition-colors ${
                   isDragOver ? 'border-emerald-400 shadow-emerald-100' : 'border-transparent'
