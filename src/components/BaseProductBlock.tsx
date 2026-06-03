@@ -28,6 +28,10 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("Holy Grail") || product.title.includes("ホーリーグレイル") || product.url.includes("/items/144787813");
   };
 
+  const isLeatherBotanical = (product: BaseProduct): boolean => {
+    return product.title.includes("Leather Botanical") || product.url.includes("/categories/7318231") || product.url.includes("/items/143263775");
+  };
+
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
@@ -65,6 +69,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           const isWaroc = isWarocqueanum(product);
           const isReg = isRegale(product);
           const isHG = isHolyGrail(product);
+          const isLB = isLeatherBotanical(product);
 
           return (
             <a
@@ -75,13 +80,13 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
                 isSoldOut
                   ? "border-gray-200 opacity-60 cursor-not-allowed"
-                  : isSoil || isTowel || isHydro || isWaroc || isReg || isHG
+                  : isSoil || isTowel || isHydro || isWaroc || isReg || isHG || isLB
                     ? "border-emerald-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:shadow-md"
                     : "border-gray-200 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
               }`}
             >
               <div className={`flex items-center justify-center overflow-hidden rounded-xl border ${
-                isSoil || isTowel || isHydro || isWaroc || isReg || isHG
+                isSoil || isTowel || isHydro || isWaroc || isReg || isHG || isLB
                   ? "h-24 w-24 border-emerald-200 bg-emerald-50/70"
                   : "h-20 w-20 border-emerald-100 bg-emerald-50"
               }`}>
@@ -151,6 +156,25 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         希少コレクター種
+                      </span>
+                    </div>
+                  </>
+                )}
+                {isLB && (
+                  <>
+                    <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
+                      SISHI CRAFT × tokyoplants。イタリアンレザーで一点一点手作業で仕立てた「革の植物」。
+                    </p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">受注生産・制作期間約1ヶ月</p>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        職人手作業
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        経年変化あり
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        水やり不要
                       </span>
                     </div>
                   </>

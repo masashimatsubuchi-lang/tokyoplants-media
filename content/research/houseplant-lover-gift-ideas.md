@@ -7,10 +7,14 @@ category: "research"
 tags: ["プレゼント", "ギフト", "観葉植物", "おすすめ", "予算別"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "review/leather-botanical-collection"
   - "review/daily-botanical-towel-review"
   - "guide/monstera-care"
   - "soil/recommended-soil-for-houseplants"
 baseProducts:
+  - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
+    url: "https://www.tokyoplants.com/categories/7318231"
+    price: "¥18,000〜"
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
@@ -112,7 +116,23 @@ Amazon評価: 4.3 / 1,579件（2026-02-20取得）
 
 ## 予算5,000円以上｜特別な日に贈りたいギフト
 
-### 8. 植物育成ライト
+### 8. レザーボタニカルコレクション（SISHI CRAFT × tokyoplants）
+
+**¥18,000〜（税込）**
+
+台湾のレザーアーティスト SISHI CRAFT と tokyoplants のコラボレーション作品。植物タンニン鞣しのイタリアンレザーで、モンステラ・アンスリウム・ビカクシダを一点一点手作業で仕立てた「革でできた植物」です。
+
+**おすすめポイント：**
+- 水やり不要で永く飾れる——「枯らす心配をかけない」プレゼント
+- 受注生産・手作業の一点物という圧倒的な特別感
+- 植物好きが「こんなものがあるのか」と驚く意外性
+- 革が経年変化して深みを増す——飾るほどに育つ
+
+¥18,000という価格帯は「記念日・誕生日など特別な日に贈る」ギフトとして理想的なライン。受注生産のため、贈る日から逆算して早めに注文してください。
+
+[Leather Botanical Collection を見る](https://www.tokyoplants.com/categories/7318231)
+
+### 9. 植物育成ライト
 
 **¥5,000〜10,000円**
 
