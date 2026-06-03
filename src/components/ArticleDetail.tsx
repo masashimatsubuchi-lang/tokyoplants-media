@@ -36,6 +36,11 @@ function splitAfterSecondH2(html: string): [string, string] {
 }
 
 
+/** 最初の <h1>...</h1> を除去（frontmatter の title と重複するため） */
+function stripFirstH1(html: string): string {
+  return html.replace(/<h1[^>]*>[\s\S]*?<\/h1>/, "");
+}
+
 function withHeadingIds(contentHtml: string): { html: string; toc: TocItem[] } {
   const toc: TocItem[] = [];
   let index = 0;
@@ -55,7 +60,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const sameCategoryPosts = getSameCategoryPosts(post.category, post.slug);
   const isGenusPage = post.slug.startsWith("genus-");
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
-  const { html: contentWithIds, toc } = withHeadingIds(post.contentHtml);
+  const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
   const showInlineBanner = ["soil", "guide", "species"].includes(post.category) && hasInlineProduct(post.baseProducts);
   const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterSecondH2(contentWithIds) : [contentWithIds, ""];
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
