@@ -54,13 +54,25 @@ SISHI CRAFTは台湾を拠点とするレザーアーティスト。植物のシ
 
 斑入りモンステラ（モンステラ・デリシオーサ バリエガタ）をモチーフにした作品。白い斑の部分もレザーで表現し、葉の切れ込みや不規則な形までも忠実に再現しています。
 
+[![Monstera deliciosa variegated｜レザーボタニカル](/images/products/leather-botanical-monstera-hand.jpg)](https://www.tokyoplants.com/items/143263775)
+
+[Monstera deliciosa variegated を見る →](https://www.tokyoplants.com/items/143263775)
+
 ### Anthurium warocqueanum｜¥18,000
 
 1mを超える剣状のベルベット葉で知られるアンスリウム・ワロクアーナム。白銀の葉脈が走る圧倒的な存在感をレザーで表現しています。
 
+[![Anthurium warocqueanum｜レザーボタニカル](/images/products/leather-botanical-warocqueanum.jpg)](https://www.tokyoplants.com/categories/7318231)
+
+[Anthurium warocqueanum を見る →](https://www.tokyoplants.com/categories/7318231)
+
 ### Platycerium willinckii｜¥28,000
 
 独特の胞子葉と貯水葉を持つビカクシダ（Platycerium willinckii）。着生植物の立体的な構造感もレザーで再現した、コレクションの中でも特に複雑な作品です。
+
+[![Platycerium willinckii｜レザーボタニカル](/images/products/leather-botanical-platycerium.jpg)](https://www.tokyoplants.com/categories/7318231)
+
+[Platycerium willinckii を見る →](https://www.tokyoplants.com/categories/7318231)
 
 ---
 
