@@ -1,20 +1,25 @@
 ---
-image: "https://images.unsplash.com/photo-1616500045776-4bc1cc4e42e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "フィロデンドロン・メラノクリサム｜黄金の葉脈が輝くベルベット葉の図鑑"
-description: "フィロデンドロン・メラノクリサムの基本情報、ブロンズ〜濃緑のベルベット葉と金色の葉脈の特徴、育て方のポイント、グロリオサムとの違いを図鑑形式で解説します。"
-date: "2026-06-03"
-category: "species"
-tags: ["フィロデンドロン", "メラノクリサム", "ベルベット葉", "図鑑", "コレクター"]
-author: "tokyoplants 編集部"
-genus: "philodendron"
+image: /images/products/philodendron-melanochrysum-header.jpg
+title: フィロデンドロン・メラノクリサム｜黄金の葉脈が輝くベルベット葉の図鑑
+description: フィロデンドロン・メラノクリサムの基本情報、ブロンズ〜濃緑のベルベット葉と金色の葉脈の特徴、育て方のポイント、グロリオサムとの違いを図鑑形式で解説します。
+date: '2026-06-03'
+category: species
+tags:
+  - フィロデンドロン
+  - メラノクリサム
+  - ベルベット葉
+  - 図鑑
+  - コレクター
+author: tokyoplants 編集部
+genus: philodendron
 relatedSlugs:
-  - "species/philodendron-gloriosum"
-  - "species/genus-philodendron"
-  - "guide/philodendron-for-beginners"
+  - species/philodendron-gloriosum
+  - species/genus-philodendron
+  - guide/philodendron-for-beginners
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 # フィロデンドロン・メラノクリサム｜黄金の葉脈が輝くベルベット葉の図鑑

@@ -1,20 +1,25 @@
 ---
-image: "https://images.unsplash.com/photo-1757357068337-eda3e36e4abd?w=800&q=80"
-title: "ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方"
-description: "ビカクシダ・リドレイの基本情報、キャベツ状の貯水葉や直立する胞子葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。"
-date: "2026-02-21"
-category: "species"
-tags: ["ビカクシダ", "リドレイ", "プラティセリウム", "図鑑", "着生植物"]
-author: "tokyoplants 編集部"
-genus: "platycerium"
+image: /images/products/platycerium-ridleyi-header.jpg
+title: ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方
+description: ビカクシダ・リドレイの基本情報、キャベツ状の貯水葉や直立する胞子葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。
+date: '2026-02-21'
+category: species
+tags:
+  - ビカクシダ
+  - リドレイ
+  - プラティセリウム
+  - 図鑑
+  - 着生植物
+author: tokyoplants 編集部
+genus: platycerium
 relatedSlugs:
-  - "species/genus-platycerium"
-  - "guide/root-rot-causes-and-recovery"
-  - "soil/improve-drainage-for-houseplants"
+  - species/genus-platycerium
+  - guide/root-rot-causes-and-recovery
+  - soil/improve-drainage-for-houseplants
 baseProducts:
-  - title: "観葉植物の商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382090"
-    price: ""
+  - title: 観葉植物の商品一覧
+    url: 'https://www.tokyoplants.com/categories/6382090'
+    price: ''
 ---
 
 # ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方

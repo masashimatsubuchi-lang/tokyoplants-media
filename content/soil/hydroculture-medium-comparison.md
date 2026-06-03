@@ -1,24 +1,30 @@
 ---
-image: "https://images.unsplash.com/photo-1642433689275-5b369f1caf48?w=800&q=80"
-title: "ハイドロカルチャーの培地おすすめ比較｜LECA・溶岩石の違い"
-description: "ハイドロカルチャーに使う培地の選び方を徹底比較。LECA・溶岩石・ゼオライト・パミスの特徴と違い、アロカシア・モンステラなどアロイド系に最適な培地の条件がわかります。"
-date: "2026-06-03"
-category: "soil"
-tags: ["ハイドロカルチャー", "培地", "LECA", "溶岩石", "ゼオライト"]
-author: "tokyoplants 編集部"
+image: /images/products/hydroculture-medium-comparison-header.jpg
+title: ハイドロカルチャーの培地おすすめ比較｜LECA・溶岩石の違い
+description: >-
+  ハイドロカルチャーに使う培地の選び方を徹底比較。LECA・溶岩石・ゼオライト・パミスの特徴と違い、アロカシア・モンステラなどアロイド系に最適な培地の条件がわかります。
+date: '2026-06-03'
+category: soil
+tags:
+  - ハイドロカルチャー
+  - 培地
+  - LECA
+  - 溶岩石
+  - ゼオライト
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/hydroculture-vs-soil"
-  - "soil/lava-rock-for-houseplants"
-  - "soil/zeolite-for-houseplants"
-  - "guide/bottom-watering-houseplants"
-  - "soil/soilless-houseplant-growing"
+  - soil/hydroculture-vs-soil
+  - soil/lava-rock-for-houseplants
+  - soil/zeolite-for-houseplants
+  - guide/bottom-watering-houseplants
+  - soil/soilless-houseplant-growing
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 「ハイドロカルチャーを始めたいけど、どの培地を選べばいい？」「LECAと溶岩石の違いがわからない」——培地選びに悩む人は少なくありません。
