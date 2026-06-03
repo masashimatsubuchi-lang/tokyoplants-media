@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/products/leather-botanical-monstera-stand.jpg"
 title: "SISHI CRAFT × tokyoplants｜革で作られた植物、レザーボタニカルコレクション"
 description: "台湾のレザーアーティスト SISHI CRAFT と tokyoplants のコラボレーション。植物タンニン鞣しのイタリアンレザーで一点一点手作業で仕立てた「革の植物」コレクションを紹介します。"
 date: "2026-06-03"

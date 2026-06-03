@@ -41,6 +41,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
     if (isRegale(product)) return "/images/products/anthurium-regale-group.jpg";
     if (isHolyGrail(product)) return "/images/products/alocasia-holy-grail-group.jpg";
+    if (isLeatherBotanical(product)) return "/images/products/leather-botanical-monstera-stand.jpg";
     return undefined;
   };
 

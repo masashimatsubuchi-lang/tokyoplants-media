@@ -1,5 +1,5 @@
 ---
-image: "/images/products/alocasia-holy-grail-group.jpg"
+image: "/images/products/alocasia-holy-grail-group2.jpg"
 title: "アロカシア・ホーリーグレイルの育て方｜深色葉を美しく保つ管理術"
 description: "アロカシア・ホーリーグレイルの育て方を徹底解説。深みのある濃色葉と隆起した葉脈を最大限に活かすための光・湿度・水やり・用土管理を具体的に解説します。"
 date: "2026-06-03"

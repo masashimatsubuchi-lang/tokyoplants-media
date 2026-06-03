@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1683121263622-664434494177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/products/leather-botanical-monstera-hand.jpg"
 title: "植物好きへの1万円以上ギフト｜特別な日に贈る本格プレゼント5選"
 description: "誕生日・記念日・お世話になった方へ。植物好きが本当に喜ぶ1万円以上の本格ギフトを5つ厳選。定番ではない「植物愛が伝わる」特別なプレゼントを紹介します。"
 date: "2026-06-03"

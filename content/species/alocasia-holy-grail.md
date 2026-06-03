@@ -1,5 +1,5 @@
 ---
-image: "/images/products/alocasia-holy-grail-closeup.jpg"
+image: "/images/products/alocasia-holy-grail-closeup2.jpg"
 title: "アロカシア・ホーリーグレイル｜深色メタリック葉のジュエルアロカシア図鑑"
 description: "アロカシア・ホーリーグレイルの基本情報、深みのある濃色葉とメタリックな質感の特徴、他のジュエルアロカシアとの違い、育て方の要点を図鑑形式で解説します。"
 date: "2026-06-03"

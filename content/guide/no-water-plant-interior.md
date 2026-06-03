@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1661284888800-8d5d3e68e3aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/products/leather-botanical-platycerium.jpg"
 title: "水やり不要の植物インテリア｜枯れないグリーンで部屋を飾る方法"
 description: "「植物を枯らしてしまう」「水やりを忘れがち」——そんな方向けに、水やり不要または管理がほぼ不要な植物インテリアの選択肢をまとめました。本革の植物アートから超低管理植物まで紹介します。"
 date: "2026-06-03"
