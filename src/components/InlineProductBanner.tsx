@@ -4,7 +4,7 @@ interface Props {
   products: BaseProduct[];
 }
 
-type ProductType = "soil" | "hydro" | "warocqueanum" | "regale";
+type ProductType = "soil" | "hydro" | "warocqueanum" | "regale" | "holygrail";
 
 interface ProductMeta {
   label: string;
@@ -14,6 +14,12 @@ interface ProductMeta {
 }
 
 const PRODUCT_META: Record<ProductType, ProductMeta> = {
+  holygrail: {
+    heading: "tokyoplants で購入できます",
+    label: "Alocasia 'Holy Grail'",
+    note: "深みのある濃色葉と隆起した葉脈。光で変わるメタリック質感。水苔植え・SELECT STOCK。",
+    img: "/images/products/alocasia-holy-grail-group.jpg",
+  },
   soil: {
     heading: "この記事で使う用土",
     label: "I'm original SOIL",
@@ -41,6 +47,7 @@ const PRODUCT_META: Record<ProductType, ProductMeta> = {
 };
 
 function detectType(product: BaseProduct): ProductType | null {
+  if (product.url.includes("/items/144787813") || product.title.includes("Holy Grail") || product.title.includes("ホーリーグレイル")) return "holygrail";
   if (product.url.includes("/items/94920117") || product.title.includes("Warocqueanum") || product.title.includes("ワロクアーナム")) return "warocqueanum";
   if (product.url.includes("/items/94918874") || product.title.includes("Regale") || product.title.includes("レガレ")) return "regale";
   if (product.url.includes("/items/99620939") || product.title.includes("I'm original SOIL")) return "soil";
@@ -50,7 +57,7 @@ function detectType(product: BaseProduct): ProductType | null {
 
 /** バナーに表示する商品を優先順で1件選ぶ（植物 > 土 > ハイドロ） */
 function pickPrimary(products: BaseProduct[]): { product: BaseProduct; type: ProductType; meta: ProductMeta } | null {
-  const priority: ProductType[] = ["warocqueanum", "regale", "hydro", "soil"];
+  const priority: ProductType[] = ["holygrail", "warocqueanum", "regale", "hydro", "soil"];
   for (const ptype of priority) {
     const found = products.find((p) => detectType(p) === ptype);
     if (found) return { product: found, type: ptype, meta: PRODUCT_META[ptype] };

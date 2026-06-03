@@ -24,6 +24,10 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("Regale") || product.title.includes("レガレ") || product.url.includes("/items/94918874");
   };
 
+  const isHolyGrail = (product: BaseProduct): boolean => {
+    return product.title.includes("Holy Grail") || product.title.includes("ホーリーグレイル") || product.url.includes("/items/144787813");
+  };
+
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
@@ -32,6 +36,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
     if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
     if (isRegale(product)) return "/images/products/anthurium-regale-group.jpg";
+    if (isHolyGrail(product)) return "/images/products/alocasia-holy-grail-group.jpg";
     return undefined;
   };
 
@@ -59,6 +64,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           const isHydro = isHydroProduct(product);
           const isWaroc = isWarocqueanum(product);
           const isReg = isRegale(product);
+          const isHG = isHolyGrail(product);
 
           return (
             <a
@@ -69,13 +75,13 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
                 isSoldOut
                   ? "border-gray-200 opacity-60 cursor-not-allowed"
-                  : isSoil || isTowel || isHydro || isWaroc || isReg
+                  : isSoil || isTowel || isHydro || isWaroc || isReg || isHG
                     ? "border-emerald-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:shadow-md"
                     : "border-gray-200 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
               }`}
             >
               <div className={`flex items-center justify-center overflow-hidden rounded-xl border ${
-                isSoil || isTowel || isHydro || isWaroc || isReg
+                isSoil || isTowel || isHydro || isWaroc || isReg || isHG
                   ? "h-24 w-24 border-emerald-200 bg-emerald-50/70"
                   : "h-20 w-20 border-emerald-100 bg-emerald-50"
               }`}>
@@ -139,6 +145,25 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                     <div className="mt-2 flex flex-wrap gap-1.5">
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         大判ハート型葉
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        お得なセレクト株
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        希少コレクター種
+                      </span>
+                    </div>
+                  </>
+                )}
+                {isHG && (
+                  <>
+                    <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
+                      深みのある濃色葉と強く隆起した葉脈。光の角度でメタリック光沢が生まれる存在感。
+                    </p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">水苔植え・SELECT STOCK</p>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        ジュエルアロカシア
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
                         お得なセレクト株
