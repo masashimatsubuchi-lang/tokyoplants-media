@@ -1,26 +1,31 @@
 ---
-image: "/images/products/anthurium-regale-group.jpg"
-title: "アンスリウム・レガレ｜横幅のある重厚なベルベット葉の特徴と育て方"
-description: "アンスリウム・レガレの基本情報、横幅のある重厚なベルベット葉と白い葉脈の特徴、育て方、ワロクアーナムとの違いを解説します。"
-date: "2026-06-03"
-category: "species"
-tags: ["アンスリウム", "レガレ", "葉もの", "図鑑", "コレクター"]
-author: "tokyoplants 編集部"
-genus: "anthurium"
+image: /images/products/anthurium-regale-header.jpg
+title: アンスリウム・レガレ｜横幅のある重厚なベルベット葉の特徴と育て方
+description: アンスリウム・レガレの基本情報、横幅のある重厚なベルベット葉と白い葉脈の特徴、育て方、ワロクアーナムとの違いを解説します。
+date: '2026-06-03'
+category: species
+tags:
+  - アンスリウム
+  - レガレ
+  - 葉もの
+  - 図鑑
+  - コレクター
+author: tokyoplants 編集部
+genus: anthurium
 relatedSlugs:
-  - "species/genus-anthurium"
-  - "species/anthurium-warocqueanum"
-  - "species/velvet-anthurium-types-comparison"
-  - "guide/anthurium-regale-care-guide"
-  - "guide/anthurium-regale-vs-warocqueanum"
-  - "guide/root-rot-causes-and-recovery"
+  - species/genus-anthurium
+  - species/anthurium-warocqueanum
+  - species/velvet-anthurium-types-comparison
+  - guide/anthurium-regale-care-guide
+  - guide/anthurium-regale-vs-warocqueanum
+  - guide/root-rot-causes-and-recovery
 baseProducts:
-  - title: "Anthurium Regale｜アンスリウム・レガレ"
-    url: "https://www.tokyoplants.com/items/94918874"
-    price: "¥4,800"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: Anthurium Regale｜アンスリウム・レガレ
+    url: 'https://www.tokyoplants.com/items/94918874'
+    price: '¥4,800'
+  - title: Daily Botanical Towel｜リーフタオル
+    url: 'https://www.tokyoplants.com/items/135803882'
+    price: '¥2,000'
 ---
 
 ## 基本情報

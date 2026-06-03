@@ -1,22 +1,27 @@
 ---
-image: "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&q=80"
-title: "観葉植物を土なしで育てる方法｜水耕・LECA・苔玉を比較"
-description: "観葉植物を土を使わずに育てる方法を解説。水耕栽培・LECA（ハイドロボール）・苔玉など、土なし栽培の選択肢と管理方法がわかります。"
-date: "2026-02-18"
-category: "soil"
-tags: ["観葉植物", "土なし", "水耕栽培", "LECA", "苔玉"]
-author: "tokyoplants 編集部"
+image: /images/products/soilless-houseplant-growing-header.jpg
+title: 観葉植物を土なしで育てる方法｜水耕・LECA・苔玉を比較
+description: 観葉植物を土を使わずに育てる方法を解説。水耕栽培・LECA（ハイドロボール）・苔玉など、土なし栽培の選択肢と管理方法がわかります。
+date: '2026-02-18'
+category: soil
+tags:
+  - 観葉植物
+  - 土なし
+  - 水耕栽培
+  - LECA
+  - 苔玉
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/hydroculture-vs-soil"
-  - "soil/recommended-soil-for-houseplants"
-  - "soil/indoor-houseplant-soil"
+  - soil/hydroculture-vs-soil
+  - soil/recommended-soil-for-houseplants
+  - soil/indoor-houseplant-soil
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 「土を使いたくない」「虫が嫌」「もっとおしゃれに飾りたい」——観葉植物を土なしで育てたい理由は人それぞれです。

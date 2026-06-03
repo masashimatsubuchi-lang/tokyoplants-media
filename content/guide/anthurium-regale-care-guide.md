@@ -1,24 +1,29 @@
 ---
-image: "/images/products/anthurium-regale-closeup.jpg"
-title: "アンスリウム・レガレの育て方｜重厚なベルベット葉を美しく育てるコツ"
-description: "アンスリウム・レガレの育て方を徹底解説。横幅のある大型ベルベット葉を最大限に活かすための湿度・光・用土・水やり管理を具体的にわかります。"
-date: "2026-06-03"
-category: "guide"
-tags: ["アンスリウム", "レガレ", "育て方", "ベルベットアンスリウム", "葉もの"]
-author: "tokyoplants 編集部"
+image: /images/products/anthurium-regale-care-guide-header.jpg
+title: アンスリウム・レガレの育て方｜重厚なベルベット葉を美しく育てるコツ
+description: アンスリウム・レガレの育て方を徹底解説。横幅のある大型ベルベット葉を最大限に活かすための湿度・光・用土・水やり管理を具体的にわかります。
+date: '2026-06-03'
+category: guide
+tags:
+  - アンスリウム
+  - レガレ
+  - 育て方
+  - ベルベットアンスリウム
+  - 葉もの
+author: tokyoplants 編集部
 relatedSlugs:
-  - "species/anthurium-regale"
-  - "guide/anthurium-regale-vs-warocqueanum"
-  - "species/velvet-anthurium-types-comparison"
-  - "guide/anthurium-care-for-beginners"
-  - "guide/root-rot-causes-and-recovery"
+  - species/anthurium-regale
+  - guide/anthurium-regale-vs-warocqueanum
+  - species/velvet-anthurium-types-comparison
+  - guide/anthurium-care-for-beginners
+  - guide/root-rot-causes-and-recovery
 baseProducts:
-  - title: "Anthurium Regale｜アンスリウム・レガレ"
-    url: "https://www.tokyoplants.com/items/94918874"
-    price: "¥4,800"
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: Anthurium Regale｜アンスリウム・レガレ
+    url: 'https://www.tokyoplants.com/items/94918874'
+    price: '¥4,800'
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 横幅のある重厚なハート型の葉に、白銀の葉脈が放射状に走る——アンスリウム・レガレは「王にふさわしい」を意味する学名どおり、ベルベットアンスリウムの中でも圧倒的な存在感を持つ種です。

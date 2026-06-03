@@ -1,22 +1,27 @@
 ---
-image: "https://images.unsplash.com/photo-1464226184884-fa280b87c399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "観葉植物の夏越し完全ガイド｜高温・直射日光・乾燥への対策"
-description: "観葉植物の夏越しで押さえるべきポイントを解説。高温障害・葉焼け・乾燥による水切れ・エアコン乾燥対策まで、夏を安全に乗り越えるための管理方法をまとめました。"
-date: "2026-06-03"
-category: "guide"
-tags: ["夏越し", "観葉植物", "夏", "高温対策", "管理"]
-author: "tokyoplants 編集部"
+image: /images/products/summer-houseplant-care-header.jpg
+title: 観葉植物の夏越し完全ガイド｜高温・直射日光・乾燥への対策
+description: 観葉植物の夏越しで押さえるべきポイントを解説。高温障害・葉焼け・乾燥による水切れ・エアコン乾燥対策まで、夏を安全に乗り越えるための管理方法をまとめました。
+date: '2026-06-03'
+category: guide
+tags:
+  - 夏越し
+  - 観葉植物
+  - 夏
+  - 高温対策
+  - 管理
+author: tokyoplants 編集部
 relatedSlugs:
-  - "guide/rainy-season-houseplant-care"
-  - "soil/recommended-soil-for-houseplants"
-  - "guide/root-rot-causes-and-recovery"
+  - guide/rainy-season-houseplant-care
+  - soil/recommended-soil-for-houseplants
+  - guide/root-rot-causes-and-recovery
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 # 観葉植物の夏越し完全ガイド｜高温・直射日光・乾燥への対策

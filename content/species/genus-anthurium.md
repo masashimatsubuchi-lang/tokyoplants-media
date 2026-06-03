@@ -1,22 +1,27 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1672997524867-b08795be6fb2?w=800&q=80"
-title: "アンスリウム属とは｜主な品種・育て方・特徴を解説"
-description: "アンスリウム属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
-date: "2026-02-17"
-category: "species"
-tags: ["アンスリウム", "図鑑", "品種", "サトイモ科", "観葉植物"]
-author: "tokyoplants 編集部"
+image: /images/products/genus-anthurium-header.jpg
+title: アンスリウム属とは｜主な品種・育て方・特徴を解説
+description: アンスリウム属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。
+date: '2026-02-17'
+category: species
+tags:
+  - アンスリウム
+  - 図鑑
+  - 品種
+  - サトイモ科
+  - 観葉植物
+author: tokyoplants 編集部
 relatedSlugs:
-  - "guide/anthurium-care-for-beginners"
-  - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - guide/anthurium-care-for-beginners
+  - guide/root-rot-causes-and-recovery
+  - soil/recommended-soil-for-houseplants
 baseProducts:
-  - title: "アンスリウムの商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382097"
-    price: ""
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: アンスリウムの商品一覧
+    url: 'https://www.tokyoplants.com/categories/6382097'
+    price: ''
+  - title: Daily Botanical Towel｜リーフタオル
+    url: 'https://www.tokyoplants.com/items/135803882'
+    price: '¥2,000'
 ---
 
 ## アンスリウム属とは

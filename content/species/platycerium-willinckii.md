@@ -1,20 +1,25 @@
 ---
-image: "https://images.unsplash.com/photo-1726576218358-cdb3386f26a7?w=800&q=80"
-title: "ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方"
-description: "ビカクシダ・ウィリンキーの基本情報、細長く垂れ下がる胞子葉の特徴、板付けでの育て方、トラブル対策、増やし方を専門的に解説します。"
-date: "2026-02-21"
-category: "species"
-tags: ["ビカクシダ", "ウィリンキー", "プラティセリウム", "図鑑", "着生植物"]
-author: "tokyoplants 編集部"
-genus: "platycerium"
+image: /images/products/platycerium-willinckii-header.jpg
+title: ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方
+description: ビカクシダ・ウィリンキーの基本情報、細長く垂れ下がる胞子葉の特徴、板付けでの育て方、トラブル対策、増やし方を専門的に解説します。
+date: '2026-02-21'
+category: species
+tags:
+  - ビカクシダ
+  - ウィリンキー
+  - プラティセリウム
+  - 図鑑
+  - 着生植物
+author: tokyoplants 編集部
+genus: platycerium
 relatedSlugs:
-  - "species/genus-platycerium"
-  - "guide/root-rot-causes-and-recovery"
-  - "soil/improve-drainage-for-houseplants"
+  - species/genus-platycerium
+  - guide/root-rot-causes-and-recovery
+  - soil/improve-drainage-for-houseplants
 baseProducts:
-  - title: "観葉植物の商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382090"
-    price: ""
+  - title: 観葉植物の商品一覧
+    url: 'https://www.tokyoplants.com/categories/6382090'
+    price: ''
 ---
 
 # ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方
