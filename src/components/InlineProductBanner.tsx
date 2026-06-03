@@ -50,7 +50,7 @@ function detectType(product: BaseProduct): ProductType | null {
 
 /** バナーに表示する商品を優先順で1件選ぶ（植物 > 土 > ハイドロ） */
 function pickPrimary(products: BaseProduct[]): { product: BaseProduct; type: ProductType; meta: ProductMeta } | null {
-  const priority: ProductType[] = ["warocqueanum", "regale", "soil", "hydro"];
+  const priority: ProductType[] = ["warocqueanum", "regale", "hydro", "soil"];
   for (const ptype of priority) {
     const found = products.find((p) => detectType(p) === ptype);
     if (found) return { product: found, type: ptype, meta: PRODUCT_META[ptype] };
