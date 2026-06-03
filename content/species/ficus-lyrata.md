@@ -1,20 +1,25 @@
 ---
-image: "https://images.unsplash.com/photo-1545239351-ef35f43d514b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "フィカス・リラータ（カシワバゴム）｜大判葉のインテリアツリー図鑑"
-description: "フィカス・リラータ（カシワバゴムノキ）の基本情報、バイオリンの形に似た大判葉の特徴、置き場所・水やり・植え替えなど育て方のポイントを図鑑形式で解説します。"
-date: "2026-06-03"
-category: "species"
-tags: ["フィカス", "リラータ", "カシワバゴム", "図鑑", "インテリアグリーン"]
-author: "tokyoplants 編集部"
-genus: "ficus"
+image: /images/products/ficus-lyrata-header.jpg
+title: フィカス・リラータ（カシワバゴム）｜大判葉のインテリアツリー図鑑
+description: フィカス・リラータ（カシワバゴムノキ）の基本情報、バイオリンの形に似た大判葉の特徴、置き場所・水やり・植え替えなど育て方のポイントを図鑑形式で解説します。
+date: '2026-06-03'
+category: species
+tags:
+  - フィカス
+  - リラータ
+  - カシワバゴム
+  - 図鑑
+  - インテリアグリーン
+author: tokyoplants 編集部
+genus: ficus
 relatedSlugs:
-  - "species/ficus-umbellata"
-  - "species/genus-ficus"
-  - "guide/monstera-care"
+  - species/ficus-umbellata
+  - species/genus-ficus
+  - guide/monstera-care
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 # フィカス・リラータ（カシワバゴム）｜大判葉のインテリアツリー図鑑
