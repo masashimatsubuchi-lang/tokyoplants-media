@@ -154,13 +154,17 @@ export default function AdminPage() {
                     <img
                       src={imgSrc}
                       alt={article.title}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-cover pointer-events-none"
+                      draggable={false}
                     />
                   ) : (
-                    <div className="w-full h-full flex items-center justify-center text-gray-400 text-xs">
+                    <div className="w-full h-full flex items-center justify-center text-gray-400 text-xs pointer-events-none">
                       画像なし
                     </div>
                   )}
+
+                  {/* Transparent overlay — captures all drag events over the image */}
+                  <div className="absolute inset-0" />
 
                   {/* Loading overlay */}
                   {isUploading && (
@@ -191,7 +195,7 @@ export default function AdminPage() {
                   {/* Drag hint */}
                   {isDragOver && !isUploading && (
                     <div className="absolute inset-0 bg-emerald-500/20 flex items-center justify-center">
-                      <span className="text-emerald-700 font-medium text-sm">ドロップして変更</span>
+                      <span className="text-emerald-700 font-medium text-sm bg-white/80 px-3 py-1 rounded-full">ドロップして変更</span>
                     </div>
                   )}
                 </div>
