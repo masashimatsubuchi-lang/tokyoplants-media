@@ -9,6 +9,7 @@ import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
 import Image from "next/image";
 import Link from "next/link";
+import Script from "next/script";
 
 type TocItem = {
   id: string;
@@ -159,21 +160,29 @@ export default function ArticleDetail({ post }: { post: Post }) {
             <ShopBanner />
 
             {/* Instagram CTA */}
-            <div className="mt-12 flex items-center gap-4 rounded-xl border border-gray-100 bg-gray-50/60 p-5">
-              <span className="text-2xl">📷</span>
-              <div className="flex-1">
-                <p className="text-sm font-bold text-gray-900">Instagram で最新情報をチェック</p>
-                <p className="mt-0.5 text-xs text-gray-500">入荷情報・育て方のコツを発信中</p>
+            <div className="mt-12 rounded-xl border border-gray-100 bg-gray-50/60 p-5">
+              <div className="mb-4 flex items-center justify-between">
+                <div>
+                  <p className="text-sm font-bold text-gray-900">Instagram で最新情報をチェック</p>
+                  <p className="mt-0.5 text-xs text-gray-500">入荷情報・育て方のコツを発信中</p>
+                </div>
+                <a
+                  href="https://www.instagram.com/tokyoplants_"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="shrink-0 rounded-full bg-gray-900 px-5 py-2 text-xs font-semibold text-white hover:bg-gray-700 transition-colors"
+                >
+                  @tokyoplants_
+                </a>
               </div>
-              <a
-                href="https://www.instagram.com/tokyoplants_"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="shrink-0 rounded-full bg-gray-900 px-5 py-2 text-xs font-semibold text-white hover:bg-gray-700 transition-colors"
-              >
-                @tokyoplants_
-              </a>
+              {/* @ts-expect-error: behold-widget is a custom element */}
+              <behold-widget feed-id="bSzZ9HspWQL63I2d0INH"></behold-widget>
             </div>
+            <Script
+              src="https://w.behold.so/widget.js"
+              type="module"
+              strategy="afterInteractive"
+            />
 
             {/* Related Posts */}
             <RelatedPosts posts={relatedPosts} title="関連記事" />
