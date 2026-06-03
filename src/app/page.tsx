@@ -232,6 +232,22 @@ export default function Home() {
         </div>
       </section>
 
+      {/* All Articles */}
+      <section className="border-t border-gray-100 py-24 bg-white">
+        <div className="mx-auto max-w-5xl px-4">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">All Articles</p>
+          <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
+            すべての記事一覧
+          </h2>
+          <p className="mt-2 text-sm text-gray-400">{allPosts.length}本の記事</p>
+          <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+            {allPosts.map((post) => (
+              <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* EC Banner */}
       <section className="py-24">
         <div className="mx-auto max-w-5xl px-4">
