@@ -41,6 +41,10 @@ baseProducts:
 
 「あまり高いものは…」というときにも、¥2,000という価格帯はカジュアルに渡しやすく、メッセージカードを添えるだけで十分な贈り物になります。
 
+[![Daily Botanical Towel｜リーフタオル](/images/products/botanical-towel-main.jpg)](https://www.tokyoplants.com/items/135803882)
+
+[Daily Botanical Towel を見る →](https://www.tokyoplants.com/items/135803882)
+
 ### ¥3,000〜5,000｜植物まわりの道具・消耗品
 
 この価格帯では、おしゃれな水差し、ステンレス製のじょうろ、品質の良い鉢カバーなどが候補に挙がります。普段の植物ケアで毎日使うものを贈ると、実用性と気持ちの両方が伝わります。
@@ -54,6 +58,10 @@ baseProducts:
 これは tokyoplants と革職人 SISHI CRAFT がコラボレーションした、革細工で植物を表現したアートオブジェ。モンステラやアンスリウムなどの葉を本革で再現したボタニカルスタンドは、**水やり不要、枯れる心配なし**。植物を育てる環境がなくても、植物の美しさをそのまま楽しめます。
 
 受注生産のため、一点一点手作業で仕上げられます。まったく同じものは世界に一つだけという特別感は、誕生日や記念日にも負けない父の日ギフトになります。
+
+[![Leather Botanical Collection｜SISHI CRAFT × tokyoplants](/images/products/leather-botanical-monstera-stand.jpg)](https://www.tokyoplants.com/categories/7318231)
+
+[Leather Botanical Collection を見る →](https://www.tokyoplants.com/categories/7318231)
 
 ---
 
