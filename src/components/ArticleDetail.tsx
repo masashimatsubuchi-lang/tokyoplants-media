@@ -4,6 +4,7 @@ import ArticleJsonLd from "./ArticleJsonLd";
 import RelatedPosts from "./RelatedPosts";
 import ArticleCard from "./ArticleCard";
 import BaseProductBlock from "./BaseProductBlock";
+import InlineProductBanner from "./InlineProductBanner";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
 import Image from "next/image";
@@ -17,6 +18,30 @@ type TocItem = {
 
 function stripHtml(text: string): string {
   return text.replace(/<[^>]*>/g, "").trim();
+}
+
+/** 2番目の </h2> の直後でHTMLを2分割する。2つ目のH2が存在しない場合は [html, ""] を返す */
+function splitAfterSecondH2(html: string): [string, string] {
+  let count = 0;
+  const pattern = /<\/h2>/gi;
+  let match: RegExpExecArray | null;
+  while ((match = pattern.exec(html)) !== null) {
+    count++;
+    if (count === 2) {
+      const idx = match.index + match[0].length;
+      return [html.slice(0, idx), html.slice(idx)];
+    }
+  }
+  return [html, ""];
+}
+
+/** baseProducts にソイル or ハイドロ商品が含まれるか判定 */
+function hasSoilOrHydroProduct(products?: { url: string; title: string }[]): boolean {
+  if (!products || products.length === 0) return false;
+  return products.some(
+    (p) => p.url.includes("/items/99620939") || p.url.includes("/items/142692278") ||
+           p.title.includes("I'm original SOIL") || p.title.includes("HYDRO MINERAL"),
+  );
 }
 
 function withHeadingIds(contentHtml: string): { html: string; toc: TocItem[] } {
@@ -39,6 +64,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const isGenusPage = post.slug.startsWith("genus-");
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
   const { html: contentWithIds, toc } = withHeadingIds(post.contentHtml);
+  const showInlineBanner = (post.category === "soil" || post.category === "guide") && hasSoilOrHydroProduct(post.baseProducts);
+  const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterSecondH2(contentWithIds) : [contentWithIds, ""];
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
   ).slice(0, 3);
@@ -102,10 +129,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
             )}
 
             {/* Content */}
-            <div
-              className="prose prose-zinc mt-10 max-w-none prose-headings:scroll-mt-28 prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-700 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-700 prose-li:leading-[1.85]"
-              dangerouslySetInnerHTML={{ __html: contentWithIds }}
-            />
+            <div className="prose prose-zinc mt-10 max-w-none prose-headings:scroll-mt-28 prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-700 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-700 prose-li:leading-[1.85]">
+              <div dangerouslySetInnerHTML={{ __html: htmlTop }} />
+              {showInlineBanner && post.baseProducts && (
+                <InlineProductBanner products={post.baseProducts} />
+              )}
+              {htmlBottom && <div dangerouslySetInnerHTML={{ __html: htmlBottom }} />}
+            </div>
 
             {nextReads.length > 0 && (
               <section className="mt-12 rounded-2xl border border-teal-100 bg-teal-50/40 p-5 md:p-6">
