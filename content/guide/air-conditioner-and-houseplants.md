@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1556739478-a24ae3c30f6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "エアコンと観葉植物｜冷風・乾燥ダメージの防ぎ方と置き場所の選び方"
 description: "夏のエアコンが観葉植物に与えるダメージ（乾燥・冷風・急激な温度差）を解説。エアコンのある部屋での正しい置き場所と、乾燥対策・葉水の効果的なやり方をまとめました。"
 date: "2026-06-03"
