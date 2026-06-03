@@ -1,24 +1,30 @@
 ---
-image: "https://images.unsplash.com/photo-1647153980948-489442cd45b7?w=800&q=80"
-title: "溶岩石を観葉植物に使うメリット｜通気性と根腐れ防止の仕組み"
-description: "溶岩石（火山岩）を観葉植物の培地に使うメリットを解説。多孔質構造による通気性・保水性・根腐れ防止の仕組み、土との違い、ハイドロカルチャーでの使い方がわかります。"
-date: "2026-06-03"
-category: "soil"
-tags: ["溶岩石", "火山岩", "培地", "ハイドロカルチャー", "根腐れ防止"]
-author: "tokyoplants 編集部"
+image: /images/products/lava-rock-for-houseplants-header.jpg
+title: 溶岩石を観葉植物に使うメリット｜通気性と根腐れ防止の仕組み
+description: >-
+  溶岩石（火山岩）を観葉植物の培地に使うメリットを解説。多孔質構造による通気性・保水性・根腐れ防止の仕組み、土との違い、ハイドロカルチャーでの使い方がわかります。
+date: '2026-06-03'
+category: soil
+tags:
+  - 溶岩石
+  - 火山岩
+  - 培地
+  - ハイドロカルチャー
+  - 根腐れ防止
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/zeolite-for-houseplants"
-  - "soil/hydroculture-medium-comparison"
-  - "guide/bottom-watering-houseplants"
-  - "soil/improve-drainage-for-houseplants"
-  - "soil/drainage-stones-guide"
+  - soil/zeolite-for-houseplants
+  - soil/hydroculture-medium-comparison
+  - guide/bottom-watering-houseplants
+  - soil/improve-drainage-for-houseplants
+  - soil/drainage-stones-guide
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 「溶岩石って観葉植物に本当に使えるの？」「土と何が違うの？」——インテリアショップや専門店で溶岩石を見かけたことはあっても、実際の効果がよくわからない人は多いです。
