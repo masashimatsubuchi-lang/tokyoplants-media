@@ -1,24 +1,30 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1675818609791-f670ee74b81c?w=800&q=80"
-title: "ゼオライトを観葉植物に使う効果｜量・配合・根腐れ防止まで"
-description: "ゼオライトを観葉植物の土や培地に使う効果を解説。根腐れ防止・老廃物吸着・通気性改善の仕組み、土への配合量、100均品との違い、ハイドロカルチャーでの使い方がわかります。"
-date: "2026-06-03"
-category: "soil"
-tags: ["ゼオライト", "観葉植物", "根腐れ防止", "培地", "ハイドロカルチャー"]
-author: "tokyoplants 編集部"
+image: /images/products/zeolite-for-houseplants-header.jpg
+title: ゼオライトを観葉植物に使う効果｜量・配合・根腐れ防止まで
+description: >-
+  ゼオライトを観葉植物の土や培地に使う効果を解説。根腐れ防止・老廃物吸着・通気性改善の仕組み、土への配合量、100均品との違い、ハイドロカルチャーでの使い方がわかります。
+date: '2026-06-03'
+category: soil
+tags:
+  - ゼオライト
+  - 観葉植物
+  - 根腐れ防止
+  - 培地
+  - ハイドロカルチャー
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/lava-rock-for-houseplants"
-  - "soil/hydroculture-medium-comparison"
-  - "guide/root-rot-causes-and-recovery"
-  - "soil/improve-drainage-for-houseplants"
-  - "soil/white-particles-in-soil"
+  - soil/lava-rock-for-houseplants
+  - soil/hydroculture-medium-comparison
+  - guide/root-rot-causes-and-recovery
+  - soil/improve-drainage-for-houseplants
+  - soil/white-particles-in-soil
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 「ゼオライトって本当に効果あるの？」「土に混ぜるだけでいいの？」「100均のゼオライトでも同じ？」——ゼオライトの効果について疑問を抱いている人は多いです。

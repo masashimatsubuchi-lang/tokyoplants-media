@@ -1,22 +1,27 @@
 ---
-image: "/images/products/leather-botanical-monstera-hand.jpg"
-title: "植物好きへの1万円以上ギフト｜特別な日に贈る本格プレゼント5選"
-description: "誕生日・記念日・お世話になった方へ。植物好きが本当に喜ぶ1万円以上の本格ギフトを5つ厳選。定番ではない「植物愛が伝わる」特別なプレゼントを紹介します。"
-date: "2026-06-03"
-category: "research"
-tags: ["ギフト", "プレゼント", "誕生日", "1万円以上", "植物好き"]
-author: "tokyoplants 編集部"
+image: /images/products/premium-plant-gift-over-10000-header.jpg
+title: 植物好きへの1万円以上ギフト｜特別な日に贈る本格プレゼント5選
+description: 誕生日・記念日・お世話になった方へ。植物好きが本当に喜ぶ1万円以上の本格ギフトを5つ厳選。定番ではない「植物愛が伝わる」特別なプレゼントを紹介します。
+date: '2026-06-03'
+category: research
+tags:
+  - ギフト
+  - プレゼント
+  - 誕生日
+  - 1万円以上
+  - 植物好き
+author: tokyoplants 編集部
 relatedSlugs:
-  - "research/houseplant-lover-gift-ideas"
-  - "review/leather-botanical-collection"
-  - "review/daily-botanical-towel-review"
+  - research/houseplant-lover-gift-ideas
+  - review/leather-botanical-collection
+  - review/daily-botanical-towel-review
 baseProducts:
-  - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
-    url: "https://www.tokyoplants.com/categories/7318231"
-    price: "¥18,000〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: Leather Botanical Collection｜SISHICRAFT × tokyoplants
+    url: 'https://www.tokyoplants.com/categories/7318231'
+    price: '¥18,000〜'
+  - title: Daily Botanical Towel｜リーフタオル
+    url: 'https://www.tokyoplants.com/items/135803882'
+    price: '¥2,000'
 ---
 
 「植物好きな人に、特別な日にふさわしいプレゼントを贈りたい」——そう思ったとき、¥10,000以上の予算があれば選択肢は一気に広がります。

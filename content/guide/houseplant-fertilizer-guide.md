@@ -1,37 +1,43 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1682146984818-d24498219c2b?w=800&q=80"
-title: "観葉植物の肥料の選び方｜種類・時期・おすすめ製品まで解説"
-description: "観葉植物に必要な肥料の基礎知識を解説。液肥・緩効性肥料・活力剤の違い、与える時期と量、ハイポネックス・マグァンプK・リキダスなどおすすめ製品を紹介します。"
-date: "2026-02-22"
-category: "guide"
-tags: ["肥料", "観葉植物", "液肥", "マグァンプ", "ハイポネックス", "初心者"]
-author: "tokyoplants 編集部"
+image: /images/products/houseplant-fertilizer-guide-header.jpg
+title: 観葉植物の肥料の選び方｜種類・時期・おすすめ製品まで解説
+description: 観葉植物に必要な肥料の基礎知識を解説。液肥・緩効性肥料・活力剤の違い、与える時期と量、ハイポネックス・マグァンプK・リキダスなどおすすめ製品を紹介します。
+date: '2026-02-22'
+category: guide
+tags:
+  - 肥料
+  - 観葉植物
+  - 液肥
+  - マグァンプ
+  - ハイポネックス
+  - 初心者
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
-  - "guide/repotting-houseplants-complete-guide"
-  - "guide/root-rot-causes-and-recovery"
-  - "soil/repotting-soil-guide"
+  - soil/recommended-soil-for-houseplants
+  - guide/repotting-houseplants-complete-guide
+  - guide/root-rot-causes-and-recovery
+  - soil/repotting-soil-guide
 hideAmazonBlock: true
 amazonProducts:
-  - title: "ハイポネックス原液 800ml"
-    asin: "B0027WPD7O"
-    note: "液肥の定番・N-P-K 6-10-5"
-  - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
-    asin: "B07ZTM6H4H"
-    note: "観葉植物専用配合"
-  - title: "マグァンプK 中粒 250g"
-    asin: "B0026R71OS"
-    note: "緩効性元肥の定番・約1年効果持続"
-  - title: "リキダス 800ml"
-    asin: "B01NBTAX3J"
-    note: "活力剤・植え替え後の回復促進"
-  - title: "プロミック 観葉植物用 150g"
-    asin: "B00337XTO6"
-    note: "置くだけ錠剤タイプ"
+  - title: ハイポネックス原液 800ml
+    asin: B0027WPD7O
+    note: 液肥の定番・N-P-K 6-10-5
+  - title: ハイポネックス 専用液肥 観葉植物用 450ml
+    asin: B07ZTM6H4H
+    note: 観葉植物専用配合
+  - title: マグァンプK 中粒 250g
+    asin: B0026R71OS
+    note: 緩効性元肥の定番・約1年効果持続
+  - title: リキダス 800ml
+    asin: B01NBTAX3J
+    note: 活力剤・植え替え後の回復促進
+  - title: プロミック 観葉植物用 150g
+    asin: B00337XTO6
+    note: 置くだけ錠剤タイプ
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 # 観葉植物の肥料の選び方｜種類・時期・おすすめ製品まで解説

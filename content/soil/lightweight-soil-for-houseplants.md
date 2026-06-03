@@ -1,22 +1,27 @@
 ---
-image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=800&q=80"
-title: "観葉植物の軽い土おすすめ｜室内・吊り鉢に最適な用土選び"
-description: "観葉植物に軽い土を使うメリットとおすすめの軽量用土を紹介。吊り鉢やベランダなど重さが気になる場面での選び方を解説。"
-date: "2026-02-18"
-category: "soil"
-tags: ["観葉植物", "軽い土", "パーライト", "吊り鉢", "おすすめ"]
-author: "tokyoplants 編集部"
+image: /images/products/lightweight-soil-for-houseplants-header.jpg
+title: 観葉植物の軽い土おすすめ｜室内・吊り鉢に最適な用土選び
+description: 観葉植物に軽い土を使うメリットとおすすめの軽量用土を紹介。吊り鉢やベランダなど重さが気になる場面での選び方を解説。
+date: '2026-02-18'
+category: soil
+tags:
+  - 観葉植物
+  - 軽い土
+  - パーライト
+  - 吊り鉢
+  - おすすめ
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
-  - "soil/indoor-houseplant-soil"
-  - "soil/how-to-mix-soil-for-houseplants"
+  - soil/recommended-soil-for-houseplants
+  - soil/indoor-houseplant-soil
+  - soil/how-to-mix-soil-for-houseplants
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 吊り鉢で育てたいけど重くて不安。ベランダの耐荷重が心配。鉢の移動が大変——こうした悩みは、軽い土を選ぶことで解決できます。

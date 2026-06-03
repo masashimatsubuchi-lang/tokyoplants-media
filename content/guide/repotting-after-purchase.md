@@ -1,22 +1,27 @@
 ---
-image: "https://images.unsplash.com/photo-1617173944883-6ff1841f9c00?w=800&q=80"
-title: "観葉植物を買ったらすぐ植え替える？｜判断基準と正しい手順"
-description: "観葉植物を購入した直後に植え替えるべきか迷っていませんか？すぐ植え替えるケース・待つべきケースの判断基準と、失敗しない手順を解説します。"
-date: "2026-03-03"
-category: "guide"
-tags: ["観葉植物", "植え替え", "購入直後", "初心者", "春"]
-author: "tokyoplants 編集部"
+image: /images/products/repotting-after-purchase-header.jpg
+title: 観葉植物を買ったらすぐ植え替える？｜判断基準と正しい手順
+description: 観葉植物を購入した直後に植え替えるべきか迷っていませんか？すぐ植え替えるケース・待つべきケースの判断基準と、失敗しない手順を解説します。
+date: '2026-03-03'
+category: guide
+tags:
+  - 観葉植物
+  - 植え替え
+  - 購入直後
+  - 初心者
+  - 春
+author: tokyoplants 編集部
 relatedSlugs:
-  - "guide/repotting-houseplants-complete-guide"
-  - "guide/choosing-pot-size-for-repotting"
-  - "soil/repotting-soil-guide"
+  - guide/repotting-houseplants-complete-guide
+  - guide/choosing-pot-size-for-repotting
+  - soil/repotting-soil-guide
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 「観葉植物を買ったけど、すぐ植え替えたほうがいいの？」——これは植物初心者が最初にぶつかる疑問のひとつです。ネットでは「すぐ植え替えるべき」「しばらく待つべき」と意見が分かれていて、余計に迷いますよね。この記事では、購入直後の植え替え判断を明確な基準で整理します。

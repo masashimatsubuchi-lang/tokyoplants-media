@@ -1,26 +1,32 @@
 ---
-image: "/images/products/anthurium-warocqueanum-group.jpg"
-title: "ベルベットアンスリウム5種類の比較｜ワロクアーナム・クラリネルビウム・クリスタリナム"
-description: "ベルベット質の葉が美しい葉ものアンスリウム5種を比較。ワロクアーナム・クラリネルビウム・クリスタリナム・マグニフィカム・フォルゲティの特徴・難易度・入手性を解説します。"
-date: "2026-06-03"
-category: "species"
-tags: ["アンスリウム", "ベルベットアンスリウム", "葉もの", "比較", "種類"]
-author: "tokyoplants 編集部"
-genus: "anthurium"
+image: /images/products/velvet-anthurium-types-comparison-header.jpg
+title: ベルベットアンスリウム5種類の比較｜ワロクアーナム・クラリネルビウム・クリスタリナム
+description: >-
+  ベルベット質の葉が美しい葉ものアンスリウム5種を比較。ワロクアーナム・クラリネルビウム・クリスタリナム・マグニフィカム・フォルゲティの特徴・難易度・入手性を解説します。
+date: '2026-06-03'
+category: species
+tags:
+  - アンスリウム
+  - ベルベットアンスリウム
+  - 葉もの
+  - 比較
+  - 種類
+author: tokyoplants 編集部
+genus: anthurium
 relatedSlugs:
-  - "species/anthurium-warocqueanum"
-  - "species/anthurium-clarinervium"
-  - "species/anthurium-crystallinum"
-  - "species/anthurium-magnificum"
-  - "species/genus-anthurium"
-  - "guide/anthurium-warocqueanum-care-guide"
+  - species/anthurium-warocqueanum
+  - species/anthurium-clarinervium
+  - species/anthurium-crystallinum
+  - species/anthurium-magnificum
+  - species/genus-anthurium
+  - guide/anthurium-warocqueanum-care-guide
 baseProducts:
-  - title: "Anthurium Warocqueanum｜アンスリウム・ワロクアーナム"
-    url: "https://www.tokyoplants.com/items/94920117"
-    price: "¥4,800"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: Anthurium Warocqueanum｜アンスリウム・ワロクアーナム
+    url: 'https://www.tokyoplants.com/items/94920117'
+    price: '¥4,800'
+  - title: Daily Botanical Towel｜リーフタオル
+    url: 'https://www.tokyoplants.com/items/135803882'
+    price: '¥2,000'
 ---
 
 観葉植物の中でも特別なカテゴリに位置するベルベットアンスリウム。ダークグリーンのベルベット質の葉面に白銀の葉脈が走る姿は、花物アンスリウムとはまったく異なる美しさを持ちます。

@@ -1,24 +1,29 @@
 ---
-image: "https://images.unsplash.com/photo-1461887197298-4b315a1472f5?w=800&q=80"
-title: "アロカシアをハイドロで育てる方法｜培地と水管理のコツ"
-description: "アロカシアをハイドロカルチャーで育てる手順を解説。土からの移行方法、根腐れを防ぐ培地の選び方、水換えの頻度と温度管理まで、失敗しないポイントがわかります。"
-date: "2026-06-03"
-category: "guide"
-tags: ["アロカシア", "ハイドロカルチャー", "底面給水", "培地", "水耕栽培"]
-author: "tokyoplants 編集部"
+image: /images/products/alocasia-hydroculture-header.jpg
+title: アロカシアをハイドロで育てる方法｜培地と水管理のコツ
+description: アロカシアをハイドロカルチャーで育てる手順を解説。土からの移行方法、根腐れを防ぐ培地の選び方、水換えの頻度と温度管理まで、失敗しないポイントがわかります。
+date: '2026-06-03'
+category: guide
+tags:
+  - アロカシア
+  - ハイドロカルチャー
+  - 底面給水
+  - 培地
+  - 水耕栽培
+author: tokyoplants 編集部
 relatedSlugs:
-  - "guide/alocasia-care-guide"
-  - "soil/hydroculture-medium-comparison"
-  - "guide/bottom-watering-houseplants"
-  - "guide/hydroculture-to-soil-transition"
-  - "soil/hydroculture-vs-soil"
+  - guide/alocasia-care-guide
+  - soil/hydroculture-medium-comparison
+  - guide/bottom-watering-houseplants
+  - guide/hydroculture-to-soil-transition
+  - soil/hydroculture-vs-soil
 baseProducts:
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
+  - title: Daily Botanical Towel｜リーフタオル
+    url: 'https://www.tokyoplants.com/items/135803882'
+    price: '¥2,000'
 ---
 
 「アロカシアに土の虫が湧いた」「水やりのタイミングが難しくて根腐れさせてしまった」——アロカシアの育て方で躓く人の多くは、土ではなくハイドロカルチャーに切り替えることで悩みが一気に解消されます。

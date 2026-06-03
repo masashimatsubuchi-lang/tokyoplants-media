@@ -1,22 +1,27 @@
 ---
-image: "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&q=80"
-title: "室内で観葉植物を植え替える方法｜汚さないコツと手順"
-description: "マンションやアパートでも安心。室内で観葉植物を植え替えるときに部屋を汚さない準備と手順、便利グッズを紹介します。"
-date: "2026-03-03"
-category: "guide"
-tags: ["観葉植物", "植え替え", "室内", "マンション", "春"]
-author: "tokyoplants 編集部"
+image: /images/products/indoor-repotting-clean-tips-header.jpg
+title: 室内で観葉植物を植え替える方法｜汚さないコツと手順
+description: マンションやアパートでも安心。室内で観葉植物を植え替えるときに部屋を汚さない準備と手順、便利グッズを紹介します。
+date: '2026-03-03'
+category: guide
+tags:
+  - 観葉植物
+  - 植え替え
+  - 室内
+  - マンション
+  - 春
+author: tokyoplants 編集部
 relatedSlugs:
-  - "guide/repotting-houseplants-complete-guide"
-  - "guide/repotting-after-purchase"
-  - "soil/indoor-houseplant-soil"
+  - guide/repotting-houseplants-complete-guide
+  - guide/repotting-after-purchase
+  - soil/indoor-houseplant-soil
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 「植え替えしたいけど、庭もベランダも狭い」「室内で土を扱うと汚れそうで怖い」——マンション住まいの方にとって、植え替えの最大のハードルは作業スペースの問題です。この記事では、室内でも部屋を汚さずに植え替えを完了させる方法を、準備・手順・片付けまで具体的に解説します。

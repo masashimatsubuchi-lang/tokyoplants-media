@@ -1,23 +1,30 @@
 ---
-image: "/images/products/botanical-towel/product-on-table.jpg"
-title: "観葉植物モチーフのタオルで暮らしにグリーンを｜Daily Botanical Towel レビュー"
-description: "tokyoplants の Daily Botanical Towel を実際に使ってレビュー。希少植物のリーフデザイン全7種、マイクロファイバー素材の使い心地、ギフトとしての魅力を紹介します。"
-date: "2026-02-20"
-category: "review"
-tags: ["タオル", "ボタニカル", "ギフト", "インテリア", "植物モチーフ"]
-author: "tokyoplants 編集部"
+image: /images/products/daily-botanical-towel-review-header.jpg
+title: 観葉植物モチーフのタオルで暮らしにグリーンを｜Daily Botanical Towel レビュー
+description: >-
+  tokyoplants の Daily Botanical Towel
+  を実際に使ってレビュー。希少植物のリーフデザイン全7種、マイクロファイバー素材の使い心地、ギフトとしての魅力を紹介します。
+date: '2026-02-20'
+category: review
+tags:
+  - タオル
+  - ボタニカル
+  - ギフト
+  - インテリア
+  - 植物モチーフ
+author: tokyoplants 編集部
 relatedSlugs:
-  - "guide/monstera-care"
-  - "guide/anthurium-care-for-beginners"
-  - "guide/alocasia-care-guide"
-  - "species/genus-monstera"
+  - guide/monstera-care
+  - guide/anthurium-care-for-beginners
+  - guide/alocasia-care-guide
+  - species/genus-monstera
 baseProducts:
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: Daily Botanical Towel｜リーフタオル
+    url: 'https://www.tokyoplants.com/items/135803882'
+    price: '¥2,000'
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 「植物が好きだけど、置けるスペースには限りがある」——そんな方にこそ手に取ってほしいのが、tokyoplants の **Daily Botanical Towel** です。希少な観葉植物のシルエットをそのままタオルにした、ありそうでなかったアイテムを紹介します。

@@ -1,21 +1,26 @@
 ---
-image: "/images/products/alocasia-holy-grail-closeup2.jpg"
-title: "アロカシア・ホーリーグレイル｜深色メタリック葉のジュエルアロカシア図鑑"
-description: "アロカシア・ホーリーグレイルの基本情報、深みのある濃色葉とメタリックな質感の特徴、他のジュエルアロカシアとの違い、育て方の要点を図鑑形式で解説します。"
-date: "2026-06-03"
-category: "species"
-tags: ["アロカシア", "ホーリーグレイル", "ジュエルアロカシア", "図鑑", "コレクター"]
-author: "tokyoplants 編集部"
-genus: "alocasia"
+image: /images/products/alocasia-holy-grail-header.jpg
+title: アロカシア・ホーリーグレイル｜深色メタリック葉のジュエルアロカシア図鑑
+description: アロカシア・ホーリーグレイルの基本情報、深みのある濃色葉とメタリックな質感の特徴、他のジュエルアロカシアとの違い、育て方の要点を図鑑形式で解説します。
+date: '2026-06-03'
+category: species
+tags:
+  - アロカシア
+  - ホーリーグレイル
+  - ジュエルアロカシア
+  - 図鑑
+  - コレクター
+author: tokyoplants 編集部
+genus: alocasia
 relatedSlugs:
-  - "guide/alocasia-holy-grail-care-guide"
-  - "guide/jewel-alocasia-types-comparison"
-  - "guide/alocasia-care-guide"
-  - "species/alocasia-black-velvet"
+  - guide/alocasia-holy-grail-care-guide
+  - guide/jewel-alocasia-types-comparison
+  - guide/alocasia-care-guide
+  - species/alocasia-black-velvet
 baseProducts:
-  - title: "Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル"
-    url: "https://www.tokyoplants.com/items/144787813"
-    price: "¥8,000"
+  - title: Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル
+    url: 'https://www.tokyoplants.com/items/144787813'
+    price: '¥8,000'
 ---
 
 ## 基本情報

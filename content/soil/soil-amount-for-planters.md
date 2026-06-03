@@ -1,22 +1,27 @@
 ---
-image: "https://images.unsplash.com/photo-1491147334573-44cbb4602074?w=800&q=80"
-title: "観葉植物の鉢に必要な土の量｜号数別の目安と計算方法"
-description: "観葉植物の鉢サイズ別に必要な土の量を一覧表で解説。号数ごとの土の容量目安と、購入量の計算方法がわかります。"
-date: "2026-02-18"
-category: "soil"
-tags: ["観葉植物", "用土", "鉢", "土の量", "号数"]
-author: "tokyoplants 編集部"
+image: /images/products/soil-amount-for-planters-header.jpg
+title: 観葉植物の鉢に必要な土の量｜号数別の目安と計算方法
+description: 観葉植物の鉢サイズ別に必要な土の量を一覧表で解説。号数ごとの土の容量目安と、購入量の計算方法がわかります。
+date: '2026-02-18'
+category: soil
+tags:
+  - 観葉植物
+  - 用土
+  - 鉢
+  - 土の量
+  - 号数
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/repotting-soil-guide"
-  - "soil/recommended-soil-for-houseplants"
-  - "soil/drainage-stones-guide"
+  - soil/repotting-soil-guide
+  - soil/recommended-soil-for-houseplants
+  - soil/drainage-stones-guide
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 「5号鉢に植え替えたいけど、土はどのくらい買えばいいの？」——植え替えのたびに悩む土の購入量。多すぎて余っても困るし、足りなくても困ります。

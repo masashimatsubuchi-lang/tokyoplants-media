@@ -1,19 +1,25 @@
 ---
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "梅雨の水やり頻度｜雨が続く時期の観葉植物への正しいタイミング"
-description: "梅雨時期の観葉植物への水やりは「いつもより少なく」が基本。高湿度で土が乾きにくい梅雨の水やり頻度の調整方法と、根腐れを防ぐ土の乾き具合の確認方法を解説します。"
-date: "2026-06-03"
-category: "guide"
-tags: ["梅雨", "水やり", "観葉植物", "根腐れ予防", "管理"]
-author: "tokyoplants 編集部"
+image: /images/products/rainy-season-watering-tips-header.jpg
+title: 梅雨の水やり頻度｜雨が続く時期の観葉植物への正しいタイミング
+description: >-
+  梅雨時期の観葉植物への水やりは「いつもより少なく」が基本。高湿度で土が乾きにくい梅雨の水やり頻度の調整方法と、根腐れを防ぐ土の乾き具合の確認方法を解説します。
+date: '2026-06-03'
+category: guide
+tags:
+  - 梅雨
+  - 水やり
+  - 観葉植物
+  - 根腐れ予防
+  - 管理
+author: tokyoplants 編集部
 relatedSlugs:
-  - "guide/rainy-season-houseplant-care"
-  - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - guide/rainy-season-houseplant-care
+  - guide/root-rot-causes-and-recovery
+  - soil/recommended-soil-for-houseplants
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 # 梅雨の水やり頻度｜雨が続く時期の観葉植物への正しいタイミング

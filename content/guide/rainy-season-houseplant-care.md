@@ -1,19 +1,24 @@
 ---
-image: "https://images.unsplash.com/photo-1534274867514-d5b47ef89ed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "梅雨の観葉植物管理｜蒸れ・根腐れ・コバエを防ぐ完全ガイド"
-description: "梅雨時期の観葉植物管理を徹底解説。湿度が高い時期に起きやすい蒸れ・根腐れ・コバエ発生を防ぐための水やり調整・置き場所・用土選びのポイントをまとめました。"
-date: "2026-06-03"
-category: "guide"
-tags: ["梅雨", "観葉植物", "管理", "根腐れ", "蒸れ対策"]
-author: "tokyoplants 編集部"
+image: /images/products/rainy-season-houseplant-care-header.jpg
+title: 梅雨の観葉植物管理｜蒸れ・根腐れ・コバエを防ぐ完全ガイド
+description: 梅雨時期の観葉植物管理を徹底解説。湿度が高い時期に起きやすい蒸れ・根腐れ・コバエ発生を防ぐための水やり調整・置き場所・用土選びのポイントをまとめました。
+date: '2026-06-03'
+category: guide
+tags:
+  - 梅雨
+  - 観葉植物
+  - 管理
+  - 根腐れ
+  - 蒸れ対策
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
-  - "guide/root-rot-causes-and-recovery"
-  - "guide/repotting-houseplants-complete-guide"
+  - soil/recommended-soil-for-houseplants
+  - guide/root-rot-causes-and-recovery
+  - guide/repotting-houseplants-complete-guide
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 # 梅雨の観葉植物管理｜蒸れ・根腐れ・コバエを防ぐ完全ガイド

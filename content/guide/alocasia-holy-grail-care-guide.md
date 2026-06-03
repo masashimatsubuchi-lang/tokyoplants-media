@@ -1,24 +1,29 @@
 ---
-image: "/images/products/alocasia-holy-grail-group2.jpg"
-title: "アロカシア・ホーリーグレイルの育て方｜深色葉を美しく保つ管理術"
-description: "アロカシア・ホーリーグレイルの育て方を徹底解説。深みのある濃色葉と隆起した葉脈を最大限に活かすための光・湿度・水やり・用土管理を具体的に解説します。"
-date: "2026-06-03"
-category: "guide"
-tags: ["アロカシア", "ホーリーグレイル", "育て方", "ジュエルアロカシア", "観葉植物"]
-author: "tokyoplants 編集部"
+image: /images/products/alocasia-holy-grail-care-guide-header.jpg
+title: アロカシア・ホーリーグレイルの育て方｜深色葉を美しく保つ管理術
+description: アロカシア・ホーリーグレイルの育て方を徹底解説。深みのある濃色葉と隆起した葉脈を最大限に活かすための光・湿度・水やり・用土管理を具体的に解説します。
+date: '2026-06-03'
+category: guide
+tags:
+  - アロカシア
+  - ホーリーグレイル
+  - 育て方
+  - ジュエルアロカシア
+  - 観葉植物
+author: tokyoplants 編集部
 relatedSlugs:
-  - "species/alocasia-holy-grail"
-  - "guide/jewel-alocasia-types-comparison"
-  - "guide/alocasia-care-guide"
-  - "guide/root-rot-causes-and-recovery"
-  - "soil/hydroculture-medium-comparison"
+  - species/alocasia-holy-grail
+  - guide/jewel-alocasia-types-comparison
+  - guide/alocasia-care-guide
+  - guide/root-rot-causes-and-recovery
+  - soil/hydroculture-medium-comparison
 baseProducts:
-  - title: "Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル"
-    url: "https://www.tokyoplants.com/items/144787813"
-    price: "¥8,000"
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル
+    url: 'https://www.tokyoplants.com/items/144787813'
+    price: '¥8,000'
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
 ---
 
 深みのある濃緑に隆起した葉脈、光の角度で表情が変わるメタリックな葉面——アロカシア・ホーリーグレイルは、ジュエルアロカシアの中でも「葉そのものが宝石」と称される希少種です。小型でも存在感は圧倒的で、一株あるだけでスペースが引き締まります。
