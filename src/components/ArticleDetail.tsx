@@ -4,7 +4,7 @@ import ArticleJsonLd from "./ArticleJsonLd";
 import RelatedPosts from "./RelatedPosts";
 import ArticleCard from "./ArticleCard";
 import BaseProductBlock from "./BaseProductBlock";
-import InlineProductBanner from "./InlineProductBanner";
+import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
 import Image from "next/image";
@@ -35,14 +35,6 @@ function splitAfterSecondH2(html: string): [string, string] {
   return [html, ""];
 }
 
-/** baseProducts にソイル or ハイドロ商品が含まれるか判定 */
-function hasSoilOrHydroProduct(products?: { url: string; title: string }[]): boolean {
-  if (!products || products.length === 0) return false;
-  return products.some(
-    (p) => p.url.includes("/items/99620939") || p.url.includes("/items/142692278") ||
-           p.title.includes("I'm original SOIL") || p.title.includes("HYDRO MINERAL"),
-  );
-}
 
 function withHeadingIds(contentHtml: string): { html: string; toc: TocItem[] } {
   const toc: TocItem[] = [];
@@ -64,7 +56,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const isGenusPage = post.slug.startsWith("genus-");
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
   const { html: contentWithIds, toc } = withHeadingIds(post.contentHtml);
-  const showInlineBanner = (post.category === "soil" || post.category === "guide") && hasSoilOrHydroProduct(post.baseProducts);
+  const showInlineBanner = hasInlineProduct(post.baseProducts);
   const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterSecondH2(contentWithIds) : [contentWithIds, ""];
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
