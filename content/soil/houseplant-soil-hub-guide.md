@@ -1,29 +1,35 @@
 ---
-image: "https://images.pexels.com/photos/5830992/pexels-photo-5830992.jpeg?auto=compress&cs=tinysrgb&w=1200"
-title: "観葉植物の土 完全ガイド｜選び方からトラブル解決まで"
-description: "観葉植物の土に関する基礎知識、配合の考え方、植え替え時の判断、虫・カビ・根腐れなどの対策を1本に集約。既存の土関連記事へ内部リンクでつなぐハブ記事です。"
-date: "2026-02-17"
-category: "soil"
-tags: ["観葉植物", "土", "用土", "植え替え", "根腐れ", "虫対策"]
-author: "tokyoplants 編集部"
+image: /images/products/houseplant-soil-hub-guide-header.jpg
+title: 観葉植物の土 完全ガイド｜選び方からトラブル解決まで
+description: 観葉植物の土に関する基礎知識、配合の考え方、植え替え時の判断、虫・カビ・根腐れなどの対策を1本に集約。既存の土関連記事へ内部リンクでつなぐハブ記事です。
+date: '2026-02-17'
+category: soil
+tags:
+  - 観葉植物
+  - 土
+  - 用土
+  - 植え替え
+  - 根腐れ
+  - 虫対策
+author: tokyoplants 編集部
 relatedSlugs:
-  - "soil/basic-soil-mix"
-  - "soil/recommended-soil-for-houseplants"
-  - "soil/how-to-mix-soil-for-houseplants"
-  - "soil/improve-drainage-for-houseplants"
-  - "soil/repotting-soil-guide"
-  - "soil/when-to-replace-soil"
-  - "soil/bugs-in-houseplant-soil"
-  - "soil/mold-on-houseplant-soil"
-  - "soil/white-particles-in-soil"
-  - "soil/reusing-houseplant-soil"
+  - soil/basic-soil-mix
+  - soil/recommended-soil-for-houseplants
+  - soil/how-to-mix-soil-for-houseplants
+  - soil/improve-drainage-for-houseplants
+  - soil/repotting-soil-guide
+  - soil/when-to-replace-soil
+  - soil/bugs-in-houseplant-soil
+  - soil/mold-on-houseplant-soil
+  - soil/white-particles-in-soil
+  - soil/reusing-houseplant-soil
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+  - title: 観葉植物の土『 I'm original SOIL 』
+    url: 'https://www.tokyoplants.com/items/99620939'
+    price: '¥1,200〜'
+  - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
+    url: 'https://www.tokyoplants.com/items/142692278'
+    price: '¥1,200'
 ---
 
 観葉植物の管理で、もっとも差が出るのは「水やりの回数」ではなく「土の設計」です。葉が黄色くなる、成長が止まる、虫が出る、カビが出る、植え替え後に弱る。これらの不調は、それぞれ別問題に見えても、土の通気性・排水性・保水性・保肥性のバランスで説明できます。
