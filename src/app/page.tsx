@@ -3,6 +3,7 @@ import Image from "next/image";
 import { getAllPosts, getPostsByCategory } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
+import AllArticlesList from "@/components/AllArticlesList";
 
 export default function Home() {
   const allPosts = getAllPosts();
@@ -240,11 +241,7 @@ export default function Home() {
             すべての記事一覧
           </h2>
           <p className="mt-2 text-sm text-gray-400">{allPosts.length}本の記事</p>
-          <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-            {allPosts.map((post) => (
-              <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
-            ))}
-          </div>
+          <AllArticlesList posts={allPosts} />
         </div>
       </section>
 
