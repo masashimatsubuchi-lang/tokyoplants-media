@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1604881991720-f91add269bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1567748157439-651aca2ff064?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アンスリウム・ヴェイチー｜キングアンスリウムの特徴と育て方図鑑"
 description: "アンスリウム・ヴェイチー（King Anthurium）の基本情報、独特の波打つリブ葉の特徴、ワロクアーナムとの違い、育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-03"
