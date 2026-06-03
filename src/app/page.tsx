@@ -19,7 +19,6 @@ export default function Home() {
   const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 3);
   const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 3);
   const speciesPosts = getPostsByCategory("species").slice(0, 3);
-  const latestPosts = allPosts.slice(0, 6);
 
   return (
     <>
@@ -211,25 +210,6 @@ export default function Home() {
               すべて見る &rarr;
             </Link>
           </div>
-        </div>
-      </section>
-
-      {/* Latest */}
-      <section className="border-t border-gray-100 py-24 bg-gray-50/50">
-        <div className="mx-auto max-w-5xl px-4">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">New</p>
-          <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
-            最新の記事
-          </h2>
-          {latestPosts.length === 0 ? (
-            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
-          ) : (
-            <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-              {latestPosts.map((post) => (
-                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
-              ))}
-            </div>
-          )}
         </div>
       </section>
 
