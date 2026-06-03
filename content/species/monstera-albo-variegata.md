@@ -1,21 +1,29 @@
 ---
-image: "https://images.unsplash.com/photo-1597305877032-0668b3c6413a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "モンステラ・アルボバリエガタ｜白い斑入りモンステラの特徴と育て方"
-description: "モンステラ・デリシオーサ バリエガタ（アルボバリエガタ）の基本情報、白い斑の特徴、高難度な栽培ポイント、タイコンステレーションとの違いを図鑑形式で解説します。"
-date: "2026-06-03"
-category: "species"
-tags: ["モンステラ", "斑入り", "バリエガタ", "アルボ", "図鑑", "コレクター"]
-author: "tokyoplants 編集部"
-genus: "monstera"
+image: /images/products/monstera-albo-variegata-header.jpg
+title: モンステラ・アルボバリエガタ｜白い斑入りモンステラの特徴と育て方
+description: >-
+  モンステラ・デリシオーサ
+  バリエガタ（アルボバリエガタ）の基本情報、白い斑の特徴、高難度な栽培ポイント、タイコンステレーションとの違いを図鑑形式で解説します。
+date: '2026-06-03'
+category: species
+tags:
+  - モンステラ
+  - 斑入り
+  - バリエガタ
+  - アルボ
+  - 図鑑
+  - コレクター
+author: tokyoplants 編集部
+genus: monstera
 relatedSlugs:
-  - "species/monstera-deliciosa"
-  - "species/monstera-thai-constellation"
-  - "species/genus-monstera"
-  - "review/leather-botanical-collection"
+  - species/monstera-deliciosa
+  - species/monstera-thai-constellation
+  - species/genus-monstera
+  - review/leather-botanical-collection
 baseProducts:
-  - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
-    url: "https://www.tokyoplants.com/categories/7318231"
-    price: "¥18,000〜"
+  - title: Leather Botanical Collection｜SISHICRAFT × tokyoplants
+    url: 'https://www.tokyoplants.com/categories/7318231'
+    price: '¥18,000〜'
 ---
 
 # モンステラ・アルボバリエガタ｜白い斑入りモンステラの特徴と育て方
