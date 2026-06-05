@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1675720869138-0bc85ab78f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/products/stephania-kaweesakii-header.jpg"
 title: "ステファニア・カウィーサキ完全ガイド｜育て方・塊根管理・休眠・よくある失敗まで"
 description: "ステファニア・カウィーサキの育て方を完全解説。基本情報・年間管理カレンダー・水やり・日当たり・用土・塊根の腐らせない管理・休眠期の扱い・増やし方・よくある失敗と対策まで1記事に網羅。"
 date: "2026-06-05"
