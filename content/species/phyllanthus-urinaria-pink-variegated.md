@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1686217817904-e994ff4f4fbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/products/phyllanthus-urinaria-pink-variegated.jpg"
 title: "フィランサス・ウリナリア ピンク斑入り｜Phyllanthus urinaria 'Pink Variegated' 図鑑"
 description: "フィランサス・ウリナリア ピンク斑入り（Phyllanthus urinaria 'Pink Variegated'）の特徴・育て方・入手方法を解説。繊細なピンク〜クリーム色の斑と羽状の葉が特徴の希少観葉植物の図鑑ページです。"
 date: "2026-06-06"
