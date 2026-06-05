@@ -238,7 +238,8 @@ export default function Home() {
                   Online Shop
                 </p>
                 <h2 className="mt-3 text-2xl md:text-3xl font-bold tracking-tight text-white leading-snug">
-                  入荷即完売の希少植物を<br className="hidden md:block" />専門店から直接お届け
+                  厳選した希少な観葉植物<br />
+                  <span className="text-teal-300">全て１点もの</span>
                 </h2>
                 <ul className="mt-6 space-y-2">
                   {[
