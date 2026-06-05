@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1504537323817-d29b72e8d5bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1610491064924-bd5fa1c96640?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "観葉植物の夏越し完全ガイド｜水やり・葉焼け・エアコン対策まで"
 description: "観葉植物の夏越しを成功させるための完全ガイド。水やりの頻度・タイミング、葉焼け予防、エアコンの直風対策、肥料管理、梅雨明け後の管理まで詳しく解説します。"
 date: "2026-06-05"
