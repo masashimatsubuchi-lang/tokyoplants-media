@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-SxIUa8CmI4M?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1611930110781-ecd83a581526?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ホヤ・ピュービカリックス｜シルバースプラッシュと深紅の花の育て方図鑑"
 description: "ホヤ・ピュービカリックス（Hoya pubicalyx）の基本情報、銀色のスプラッシュ斑が入る葉の特徴、深紅〜黒に近い花の咲かせ方、育て方を図鑑形式で詳しく解説します。"
 date: "2026-06-04"

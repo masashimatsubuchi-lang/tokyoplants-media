@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-bM7imOyfgRY?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1525498128493-380d1990a112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "モンステラ・オブリクア｜穴だらけの葉が特徴の希少種の育て方図鑑"
 description: "モンステラ・オブリクア（Monstera obliqua Peru）の基本情報、葉の穴が多い理由、アダンソニーとの違い、高湿度管理と育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-04"

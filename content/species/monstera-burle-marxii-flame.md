@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-2pTYBhn6U3s?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1585598117002-9fb152e67dbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "モンステラ・バールマルクス・フレーム｜炎状に裂ける葉が唯一無二の希少種図鑑"
 description: "モンステラ・バールマルクス・フレーム（Monstera 'Burle Marx's Flame'）の基本情報、炎のように深く裂ける葉の特徴、バールマルクシーとの違い、育て方を図鑑形式で解説します。"
 date: "2026-06-05"

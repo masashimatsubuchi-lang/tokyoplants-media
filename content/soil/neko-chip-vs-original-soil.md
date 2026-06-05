@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-LJWzAfb_N_8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1492496913980-501348b61469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ねこチップとは｜特徴・使い方・I'm original SOILとの違いを比較"
 description: "観葉植物の土として人気のねこチップの特徴・使い方・配合割合を詳しく解説。軽石系無機培地と有機配合土の違い、それぞれのメリット・デメリット、tokyoplants I'm original SOILとの比較まで。"
 date: "2026-06-05"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-h8Q4qq-QzrE?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1547816999-c46b2f07478a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "フィロデンドロン・ヘデラセウム｜ハートリーフの育て方と飾り方図鑑"
 description: "フィロデンドロン・ヘデラセウム（ハートリーフフィロデンドロン）の基本情報、ハート形の葉の特徴、つる性で飾りやすい育て方・水挿し・増やし方を図鑑形式で解説します。"
 date: "2026-06-04"

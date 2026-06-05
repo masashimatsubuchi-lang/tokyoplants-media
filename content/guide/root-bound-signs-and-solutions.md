@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-d0-uNK7C5Og?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1547401372-0ac4589c4d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "観葉植物の根詰まりサインと確認方法｜放置するとどうなる？"
 description: "観葉植物の根詰まりのサインを写真で解説。鉢底から根が出る・水はけ悪化・成長停止など症状別の確認方法と、放置した場合のリスク、対処法まで詳しく解説します。"
 date: "2026-06-05"
