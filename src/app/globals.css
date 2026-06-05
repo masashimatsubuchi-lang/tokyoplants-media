@@ -29,3 +29,12 @@ body {
 .prose p > a:only-child {
   display: inline-block;
 }
+
+/* Horizontal scroll: hide scrollbar */
+.scrollbar-hide {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}

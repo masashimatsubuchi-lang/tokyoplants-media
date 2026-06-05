@@ -17,9 +17,9 @@ export default function Home() {
     .map((def) => allPosts.find((p) => p.category === def.category && p.slug === def.slug))
     .filter((post) => post !== undefined);
   const editorsPickSlugs = new Set(editorsPickDefs.map((d) => d.slug));
-  const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 3);
-  const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 3);
-  const speciesPosts = getPostsByCategory("species").slice(0, 3);
+  const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
+  const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
+  const speciesPosts = getPostsByCategory("species").slice(0, 8);
 
   return (
     <>
@@ -128,17 +128,14 @@ export default function Home() {
           {soilPosts.length === 0 ? (
             <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
-            <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
               {soilPosts.map((post) => (
-                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
+                  <ArticleCard post={post} />
+                </div>
               ))}
             </div>
           )}
-          <div className="mt-8 sm:hidden text-center">
-            <Link href="/soil" className="text-sm font-medium text-teal-700">
-              すべて見る &rarr;
-            </Link>
-          </div>
         </div>
       </section>
 
@@ -164,17 +161,14 @@ export default function Home() {
           {guidePosts.length === 0 ? (
             <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
-            <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
               {guidePosts.map((post) => (
-                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
+                  <ArticleCard post={post} />
+                </div>
               ))}
             </div>
           )}
-          <div className="mt-8 sm:hidden text-center">
-            <Link href="/guide" className="text-sm font-medium text-teal-700">
-              すべて見る &rarr;
-            </Link>
-          </div>
         </div>
       </section>
 
@@ -200,17 +194,14 @@ export default function Home() {
           {speciesPosts.length === 0 ? (
             <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
           ) : (
-            <div className="mt-10 grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
               {speciesPosts.map((post) => (
-                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
+                  <ArticleCard post={post} />
+                </div>
               ))}
             </div>
           )}
-          <div className="mt-8 sm:hidden text-center">
-            <Link href="/species" className="text-sm font-medium text-teal-700">
-              すべて見る &rarr;
-            </Link>
-          </div>
         </div>
       </section>
 
