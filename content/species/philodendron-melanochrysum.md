@@ -13,9 +13,12 @@ tags:
 author: tokyoplants 編集部
 genus: philodendron
 relatedSlugs:
-  - species/philodendron-gloriosum
-  - species/genus-philodendron
-  - guide/philodendron-for-beginners
+  - "species/philodendron-gloriosum"
+  - "species/genus-philodendron"
+  - "guide/philodendron-for-beginners"
+  - "species/philodendron-billietiae"
+  - "species/philodendron-patriciae"
+  - "species/philodendron-el-choco-red"
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'

@@ -11,6 +11,8 @@ relatedSlugs:
   - "species/genus-platycerium"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
+  - "species/platycerium-willinckii"
+  - "species/platycerium-ridleyi"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

@@ -11,6 +11,7 @@ relatedSlugs:
   - "species/monstera-deliciosa"
   - "species/monstera-thai-constellation"
   - "species/genus-monstera"
+  - "species/monstera-albo-variegata"
 baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"

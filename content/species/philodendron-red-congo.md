@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/philodendron-el-choco-red"
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
+  - "species/philodendron-melanochrysum"
+  - "species/philodendron-hederaceum"
 baseProducts:
   - title: "Philodendron Red Congo｜フィロデンドロン・レッドコンゴ"
     url: "https://www.tokyoplants.com/items/144054390"

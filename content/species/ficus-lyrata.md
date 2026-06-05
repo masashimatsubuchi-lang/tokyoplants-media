@@ -13,9 +13,10 @@ tags:
 author: tokyoplants 編集部
 genus: ficus
 relatedSlugs:
-  - species/ficus-umbellata
-  - species/genus-ficus
-  - guide/monstera-care
+  - "species/ficus-umbellata"
+  - "species/genus-ficus"
+  - "guide/monstera-care"
+  - "species/ficus-elastica"
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'

@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/monstera-thai-constellation"
   - "species/genus-monstera"
   - "guide/monstera-care"
+  - "species/monstera-deliciosa"
 baseProducts:
   - title: "Monstera adansonii Mottled｜モンステラ・アダンソニー斑入り"
     url: "https://www.tokyoplants.com/items/144053834"

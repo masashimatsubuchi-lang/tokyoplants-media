@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/philodendron-melanochrysum"
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
+  - "species/philodendron-billietiae"
+  - "species/philodendron-red-congo"
 baseProducts:
   - title: "Philodendron El Choco Red｜フィロデンドロン・エルチョコレッド"
     url: "https://www.tokyoplants.com/items/138961290"

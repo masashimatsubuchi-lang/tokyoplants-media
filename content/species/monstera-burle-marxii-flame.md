@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/monstera-adansonii"
   - "species/genus-monstera"
   - "guide/monstera-care"
+  - "species/monstera-deliciosa"
 baseProducts:
   - title: "Monstera 'Burle Marx's Flame'｜モンステラ・バールマルクス・フレーム"
     url: "https://www.tokyoplants.com/items/139950552"

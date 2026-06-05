@@ -10,6 +10,7 @@ genus: "hoya"
 relatedSlugs:
   - "species/hoya-kerrii"
   - "species/genus-hoya"
+  - "species/hoya-pubicalyx"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

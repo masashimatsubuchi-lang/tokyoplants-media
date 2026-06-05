@@ -10,6 +10,8 @@ relatedSlugs:
   - "species/ficus-umbellata"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
+  - "species/ficus-elastica"
+  - "species/ficus-lyrata"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

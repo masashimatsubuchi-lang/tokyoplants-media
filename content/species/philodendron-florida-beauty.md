@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/philodendron-pink-princess"
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
+  - "species/philodendron-el-choco-red"
+  - "species/philodendron-melanochrysum"
 baseProducts:
   - title: "Philodendron Florida Beauty｜フィロデンドロン・フロリダビューティー"
     url: "https://www.tokyoplants.com/items/121890344"

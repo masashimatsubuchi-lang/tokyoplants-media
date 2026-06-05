@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/anthurium-magnificum"
   - "species/velvet-anthurium-types-comparison"
   - "species/genus-anthurium"
+  - "species/anthurium-veitchii"
 baseProducts:
   - title: "Anthurium carlablackiae｜アンスリウム・カルラブラッキエ"
     url: "https://www.tokyoplants.com/items/145161050"

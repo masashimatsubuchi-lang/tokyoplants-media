@@ -11,6 +11,10 @@ relatedSlugs:
   - "species/genus-alocasia"
   - "guide/alocasia-care-guide"
   - "guide/winter-watering-houseplants"
+  - "species/alocasia-black-velvet"
+  - "species/alocasia-dragon-scale"
+  - "species/alocasia-zebrina"
+  - "species/alocasia-amazonica"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

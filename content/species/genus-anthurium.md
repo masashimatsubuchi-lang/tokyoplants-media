@@ -12,9 +12,15 @@ tags:
   - 観葉植物
 author: tokyoplants 編集部
 relatedSlugs:
-  - guide/anthurium-care-for-beginners
-  - guide/root-rot-causes-and-recovery
-  - soil/recommended-soil-for-houseplants
+  - "guide/anthurium-care-for-beginners"
+  - "guide/root-rot-causes-and-recovery"
+  - "soil/recommended-soil-for-houseplants"
+  - "species/anthurium-warocqueanum"
+  - "species/anthurium-crystallinum"
+  - "species/anthurium-clarinervium"
+  - "species/anthurium-magnificum"
+  - "species/anthurium-veitchii"
+  - "species/velvet-anthurium-types-comparison"
 baseProducts:
   - title: アンスリウムの商品一覧
     url: 'https://www.tokyoplants.com/categories/6382097'

@@ -10,7 +10,9 @@ genus: "ficus"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
-  - "species/monstera-deliciosa"
+  - "species/ficus-elastica"
+  - "species/ficus-lyrata"
+  - "species/genus-ficus"
 baseProducts:
   - title: "ウンベラータの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

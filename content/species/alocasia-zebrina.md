@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/alocasia-dragon-scale"
   - "species/genus-alocasia"
   - "guide/alocasia-care-guide"
+  - "species/alocasia-frydek"
+  - "species/alocasia-holy-grail"
 baseProducts:
   - title: "tokyoplants Alocasia｜アロカシア一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

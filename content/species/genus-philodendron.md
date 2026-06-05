@@ -10,6 +10,11 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "guide/root-rot-causes-and-recovery"
   - "soil/recommended-soil-for-houseplants"
+  - "species/philodendron-gloriosum"
+  - "species/philodendron-melanochrysum"
+  - "species/philodendron-micans"
+  - "species/philodendron-pink-princess"
+  - "species/philodendron-billietiae"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

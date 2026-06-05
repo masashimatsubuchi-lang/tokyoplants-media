@@ -11,6 +11,8 @@ relatedSlugs:
   - "species/genus-hoya"
   - "guide/winter-watering-houseplants"
   - "soil/indoor-houseplant-soil"
+  - "species/hoya-carnosa"
+  - "species/hoya-pubicalyx"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382098"

@@ -13,12 +13,14 @@ tags:
 author: tokyoplants 編集部
 genus: anthurium
 relatedSlugs:
-  - species/genus-anthurium
-  - species/anthurium-warocqueanum
-  - species/velvet-anthurium-types-comparison
-  - guide/anthurium-regale-care-guide
-  - guide/anthurium-regale-vs-warocqueanum
-  - guide/root-rot-causes-and-recovery
+  - "species/genus-anthurium"
+  - "species/anthurium-warocqueanum"
+  - "species/velvet-anthurium-types-comparison"
+  - "guide/anthurium-regale-care-guide"
+  - "guide/anthurium-regale-vs-warocqueanum"
+  - "guide/root-rot-causes-and-recovery"
+  - "species/anthurium-veitchii"
+  - "species/anthurium-magnificum"
 baseProducts:
   - title: Anthurium Regale｜アンスリウム・レガレ
     url: 'https://www.tokyoplants.com/items/94918874'

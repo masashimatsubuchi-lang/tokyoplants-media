@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/velvet-anthurium-types-comparison"
   - "species/genus-anthurium"
   - "guide/anthurium-care-for-beginners"
+  - "species/anthurium-carlablackiae"
+  - "species/anthurium-magnificum"
 baseProducts:
   - title: "Anthurium Warocqueanum｜アンスリウム・ワロクアーナム"
     url: "https://www.tokyoplants.com/items/94920117"

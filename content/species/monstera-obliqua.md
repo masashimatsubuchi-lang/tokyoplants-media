@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/monstera-deliciosa"
   - "species/genus-monstera"
   - "guide/monstera-care"
+  - "species/monstera-burle-marxii"
 baseProducts:
   - title: "Monstera obliqua Peru｜モンステラ・オブリクア"
     url: "https://www.tokyoplants.com/items/136047583"

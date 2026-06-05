@@ -13,10 +13,14 @@ tags:
 author: tokyoplants 編集部
 genus: alocasia
 relatedSlugs:
-  - guide/alocasia-holy-grail-care-guide
-  - guide/jewel-alocasia-types-comparison
-  - guide/alocasia-care-guide
-  - species/alocasia-black-velvet
+  - "guide/alocasia-holy-grail-care-guide"
+  - "guide/jewel-alocasia-types-comparison"
+  - "guide/alocasia-care-guide"
+  - "species/alocasia-black-velvet"
+  - "species/alocasia-melo"
+  - "species/alocasia-dragon-scale"
+  - "species/alocasia-zebrina"
+  - "species/genus-alocasia"
 baseProducts:
   - title: Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル
     url: 'https://www.tokyoplants.com/items/144787813'

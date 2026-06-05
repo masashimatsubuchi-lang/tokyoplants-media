@@ -16,10 +16,11 @@ tags:
 author: tokyoplants 編集部
 genus: monstera
 relatedSlugs:
-  - species/monstera-deliciosa
-  - species/monstera-thai-constellation
-  - species/genus-monstera
-  - review/leather-botanical-collection
+  - "species/monstera-deliciosa"
+  - "species/monstera-thai-constellation"
+  - "species/genus-monstera"
+  - "review/leather-botanical-collection"
+  - "species/monstera-mint"
 baseProducts:
   - title: Leather Botanical Collection｜SISHICRAFT × tokyoplants
     url: 'https://www.tokyoplants.com/categories/7318231'

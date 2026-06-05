@@ -11,6 +11,8 @@ relatedSlugs:
   - "species/monstera-deliciosa"
   - "species/genus-monstera"
   - "soil/best-soil-for-monstera"
+  - "species/monstera-adansonii"
+  - "species/monstera-burle-marxii-flame"
 baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"

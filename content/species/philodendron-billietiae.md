@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/philodendron-melanochrysum"
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
+  - "species/philodendron-patriciae"
+  - "species/philodendron-el-choco-red"
 baseProducts:
   - title: "Philodendron billietiae variegated｜フィロデンドロン・ビリエティエ"
     url: "https://www.tokyoplants.com/items/124441214"

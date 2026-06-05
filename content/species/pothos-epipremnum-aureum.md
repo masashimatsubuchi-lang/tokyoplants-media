@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/best-soil-for-pothos"
   - "guide/root-rot-causes-and-recovery"
   - "species/monstera-deliciosa"
+  - "species/philodendron-hederaceum"
 baseProducts:
   - title: "ポトスの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

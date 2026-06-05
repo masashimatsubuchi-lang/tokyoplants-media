@@ -10,6 +10,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/recommended-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
+  - "species/aglaonema-pictum-tricolor"
 baseProducts:
   - title: "アグラオネマの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382098"

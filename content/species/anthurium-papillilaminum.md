@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/anthurium-warocqueanum"
   - "species/velvet-anthurium-types-comparison"
   - "species/genus-anthurium"
+  - "species/anthurium-clarinervium"
 baseProducts:
   - title: "Anthurium papillilaminum｜アンスリウム・パピリラミナム"
     url: "https://www.tokyoplants.com/items/139950688"

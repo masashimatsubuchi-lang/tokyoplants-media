@@ -11,6 +11,9 @@ relatedSlugs:
   - "species/genus-anthurium"
   - "species/anthurium-crystallinum"
   - "guide/root-rot-causes-and-recovery"
+  - "species/anthurium-clarinervium"
+  - "species/anthurium-papillilaminum"
+  - "species/velvet-anthurium-types-comparison"
 baseProducts:
   - title: "アンスリウムの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382097"

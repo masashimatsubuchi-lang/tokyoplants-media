@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/alocasia-black-velvet"
   - "species/genus-alocasia"
   - "guide/alocasia-care-guide"
+  - "species/alocasia-melo"
+  - "species/alocasia-azlanii"
 baseProducts:
   - title: "Alocasia Silver Dragon｜アロカシア・シルバードラゴン"
     url: "https://www.tokyoplants.com/items/144053732"

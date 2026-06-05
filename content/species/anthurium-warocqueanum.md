@@ -14,6 +14,8 @@ relatedSlugs:
   - "guide/anthurium-warocqueanum-care-guide"
   - "guide/anthurium-warocqueanum-humidity-setup"
   - "guide/root-rot-causes-and-recovery"
+  - "species/anthurium-veitchii"
+  - "species/anthurium-carlablackiae"
 baseProducts:
   - title: "Anthurium Warocqueanum｜アンスリウム・ワロクアーナム"
     url: "https://www.tokyoplants.com/items/94920117"

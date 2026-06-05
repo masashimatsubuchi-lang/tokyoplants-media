@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/philodendron-melanochrysum"
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
+  - "species/philodendron-billietiae"
+  - "species/philodendron-el-choco-red"
 baseProducts:
   - title: "Philodendron patriciae｜フィロデンドロン・パトリシエ"
     url: "https://www.tokyoplants.com/items/128288943"

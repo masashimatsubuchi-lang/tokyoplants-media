@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/philodendron-gloriosum"
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
+  - "species/philodendron-pink-princess"
+  - "species/philodendron-melanochrysum"
 baseProducts:
   - title: "tokyoplants Philodendron｜フィロデンドロン一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

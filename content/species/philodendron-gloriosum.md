@@ -11,6 +11,10 @@ relatedSlugs:
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
   - "soil/indoor-houseplant-soil"
+  - "species/philodendron-melanochrysum"
+  - "species/philodendron-billietiae"
+  - "species/philodendron-patriciae"
+  - "species/philodendron-micans"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

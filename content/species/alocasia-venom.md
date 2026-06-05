@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/alocasia-dragon-scale"
   - "species/genus-alocasia"
   - "guide/alocasia-care-guide"
+  - "species/alocasia-melo"
+  - "species/alocasia-azlanii"
 baseProducts:
   - title: "Alocasia 'Venom'｜アロカシア・ヴェノム"
     url: "https://www.tokyoplants.com/items/146116514"

@@ -9,6 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "guide/alocasia-care-guide"
+  - "species/begonia-rex"
 baseProducts:
   - title: "Begonia maculata variegata 'Pink'｜ベゴニア・マキュラータ"
     url: "https://www.tokyoplants.com/items/129136399"

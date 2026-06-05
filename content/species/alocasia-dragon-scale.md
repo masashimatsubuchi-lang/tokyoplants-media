@@ -11,6 +11,10 @@ relatedSlugs:
   - "species/genus-alocasia"
   - "species/alocasia-frydek"
   - "guide/alocasia-care-guide"
+  - "species/alocasia-melo"
+  - "species/alocasia-black-velvet"
+  - "species/alocasia-azlanii"
+  - "species/alocasia-silver-dragon"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

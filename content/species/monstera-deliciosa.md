@@ -11,6 +11,10 @@ relatedSlugs:
   - "species/genus-monstera"
   - "guide/monstera-care"
   - "soil/best-soil-for-monstera"
+  - "species/monstera-thai-constellation"
+  - "species/monstera-albo-variegata"
+  - "species/monstera-adansonii"
+  - "species/monstera-obliqua"
 baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"

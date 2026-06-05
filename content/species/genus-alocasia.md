@@ -10,6 +10,12 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "guide/root-rot-causes-and-recovery"
   - "soil/recommended-soil-for-houseplants"
+  - "species/alocasia-melo"
+  - "species/alocasia-azlanii"
+  - "species/alocasia-black-velvet"
+  - "species/alocasia-dragon-scale"
+  - "species/alocasia-frydek"
+  - "species/alocasia-zebrina"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

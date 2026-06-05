@@ -12,6 +12,8 @@ relatedSlugs:
   - "species/alocasia-dragon-scale"
   - "species/genus-alocasia"
   - "guide/alocasia-care-guide"
+  - "species/alocasia-melo"
+  - "species/alocasia-silver-dragon"
 baseProducts:
   - title: "Alocasia azlanii｜アロカシア・アズラニー"
     url: "https://www.tokyoplants.com/items/138016797"

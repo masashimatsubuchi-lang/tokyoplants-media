@@ -11,6 +11,7 @@ relatedSlugs:
   - "species/genus-stephania"
   - "guide/stephania-kaweesakii-care"
   - "soil/improve-drainage-for-houseplants"
+  - "species/stephania-erecta"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

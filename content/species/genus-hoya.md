@@ -10,6 +10,9 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/recommended-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
+  - "species/hoya-carnosa"
+  - "species/hoya-kerrii"
+  - "species/hoya-pubicalyx"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

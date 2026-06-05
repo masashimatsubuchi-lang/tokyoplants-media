@@ -11,6 +11,10 @@ relatedSlugs:
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
   - "guide/winter-watering-houseplants"
+  - "species/philodendron-hederaceum"
+  - "species/philodendron-melanochrysum"
+  - "species/philodendron-gloriosum"
+  - "species/philodendron-pink-princess"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
