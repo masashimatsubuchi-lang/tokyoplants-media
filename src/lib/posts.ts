@@ -30,6 +30,7 @@ export interface PostMeta {
   title: string;
   description: string;
   date: string;
+  updated?: string;
   author: string;
   image?: string;
   genus?: string;
@@ -62,6 +63,7 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
       title: data.title ?? slug,
       description: data.description ?? "",
       date: data.date ?? "",
+      updated: data.updated,
       author: data.author ?? "",
       image: data.image,
       genus: data.genus,
@@ -97,6 +99,7 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
     title: data.title ?? slug,
     description: data.description ?? "",
     date: data.date ?? "",
+    updated: data.updated,
     author: data.author ?? "",
     image: data.image,
     genus: data.genus,

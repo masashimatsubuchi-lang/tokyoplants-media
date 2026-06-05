@@ -99,7 +99,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
               <span className="text-[11px] font-semibold uppercase tracking-[0.15em] text-teal-700">{category?.name}</span>
               <h1 className="mt-3 text-2xl md:text-4xl font-extrabold tracking-tight text-zinc-900 leading-tight">{post.title}</h1>
               <div className="mt-4 flex items-center gap-4 text-[13px] text-zinc-500">
-                <time>{post.date}</time>
+                <time dateTime={post.date}>{post.date}</time>
+                {post.updated && (
+                  <span className="flex items-center gap-1">
+                    <span className="text-zinc-400">更新</span>
+                    <time dateTime={post.updated}>{post.updated}</time>
+                  </span>
+                )}
                 {post.author && <span>by {post.author}</span>}
               </div>
             </header>

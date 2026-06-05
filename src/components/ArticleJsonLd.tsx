@@ -11,7 +11,7 @@ export default function ArticleJsonLd({ post, siteUrl = "https://example.com" }:
       name: post.author || "BOTANY LIFE",
     },
     datePublished: post.date,
-    dateModified: post.date,
+    dateModified: post.updated ?? post.date,
     image: post.image ? `${siteUrl}${post.image}` : undefined,
     publisher: {
       "@type": "Organization",
