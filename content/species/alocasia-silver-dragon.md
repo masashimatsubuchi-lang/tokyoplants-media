@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1616690710400-a16d146927c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-obekvwYFdsc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アロカシア・シルバードラゴン｜銀の鱗模様が美しい小型種の育て方図鑑"
 description: "アロカシア・シルバードラゴン（Alocasia Silver Dragon）の基本情報、銀白色の鱗状模様と深い葉脈の特徴、ドラゴンスケールとの違い、育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-04"

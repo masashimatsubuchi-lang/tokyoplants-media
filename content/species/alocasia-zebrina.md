@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1616690710400-a16d146927c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-L8_AJYhb370?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アロカシア・ゼブリナ｜シマウマ模様の茎が個性的な大型種の育て方図鑑"
 description: "アロカシア・ゼブリナ（Alocasia zebrina）の基本情報、黄緑と濃緑の縞模様が美しい茎の特徴、大型葉の育て方・高湿度管理を図鑑形式で詳しく解説します。"
 date: "2026-06-05"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1545239351-ef35f43d514b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-HNziPSoZ5qc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アロカシアの植え替え方法｜時期・土・根腐れしない手順"
 description: "アロカシアの植え替え方法を詳しく解説。最適な時期、根腐れしない土の選び方、手順、植え替え後のケア、よくある失敗と対策まで。HYDRO MINERALを使った無機培地での植え替えも紹介。"
 date: "2026-06-05"

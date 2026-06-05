@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1616690710400-a16d146927c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-ZW_Mvai8JJ4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アロカシア・アズラニー｜虹色の葉脈が美しい希少種の育て方図鑑"
 description: "アロカシア・アズラニー（Alocasia azlanii）の基本情報、虹色・メタリックに輝く葉脈の特徴、高湿度管理と育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-04"

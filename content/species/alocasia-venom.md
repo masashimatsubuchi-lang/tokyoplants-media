@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1616690710400-a16d146927c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-sgNxDaA3_WE?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アロカシア・ヴェノム｜黒緑の光沢葉が禍々しく美しい希少種の育て方図鑑"
 description: "アロカシア・ヴェノム（Alocasia 'Venom'）の基本情報、深い黒緑×白い葉脈のコントラストが美しい特徴、育て方・高湿度管理のポイントを図鑑形式で解説します。"
 date: "2026-06-04"

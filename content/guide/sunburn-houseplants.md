@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-VBLanEj1Wt8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "観葉植物の葉焼けとは｜原因・症状・回復方法と予防策"
 description: "観葉植物の葉焼けの原因・症状・回復方法を詳しく解説。直射日光・急な環境変化・育成ライトによる葉焼けの見分け方、回復できるケースとできないケース、予防策まで。"
 date: "2026-06-05"

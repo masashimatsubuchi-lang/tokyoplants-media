@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-2bmKWvCDkxY?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ホヤ・カルノーサ（サクララン）｜甘い香りの花と多肉質葉の育て方図鑑"
 description: "ホヤ・カルノーサ（サクラン）の基本情報、星型の甘い花の咲かせ方、多肉質葉の特徴、水やり・剪定・増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-04"

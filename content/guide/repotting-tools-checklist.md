@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-qArQT3MwBkM?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "植え替えに必要な道具リスト｜初心者が揃えるべきアイテム"
 description: "観葉植物の植え替えに必要な道具を初心者向けに解説。鉢・土・鉢底石・ハサミなど必須アイテムと、あると便利なグッズ、100均で代用できるものを紹介します。"
 date: "2026-06-05"

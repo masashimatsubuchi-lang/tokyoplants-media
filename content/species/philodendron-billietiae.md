@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1622459257827-cf5d8d3c13b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-PPoDrUN6Ihw?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "フィロデンドロン・ビリエティエ｜オレンジ茎と長葉が印象的な着生種の育て方図鑑"
 description: "フィロデンドロン・ビリエティエ（Philodendron billietiae）の基本情報、オレンジ色の茎と細長い葉の特徴、着生種の育て方・仕立て方を図鑑形式で詳しく解説します。"
 date: "2026-06-04"
