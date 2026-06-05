@@ -10,7 +10,7 @@ export default function ShopBanner() {
         }}
       >
         {/* Dark overlay */}
-        <div className="absolute inset-0 bg-black/55 rounded-xl" />
+        <div className="absolute inset-0 bg-black/30 rounded-xl" />
         {/* Content */}
         <div className="relative z-10">
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-300">tokyoplants Online Shop</p>
