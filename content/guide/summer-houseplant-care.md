@@ -1,5 +1,5 @@
 ---
-image: /images/products/summer-houseplant-care-header.jpg
+image: "https://images.unsplash.com/photo-1525498128493-380d1990a112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: 観葉植物の夏越し完全ガイド｜高温・直射日光・乾燥への対策
 description: 観葉植物の夏越しで押さえるべきポイントを解説。高温障害・葉焼け・乾燥による水切れ・エアコン乾燥対策まで、夏を安全に乗り越えるための管理方法をまとめました。
 date: '2026-06-03'

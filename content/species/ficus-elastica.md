@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1585559604959-dba1b7dc2e3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1591656884447-8562e2373a66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ゴムの木（フィカス・エラスティカ）｜育て方と品種の選び方図鑑"
 description: "ゴムの木（Ficus elastica）の基本情報、バーガンディ・アビジャン・ティネケなど人気品種の特徴、水やり・剪定・植え替えの育て方を図鑑形式で詳しく解説します。"
 date: "2026-06-04"

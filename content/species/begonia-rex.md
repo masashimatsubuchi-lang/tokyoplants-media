@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1627483297886-49710ae1fc22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1748174748006-098c6237454f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ベゴニア・レックス｜カラーリーフの王様｜育て方と品種の選び方図鑑"
 description: "ベゴニア・レックス（Begonia rex）の基本情報、メタリックな葉色と複雑な模様の特徴、育て方・湿度管理・増やし方を図鑑形式で詳しく解説します。maculataとの違いも解説。"
 date: "2026-06-04"

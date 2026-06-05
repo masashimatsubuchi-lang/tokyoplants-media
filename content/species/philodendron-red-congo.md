@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1597055181300-e3633a917dde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1620411065980-5e1d02edefe6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "フィロデンドロン・レッドコンゴ｜赤い新芽と大型葉が魅力の丈夫な品種図鑑"
 description: "フィロデンドロン・レッドコンゴ（Philodendron 'Red Congo'）の基本情報、赤〜深緑に変化する大型葉の特徴、丈夫で育てやすい管理方法を図鑑形式で詳しく解説します。"
 date: "2026-06-04"

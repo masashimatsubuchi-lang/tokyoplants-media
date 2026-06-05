@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1597055181300-e3633a917dde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1630393343039-aee8da888d88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "フィロデンドロン・エルチョコレッド｜赤い新芽が美しい希少種の育て方図鑑"
 description: "フィロデンドロン・エルチョコレッド（El Choco Red）の基本情報、鮮やかな赤〜銅色の新芽の特徴、ビロード状の葉の育て方と管理のポイントを図鑑形式で解説します。"
 date: "2026-06-04"

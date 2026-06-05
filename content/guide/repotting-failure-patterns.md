@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1591958911259-bee2173bdbe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1492496913980-501348b61469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "植え替え失敗パターン5選｜よくあるミスと回復法"
 description: "観葉植物の植え替えでよくある失敗パターンを5つ解説。時期のミス・土の選択ミス・根の傷つけ・過湿・日光当てすぎなど、失敗の原因と回復方法を詳しく説明します。"
 date: "2026-06-05"

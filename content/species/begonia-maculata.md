@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1627483297886-49710ae1fc22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1663647733214-3286521f6660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "ベゴニア・マキュラータ｜水玉模様の育て方と花の咲かせ方図鑑"
 description: "ベゴニア・マキュラータ（ポルカドットベゴニア）の基本情報、銀白色の水玉模様が出る理由、水やり・光管理・挿し木での増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-04"
