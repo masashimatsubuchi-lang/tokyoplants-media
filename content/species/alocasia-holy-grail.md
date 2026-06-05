@@ -21,6 +21,10 @@ relatedSlugs:
   - "species/alocasia-dragon-scale"
   - "species/alocasia-zebrina"
   - "species/genus-alocasia"
+  - "guide/alocasia-repotting-guide"
+  - "guide/alocasia-root-rot-treatment"
+  - "guide/alocasia-hydroculture"
+  - "guide/alocasia-summer-care"
 baseProducts:
   - title: Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル
     url: 'https://www.tokyoplants.com/items/144787813'

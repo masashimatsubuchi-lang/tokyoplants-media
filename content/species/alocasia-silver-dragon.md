@@ -14,6 +14,11 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "species/alocasia-melo"
   - "species/alocasia-azlanii"
+  - "guide/alocasia-repotting-guide"
+  - "guide/alocasia-root-rot-treatment"
+  - "guide/alocasia-hydroculture"
+  - "guide/alocasia-summer-care"
+  - "guide/jewel-alocasia-types-comparison"
 baseProducts:
   - title: "Alocasia Silver Dragon｜アロカシア・シルバードラゴン"
     url: "https://www.tokyoplants.com/items/144053732"

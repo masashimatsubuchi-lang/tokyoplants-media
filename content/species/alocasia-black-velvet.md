@@ -14,6 +14,11 @@ relatedSlugs:
   - "species/alocasia-melo"
   - "species/alocasia-dragon-scale"
   - "species/alocasia-silver-dragon"
+  - "guide/alocasia-repotting-guide"
+  - "guide/alocasia-root-rot-treatment"
+  - "guide/alocasia-hydroculture"
+  - "guide/alocasia-summer-care"
+  - "guide/jewel-alocasia-types-comparison"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

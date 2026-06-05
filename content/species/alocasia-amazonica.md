@@ -14,6 +14,10 @@ relatedSlugs:
   - "species/alocasia-zebrina"
   - "species/alocasia-black-velvet"
   - "species/alocasia-dragon-scale"
+  - "guide/alocasia-repotting-guide"
+  - "guide/alocasia-root-rot-treatment"
+  - "guide/alocasia-hydroculture"
+  - "guide/alocasia-summer-care"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

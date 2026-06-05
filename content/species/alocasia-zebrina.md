@@ -14,6 +14,10 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "species/alocasia-frydek"
   - "species/alocasia-holy-grail"
+  - "guide/alocasia-repotting-guide"
+  - "guide/alocasia-root-rot-treatment"
+  - "guide/alocasia-hydroculture"
+  - "guide/alocasia-summer-care"
 baseProducts:
   - title: "tokyoplants Alocasia｜アロカシア一覧"
     url: "https://www.tokyoplants.com/categories/6382096"
