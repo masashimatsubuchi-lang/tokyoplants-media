@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1567748157439-651aca2ff064?crop=entropyimage: "https://images.unsplash.com/photo-1609340942215-4f9bfe38593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"cs=tinysrgbimage: "https://images.unsplash.com/photo-1609340942215-4f9bfe38593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fit=maximage: "https://images.unsplash.com/photo-1609340942215-4f9bfe38593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fm=jpgimage: "https://images.unsplash.com/photo-1609340942215-4f9bfe38593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"ixlib=rb-4.1.0image: "https://images.unsplash.com/photo-1609340942215-4f9bfe38593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"q=80image: "https://images.unsplash.com/photo-1609340942215-4f9bfe38593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"w=1080"
+image: "https://images.unsplash.com/photo-1609340942215-4f9bfe38593f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アンスリウム・カルラブラッキエ｜漆黒のビロード葉が魅力の最高峰コレクション種"
 description: "アンスリウム・カルラブラッキエ（Anthurium carlablackiae）の基本情報、深い漆黒に輝くビロード質の葉の特徴、パナマ固有種の育て方と高湿度管理を図鑑形式で解説します。"
 date: "2026-06-04"

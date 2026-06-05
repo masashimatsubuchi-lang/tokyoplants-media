@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1598759473345-d8d3239a25bd?crop=entropyimage: "https://images.unsplash.com/photo-1550254804-951cf5c74a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"cs=tinysrgbimage: "https://images.unsplash.com/photo-1550254804-951cf5c74a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fit=maximage: "https://images.unsplash.com/photo-1550254804-951cf5c74a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fm=jpgimage: "https://images.unsplash.com/photo-1550254804-951cf5c74a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"ixlib=rb-4.1.0image: "https://images.unsplash.com/photo-1550254804-951cf5c74a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"q=80image: "https://images.unsplash.com/photo-1550254804-951cf5c74a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"w=1080"
+image: "https://images.unsplash.com/photo-1550254804-951cf5c74a95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "フィロデンドロン・ヘデラセウム｜ハートリーフの育て方と飾り方図鑑"
 description: "フィロデンドロン・ヘデラセウム（ハートリーフフィロデンドロン）の基本情報、ハート形の葉の特徴、つる性で飾りやすい育て方・水挿し・増やし方を図鑑形式で解説します。"
 date: "2026-06-04"
