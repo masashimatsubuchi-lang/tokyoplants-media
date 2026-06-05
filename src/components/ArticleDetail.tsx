@@ -21,17 +21,13 @@ function stripHtml(text: string): string {
   return text.replace(/<[^>]*>/g, "").trim();
 }
 
-/** 2番目の </h2> の直後でHTMLを2分割する。2つ目のH2が存在しない場合は [html, ""] を返す */
-function splitAfterSecondH2(html: string): [string, string] {
-  let count = 0;
-  const pattern = /<\/h2>/gi;
-  let match: RegExpExecArray | null;
-  while ((match = pattern.exec(html)) !== null) {
-    count++;
-    if (count === 2) {
-      const idx = match.index + match[0].length;
-      return [html.slice(0, idx), html.slice(idx)];
-    }
+/** 最初の </h2> の直後でHTMLを2分割する。H2が存在しない場合は [html, ""] を返す */
+function splitAfterFirstH2(html: string): [string, string] {
+  const pattern = /<\/h2>/i;
+  const match = pattern.exec(html);
+  if (match) {
+    const idx = match.index + match[0].length;
+    return [html.slice(0, idx), html.slice(idx)];
   }
   return [html, ""];
 }
@@ -63,7 +59,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
   const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
   const showInlineBanner = ["soil", "guide", "species"].includes(post.category) && hasInlineProduct(post.baseProducts);
-  const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterSecondH2(contentWithIds) : [contentWithIds, ""];
+  const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterFirstH2(contentWithIds) : [contentWithIds, ""];
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
   ).slice(0, 3);
