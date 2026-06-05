@@ -10,6 +10,8 @@ genus: "aglaonema"
 relatedSlugs:
   - "species/genus-aglaonema"
   - "guide/anthurium-care-for-beginners"
+  - "guide/root-rot-causes-and-recovery"
+  - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "Aglaonema pictum tricolor｜アグラオネマ・ピクタム・トリカラー"
     url: "https://www.tokyoplants.com/items/107410157"

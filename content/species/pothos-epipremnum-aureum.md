@@ -11,6 +11,8 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "species/monstera-deliciosa"
   - "species/philodendron-hederaceum"
+  - "guide/pothos-care"
+  - "guide/pothos-repotting-guide"
 baseProducts:
   - title: "ポトスの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

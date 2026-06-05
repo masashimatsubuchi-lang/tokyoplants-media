@@ -21,6 +21,9 @@ relatedSlugs:
   - "species/anthurium-magnificum"
   - "species/anthurium-veitchii"
   - "species/velvet-anthurium-types-comparison"
+  - "guide/anthurium-summer-rainy-season-care"
+  - "guide/anthurium-regale-care-guide"
+  - "guide/anthurium-warocqueanum-care-guide"
 baseProducts:
   - title: アンスリウムの商品一覧
     url: 'https://www.tokyoplants.com/categories/6382097'

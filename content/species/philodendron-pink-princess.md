@@ -14,6 +14,9 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "species/philodendron-florida-beauty"
   - "species/genus-philodendron"
+  - "guide/philodendron-repotting-guide"
+  - "guide/philodendron-hydroculture"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Philodendron Pink Princess｜フィロデンドロン・ピンクプリンセス"
     url: "https://www.tokyoplants.com/items/136380988"

@@ -15,6 +15,8 @@ relatedSlugs:
   - "species/philodendron-micans"
   - "species/philodendron-pink-princess"
   - "species/philodendron-billietiae"
+  - "guide/philodendron-repotting-guide"
+  - "guide/philodendron-hydroculture"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

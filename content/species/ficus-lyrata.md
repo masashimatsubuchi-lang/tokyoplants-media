@@ -17,6 +17,9 @@ relatedSlugs:
   - "species/genus-ficus"
   - "guide/monstera-care"
   - "species/ficus-elastica"
+  - "guide/umbellata-care"
+  - "guide/umbellata-repotting-guide"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'

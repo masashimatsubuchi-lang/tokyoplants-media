@@ -19,6 +19,9 @@ relatedSlugs:
   - "species/philodendron-billietiae"
   - "species/philodendron-patriciae"
   - "species/philodendron-el-choco-red"
+  - "guide/philodendron-repotting-guide"
+  - "guide/philodendron-hydroculture"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'

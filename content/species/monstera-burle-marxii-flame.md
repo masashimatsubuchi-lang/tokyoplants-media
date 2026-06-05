@@ -13,6 +13,8 @@ relatedSlugs:
   - "species/genus-monstera"
   - "guide/monstera-care"
   - "species/monstera-deliciosa"
+  - "guide/monstera-repotting-guide"
+  - "soil/best-soil-for-monstera"
 baseProducts:
   - title: "Monstera 'Burle Marx's Flame'｜モンステラ・バールマルクス・フレーム"
     url: "https://www.tokyoplants.com/items/139950552"

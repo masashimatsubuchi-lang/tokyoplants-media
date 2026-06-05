@@ -10,6 +10,8 @@ genus: "stephania"
 relatedSlugs:
   - "species/stephania-kaweesakii"
   - "species/genus-stephania"
+  - "guide/stephania-kaweesakii-care"
+  - "guide/stephania-kaweesakii-complete-guide"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

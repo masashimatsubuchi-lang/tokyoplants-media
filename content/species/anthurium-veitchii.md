@@ -14,6 +14,8 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "species/anthurium-carlablackiae"
   - "species/anthurium-magnificum"
+  - "guide/anthurium-summer-rainy-season-care"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Anthurium Warocqueanum｜アンスリウム・ワロクアーナム"
     url: "https://www.tokyoplants.com/items/94920117"

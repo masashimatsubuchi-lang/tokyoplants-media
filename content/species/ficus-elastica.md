@@ -11,6 +11,9 @@ relatedSlugs:
   - "species/ficus-umbellata"
   - "species/ficus-lyrata"
   - "species/genus-ficus"
+  - "guide/umbellata-care"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

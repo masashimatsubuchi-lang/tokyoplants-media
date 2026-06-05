@@ -21,6 +21,8 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "species/anthurium-veitchii"
   - "species/anthurium-magnificum"
+  - "guide/anthurium-care-for-beginners"
+  - "guide/anthurium-summer-rainy-season-care"
 baseProducts:
   - title: Anthurium Regale｜アンスリウム・レガレ
     url: 'https://www.tokyoplants.com/items/94918874'

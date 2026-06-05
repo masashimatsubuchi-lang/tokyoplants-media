@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
   - "species/aglaonema-pictum-tricolor"
+  - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "アグラオネマの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382098"

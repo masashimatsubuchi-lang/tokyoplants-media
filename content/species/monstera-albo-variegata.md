@@ -21,6 +21,9 @@ relatedSlugs:
   - "species/genus-monstera"
   - "review/leather-botanical-collection"
   - "species/monstera-mint"
+  - "guide/monstera-care"
+  - "guide/monstera-repotting-guide"
+  - "soil/best-soil-for-monstera"
 baseProducts:
   - title: Leather Botanical Collection｜SISHICRAFT × tokyoplants
     url: 'https://www.tokyoplants.com/categories/7318231'

@@ -14,12 +14,15 @@ tags:
 author: tokyoplants 編集部
 genus: anthurium
 relatedSlugs:
-  - species/anthurium-warocqueanum
-  - species/anthurium-clarinervium
-  - species/anthurium-crystallinum
-  - species/anthurium-magnificum
-  - species/genus-anthurium
-  - guide/anthurium-warocqueanum-care-guide
+  - "species/anthurium-warocqueanum"
+  - "species/anthurium-clarinervium"
+  - "species/anthurium-crystallinum"
+  - "species/anthurium-magnificum"
+  - "species/genus-anthurium"
+  - "guide/anthurium-warocqueanum-care-guide"
+  - "guide/anthurium-care-for-beginners"
+  - "guide/anthurium-summer-rainy-season-care"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: Anthurium Warocqueanum｜アンスリウム・ワロクアーナム
     url: 'https://www.tokyoplants.com/items/94920117'

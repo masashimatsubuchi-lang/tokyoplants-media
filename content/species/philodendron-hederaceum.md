@@ -14,6 +14,9 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "species/philodendron-pink-princess"
   - "species/philodendron-melanochrysum"
+  - "guide/philodendron-repotting-guide"
+  - "guide/philodendron-hydroculture"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "tokyoplants Philodendron｜フィロデンドロン一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

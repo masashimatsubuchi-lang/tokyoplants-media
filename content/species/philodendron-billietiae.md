@@ -14,6 +14,9 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "species/philodendron-patriciae"
   - "species/philodendron-el-choco-red"
+  - "guide/philodendron-repotting-guide"
+  - "guide/philodendron-hydroculture"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Philodendron billietiae variegated｜フィロデンドロン・ビリエティエ"
     url: "https://www.tokyoplants.com/items/124441214"

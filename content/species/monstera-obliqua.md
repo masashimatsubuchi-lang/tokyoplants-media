@@ -13,6 +13,9 @@ relatedSlugs:
   - "species/genus-monstera"
   - "guide/monstera-care"
   - "species/monstera-burle-marxii"
+  - "guide/monstera-repotting-guide"
+  - "guide/monstera-hydroculture"
+  - "soil/best-soil-for-monstera"
 baseProducts:
   - title: "Monstera obliqua Peru｜モンステラ・オブリクア"
     url: "https://www.tokyoplants.com/items/136047583"

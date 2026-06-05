@@ -13,6 +13,9 @@ relatedSlugs:
   - "soil/best-soil-for-monstera"
   - "species/monstera-obliqua"
   - "species/monstera-burle-marxii"
+  - "guide/monstera-care"
+  - "guide/monstera-repotting-guide"
+  - "guide/monstera-hydroculture"
 baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"

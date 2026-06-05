@@ -13,6 +13,9 @@ relatedSlugs:
   - "species/velvet-anthurium-types-comparison"
   - "species/genus-anthurium"
   - "species/anthurium-clarinervium"
+  - "guide/anthurium-care-for-beginners"
+  - "guide/anthurium-summer-rainy-season-care"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Anthurium papillilaminum｜アンスリウム・パピリラミナム"
     url: "https://www.tokyoplants.com/items/139950688"

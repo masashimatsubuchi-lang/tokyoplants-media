@@ -14,6 +14,8 @@ relatedSlugs:
   - "species/anthurium-warocqueanum"
   - "species/anthurium-carlablackiae"
   - "species/velvet-anthurium-types-comparison"
+  - "guide/anthurium-care-for-beginners"
+  - "guide/anthurium-summer-rainy-season-care"
 baseProducts:
   - title: "アンスリウムの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382097"

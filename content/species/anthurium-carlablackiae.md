@@ -13,6 +13,9 @@ relatedSlugs:
   - "species/velvet-anthurium-types-comparison"
   - "species/genus-anthurium"
   - "species/anthurium-veitchii"
+  - "guide/anthurium-care-for-beginners"
+  - "guide/anthurium-summer-rainy-season-care"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Anthurium carlablackiae｜アンスリウム・カルラブラッキエ"
     url: "https://www.tokyoplants.com/items/145161050"

@@ -11,6 +11,9 @@ relatedSlugs:
   - "species/hoya-kerrii"
   - "species/genus-hoya"
   - "species/hoya-pubicalyx"
+  - "guide/root-rot-causes-and-recovery"
+  - "soil/improve-drainage-for-houseplants"
+  - "guide/bottom-watering-houseplants"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

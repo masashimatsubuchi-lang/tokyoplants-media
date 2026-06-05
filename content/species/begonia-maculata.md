@@ -7,9 +7,9 @@ category: "species"
 tags: ["ベゴニア", "マキュラータ", "ポルカドット", "図鑑", "インテリアグリーン"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "guide/anthurium-care-for-beginners"
-  - "guide/alocasia-care-guide"
   - "species/begonia-rex"
+  - "guide/root-rot-causes-and-recovery"
+  - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "Begonia maculata variegata 'Pink'｜ベゴニア・マキュラータ"
     url: "https://www.tokyoplants.com/items/129136399"

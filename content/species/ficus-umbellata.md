@@ -13,6 +13,8 @@ relatedSlugs:
   - "species/ficus-elastica"
   - "species/ficus-lyrata"
   - "species/genus-ficus"
+  - "guide/umbellata-care"
+  - "guide/umbellata-repotting-guide"
 baseProducts:
   - title: "ウンベラータの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

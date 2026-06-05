@@ -8,7 +8,8 @@ tags: ["ベゴニア", "レックス", "カラーリーフ", "図鑑", "イン�
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/begonia-maculata"
-  - "guide/alocasia-care-guide"
+  - "guide/root-rot-causes-and-recovery"
+  - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "tokyoplants Begonia｜ベゴニア一覧"
     url: "https://www.tokyoplants.com/categories/7114659"

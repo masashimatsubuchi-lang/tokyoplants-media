@@ -13,6 +13,8 @@ relatedSlugs:
   - "species/genus-monstera"
   - "guide/monstera-care"
   - "species/monstera-deliciosa"
+  - "guide/monstera-repotting-guide"
+  - "soil/best-soil-for-monstera"
 baseProducts:
   - title: "Monstera adansonii Mottled｜モンステラ・アダンソニー斑入り"
     url: "https://www.tokyoplants.com/items/144053834"

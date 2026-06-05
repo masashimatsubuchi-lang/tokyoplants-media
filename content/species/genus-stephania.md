@@ -12,6 +12,8 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "species/stephania-kaweesakii"
   - "species/stephania-erecta"
+  - "guide/stephania-kaweesakii-care"
+  - "guide/stephania-kaweesakii-complete-guide"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

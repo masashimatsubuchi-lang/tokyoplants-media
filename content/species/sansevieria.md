@@ -10,6 +10,8 @@ relatedSlugs:
   - "research/air-purifying-plants"
   - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/sansevieria-care"
+  - "soil/improve-drainage-for-houseplants"
 baseProducts:
   - title: "サンスベリアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

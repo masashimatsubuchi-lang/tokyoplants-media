@@ -15,6 +15,8 @@ relatedSlugs:
   - "species/monstera-albo-variegata"
   - "species/monstera-adansonii"
   - "species/monstera-obliqua"
+  - "guide/monstera-repotting-guide"
+  - "guide/monstera-hydroculture"
 baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"

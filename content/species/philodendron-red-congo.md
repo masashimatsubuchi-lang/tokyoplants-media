@@ -14,6 +14,8 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "species/philodendron-melanochrysum"
   - "species/philodendron-hederaceum"
+  - "guide/philodendron-repotting-guide"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Philodendron Red Congo｜フィロデンドロン・レッドコンゴ"
     url: "https://www.tokyoplants.com/items/144054390"

@@ -15,6 +15,9 @@ relatedSlugs:
   - "species/philodendron-melanochrysum"
   - "species/philodendron-gloriosum"
   - "species/philodendron-pink-princess"
+  - "guide/philodendron-repotting-guide"
+  - "guide/philodendron-hydroculture"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

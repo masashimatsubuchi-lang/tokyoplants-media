@@ -14,6 +14,9 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "species/philodendron-el-choco-red"
   - "species/philodendron-melanochrysum"
+  - "guide/philodendron-repotting-guide"
+  - "guide/philodendron-hydroculture"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Philodendron Florida Beauty｜フィロデンドロン・フロリダビューティー"
     url: "https://www.tokyoplants.com/items/121890344"

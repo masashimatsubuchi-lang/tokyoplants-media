@@ -16,6 +16,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/improve-drainage-for-houseplants"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "フィランサス・ウリナリア ピンク斑入り"
     url: "https://www.tokyoplants.com/items/145161419"
