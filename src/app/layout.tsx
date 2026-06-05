@@ -33,6 +33,8 @@ export const metadata: Metadata = {
     "観葉植物 植え替え",
     "植物図鑑",
     "tokyoplants",
+    "トーキョープランツ",
+    "東京プランツ",
   ],
   alternates: {
     canonical: "/",
@@ -87,13 +89,25 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "tokyoplants media",
-    alternateName: "tokyoplants",
+    alternateName: ["tokyoplants", "トーキョープランツ", "東京プランツ"],
     url: "https://media.tokyoplants.com",
     potentialAction: {
       "@type": "SearchAction",
       target: "https://media.tokyoplants.com/search?q={search_term_string}",
       "query-input": "required name=search_term_string",
     },
+  };
+
+  const organizationJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "tokyoplants",
+    alternateName: ["トーキョープランツ", "東京プランツ"],
+    url: "https://www.tokyoplants.com",
+    sameAs: [
+      "https://media.tokyoplants.com",
+      "https://www.instagram.com/tokyoplants_",
+    ],
   };
 
   return (
@@ -114,6 +128,10 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
         />
         <Header />
         <main className="min-h-screen">{children}</main>
