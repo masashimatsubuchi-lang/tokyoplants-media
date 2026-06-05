@@ -1,5 +1,5 @@
 ---
-image: /images/products/lava-rock-for-houseplants-header.jpg
+image: /images/products/lava-rock-product.jpg
 title: 溶岩石を観葉植物に使うメリット｜通気性と根腐れ防止の仕組み
 description: >-
   溶岩石（火山岩）を観葉植物の培地に使うメリットを解説。多孔質構造による通気性・保水性・根腐れ防止の仕組み、土との違い、ハイドロカルチャーでの使い方がわかります。
