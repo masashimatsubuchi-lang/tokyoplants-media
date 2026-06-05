@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1683546986548-81a43ccc37da?crop=entropyimage: "https://images.unsplash.com/photo-1763060819345-e47d742d2ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"cs=tinysrgbimage: "https://images.unsplash.com/photo-1763060819345-e47d742d2ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fit=maximage: "https://images.unsplash.com/photo-1763060819345-e47d742d2ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fm=jpgimage: "https://images.unsplash.com/photo-1763060819345-e47d742d2ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"ixlib=rb-4.1.0image: "https://images.unsplash.com/photo-1763060819345-e47d742d2ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"q=80image: "https://images.unsplash.com/photo-1763060819345-e47d742d2ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"w=1080"
 title: "フィロデンドロン・フロリダビューティー｜斑入り交配種の育て方と斑の安定化"
 description: "フィロデンドロン・フロリダビューティー（Florida Beauty）の基本情報、クリーム〜黄白色の斑入り模様の特徴、Florida Ghostとの違い、育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-04"

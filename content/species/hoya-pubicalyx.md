@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1611930110781-ecd83a581526?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1769346442881-b63ba7476b77?crop=entropyimage: "https://images.unsplash.com/photo-1735115642558-64c9a978427b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"cs=tinysrgbimage: "https://images.unsplash.com/photo-1735115642558-64c9a978427b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fit=maximage: "https://images.unsplash.com/photo-1735115642558-64c9a978427b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fm=jpgimage: "https://images.unsplash.com/photo-1735115642558-64c9a978427b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"ixlib=rb-4.1.0image: "https://images.unsplash.com/photo-1735115642558-64c9a978427b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"q=80image: "https://images.unsplash.com/photo-1735115642558-64c9a978427b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"w=1080"
 title: "ホヤ・ピュービカリックス｜シルバースプラッシュと深紅の花の育て方図鑑"
 description: "ホヤ・ピュービカリックス（Hoya pubicalyx）の基本情報、銀色のスプラッシュ斑が入る葉の特徴、深紅〜黒に近い花の咲かせ方、育て方を図鑑形式で詳しく解説します。"
 date: "2026-06-04"

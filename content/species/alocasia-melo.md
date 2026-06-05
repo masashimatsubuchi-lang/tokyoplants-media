@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1503149779833-1de50ebe5f8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1624788998865-126ccbb55e40?crop=entropyimage: "https://images.unsplash.com/photo-1624861234508-209e3b68d5e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"cs=tinysrgbimage: "https://images.unsplash.com/photo-1624861234508-209e3b68d5e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fit=maximage: "https://images.unsplash.com/photo-1624861234508-209e3b68d5e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fm=jpgimage: "https://images.unsplash.com/photo-1624861234508-209e3b68d5e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"ixlib=rb-4.1.0image: "https://images.unsplash.com/photo-1624861234508-209e3b68d5e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"q=80image: "https://images.unsplash.com/photo-1624861234508-209e3b68d5e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"w=1080"
 title: "アロカシア・メロ｜ゴツゴツした革質の葉が個性的な希少種の育て方図鑑"
 description: "アロカシア・メロ（Alocasia melo）の基本情報、ざらざらした革質・ゴツゴツした独特の葉の特徴、ボルネオ固有種の育て方と高湿度管理のポイントを図鑑形式で解説します。"
 date: "2026-06-04"

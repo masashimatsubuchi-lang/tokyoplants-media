@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1603095859718-b6300a0aad18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1461887197298-4b315a1472f5?crop=entropyimage: "https://images.unsplash.com/photo-1655465184678-548fb85fa74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"cs=tinysrgbimage: "https://images.unsplash.com/photo-1655465184678-548fb85fa74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fit=maximage: "https://images.unsplash.com/photo-1655465184678-548fb85fa74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"fm=jpgimage: "https://images.unsplash.com/photo-1655465184678-548fb85fa74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"ixlib=rb-4.1.0image: "https://images.unsplash.com/photo-1655465184678-548fb85fa74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"q=80image: "https://images.unsplash.com/photo-1655465184678-548fb85fa74a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"w=1080"
 title: "フィロデンドロン・ビリエティエ｜オレンジ茎と長葉が印象的な着生種の育て方図鑑"
 description: "フィロデンドロン・ビリエティエ（Philodendron billietiae）の基本情報、オレンジ色の茎と細長い葉の特徴、着生種の育て方・仕立て方を図鑑形式で詳しく解説します。"
 date: "2026-06-04"
