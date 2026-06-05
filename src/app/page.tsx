@@ -244,7 +244,7 @@ export default function Home() {
                 <ul className="mt-6 space-y-2">
                   {[
                     "国内希少種・コレクター品種を厳選",
-                    "入荷情報はInstagramで先行発表",
+                    "入荷情報はInstagramで随時発信",
                     "専門スタッフが状態を確認して発送",
                   ].map((point) => (
                     <li key={point} className="flex items-start gap-2 text-sm text-teal-100">
