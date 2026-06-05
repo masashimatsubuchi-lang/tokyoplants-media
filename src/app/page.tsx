@@ -229,45 +229,72 @@ export default function Home() {
       {/* EC Banner */}
       <section className="py-24">
         <div className="mx-auto max-w-5xl px-4">
-          <div className="rounded-2xl bg-teal-800 px-6 py-20 text-center">
-            <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-300">
-              Online Shop
-            </p>
-            <h2 className="mt-3 text-2xl md:text-3xl font-bold tracking-tight text-white">
-              希少植物のオンラインショップ
-            </h2>
-            <p className="mt-3 text-sm leading-relaxed text-teal-200">
-              厳選された希少植物をお届けします
-            </p>
-            <div className="mt-10 flex flex-wrap justify-center gap-3">
-              {[
-                { name: "Monstera", path: "/categories/6382102" },
-                { name: "Philodendron", path: "/categories/6382100" },
-                { name: "Anthurium", path: "/categories/6382097" },
-                { name: "Alocasia", path: "/categories/6382096" },
-                { name: "Aglaonema", path: "/categories/6382098" },
-                { name: "Begonia", path: "/categories/7114659" },
-              ].map((cat) => (
-                <a
-                  key={cat.name}
-                  href={`https://www.tokyoplants.com${cat.path}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="rounded-full border border-white/20 px-5 py-2 text-[13px] font-medium text-white hover:bg-white/10 transition-colors"
-                >
-                  {cat.name}
-                </a>
-              ))}
-            </div>
-            <div className="mt-10">
-              <a
-                href="https://www.tokyoplants.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block rounded-full bg-white px-8 py-3 text-sm font-semibold text-teal-800 hover:bg-gray-50 transition-colors"
-              >
-                ショップを見る
-              </a>
+          <div className="rounded-2xl bg-teal-800 overflow-hidden">
+            <div className="px-8 py-14 md:px-16 md:py-16 grid md:grid-cols-2 gap-10 items-center">
+
+              {/* Left: Copy + CTA */}
+              <div>
+                <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-300">
+                  Online Shop
+                </p>
+                <h2 className="mt-3 text-2xl md:text-3xl font-bold tracking-tight text-white leading-snug">
+                  入荷即完売の希少植物を<br className="hidden md:block" />専門店から直接お届け
+                </h2>
+                <ul className="mt-6 space-y-2">
+                  {[
+                    "国内希少種・コレクター品種を厳選",
+                    "入荷情報はInstagramで先行発表",
+                    "専門スタッフが状態を確認して発送",
+                  ].map((point) => (
+                    <li key={point} className="flex items-start gap-2 text-sm text-teal-100">
+                      <span className="mt-0.5 text-teal-400 shrink-0">✓</span>
+                      {point}
+                    </li>
+                  ))}
+                </ul>
+                <div className="mt-8 flex flex-wrap gap-3">
+                  <a
+                    href="https://www.tokyoplants.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block rounded-full bg-white px-7 py-3 text-sm font-semibold text-teal-800 hover:bg-teal-50 transition-colors"
+                  >
+                    ショップを見る
+                  </a>
+                  <a
+                    href="https://www.instagram.com/tokyoplants_"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-block rounded-full border border-white/30 px-7 py-3 text-sm font-medium text-white hover:bg-white/10 transition-colors"
+                  >
+                    入荷情報をチェック
+                  </a>
+                </div>
+              </div>
+
+              {/* Right: Category grid */}
+              <div className="grid grid-cols-3 gap-2">
+                {[
+                  { name: "Monstera", ja: "モンステラ", path: "/categories/6382102" },
+                  { name: "Philodendron", ja: "フィロデンドロン", path: "/categories/6382100" },
+                  { name: "Anthurium", ja: "アンスリウム", path: "/categories/6382097" },
+                  { name: "Alocasia", ja: "アロカシア", path: "/categories/6382096" },
+                  { name: "Aglaonema", ja: "アグラオネマ", path: "/categories/6382098" },
+                  { name: "Begonia", ja: "ベゴニア", path: "/categories/7114659" },
+                ].map((cat) => (
+                  <a
+                    key={cat.name}
+                    href={`https://www.tokyoplants.com${cat.path}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-xl bg-white/10 hover:bg-white/20 transition-colors px-3 py-4 text-center group"
+                  >
+                    <p className="text-[11px] font-semibold text-white/90 group-hover:text-white">{cat.name}</p>
+                    <p className="mt-0.5 text-[10px] text-teal-300">{cat.ja}</p>
+                  </a>
+                ))}
+              </div>
+
             </div>
           </div>
         </div>
