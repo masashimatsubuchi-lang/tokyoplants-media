@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1467043153537-a4fba2cd39ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1612366206518-535bea7db163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "旅行中の観葉植物の水やり｜2泊〜1週間以上の留守対策まとめ"
 description: "旅行・出張中の観葉植物の水やり問題を解決。2泊3日〜1週間以上の留守でも枯らさない方法を期間別に解説。底面給水・無機培地への切り替えで根本的に解決する方法も紹介します。"
 date: "2026-06-04"

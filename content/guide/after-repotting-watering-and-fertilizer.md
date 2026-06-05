@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1589945341601-e9e036a35493?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "植え替え後の水やりと肥料｜いつから再開していい？"
 description: "植え替え後の水やりと肥料の再開タイミングを解説。植え替え直後の過湿リスク、回復期の管理方法、肥料を与えすぎた場合のトラブル対処まで詳しく説明します。"
 date: "2026-06-05"

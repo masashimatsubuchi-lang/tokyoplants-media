@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1603912699214-92627f304eb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1623385523057-08414b3665b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アロカシアが根腐れする原因と対処法｜ハイドロカルチャーで再発を防ぐ"
 description: "アロカシアの根腐れは土の水分過多が主因。症状の見分け方・緊急対処手順・ハイドロカルチャーへの切り替えで根腐れを根本から防ぐ方法を解説します。"
 date: "2026-06-04"

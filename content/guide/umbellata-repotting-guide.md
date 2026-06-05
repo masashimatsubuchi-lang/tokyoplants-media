@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1643819131797-46919f3009f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "フィカス・ウンベラータの植え替え｜葉落ちしない時期と手順"
 description: "ウンベラータの植え替え方法を解説。葉が落ちやすいウンベラータを枯らさない時期の選び方、土の配合、根の処理、植え替え後の管理まで詳しく説明します。"
 date: "2026-06-05"
