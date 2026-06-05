@@ -11,7 +11,7 @@ export default function Home() {
   const editorsPickDefs = [
     { category: "review", slug: "daily-botanical-towel-review" },
     { category: "soil", slug: "houseplant-soil-hub-guide" },
-    { category: "soil", slug: "lava-rock-for-houseplants" },
+    { category: "soil", slug: "hydroculture-complete-guide" },
   ];
   const editorsPick = editorsPickDefs
     .map((def) => allPosts.find((p) => p.category === def.category && p.slug === def.slug))

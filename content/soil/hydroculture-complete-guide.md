@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "/images/products/hydro-mineral-product.jpg"
 title: "観葉植物のハイドロカルチャー完全ガイド｜培地・水管理・植物別の育て方まで"
 description: "観葉植物のハイドロカルチャーを始めから終わりまで完全解説。土との違い、培地（LECA・溶岩石・ゼオライト）の選び方、水やり・肥料・根腐れ対策、アロカシア・モンステラ・フィロデンドロンの植物別管理まで。HYDRO MINERALの使い方も詳しく紹介。"
 date: "2026-06-05"
