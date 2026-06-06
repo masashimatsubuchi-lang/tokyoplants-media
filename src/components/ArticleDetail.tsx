@@ -58,7 +58,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const isGenusPage = post.slug.startsWith("genus-");
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
   const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
-  const showInlineBanner = ["soil", "guide", "species"].includes(post.category) && hasInlineProduct(post.baseProducts);
+  const showInlineBanner = ["soil", "guide", "species", "research"].includes(post.category) && hasInlineProduct(post.baseProducts);
   const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterFirstH2(contentWithIds) : [contentWithIds, ""];
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),

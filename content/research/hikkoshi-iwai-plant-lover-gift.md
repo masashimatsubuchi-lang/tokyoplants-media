@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1609762751666?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1609762751666-4ba213fb0b5f?w=1200&q=80"
 title: "引っ越し祝い｜観葉植物好きへ贈るおすすめギフト5選"
 description: "観葉植物好きへの引っ越し祝いに迷ったらこの記事。植物を贈る前に知っておきたいポイントから、Daily Botanical Towelなど実際に喜ばれるギフト選びを徹底解説します。"
 date: "2026-06-06"
