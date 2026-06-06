@@ -4,7 +4,7 @@ interface Props {
   products: BaseProduct[];
 }
 
-type ProductType = "soil" | "hydro" | "warocqueanum" | "regale" | "holygrail";
+type ProductType = "soil" | "hydro" | "warocqueanum" | "regale" | "holygrail" | "towel";
 
 interface ProductMeta {
   label: string;
@@ -14,6 +14,12 @@ interface ProductMeta {
 }
 
 const PRODUCT_META: Record<ProductType, ProductMeta> = {
+  towel: {
+    heading: "tokyoplants のおすすめギフト",
+    label: "Daily Botanical Towel｜リーフタオル",
+    note: "ボタニカルデザインの今治タオル仕様。植物好きへのギフトに。",
+    img: "/images/products/botanical-towel-main.jpg",
+  },
   holygrail: {
     heading: "tokyoplants で購入できます",
     label: "Alocasia 'Holy Grail'",
@@ -47,6 +53,7 @@ const PRODUCT_META: Record<ProductType, ProductMeta> = {
 };
 
 function detectType(product: BaseProduct): ProductType | null {
+  if (product.url.includes("/items/135803882") || product.title.includes("Daily Botanical Towel") || product.title.includes("リーフタオル")) return "towel";
   if (product.url.includes("/items/144787813") || product.title.includes("Holy Grail") || product.title.includes("ホーリーグレイル")) return "holygrail";
   if (product.url.includes("/items/94920117") || product.title.includes("Warocqueanum") || product.title.includes("ワロクアーナム")) return "warocqueanum";
   if (product.url.includes("/items/94918874") || product.title.includes("Regale") || product.title.includes("レガレ")) return "regale";
@@ -57,7 +64,7 @@ function detectType(product: BaseProduct): ProductType | null {
 
 /** バナーに表示する商品を優先順で1件選ぶ（植物 > 土 > ハイドロ） */
 function pickPrimary(products: BaseProduct[]): { product: BaseProduct; type: ProductType; meta: ProductMeta } | null {
-  const priority: ProductType[] = ["holygrail", "warocqueanum", "regale", "hydro", "soil"];
+  const priority: ProductType[] = ["towel", "holygrail", "warocqueanum", "regale", "hydro", "soil"];
   for (const ptype of priority) {
     const found = products.find((p) => detectType(p) === ptype);
     if (found) return { product: found, type: ptype, meta: PRODUCT_META[ptype] };
