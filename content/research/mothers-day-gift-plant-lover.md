@@ -1,8 +1,9 @@
 ---
 image: "https://images.unsplash.com/photo-1590682680695-43b964a3ae17?w=1200&q=80"
-title: "母の日 観葉植物好きへのプレゼント｜予算別おすすめギフト5選"
-description: "観葉植物が好きなお母さんへの母の日プレゼントに迷ったらこの記事。Daily Botanical Towelほか、実際に喜ばれる予算別ギフトを5つ厳選して紹介します。"
+title: "母の日 観葉植物好きへのプレゼント｜予算別おすすめギフト6選"
+description: "観葉植物が好きなお母さんへの母の日プレゼントに迷ったらこの記事。Daily Botanical TowelやSISHICRAFTレザーほか、実際に喜ばれる予算別ギフトを6つ厳選して紹介します。"
 date: "2026-06-06"
+updated: "2026-06-08"
 category: "research"
 tags:
   - 母の日
@@ -20,6 +21,9 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+  - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
+    url: "https://www.tokyoplants.com/categories/7318231"
+    price: "¥18,000〜"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
@@ -43,7 +47,7 @@ baseProducts:
 
 ---
 
-## おすすめギフト5選
+## おすすめギフト6選
 
 ### ① Daily Botanical Towel｜リーフタオル（¥2,000）― 最もおすすめ
 
@@ -59,6 +63,8 @@ baseProducts:
 
 植物を贈ることに迷ったら、まずこれを選べば間違いありません。
 
+[Daily Botanical Towel をみる →](https://www.tokyoplants.com/items/135803882)
+
 ---
 
 ### ② 観葉植物の専門土（¥1,200〜）
@@ -66,6 +72,8 @@ baseProducts:
 植物を丁寧に育てているお母さんには、**高品質な専門土**がうれしいギフトになります。市販の培養土との違いを知っているほど、専門店のこだわり土の価値を感じてもらえます。
 
 「植え替えシーズンに合わせて贈る」という使い方も◎。植物ケアへの理解を示せる、植物好きならではのギフトです。
+
+[I'm original SOIL をみる →](https://www.tokyoplants.com/items/99620939)
 
 ---
 
@@ -94,6 +102,23 @@ baseProducts:
 
 ホームセンターでは手に入らない希少品種を専門店から選ぶことで、「ちゃんと好みを理解してくれている」という気持ちが伝わります。
 
+[希少な観葉植物をみる →](https://www.tokyoplants.com/categories/6382090)
+
+---
+
+### ⑥ Leather Botanical Collection｜SISHICRAFT × tokyoplants（¥18,000〜）― 特別な母の日に
+
+植物専門店 tokyoplants と革職人 SISHICRAFT のコラボレーションによる、植物モチーフの本革製品コレクションです。
+
+**こんなお母さんに向く：**
+- 植物だけでなくインテリア・ライフスタイル全般にこだわりがある
+- 特別な節目（還暦・古希など）に贈りたい
+- ¥10,000以上の予算で、長く使えるものを選びたい
+
+植物好きにしか響かない唯一無二のギフトとして、特別な母の日に検討してほしい一品です。
+
+[Leather Botanical Collection をみる →](https://www.tokyoplants.com/categories/7318231)
+
 ---
 
 ## 予算別まとめ
@@ -105,6 +130,7 @@ baseProducts:
 | ¥2,000〜8,000 | おしゃれな鉢・プランター |
 | ¥1,500〜3,000 | 植物の本・図鑑 |
 | ¥3,000〜 | 希少な観葉植物（好みを把握できているなら） |
+| ¥18,000〜 | Leather Botanical Collection（特別な節目に） |
 
 ---
 
