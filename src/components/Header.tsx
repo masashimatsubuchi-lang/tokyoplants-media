@@ -70,6 +70,14 @@ export default function Header() {
           >
             検索
           </Link>
+          <a
+            href="https://www.tokyoplants.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="rounded-full bg-emerald-700 px-3 py-1.5 text-xs font-semibold text-white hover:bg-emerald-800 transition-colors"
+          >
+            SHOP
+          </a>
         </div>
       </div>
     </header>
