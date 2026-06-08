@@ -1,8 +1,9 @@
 ---
 image: "https://images.unsplash.com/photo-1503346339662-b25ed316827c?w=1200&q=80"
-title: "誕生日プレゼント 植物好きへ｜予算別おすすめギフト7選"
-description: "植物好きな友人・恋人・家族への誕生日プレゼントに迷ったらこの記事。Daily Botanical Towelほか、外れなしの実用ギフトを予算別に7つ紹介します。"
+title: "誕生日プレゼント 植物好きへ｜予算別おすすめギフト8選"
+description: "植物好きな友人・恋人・家族への誕生日プレゼントに迷ったらこの記事。Daily Botanical TowelやSISHICRAFTレザーほか、外れなしの実用ギフトを予算別に8つ紹介します。"
 date: "2026-06-06"
+updated: "2026-06-08"
 category: "research"
 tags:
   - 誕生日プレゼント
@@ -21,6 +22,9 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+  - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
+    url: "https://www.tokyoplants.com/categories/7318231"
+    price: "¥18,000〜"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
@@ -44,7 +48,7 @@ baseProducts:
 
 ---
 
-## おすすめギフト7選
+## おすすめギフト8選
 
 ### ① Daily Botanical Towel｜リーフタオル（¥2,000）― 迷ったらこれ
 
@@ -60,6 +64,8 @@ baseProducts:
 
 「何を贈ればいいか分からない」ときの答えがこれです。
 
+[Daily Botanical Towel をみる →](https://www.tokyoplants.com/items/135803882)
+
 ---
 
 ### ② 観葉植物の専門土（¥1,200〜）
@@ -67,6 +73,8 @@ baseProducts:
 植物を丁寧に育てている人には、こだわりの専門土が刺さります。市販の培養土との違いを肌で知っているほど、専門店のブレンド土への評価は高くなります。
 
 植え替え時期（春・秋）の前後に贈ると、すぐに使ってもらえてより喜ばれます。
+
+[I'm original SOIL をみる →](https://www.tokyoplants.com/items/99620939)
 
 ---
 
@@ -105,6 +113,21 @@ baseProducts:
 
 植物好きの「次に育ててみたい品種」を把握できているなら、希少品種の株が最大の喜びになります。ホームセンターでは手に入らない品種を専門店から選ぶことで、「分かってくれている」という感動が生まれます。
 
+[希少な観葉植物をみる →](https://www.tokyoplants.com/categories/6382090)
+
+---
+
+### ⑧ Leather Botanical Collection｜SISHICRAFT × tokyoplants（¥18,000〜）― 特別な日の本格ギフト
+
+植物モチーフをあしらった本革製品のコレクションです。植物専門店 tokyoplants と革職人 SISHICRAFT のコラボレーションによるアイテムで、植物好きにしか刺さらない唯一無二のギフトです。
+
+**こんな場面に向く：**
+- 節目の誕生日（30歳・40歳など）に贈る特別なプレゼント
+- 長年お世話になった方へ
+- ¥10,000以上の予算が取れる場合
+
+[Leather Botanical Collection をみる →](https://www.tokyoplants.com/categories/7318231)
+
 ---
 
 ## 予算別おすすめまとめ
@@ -118,6 +141,7 @@ baseProducts:
 | ¥1,500〜3,000 | 植物の本・図鑑 | 知識を深めたい人に |
 | ¥2,000〜8,000 | おしゃれな鉢 | 好みを把握できているなら |
 | ¥3,000〜 | 希少な観葉植物 | 品種の好みを知っているなら |
+| ¥18,000〜 | Leather Botanical Collection | 特別な記念日・本格ギフトに |
 
 ---
 
