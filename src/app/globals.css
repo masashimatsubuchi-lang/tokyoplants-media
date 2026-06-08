@@ -30,6 +30,15 @@ body {
   display: inline-block;
 }
 
+/* Highlighter marker effect */
+.prose mark {
+  background: linear-gradient(transparent 55%, #fde68a 55%);
+  color: inherit;
+  padding: 0 0.1em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
 /* Horizontal scroll: hide scrollbar */
 .scrollbar-hide {
   scrollbar-width: none;
