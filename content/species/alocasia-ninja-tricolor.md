@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1623325943583-d658515e0889?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1764042684608-06113cfffe45?w=1200&q=80"
 title: "アロカシア・ニンジャ トリカラー｜Alocasia 'Ninja Tricolor' 図鑑"
 description: "アロカシア・ニンジャ トリカラー（Alocasia 'Ninja Tricolor'）の特徴・育て方を解説。グリーン・ホワイト・ピンクの三色斑が入る希少なトリカラー品種です。"
 date: "2026-06-08"

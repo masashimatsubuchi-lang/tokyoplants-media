@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1689150421131-140385516944?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1775558402946-c49f1b233aeb?w=1200&q=80"
 title: "アロカシア・ノビリス｜Alocasia nobillis 図鑑"
 description: "アロカシア・ノビリス（Alocasia nobillis）の特徴・育て方を解説。光沢のある濃緑葉と波打つ葉縁が特徴の中型アロカシアの図鑑ページです。"
 date: "2026-06-08"
