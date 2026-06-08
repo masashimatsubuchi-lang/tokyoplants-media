@@ -20,9 +20,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const postEntries: MetadataRoute.Sitemap = getAllPosts().map((post) => ({
     url: `${siteUrl}/${post.category}/${post.slug}`,
-    lastModified: parseDate(post.date),
+    lastModified: parseDate(post.updated ?? post.date),
     changeFrequency: "monthly",
-    priority: 0.7,
+    priority: ["soil", "species"].includes(post.category) ? 0.8 : 0.7,
   }));
 
   return [...staticEntries, ...postEntries];
