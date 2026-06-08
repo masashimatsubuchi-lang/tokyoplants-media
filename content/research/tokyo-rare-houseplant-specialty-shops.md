@@ -19,13 +19,6 @@ relatedSlugs:
   - "species/genus-philodendron"
   - "species/genus-alocasia"
   - "species/genus-platycerium"
-baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 ---
 
 ## 東京で希少な観葉植物を買うには？
@@ -48,28 +41,7 @@ baseProducts:
 
 ## おすすめ専門店4選
 
-### 1. tokyoplants（東京・オンライン）
-
-モンステラ・フィロデンドロン・アンスリウム・アロカシアなど希少アロイド系を中心に扱う専門店。SNS（Instagram）での入荷情報発信とEC販売を組み合わせた運営が特徴で、全国から購入できます。
-
-**特徴：**
-- 葉脈・斑・個体差を細かく説明した商品ページ
-- 育成情報を発信するメディア（本サイト）と連携
-- 全国配送対応のオンラインショップ
-
-**こんな人に向く：** 希少種を段階的に揃えたい人・購入前に育て方を確認したい人
-
-| カテゴリ | リンク |
-|---------|--------|
-| アンスリウム | [アンスリウムをみる →](https://www.tokyoplants.com/categories/6382097) |
-| アロカシア | [アロカシアをみる →](https://www.tokyoplants.com/categories/6382096) |
-| フィロデンドロン | [フィロデンドロンをみる →](https://www.tokyoplants.com/categories/6382100) |
-| モンステラ | [モンステラをみる →](https://www.tokyoplants.com/categories/6382102) |
-| すべての植物 | [すべての植物をみる →](https://www.tokyoplants.com/categories/6382090) |
-
----
-
-### 2. garage TOKYO（丸の内）
+### 1. garage TOKYO（丸の内）
 
 丸の内エリアに位置する、生活空間提案と植物販売を統合した都心型ショップ。インテリア親和性の高い観葉植物を中心に、エントリー〜中価格帯まで幅広く取り扱っています。
 
@@ -84,7 +56,7 @@ baseProducts:
 
 ---
 
-### 3. garage SHIBUYA（渋谷）
+### 2. garage SHIBUYA（渋谷）
 
 渋谷駅近くに位置する、アクセスしやすい都市型植物店。トレンド品種や育てやすい観葉植物を中心に、希少種もスポット的に入荷します。
 
@@ -99,7 +71,7 @@ baseProducts:
 
 ---
 
-### 4. vandaka plants（東京・GALLERY TOKYO）
+### 3. vandaka plants（東京・GALLERY TOKYO）
 
 ビカクシダ（コウモリラン）に特化した専門店で、東京・京都に拠点を持ちます。原種から選抜系統まで、ビカクシダのコレクション性の高い在庫が特徴です。
 
@@ -111,6 +83,27 @@ baseProducts:
 **こんな人に向く：** ビカクシダを深く集めたい人・系統差まで見て選びたい人
 
 [vandaka plants →](https://www.vandaka.jp)
+
+---
+
+### 4. tokyoplants（オンライン）
+
+モンステラ・フィロデンドロン・アンスリウム・アロカシアなど希少アロイド系を中心に扱う専門店。SNS（Instagram）での入荷情報発信とEC販売を組み合わせた運営が特徴で、全国から購入できます。
+
+**特徴：**
+- 葉脈・斑・個体差を細かく説明した商品ページ
+- 育成情報を発信するメディアと連携
+- 全国配送対応のオンラインショップ
+
+**こんな人に向く：** 希少種を段階的に揃えたい人・購入前に育て方を確認したい人
+
+| カテゴリ | リンク |
+|---------|--------|
+| アンスリウム | [アンスリウムをみる →](https://www.tokyoplants.com/categories/6382097) |
+| アロカシア | [アロカシアをみる →](https://www.tokyoplants.com/categories/6382096) |
+| フィロデンドロン | [フィロデンドロンをみる →](https://www.tokyoplants.com/categories/6382100) |
+| モンステラ | [モンステラをみる →](https://www.tokyoplants.com/categories/6382102) |
+| すべての植物 | [すべての植物をみる →](https://www.tokyoplants.com/categories/6382090) |
 
 ---
 
@@ -138,9 +131,9 @@ baseProducts:
 
 | 店舗 | 強み | アクセス |
 |------|------|---------|
-| tokyoplants | 希少アロイド・全国EC対応 | オンライン |
 | garage TOKYO | 都心・インテリア提案 | 丸の内 |
 | garage SHIBUYA | 駅近・実物確認しやすい | 渋谷 |
 | vandaka plants | ビカクシダ特化 | 東京・京都 |
+| tokyoplants | 希少アロイド・全国EC対応 | オンライン |
 
 希少種購入は「どこで買うか」が成功の鍵。購入後の育て方については、本メディアの植物別図鑑・育て方ガイドも参考にしてください。
