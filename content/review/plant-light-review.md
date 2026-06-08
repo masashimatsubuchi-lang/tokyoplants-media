@@ -3,14 +3,16 @@ image: "https://plus.unsplash.com/premium_photo-1663045332703-5027b30ee79c?w=800
 title: "植物育成ライト おすすめ5選【2026年】｜観葉植物・ビカクシダ向け選び方と徹底レビュー"
 description: "2026年最新版。観葉植物・ビカクシダ向けの植物育成ライトおすすめ5選を徹底レビュー。PPFD・演色性・消費電力の選び方から、植物タイプ別（ビカクシダ・モンステラ・ポトスなど）のおすすめ機種まで専門的に解説します。"
 date: "2026-02-21"
+updated: "2026-06-08"
 category: "review"
-tags: ["植物育成ライト", "LED", "レビュー", "室内栽培", "観葉植物"]
+tags: ["植物育成ライト", "LED", "レビュー", "室内栽培", "観葉植物", "ビカクシダ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "guide/houseplant-grow-light-guide"
+  - "guide/platycerium-grow-light-guide"
   - "guide/monstera-care"
   - "guide/alocasia-care-guide"
   - "review/circulator-for-houseplants-review"
-  - "soil/recommended-soil-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
