@@ -5,6 +5,14 @@ description: "観葉植物の土はいつ交換すべき？根詰まりや水は
 date: "2026-02-16"
 category: "soil"
 tags: ["観葉植物", "用土", "植え替え", "根詰まり"]
+author: "tokyoplants 編集部"
+relatedSlugs:
+  - "soil/repotting-soil-guide"
+  - "soil/recommended-soil-for-houseplants"
+  - "soil/reusing-houseplant-soil"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/root-bound-signs-and-solutions"
+  - "guide/repotting-after-purchase"
 ---
 
 ## 結論：1〜2年に一度、土は入れ替えるべき
@@ -12,7 +20,7 @@ tags: ["観葉植物", "用土", "植え替え", "根詰まり"]
 観葉植物の土は使い続けるうちに劣化します。
 粒が崩れて排水性が落ち、根腐れや生育不良の原因になります。
 
-目安は **1〜2年に一度**。
+目安は <mark>**1〜2年に一度**</mark>。
 ただし、植物の状態によってはもっと早く交換が必要です。
 
 ---

@@ -10,6 +10,9 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/indoor-houseplant-soil"
   - "soil/improve-drainage-for-houseplants"
+  - "guide/alocasia-hydroculture"
+  - "guide/monstera-hydroculture"
+  - "guide/bottom-watering-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -21,7 +24,7 @@ baseProducts:
 
 「ハイドロカルチャーと土、どっちがいいの？」——観葉植物を育て始めるとき、最初に悩むポイントです。
 
-結論から言えば、**植物をしっかり大きく育てたいなら土栽培、清潔さと手軽さを重視するならハイドロカルチャー**です。それぞれの特徴を詳しく比較します。
+結論から言えば、**<mark>植物をしっかり大きく育てたいなら土栽培、清潔さと手軽さを重視するならハイドロカルチャー</mark>**です。それぞれの特徴を詳しく比較します。
 
 ---
 

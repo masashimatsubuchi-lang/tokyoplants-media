@@ -10,6 +10,8 @@ relatedSlugs:
   - "soil/mold-on-houseplant-soil"
   - "soil/bugs-in-houseplant-soil"
   - "soil/commercial-soil-ingredients"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/spring-pest-prevention-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -168,7 +170,7 @@ baseProducts:
 
 ### 失敗1：パーライトをカビと間違えて土を捨てる
 
-最も多い誤解です。パーライトは土に最初から含まれている素材で、無害です。硬くて粒状ならパーライト、ふわふわなら、カビと覚えてください。
+最も多い誤解です。パーライトは土に最初から含まれている素材で、無害です。<mark>硬くて粒状ならパーライト、ふわふわなら、カビと覚えてください。</mark>
 
 ### 失敗2：カビを見つけて殺菌剤を大量散布
 

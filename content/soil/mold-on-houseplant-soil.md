@@ -10,6 +10,9 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/indoor-houseplant-soil"
   - "soil/when-to-replace-soil"
+  - "guide/rainy-season-houseplant-care"
+  - "guide/root-rot-causes-and-recovery"
+  - "guide/fungus-gnat-prevention-rainy-season"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -21,7 +24,7 @@ baseProducts:
 
 朝、観葉植物の鉢を見たら、土の表面に白いふわふわしたものが広がっている。これはカビです。見た目の不快感だけでなく、「植物が枯れるのでは？」と不安になる方も多いでしょう。
 
-結論から言えば、土の表面のカビで植物がすぐに枯れることはありません。ただし、カビが生える環境は植物にとっても好ましくなく、放置すると根腐れや他のトラブルにつながります。この記事では、カビの原因を特定し、除去から再発防止まで具体的に解説します。
+結論から言えば、<mark>土の表面のカビで植物がすぐに枯れることはありません。</mark>ただし、カビが生える環境は植物にとっても好ましくなく、放置すると根腐れや他のトラブルにつながります。この記事では、カビの原因を特定し、除去から再発防止まで具体的に解説します。
 
 ---
 

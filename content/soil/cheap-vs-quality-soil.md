@@ -10,6 +10,8 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
   - "soil/indoor-houseplant-soil"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/repotting-failure-patterns"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -175,4 +177,4 @@ baseProducts:
 - 専門店の土は室内栽培に最適化されており、トラブルが少ない
 - 1鉢あたりのコスト差は数百円。トラブルの手間を考えると専門店の土は合理的
 
-「安い土で失敗して買い直す」のと「最初から良い土を使う」のでは、結果的にかかるコストはほぼ変わりません。大切な植物を長く健康に育てたいなら、土にはこだわる価値があります。
+<mark>「安い土で失敗して買い直す」のと「最初から良い土を使う」のでは、結果的にかかるコストはほぼ変わりません。</mark>大切な植物を長く健康に育てたいなら、土にはこだわる価値があります。

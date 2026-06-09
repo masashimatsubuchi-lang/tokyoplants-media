@@ -5,6 +5,13 @@ description: "市販の観葉植物の土の中身は何か？赤玉土・ココ
 date: "2026-02-13"
 category: "soil"
 tags: ["観葉植物", "用土", "市販の土", "初心者"]
+author: "tokyoplants 編集部"
+relatedSlugs:
+  - "soil/recommended-soil-for-houseplants"
+  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/root-rot-causes-and-recovery"
 ---
 
 ## 結論：市販の観葉植物の土は「軽く・排水性重視」で作られている
@@ -86,7 +93,7 @@ tags: ["観葉植物", "用土", "市販の土", "初心者"]
 
 ## まとめ
 
-市販の観葉植物の土は「初心者向けの万能設計」。  
+<mark>市販の観葉植物の土は「初心者向けの万能設計」。</mark>  
 しかし、植物や環境によっては最適ではないこともあります。
 
 まずは基本を理解し、必要に応じて改良する。  

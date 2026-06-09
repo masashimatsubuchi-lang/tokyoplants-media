@@ -10,6 +10,8 @@ relatedSlugs:
   - "soil/when-to-replace-soil"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/repotting-failure-patterns"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -152,7 +154,7 @@ baseProducts:
 
 ### 結論
 
-道具を持っていない場合、再利用にかかる費用は新しい土を買うのとほぼ同じか、場合によっては高くなります。さらに2〜3日の天日干し期間と作業の手間がかかります。
+<mark>道具を持っていない場合、再利用にかかる費用は新しい土を買うのとほぼ同じか、場合によっては高くなります。</mark>さらに2〜3日の天日干し期間と作業の手間がかかります。
 
 再利用が合理的なのは、以下のケースに限られます。
 

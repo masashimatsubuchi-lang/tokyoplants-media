@@ -15,6 +15,9 @@ relatedSlugs:
   - soil/hydroculture-vs-soil
   - soil/recommended-soil-for-houseplants
   - soil/indoor-houseplant-soil
+  - guide/alocasia-hydroculture
+  - guide/monstera-hydroculture
+  - guide/philodendron-hydroculture
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'
@@ -26,7 +29,7 @@ baseProducts:
 
 「土を使いたくない」「虫が嫌」「もっとおしゃれに飾りたい」——観葉植物を土なしで育てたい理由は人それぞれです。
 
-実は、多くの観葉植物は土がなくても育てられます。この記事では、土なし栽培の主な方法を比較し、それぞれの管理方法と向いている植物を解説します。
+<mark>実は、多くの観葉植物は土がなくても育てられます。</mark>この記事では、土なし栽培の主な方法を比較し、それぞれの管理方法と向いている植物を解説します。
 
 ---
 

@@ -10,6 +10,8 @@ relatedSlugs:
   - "soil/commercial-soil-ingredients"
   - "soil/recommended-soil-for-houseplants"
   - "soil/reusing-houseplant-soil"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/how-to-trim-roots-when-repotting"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -25,7 +27,7 @@ baseProducts:
 
 ## 結論（最初に答え）
 
-結論はシンプルです。長期栽培の観葉植物には硬質赤玉土が有利です。理由は、粒が崩れにくく、排水性と通気性を長く維持しやすいからです。普通赤玉土が悪いわけではありませんが、短期利用や頻繁な植え替え前提でない限り、経時劣化の差が管理難易度に直結します。
+結論はシンプルです。<mark>長期栽培の観葉植物には硬質赤玉土が有利です。</mark>理由は、粒が崩れにくく、排水性と通気性を長く維持しやすいからです。普通赤玉土が悪いわけではありませんが、短期利用や頻繁な植え替え前提でない限り、経時劣化の差が管理難易度に直結します。
 
 使い分けの目安は以下です。
 

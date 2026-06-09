@@ -11,6 +11,9 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
+  - "species/sansevieria"
+  - "guide/sansevieria-care"
+  - "guide/winter-watering-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

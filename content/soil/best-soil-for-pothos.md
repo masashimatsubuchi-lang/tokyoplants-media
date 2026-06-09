@@ -10,6 +10,9 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
+  - "species/pothos-epipremnum-aureum"
+  - "guide/pothos-care"
+  - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -34,7 +37,7 @@ baseProducts:
 3. **適度な保水性**（完全に乾きすぎない程度）
 4. **清潔**（室内で虫が湧きにくい）
 
-ポトスはサトイモ科の着生植物で、本来は樹木に着生して育ちます。根が常に水に浸かっている状態は苦手なので、排水性を優先してください。
+<mark>ポトスはサトイモ科の着生植物で、本来は樹木に着生して育ちます。根が常に水に浸かっている状態は苦手なので、排水性を優先してください。</mark>
 
 ---
 

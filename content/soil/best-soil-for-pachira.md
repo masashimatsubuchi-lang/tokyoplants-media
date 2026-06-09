@@ -10,6 +10,9 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
+  - "guide/pachira-care"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -197,7 +200,7 @@ baseProducts:
 
 ### 失敗1：保水性の高い土を使う
 
-「パキラは熱帯の植物だから湿度が必要」と思い込み、保水性の高い土を選ぶケース。パキラが好むのは「空気の湿度」であり、「土の湿度」ではありません。土はしっかり乾く配合にしてください。
+「パキラは熱帯の植物だから湿度が必要」と思い込み、保水性の高い土を選ぶケース。<mark>パキラが好むのは「空気の湿度」であり、「土の湿度」ではありません。</mark>土はしっかり乾く配合にしてください。
 
 ### 失敗2：大きすぎる鉢に植え替える
 

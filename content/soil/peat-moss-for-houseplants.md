@@ -10,6 +10,8 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/alocasia-care-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -33,7 +35,7 @@ baseProducts:
 基本配合例：赤玉土（小粒）5：ピートモス 2〜3：パーライト 2〜3
 ```
 
-3割を超えると保水性が高くなりすぎて、根腐れのリスクが上がります。
+<mark>3割を超えると保水性が高くなりすぎて、根腐れのリスクが上がります。</mark>
 
 ---
 

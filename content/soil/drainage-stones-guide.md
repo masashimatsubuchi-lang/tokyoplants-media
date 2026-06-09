@@ -10,6 +10,8 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "soil/recommended-soil-for-houseplants"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -35,7 +37,7 @@ baseProducts:
 
 根腐れが実際に起きてしまった場合の対処法は[根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)を参照してください。
 
-特にプラスチック鉢は鉢自体に通気性がないため、鉢底石で排水と通気を補う必要があります。
+<mark>特にプラスチック鉢は鉢自体に通気性がないため、鉢底石で排水と通気を補う必要があります。</mark>
 
 ---
 

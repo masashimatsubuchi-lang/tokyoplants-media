@@ -10,6 +10,9 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/when-to-replace-soil"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/repotting-after-purchase"
+  - "guide/choosing-pot-size-for-repotting"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -68,7 +71,7 @@ baseProducts:
 
 ### 「観葉植物用」と書いてあれば安心？
 
-結論から言うと、安心できません。「観葉植物用」は法的な基準がなく、メーカーが自由に名乗れます。実際に、保水性が高すぎて室内栽培に向かない製品や、有機質が多くて虫が湧きやすい製品も「観葉植物用」として販売されています。
+<mark>結論から言うと、安心できません。「観葉植物用」は法的な基準がなく、メーカーが自由に名乗れます。</mark>実際に、保水性が高すぎて室内栽培に向かない製品や、有機質が多くて虫が湧きやすい製品も「観葉植物用」として販売されています。
 
 必ず配合成分を確認し、排水性と清潔さを自分の目で判断してください。
 

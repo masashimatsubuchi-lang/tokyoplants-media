@@ -10,6 +10,9 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/recommended-soil-for-houseplants"
+  - "guide/repotting-houseplants-complete-guide"
+  - "guide/monstera-care"
+  - "guide/alocasia-care-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -42,7 +45,7 @@ baseProducts:
 | 湿り気を好む植物（シダ類等） | 50% | 赤玉土5：ピートモス3：バーミキュライト2 |
 | 着生植物（モンステラ等） | 40〜50% | 赤玉土4：バーク堆肥3：パーライト3 |
 
-多くの観葉植物は赤玉土5割で問題ありません。迷ったら5割から始めてください。
+<mark>多くの観葉植物は赤玉土5割で問題ありません。迷ったら5割から始めてください。</mark>
 
 詳しい配合方法の基礎は[土の配合方法の完全ガイド](/soil/how-to-mix-soil-for-houseplants)も参考にしてください。
 
