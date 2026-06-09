@@ -2,7 +2,7 @@
 image: /images/products/platycerium-ridleyi-header.jpg
 title: ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方
 description: ビカクシダ・リドレイの基本情報、キャベツ状の貯水葉や直立する胞子葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。
-date: '2026-02-21'
+date: '2026-06-09'
 category: species
 tags:
   - ビカクシダ

@@ -2,7 +2,7 @@
 image: /images/products/platycerium-willinckii-header.jpg
 title: ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方
 description: ビカクシダ・ウィリンキーの基本情報、細長く垂れ下がる胞子葉の特徴、板付けでの育て方、トラブル対策、増やし方を専門的に解説します。
-date: '2026-02-21'
+date: '2026-06-09'
 category: species
 tags:
   - ビカクシダ
