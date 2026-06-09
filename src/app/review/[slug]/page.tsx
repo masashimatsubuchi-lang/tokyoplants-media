@@ -16,6 +16,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = await getPostBySlug("review", slug);
   if (!post) return {};
   const url = `/review/${post.slug}`;
+  const ogImageUrl = `/og?title=${encodeURIComponent(post.title)}&category=review`;
   return {
     title: post.title,
     description: post.description,
@@ -28,13 +29,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       locale: "ja_JP",
       siteName: "tokyoplants media",
       publishedTime: post.date,
-      images: post.image ? [{ url: post.image, alt: post.title }] : undefined,
+      images: [{ url: ogImageUrl, width: 1200, height: 630, alt: post.title }],
     },
     twitter: {
       card: "summary_large_image",
       title: post.title,
       description: post.description,
-      images: post.image ? [post.image] : undefined,
+      images: [ogImageUrl],
     },
   };
 }
