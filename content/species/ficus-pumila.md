@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1609108029440-5ab01ab6eb96?w=1200&q=80"
 title: "フィカス・プミラの育て方｜壁や地面を這う小葉の着生フィカス"
 description: "フィカス・プミラ（クリーピングフィグ）の育て方を詳しく解説。壁面や石を這うように広がる小さな葉が可愛い着生フィカス。光・水やり・テラリウム管理のポイントを紹介。"
 date: "2026-06-09"
