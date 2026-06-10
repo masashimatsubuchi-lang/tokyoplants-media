@@ -10,6 +10,8 @@ tags:
   - LED
   - 室内栽培
   - 光不足
+  - 観葉植物
+  - 育成ライト
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"

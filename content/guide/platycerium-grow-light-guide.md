@@ -10,6 +10,8 @@ tags:
   - 育成ライト
   - LED
   - ビカクシダ 室内栽培
+  - ビカクシダ
+  - 育成ライト
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"

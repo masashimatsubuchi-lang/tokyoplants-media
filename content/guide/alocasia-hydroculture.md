@@ -10,6 +10,8 @@ tags:
   - 底面給水
   - 培地
   - 水耕栽培
+  - アロカシア
+  - ハイドロカルチャー
 author: tokyoplants 編集部
 relatedSlugs:
   - guide/alocasia-care-guide

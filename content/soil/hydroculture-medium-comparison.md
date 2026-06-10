@@ -11,6 +11,7 @@ tags:
   - LECA
   - 溶岩石
   - ゼオライト
+  - 用土
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/hydroculture-vs-soil

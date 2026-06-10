@@ -10,6 +10,8 @@ tags:
   - アンスリウム 育て方
   - 観葉植物 光
   - 室内栽培
+  - アンスリウム
+  - 育成ライト
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"

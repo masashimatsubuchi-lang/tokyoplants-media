@@ -4,7 +4,7 @@ title: "フィロデンドロン初心者におすすめの品種5選｜育て�
 description: "フィロデンドロンを初めて育てる方へ。丈夫で育てやすいおすすめ品種5選と、水やり・日当たり・用土など基本の育て方をわかりやすく解説します。"
 date: "2026-02-16"
 category: "guide"
-tags: ["フィロデンドロン", "初心者", "おすすめ", "品種", "サトイモ科"]
+tags: ["フィロデンドロン", "初心者", "おすすめ", "品種", "サトイモ科", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"

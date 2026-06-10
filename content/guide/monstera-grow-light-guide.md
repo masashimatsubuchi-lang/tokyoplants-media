@@ -10,6 +10,9 @@ tags:
   - モンステラ 育て方
   - 観葉植物 光
   - 斑入りモンステラ
+  - モンステラ
+  - 育成ライト
+  - 斑入り
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/monstera-care"

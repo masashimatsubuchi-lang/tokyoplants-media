@@ -10,6 +10,8 @@ tags:
   - 管理
   - 根腐れ
   - 蒸れ対策
+  - 害虫対策
+  - 水やり
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/recommended-soil-for-houseplants

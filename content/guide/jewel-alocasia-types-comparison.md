@@ -4,7 +4,7 @@ title: "ジュエルアロカシアの種類と選び方｜人気品種を徹底
 description: "ジュエルアロカシア（宝石アロカシア）の人気品種を比較解説。Holy Grail・Black Velvet・Dragon Scale・Frydekの特徴・違い・難易度・選び方がわかります。"
 date: "2026-06-03"
 category: "guide"
-tags: ["アロカシア", "ジュエルアロカシア", "種類", "比較", "Black Velvet", "Dragon Scale"]
+tags: ["アロカシア", "ジュエルアロカシア", "種類", "比較", "Black Velvet", "Dragon Scale", "希少植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/alocasia-holy-grail"

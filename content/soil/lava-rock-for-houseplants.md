@@ -11,6 +11,8 @@ tags:
   - 培地
   - ハイドロカルチャー
   - 根腐れ防止
+  - 用土
+  - 観葉植物
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/zeolite-for-houseplants

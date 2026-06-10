@@ -4,7 +4,7 @@ title: "アンスリウム・ワロクアーナムの育て方｜湿度・光・
 description: "アンスリウム・ワロクアーナム（Queen Anthurium）の育て方を徹底解説。高湿度環境の作り方、水苔栽培のコツ、着生種特有の水やり・用土・温度管理まで具体的にわかります。"
 date: "2026-06-03"
 category: "guide"
-tags: ["アンスリウム", "ワロクアーナム", "育て方", "ベルベットアンスリウム", "高湿度"]
+tags: ["アンスリウム", "ワロクアーナム", "育て方", "ベルベットアンスリウム", "高湿度", "希少植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/anthurium-warocqueanum"

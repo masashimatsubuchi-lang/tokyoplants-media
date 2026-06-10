@@ -11,6 +11,8 @@ tags:
   - モンステラ アルボ
   - タイコンステレーション
   - 観葉植物 科学
+  - 斑入り
+  - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/monstera-albo-variegata"

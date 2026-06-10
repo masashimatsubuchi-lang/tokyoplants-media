@@ -10,6 +10,8 @@ tags:
   - 嫌気性微生物
   - 観葉植物 科学
   - 根腐れ 仕組み
+  - 根腐れ
+  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

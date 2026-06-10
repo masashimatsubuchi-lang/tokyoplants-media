@@ -4,7 +4,7 @@ title: "観葉植物のカイガラムシ対策完全版"
 description: "観葉植物に発生するカイガラムシの判別、初期対応、駆除手順、再発防止の管理方法を解説。ベタつき・すす病対策まで整理します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "カイガラムシ", "害虫", "すす病", "葉のベタつき"]
+tags: ["観葉植物", "カイガラムシ", "害虫", "すす病", "葉のベタつき", "害虫対策"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"

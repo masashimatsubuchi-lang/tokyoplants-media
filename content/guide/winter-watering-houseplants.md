@@ -4,7 +4,7 @@ title: "観葉植物の冬の水やり完全ガイド"
 description: "観葉植物の冬の水やり頻度・時間帯・暖房環境での注意点を解説。根腐れと水切れを防ぐ具体策がわかります。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "冬", "水やり", "根腐れ", "乾燥"]
+tags: ["観葉植物", "冬", "水やり", "根腐れ", "乾燥", "冬の管理"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

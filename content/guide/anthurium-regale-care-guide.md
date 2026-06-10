@@ -10,6 +10,7 @@ tags:
   - 育て方
   - ベルベットアンスリウム
   - 葉もの
+  - 希少植物
 author: tokyoplants 編集部
 relatedSlugs:
   - species/anthurium-regale

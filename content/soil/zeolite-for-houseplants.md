@@ -11,6 +11,7 @@ tags:
   - 根腐れ防止
   - 培地
   - ハイドロカルチャー
+  - 用土
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/lava-rock-for-houseplants

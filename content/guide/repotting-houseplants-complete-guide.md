@@ -4,7 +4,7 @@ title: "観葉植物の植え替え完全ガイド｜時期・手順・土・鉢
 description: "観葉植物の植え替え方法を初心者向けに完全解説。最適な時期、必要なサイン、土と鉢の選び方、手順、植え替え後のケア、よくある失敗と対策まで網羅。"
 date: "2026-03-03"
 category: "guide"
-tags: ["観葉植物", "植え替え", "時期", "手順", "用土", "鉢", "初心者"]
+tags: ["観葉植物", "植え替え", "時期", "手順", "用土", "鉢", "初心者", "完全ガイド"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/best-time-to-repot-houseplants"

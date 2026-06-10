@@ -9,6 +9,8 @@ tags:
   - 観葉植物 枯れる 原因
   - 観葉植物 育て方
   - 観葉植物 管理
+  - 観葉植物
+  - 育て方
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

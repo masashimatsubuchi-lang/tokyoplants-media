@@ -4,7 +4,7 @@ title: "ハイドロカルチャーと土栽培の違い｜観葉植物にはど
 description: "観葉植物のハイドロカルチャーと土栽培を徹底比較。メリット・デメリット、向いている植物、コスト、管理のしやすさの違いを解説。"
 date: "2026-02-18"
 category: "soil"
-tags: ["観葉植物", "ハイドロカルチャー", "土", "比較", "水耕栽培"]
+tags: ["観葉植物", "ハイドロカルチャー", "土", "比較", "水耕栽培", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

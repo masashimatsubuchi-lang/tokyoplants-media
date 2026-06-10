@@ -12,6 +12,7 @@ tags:
   - モンステラ 購入
   - アンスリウム 購入
   - ビカクシダ 購入
+  - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/genus-monstera"
