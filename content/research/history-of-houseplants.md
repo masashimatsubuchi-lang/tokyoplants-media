@@ -10,6 +10,7 @@ tags:
   - ヴィクトリア朝
   - ボタニカル
   - 植物 文化
+  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-trivia-10-facts"

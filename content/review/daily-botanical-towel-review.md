@@ -12,6 +12,7 @@ tags:
   - ギフト
   - インテリア
   - 植物モチーフ
+  - 観葉植物
 author: tokyoplants 編集部
 relatedSlugs:
   - guide/monstera-care

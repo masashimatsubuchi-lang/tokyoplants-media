@@ -10,6 +10,8 @@ tags:
   - 腐敗
   - カビ
   - 根腐れ
+  - 観葉植物
+  - 用土
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/mold-on-houseplant-soil"

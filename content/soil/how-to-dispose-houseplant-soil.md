@@ -10,6 +10,8 @@ tags:
   - 古い土
   - 植え替え
   - ゴミ
+  - 観葉植物
+  - 用土
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

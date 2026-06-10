@@ -10,6 +10,9 @@ tags:
   - 土 配合
   - ベランダ
   - 室内栽培
+  - 観葉植物
+  - 用土
+  - 初心者
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

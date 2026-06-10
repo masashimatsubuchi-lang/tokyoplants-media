@@ -10,6 +10,8 @@ tags:
   - ウッド・ワイド・ウェブ
   - 根腐れ 仕組み
   - 観葉植物 土
+  - 観葉植物
+  - 根腐れ
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/do-plants-feel-pain"

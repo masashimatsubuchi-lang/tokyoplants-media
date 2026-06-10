@@ -12,6 +12,9 @@ tags:
   - アガベ 本
   - ビカクシダ 本
   - 塊根植物 雑誌
+  - 観葉植物
+  - ビカクシダ
+  - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/houseplant-magazine-guide"

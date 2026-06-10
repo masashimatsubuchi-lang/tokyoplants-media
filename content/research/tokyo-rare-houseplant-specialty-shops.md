@@ -13,6 +13,10 @@ tags:
   - アンスリウム 購入
   - ビカクシダ 購入
   - 希少植物
+  - 観葉植物
+  - モンステラ
+  - アンスリウム
+  - ビカクシダ
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/genus-monstera"

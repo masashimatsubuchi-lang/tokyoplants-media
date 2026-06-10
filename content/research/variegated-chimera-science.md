@@ -12,6 +12,9 @@ tags:
   - タイコンステレーション
   - 観葉植物 科学
   - 斑入り
+  - 観葉植物
+  - モンステラ
+  - 希少植物
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

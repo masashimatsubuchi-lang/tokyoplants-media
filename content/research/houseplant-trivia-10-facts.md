@@ -10,6 +10,9 @@ tags:
   - 観葉植物 雑学
   - アンスリウム 花
   - 植物 トリビア
+  - 観葉植物
+  - モンステラ
+  - アンスリウム
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/genus-monstera"

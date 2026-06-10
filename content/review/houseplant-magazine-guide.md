@@ -10,6 +10,8 @@ tags:
   - ビザールプランツ 図鑑
   - 観葉植物 図鑑
   - 植物 コレクター 本
+  - 観葉植物
+  - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/indoor-jungle-magazine-review"

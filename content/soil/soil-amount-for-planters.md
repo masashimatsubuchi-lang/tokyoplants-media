@@ -10,6 +10,8 @@ tags:
   - 鉢
   - 土の量
   - 号数
+  - 初心者
+  - 植え替え
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/repotting-soil-guide

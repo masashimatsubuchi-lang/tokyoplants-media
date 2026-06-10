@@ -11,6 +11,7 @@ tags:
   - 観葉植物好き
   - ギフト
   - Daily Botanical Towel
+  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-lover-gift-ideas"

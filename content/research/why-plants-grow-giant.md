@@ -10,6 +10,9 @@ tags:
   - 植物 成長
   - 熱帯植物 環境
   - 観葉植物 育て方
+  - 観葉植物
+  - モンステラ
+  - 育て方
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/why-plants-are-green"

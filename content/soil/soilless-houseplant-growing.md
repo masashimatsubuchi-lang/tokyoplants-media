@@ -10,6 +10,7 @@ tags:
   - 水耕栽培
   - LECA
   - 苔玉
+  - ハイドロカルチャー
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/hydroculture-vs-soil

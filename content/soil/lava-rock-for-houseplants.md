@@ -13,6 +13,7 @@ tags:
   - 根腐れ防止
   - 用土
   - 観葉植物
+  - 根腐れ
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/zeolite-for-houseplants

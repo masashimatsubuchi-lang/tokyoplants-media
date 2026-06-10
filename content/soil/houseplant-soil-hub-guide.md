@@ -11,6 +11,9 @@ tags:
   - 植え替え
   - 根腐れ
   - 虫対策
+  - 害虫対策
+  - 初心者
+  - 完全ガイド
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/basic-soil-mix

@@ -10,6 +10,7 @@ tags:
   - 植物 タブー
   - サンスベリア 不吉
   - 植物 縁起
+  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-trivia-10-facts"

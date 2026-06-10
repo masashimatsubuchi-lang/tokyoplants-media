@@ -10,6 +10,7 @@ tags:
   - 観葉植物 科学
   - 植物 電気信号
   - 植物 感受性
+  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-trivia-10-facts"

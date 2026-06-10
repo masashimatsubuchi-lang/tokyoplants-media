@@ -12,6 +12,8 @@ tags:
   - 観葉植物 市場
   - 希少植物
   - 斑入り
+  - 観葉植物
+  - モンステラ
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/history-of-houseplants"

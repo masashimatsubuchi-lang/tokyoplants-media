@@ -10,6 +10,7 @@ tags:
   - 光合成 仕組み
   - 観葉植物 科学
   - 植物 光
+  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-trivia-10-facts"
