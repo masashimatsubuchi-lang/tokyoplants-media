@@ -10,6 +10,7 @@ tags:
   - 室内
   - マンション
   - 春
+  - 初心者
 author: tokyoplants 編集部
 relatedSlugs:
   - guide/repotting-houseplants-complete-guide

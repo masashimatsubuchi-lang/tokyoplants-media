@@ -4,7 +4,7 @@ title: "アンスリウムの梅雨・夏管理｜高湿度を活かす育て方
 description: "梅雨・夏はアンスリウム（ワロクアーナム・レガレ）の成長期。高湿度を活かしながら蒸れ・根腐れを防ぐ管理方法、水やり頻度の調整、夏の肥料タイミングを解説します。"
 date: "2026-06-03"
 category: "guide"
-tags: ["アンスリウム", "梅雨", "夏", "育て方", "ワロクアーナム"]
+tags: ["アンスリウム", "梅雨", "夏", "育て方", "ワロクアーナム", "夏の管理"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/anthurium-warocqueanum-care-guide"

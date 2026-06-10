@@ -11,6 +11,7 @@ tags:
   - 観葉植物
   - 根腐れ予防
   - 管理
+  - 水やり
 author: tokyoplants 編集部
 relatedSlugs:
   - guide/rainy-season-houseplant-care

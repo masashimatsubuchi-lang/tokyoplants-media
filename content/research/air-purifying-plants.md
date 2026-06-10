@@ -3,7 +3,8 @@ image: "https://images.unsplash.com/photo-1721570799675-219f44e44d17?w=800&q=80"
 title: "空気清浄効果のある観葉植物 TOP5"
 description: "NASAの研究をもとに、空気清浄効果が高い観葉植物をランキング形式で紹介します。"
 date: "2025-01-08"
-author: "BOTANY LIFE 編集部"
+author: "tokyoplants 編集部"
+tags: ["観葉植物", "育て方", "初心者"]
 relatedSlugs:
   - "species/monstera-deliciosa"
 ---

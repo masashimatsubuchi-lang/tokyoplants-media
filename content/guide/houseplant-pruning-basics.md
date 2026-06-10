@@ -4,7 +4,7 @@ title: "観葉植物の剪定・切り戻し入門"
 description: "観葉植物の剪定で失敗しないための基礎ガイド。切る位置、時期、道具、植物タイプ別の注意点、剪定後の管理まで実践的に解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "剪定", "切り戻し", "樹形管理", "徒長"]
+tags: ["観葉植物", "剪定", "切り戻し", "樹形管理", "徒長", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

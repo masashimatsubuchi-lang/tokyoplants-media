@@ -4,7 +4,7 @@ title: "サンスベリア｜空気清浄効果と品種・育て方を徹底解
 description: "サンスベリア（サンセベリア）の品種一覧、CAM型光合成の仕組み、育て方、水やり、冬越し方法を図鑑形式で解説。空気清浄効果の真実についても詳しく説明します。"
 date: "2026-06-09"
 category: "species"
-tags: ["サンスベリア", "図鑑", "空気清浄", "品種", "初心者"]
+tags: ["サンスベリア", "図鑑", "空気清浄", "品種", "初心者", "観葉植物", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/air-purifying-plants"

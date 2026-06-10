@@ -10,6 +10,7 @@ tags:
   - 夏
   - 高温対策
   - 管理
+  - 夏の管理
 author: tokyoplants 編集部
 relatedSlugs:
   - guide/rainy-season-houseplant-care

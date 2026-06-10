@@ -10,6 +10,8 @@ tags:
   - LED 電力
   - 節電
   - 室内栽培
+  - 育成ライト
+  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"

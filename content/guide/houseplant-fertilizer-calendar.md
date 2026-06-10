@@ -4,7 +4,7 @@ title: "観葉植物の肥料カレンダー完全版"
 description: "観葉植物の肥料管理を春夏秋冬で最適化するための実務ガイド。液体肥料と緩効性肥料の使い分け、停止時期、失敗回避の基準を解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "肥料", "追肥", "季節管理", "生育期"]
+tags: ["観葉植物", "肥料", "追肥", "季節管理", "生育期", "育て方", "完全ガイド"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/watering-frequency-by-season-indoor"

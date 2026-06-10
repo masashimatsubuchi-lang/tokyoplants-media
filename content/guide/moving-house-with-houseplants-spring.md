@@ -4,7 +4,7 @@ title: "春の引っ越しで観葉植物を守る方法"
 description: "新生活シーズンに観葉植物を安全に運ぶための準備・当日対応・設置後ケアを解説。葉傷みと根傷みを防ぐ実践ガイドです。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "春", "引っ越し", "新生活", "ケア"]
+tags: ["観葉植物", "春", "引っ越し", "新生活", "ケア", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"

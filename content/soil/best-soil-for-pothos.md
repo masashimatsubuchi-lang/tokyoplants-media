@@ -4,7 +4,7 @@ title: "ポトスの土おすすめと植え替え方法｜水はけ重視の用
 description: "ポトスに最適な土の条件、おすすめの用土、自分で配合する場合のレシピを紹介。植え替え手順と水耕栽培から土への移行方法も解説します。"
 date: "2026-02-16"
 category: "soil"
-tags: ["ポトス", "用土", "植え替え", "おすすめ", "初心者"]
+tags: ["ポトス", "用土", "植え替え", "おすすめ", "初心者", "観葉植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

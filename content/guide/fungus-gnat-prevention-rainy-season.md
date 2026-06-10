@@ -4,7 +4,7 @@ title: "観葉植物のコバエ対策｜梅雨に発生しやすい原因と根
 description: "梅雨時期に観葉植物の土から湧くコバエ（キノコバエ）の原因・発生サイクル・駆除方法・再発予防を解説。土の選び方から日常管理まで、根本から断つ方法をまとめました。"
 date: "2026-06-03"
 category: "guide"
-tags: ["コバエ", "梅雨", "観葉植物", "害虫", "キノコバエ"]
+tags: ["コバエ", "梅雨", "観葉植物", "害虫", "キノコバエ", "害虫対策"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/rainy-season-houseplant-care"

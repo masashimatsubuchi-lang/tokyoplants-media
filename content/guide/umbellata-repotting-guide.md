@@ -4,7 +4,7 @@ title: "フィカス・ウンベラータの植え替え｜葉落ちしない時
 description: "ウンベラータの植え替え方法を解説。葉が落ちやすいウンベラータを枯らさない時期の選び方、土の配合、根の処理、植え替え後の管理まで詳しく説明します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["ウンベラータ", "植え替え", "フィカス", "葉落ち", "育て方"]
+tags: ["ウンベラータ", "植え替え", "フィカス", "葉落ち", "育て方", "観葉植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
