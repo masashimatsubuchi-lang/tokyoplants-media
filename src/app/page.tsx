@@ -1,14 +1,19 @@
 import Link from "next/link";
 import Image from "next/image";
 import Script from "next/script";
-import { getAllPosts, getPostsByCategory, getAllTags } from "@/lib/posts";
+import { getAllPosts, getPostsByCategory } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
 import AllArticlesList from "@/components/AllArticlesList";
 
 export default function Home() {
   const allPosts = getAllPosts();
-  const tags = getAllTags();
+  const featuredTags = [
+    "観葉植物", "モンステラ", "アロカシア", "アンスリウム", "フィロデンドロン",
+    "ビカクシダ", "育て方", "植え替え", "用土", "根腐れ",
+    "水やり", "ハイドロカルチャー", "育成ライト", "害虫対策", "斑入り",
+    "希少植物", "初心者", "夏の管理", "冬の管理", "完全ガイド",
+  ];
   const editorsPickDefs = [
     { category: "review", slug: "daily-botanical-towel-review" },
     { category: "soil", slug: "houseplant-soil-hub-guide" },
@@ -98,7 +103,7 @@ export default function Home() {
             </Link>
           </div>
           <div className="flex flex-wrap gap-2">
-            {tags.map((tag) => (
+            {featuredTags.map((tag) => (
               <Link
                 key={tag}
                 href={`/tag/${encodeURIComponent(tag)}`}
