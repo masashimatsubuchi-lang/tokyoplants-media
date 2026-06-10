@@ -108,19 +108,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 )}
                 {post.author && <span>by {post.author}</span>}
               </div>
-              {post.tags && post.tags.length > 0 && (
-                <div className="mt-4 flex flex-wrap gap-2">
-                  {post.tags.map((tag) => (
-                    <Link
-                      key={tag}
-                      href={`/tag/${tag}`}
-                      className="rounded-full border border-teal-200 bg-teal-50 px-3 py-1 text-[12px] font-medium text-teal-700 transition-colors hover:bg-teal-100 hover:text-teal-900"
-                    >
-                      #{tag}
-                    </Link>
-                  ))}
-                </div>
-              )}
+              {/* Tags hidden temporarily */}
             </header>
 
             {/* Species Pills for Genus Pages */}

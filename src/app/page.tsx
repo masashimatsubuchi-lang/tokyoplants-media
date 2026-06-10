@@ -90,31 +90,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Tag Cloud */}
-      <section className="border-t border-gray-100 bg-white py-12">
-        <div className="mx-auto max-w-5xl px-4">
-          <div className="flex items-center justify-between mb-5">
-            <div>
-              <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Tags</p>
-              <h2 className="mt-1 text-xl font-bold tracking-tight text-gray-900">タグから探す</h2>
-            </div>
-            <Link href="/tags" className="text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors">
-              すべて見る &rarr;
-            </Link>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            {featuredTags.map((tag) => (
-              <Link
-                key={tag}
-                href={`/tag/${tag}`}
-                className="rounded-full border border-teal-200 bg-teal-50 px-3 py-1.5 text-[13px] font-medium text-teal-700 transition-colors hover:bg-teal-100 hover:text-teal-900"
-              >
-                #{tag}
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
+      {/* Tag Cloud hidden temporarily */}
 
       {/* Editors Pick */}
       {editorsPick.length > 0 && (
