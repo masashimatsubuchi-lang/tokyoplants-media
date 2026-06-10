@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1545239395-ea9b9be17bfb?w=800&q=80"
+image: "https://images.unsplash.com/photo-1604762512566-f0be0fd668ff?w=1200&q=80"
 title: "シュロチクの土おすすめと配合レシピ｜日本の気候に強い棕櫚竹の用土選び完全ガイド"
 description: "シュロチク 土 おすすめの選び方・配合レシピを完全解説。耐陰性・耐寒性に優れたシュロチクの土の条件・市販品・DIY配合比・植え替え手順・根詰まりサインまで徹底ガイド。"
 date: "2026-06-10"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1598880940371-5a6ae55a81f1?w=800&q=80"
+image: "https://images.unsplash.com/photo-1625183694171-caed85dfafea?w=1200&q=80"
 title: "アロカシアの土おすすめと配合レシピ｜根腐れさせない通気性重視の用土選び"
 description: "アロカシア 土 おすすめの選び方・配合レシピを徹底解説。アロカシアは根腐れに極めて弱いサトイモ科植物。排水性・通気性最優先の土の条件・市販品・DIY配合比・植え替え手順を完全ガイド。"
 date: "2026-06-10"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1561574124-584c8bc9acd3?w=800&q=80"
+image: "https://images.unsplash.com/photo-1597523083254-ff036cf1e6df?w=1200&q=80"
 title: "フィカスの土おすすめと配合レシピ｜ゴムの木・ウンベラータ・ベンガレンシスに合う用土"
 description: "フィカス 土 おすすめの選び方・配合レシピを徹底解説。ゴムの木・ウンベラータ・ベンガレンシスなどフィカス属に共通する土の条件・市販品ランキング・DIY配合比・植え替え手順を完全網羅。"
 date: "2026-06-10"
