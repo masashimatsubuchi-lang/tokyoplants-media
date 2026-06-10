@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1598880940640-7dde27abcf7e?w=800&q=80"
+image: "https://images.unsplash.com/photo-1767135393962-081e17a6abad?w=1200&q=80"
 title: "ガジュマルの土おすすめと配合レシピ｜植え替えで失敗しない用土選びの完全ガイド"
 description: "ガジュマル 土 おすすめの選び方・配合レシピ・植え替え手順を完全解説。ガジュマルに合う土の条件・市販おすすめランキング・DIYレシピ・よくある失敗例とFAQまで徹底網羅。"
 date: "2026-06-10"
