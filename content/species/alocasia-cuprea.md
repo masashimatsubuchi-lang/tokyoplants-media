@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1612887577921-0ed7ebbabe6a?w=1200&q=80"
 title: "アロカシア・クプレア（レッドシークレット）の育て方｜銅光沢の葉を美しく保つ管理方法"
 description: "アロカシア・クプレア（Red Secret）の育て方を詳しく解説。銅色の金属光沢が美しいジュエルアロカシアの光・湿度・水やり・用土・温度管理のポイントを紹介します。"
 date: "2026-06-09"
