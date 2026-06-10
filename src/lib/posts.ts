@@ -135,6 +135,22 @@ export function getSameCategoryPosts(category: CategorySlug, excludeSlug: string
 }
 
 /**
+ * タグから記事一覧を取得
+ */
+export function getPostsByTag(tag: string): PostMeta[] {
+  return getAllPosts().filter((p) => p.tags?.includes(tag));
+}
+
+/**
+ * 全記事からユニークなタグ一覧を取得
+ */
+export function getAllTags(): string[] {
+  const tags = new Set<string>();
+  getAllPosts().forEach((p) => p.tags?.forEach((t) => tags.add(t)));
+  return Array.from(tags).sort();
+}
+
+/**
  * 属ページの slug から、その属に属する品種記事を取得
  * 例: "genus-anthurium" → genus "anthurium" を持つ種ページ一覧
  */
