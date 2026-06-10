@@ -113,7 +113,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   {post.tags.map((tag) => (
                     <Link
                       key={tag}
-                      href={`/tag/${encodeURIComponent(tag)}`}
+                      href={`/tag/${tag}`}
                       className="rounded-full border border-teal-200 bg-teal-50 px-3 py-1 text-[12px] font-medium text-teal-700 transition-colors hover:bg-teal-100 hover:text-teal-900"
                     >
                       #{tag}

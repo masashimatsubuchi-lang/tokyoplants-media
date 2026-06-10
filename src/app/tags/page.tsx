@@ -25,7 +25,7 @@ export default function TagsPage() {
         {tagCounts.map(({ tag, count }) => (
           <Link
             key={tag}
-            href={`/tag/${encodeURIComponent(tag)}`}
+            href={`/tag/${tag}`}
             className="flex items-center gap-1.5 rounded-full border border-teal-200 bg-teal-50 px-4 py-2 text-sm font-medium text-teal-700 transition-colors hover:bg-teal-100 hover:text-teal-900"
           >
             <span>#{tag}</span>
