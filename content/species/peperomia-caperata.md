@@ -4,7 +4,7 @@ title: "ペペロミア・カペラタ｜しわしわ葉と穂状の花が可愛
 description: "ペペロミア・カペラタ（Peperomia caperata）の基本情報、シワのある深緑の葉と白い穂状花序の特徴、小型で育てやすい管理方法・増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ペペロミア", "カペラタ", "小型種", "図鑑", "初心者向け"]
+tags: ["ペペロミア", "小型種", "初心者向け"]
 author: "tokyoplants 編集部"
 genus: "peperomia"
 relatedSlugs:

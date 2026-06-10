@@ -4,7 +4,7 @@ title: "植物を置かなくてもできるボタニカルインテリアの始
 description: "観葉植物を育てる自信がなくても大丈夫。植物モチーフの雑貨やファブリックで、手軽にボタニカルな空間を作る方法を紹介します。"
 date: "2026-02-20"
 category: "research"
-tags: ["ボタニカル", "インテリア", "植物モチーフ", "雑貨", "初心者"]
+tags: ["ボタニカル", "インテリア", "植物モチーフ", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/daily-botanical-towel-review"

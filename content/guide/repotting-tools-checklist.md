@@ -4,7 +4,7 @@ title: "植え替えに必要な道具リスト｜初心者が揃えるべきア
 description: "観葉植物の植え替えに必要な道具を初心者向けに解説。鉢・土・鉢底石・ハサミなど必須アイテムと、あると便利なグッズ、100均で代用できるものを紹介します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["植え替え", "道具", "グッズ", "初心者", "準備", "観葉植物"]
+tags: ["植え替え", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

@@ -4,7 +4,7 @@ title: "ドラセナの土おすすめと配合レシピ｜コンシンネ・コ
 description: "ドラセナ 土 おすすめの選び方・配合レシピを完全解説。コンシンネ・コンパクタ・サンデリアーナなど種類別の土の条件・市販品ランキング・DIY配合比・植え替え手順・よくある失敗まで徹底網羅。"
 date: "2026-06-10"
 category: "soil"
-tags: ["ドラセナ", "コンシンネ", "用土", "植え替え", "おすすめ"]
+tags: ["用土", "植え替え", "おすすめ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

@@ -4,7 +4,7 @@ title: "観葉植物が植え替え後にしおれる・元気がない｜原因
 description: "観葉植物が植え替え後にしおれる・元気がない原因を5つ解説。1〜2週間で復活するケースと緊急対処が必要なケースの見分け方、植物別の回復期間の目安、よくある失敗まで徹底解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "植え替え", "元気がない", "回復", "トラブル"]
+tags: ["植え替え", "回復", "トラブル"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

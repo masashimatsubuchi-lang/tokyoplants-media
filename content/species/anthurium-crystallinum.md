@@ -4,7 +4,7 @@ title: "アンスリウム・クリスタリナム｜銀葉脈が美しい葉も
 description: "アンスリウム・クリスタリナムの基本情報、銀色の葉脈の特徴、クラリネルビウムとの違い、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "クリスタリナム", "葉もの", "図鑑", "観葉植物"]
+tags: ["アンスリウム", "葉もの"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

@@ -4,7 +4,7 @@ title: "植物育成テントの選び方｜冬越しとLED運用"
 description: "マンションで使いやすい植物育成テント（グロウテント）を、本格派向けに解説。冬越し・LED併用の設計、サイズ選定、運用ミス、Amazon購入導線までまとめました。"
 date: "2026-02-24"
 category: "review"
-tags: ["植物育成テント", "グロウテント", "冬越し", "育成ライト", "マンション", "レビュー"]
+tags: ["冬越し", "育成ライト", "マンション", "レビュー"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"

@@ -4,7 +4,7 @@ title: "フィロデンドロン・ピンクプリンセス｜斑入り品種の
 description: "フィロデンドロン・ピンクプリンセス（Pink Princess）の基本情報、ピンク斑の出し方・消えてしまう原因、光管理、育て方のポイントを図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "ピンクプリンセス", "斑入り", "図鑑", "コレクター"]
+tags: ["フィロデンドロン", "斑入り", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

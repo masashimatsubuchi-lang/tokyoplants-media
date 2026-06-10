@@ -7,10 +7,7 @@ category: "species"
 genus: "aglaonema"
 tags:
   - アグラオネマ
-  - ロータスデライト
-  - Lotus Delight
   - カラーリーフ
-  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/aglaonema-pictum-tricolor"

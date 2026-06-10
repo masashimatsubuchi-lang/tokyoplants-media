@@ -4,7 +4,7 @@ title: "フィカス属（ゴムの木）とは｜主な品種・育て方・特
 description: "フィカス属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"
 category: "species"
-tags: ["フィカス", "ゴムの木", "図鑑", "品種", "クワ科"]
+tags: ["フィカス", "ゴムの木", "品種"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/ficus-umbellata"

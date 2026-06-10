@@ -7,8 +7,6 @@ category: "species"
 genus: "alocasia"
 tags:
   - アロカシア
-  - チャントリエリ
-  - Alocasia chantrieri
   - ベルベット葉
   - 希少植物
 author: "tokyoplants 編集部"

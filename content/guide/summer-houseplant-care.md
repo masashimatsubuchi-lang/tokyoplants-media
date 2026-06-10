@@ -6,9 +6,7 @@ date: '2026-06-03'
 category: guide
 tags:
   - 夏越し
-  - 観葉植物
   - 夏
-  - 高温対策
   - 管理
   - 夏の管理
 author: tokyoplants 編集部

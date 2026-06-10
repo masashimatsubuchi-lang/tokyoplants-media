@@ -6,9 +6,7 @@ date: '2026-06-09'
 category: species
 tags:
   - ビカクシダ
-  - リドレイ
   - プラティセリウム
-  - 図鑑
   - 着生植物
 author: tokyoplants 編集部
 genus: platycerium

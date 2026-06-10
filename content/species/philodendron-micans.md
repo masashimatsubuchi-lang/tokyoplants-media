@@ -4,7 +4,7 @@ title: "フィロデンドロン・ミカンス｜ビロード葉の魅力と育
 description: "フィロデンドロン・ミカンスの基本情報、銅色から深緑へ変化する葉色の仕組み、つる性の管理方法、育て方、増やし方、よくあるトラブルを詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "ミカンス", "つる性", "図鑑", "観葉植物"]
+tags: ["フィロデンドロン"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

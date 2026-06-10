@@ -4,12 +4,7 @@ title: "トラデスカンティア・ゼブリナの育て方｜紫とシルバ
 description: "トラデスカンティア・ゼブリナ（ムラサキゴテン近縁種）の育て方を解説。紫×シルバーのストライプが美しく、育てやすい人気の観葉植物。光・水やり・増やし方のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - トラデスカンティア ゼブリナ
-  - tradescantia zebrina
-  - ムラサキゴテン
-  - 紫 観葉植物
-  - 観葉植物 丈夫
+tags: []
 author: "tokyoplants 編集部"
 genus: "tradescantia"
 relatedSlugs:

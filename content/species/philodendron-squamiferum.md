@@ -4,11 +4,7 @@ title: "フィロデンドロン・スクアミフェラムの育て方｜赤い
 description: "フィロデンドロン・スクアミフェラムの育て方を解説。フランス領ギアナ原産の個性的な葉形と赤いウロコ状の毛を持つ葉柄が特徴的な人気フィロデンドロン。管理ポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - フィロデンドロン スクアミフェラム
-  - philodendron squamiferum
-  - フィロデンドロン 個性的
-  - 観葉植物 変わった形
+tags: []
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

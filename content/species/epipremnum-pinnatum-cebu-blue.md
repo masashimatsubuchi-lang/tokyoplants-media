@@ -4,12 +4,7 @@ title: "エピプレムナム・セブブルーの育て方｜青みがかった
 description: "エピプレムナム・ピンナタム（セブブルー）の育て方を詳しく解説。青みがかったメタリックグリーンの葉が特徴的なフィリピン・セブ島原産のポトス近縁種。光・水やり・増やし方を紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - エピプレムナム セブブルー
-  - cebu blue
-  - epipremnum pinnatum
-  - ポトス 近縁種
-  - 観葉植物 青
+tags: []
 author: "tokyoplants 編集部"
 genus: "epipremnum"
 relatedSlugs:

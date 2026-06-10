@@ -4,7 +4,7 @@ title: "モンステラ・オブリクア｜穴だらけの葉が特徴の希少
 description: "モンステラ・オブリクア（Monstera obliqua Peru）の基本情報、葉の穴が多い理由、アダンソニーとの違い、高湿度管理と育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["モンステラ", "オブリクア", "希少種", "図鑑", "コレクター"]
+tags: ["モンステラ", "希少種", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

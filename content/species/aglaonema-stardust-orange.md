@@ -7,10 +7,7 @@ category: "species"
 genus: "aglaonema"
 tags:
   - アグラオネマ
-  - スターダストオレンジ
-  - Stardust Orange
   - カラーリーフ
-  - 斑点模様
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/aglaonema-pictum-tricolor"

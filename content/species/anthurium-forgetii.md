@@ -4,7 +4,7 @@ title: "アンスリウム・フォルゲティー｜丸い盾状葉が独特の
 description: "アンスリウム・フォルゲティーの基本情報、頂裂がない丸い盾状葉の特徴、シルバー模様の出し方、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "フォルゲティー", "葉もの", "図鑑", "観葉植物"]
+tags: ["アンスリウム", "葉もの"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

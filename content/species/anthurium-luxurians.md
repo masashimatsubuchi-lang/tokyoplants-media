@@ -5,10 +5,7 @@ description: "アンスリウム・ルクスリアンスの育て方を詳しく
 date: "2026-06-09"
 category: "species"
 tags:
-  - アンスリウム ルクスリアンス
-  - anthurium luxurians
   - アンスリウム 希少種
-  - ビザールプランツ アンスリウム
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

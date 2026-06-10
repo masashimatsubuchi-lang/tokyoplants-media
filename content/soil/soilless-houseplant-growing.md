@@ -5,11 +5,8 @@ description: 観葉植物を土を使わずに育てる方法を解説。水耕�
 date: '2026-02-18'
 category: soil
 tags:
-  - 観葉植物
-  - 土なし
   - 水耕栽培
   - LECA
-  - 苔玉
   - ハイドロカルチャー
 author: tokyoplants 編集部
 relatedSlugs:

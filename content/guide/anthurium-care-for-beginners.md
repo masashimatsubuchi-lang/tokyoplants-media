@@ -4,7 +4,7 @@ title: "アンスリウムの育て方｜初心者が失敗しない水やり・
 description: "アンスリウムを初めて育てる方へ。水やりの頻度、最適な置き場所、用土の選び方、植え替え方法まで、失敗しないためのポイントを網羅的に解説します。"
 date: "2026-02-16"
 category: "guide"
-tags: ["アンスリウム", "育て方", "初心者", "サトイモ科", "用土", "観葉植物"]
+tags: ["アンスリウム", "育て方", "初心者", "サトイモ科", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

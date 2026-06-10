@@ -5,12 +5,7 @@ description: "観葉植物・ビザールプランツのコレクターや愛好
 date: "2026-06-09"
 category: "review"
 tags:
-  - 観葉植物 本 おすすめ
   - 珍奇植物 本
-  - ビザールプランツ 図鑑
-  - 観葉植物 図鑑
-  - 植物 コレクター 本
-  - 観葉植物
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

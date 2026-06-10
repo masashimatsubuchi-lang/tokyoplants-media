@@ -5,7 +5,7 @@ description: "観葉植物好きな方へのプレゼント選びに迷ってい
 date: "2026-02-20"
 updated: "2026-06-06"
 category: "research"
-tags: ["プレゼント", "ギフト", "観葉植物", "おすすめ", "予算別", "タオル"]
+tags: ["プレゼント", "ギフト", "おすすめ", "タオル"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/daily-botanical-towel-review"

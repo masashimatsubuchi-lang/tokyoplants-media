@@ -5,13 +5,9 @@ description: "植物育成ライトの電気代を具体的に計算。10W・20W
 date: "2026-06-08"
 category: "guide"
 tags:
-  - 育成ライト 電気代
   - 植物育成ライト
-  - LED 電力
-  - 節電
   - 室内栽培
   - 育成ライト
-  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"

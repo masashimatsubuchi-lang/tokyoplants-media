@@ -4,7 +4,7 @@ title: "モンステラ・アダンソニー（マドカズラ）｜特徴・育
 description: "モンステラ・アダンソニー（マドカズラ）の基本情報、葉の穴の科学、品種バリエーション、育て方、増やし方、よくあるトラブルを詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["モンステラ", "アダンソニー", "マドカズラ", "図鑑", "観葉植物"]
+tags: ["モンステラ", "アダンソニー"]
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

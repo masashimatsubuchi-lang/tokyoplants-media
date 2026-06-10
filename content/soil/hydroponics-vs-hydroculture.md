@@ -4,7 +4,7 @@ title: "水耕栽培とハイドロカルチャーの違い｜観葉植物に向
 description: "水耕栽培（hydroponics）とハイドロカルチャーは似て非なるもの。それぞれの仕組み・向いている植物・培地の種類・管理方法の違いを徹底比較。観葉植物には無機培地ハイドロが最適な理由を解説。"
 date: "2026-06-04"
 category: "soil"
-tags: ["水耕栽培", "ハイドロカルチャー", "無機培地", "観葉植物", "比較"]
+tags: ["水耕栽培", "ハイドロカルチャー", "無機培地", "比較"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/hydroculture-medium-comparison"

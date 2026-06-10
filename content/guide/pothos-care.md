@@ -4,7 +4,7 @@ title: "ポトスの育て方｜置き場所・水やり・増やし方"
 description: "ポトスの育て方を初心者向けに解説。水やりの頻度、最適な置き場所、挿し木での増やし方、よくあるトラブル対策まで。"
 date: "2026-02-18"
 category: "guide"
-tags: ["ポトス", "育て方", "観葉植物", "初心者"]
+tags: ["ポトス", "育て方", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/pothos-epipremnum-aureum"

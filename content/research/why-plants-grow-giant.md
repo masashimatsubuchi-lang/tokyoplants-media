@@ -5,12 +5,7 @@ description: "室内では1mで止まるモンステラが、熱帯雨林では1
 date: "2026-06-08"
 category: "research"
 tags:
-  - モンステラ 大きさ
-  - 観葉植物 巨大化
-  - 植物 成長
-  - 熱帯植物 環境
   - 観葉植物 育て方
-  - 観葉植物
   - モンステラ
   - 育て方
 author: "tokyoplants 編集部"

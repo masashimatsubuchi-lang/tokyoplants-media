@@ -4,7 +4,7 @@ title: "アロカシア・シルバードラゴン｜銀の鱗模様が美しい
 description: "アロカシア・シルバードラゴン（Alocasia Silver Dragon）の基本情報、銀白色の鱗状模様と深い葉脈の特徴、ドラゴンスケールとの違い、育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "シルバードラゴン", "小型種", "図鑑", "コレクター"]
+tags: ["アロカシア", "小型種", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

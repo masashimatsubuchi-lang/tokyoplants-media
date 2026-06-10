@@ -4,7 +4,7 @@ title: "フィロデンドロン・エルチョコレッド｜赤い新芽が美
 description: "フィロデンドロン・エルチョコレッド（El Choco Red）の基本情報、鮮やかな赤〜銅色の新芽の特徴、ビロード状の葉の育て方と管理のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "エルチョコレッド", "希少種", "図鑑", "コレクター"]
+tags: ["フィロデンドロン", "希少種", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

@@ -4,7 +4,7 @@ title: "観葉植物の土に虫が湧く原因と対策｜虫が出にくい土
 description: "観葉植物の土からコバエやキノコバエが湧く原因を特定し、駆除方法と再発防止策を解説。虫が湧きにくい土の条件と、おすすめの用土も紹介します。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "用土", "虫対策", "コバエ", "室内", "害虫対策"]
+tags: ["用土", "虫対策", "コバエ", "室内", "害虫対策"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

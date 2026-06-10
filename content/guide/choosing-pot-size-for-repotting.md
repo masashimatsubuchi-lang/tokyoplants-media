@@ -4,7 +4,7 @@ title: "観葉植物の鉢の選び方｜サイズ・素材・形状の正しい
 description: "観葉植物の植え替えで鉢のサイズに迷っている方へ。号数の仕組み、一回り大きい鉢の目安、素材別の特徴、植物タイプ別のおすすめ鉢を解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "植え替え", "鉢", "サイズ", "選び方"]
+tags: ["植え替え", "鉢", "選び方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"

@@ -4,7 +4,7 @@ title: "観葉植物の夏の水やり｜頻度・量・朝晩の使い分け"
 description: "観葉植物の夏の水やり方法を詳しく解説。頻度の目安、朝と夜どちらがいいか、真夏の高温で土が乾きやすい時期の対応、水切れと過湿の見分け方まで。"
 date: "2026-06-05"
 category: "guide"
-tags: ["夏", "水やり", "頻度", "観葉植物", "夏管理", "水切れ", "夏の管理"]
+tags: ["夏", "水やり", "夏管理", "夏の管理"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/summer-houseplant-care-guide"

@@ -5,7 +5,6 @@ description: マンションやアパートでも安心。室内で観葉植物�
 date: '2026-03-03'
 category: guide
 tags:
-  - 観葉植物
   - 植え替え
   - 室内
   - マンション

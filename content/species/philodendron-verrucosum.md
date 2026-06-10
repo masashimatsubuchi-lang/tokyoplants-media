@@ -4,11 +4,7 @@ title: "フィロデンドロン・ベルコーサムの育て方｜ビロード
 description: "フィロデンドロン・ベルコーサムの育て方を解説。アンデス山地原産のビロード質の葉と特徴的な赤い毛のある葉柄を持つ人気フィロデンドロン。光・湿度・水やりのポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - フィロデンドロン ベルコーサム
-  - philodendron verrucosum
-  - フィロデンドロン ビロード
-  - フィロデンドロン 人気種
+tags: []
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

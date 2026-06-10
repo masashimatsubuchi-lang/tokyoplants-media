@@ -4,7 +4,7 @@ title: "観葉植物の土の入れ替え時期と方法｜根詰まり・水は
 description: "観葉植物の土はいつ交換すべき？根詰まりや水はけ悪化のサインと、正しい土の入れ替え手順を解説します。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "用土", "植え替え", "根詰まり"]
+tags: ["用土", "植え替え", "根詰まり"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"

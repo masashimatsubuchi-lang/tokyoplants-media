@@ -5,10 +5,7 @@ description: "アンスリウム・ペダトラジアタムの育て方を詳し
 date: "2026-06-09"
 category: "species"
 tags:
-  - アンスリウム ペダトラジアタム
-  - アンスリウム 変わった形
   - アンスリウム 希少種
-  - 観葉植物 個性的
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

@@ -4,7 +4,7 @@ title: "モンステラ・ミント｜希少な斑入りモンステラの特徴
 description: "モンステラ・ミント（Monstera Mint）の基本情報、ミント斑の仕組み、タイコンステレーションとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["モンステラ", "ミント", "斑入り", "図鑑", "希少種"]
+tags: ["モンステラ", "斑入り", "希少種"]
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

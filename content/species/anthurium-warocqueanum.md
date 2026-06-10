@@ -4,7 +4,7 @@ title: "アンスリウム・ワロクアナム｜クイーンアンスリウム
 description: "アンスリウム・ワロクアナム（Queen Anthurium）の基本情報、1m超の剣状葉の特徴、高湿度管理・用土・温度管理の詳細ガイド、よくあるトラブルと対処を解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "ワロクアナム", "クイーン", "図鑑", "コレクター"]
+tags: ["アンスリウム", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

@@ -9,7 +9,6 @@ tags:
   - ホーリーグレイル
   - 育て方
   - ジュエルアロカシア
-  - 観葉植物
   - 希少植物
 author: tokyoplants 編集部
 relatedSlugs:

@@ -4,7 +4,7 @@ title: "観葉植物の鉢の素材比較｜陶器・テラコッタ・プラス
 description: "観葉植物の鉢素材（陶器・テラコッタ・プラスチック・セメント）の特徴を徹底比較。土の乾き方・根腐れリスク・重さ・価格帯の違いと、植物別のおすすめ素材を解説します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["鉢", "素材", "テラコッタ", "陶器", "プラスチック", "観葉植物"]
+tags: ["鉢"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/choosing-pot-size-for-repotting"

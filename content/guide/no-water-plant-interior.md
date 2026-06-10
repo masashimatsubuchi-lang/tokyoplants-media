@@ -4,7 +4,7 @@ title: "水やり不要の植物インテリア｜枯れないグリーンで部
 description: "「植物を枯らしてしまう」「水やりを忘れがち」——そんな方向けに、水やり不要または管理がほぼ不要な植物インテリアの選択肢をまとめました。本革の植物アートから超低管理植物まで紹介します。"
 date: "2026-06-03"
 category: "guide"
-tags: ["フェイクグリーン", "インテリア", "枯れない", "観葉植物", "水やり不要"]
+tags: ["インテリア"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/leather-botanical-collection"

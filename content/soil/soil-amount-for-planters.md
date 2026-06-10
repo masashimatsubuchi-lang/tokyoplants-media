@@ -5,11 +5,8 @@ description: 観葉植物の鉢サイズ別に必要な土の量を一覧表で�
 date: '2026-02-18'
 category: soil
 tags:
-  - 観葉植物
   - 用土
   - 鉢
-  - 土の量
-  - 号数
   - 初心者
   - 植え替え
 author: tokyoplants 編集部

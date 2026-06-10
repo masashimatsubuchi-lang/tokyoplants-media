@@ -4,11 +4,7 @@ title: "フィロデンドロン・ホセ・ブオノの育て方｜大型斑入
 description: "フィロデンドロン・ホセ・ブオノの育て方を解説。不規則な白〜クリーム色の斑入り葉が美しい大型交配種フィロデンドロン。光・湿度・水やり・植え替えのポイントを詳しく紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - フィロデンドロン ホセブオノ
-  - philodendron jose buono
-  - フィロデンドロン 斑入り
-  - フィロデンドロン 大型
+tags: []
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

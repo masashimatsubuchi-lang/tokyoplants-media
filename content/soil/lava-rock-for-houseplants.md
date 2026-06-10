@@ -7,12 +7,10 @@ date: '2026-06-03'
 category: soil
 tags:
   - 溶岩石
-  - 火山岩
   - 培地
   - ハイドロカルチャー
   - 根腐れ防止
   - 用土
-  - 観葉植物
   - 根腐れ
 author: tokyoplants 編集部
 relatedSlugs:

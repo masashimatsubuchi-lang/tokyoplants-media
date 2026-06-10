@@ -4,7 +4,7 @@ title: "フィロデンドロン・パトリシエ｜大型波打ち葉が圧巻
 description: "フィロデンドロン・パトリシエ（Philodendron patriciae）の基本情報、大きく波打つ独特の葉の特徴、コロンビア原産の着生種の育て方と仕立て方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "パトリシエ", "大型種", "図鑑", "コレクター"]
+tags: ["フィロデンドロン", "大型種", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

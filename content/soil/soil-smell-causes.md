@@ -4,7 +4,7 @@ title: "観葉植物の土が臭い原因と対策｜匂いの種類別に解説
 description: "観葉植物の土から嫌な匂いがする原因を種類別に解説。カビ臭・腐敗臭・酸っぱい匂いなど、それぞれの対処法がわかります。"
 date: "2026-02-18"
 category: "soil"
-tags: ["観葉植物", "用土", "匂い", "カビ", "根腐れ"]
+tags: ["用土", "カビ", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/mold-on-houseplant-soil"

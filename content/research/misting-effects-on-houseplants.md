@@ -4,7 +4,7 @@ title: "葉水は本当に効果がある？観葉植物への影響を検証"
 description: "観葉植物の葉水（霧吹き）の科学的な効果を検証。湿度・害虫予防・葉の健康への影響と、正しいやり方を解説します。"
 date: "2026-02-18"
 category: "research"
-tags: ["葉水", "霧吹き", "観葉植物", "湿度", "研究"]
+tags: ["葉水", "霧吹き", "研究"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/humidity-and-leaf-damage-thresholds"

@@ -12,7 +12,6 @@ tags:
   - 溶岩石
   - ゼオライト
   - 用土
-  - 観葉植物
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/hydroculture-vs-soil

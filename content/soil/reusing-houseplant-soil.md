@@ -4,7 +4,7 @@ title: "観葉植物の土は再利用できる？｜使い回しのリスクと
 description: "観葉植物の古い土を再利用する方法とリスクを解説。天日干し・消毒・再配合の手順、再利用NGなケース、新しい土に替えるべき判断基準がわかります。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "用土", "再利用", "エコ", "植え替え"]
+tags: ["用土", "再利用", "植え替え"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/when-to-replace-soil"

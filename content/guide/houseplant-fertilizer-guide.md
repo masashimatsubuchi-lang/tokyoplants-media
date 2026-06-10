@@ -6,10 +6,6 @@ date: "2026-06-09"
 category: guide
 tags:
   - 肥料
-  - 観葉植物
-  - 液肥
-  - マグァンプ
-  - ハイポネックス
   - 初心者
 author: tokyoplants 編集部
 relatedSlugs:

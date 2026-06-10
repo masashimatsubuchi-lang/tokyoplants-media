@@ -6,9 +6,7 @@ date: '2026-06-09'
 category: species
 tags:
   - フィロデンドロン
-  - メラノクリサム
   - ベルベット葉
-  - 図鑑
   - コレクター
 author: tokyoplants 編集部
 genus: philodendron

@@ -4,7 +4,7 @@ title: "ペペロミア・アルギレイア｜スイカ柄葉の育て方"
 description: "ペペロミア・アルギレイア（スイカペペ）の基本情報、スイカ柄の仕組み、ケイパレータとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ペペロミア", "アルギレイア", "スイカペペ", "図鑑", "観葉植物"]
+tags: ["ペペロミア"]
 author: "tokyoplants 編集部"
 genus: "peperomia"
 relatedSlugs:

@@ -5,14 +5,7 @@ description: "ビザールプランツ（珍奇植物）専門誌「INDOOR JUNGL
 date: "2026-06-09"
 category: "review"
 tags:
-  - INDOOR JUNGLE
-  - インドアジャングル
-  - ビザールプランツ 雑誌
   - 珍奇植物 本
-  - アガベ 本
-  - ビカクシダ 本
-  - 塊根植物 雑誌
-  - 観葉植物
   - ビカクシダ
   - 希少植物
 author: "tokyoplants 編集部"

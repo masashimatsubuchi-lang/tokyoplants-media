@@ -4,7 +4,7 @@ title: "観葉植物の土のpH調整方法｜酸性・アルカリ性の測定�
 description: "観葉植物の土のpH値の測定方法と調整方法を解説。植物別の適正pH、酸性に傾いた土・アルカリ性に傾いた土それぞれの改善策がわかります。"
 date: "2026-02-18"
 category: "soil"
-tags: ["観葉植物", "用土", "pH", "酸性", "アルカリ性"]
+tags: ["用土", "酸性"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/basic-soil-mix"

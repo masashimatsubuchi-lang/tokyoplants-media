@@ -4,12 +4,7 @@ title: "ラフィドフォラ・テトラスペルマの育て方｜ミニモン
 description: "ラフィドフォラ・テトラスペルマ（ミニモンステラ）の育て方を詳しく解説。モンステラに似た穴開き葉が可愛い人気種。光・水やり・支柱の立て方・増やし方のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - ラフィドフォラ テトラスペルマ
-  - ミニモンステラ
-  - rhaphidophora tetrasperma
-  - 穴あき葉 観葉植物
-  - 観葉植物 人気
+tags: []
 author: "tokyoplants 編集部"
 genus: "rhaphidophora"
 relatedSlugs:

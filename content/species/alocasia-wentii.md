@@ -4,11 +4,7 @@ title: "アロカシア・ウェンティの育て方｜パープルの葉裏が
 description: "アロカシア・ウェンティの育て方を詳しく解説。紫色の葉裏が特徴的なニューギニア原産の中型アロカシア。光・湿度・水やり・冬越しのポイントを詳しく紹介します。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - アロカシア ウェンティ
-  - アロカシア 紫
-  - アロカシア 丈夫
-  - 観葉植物 パープル
+tags: []
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

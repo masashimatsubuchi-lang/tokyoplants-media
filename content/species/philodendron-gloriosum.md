@@ -4,7 +4,7 @@ title: "フィロデンドロン・グロリオーサム｜ベルベット葉の
 description: "フィロデンドロン・グロリオーサムの基本情報、地を這う匍匐性の仕組み、育て方、鉢の選び方、増やし方、よくあるトラブルを詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "グロリオーサム", "ベルベット葉", "図鑑", "観葉植物"]
+tags: ["フィロデンドロン", "ベルベット葉"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

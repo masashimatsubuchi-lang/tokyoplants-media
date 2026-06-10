@@ -4,7 +4,7 @@ title: "アロカシア・ドラゴンスケール｜硬質葉の育て方"
 description: "アロカシア・ドラゴンスケールの基本情報、竜の鱗のような硬質葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "ドラゴンスケール", "バギンダ", "図鑑", "観葉植物"]
+tags: ["アロカシア"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

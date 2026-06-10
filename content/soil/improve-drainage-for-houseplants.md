@@ -4,7 +4,7 @@ title: "観葉植物の水はけが悪いときの改善方法｜土・鉢・管
 description: "観葉植物の水はけが悪い原因を特定し、土の配合・鉢の選び方・水やり方法の3つの観点から改善策を解説。根腐れを防ぐ排水性の高い環境の作り方がわかります。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "水はけ", "排水性", "根腐れ", "用土", "植え替え"]
+tags: ["排水性", "根腐れ", "用土", "植え替え"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"

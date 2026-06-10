@@ -5,12 +5,8 @@ description: "観葉植物の土から嫌な臭いがする原因を解説。腐
 date: "2026-06-06"
 category: "soil"
 tags:
-  - 土 臭い
-  - 観葉植物 土 匂い
-  - 腐敗
   - カビ
   - 根腐れ
-  - 観葉植物
   - 用土
 author: "tokyoplants 編集部"
 relatedSlugs:

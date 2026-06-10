@@ -4,7 +4,7 @@ title: "フィロデンドロン・レッドコンゴ｜赤い新芽と大型葉
 description: "フィロデンドロン・レッドコンゴ（Philodendron 'Red Congo'）の基本情報、赤〜深緑に変化する大型葉の特徴、丈夫で育てやすい管理方法を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "レッドコンゴ", "大型種", "図鑑", "初心者向け"]
+tags: ["フィロデンドロン", "大型種", "初心者向け"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

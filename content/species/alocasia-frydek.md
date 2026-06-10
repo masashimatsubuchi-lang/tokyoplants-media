@@ -4,7 +4,7 @@ title: "アロカシア・フライデック｜白葉脈が映えるベルベッ
 description: "アロカシア・フライデックの基本情報、白葉脈の魅力、ブラックベルベットとの比較、育て方、休眠期の管理、よくあるトラブルを詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "フライデック", "図鑑", "ベルベット葉", "観葉植物"]
+tags: ["アロカシア", "ベルベット葉"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

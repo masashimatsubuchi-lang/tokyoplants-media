@@ -7,8 +7,6 @@ category: "species"
 genus: "begonia"
 tags:
   - ベゴニア
-  - スノーキャップド
-  - Snow Capped
   - 斑入り
   - 希少植物
 author: "tokyoplants 編集部"

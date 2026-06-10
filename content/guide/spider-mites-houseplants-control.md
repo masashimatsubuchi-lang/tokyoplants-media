@@ -4,7 +4,7 @@ title: "観葉植物のハダニ対策完全ガイド"
 description: "観葉植物で発生しやすいハダニの初期症状、確認方法、駆除手順、再発防止策を実務レベルで整理。薬剤と管理改善の使い分けを解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "ハダニ", "害虫対策", "葉水", "予防"]
+tags: ["ハダニ", "害虫対策", "葉水"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/humidity-and-leaf-damage-thresholds"

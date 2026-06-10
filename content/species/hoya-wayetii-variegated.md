@@ -7,8 +7,6 @@ category: "species"
 genus: "hoya"
 tags:
   - ホヤ
-  - ウェイエティー
-  - Hoya wayetii
   - トリカラー
   - 斑入り
 author: "tokyoplants 編集部"

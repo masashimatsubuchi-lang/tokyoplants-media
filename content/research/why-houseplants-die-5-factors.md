@@ -5,11 +5,7 @@ description: "「水やりに気をつけているのになぜ枯れる？」そ
 date: "2026-06-10"
 category: "research"
 tags:
-  - 観葉植物 枯れる
-  - 観葉植物 枯れる 原因
   - 観葉植物 育て方
-  - 観葉植物 管理
-  - 観葉植物
   - 育て方
 author: "tokyoplants 編集部"
 relatedSlugs:

@@ -4,7 +4,7 @@ title: "ウンベラータの育て方｜葉が落ちる原因と対策"
 description: "ウンベラータの水やり・日当たり・剪定・冬の管理を解説。葉が落ちる・枯れる原因と、元気に育てるためのポイントを紹介します。"
 date: "2026-02-18"
 category: "guide"
-tags: ["ウンベラータ", "育て方", "観葉植物", "フィカス"]
+tags: ["ウンベラータ", "育て方", "フィカス"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/ficus-umbellata"

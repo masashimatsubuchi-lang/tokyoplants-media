@@ -4,7 +4,7 @@ title: "観葉植物の植え替えに最適な土の選び方｜失敗しない
 description: "観葉植物の植え替えで土選びに迷っていませんか？植え替え用の土に必要な条件、市販土の選び方、植物タイプ別のおすすめ配合をプロの視点から解説します。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "植え替え", "用土", "選び方", "初心者"]
+tags: ["植え替え", "用土", "選び方", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

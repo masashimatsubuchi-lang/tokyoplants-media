@@ -5,11 +5,8 @@ description: "ビカクシダ（コウモリラン）への育成ライトの使
 date: "2026-06-08"
 category: "guide"
 tags:
-  - ビカクシダ ライト
-  - コウモリラン
   - 育成ライト
   - LED
-  - ビカクシダ 室内栽培
   - ビカクシダ
   - 育成ライト
 author: "tokyoplants 編集部"

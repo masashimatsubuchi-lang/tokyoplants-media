@@ -4,7 +4,7 @@ title: "硬質赤玉土と普通赤玉土の違い"
 description: "硬質赤玉土と普通赤玉土の違いを比較。崩れやすさ、排水性、再利用性、観葉植物での使い分けを解説します。"
 date: "2026-02-17"
 category: "soil"
-tags: ["赤玉土", "硬質赤玉土", "用土", "観葉植物", "排水性"]
+tags: ["赤玉土", "用土", "排水性"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/commercial-soil-ingredients"

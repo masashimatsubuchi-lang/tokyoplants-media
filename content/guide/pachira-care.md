@@ -4,7 +4,7 @@ title: "パキラの育て方｜初心者でも枯らさないコツ"
 description: "パキラの水やり頻度・置き場所・剪定・植え替えまで完全解説。初心者がやりがちな失敗と対策も紹介します。"
 date: "2026-02-18"
 category: "guide"
-tags: ["パキラ", "育て方", "観葉植物", "初心者"]
+tags: ["パキラ", "育て方", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/best-soil-for-pachira"

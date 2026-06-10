@@ -5,14 +5,9 @@ description: "100万円のモンステラが1年で数万円になる。この�
 date: "2026-06-08"
 category: "research"
 tags:
-  - 希少植物 価格
   - モンステラ アルボ
-  - 植物 バブル
-  - チューリップバブル
-  - 観葉植物 市場
   - 希少植物
   - 斑入り
-  - 観葉植物
   - モンステラ
 author: "tokyoplants 編集部"
 relatedSlugs:

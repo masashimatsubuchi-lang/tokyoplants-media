@@ -4,7 +4,7 @@ title: "アロカシア・ゼブリナ｜シマウマ模様の茎が個性的な
 description: "アロカシア・ゼブリナ（Alocasia zebrina）の基本情報、黄緑と濃緑の縞模様が美しい茎の特徴、大型葉の育て方・高湿度管理を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "ゼブリナ", "大型種", "図鑑", "インテリアグリーン"]
+tags: ["アロカシア", "大型種", "インテリアグリーン"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

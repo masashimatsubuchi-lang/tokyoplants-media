@@ -4,12 +4,7 @@ title: "アミドリウム・メディウムの育て方｜深い切れ込みが
 description: "アミドリウム・メディウムの育て方を解説。深い切れ込みと穴が入る大型の葉が個性的なフィリピン原産の希少な着生植物。光・湿度・着生栽培のポイントを詳しく紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - アミドリウム メディウム
-  - amydrium medium
-  - アミドリウム 育て方
-  - 希少 観葉植物
-  - モンステラ 似
+tags: []
 author: "tokyoplants 編集部"
 genus: "amydrium"
 relatedSlugs:

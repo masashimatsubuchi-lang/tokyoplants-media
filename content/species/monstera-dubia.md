@@ -4,12 +4,7 @@ title: "モンステラ・ドゥビアの育て方｜壁に貼り付くように
 description: "モンステラ・ドゥビアの育て方を詳しく解説。幼株が板やコルクに張り付くように着生する独特の成長形態を持つ希少モンステラ。光・水やり・着生栽培のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - モンステラ ドゥビア
-  - monstera dubia
-  - モンステラ 希少種
-  - 着生植物 育て方
-  - シングル モンステラ
+tags: []
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

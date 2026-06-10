@@ -7,9 +7,7 @@ category: "species"
 genus: "alocasia"
 tags:
   - アロカシア
-  - ハートバルーン
   - ピンク斑入り
-  - Heart Balloon
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

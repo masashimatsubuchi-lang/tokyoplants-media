@@ -6,12 +6,10 @@ date: "2026-06-06"
 updated: "2026-06-08"
 category: "research"
 tags:
-  - 母の日
   - プレゼント
   - 観葉植物好き
   - ギフト
   - Daily Botanical Towel
-  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-lover-gift-ideas"

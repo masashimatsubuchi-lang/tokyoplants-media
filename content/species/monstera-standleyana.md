@@ -4,12 +4,7 @@ title: "モンステラ・スタンドレアナの育て方｜白い斑入りが
 description: "モンステラ・スタンドレアナ（アルボバリエガタ）の育て方を詳しく解説。細長い葉に白〜クリームの斑が入るコンパクトなモンステラ。光・水やり・斑入り管理のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - モンステラ スタンドレアナ
-  - monstera standleyana
-  - アルボバリエガタ モンステラ
-  - モンステラ 斑入り 小型
-  - 観葉植物 斑入り
+tags: []
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

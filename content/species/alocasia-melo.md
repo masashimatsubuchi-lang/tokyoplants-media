@@ -4,7 +4,7 @@ title: "アロカシア・メロ｜ゴツゴツした革質の葉が個性的な
 description: "アロカシア・メロ（Alocasia melo）の基本情報、ざらざらした革質・ゴツゴツした独特の葉の特徴、ボルネオ固有種の育て方と高湿度管理のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "メロ", "希少種", "図鑑", "コレクター"]
+tags: ["アロカシア", "希少種", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

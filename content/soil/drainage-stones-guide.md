@@ -4,7 +4,7 @@ title: "観葉植物に鉢底石は必要？｜役割・量・代用品を解説
 description: "観葉植物の鉢底石は本当に必要なのか。鉢底石の役割、適切な量、おすすめ素材、代用品まで解説。鉢底石ありなしの違いと、正しい使い方がわかります。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "鉢底石", "排水性", "植え替え", "用土"]
+tags: ["排水性", "植え替え", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"

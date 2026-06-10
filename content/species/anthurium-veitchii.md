@@ -4,7 +4,7 @@ title: "アンスリウム・ヴェイチー｜キングアンスリウムの特
 description: "アンスリウム・ヴェイチー（King Anthurium）の基本情報、独特の波打つリブ葉の特徴、ワロクアーナムとの違い、育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "ヴェイチー", "キング", "図鑑", "コレクター"]
+tags: ["アンスリウム", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

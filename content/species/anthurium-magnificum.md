@@ -4,7 +4,7 @@ title: "アンスリウム・マグニフィカム｜大型ベルベット葉の
 description: "アンスリウム・マグニフィカムの基本情報、ベルベット質の大型葉、四角い葉柄の識別法、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "マグニフィカム", "葉もの", "図鑑", "コレクター"]
+tags: ["アンスリウム", "葉もの", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

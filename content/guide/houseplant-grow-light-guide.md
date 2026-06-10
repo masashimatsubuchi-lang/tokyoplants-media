@@ -5,12 +5,9 @@ description: "観葉植物に育成ライトが必要なケース・必要でな
 date: "2026-06-08"
 category: "guide"
 tags:
-  - 観葉植物 ライト
   - 育成ライト
   - LED
   - 室内栽培
-  - 光不足
-  - 観葉植物
   - 育成ライト
 author: "tokyoplants 編集部"
 relatedSlugs:

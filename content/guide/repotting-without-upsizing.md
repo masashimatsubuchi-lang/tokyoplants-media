@@ -4,7 +4,7 @@ title: "観葉植物を大きくしない植え替え方法｜サイズ維持の
 description: "観葉植物をこれ以上大きくしたくないときの植え替え方法を解説。同じ鉢に戻す手順、根の剪定方法、地上部の切り戻しまで具体的に説明します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "植え替え", "サイズ維持", "剪定", "根"]
+tags: ["植え替え", "剪定", "根"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/how-to-trim-roots-when-repotting"

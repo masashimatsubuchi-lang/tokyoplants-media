@@ -4,7 +4,7 @@ title: "ホヤ属（サクララン）とは｜主な品種・育て方・特徴
 description: "ホヤ属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"
 category: "species"
-tags: ["ホヤ", "サクララン", "図鑑", "品種", "キョウチクトウ科"]
+tags: ["ホヤ", "サクララン", "品種"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

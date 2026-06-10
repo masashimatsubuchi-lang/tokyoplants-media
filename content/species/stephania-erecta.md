@@ -4,7 +4,7 @@ title: "ステファニア・エレクタ｜丸い塊根と可愛い葉の塊根
 description: "ステファニア・エレクタ（Stephania erecta）の基本情報、球形の塊根（コーデックス）と丸いハート形の葉の特徴、休眠管理・発芽・育て方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ステファニア", "エレクタ", "塊根植物", "コーデックス", "図鑑"]
+tags: ["ステファニア", "塊根植物", "コーデックス"]
 author: "tokyoplants 編集部"
 genus: "stephania"
 relatedSlugs:

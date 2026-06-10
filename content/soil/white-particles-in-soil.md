@@ -4,7 +4,7 @@ title: "観葉植物の土の白い粒の正体は？｜パーライト・カビ
 description: "観葉植物の土に見える白い粒や白いものの正体を解説。パーライト・肥料・カビ・害虫の見分け方と、それぞれの対処法がわかります。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "用土", "パーライト", "カビ", "白い粒"]
+tags: ["用土", "カビ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/mold-on-houseplant-soil"

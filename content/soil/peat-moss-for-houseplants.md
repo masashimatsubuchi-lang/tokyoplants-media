@@ -4,7 +4,7 @@ title: "ピートモスの使い方｜観葉植物での配合量と注意点"
 description: "観葉植物にピートモスを使う方法を解説。適切な配合量、メリット・デメリット、使うべき植物と避けるべき植物がわかります。"
 date: "2026-02-18"
 category: "soil"
-tags: ["観葉植物", "ピートモス", "用土", "配合", "酸性"]
+tags: ["用土", "配合", "酸性"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/basic-soil-mix"

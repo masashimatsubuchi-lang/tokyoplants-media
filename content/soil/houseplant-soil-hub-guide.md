@@ -5,7 +5,6 @@ description: 観葉植物の土に関する基礎知識、配合の考え方、�
 date: '2026-02-17'
 category: soil
 tags:
-  - 観葉植物
   - 土
   - 用土
   - 植え替え

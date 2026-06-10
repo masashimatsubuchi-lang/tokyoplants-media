@@ -5,11 +5,7 @@ description: "フィランサス・ウリナリア ピンク斑入り（Phyllant
 date: "2026-06-09"
 category: "species"
 tags:
-  - フィランサス
-  - ウリナリア
   - ピンク斑入り
-  - Pink Variegated
-  - 斑入り観葉植物
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

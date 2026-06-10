@@ -4,12 +4,7 @@ title: "アンスリウム・スーパーバムの育て方｜バードネスト
 description: "アンスリウム・スーパーバムの育て方を詳しく解説。ロゼット状に葉を広げるバードネスト型アンスリウムの光・湿度・水やり・植え替えのポイントを紹介します。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - アンスリウム スーパーバム
-  - anthurium superbum
-  - バードネスト アンスリウム
-  - アンスリウム 大型
-  - 観葉植物 希少
+tags: []
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

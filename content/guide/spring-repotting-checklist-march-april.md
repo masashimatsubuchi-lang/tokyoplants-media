@@ -4,7 +4,7 @@ title: "春の植え替え前チェックリスト"
 description: "3〜4月に観葉植物の植え替えを始める前に確認すべき項目をチェックリスト化。時期判断、道具準備、失敗回避ポイントを解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "春", "植え替え", "3月", "4月"]
+tags: ["春", "植え替え", "3月"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/best-time-to-repot-houseplants"

@@ -7,7 +7,6 @@ category: "species"
 genus: "alocasia"
 tags:
   - アロカシア
-  - ニンジャ
   - トリカラー
   - 斑入り
   - 希少植物

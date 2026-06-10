@@ -4,7 +4,7 @@ title: "モンステラ・アダンソニー斑入り｜モットルド・マー
 description: "モンステラ・アダンソニー斑入り（Mottled/Marble variegated）の基本情報、白〜クリームの斑模様の種類、無地との違い、斑を維持する光管理と育て方を図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["モンステラ", "アダンソニー", "斑入り", "モットルド", "図鑑"]
+tags: ["モンステラ", "アダンソニー", "斑入り"]
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

@@ -7,8 +7,6 @@ category: "species"
 genus: "philodendron"
 tags:
   - フィロデンドロン
-  - ヘテロクラスペドン
-  - Philodendron heterocraspedon
   - ベルベット
   - 希少植物
 author: "tokyoplants 編集部"

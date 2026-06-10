@@ -4,7 +4,7 @@ title: "3月の観葉植物リセット手順"
 description: "3月にやるべき観葉植物管理を、置き場所・水やり・施肥・害虫点検の順に整理。春の立ち上がりを失敗しない実践手順を解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "3月", "春管理", "水やり", "施肥", "育て方"]
+tags: ["3月", "水やり", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/winter-watering-houseplants"

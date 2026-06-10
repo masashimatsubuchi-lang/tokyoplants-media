@@ -4,7 +4,7 @@ title: "アンスリウム・カルラブラッキエ｜漆黒のビロード葉
 description: "アンスリウム・カルラブラッキエ（Anthurium carlablackiae）の基本情報、深い漆黒に輝くビロード質の葉の特徴、パナマ固有種の育て方と高湿度管理を図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "カルラブラッキエ", "ベルベット", "図鑑", "コレクター"]
+tags: ["アンスリウム", "ベルベット", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

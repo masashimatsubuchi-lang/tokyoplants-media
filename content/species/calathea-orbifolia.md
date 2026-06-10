@@ -4,12 +4,7 @@ title: "カラテア・オービフォリアの育て方｜大きな銀緑の縞
 description: "カラテア・オービフォリアの育て方を詳しく解説。大型で美しい銀緑の縞模様の葉を持つ人気カラテア。光・湿度・水質・水やりの注意点など管理のポイントを丁寧に紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - カラテア オービフォリア
-  - calathea orbifolia
-  - カラテア 育て方
-  - カラテア 縞模様
-  - 観葉植物 模様
+tags: []
 author: "tokyoplants 編集部"
 genus: "calathea"
 relatedSlugs:

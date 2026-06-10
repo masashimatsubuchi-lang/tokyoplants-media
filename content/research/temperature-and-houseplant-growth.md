@@ -4,7 +4,7 @@ title: "室温と観葉植物の成長速度｜温度帯別の影響を解説"
 description: "観葉植物の成長に最適な室温は？温度帯別の成長速度データと、季節ごとの温度管理のポイントを解説します。"
 date: "2026-02-18"
 category: "research"
-tags: ["観葉植物", "室温", "成長速度", "温度管理", "研究"]
+tags: ["研究"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/watering-frequency-by-season-indoor"

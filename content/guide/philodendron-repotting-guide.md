@@ -4,7 +4,7 @@ title: "フィロデンドロンの植え替え｜根腐れさせない土と手
 description: "フィロデンドロンの植え替え方法を解説。根腐れしやすいフィロデンドロンに適した土の選び方、最適な時期、手順、HYDRO MINERALを使った無機培地での植え替えまで詳しく説明します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["フィロデンドロン", "植え替え", "根腐れ", "用土", "育て方", "観葉植物"]
+tags: ["フィロデンドロン", "植え替え", "根腐れ", "用土", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

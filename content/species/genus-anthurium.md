@@ -6,10 +6,8 @@ date: '2026-02-17'
 category: species
 tags:
   - アンスリウム
-  - 図鑑
   - 品種
   - サトイモ科
-  - 観葉植物
 author: tokyoplants 編集部
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"

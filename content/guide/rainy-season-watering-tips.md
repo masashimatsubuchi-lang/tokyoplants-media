@@ -8,8 +8,6 @@ category: guide
 tags:
   - 梅雨
   - 水やり
-  - 観葉植物
-  - 根腐れ予防
   - 管理
   - 水やり
 author: tokyoplants 編集部

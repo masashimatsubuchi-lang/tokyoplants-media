@@ -4,7 +4,7 @@ title: "アロカシア・アズラニー｜虹色の葉脈が美しい希少種
 description: "アロカシア・アズラニー（Alocasia azlanii）の基本情報、虹色・メタリックに輝く葉脈の特徴、高湿度管理と育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "アズラニー", "希少種", "図鑑", "コレクター"]
+tags: ["アロカシア", "希少種", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

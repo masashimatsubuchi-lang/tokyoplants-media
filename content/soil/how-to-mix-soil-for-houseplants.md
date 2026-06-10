@@ -4,7 +4,7 @@ title: "観葉植物の土を自分で配合する方法｜基本の割合と植
 description: "観葉植物の土を自分で配合したい方へ。基本の配合比率、植物タイプ別のレシピ、必要な素材の選び方をわかりやすく解説します。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "用土", "配合", "自作", "レシピ"]
+tags: ["用土", "配合"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

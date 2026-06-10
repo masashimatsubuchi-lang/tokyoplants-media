@@ -4,7 +4,7 @@ title: "ホヤ・カルノーサ（サクララン）｜甘い香りの花と多
 description: "ホヤ・カルノーサ（サクラン）の基本情報、星型の甘い花の咲かせ方、多肉質葉の特徴、水やり・剪定・増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ホヤ", "サクララン", "カルノーサ", "図鑑", "花"]
+tags: ["ホヤ", "サクララン", "花"]
 author: "tokyoplants 編集部"
 genus: "hoya"
 relatedSlugs:

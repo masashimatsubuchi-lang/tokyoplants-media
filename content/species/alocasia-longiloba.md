@@ -5,10 +5,7 @@ description: "アロカシア・ロンギロバの育て方を詳しく解説。
 date: "2026-06-09"
 category: "species"
 tags:
-  - アロカシア ロンギロバ
-  - アロカシア 大型
   - アロカシア 育て方
-  - 観葉植物 大型
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

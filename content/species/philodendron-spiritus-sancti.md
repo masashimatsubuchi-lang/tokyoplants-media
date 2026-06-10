@@ -4,12 +4,7 @@ title: "フィロデンドロン・スピリトゥス・サンクティの育て
 description: "フィロデンドロン・スピリトゥス・サンクティの育て方を詳しく解説。ブラジル・エスピリトサント州の固有種で世界最高値の観葉植物。光・湿度・水やり・管理のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - フィロデンドロン スピリトゥス サンクティ
-  - philodendron spiritus sancti
-  - 希少観葉植物
-  - 高額観葉植物
-  - フィロデンドロン 希少種
+tags: []
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

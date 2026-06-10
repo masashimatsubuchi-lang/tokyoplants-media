@@ -4,7 +4,7 @@ title: "ペペロミア属とは｜主な品種・育て方・特徴を解説"
 description: "ペペロミア属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"
 category: "species"
-tags: ["ペペロミア", "図鑑", "品種", "コショウ科", "観葉植物"]
+tags: ["ペペロミア", "品種"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

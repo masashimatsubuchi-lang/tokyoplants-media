@@ -4,7 +4,7 @@ title: "アグラオネマ・ピクタム・トリカラー｜迷彩模様が唯
 description: "アグラオネマ・ピクタム・トリカラー（Aglaonema pictum tricolor）の基本情報、軍服のような迷彩模様の仕組み、育て方・湿度管理・増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アグラオネマ", "トリカラー", "迷彩", "図鑑", "コレクター"]
+tags: ["アグラオネマ", "トリカラー", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "aglaonema"
 relatedSlugs:

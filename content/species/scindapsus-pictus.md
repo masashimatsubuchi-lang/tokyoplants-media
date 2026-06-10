@@ -5,10 +5,6 @@ description: "シンダプサス・ピクタス（サテンポトス）の育て
 date: "2026-06-09"
 category: "species"
 tags:
-  - シンダプサス ピクタス
-  - サテンポトス
-  - scindapsus pictus
-  - シルバー 観葉植物
   - 観葉植物 育て方
 author: "tokyoplants 編集部"
 genus: "scindapsus"

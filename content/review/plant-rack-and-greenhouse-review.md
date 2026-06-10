@@ -4,7 +4,7 @@ title: "植物育成ラック・温室 おすすめ5選｜タイプ別レビュ�
 description: "観葉植物向けの育成ラック・室内温室を専門的な視点で徹底比較。メタルラック・専用棚・ビニール温室・ガラスキャビネットの4タイプからおすすめ5製品をレビューします。"
 date: "2026-02-24"
 category: "review"
-tags: ["植物育成ラック", "温室", "メタルラック", "レビュー", "室内栽培"]
+tags: ["レビュー", "室内栽培"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"

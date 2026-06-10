@@ -4,7 +4,7 @@ title: "ポトスの植え替え方法｜水挿しからの切り替えも解説
 description: "ポトスの植え替え方法を初心者向けに解説。根詰まりのサイン、最適な時期、水挿しから土への切り替え方、使う土の選び方、植え替え後の管理まで詳しく説明します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["ポトス", "植え替え", "水挿し", "育て方", "用土", "観葉植物"]
+tags: ["ポトス", "植え替え", "育て方", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

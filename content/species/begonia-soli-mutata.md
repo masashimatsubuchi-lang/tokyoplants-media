@@ -7,9 +7,6 @@ category: "species"
 genus: "begonia"
 tags:
   - ベゴニア
-  - ソリムタータ
-  - Begonia soli-mutata
-  - フォトクロミック
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

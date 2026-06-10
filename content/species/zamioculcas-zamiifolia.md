@@ -4,7 +4,7 @@ title: "ザミオクルカスの育て方図鑑｜ZZ plantの特徴と管理の�
 description: "ザミオクルカス（ZZ plant）の特徴、根茎が水を蓄える仕組み、レイヴン等の品種、置き場所、水やり、植え替え、増やし方、トラブル対策を図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ザミオクルカス", "ZZ plant", "観葉植物", "育て方", "図鑑"]
+tags: ["育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

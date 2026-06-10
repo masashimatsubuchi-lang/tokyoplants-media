@@ -4,7 +4,7 @@ title: "100均の土と専門店の土は何が違う？｜観葉植物の用土
 description: "100均・ホームセンター・専門店の観葉植物の土を比較。価格差の理由、品質の違い、選ぶべき基準を解説。コスパ重視で失敗しない土の選び方がわかります。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "用土", "100均", "比較", "コスパ"]
+tags: ["用土", "比較"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

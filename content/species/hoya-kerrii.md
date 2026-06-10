@@ -6,10 +6,6 @@ date: "2026-06-09"
 category: "species"
 tags:
   - ホヤ
-  - ケリー
-  - ハートホヤ
-  - 図鑑
-  - 観葉植物
 author: "tokyoplants 編集部"
 genus: "hoya"
 relatedSlugs:

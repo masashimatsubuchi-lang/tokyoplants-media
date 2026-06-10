@@ -4,7 +4,7 @@ title: "SISHI CRAFT × tokyoplants｜革で作られた植物、レザーボタ�
 description: "台湾のレザーアーティスト SISHI CRAFT と tokyoplants のコラボレーション。植物タンニン鞣しのイタリアンレザーで一点一点手作業で仕立てた「革の植物」コレクションを紹介します。"
 date: "2026-06-03"
 category: "review"
-tags: ["レザーボタニカル", "インテリア", "ギフト", "SISHI CRAFT", "アート"]
+tags: ["インテリア", "ギフト"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-lover-gift-ideas"

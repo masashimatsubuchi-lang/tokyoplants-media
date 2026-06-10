@@ -4,7 +4,7 @@ title: "観葉植物の植え替えで根を切る方法｜切る根・切らな
 description: "植え替え時に根をどこまで切るか悩んでいる方へ。切る根・切らない根の見分け方、根の切り方、切りすぎた場合の対処まで詳しく解説。モンステラ・アロカシア・パキラ・ポトスの根の特徴と切り方の違いも紹介します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "植え替え", "根", "剪定", "根腐れ"]
+tags: ["植え替え", "根", "剪定", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

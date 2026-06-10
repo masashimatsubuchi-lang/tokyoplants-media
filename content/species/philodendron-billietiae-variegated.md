@@ -7,9 +7,7 @@ category: "species"
 genus: "philodendron"
 tags:
   - フィロデンドロン
-  - ビリエティアエ
   - 斑入り
-  - variegated
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

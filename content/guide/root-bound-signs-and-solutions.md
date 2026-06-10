@@ -4,7 +4,7 @@ title: "観葉植物の根詰まりサインと確認方法｜放置するとど
 description: "観葉植物の根詰まりのサインを写真で解説。鉢底から根が出る・水はけ悪化・成長停止など症状別の確認方法と、放置した場合のリスク、対処法まで詳しく解説します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["根詰まり", "植え替え", "サイン", "観葉植物", "根"]
+tags: ["根詰まり", "植え替え", "根"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

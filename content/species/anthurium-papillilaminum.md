@@ -4,7 +4,7 @@ title: "アンスリウム・パピリラミナム｜ベルベット葉と卵形
 description: "アンスリウム・パピリラミナム（Anthurium papillilaminum）の基本情報、ビロード状の大きな卵形葉の特徴、多くのハイブリッドの親として重要な品種の育て方を解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "パピリラミナム", "ベルベット", "図鑑", "コレクター"]
+tags: ["アンスリウム", "ベルベット", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

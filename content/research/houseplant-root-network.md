@@ -5,12 +5,8 @@ description: "植物の根は「土台」ではなく、情報を送受信し、
 date: "2026-06-08"
 category: "research"
 tags:
-  - 植物 根
-  - 菌根ネットワーク
-  - ウッド・ワイド・ウェブ
   - 根腐れ 仕組み
   - 観葉植物 土
-  - 観葉植物
   - 根腐れ
 author: "tokyoplants 編集部"
 relatedSlugs:

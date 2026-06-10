@@ -4,7 +4,7 @@ title: "観葉植物の底面給水のやり方｜培地・容器・頻度を解
 description: "観葉植物の底面給水の仕組みと正しいやり方を解説。過湿・根腐れを防ぐ容器の選び方、最適な培地の条件、水換えの頻度まで具体的にわかります。"
 date: "2026-06-03"
 category: "guide"
-tags: ["底面給水", "ハイドロカルチャー", "観葉植物", "水やり", "培地"]
+tags: ["底面給水", "ハイドロカルチャー", "水やり", "培地"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/hydroculture-medium-comparison"

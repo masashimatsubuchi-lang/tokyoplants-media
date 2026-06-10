@@ -5,10 +5,6 @@ description: "ホヤ・カーティシーの育て方を詳しく解説。ハー
 date: "2026-06-09"
 category: "species"
 tags:
-  - ホヤ カーティシー
-  - hoya curtisii
-  - ミニホヤ
-  - ホヤ 小型
   - ホヤ 育て方
 author: "tokyoplants 編集部"
 genus: "hoya"

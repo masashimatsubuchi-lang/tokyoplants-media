@@ -4,7 +4,7 @@ title: "観葉植物のハイドロカルチャー完全ガイド｜培地・水
 description: "観葉植物のハイドロカルチャーを始めから終わりまで完全解説。土との違い、培地（LECA・溶岩石・ゼオライト）の選び方、水やり・肥料・根腐れ対策、アロカシア・モンステラ・フィロデンドロンの植物別管理まで。HYDRO MINERALの使い方も詳しく紹介。"
 date: "2026-06-05"
 category: "soil"
-tags: ["ハイドロカルチャー", "培地", "溶岩石", "ゼオライト", "HYDRO MINERAL", "根腐れ", "無機培地"]
+tags: ["ハイドロカルチャー", "培地", "溶岩石", "ゼオライト", "根腐れ", "無機培地"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/hydroculture-vs-soil"

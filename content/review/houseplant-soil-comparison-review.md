@@ -4,7 +4,7 @@ title: "観葉植物の土を徹底比較｜市販5タイプの特徴と選び�
 description: "市販の観葉植物用土5タイプを排水性・保水性・価格で比較。植物に合った土の選び方がわかります。"
 date: "2026-02-18"
 category: "review"
-tags: ["観葉植物", "土", "比較", "レビュー", "おすすめ"]
+tags: ["土", "比較", "レビュー", "おすすめ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

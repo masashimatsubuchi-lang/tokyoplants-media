@@ -4,13 +4,7 @@ title: "「その植物、玄関に置いてはいけない」——世界の植
 description: "サンスベリアは不吉、クワズイモは毒、玄関にモンステラは縁起が悪い……植物にまつわる迷信は世界中に存在します。その由来と、科学的に正しい部分・そうでない部分を整理します。"
 date: "2026-06-08"
 category: "research"
-tags:
-  - 植物 迷信
-  - 観葉植物 風水
-  - 植物 タブー
-  - サンスベリア 不吉
-  - 植物 縁起
-  - 観葉植物
+tags: []
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-trivia-10-facts"

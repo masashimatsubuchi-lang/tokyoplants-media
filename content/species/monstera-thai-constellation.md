@@ -4,7 +4,7 @@ title: "モンステラ・タイコンステレーション｜斑入りモンス
 description: "モンステラ・タイコンステレーション（Thai Constellation）の基本情報、組織培養で安定した斑の仕組み、アルボとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["モンステラ", "タイコンステレーション", "斑入り", "図鑑", "観葉植物"]
+tags: ["モンステラ", "タイコンステレーション", "斑入り"]
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

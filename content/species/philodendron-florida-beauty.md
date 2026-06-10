@@ -4,7 +4,7 @@ title: "フィロデンドロン・フロリダビューティー｜斑入り交
 description: "フィロデンドロン・フロリダビューティー（Florida Beauty）の基本情報、クリーム〜黄白色の斑入り模様の特徴、Florida Ghostとの違い、育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "フロリダビューティー", "斑入り", "図鑑", "コレクター"]
+tags: ["フィロデンドロン", "斑入り", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

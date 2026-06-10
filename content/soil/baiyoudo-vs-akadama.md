@@ -5,12 +5,9 @@ description: "培養土と赤玉土の違いを徹底解説。それぞれの特
 date: "2026-06-06"
 category: "soil"
 tags:
-  - 培養土
   - 赤玉土
-  - 土の違い
   - 観葉植物 土
   - 配合
-  - 観葉植物
   - 用土
   - 初心者
 author: "tokyoplants 編集部"

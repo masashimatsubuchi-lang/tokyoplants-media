@@ -5,9 +5,7 @@ description: 観葉植物を購入した直後に植え替えるべきか迷っ�
 date: '2026-03-03'
 category: guide
 tags:
-  - 観葉植物
   - 植え替え
-  - 購入直後
   - 初心者
   - 春
 author: tokyoplants 編集部

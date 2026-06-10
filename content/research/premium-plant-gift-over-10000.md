@@ -8,10 +8,7 @@ category: research
 tags:
   - ギフト
   - プレゼント
-  - 誕生日
-  - 1万円以上
   - 植物好き
-  - 観葉植物
 author: tokyoplants 編集部
 relatedSlugs:
   - research/houseplant-lover-gift-ideas

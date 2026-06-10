@@ -7,9 +7,6 @@ category: "species"
 genus: "begonia"
 tags:
   - ベゴニア
-  - ジニーギャラクシー
-  - Ginny Galaxy
-  - 銀斑点
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

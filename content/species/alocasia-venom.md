@@ -4,7 +4,7 @@ title: "アロカシア・ヴェノム｜黒緑の光沢葉が禍々しく美し
 description: "アロカシア・ヴェノム（Alocasia 'Venom'）の基本情報、深い黒緑×白い葉脈のコントラストが美しい特徴、育て方・高湿度管理のポイントを図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "ヴェノム", "黒葉", "図鑑", "コレクター"]
+tags: ["アロカシア", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

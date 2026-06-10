@@ -4,7 +4,7 @@ title: "観葉植物の葉が黄色い原因チェック"
 description: "観葉植物の葉が黄色くなる原因を、水やり・光・根・肥料・害虫の5軸で切り分ける実践チェックリスト。症状別の対処手順を解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "葉が黄色い", "トラブル", "水やり", "根腐れ", "育て方"]
+tags: ["トラブル", "水やり", "根腐れ", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

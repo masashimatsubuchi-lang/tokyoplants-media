@@ -4,7 +4,7 @@ title: "室内の観葉植物に最適な土の選び方｜清潔で虫が出に
 description: "室内で観葉植物を育てるための土の選び方を徹底解説。虫が出にくい清潔な用土の条件、室内向きの素材、おすすめ商品、臭い対策まで具体的に紹介します。"
 date: "2026-02-16"
 category: "soil"
-tags: ["観葉植物", "用土", "室内", "虫対策", "清潔"]
+tags: ["用土", "室内", "虫対策", "清潔"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

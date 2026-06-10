@@ -6,10 +6,8 @@ date: '2026-06-03'
 category: guide
 tags:
   - 梅雨
-  - 観葉植物
   - 管理
   - 根腐れ
-  - 蒸れ対策
   - 害虫対策
   - 水やり
 author: tokyoplants 編集部

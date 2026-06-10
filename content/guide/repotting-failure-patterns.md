@@ -4,7 +4,7 @@ title: "植え替え失敗パターン5選｜よくあるミスと回復法"
 description: "観葉植物の植え替えでよくある失敗パターンを5つ解説。時期のミス・土の選択ミス・根の傷つけ・過湿・日光当てすぎなど、失敗の原因と回復方法を詳しく説明します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["植え替え", "失敗", "回復", "観葉植物", "トラブル"]
+tags: ["植え替え", "回復", "トラブル"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"

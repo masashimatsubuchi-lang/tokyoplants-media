@@ -4,7 +4,7 @@ title: "観葉植物の穴なし鉢の使い方｜水やりと根腐れ対策"
 description: "穴なし鉢（排水穴なし）で観葉植物を育てる方法を解説。水やりの頻度・量の調整、根腐れを防ぐ土・培地の選び方、HYDRO MINERALを使った安全な管理方法まで詳しく説明します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["穴なし鉢", "水やり", "根腐れ", "観葉植物", "インテリア"]
+tags: ["水やり", "根腐れ", "インテリア"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

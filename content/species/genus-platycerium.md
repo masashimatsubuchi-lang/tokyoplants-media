@@ -4,7 +4,7 @@ title: "ビカクシダ属（プラティセリウム）とは｜主な品種・
 description: "ビカクシダ属の基本情報、代表的な品種一覧、板付け・苔玉での育て方、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"
 category: "species"
-tags: ["ビカクシダ", "プラティセリウム", "図鑑", "品種", "着生植物"]
+tags: ["ビカクシダ", "プラティセリウム", "品種", "着生植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"

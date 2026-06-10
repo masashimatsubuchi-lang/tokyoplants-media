@@ -4,7 +4,7 @@ title: "観葉植物が根腐れする原因と復活方法｜土・水やり・
 description: "観葉植物の根腐れはなぜ起こる？原因の特定方法から、復活させるための植え替え手順、再発を防ぐ土・水やり・鉢の選び方まで詳しく解説します。"
 date: "2026-02-16"
 category: "guide"
-tags: ["観葉植物", "根腐れ", "復活", "植え替え", "用土"]
+tags: ["根腐れ", "復活", "植え替え", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

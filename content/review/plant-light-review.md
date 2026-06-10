@@ -5,7 +5,7 @@ description: "2026年最新版。観葉植物・ビカクシダ向けの植物�
 date: "2026-02-21"
 updated: "2026-06-08"
 category: "review"
-tags: ["植物育成ライト", "LED", "レビュー", "室内栽培", "観葉植物", "ビカクシダ", "育成ライト"]
+tags: ["植物育成ライト", "LED", "レビュー", "室内栽培", "ビカクシダ", "育成ライト"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/houseplant-grow-light-guide"

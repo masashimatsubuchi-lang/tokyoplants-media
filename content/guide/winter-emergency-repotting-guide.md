@@ -4,7 +4,7 @@ title: "冬の植え替えはNG？緊急時の判断基準"
 description: "冬の植え替えは原則避けるべきですが、例外的に必要なケースがあります。緊急度の判断基準、実施手順、失敗しない養生方法を解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "冬", "植え替え", "緊急対応", "根腐れ", "冬の管理"]
+tags: ["冬", "植え替え", "根腐れ", "冬の管理"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/best-time-to-repot-houseplants"

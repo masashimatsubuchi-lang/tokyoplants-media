@@ -4,7 +4,7 @@ title: "フィロデンドロン・ビリエティエ｜オレンジ茎と長葉
 description: "フィロデンドロン・ビリエティエ（Philodendron billietiae）の基本情報、オレンジ色の茎と細長い葉の特徴、着生種の育て方・仕立て方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["フィロデンドロン", "ビリエティエ", "着生種", "図鑑", "コレクター"]
+tags: ["フィロデンドロン", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:

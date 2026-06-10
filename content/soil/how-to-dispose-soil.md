@@ -4,7 +4,7 @@ title: "観葉植物の土の捨て方｜正しい処分方法と再利用のコ
 description: "観葉植物の土の捨て方を自治体ルール別に解説。燃えるゴミ・回収サービス・再利用など、処分の選択肢と手順がわかります。"
 date: "2026-02-18"
 category: "soil"
-tags: ["観葉植物", "用土", "捨て方", "処分", "再利用"]
+tags: ["用土", "再利用"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/reusing-houseplant-soil"

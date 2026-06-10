@@ -7,8 +7,6 @@ category: "species"
 genus: "monstera"
 tags:
   - モンステラ
-  - ミラクル
-  - Monstera Miracle
   - バリエガータ
   - 斑入り
 author: "tokyoplants 編集部"

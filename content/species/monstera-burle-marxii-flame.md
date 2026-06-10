@@ -4,7 +4,7 @@ title: "モンステラ・バールマルクス・フレーム｜炎状に裂け
 description: "モンステラ・バールマルクス・フレーム（Monstera 'Burle Marx's Flame'）の基本情報、炎のように深く裂ける葉の特徴、バールマルクシーとの違い、育て方を図鑑形式で解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["モンステラ", "バールマルクス", "フレーム", "希少種", "図鑑"]
+tags: ["モンステラ", "バールマルクス", "希少種"]
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:

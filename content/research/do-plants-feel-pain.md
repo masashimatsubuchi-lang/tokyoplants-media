@@ -5,12 +5,7 @@ description: "植物を傷つけると電気信号が走り、化学物質が分
 date: "2026-06-08"
 category: "research"
 tags:
-  - 植物 痛み
-  - 植物神経学
   - 観葉植物 科学
-  - 植物 電気信号
-  - 植物 感受性
-  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-trivia-10-facts"

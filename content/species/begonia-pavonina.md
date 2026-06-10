@@ -4,12 +4,7 @@ title: "ベゴニア・パボニナの育て方｜光の角度で青く輝く虹
 description: "ベゴニア・パボニナ（ピーコックベゴニア）の育て方を詳しく解説。光の当たる角度によってイリデッセントブルーに輝く幻の葉を持つ希少種の光・湿度・温度管理のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - ベゴニア パボニナ
-  - ピーコックベゴニア
-  - begonia pavonina
-  - イリデッセント 観葉植物
-  - ベゴニア 希少種
+tags: []
 author: "tokyoplants 編集部"
 genus: "begonia"
 relatedSlugs:

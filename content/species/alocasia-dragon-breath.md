@@ -7,10 +7,7 @@ category: "species"
 genus: "alocasia"
 tags:
   - アロカシア
-  - ドラゴンブレス
-  - Dragon Breath
   - 希少植物
-  - カルチバー
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/alocasia-dragon-scale"

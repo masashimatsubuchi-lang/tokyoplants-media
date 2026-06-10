@@ -5,12 +5,10 @@ description: "観葉植物好きへの引っ越し祝いに迷ったらこの記
 date: "2026-06-06"
 category: "research"
 tags:
-  - 引っ越し祝い
   - 観葉植物好き
   - ギフト
   - プレゼント
   - Daily Botanical Towel
-  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-lover-gift-ideas"

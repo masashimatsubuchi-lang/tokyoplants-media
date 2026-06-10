@@ -4,7 +4,7 @@ title: "アンスリウム・クラリネルビウム｜ハート型の銀葉脈
 description: "アンスリウム・クラリネルビウムの基本情報、革質の厚い葉の特徴、メキシコ固有種の生態、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アンスリウム", "クラリネルビウム", "葉もの", "図鑑", "観葉植物"]
+tags: ["アンスリウム", "葉もの"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:

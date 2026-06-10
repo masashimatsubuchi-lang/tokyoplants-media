@@ -4,7 +4,7 @@ title: "観葉植物用の霧吹きおすすめ5選｜選び方のポイント"
 description: "観葉植物の葉水に最適な霧吹きの選び方とおすすめ5選。霧の細かさ、容量、デザイン性を比較して紹介します。"
 date: "2026-02-18"
 category: "review"
-tags: ["霧吹き", "観葉植物", "レビュー", "葉水", "おすすめ"]
+tags: ["霧吹き", "レビュー", "葉水", "おすすめ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/misting-effects-on-houseplants"

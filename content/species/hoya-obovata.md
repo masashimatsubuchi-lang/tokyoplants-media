@@ -5,11 +5,7 @@ description: "ホヤ・オボバタの育て方を詳しく解説。厚みのあ
 date: "2026-06-09"
 category: "species"
 tags:
-  - ホヤ オボバタ
-  - hoya obovata
   - ホヤ 育て方
-  - ホヤ 初心者
-  - 多肉質ホヤ
 author: "tokyoplants 編集部"
 genus: "hoya"
 relatedSlugs:

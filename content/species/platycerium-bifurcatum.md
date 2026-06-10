@@ -4,7 +4,7 @@ title: "ビカクシダ・ビフルカツム｜初心者向きな定番種の育
 description: "ビカクシダ・ビフルカツムの基本情報、胞子葉と貯水葉の特徴、板付け・鉢植えでの育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ビカクシダ", "ビフルカツム", "プラティセリウム", "図鑑", "着生植物"]
+tags: ["ビカクシダ", "プラティセリウム", "着生植物"]
 author: "tokyoplants 編集部"
 genus: "platycerium"
 relatedSlugs:

@@ -7,9 +7,6 @@ category: "species"
 genus: "philodendron"
 tags:
   - フィロデンドロン
-  - ロンギロバタム
-  - ミント斑入り
-  - Philodendron longilobatum
   - 斑入り
 author: "tokyoplants 編集部"
 relatedSlugs:

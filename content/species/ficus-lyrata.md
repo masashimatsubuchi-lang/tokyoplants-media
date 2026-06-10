@@ -6,9 +6,6 @@ date: '2026-06-09'
 category: species
 tags:
   - フィカス
-  - リラータ
-  - カシワバゴム
-  - 図鑑
   - インテリアグリーン
 author: tokyoplants 編集部
 genus: ficus

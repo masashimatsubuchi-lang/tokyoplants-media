@@ -4,7 +4,7 @@ title: "アロカシア・アマゾニカの育て方｜特徴と管理のコツ
 description: "アロカシア・アマゾニカ（ポリー）の基本情報、矢じり型の葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "アマゾニカ", "ポリー", "図鑑", "観葉植物"]
+tags: ["アロカシア"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

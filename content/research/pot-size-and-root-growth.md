@@ -4,7 +4,7 @@ title: "鉢サイズと根張りの関係｜大きすぎる鉢がNGな理由"
 description: "鉢サイズが観葉植物の根張りに与える影響を検証。大きすぎる鉢のリスクと、適切なサイズアップの目安を解説します。"
 date: "2026-02-18"
 category: "research"
-tags: ["鉢サイズ", "根張り", "植え替え", "観葉植物", "研究"]
+tags: ["植え替え", "研究"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/choosing-pot-size-for-repotting"

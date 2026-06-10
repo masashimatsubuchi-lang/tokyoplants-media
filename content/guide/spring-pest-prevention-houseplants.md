@@ -4,7 +4,7 @@ title: "春の害虫初動対策｜観葉植物版"
 description: "春に増えやすいコバエ・ハダニ・カイガラムシを初期段階で抑える管理手順。発生前に実施するチェック項目を解説します。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "春", "害虫対策", "ハダニ", "カイガラムシ"]
+tags: ["春", "害虫対策", "ハダニ", "カイガラムシ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/spider-mites-houseplants-control"

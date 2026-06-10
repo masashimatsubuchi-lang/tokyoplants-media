@@ -4,7 +4,7 @@ title: "冬の湿度管理と加湿器・除湿機の選び方"
 description: "観葉植物の冬管理で失敗しやすい乾燥と過湿を、加湿器と除湿機の選定・運用まで整理。カビを防ぐ実務目線で解説します。"
 date: "2026-02-24"
 category: "review"
-tags: ["加湿器", "除湿機", "湿度管理", "冬", "観葉植物", "レビュー"]
+tags: ["湿度管理", "冬", "レビュー"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/humidity-and-leaf-damage-thresholds"

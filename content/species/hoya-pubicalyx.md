@@ -4,7 +4,7 @@ title: "ホヤ・ピュービカリックス｜シルバースプラッシュと
 description: "ホヤ・ピュービカリックス（Hoya pubicalyx）の基本情報、銀色のスプラッシュ斑が入る葉の特徴、深紅〜黒に近い花の咲かせ方、育て方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ホヤ", "ピュービカリックス", "図鑑", "花", "着生植物"]
+tags: ["ホヤ", "花", "着生植物"]
 author: "tokyoplants 編集部"
 genus: "hoya"
 relatedSlugs:

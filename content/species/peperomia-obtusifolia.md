@@ -4,12 +4,7 @@ title: "ペペロミア・オブツシフォリアの育て方｜肉厚な艶葉
 description: "ペペロミア・オブツシフォリアの育て方を解説。ぷっくりとした肉厚の光沢ある葉が美しい、初心者でも育てやすい定番ペペロミア。光・水やり・斑入り品種の管理ポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - ペペロミア オブツシフォリア
-  - peperomia obtusifolia
-  - ペペロミア 育て方
-  - ペペロミア 初心者
-  - 観葉植物 肉厚
+tags: []
 author: "tokyoplants 編集部"
 genus: "peperomia"
 relatedSlugs:

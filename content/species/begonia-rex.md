@@ -4,7 +4,7 @@ title: "ベゴニア・レックス｜カラーリーフの王様｜育て方と
 description: "ベゴニア・レックス（Begonia rex）の基本情報、メタリックな葉色と複雑な模様の特徴、育て方・湿度管理・増やし方を図鑑形式で詳しく解説します。maculataとの違いも解説。"
 date: "2026-06-09"
 category: "species"
-tags: ["ベゴニア", "レックス", "カラーリーフ", "図鑑", "インテリアグリーン"]
+tags: ["ベゴニア", "カラーリーフ", "インテリアグリーン"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/begonia-maculata"

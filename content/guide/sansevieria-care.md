@@ -4,7 +4,7 @@ title: "サンスベリアの育て方｜枯れる原因と長く楽しむコツ
 description: "サンスベリアの水やり・置き場所・冬越し・増やし方を解説。「枯れない」と言われるサンスベリアが枯れる本当の原因も紹介。"
 date: "2026-02-18"
 category: "guide"
-tags: ["サンスベリア", "育て方", "観葉植物", "初心者"]
+tags: ["サンスベリア", "育て方", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/sansevieria"

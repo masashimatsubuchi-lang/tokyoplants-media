@@ -5,12 +5,8 @@ description: "観葉植物に軽い土を使うメリット・デメリットを
 date: "2026-06-06"
 category: "soil"
 tags:
-  - 軽い土
   - 観葉植物 土
-  - 土 配合
-  - ベランダ
   - 室内栽培
-  - 観葉植物
   - 用土
   - 初心者
 author: "tokyoplants 編集部"

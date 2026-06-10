@@ -7,9 +7,6 @@ category: species
 tags:
   - モンステラ
   - 斑入り
-  - バリエガタ
-  - アルボ
-  - 図鑑
   - コレクター
 author: tokyoplants 編集部
 genus: monstera

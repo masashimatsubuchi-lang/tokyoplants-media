@@ -4,7 +4,7 @@ title: "観葉植物向けサーキュレーター比較"
 description: "観葉植物向けサーキュレーターの選び方と比較ポイントを解説。風量、静音性、首振り、電気代の観点でレビューします。"
 date: "2026-02-17"
 category: "review"
-tags: ["サーキュレーター", "観葉植物", "レビュー", "風通し", "カビ対策"]
+tags: ["レビュー"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/mold-on-houseplant-soil"

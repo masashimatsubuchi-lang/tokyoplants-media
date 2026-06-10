@@ -4,7 +4,7 @@ title: "ガジュマルの育て方｜丸坊主剪定と気根の育て方"
 description: "ガジュマルの水やり・置き場所・剪定方法を初心者向けに解説。丸坊主剪定のやり方や、気根を太くするコツも紹介します。"
 date: "2026-02-18"
 category: "guide"
-tags: ["ガジュマル", "育て方", "観葉植物", "初心者"]
+tags: ["ガジュマル", "育て方", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

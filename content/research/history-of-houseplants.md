@@ -5,12 +5,7 @@ description: "なぜ私たちは室内に植物を飾るのか。古代ローマ
 date: "2026-06-08"
 category: "research"
 tags:
-  - 観葉植物 歴史
-  - プラントハンター
-  - ヴィクトリア朝
   - ボタニカル
-  - 植物 文化
-  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/houseplant-trivia-10-facts"

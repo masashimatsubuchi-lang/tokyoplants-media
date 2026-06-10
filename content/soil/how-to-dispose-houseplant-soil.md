@@ -5,12 +5,7 @@ description: "観葉植物の古い土の正しい捨て方を解説。燃える
 date: "2026-06-06"
 category: "soil"
 tags:
-  - 土の捨て方
-  - 観葉植物 土 処分
-  - 古い土
   - 植え替え
-  - ゴミ
-  - 観葉植物
   - 用土
 author: "tokyoplants 編集部"
 relatedSlugs:

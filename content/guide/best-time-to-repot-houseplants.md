@@ -4,7 +4,7 @@ title: "観葉植物の植え替え時期はいつ？｜月別カレンダーで
 description: "観葉植物の植え替えに最適な時期を月別カレンダーで解説。植え替えのベストシーズン、避けるべき時期、時期を問わず植え替えが必要なサインまでわかります。"
 date: "2026-02-17"
 category: "guide"
-tags: ["観葉植物", "植え替え", "時期", "カレンダー", "初心者"]
+tags: ["植え替え", "時期", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"

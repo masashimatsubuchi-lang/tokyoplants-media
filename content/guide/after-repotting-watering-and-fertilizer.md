@@ -4,7 +4,7 @@ title: "植え替え後の水やりと肥料｜いつから再開していい？
 description: "植え替え後の水やりと肥料の再開タイミングを解説。植え替え直後の過湿リスク、回復期の管理方法、肥料を与えすぎた場合のトラブル対処まで詳しく説明します。"
 date: "2026-06-05"
 category: "guide"
-tags: ["植え替え", "水やり", "肥料", "観葉植物", "植え替え後"]
+tags: ["植え替え", "水やり", "肥料"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"

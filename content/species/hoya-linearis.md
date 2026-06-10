@@ -4,12 +4,7 @@ title: "ホヤ・リネアリスの育て方｜ふわふわの細い葉が垂れ
 description: "ホヤ・リネアリスの育て方を詳しく解説。細くて毛深い葉が特徴的なヒマラヤ・中国雲南省原産のホヤ。涼しい環境を好む個性派品種の光・水やり・温度管理のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - ホヤ リネアリス
-  - hoya linearis
-  - ホヤ 細葉
-  - ホヤ 個性的
-  - 観葉植物 ユニーク
+tags: []
 author: "tokyoplants 編集部"
 genus: "hoya"
 relatedSlugs:

@@ -5,9 +5,6 @@ description: "アロカシア・クプレア（Red Secret）の育て方を詳�
 date: "2026-06-09"
 category: "species"
 tags:
-  - アロカシア クプレア
-  - レッドシークレット
-  - Red Secret
   - ジュエルアロカシア
   - アロカシア 育て方
 author: "tokyoplants 編集部"

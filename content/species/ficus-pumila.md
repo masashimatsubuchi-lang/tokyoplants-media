@@ -4,12 +4,7 @@ title: "フィカス・プミラの育て方｜壁や地面を這う小葉の着
 description: "フィカス・プミラ（クリーピングフィグ）の育て方を詳しく解説。壁面や石を這うように広がる小さな葉が可愛い着生フィカス。光・水やり・テラリウム管理のポイントを紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - フィカス プミラ
-  - クリーピングフィグ
-  - ficus pumila
-  - テラリウム植物
-  - フィカス 着生
+tags: []
 author: "tokyoplants 編集部"
 genus: "ficus"
 relatedSlugs:

@@ -4,7 +4,7 @@ title: "ゴムの木（フィカス・エラスティカ）｜育て方と品種
 description: "ゴムの木（Ficus elastica）の基本情報、バーガンディ・アビジャン・ティネケなど人気品種の特徴、水やり・剪定・植え替えの育て方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["ゴムの木", "フィカス", "エラスティカ", "図鑑", "初心者向け"]
+tags: ["ゴムの木", "フィカス", "初心者向け"]
 author: "tokyoplants 編集部"
 genus: "ficus"
 relatedSlugs:

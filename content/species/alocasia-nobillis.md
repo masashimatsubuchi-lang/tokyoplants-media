@@ -7,9 +7,6 @@ category: "species"
 genus: "alocasia"
 tags:
   - アロカシア
-  - ノビリス
-  - Alocasia nobillis
-  - 観葉植物
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/alocasia-zebrina"

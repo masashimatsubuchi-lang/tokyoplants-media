@@ -4,12 +4,7 @@ title: "シンゴニウム・ポドフィルムの育て方｜矢じり形の葉
 description: "シンゴニウム・ポドフィルムの育て方を詳しく解説。矢じり形の葉とさまざまな葉色バリエーションが人気の定番観葉植物。光・水やり・品種の選び方のポイントを初心者向けに紹介。"
 date: "2026-06-09"
 category: "species"
-tags:
-  - シンゴニウム
-  - syngonium podophyllum
-  - シンゴニウム 育て方
-  - 観葉植物 初心者
-  - 観葉植物 定番
+tags: []
 author: "tokyoplants 編集部"
 genus: "syngonium"
 relatedSlugs:

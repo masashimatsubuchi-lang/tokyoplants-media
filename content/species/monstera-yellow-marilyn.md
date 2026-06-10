@@ -7,9 +7,6 @@ category: "species"
 genus: "monstera"
 tags:
   - モンステラ
-  - イエローマリリン
-  - Yellow Marilyn
-  - イエロー斑入り
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:

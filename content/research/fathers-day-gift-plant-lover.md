@@ -5,7 +5,7 @@ description: "父の日に植物好きなお父さんへ贈るプレゼントを
 date: "2026-06-03"
 updated: "2026-06-06"
 category: "research"
-tags: ["父の日", "プレゼント", "ギフト", "植物好き", "タオル", "観葉植物"]
+tags: ["プレゼント", "ギフト", "植物好き", "タオル"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/daily-botanical-towel-review"

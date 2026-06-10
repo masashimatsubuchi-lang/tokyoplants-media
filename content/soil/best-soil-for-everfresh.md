@@ -4,7 +4,7 @@ title: "エバーフレッシュの土おすすめと配合レシピ｜繊細な
 description: "エバーフレッシュ 土 おすすめの選び方・配合レシピを徹底解説。マメ科の繊細な根を持つエバーフレッシュには適度な保水性と通気性を兼ねた土が必須。市販土ランキング・DIY配合比・植え替え手順まで完全網羅。"
 date: "2026-06-10"
 category: "soil"
-tags: ["エバーフレッシュ", "用土", "植え替え", "おすすめ", "根腐れ"]
+tags: ["用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"

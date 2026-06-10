@@ -4,7 +4,7 @@ title: "アロカシア・ブラックベルベット｜黒葉の小型種を育
 description: "アロカシア・ブラックベルベットの基本情報、漆黒のベルベット葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-06-09"
 category: "species"
-tags: ["アロカシア", "ブラックベルベット", "レギヌラ", "図鑑", "観葉植物"]
+tags: ["アロカシア"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:

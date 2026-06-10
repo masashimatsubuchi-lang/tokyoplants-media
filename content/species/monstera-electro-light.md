@@ -7,9 +7,6 @@ category: "species"
 genus: "monstera"
 tags:
   - モンステラ
-  - エレクトロライト
-  - Electro Light
-  - ライムグリーン
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:
