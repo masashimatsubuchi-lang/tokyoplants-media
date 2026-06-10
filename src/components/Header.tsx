@@ -18,6 +18,12 @@ export default function Header() {
               {cat.name}
             </Link>
           ))}
+          <Link
+            href="/tags"
+            className="text-gray-500 hover:text-gray-900 transition-colors"
+          >
+            タグ
+          </Link>
           <a
             href="https://www.instagram.com/tokyoplants_"
             target="_blank"
