@@ -6,27 +6,29 @@ type Props = { params: Promise<{ tag: string }> };
 
 export async function generateStaticParams() {
   const tags = getAllTags();
-  return tags.map((tag) => ({ tag }));
+  return tags.map((tag) => ({ tag: encodeURIComponent(tag) }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { tag } = await params;
+  const decoded = decodeURIComponent(tag);
   return {
-    title: `#${tag} の記事一覧 | tokyoplants MEDIA`,
-    description: `「${tag}」タグがついた観葉植物の記事をまとめています。`,
+    title: `#${decoded} の記事一覧 | tokyoplants MEDIA`,
+    description: `「${decoded}」タグがついた観葉植物の記事をまとめています。`,
   };
 }
 
 export default async function TagPage({ params }: Props) {
   const { tag } = await params;
-  const posts = getPostsByTag(tag);
+  const decoded = decodeURIComponent(tag);
+  const posts = getPostsByTag(decoded);
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-12 md:py-16">
       <header className="mb-10">
         <p className="text-[11px] font-semibold uppercase tracking-[0.15em] text-teal-700">Tag</p>
         <h1 className="mt-2 text-2xl md:text-3xl font-extrabold tracking-tight text-zinc-900">
-          #{tag}
+          #{decoded}
         </h1>
         <p className="mt-2 text-sm text-zinc-500">{posts.length}件の記事</p>
       </header>
