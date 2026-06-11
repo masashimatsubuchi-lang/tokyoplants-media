@@ -32,6 +32,21 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("Leather Botanical") || product.url.includes("/categories/7318231") || product.url.includes("/items/143263775");
   };
 
+  const addUtm = (url: string, campaign: string): string => {
+    const u = new URL(url);
+    u.searchParams.set("utm_source", "media");
+    u.searchParams.set("utm_medium", "article");
+    u.searchParams.set("utm_campaign", campaign);
+    return u.toString();
+  };
+
+  const getProductUrl = (product: BaseProduct): string => {
+    if (isSoilProduct(product)) return addUtm(product.url, "original-soil");
+    if (isHydroProduct(product)) return addUtm(product.url, "hydro-mineral");
+    if (isTowelProduct(product)) return addUtm(product.url, "botanical-towel");
+    return addUtm(product.url, "other");
+  };
+
   const getProductImage = (product: BaseProduct): string | undefined => {
     if (product.image) return product.image;
 
@@ -75,7 +90,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           return (
             <a
               key={product.url}
-              href={product.url}
+              href={getProductUrl(product)}
               target="_blank"
               rel="noopener noreferrer"
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
