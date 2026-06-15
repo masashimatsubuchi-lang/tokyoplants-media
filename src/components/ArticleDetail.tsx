@@ -179,7 +179,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 </a>
               </div>
               <Script src="https://cdn.lightwidget.com/widgets/lightwidget.js" strategy="afterInteractive" />
-              <iframe src="//lightwidget.com/widgets/0fafb7e258bd5178895ab034d0d46332.html" scrolling="no" className="lightwidget-widget" style={{width:"100%",border:0,overflow:"hidden",display:"block"}}></iframe>
+              <iframe src="https://cdn.lightwidget.com/widgets/0fafb7e258bd5178895ab034d0d46332.html" scrolling="no" className="lightwidget-widget" style={{width:"100%",border:0,overflow:"hidden",display:"block"}}></iframe>
             </div>
 
             {/* Related Posts */}
