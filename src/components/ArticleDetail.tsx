@@ -178,14 +178,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   @tokyoplants_
                 </a>
               </div>
-              {/* @ts-expect-error: behold-widget is a custom element */}
-              <behold-widget feed-id="bSzZ9HspWQL63I2d0INH"></behold-widget>
+              <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+              <iframe src="//lightwidget.com/widgets/0fafb7e258bd5178895ab034d0d46332.html" scrolling="no" allowTransparency={true} className="lightwidget-widget" style={{width:"100%",border:0,overflow:"hidden"}}></iframe>
             </div>
-            <Script
-              src="https://w.behold.so/widget.js"
-              type="module"
-              strategy="afterInteractive"
-            />
 
             {/* Related Posts */}
             <RelatedPosts posts={relatedPosts} title="関連記事" />

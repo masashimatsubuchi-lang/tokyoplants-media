@@ -321,10 +321,10 @@ export default function Home() {
               入荷情報・育て方のコツを発信中
             </p>
           </div>
-          {/* Behold Instagram feed */}
+          {/* LightWidget Instagram feed */}
           <div className="mt-8">
-            {/* @ts-expect-error: behold-widget is a custom element */}
-            <behold-widget feed-id="bSzZ9HspWQL63I2d0INH"></behold-widget>
+            <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+            <iframe src="//lightwidget.com/widgets/0fafb7e258bd5178895ab034d0d46332.html" scrolling="no" allowTransparency={true} className="lightwidget-widget" style={{width:"100%",border:0,overflow:"hidden"}}></iframe>
           </div>
           <div className="mt-8 text-center">
             <a
@@ -338,11 +338,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <Script
-        src="https://w.behold.so/widget.js"
-        type="module"
-        strategy="afterInteractive"
-      />
     </>
   );
 }
