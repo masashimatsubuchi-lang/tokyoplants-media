@@ -323,7 +323,7 @@ export default function Home() {
           </div>
           {/* LightWidget Instagram feed */}
           <div className="mt-8">
-            <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script>
+            <Script src="https://cdn.lightwidget.com/widgets/lightwidget.js" strategy="afterInteractive" />
             <iframe src="//lightwidget.com/widgets/0fafb7e258bd5178895ab034d0d46332.html" scrolling="no" allowTransparency={true} className="lightwidget-widget" style={{width:"100%",border:0,overflow:"hidden"}}></iframe>
           </div>
           <div className="mt-8 text-center">
