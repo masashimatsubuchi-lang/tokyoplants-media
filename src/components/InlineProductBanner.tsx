@@ -81,8 +81,10 @@ export default function InlineProductBanner({ products }: Props) {
   const primary = pickPrimary(products);
   if (!primary) return null;
 
-  const { product, meta } = primary;
+  const { product, type: productType, meta } = primary;
   const isSoldOut = product.price === "SOLD OUT";
+  const campaignMap: Record<string, string> = { soil: "original-soil", hydro: "hydro-mineral", towel: "botanical-towel" };
+  const productUrl = (() => { const u = new URL(product.url); u.searchParams.set("utm_source","media"); u.searchParams.set("utm_medium","article"); u.searchParams.set("utm_campaign", campaignMap[productType] ?? "other"); return u.toString(); })();
 
   return (
     <div className="not-prose my-8 rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-50 to-white p-1">
@@ -91,7 +93,7 @@ export default function InlineProductBanner({ products }: Props) {
       </p>
       <div className="mt-1 p-2">
         <a
-          href={(() => { const u = new URL(product.url); u.searchParams.set("utm_source","media"); u.searchParams.set("utm_medium","article"); u.searchParams.set("utm_campaign", type === "soil" ? "original-soil" : type === "hydro" ? "hydro-mineral" : type === "towel" ? "botanical-towel" : "other"); return u.toString(); })()}
+          href={productUrl}
           target="_blank"
           rel="noopener noreferrer"
           className={`group flex items-center gap-4 rounded-xl border bg-white px-4 py-3 transition-all ${
