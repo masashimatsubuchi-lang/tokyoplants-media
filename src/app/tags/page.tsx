@@ -5,6 +5,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "タグ一覧 | tokyoplants MEDIA",
   description: "観葉植物の記事をテーマ別タグで探せます。育て方・用土・ハイドロカルチャー・希少植物など。",
+  robots: { index: false, follow: false },
 };
 
 export default function TagsPage() {

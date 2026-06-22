@@ -14,6 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `#${tag} の記事一覧 | tokyoplants MEDIA`,
     description: `「${tag}」タグがついた観葉植物の記事をまとめています。`,
+    robots: { index: false, follow: false },
   };
 }
 
