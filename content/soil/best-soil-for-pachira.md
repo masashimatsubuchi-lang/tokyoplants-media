@@ -134,6 +134,15 @@ baseProducts:
 
 大きな鉢では粒を中粒にすることで、土の内部まで空気が届きやすくなります。
 
+### 配合素材をAmazonで購入する
+
+| 素材 | おすすめ商品 | リンク |
+|------|------------|--------|
+| 赤玉土（小粒） | あかぎ園芸 赤玉土 小粒 5L | [Amazon →](https://www.amazon.co.jp/dp/B00GTAZTHO?tag=tokyoplants0f-22) |
+| 日向石（小粒） | 日向土 小粒 18L | [Amazon →](https://www.amazon.co.jp/dp/B004OPG0X8?tag=tokyoplants0f-22) |
+| パーライト | パーライト 2.5L | [Amazon →](https://www.amazon.co.jp/dp/B07FHZ56MC?tag=tokyoplants0f-22) |
+| くん炭 | あかぎ園芸 くん炭 12L | [Amazon →](https://www.amazon.co.jp/dp/B00GTC2NGC?tag=tokyoplants0f-22) |
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | パキラへの効果 |

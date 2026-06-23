@@ -82,6 +82,8 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 コスパ最強クラス。棚1段に4本並べることで均一な光量を確保できます。ポトス・モンステラ・ウンベラータなど一般的な観葉植物に十分な光量。
 
+[Barrina T5 育成ライト 4本セットをAmazonで見る →](https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22)
+
 ### 3位：GooingTop LED育成ライト バータイプ
 
 - **PPFD**: 約220μmol/m²/s
@@ -92,7 +94,20 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 赤・青・白のトリプルスペクトルで成長と開花の両方に対応。タイマー機能付きで自動管理が可能。
 
-### 4位：アマテラス LED バータイプ 30W
+### 4位：HaruDesign BAR LIGHT L610（国産・高品質）
+
+- **PPFD（植物から30cm）**: 約300μmol/m²/s以上
+- **照射範囲**: 幅約61cm
+- **色温度**: Samsung LM281B+PRO使用（自然光に近い白色）
+- **演色性**: 高演色（コレクター向け）
+- **消費電力**: 36W
+- **価格**: 約10,000〜15,000円
+
+日本のプラントコレクター向けに設計された国産バータイプ。Samsung製チップ使用で光の質が高く、アロカシア・ビカクシダ・アンスリウムの本格栽培に対応。3年保証付き。
+
+[HaruDesign BAR LIGHT L610をAmazonで見る →](https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22)
+
+### 5位：アマテラス LED バータイプ 30W
 
 - **PPFD**: 約280μmol/m²/s（植物から20cm）
 - **照射範囲**: 幅60cm
@@ -138,6 +153,13 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 **点灯時間**
 - 観葉植物の一般的な目安: 12〜16時間/日
 - タイマー付きコンセントで自動管理すると便利
+
+## Amazonで買えるバータイプ育成ライト
+
+| 商品 | 特徴 | リンク |
+|------|------|--------|
+| Barrina T5 4本セット | コスパ重視・入門に最適 | [Amazon →](https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22) |
+| HaruDesign BAR LIGHT L610 | 国産・Samsung LED・高品質 | [Amazon →](https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22) |
 
 ## まとめ：予算別おすすめ
 
