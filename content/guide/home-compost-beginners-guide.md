@@ -1,7 +1,7 @@
 ---
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200&q=80"
 title: "コンポストの始め方｜家庭でできる生ごみ堆肥化の種類・選び方・使い方"
-description: "コンポストの始め方を初心者向けに解説。回転式・設置型・電動・EM菌発酵など種類別の特徴と選び方、堆肥の使い方まで。Amazonで揃えられるおすすめコンポストをまとめました。"
+description: "コンポストの始め方を初心者向けに解説。設置型・電動生ごみ処理機など種類別の特徴と選び方、堆肥の使い方まで。Amazonで揃えられるおすすめコンポストをまとめました。"
 date: "2026-06-26"
 category: "guide"
 tags: ["コンポスト", "堆肥", "生ごみ", "ガーデニング", "SDGs", "家庭菜園"]
@@ -15,108 +15,98 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "AKEMI LIVING 回転式コンポスター 160L 大容量"
-    asin: "B0D7GZ353J"
-    note: "360度回転・大容量160Lで効率よく堆肥化。庭・ベランダの屋外設置向け"
-    price: "¥8,000〜"
-  - title: "川端滝三郎商店 EMワーカー コンポスター 15L"
-    asin: "B0C885DH12"
-    note: "EM菌ぼかしと組み合わせて使う密閉発酵型。マンション・屋内でも使用可"
-    price: "¥3,000〜"
-  - title: "MATIMARU コンポスト発酵促進剤"
-    asin: "B0DJBN2F6S"
-    note: "善玉菌配合の発酵促進剤。生ごみの分解を早め、臭いを抑える"
-    price: "¥2,000〜"
-  - title: "コンポストバッグ 中型 ベランダ用"
-    asin: "B0CXX9PWDR"
-    note: "不織布素材のコンパクトなコンポスト容器。ベランダや庭に置きやすい"
-    price: "¥2,500〜"
+  - title: "アイリスオーヤマ エココンポスト IC-130 ブラック"
+    asin: "B00BOFZ1PE"
+    note: "★4.3・555件。ベストセラー4位。130L大容量・通気口付き設置型の定番"
+    price: "¥5,706〜"
+  - title: "Reencle Prime 家庭用 生ごみ処理機（ブラック）"
+    asin: "B0DG5Z2ZCN"
+    note: "★4.7・170件。バイオ×乾燥のハイブリッド式。全自動・強力脱臭・消音設計"
+    price: "¥110,000"
 ---
 
 生ごみを捨てるのではなく、植物の栄養になる堆肥に変える——それがコンポストです。家庭から出る生ごみの約30〜40%は堆肥化可能な有機物です。コンポストを使えば、ゴミを減らしながら植物に最高の肥料を自給できます。
 
 ## コンポストの種類と選び方
 
-コンポストには主に4つのタイプがあります。住環境と目的に合ったものを選ぶことが、長く続けるポイントです。
-
-### タイプ比較
+コンポストには主に2つのタイプがあります。住環境と予算に合ったものを選ぶことが、長く続けるポイントです。
 
 | タイプ | 設置場所 | 初期費用 | 堆肥化期間 | 臭い | 向いている人 |
 |--------|---------|---------|-----------|------|------------|
-| 回転式コンポスター | 屋外（庭・ベランダ） | 中 | 1〜3ヶ月 | 少ない | 庭がある・大量処理したい |
-| 設置型（箱型） | 屋外（庭） | 安い | 3〜6ヶ月 | あり | 庭がある・コスト重視 |
-| EM菌発酵型 | 室内・ベランダ可 | 安〜中 | 2週間〜（下処理）| 少ない | マンション・ベランダ |
-| 電動生ごみ処理機 | 室内 | 高い | 数時間 | ほぼなし | 手間を最小化したい |
+| 設置型（箱型） | 屋外（庭・ベランダ） | 安い | 3〜6ヶ月 | やや出る | 庭がある・コスト重視 |
+| 電動生ごみ処理機 | 室内・キッチン | 高い | 数時間〜1日 | ほぼなし | 手間を最小化・マンション向け |
 
 ---
 
-## 1. 回転式コンポスター（屋外向け・最もポピュラー）
+## 1. 設置型コンポスト（コスパ重視）
+
+### アイリスオーヤマ エココンポスト IC-130
 
 <div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0D7GZ353J&asins=B0D7GZ353J&show_border=false&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B00BOFZ1PE&asins=B00BOFZ1PE&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
-大容量160Lの回転式コンポスター。360度回転させて撹拌できるシンプルな構造で、庭やベランダに設置して連続して堆肥を作り続けられます。
+**★4.3（555件）・Amazonベストセラー4位・Prime対応**
+
+アイリスオーヤマの定番設置型コンポスト。容量130Lの大容量で、黒色が太陽熱を吸収して内部温度を上げ、発酵を促進する設計です。通気口付きで適度に空気が循環し、臭い漏れも抑えられます。
+
+**特徴**
+- 容量130L（幅約61×奥行約61×高さ約73cm）
+- 黒色ボディで太陽熱を集めて発酵促進
+- 通気口から適度に空気が循環
+- 底なし設計で土中の微生物が分解を助ける
 
 **使い方**
-1. 生ごみ（野菜くず・果皮・コーヒーかす）を投入
-2. 1日1〜2回、本体を回転させて撹拌
-3. 1〜3ヶ月で堆肥が完成
+1. 庭の地面に直接設置（底なし設計）
+2. 野菜くず・果皮・コーヒーかす・落ち葉を投入
+3. 時々混ぜながら3〜6ヶ月で堆肥完成
 
-**投入できるもの・できないもの**
+**投入OK・NG**
 
 | 投入OK | 投入NG |
 |--------|--------|
-| 野菜くず・果皮 | 肉・魚・乳製品（臭い・虫の原因） |
+| 野菜くず・果皮 | 肉・魚・乳製品 |
 | コーヒーかす・茶葉 | 油分が多いもの |
-| 卵の殻 | 病気の植物 |
-| 落ち葉・枯れ草 | プラスチック・ビニール |
+| 卵の殻・落ち葉 | 病気の植物・プラスチック |
 
 ---
 
-## 2. EM菌発酵型（マンション・ベランダ向け）
+## 2. 電動生ごみ処理機（マンション・時短重視）
+
+### Reencle Prime 家庭用生ごみ処理機
 
 <div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0C885DH12&asins=B0C885DH12&show_border=false&link_opens_in_new_window=true"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0DG5Z2ZCN&asins=B0DG5Z2ZCN&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
-EM菌（有用微生物群）を使った発酵型コンポスター。密閉構造で臭いが外に漏れにくいため、マンションのベランダや室内でも使いやすいのが特徴です。
+**★4.7（170件）・Prime対応・助成金対象**
 
-**使い方**
-1. 生ごみを投入後、EM菌ぼかし肥料をふりかける
-2. 密閉フタをして2週間〜1ヶ月発酵させる
-3. 発酵後の分解物を庭の土に混ぜ込むか、土壌改良剤として使用
+バイオ式×乾燥式のハイブリッド設計で、生ごみを数時間〜1日で堆肥化。キッチンに置ける全自動タイプで、臭いをほぼ完全に遮断します。騒音25dB以下（冷蔵庫以下）の静音設計でマンションにも最適。**自治体によっては購入補助金（助成金）の対象**になるため、購入前に確認することをおすすめします。
 
-生ごみが消えるわけではなく「前処理（ぼかし化）」する段階なので、最終的に庭や花壇の土に混ぜる工程が必要です。
+**特徴**
+- バイオ式×乾燥式ハイブリッドで高効率処理
+- 最大処理量1.7kg/日
+- 4層脱臭システム（バイオフレーク・イオン酸化触媒・活性炭・UV-C）
+- 消費電力52W（乾燥式の1/3）
+- サイズ：30.5×38×46.7cm
 
----
+**設置型との比較**
 
-## 3. 発酵促進剤を使う
-
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0DJBN2F6S&asins=B0DJBN2F6S&show_border=false&link_opens_in_new_window=true"></iframe>
-</div>
-
-善玉菌配合の発酵促進剤を生ごみや既存のコンポストに加えることで、分解速度が上がり、臭いも抑えられます。回転式コンポスターと組み合わせて使うと特に効果的です。
-
----
-
-## 4. コンポストバッグ（手軽に始める）
-
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0CXX9PWDR&asins=B0CXX9PWDR&show_border=false&link_opens_in_new_window=true"></iframe>
-</div>
-
-不織布素材の軽量バッグ型コンポスト。組み立て不要で置くだけ。初めてコンポストを試したい方や、ベランダに手軽に設置したい方に向いています。
+| 項目 | アイリスオーヤマ IC-130 | Reencle Prime |
+|------|----------------------|---------------|
+| 価格 | ¥5,706 | ¥110,000 |
+| 設置場所 | 屋外（庭） | 室内・キッチン |
+| 処理時間 | 3〜6ヶ月 | 数時間〜1日 |
+| 臭い | やや出る | ほぼなし |
+| 手間 | 混ぜる作業が必要 | 全自動 |
+| 向いている人 | 庭がある・コスト重視 | マンション・時短重視 |
 
 ---
 
 ## できた堆肥の使い方
 
-コンポストで完成した堆肥は、最高の有機肥料です。
-
 **完成の目安**
-- 黒〜茶色でほぐれやすい土状になっている
+- 黒〜茶色でほぐれやすい土状
 - 嫌な臭いがなく、土の香りがする
 - 元の生ごみの形がわからなくなっている
 
@@ -142,10 +132,9 @@ EM菌（有用微生物群）を使った発酵型コンポスター。密閉構
 
 ## まとめ：環境別おすすめ
 
-| 住環境 | おすすめタイプ | 商品 |
-|--------|-------------|------|
-| 一戸建て・庭あり | 回転式コンポスター | AKEMI LIVING 回転式コンポスター 160L |
-| マンション・ベランダあり | EM菌発酵型 | EMワーカー / コンポストバッグ |
-| どのタイプにも | 発酵促進剤を追加 | MATIMARU 発酵促進剤 |
+| 住環境 | おすすめ | 商品 |
+|--------|---------|------|
+| 一戸建て・庭あり・コスト重視 | 設置型コンポスト | アイリスオーヤマ IC-130（¥5,706） |
+| マンション・時短・手間なし重視 | 電動生ごみ処理機 | Reencle Prime（¥110,000） |
 
-コンポストは最初の1〜2ヶ月が慣れるまで大変ですが、一度軌道に乗れば生ごみが堆肥に変わる喜びが続きます。まずは小さいバッグ型か、EM菌発酵型から試してみるのがおすすめです。
+コンポストは最初の1〜2ヶ月が慣れるまで大変ですが、一度軌道に乗れば生ごみが堆肥に変わる喜びが続きます。電動タイプは高額ですが、自治体の助成金で実質負担を下げられるケースもあります。
