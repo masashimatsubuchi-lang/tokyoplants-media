@@ -108,7 +108,19 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 )}
                 {post.author && <span>by {post.author}</span>}
               </div>
-              {/* Tags hidden temporarily */}
+              {post.tags && post.tags.length > 0 && (
+                <div className="mt-4 flex flex-wrap gap-2">
+                  {post.tags.map((tag) => (
+                    <Link
+                      key={tag}
+                      href={`/tag/${encodeURIComponent(tag)}`}
+                      className="inline-flex items-center gap-0.5 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-[12px] font-medium text-gray-600 transition-all hover:border-teal-400 hover:bg-teal-50 hover:text-teal-800"
+                    >
+                      <span className="text-teal-500">#</span>{tag}
+                    </Link>
+                  ))}
+                </div>
+              )}
             </header>
 
             {/* Species Pills for Genus Pages */}
