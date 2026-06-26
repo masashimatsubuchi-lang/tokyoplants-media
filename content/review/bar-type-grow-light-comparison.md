@@ -15,6 +15,15 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "Barrina T5 育成ライト 4本セット（2ft・フルスペクトル）"
+    asin: "B0814LNBHH"
+    note: "コスパ重視の入門モデル。棚1段に4本並べで均一照射"
+    price: "¥4,000〜"
+  - title: "HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）"
+    asin: "B0DCFSQP9F"
+    note: "国産・Samsung製LEDチップ使用。高品質で3年保証付き"
+    price: "¥10,000〜"
 ---
 
 植物育成ライトを選ぶとき「バータイプとスポットタイプ、どちらがいい？」と迷う方は多いです。結論からいうと、**複数の植物をまとめて照らしたい・棚やラックで管理したい場合はバータイプが圧倒的に向いています。**
@@ -82,7 +91,6 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 コスパ最強クラス。棚1段に4本並べることで均一な光量を確保できます。ポトス・モンステラ・ウンベラータなど一般的な観葉植物に十分な光量。
 
-[Barrina T5 育成ライト 4本セットをAmazonで見る →](https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22)
 
 ### 3位：GooingTop LED育成ライト バータイプ
 
@@ -105,7 +113,6 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 日本のプラントコレクター向けに設計された国産バータイプ。Samsung製チップ使用で光の質が高く、アロカシア・ビカクシダ・アンスリウムの本格栽培に対応。3年保証付き。
 
-[HaruDesign BAR LIGHT L610をAmazonで見る →](https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22)
 
 ### 5位：アマテラス LED バータイプ 30W
 
@@ -153,13 +160,6 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 **点灯時間**
 - 観葉植物の一般的な目安: 12〜16時間/日
 - タイマー付きコンセントで自動管理すると便利
-
-## Amazonで買えるバータイプ育成ライト
-
-| 商品 | 特徴 | リンク |
-|------|------|--------|
-| Barrina T5 4本セット | コスパ重視・入門に最適 | [Amazon →](https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22) |
-| HaruDesign BAR LIGHT L610 | 国産・Samsung LED・高品質 | [Amazon →](https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22) |
 
 ## まとめ：予算別おすすめ
 

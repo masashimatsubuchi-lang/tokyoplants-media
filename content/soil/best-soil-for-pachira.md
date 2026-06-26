@@ -20,6 +20,19 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
+amazonProducts:
+  - title: "あかぎ園芸 赤玉土 小粒 5L"
+    asin: "B00GTAZTHO"
+    note: "配合の基本。小粒タイプが観葉植物に最適"
+  - title: "日向土 小粒 18L（所沢植木鉢センター）"
+    asin: "B004OPG0X8"
+    note: "水はけ強化に。パキラの根腐れを防ぐ定番素材"
+  - title: "パーライト 2.5L（苗木部）"
+    asin: "B07FHZ56MC"
+    note: "通気性と保水性のバランスを調整"
+  - title: "あかぎ園芸 くん炭 12L"
+    asin: "B00GTC2NGC"
+    note: "土壌改善・抗菌効果。根腐れしにくい土づくりに"
 ---
 
 パキラは「丈夫で枯れにくい」と言われますが、土選びを間違えると簡単に根腐れします。特にパキラは幹に水分を蓄える性質があるため、土が過湿になると根が最初にダメージを受けます。
@@ -133,15 +146,6 @@ baseProducts:
 ```
 
 大きな鉢では粒を中粒にすることで、土の内部まで空気が届きやすくなります。
-
-### 配合素材をAmazonで購入する
-
-| 素材 | おすすめ商品 | リンク |
-|------|------------|--------|
-| 赤玉土（小粒） | あかぎ園芸 赤玉土 小粒 5L | [Amazon →](https://www.amazon.co.jp/dp/B00GTAZTHO?tag=tokyoplants0f-22) |
-| 日向石（小粒） | 日向土 小粒 18L | [Amazon →](https://www.amazon.co.jp/dp/B004OPG0X8?tag=tokyoplants0f-22) |
-| パーライト | パーライト 2.5L | [Amazon →](https://www.amazon.co.jp/dp/B07FHZ56MC?tag=tokyoplants0f-22) |
-| くん炭 | あかぎ園芸 くん炭 12L | [Amazon →](https://www.amazon.co.jp/dp/B00GTC2NGC?tag=tokyoplants0f-22) |
 
 ### 配合素材の役割まとめ
 
