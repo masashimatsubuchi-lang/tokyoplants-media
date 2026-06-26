@@ -109,6 +109,16 @@ amazonProducts:
 
 **向いている人**: 日本メーカーへの信頼を重視し、コンパクトな機種を探している方
 
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B087F3CCG5?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B087F3CCG5.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">島産業 パリパリキュー PPC-11</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ---
 
 ### ② loofen（ルーフェン）
@@ -137,6 +147,16 @@ amazonProducts:
 
 **向いている人**: 毎日少量ずつ処理したい方、静音性を重視する方
 
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B09ZXKCBL8?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B09ZXKCBL8.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">loofen ルーフェン 生ごみ処理機</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ---
 
 ### ③ パナソニック MS-N53XD
@@ -164,6 +184,16 @@ amazonProducts:
 - 価格帯がやや高め
 
 **向いている人**: 大家族・臭い問題を最重視する方、アフターサポートを重視する方
+
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B08G89DTF7?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B08G89DTF7.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">パナソニック 家庭用生ごみ処理機 MS-N53XD-S</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
 
 ---
 
@@ -195,6 +225,16 @@ amazonProducts:
 
 **向いている人**: ランニングコストを長期で抑えたい方、本格的な堆肥生産を目指す方
 
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B0DG5Z2ZCN?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0DG5Z2ZCN.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">Reencle Prime 家庭用 生ごみ処理機</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ---
 
 ### ⑤ アイリスオーヤマ エcocコンポスト IC-130
@@ -222,6 +262,16 @@ amazonProducts:
 - 臭いと虫の管理が必要
 
 **向いている人**: 庭のある戸建て住宅で、時間をかけて本格的な堆肥を作りたい方
+
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B00BOFZ1PE?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00BOFZ1PE.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">アイリスオーヤマ エcocコンポスト IC-130</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
 
 ---
 
