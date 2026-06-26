@@ -183,14 +183,8 @@ BARRELが開発した植物育成ライトの上位モデル。PPFDが20Wクラ�
 
 **注意点**: 照射範囲が狭く集中的、別途E26ソケット・スタンドが必要、色温度がやや高い
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0BXPKS4S7?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/51r6l+Jzg5L._AC_SL1000_.jpg" alt="BARREL NEO AMATERAS LED 20W" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BARREL NEO AMATERAS LED 20W</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0BXPKS4S7&amp;asins=B0BXPKS4S7&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ### 2. BARREL TSUKUYOMI LED 20W（電球型）
@@ -205,14 +199,8 @@ PPFDはAMATERASにわずかに劣るが、20Wクラスとしては十分に高�
 
 **注意点**: AMATERASに比べ徒長抑制効果はやや穏やか、別途E26ソケット・スタンドが必要
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0BZM6X9GW?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/51ztqTqwsGS._AC_SL1000_.jpg" alt="BARREL NEO TSUKUYOMI LED 20W" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BARREL NEO TSUKUYOMI LED 20W</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0BZM6X9GW&amp;asins=B0BZM6X9GW&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ### 3. BRIM SOL 24W（クリップ式）
@@ -225,14 +213,8 @@ BRIM社のクリップ式育成ライト。24Wの出力でフルスペクトルL
 
 **注意点**: パネル型ほどの照射範囲はない、クリップの挟める厚さに制限あり
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0B3M47RQJ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL1500_.jpg" alt="BRIM SOL 24W" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM SOL 24W 植物育成ライト</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0B3M47RQJ&amp;asins=B0B3M47RQJ&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ### 4. BRIM FLORA クリップ式 植物育成ライト（クリップ式）
@@ -245,14 +227,8 @@ BRIM SOLと同シリーズのエントリーモデル。調光機能とタイマ
 
 **注意点**: PPFDは上位モデルに劣る、高光量種の主光源としては力不足の場合がある
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CLD6QSDD?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL1500_.jpg" alt="BRIM FLORA クリップ式" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM FLORA クリップ式 植物育成ライト</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0CLD6QSDD&amp;asins=B0CLD6QSDD&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ### 5. BRIM PANEL A パネル型 植物育成ライト（パネル型）
@@ -265,14 +241,8 @@ BRIM社のパネル型育成ライト。面発光で広範囲を均一に照射�
 
 **注意点**: 吊り下げ金具やフックの設置が必要、本体サイズがある程度大きい
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CP4BVWMN?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL1500_.jpg" alt="BRIM PANEL A" width="100" height="100" style="border-radius:0.75rem;object-fit:contain;background:#fff;flex-shrink:0" loading="lazy" />
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM PANEL A 植物育成パネルライト</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0CP4BVWMN&amp;asins=B0CP4BVWMN&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---

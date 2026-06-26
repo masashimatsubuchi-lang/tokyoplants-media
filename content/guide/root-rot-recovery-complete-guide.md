@@ -75,10 +75,8 @@ amazonProducts:
 - 清潔なハサミまたはカッター（アルコール消毒済み）
 - 新聞紙またはビニールシート
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0BG2QB482?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">剪定ハサミ SK5高炭素鋼（フッ素コーティング）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0BG2QB482&asins=B0BG2QB482&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 腐った根（茶色〜黒色・柔らかい部分）をすべて切り取ります。

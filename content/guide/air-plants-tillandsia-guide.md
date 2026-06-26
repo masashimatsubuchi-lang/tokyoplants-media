@@ -65,10 +65,8 @@ amazonProducts:
 
 **① ミスト法（日常の水やり）**
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0C36L68YC?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">霧吹き スプレーボトル 極細ミスト 300ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0C36L68YC&asins=B0C36L68YC&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 週2〜3回、葉全体が濡れるようにミスト。霧吹きは極細ミストタイプが葉全体に均一に水が届くためおすすめです。
@@ -91,30 +89,24 @@ amazonProducts:
 
 ### 入門セット
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CQ754CWP?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">エアプランツ おまかせ5種類セット（チランジア）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0CQ754CWP&asins=B0CQ754CWP&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 複数の品種を一度に試せるセット。どの品種が自分の環境に向いているか試すのに最適です。コットンキャンディー・スパニッシュモスなど人気品種が入っています。
 
 ### チランジア ウスネオイデス（スパニッシュモス）
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B005O25U4U?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">チランジア ウスネオイデス（スパニッシュモス）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B005O25U4U&asins=B005O25U4U&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 銀白色の糸状の葉が絡み合いながら垂れ下がる、インテリア性の高い品種。画鋲1つで壁に掛けるだけで部屋の雰囲気が変わります。ボタニカルなインテリアのアクセントとして最も人気が高い品種のひとつです。
 
 ### チランジア カプトメデューサ
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0DSKBMDN5?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">エアプランツ チランジア カプトメデューサ</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0DSKBMDN5&asins=B0DSKBMDN5&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 タコの足のようなユニークな形が特徴。丈夫で育てやすく、エアプランツ入門の定番品種です。ガラス容器や流木に乗せて飾るとよく映えます。

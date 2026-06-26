@@ -82,10 +82,8 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 日本のプラントコレクター向けに設計された国産バータイプ。Samsung製チップ使用で光の質が高く、アロカシア・ビカクシダ・アンスリウムの本格栽培に対応。コンパクトな棚育成から本格ラック環境まで使いやすい。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0DCFSQP9F&asins=B0DCFSQP9F&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 ### 2位：Barrina T5 育成ライト 4本セット
@@ -99,10 +97,8 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 コスパ最強クラス。棚1段に4本並べることで均一な光量を確保できます。ポトス・モンステラ・ウンベラータなど一般的な観葉植物への補光入門に最適。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Barrina T5 育成ライト 4本セット（2ft・フルスペクトル）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0814LNBHH&asins=B0814LNBHH&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 ## 専門店・直販モデル（参考）

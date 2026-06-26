@@ -64,10 +64,8 @@ amazonProducts:
 
 ### スリット鉢（必須）
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B08CXX4B4X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ITANSE スリット鉢 6号（18cm）ブラック 5個セット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B08CXX4B4X&asins=B08CXX4B4X&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 排水性・通気性・軽さのバランスが優れた定番鉢。インテリア性より植物の健康を優先するならこれ一択です。詳しくは **[観葉植物の鉢おすすめ7選](/review/recommended-pots-for-houseplants)** を参照。
@@ -76,10 +74,8 @@ amazonProducts:
 
 ### 室内用ジョウロ
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B000UPVBQM?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">HAWS ヘリテイジカン 1L（室内用ジョウロ）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B000UPVBQM&asins=B000UPVBQM&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 英国老舗ブランドの室内用ジョウロ。細口ノズルで根元に正確に水を届けられます。デザインも良く、室内に置いても違和感なし。
@@ -88,10 +84,8 @@ amazonProducts:
 
 ### 液体肥料（即効性）
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0027WPD7O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス原液 800ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0027WPD7O&asins=B0027WPD7O&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 水やり時に希釈して使う液体肥料の定番。成長期（春〜秋）に2週間に1回程度施します。即効性があり、成長促進効果が実感しやすい。
@@ -100,10 +94,8 @@ amazonProducts:
 
 ### オルトランDX（予防・駆除）
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B004MK7RW8?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25ún;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">住友化学園芸 オルトランDX粒剤 200g</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B004MK7RW8&asins=B004MK7RW8&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 土に混ぜるだけで植物全体に浸透し、害虫を予防・駆除。植え替え時に土へ混ぜ込んでおくと長期間効果が続きます。詳しくは **[観葉植物の虫対策グッズ](/guide/houseplant-pest-control-tools)** を参照。
@@ -112,20 +104,16 @@ amazonProducts:
 
 ### 温湿度計
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B07L4QNZVF?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">SwitchBot 温湿度計</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B07L4QNZVF&asins=B07L4QNZVF&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 スマホで温湿度をリモート監視できます。観葉植物に適した湿度（40〜60%）・温度（18〜28℃）を管理するのに役立ちます。
 
 ### サーキュレーター
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D9896MPY?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">SwitchBot サーキュレーター Lite</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0D9896MPY&asins=B0D9896MPY&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 風通しを確保することで蒸れ・病害虫の予防になります。静音設計でスマートホームと連携可能。
@@ -134,10 +122,8 @@ amazonProducts:
 
 ### 本格派向け：NEO AMATERAS LED
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0BXPKS4S7?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BARREL NEO AMATERAS LED 20W 植物育成ライト</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0BXPKS4S7&asins=B0BXPKS4S7&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 演色性Ra97・高PPFD。植物の葉色・ベルベット感を美しく引き出す最上位モデル。他のモデルとの比較は **[育成ライトおすすめレビュー](/review/plant-light-review)** で詳しく解説しています。

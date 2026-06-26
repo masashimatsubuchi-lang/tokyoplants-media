@@ -40,15 +40,8 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 
 **こんな人に向く**: 観葉植物を幅広く収集している・品種同定に使いたい・体系的な育て方の参考書が欲しい
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/4141993379?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:11px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">NHK<br>観葉植物<br>パーフェクト<br>ブック</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">NHK趣味の園芸 観葉植物 パーフェクトブック</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">杉山 拓巳 著｜NHK出版</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=4141993379&amp;asins=4141993379&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -63,15 +56,8 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 
 **こんな人に向く**: ビザールプランツに興味を持ちはじめた・コレクターの世界観を知りたい・南アフリカ植物・塊根植物に興味がある
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/453721693X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:11px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">珍奇植物<br>ビザール<br>プランツと<br>生きる</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">珍奇植物 ビザールプランツと生きる</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">藤原 連太郎・shabomaniac! 著</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=453721693X&amp;asins=453721693X&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -84,15 +70,8 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 
 **こんな人に向く**: 塊根植物・アガベ・ビカクシダを複数種集めている・品種同定に使いたい・図鑑として手元に置きたい
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/4074383705?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:11px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">ビザール<br>プランツ<br>主婦の<br>友社</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ビザールプランツ — 灌木系塊根植物からアガベ、ビカクシダまで</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">主婦の友社</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=4074383705&amp;asins=4074383705&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -105,15 +84,8 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 
 **こんな人に向く**: コーデックス（塊根植物）専門のコレクター・グラキリスやパキプスを複数株管理している・栽培の詳細情報が欲しい
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/4074343711?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rzym;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:11px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">多肉植物<br>&<br>コーデックス<br>GuideBook</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">多肉植物&コーデックスGuideBook</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">主婦の友社</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=4074343711&amp;asins=4074343711&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -130,15 +102,8 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 
 **こんな人に向く**: 育て方の基礎を改めて確認したい・品種数より各種の丁寧な解説を重視したい
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/4528024233?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:11px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">決定版<br>よくわかる<br>観葉植物</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">決定版 よくわかる観葉植物</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">佐藤 桃子 著</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=4528024233&amp;asins=4528024233&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---

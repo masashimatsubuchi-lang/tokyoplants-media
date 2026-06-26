@@ -52,10 +52,8 @@ amazonProducts:
 
 ## 1. 回転式コンポスター（屋外向け・最もポピュラー）
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D7GZ353J?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">AKEMI LIVING 回転式コンポスター 160L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0D7GZ353J&asins=B0D7GZ353J&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 大容量160Lの回転式コンポスター。360度回転させて撹拌できるシンプルな構造で、庭やベランダに設置して連続して堆肥を作り続けられます。
@@ -78,10 +76,8 @@ amazonProducts:
 
 ## 2. EM菌発酵型（マンション・ベランダ向け）
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0C885DH12?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">川端滝三郎商店 EMワーカー コンポスター 15L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0C885DH12&asins=B0C885DH12&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 EM菌（有用微生物群）を使った発酵型コンポスター。密閉構造で臭いが外に漏れにくいため、マンションのベランダや室内でも使いやすいのが特徴です。
@@ -97,10 +93,8 @@ EM菌（有用微生物群）を使った発酵型コンポスター。密閉構
 
 ## 3. 発酵促進剤を使う
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0DJBN2F6S?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">MATIMARU コンポスト発酵促進剤</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0DJBN2F6S&asins=B0DJBN2F6S&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 善玉菌配合の発酵促進剤を生ごみや既存のコンポストに加えることで、分解速度が上がり、臭いも抑えられます。回転式コンポスターと組み合わせて使うと特に効果的です。
@@ -109,10 +103,8 @@ EM菌（有用微生物群）を使った発酵型コンポスター。密閉構
 
 ## 4. コンポストバッグ（手軽に始める）
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CXX9PWDR?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">コンポストバッグ 中型 ベランダ用</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0CXX9PWDR&asins=B0CXX9PWDR&show_border=false&link_opens_in_new_window=true"></iframe>
 </div>
 
 不織布素材の軽量バッグ型コンポスト。組み立て不要で置くだけ。初めてコンポストを試したい方や、ベランダに手軽に設置したい方に向いています。

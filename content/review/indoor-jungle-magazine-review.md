@@ -47,15 +47,8 @@ baseProducts:
 
 アガベコレクターにとっては「タイタノタ辞典」として機能する内容で、品種同定・選び方の基準を学ぶ上でも参考になります。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CHCV7P4W?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:12px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">INDOOR<br>JUNGLE<br>No.01</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">INDOOR JUNGLE No.01｜アガベ タイタノタ</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">エムピージェー（MPJ）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0CHCV7P4W&amp;asins=B0CHCV7P4W&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -66,15 +59,8 @@ baseProducts:
 
 ビカクシダに魅了されはじめたばかりの人にとっても、「コレクターの世界観」を知る入門として最適です。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CSF5T2DB?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:12px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">INDOOR<br>JUNGLE<br>No.02</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">INDOOR JUNGLE No.02｜ビカクシダ現象</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">エムピージェー（MPJ）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0CSF5T2DB&amp;asins=B0CSF5T2DB&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -85,15 +71,8 @@ baseProducts:
 
 「パキプスとグラキリスを極めたい」というコレクターにとって、これほど深く掘り下げた日本語資料は他にほとんど存在しません。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D6BVFJ8X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:12px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">INDOOR<br>JUNGLE<br>No.03</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">INDOOR JUNGLE No.03｜目覚めよパキプス、咲けよグラキリス</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">エムピージェー（MPJ）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0D6BVFJ8X&amp;asins=B0D6BVFJ8X&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -104,15 +83,8 @@ No.01に続くアガベ特集の第二弾。タイタノタ以外の品種群や
 
 品種の流行がどう変遷しているかを追うことができ、コレクターとしての目を養うのにも役立ちます。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0DNTRM17L?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:12px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">INDOOR<br>JUNGLE<br>No.04</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">INDOOR JUNGLE No.04｜アガベ ニューオーダー</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">エムピージェー（MPJ）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0DNTRM17L&amp;asins=B0DNTRM17L&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -123,15 +95,8 @@ No.01に続くアガベ特集の第二弾。タイタノタ以外の品種群や
 
 日本では入手困難な種を含む情報が多く、「南アフリカ植物の世界を体系的に知りたい」というコレクターにとって希少な情報源です。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0DXQHTVYJ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:12px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">INDOOR<br>JUNGLE<br>No.05</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">INDOOR JUNGLE No.05｜南アフリカ・ビザールプランツ</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">エムピージェー（MPJ）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0DXQHTVYJ&amp;asins=B0DXQHTVYJ&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
@@ -142,15 +107,8 @@ No.02から進化したビカクシダ特集の第二弾。単なる育て方に
 
 「ビカクシダを育てる」から「ビカクシダで表現する」という次のステージを覗ける一冊です。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0FB4XTN6V?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<span style="display:flex;align-items:center;justify-content:center;width:100px;height:100px;border-radius:0.75rem;background:#fffbeb;flex-shrink:0;font-size:12px;font-weight:700;color:#92400e;text-align:center;line-height:1.4">INDOOR<br>JUNGLE<br>No.06</span>
-<div>
-<p style="margin:0;font-weight:700;font-size:15px;color:#92400e">INDOOR JUNGLE No.06｜ビカクシダ、新表現の胎動</p>
-<p style="margin:4px 0 0;font-size:13px;color:#78716c">エムピージェー（MPJ）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p>
-</div>
-</a>
+<div style="margin:1.5rem 0">
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0FB4XTN6V&amp;asins=B0FB4XTN6V&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
 </div>
 
 ---
