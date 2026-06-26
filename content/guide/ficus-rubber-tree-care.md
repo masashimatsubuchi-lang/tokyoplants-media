@@ -128,7 +128,27 @@ amazonProducts:
 
 **液体肥料**（ハイポネックス専用液肥 観葉植物用）: 水で500〜1000倍に希釈し、水やりの代わりに月2〜3回施用。窒素(N)分が高い観葉植物専用タイプが葉色の維持に効果的。
 
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B07ZTM6H4H?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B07ZTM6H4H.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ハイポネックス 専用液肥 観葉植物用 450ml</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 **錠剤肥料**（置き肥）: 土の表面に置くだけの緩効性タイプ。成分がゆっくり溶け出すため過肥料になりにくく、多忙な方に向いています。1〜2ヶ月おきに入れ替えます。
+
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B006LWGFBO?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B006LWGFBO.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ハイポネックス 錠剤肥料 観葉植物用 約70錠</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
 
 ---
 
@@ -177,6 +197,16 @@ amazonProducts:
 
 鉢サイズは現在より**1〜2号（直径3〜6cm）大きいもの**を選んでください。大きすぎると土の乾きが遅くなり、根腐れリスクが高まります。
 
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B08CXB5KTH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B08CXB5KTH.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ITANSE スリット鉢 7号 3個セット</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ### 用土の選び方
 
 ゴムの木に適した用土の条件：
@@ -200,9 +230,29 @@ amazonProducts:
 
 茎や葉の裏に白い綿状、または茶色い突起として発見されます。歯ブラシやアルコールを含ませた綿棒で除去。予防にはオルトランDX（浸透移行性殺虫剤）を土にまいておく方法が有効です。土から根が吸収し、葉全体に成分が行き渡ります。
 
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B004MK7RW8?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B004MK7RW8.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">住友化学園芸 オルトランDX粒剤 200g</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
 ### 根腐れ
 
 葉が黄色くなり下葉から落ちる場合、根腐れを疑ってください。土から抜いて根を確認し、黒く腐った根は清潔なハサミで除去。殺菌剤（ベンレート水和剤）の希釈液に根をくぐらせてから、新しい土に植え替えます。
+
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B0027WRLLK?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0027WRLLK.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">住友化学園芸 GFベンレート水和剤 0.5g×10包</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
 
 ---
 
