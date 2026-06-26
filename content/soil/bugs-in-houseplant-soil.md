@@ -17,6 +17,15 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
+amazonProducts:
+  - title: "住友化学園芸 オルトランDX粒剤 200g"
+    asin: "B004MK7RW8"
+    note: "土に混ぜるだけで浸透移行性。アブラムシ・カイガラムシ・コナジラミに"
+    price: "¥560〜"
+  - title: "コバエ取り 粘着シート 24枚入り"
+    asin: "B0C1VSHDFW"
+    note: "土挿しタイプ。コバエを物理的に捕獲"
+    price: "¥500〜"
 ---
 
 観葉植物の鉢から小さな虫が飛び出す。室内で植物を育てている人なら、一度は経験したことがあるのではないでしょうか。結論から言えば、虫が湧く原因のほとんどは「土」にあります。土の選び方と管理方法を変えるだけで、虫の悩みは大幅に減らせます。
@@ -79,7 +88,19 @@ baseProducts:
 
 ### 薬剤を使う場合
 
-オルトラン粒剤を土に混ぜるか、ダントツ水溶剤を希釈して灌注する方法があります。ただし室内で使う場合は換気を十分に行ってください。薬剤に頼る前に、まず土と水やりの見直しを行うのが先決です。
+オルトラン粒剤を土に混ぜるか、ダントツ水溶剤を希釈して灌注する方法があります。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B004MK7RW8?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">住友化学園芸 オルトランDX粒剤 200g</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0C1VSHDFW?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">コバエ取り 粘着シート 24枚入り</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>ただし室内で使う場合は換気を十分に行ってください。薬剤に頼る前に、まず土と水やりの見直しを行うのが先決です。
 
 ---
 

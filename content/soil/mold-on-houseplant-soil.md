@@ -20,6 +20,15 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
+amazonProducts:
+  - title: "住友化学園芸 ベニカXガード粒剤 150g"
+    asin: "B085BBTW2Y"
+    note: "土に混ぜるだけで病害虫を長期予防"
+    price: "¥600〜"
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    note: "土に混ぜて水はけ改善・カビ予防に"
+    price: "¥800〜"
 ---
 
 朝、観葉植物の鉢を見たら、土の表面に白いふわふわしたものが広がっている。これはカビです。見た目の不快感だけでなく、「植物が枯れるのでは？」と不安になる方も多いでしょう。
@@ -122,6 +131,12 @@ baseProducts:
 
 窓を開けて換気する場合は、1日2回、各10分以上が目安です。
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0CZJKWQKB?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ゼオライト 根腐れ防止剤 中粒 2L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
 ### 対策3：有機質の少ない土を使う
 
 カビの栄養源は土の中の有機質です。有機質が少ない（または無機質主体の）土を使えば、カビの栄養源を断てます。
@@ -140,6 +155,12 @@ baseProducts:
 土の表面に赤玉土やバーク（樹皮）を1cmほど敷くと、有機質の土が直接空気に触れなくなり、カビの発生を物理的に抑制できます。見た目もすっきりします。
 
 ---
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B085BBTW2Y?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">住友化学園芸 ベニカXガード粒剤 150g</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
 
 ## やってはいけないNG対策
 

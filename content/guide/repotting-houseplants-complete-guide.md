@@ -22,6 +22,15 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
+amazonProducts:
+  - title: "ITANSE スリット鉢 6号（18cm）ブラック 5個セット"
+    asin: "B08CXX4B4X"
+    note: "排水性・通気性に優れたスリット入り。植え替え先の鉢として定番"
+    price: "¥1,000〜"
+  - title: "鉢底ネット 丸型 20枚入り"
+    asin: "B092JRTWBX"
+    note: "鉢底の穴をふさぐネット。土こぼれ・虫の侵入防止に"
+    price: "¥300〜"
 ---
 
 観葉植物を育てていると「植え替え」は避けて通れません。しかし「いつやるの？」「やり方がわからない」「失敗したらどうしよう」と不安で後回しにしている方も多いはず。
@@ -167,12 +176,24 @@ baseProducts:
 
 → サイズ・素材・形状の詳しい解説は「[鉢の選び方完全ガイド](/guide/choosing-pot-size-for-repotting)」
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B08CXX4B4X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ITANSE スリット鉢 6号（18cm）ブラック 5個セット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
 ## 必要な道具チェックリスト
 
 植え替え前に揃えておくと作業がスムーズです。
 
 - [ ] 新しい鉢（1号大きいもの）
 - [ ] 鉢底ネット
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B092JRTWBX?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">鉢底ネット 丸型 20枚入り</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
 - [ ] 鉢底石（軽石）
 - [ ] 新しい土
 - [ ] ハサミ（消毒済み）
