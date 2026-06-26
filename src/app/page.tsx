@@ -37,6 +37,8 @@ export default function Home() {
   const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
   const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
   const speciesPosts = getPostsByCategory("species").slice(0, 8);
+  const researchPosts = getPostsByCategory("research").slice(0, 8);
+  const reviewPosts = getPostsByCategory("review").slice(0, 8);
 
   return (
     <>
@@ -257,6 +259,68 @@ export default function Home() {
           )}
         </div>
       </section>
+
+      {/* Research */}
+      {researchPosts.length > 0 && (
+        <section className="bg-white py-24">
+          <div className="mx-auto max-w-5xl px-4">
+            <div className="flex items-end justify-between">
+              <div>
+                <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
+                  リサーチ・コラム
+                </h2>
+                <p className="mt-2 text-sm leading-relaxed text-gray-400">
+                  植物科学・インテリア・ライフスタイル
+                </p>
+              </div>
+              <Link
+                href="/research"
+                className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
+              >
+                すべて見る &rarr;
+              </Link>
+            </div>
+            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
+              {researchPosts.map((post) => (
+                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
+                  <ArticleCard post={post} />
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Review */}
+      {reviewPosts.length > 0 && (
+        <section className="bg-gray-50/80 py-24">
+          <div className="mx-auto max-w-5xl px-4">
+            <div className="flex items-end justify-between">
+              <div>
+                <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
+                  レビュー
+                </h2>
+                <p className="mt-2 text-sm leading-relaxed text-gray-400">
+                  実際に使ったアイテムのレビュー
+                </p>
+              </div>
+              <Link
+                href="/review"
+                className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
+              >
+                すべて見る &rarr;
+              </Link>
+            </div>
+            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
+              {reviewPosts.map((post) => (
+                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
+                  <ArticleCard post={post} />
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* All Articles */}
       <section className="border-t border-gray-100 py-24 bg-white">
