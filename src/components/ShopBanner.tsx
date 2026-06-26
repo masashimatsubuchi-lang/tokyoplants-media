@@ -51,10 +51,64 @@ const SHOP_PRODUCTS = [
   },
 ];
 
+function ProductCard({ product }: { product: typeof SHOP_PRODUCTS[0] }) {
+  const inner = (
+    <>
+      <div className="relative h-40 w-full overflow-hidden rounded-t-xl bg-gray-50">
+        <Image
+          src={product.image}
+          alt={product.title.replace("\n", " ")}
+          fill
+          sizes="176px"
+          className="object-cover transition-transform duration-500 group-hover:scale-105"
+        />
+        {product.soldOut && (
+          <div className="absolute inset-0 flex items-center justify-center bg-white/60">
+            <span className="rounded bg-gray-600 px-2 py-0.5 text-[11px] font-bold text-white">SOLD OUT</span>
+          </div>
+        )}
+      </div>
+      <div className="flex flex-1 flex-col p-3">
+        <p className="text-[13px] font-semibold leading-snug text-gray-900 whitespace-pre-line line-clamp-3">
+          {product.title}
+        </p>
+        <div className="mt-2 flex flex-wrap gap-1">
+          {product.tags.map((tag) => (
+            <span key={tag} className="rounded-full bg-teal-50 px-2 py-0.5 text-[10px] font-medium text-teal-700">
+              {tag}
+            </span>
+          ))}
+        </div>
+        <p className={`mt-auto pt-2 text-base font-extrabold tracking-tight ${product.soldOut ? "text-gray-400" : "text-teal-700"}`}>
+          {product.price}
+        </p>
+      </div>
+    </>
+  );
+
+  if (product.soldOut) {
+    return (
+      <div className="group relative flex w-44 shrink-0 snap-start flex-col rounded-xl border border-gray-200 bg-white opacity-50 cursor-not-allowed">
+        {inner}
+      </div>
+    );
+  }
+
+  return (
+    <a
+      href={product.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="group relative flex w-44 shrink-0 snap-start flex-col rounded-xl border border-gray-200 bg-white hover:-translate-y-0.5 hover:border-teal-300 hover:shadow-md transition-all"
+    >
+      {inner}
+    </a>
+  );
+}
+
 export default function ShopBanner() {
   return (
     <section className="mt-14">
-      {/* Header */}
       <div className="mb-4 flex items-center justify-between">
         <div>
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">tokyoplants Shop</p>
@@ -70,57 +124,9 @@ export default function ShopBanner() {
         </a>
       </div>
 
-      {/* Horizontal scroll */}
       <div className="flex gap-3 overflow-x-auto pb-3 scrollbar-hide snap-x snap-mandatory">
         {SHOP_PRODUCTS.map((product) => (
-          <a
-            key={product.url}
-            href={product.soldOut ? "#" : product.url}
-            target={product.soldOut ? undefined : "_blank"}
-            rel={product.soldOut ? undefined : "noopener noreferrer"}
-            onClick={product.soldOut ? (e) => e.preventDefault() : undefined}
-            className={`group relative flex w-44 shrink-0 snap-start flex-col rounded-xl border bg-white transition-all ${
-              product.soldOut
-                ? "border-gray-200 opacity-50 cursor-not-allowed"
-                : "border-gray-200 hover:-translate-y-0.5 hover:border-teal-300 hover:shadow-md cursor-pointer"
-            }`}
-          >
-            {/* Image */}
-            <div className="relative h-40 w-full overflow-hidden rounded-t-xl bg-gray-50">
-              <Image
-                src={product.image}
-                alt={product.title.replace("\n", " ")}
-                fill
-                sizes="176px"
-                className="object-cover transition-transform duration-500 group-hover:scale-105"
-              />
-              {product.soldOut && (
-                <div className="absolute inset-0 flex items-center justify-center bg-white/60">
-                  <span className="rounded bg-gray-600 px-2 py-0.5 text-[11px] font-bold text-white">SOLD OUT</span>
-                </div>
-              )}
-            </div>
-
-            {/* Info */}
-            <div className="flex flex-1 flex-col p-3">
-              <p className="text-[13px] font-semibold leading-snug text-gray-900 whitespace-pre-line line-clamp-3">
-                {product.title}
-              </p>
-              <div className="mt-2 flex flex-wrap gap-1">
-                {product.tags.map((tag) => (
-                  <span
-                    key={tag}
-                    className="rounded-full bg-teal-50 px-2 py-0.5 text-[10px] font-medium text-teal-700"
-                  >
-                    {tag}
-                  </span>
-                ))}
-              </div>
-              <p className={`mt-auto pt-2 text-base font-extrabold tracking-tight ${product.soldOut ? "text-gray-400" : "text-teal-700"}`}>
-                {product.price}
-              </p>
-            </div>
-          </a>
+          <ProductCard key={product.url} product={product} />
         ))}
       </div>
     </section>
