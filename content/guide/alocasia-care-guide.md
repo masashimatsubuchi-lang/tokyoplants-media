@@ -20,6 +20,16 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    price: "¥1,000前後"
+  - title: "Levoit Classic200 超音波加湿器 4L｜静音・40時間連続"
+    asin: "B083JVNMV2"
+    price: "¥4,000前後"
+  - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
+    asin: "B07ZTM6H4H"
+    price: "¥500前後"
 ---
 
 アロカシアは、シャープな葉形と独特の葉脈模様が美しい熱帯植物です。SNSで人気が急上昇していますが、「買ったけどすぐ枯らしてしまった」という声も多い植物です。実はアロカシアには他の観葉植物とは異なるいくつかの特性があり、それを理解していないと管理を誤ります。<mark>特に「水やり頻度」と「湿度管理」はアロカシアの生死を分けるポイントです。</mark>この記事では、アロカシアを長く楽しむための育て方を品種別のコツも含めて徹底解説します。

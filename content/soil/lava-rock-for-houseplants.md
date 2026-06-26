@@ -26,6 +26,13 @@ baseProducts:
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
     price: '¥1,200'
+amazonProducts:
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    price: "¥1,000前後"
+  - title: "ハイドロボール（レカトン）中粒 2L"
+    asin: "B01EGYYQSC"
+    price: "¥700前後"
 ---
 
 「溶岩石って観葉植物に本当に使えるの？」「土と何が違うの？」——インテリアショップや専門店で溶岩石を見かけたことはあっても、実際の効果がよくわからない人は多いです。

@@ -19,6 +19,16 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
+amazonProducts:
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    price: "¥1,000前後"
+  - title: "住友化学園芸 GFベンレート水和剤 0.5g×10包"
+    asin: "B0027WRLLK"
+    price: "¥650前後"
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    price: "¥800前後"
 ---
 
 「水やりをしているのに、葉が黄色くなって元気がない」。その原因、根腐れかもしれません。<mark>根腐れは観葉植物が枯れる原因の第1位ですが、早期に気づけば復活の可能性は十分にあります。</mark>この記事では、根腐れの原因を特定し、復活させるための具体的な手順を解説します。

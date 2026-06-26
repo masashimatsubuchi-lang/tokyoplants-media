@@ -17,6 +17,16 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    price: "¥800前後"
+  - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
+    asin: "B07ZTM6H4H"
+    price: "¥500前後"
+  - title: "Levoit Classic200 超音波加湿器 4L｜静音・40時間連続"
+    asin: "B083JVNMV2"
+    price: "¥4,000前後"
 ---
 
 アンスリウムは、光沢のある葉と鮮やかな仏炎苞（ぶつえんほう）が魅力の熱帯植物です。丈夫で育てやすいイメージがありますが、水やりと用土の選び方を間違えると簡単に根腐れします。この記事では、初心者が最初に押さえるべきポイントを、優先度の高い順に解説します。

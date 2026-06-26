@@ -19,6 +19,16 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ハイドロボール（レカトン）中粒 2L"
+    asin: "B01EGYYQSC"
+    price: "¥700前後"
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    price: "¥1,000前後"
+  - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
+    asin: "B0BYYQTM98"
+    price: "¥1,200前後"
 ---
 
 # モンステラをハイドロカルチャーで育てる方法｜水管理と培地の選び方

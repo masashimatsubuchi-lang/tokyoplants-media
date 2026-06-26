@@ -26,6 +26,13 @@ baseProducts:
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
     price: '¥1,200'
+amazonProducts:
+  - title: "ハイドロボール（レカトン）中粒 2L"
+    asin: "B01EGYYQSC"
+    price: "¥700前後"
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    price: "¥1,000前後"
 ---
 
 「ハイドロカルチャーを始めたいけど、どの培地を選べばいい？」「LECAと溶岩石の違いがわからない」——培地選びに悩む人は少なくありません。ハイドロカルチャー全般の基礎知識は[ハイドロカルチャー完全ガイド](/soil/hydroculture-complete-guide)でまとめて確認できます。

@@ -11,6 +11,13 @@ relatedSlugs:
   - "review/circulator-for-houseplants-review"
   - "guide/winter-watering-houseplants"
   - "soil/indoor-houseplant-soil"
+amazonProducts:
+  - title: "住友化学園芸 オルトランDX粒剤 200g｜浸透移行性殺虫剤"
+    asin: "B004MK7RW8"
+    price: "¥891前後"
+  - title: "住友化学園芸 ベニカXファインスプレー 420ml"
+    asin: "B0027WTI5W"
+    price: "¥700前後"
 ---
 
 葉の色が薄くなり、細かい白い点が増え、気づくと葉裏にごく小さな虫と糸。これは観葉植物で最も再発しやすい害虫の一つ、ハダニの典型です。ハダニ対策が難しいのは、見つけた時点で既に繁殖が進んでいること、そして駆除後の環境が変わらないと再発することです。

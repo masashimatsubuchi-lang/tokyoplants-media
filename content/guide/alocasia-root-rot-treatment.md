@@ -19,6 +19,16 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    price: "¥1,000前後"
+  - title: "住友化学園芸 GFベンレート水和剤 0.5g×10包"
+    asin: "B0027WRLLK"
+    price: "¥650前後"
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    price: "¥800前後"
 ---
 
 # アロカシアが根腐れする原因と対処法｜ハイドロカルチャーで再発を防ぐ

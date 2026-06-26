@@ -15,6 +15,16 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
+    asin: "B07ZTM6H4H"
+    price: "¥500前後"
+  - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
+    asin: "B0BYYQTM98"
+    price: "¥1,200前後"
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    price: "¥800前後"
 ---
 
 モンステラは「丈夫で育てやすい植物」と紹介されることが多い一方、実際の失敗原因はかなり共通しています。過湿、光量不足、根詰まり、低温、そして誤った剪定です。ここでは、初心者向けの一般論ではなく、長期で樹形を整えながら健康に維持するための実践設計を、根拠ベースで整理します。葉を大きくしたい人、切れ込みを安定して出したい人、株を仕立て直したい人まで対応できる内容です。

@@ -26,6 +26,16 @@ baseProducts:
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
     price: '¥1,200'
+amazonProducts:
+  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
+    asin: "B0CZJKWQKB"
+    price: "¥1,000前後"
+  - title: "チャーム ゼオライトの根腐れ防止剤 1L"
+    asin: "B09LYBTSH8"
+    price: "¥600前後"
+  - title: "ハイドロボール（レカトン）中粒 2L"
+    asin: "B01EGYYQSC"
+    price: "¥700前後"
 ---
 
 「ゼオライトって本当に効果あるの？」「土に混ぜるだけでいいの？」「100均のゼオライトでも同じ？」——ゼオライトの効果について疑問を抱いている人は多いです。

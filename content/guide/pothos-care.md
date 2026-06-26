@@ -17,6 +17,16 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
+    asin: "B07ZTM6H4H"
+    price: "¥500前後"
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    price: "¥800前後"
+  - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
+    asin: "B0BYYQTM98"
+    price: "¥1,200前後"
 ---
 
 ポトスは丈夫で育てやすく、初心者に最もおすすめできる観葉植物のひとつです。100均やホームセンターでも手軽に手に入り、つるを伸ばして成長する姿はインテリアとしても優秀。しかし「葉が黄色くなってきた」「伸びすぎて見た目が悪い」「水やりの頻度がわからない」といった悩みを持つ方も少なくありません。この記事では、ポトスを元気に長く育てるための基本をまとめました。
