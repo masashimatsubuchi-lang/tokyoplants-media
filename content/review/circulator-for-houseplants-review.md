@@ -18,9 +18,9 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
 amazonProducts:
-  - title: "山善 DCモーター サーキュレーター（20畳）"
-    asin: "B0CW1JK2WR"
-    note: "Amazon評価 4.1 / 5,333件（2026-02-20取得）"
+  - title: "SwitchBot サーキュレーター Lite（静音・首振り・DCモーター）"
+    asin: "B0D9896MPY"
+    note: "DCモーター搭載・30畳対応・Alexa/Google Home対応・静音22dB"
   - title: "上下左右首振り DCサーキュレーター"
     asin: "B0BZYJGZ31"
     note: "Amazon評価 4.6 / 2,148件（2026-02-20取得）"
