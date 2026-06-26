@@ -135,7 +135,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B07TXJQHTF?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-fe.ssl-images-amazon.com/images/P/B07TXJQHTF.01._SL160_.jpg" alt="光の楽園 パキラポット L" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B07TXJQHTF.01._SL160_.jpg" alt="光の楽園 パキラポット L" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">光の楽園 フェイクグリーン パキラポット L｜日本製・光触媒</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥5,000前後 ／ Amazon で見る →</p></div>
 </a>
 </div>
@@ -153,7 +153,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B09WY958YL?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-fe.ssl-images-amazon.com/images/P/B09WY958YL.01._SL160_.jpg" alt="フェイクグリーン アイビー ガーランド" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B09WY958YL.01._SL160_.jpg" alt="フェイクグリーン アイビー ガーランド" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">フェイクグリーン アイビー ガーランド 防水・鉄線入り</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥1,000〜2,000前後 ／ Amazon で見る →</p></div>
 </a>
 </div>
@@ -171,7 +171,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0075HPZSS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-fe.ssl-images-amazon.com/images/P/B0075HPZSS.01._SL160_.jpg" alt="イミテーショングリーン アローカシア" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B0075HPZSS.01._SL160_.jpg" alt="イミテーショングリーン アローカシア" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">イミテーショングリーン アローカシア 光触媒加工</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥3,000前後 ／ Amazon で見る →</p></div>
 </a>
 </div>
@@ -188,7 +188,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B097SXLLQ4?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-fe.ssl-images-amazon.com/images/P/B097SXLLQ4.01._SL160_.jpg" alt="寄せ植えグリーンアレンジ CT触媒 白鉢" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B097SXLLQ4.01._SL160_.jpg" alt="寄せ植えグリーンアレンジ CT触媒 白鉢" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">寄せ植えグリーンアレンジ CT触媒 白鉢</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥3,000前後 ／ Amazon で見る →</p></div>
 </a>
 </div>
@@ -206,7 +206,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B07D51Y4JW?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-fe.ssl-images-amazon.com/images/P/B07D51Y4JW.01._SL160_.jpg" alt="Brown. 柱サボテン フェイクグリーン" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B07D51Y4JW.01._SL160_.jpg" alt="Brown. 柱サボテン フェイクグリーン" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Brown. 柱サボテン フェイクグリーン 約112cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥4,000前後 ／ Amazon で見る →</p></div>
 </a>
 </div>
