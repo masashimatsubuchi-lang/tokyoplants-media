@@ -16,15 +16,14 @@ export default function Home() {
   ];
   const editorsPickDefs = [
     { category: "review", slug: "daily-botanical-towel-review" },
+    { category: "review", slug: "plant-light-review" },
     { category: "soil", slug: "houseplant-soil-hub-guide" },
     { category: "soil", slug: "hydroculture-complete-guide" },
-    { category: "review", slug: "houseplant-tools-complete-guide" },
-    { category: "review", slug: "recommended-pots-for-houseplants" },
-    { category: "guide", slug: "houseplant-pest-control-tools" },
-    { category: "guide", slug: "home-compost-beginners-guide" },
-    { category: "guide", slug: "houseplant-fertilizer-guide" },
-    { category: "review", slug: "houseplant-soil-comparison-review" },
+    { category: "guide", slug: "monstera-care" },
+    { category: "guide", slug: "root-rot-causes-and-recovery" },
     { category: "guide", slug: "repotting-houseplants-complete-guide" },
+    { category: "guide", slug: "alocasia-care-guide" },
+    { category: "guide", slug: "anthurium-care-for-beginners" },
   ];
   const editorsPick = editorsPickDefs
     .map((def) => allPosts.find((p) => p.category === def.category && p.slug === def.slug))
