@@ -18,6 +18,13 @@ export default function Home() {
     { category: "review", slug: "daily-botanical-towel-review" },
     { category: "soil", slug: "houseplant-soil-hub-guide" },
     { category: "soil", slug: "hydroculture-complete-guide" },
+    { category: "review", slug: "houseplant-tools-complete-guide" },
+    { category: "review", slug: "recommended-pots-for-houseplants" },
+    { category: "guide", slug: "houseplant-pest-control-tools" },
+    { category: "guide", slug: "home-compost-beginners-guide" },
+    { category: "guide", slug: "houseplant-fertilizer-guide" },
+    { category: "review", slug: "houseplant-soil-comparison-review" },
+    { category: "guide", slug: "repotting-houseplants-complete-guide" },
   ];
   const editorsPick = editorsPickDefs
     .map((def) => allPosts.find((p) => p.category === def.category && p.slug === def.slug))
@@ -96,15 +103,21 @@ export default function Home() {
       {editorsPick.length > 0 && (
         <section className="py-24 bg-white">
           <div className="mx-auto max-w-5xl px-4">
-            <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
-              Editors Pick
-            </p>
-            <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
-              注目の記事
-            </h2>
-            <div className="mt-10 grid gap-8 sm:grid-cols-3">
+            <div className="flex items-end justify-between">
+              <div>
+                <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
+                  Editors Pick
+                </p>
+                <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
+                  注目の記事
+                </h2>
+              </div>
+            </div>
+            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
               {editorsPick.map((post) => (
-                <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
+                  <ArticleCard post={post} />
+                </div>
               ))}
             </div>
           </div>
