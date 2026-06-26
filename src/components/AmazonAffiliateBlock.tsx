@@ -18,7 +18,7 @@ function addAssociateTag(url: string, associateTag?: string): string {
 function buildAmazonImageUrl(product: AmazonProduct): string | null {
   if (product.image) return product.image;
   if (product.asin) {
-    return `https://images-na.ssl-images-amazon.com/images/P/${product.asin}.01._SL160_.jpg`;
+    return `https://images-fe.ssl-images-amazon.com/images/P/${product.asin}.01._SL160_.jpg`;
   }
   return null;
 }
