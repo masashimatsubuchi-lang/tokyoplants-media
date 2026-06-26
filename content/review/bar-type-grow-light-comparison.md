@@ -84,7 +84,6 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DCFSQP9F&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -102,7 +101,6 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0814LNBHH&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Barrina T5 育成ライト 4本セット（2ft・フルスペクトル）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>

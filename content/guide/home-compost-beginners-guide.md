@@ -15,9 +15,9 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "ロータリーコンポスターダブル 160L（80L×2）国花園"
-    asin: "B07JKFWCNR"
-    note: "360度回転・二槽式で効率よく堆肥化。庭・ベランダの屋外設置向け"
+  - title: "AKEMI LIVING 回転式コンポスター 160L 大容量"
+    asin: "B0D7GZ353J"
+    note: "360度回転・大容量160Lで効率よく堆肥化。庭・ベランダの屋外設置向け"
     price: "¥8,000〜"
   - title: "川端滝三郎商店 EMワーカー コンポスター 15L"
     asin: "B0C885DH12"
@@ -53,13 +53,12 @@ amazonProducts:
 ## 1. 回転式コンポスター（屋外向け・最もポピュラー）
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B07JKFWCNR?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JKFWCNR&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ロータリーコンポスターダブル 160L（80L×2）国花園</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0D7GZ353J?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">AKEMI LIVING 回転式コンポスター 160L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
-二槽式の回転型コンポスター。一方の槽で仕込み中に、もう一方で完成した堆肥を取り出せるため、連続して堆肥を作り続けられます。
+大容量160Lの回転式コンポスター。360度回転させて撹拌できるシンプルな構造で、庭やベランダに設置して連続して堆肥を作り続けられます。
 
 **使い方**
 1. 生ごみ（野菜くず・果皮・コーヒーかす）を投入
@@ -81,7 +80,6 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0C885DH12?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C885DH12&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">川端滝三郎商店 EMワーカー コンポスター 15L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -101,7 +99,6 @@ EM菌（有用微生物群）を使った発酵型コンポスター。密閉構
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0DJBN2F6S?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0DJBN2F6S&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">MATIMARU コンポスト発酵促進剤</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -114,7 +111,6 @@ EM菌（有用微生物群）を使った発酵型コンポスター。密閉構
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0CXX9PWDR?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CXX9PWDR&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">コンポストバッグ 中型 ベランダ用</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -156,7 +152,7 @@ EM菌（有用微生物群）を使った発酵型コンポスター。密閉構
 
 | 住環境 | おすすめタイプ | 商品 |
 |--------|-------------|------|
-| 一戸建て・庭あり | 回転式コンポスター | ロータリーコンポスターダブル |
+| 一戸建て・庭あり | 回転式コンポスター | AKEMI LIVING 回転式コンポスター 160L |
 | マンション・ベランダあり | EM菌発酵型 | EMワーカー / コンポストバッグ |
 | どのタイプにも | 発酵促進剤を追加 | MATIMARU 発酵促進剤 |
 
