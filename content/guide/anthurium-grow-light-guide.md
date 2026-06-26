@@ -22,6 +22,15 @@ baseProducts:
   - title: "Anthurium Warocqueanum"
     url: "https://www.tokyoplants.com/categories/6382097"
     price: ""
+amazonProducts:
+  - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
+    asin: "B0BXPKS4S7"
+    note: "Ra97高演色・自然光に近い光質。アンスリウムの葉色・ベルベット感を美しく引き出す"
+    price: "¥14,000〜"
+  - title: "BRIM FLORA クリップ式 植物育成ライト"
+    asin: "B0CLD6QSDD"
+    note: "クリップ式・調光タイマー付き。アンスリウムへの補光入門に最適"
+    price: "¥4,780〜"
 ---
 
 ## アンスリウムに育成ライトは必要？

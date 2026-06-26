@@ -19,6 +19,19 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト（調光タイマー付き）"
+    asin: "B0CLD6QSDD"
+    note: "入門モデル。クリップ式で取り付け簡単・タイマーで自動管理"
+    price: "¥4,780〜"
+  - title: "BRIM SOL 24W 植物育成ライト"
+    asin: "B0B3M47RQJ"
+    note: "クリップ式・24W高出力。モンステラ・アロカシアなど中光量植物に"
+    price: "¥3,426〜"
+  - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
+    asin: "B0BXPKS4S7"
+    note: "Ra97高演色・高PPFD。本格栽培・コレクター植物向けの最上位モデル"
+    price: "¥14,000〜"
 ---
 
 ## 観葉植物に育成ライトは必要？

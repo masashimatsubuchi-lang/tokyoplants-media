@@ -68,18 +68,25 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 演色性（Ra）が90以上のモデルは植物の本来の色が確認でき、病気や葉の状態を正確に判断できます。
 
-## おすすめバータイプ育成ライト5選
+## Amazonで買えるバータイプ育成ライト
 
-### 1位：BARREL TSUKUYOMI BAR 60W
+### 1位：HaruDesign BAR LIGHT L610（国産・高品質）
 
-- **PPFD（植物から30cm）**: 約350μmol/m²/s
-- **照射範囲**: 幅90cm
-- **色温度**: 4000K（自然光に近い）
-- **演色性**: Ra97
-- **消費電力**: 60W
-- **価格**: 約35,000円
+- **PPFD（植物から30cm）**: 約300μmol/m²/s以上
+- **照射範囲**: 幅約61cm
+- **色温度**: Samsung LM281B+PRO（自然光に近い白色）
+- **演色性**: 高演色（コレクター向け）
+- **消費電力**: 36W
+- **価格**: 約10,000〜15,000円
+- **Amazon**: Prime対応・3年保証
 
-高演色・高PPFDで観葉植物コレクターに人気のプレミアムモデル。価格は高いが、アロカシア・アンスリウム・ビカクシダを本格的に育てたい方に最適。
+日本のプラントコレクター向けに設計された国産バータイプ。Samsung製チップ使用で光の質が高く、アロカシア・ビカクシダ・アンスリウムの本格栽培に対応。コンパクトな棚育成から本格ラック環境まで使いやすい。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
 
 ### 2位：Barrina T5 育成ライト 4本セット
 
@@ -88,33 +95,32 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 - **色温度**: 6500K
 - **消費電力**: 8W × 4本 = 32W
 - **価格**: 約4,000〜6,000円
+- **Amazon**: Prime対応
 
-コスパ最強クラス。棚1段に4本並べることで均一な光量を確保できます。ポトス・モンステラ・ウンベラータなど一般的な観葉植物に十分な光量。
+コスパ最強クラス。棚1段に4本並べることで均一な光量を確保できます。ポトス・モンステラ・ウンベラータなど一般的な観葉植物への補光入門に最適。
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Barrina T5 育成ライト 4本セット（2ft・フルスペクトル）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
 
-### 3位：GooingTop LED育成ライト バータイプ
+## 専門店・直販モデル（参考）
 
-- **PPFD**: 約220μmol/m²/s
-- **照射範囲**: 幅60cm
-- **色温度**: 3000K + 5000K（デュアルスペクトル）
-- **消費電力**: 20W
-- **価格**: 約6,000〜8,000円
+Amazon以外の専門ショップで取り扱われる高品質モデルです。
 
-赤・青・白のトリプルスペクトルで成長と開花の両方に対応。タイマー機能付きで自動管理が可能。
+### BARREL TSUKUYOMI BAR 60W
 
-### 4位：HaruDesign BAR LIGHT L610（国産・高品質）
+- **PPFD（植物から30cm）**: 約350μmol/m²/s
+- **照射範囲**: 幅90cm
+- **色温度**: 4000K（自然光に近い）
+- **演色性**: Ra97
+- **消費電力**: 60W
+- **価格**: 約35,000円
 
-- **PPFD（植物から30cm）**: 約300μmol/m²/s以上
-- **照射範囲**: 幅約61cm
-- **色温度**: Samsung LM281B+PRO使用（自然光に近い白色）
-- **演色性**: 高演色（コレクター向け）
-- **消費電力**: 36W
-- **価格**: 約10,000〜15,000円
+高演色・高PPFDでコレクター向けのプレミアムモデル。アロカシア・アンスリウム・ビカクシダを本格的に育てたい方に最適。取り扱いはBARREL公式サイトのみ。
 
-日本のプラントコレクター向けに設計された国産バータイプ。Samsung製チップ使用で光の質が高く、アロカシア・ビカクシダ・アンスリウムの本格栽培に対応。3年保証付き。
-
-
-### 5位：アマテラス LED バータイプ 30W
+### アマテラス LED バータイプ 30W
 
 - **PPFD**: 約280μmol/m²/s（植物から20cm）
 - **照射範囲**: 幅60cm
@@ -123,17 +129,7 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 - **消費電力**: 30W
 - **価格**: 約15,000〜18,000円
 
-アマテラスブランドのバーモデル。自然光に近い光質でコレクター植物にも対応。スポットライトからの乗り換えにも人気。
-
-### 5位：Roleadro T5 バー型育成ライト
-
-- **PPFD**: 約120μmol/m²/s
-- **照射範囲**: 幅45cm
-- **色温度**: 6500K
-- **消費電力**: 45W（3本セット計）
-- **価格**: 約3,000〜4,000円
-
-エントリーモデルとして最安クラス。耐陰性の高い観葉植物（ポトス・スキンダプサス・サンスベリア）に適しています。
+アマテラスブランドのバーモデル。自然光に近い光質でコレクター植物にも対応。取り扱いは公式サイト・一部専門店のみ。
 
 ## バータイプ育成ライトの電気代
 
@@ -163,11 +159,11 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 ## まとめ：予算別おすすめ
 
-| 予算 | おすすめ | 対象植物 |
-|------|---------|---------|
-| 〜5,000円 | Barrina T5 4本セット | ポトス・モンステラ・サンスベリア |
-| 〜10,000円 | GooingTop 20W | アロカシア・フィロデンドロン |
-| 〜20,000円 | アマテラス BAR 30W | コレクター植物全般 |
-| 〜40,000円 | TSUKUYOMI BAR 60W | ビカクシダ・アンスリウム本格栽培 |
+| 予算 | おすすめ | 対象植物 | 購入先 |
+|------|---------|---------|--------|
+| 〜6,000円 | Barrina T5 4本セット | ポトス・モンステラ・サンスベリア | [Amazon](https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22) |
+| 〜15,000円 | HaruDesign BAR LIGHT L610 | アロカシア・ビカクシダ・アンスリウム | [Amazon](https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22) |
+| 〜20,000円 | アマテラス BAR 30W | コレクター植物全般 | 専門店のみ |
+| 〜40,000円 | TSUKUYOMI BAR 60W | ビカクシダ・アンスリウム本格栽培 | 専門店のみ |
 
 スポットタイプとバータイプを組み合わせて使うのもおすすめです。バーで全体を照らし、特に光量が必要な株にはスポットを追加する方法が、コスパと効果のバランスに優れています。

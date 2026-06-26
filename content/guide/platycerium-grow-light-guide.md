@@ -20,6 +20,15 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
+    asin: "B0BXPKS4S7"
+    note: "高PPFD・Ra97高演色。ビカクシダ本格栽培に最適なスポットライト"
+    price: "¥14,000〜"
+  - title: "HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）"
+    asin: "B0DCFSQP9F"
+    note: "バータイプ・ラック育成向け。複数株をまとめて照射。3年保証"
+    price: "¥10,000〜"
 ---
 
 ## ビカクシダに育成ライトは必要？
