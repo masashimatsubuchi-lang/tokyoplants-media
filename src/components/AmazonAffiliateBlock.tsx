@@ -15,11 +15,10 @@ function addAssociateTag(url: string, associateTag?: string): string {
   }
 }
 
-function buildAmazonImageUrl(product: AmazonProduct, associateTag?: string): string | null {
+function buildAmazonImageUrl(product: AmazonProduct): string | null {
   if (product.image) return product.image;
   if (product.asin) {
-    const tag = associateTag || "tokyoplants0f-22";
-    return `https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=${product.asin}&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=${tag}`;
+    return `https://images-na.ssl-images-amazon.com/images/P/${product.asin}.01._SL160_.jpg`;
   }
   return null;
 }
@@ -63,7 +62,7 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
           const href = buildAmazonUrl(product, associateTag);
           if (!href) return null;
 
-          const imageUrl = buildAmazonImageUrl(product, associateTag);
+          const imageUrl = buildAmazonImageUrl(product);
 
           return (
             <a

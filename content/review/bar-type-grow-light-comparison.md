@@ -82,8 +82,11 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 日本のプラントコレクター向けに設計された国産バータイプ。Samsung製チップ使用で光の質が高く、アロカシア・ビカクシダ・アンスリウムの本格栽培に対応。コンパクトな棚育成から本格ラック環境まで使いやすい。
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0DCFSQP9F&asins=B0DCFSQP9F&show_border=false&link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B0DCFSQP9F.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">バータイプ育成ライト（国産・Samsung製）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 2位：Barrina T5 育成ライト 4本セット
@@ -97,8 +100,11 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 コスパ最強クラス。棚1段に4本並べることで均一な光量を確保できます。ポトス・モンステラ・ウンベラータなど一般的な観葉植物への補光入門に最適。
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B0814LNBHH&asins=B0814LNBHH&show_border=false&link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B0814LNBHH.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">バータイプ育成ライト（コスパ重視）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ## 専門店・直販モデル（参考）

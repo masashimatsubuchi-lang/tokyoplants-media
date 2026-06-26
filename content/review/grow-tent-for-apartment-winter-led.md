@@ -93,40 +93,55 @@ baseProducts:
 
 初号機として扱いやすい定番サイズ。マンションでも圧迫感が比較的小さく、床荷重と生活導線を崩しにくいのが利点です。観葉植物中心であれば、LED 100W前後と4インチ排気の組み合わせで十分運用できます。
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B08M3RFJZK&asins=B08M3RFJZK&show_border=false&link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B08M3RFJZK?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B08M3RFJZK.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">VIVOSUN グロウテント 60x60x140cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 2) バランス型: Mars Hydro 70x70x160
 
 冬越しだけでなく、通年の育成環境として使いやすいサイズ。60角より高さと奥行に余裕があり、植物間の距離を取りやすいため、蒸れと接触障害が減ります。LEDを中出力で運用しやすい点も強みです。
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B078XTJXYY&asins=B078XTJXYY&show_border=false&link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B078XTJXYY?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B078XTJXYY.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Mars Hydro グロウテント 70x70x160</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 3) 上位帯: AC Infinity Cloudlab 733（90x90x180）
 
 気密性、縫製、ジッパー品質を重視するなら候補に入る上位帯。管理規模を拡大したい人向けです。排気ファン・フィルター・ダクトの設計まで含めて初めて性能を活かせるため、導入前に運用図を作るのが前提です。
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B08MVG5BPP&asins=B08MVG5BPP&show_border=false&link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B08MVG5BPP?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B08MVG5BPP.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">AC Infinity Cloudlab 733（90x90x180）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 4) LEDの基準: Spider Farmer SF1000
 
 2x2〜70角クラスで使いやすい出力帯。重要なのはスペック値より、調光と距離調整のしやすさです。冬は温度を上げたいからと近づけすぎると葉焼けリスクが増えるため、照度計または葉面観察で段階的に調整してください。
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B07TYNYCB9&asins=B07TYNYCB9&show_border=false&link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B07TYNYCB9?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B07TYNYCB9.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Spider Farmer SF1000</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 5) カビ対策の要: AC Infinity CLOUDLINE A4（排気）
 
 テント内のカビを防ぐ主役は加湿器ではなく排気です。排気が弱いと夜間に結露し、土表面と葉柄基部にトラブルが出ます。静音性と風量制御のしやすさを重視してファンを選ぶと、マンションでも継続運用しやすくなります。
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=JP&source=ac&ref=tf_til&ad_type=product_link&tracking_id=tokyoplants0f-22&marketplace=amazon&region=JP&placement=B09FYK6Z3R&asins=B09FYK6Z3R&show_border=false&link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B09FYK6Z3R?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B09FYK6Z3R.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">AC Infinity CLOUDLINE A4（排気ファン）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ## 冬越し運用の実務ポイント

@@ -229,8 +229,11 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 
 **向いている人**: 初めて液肥を購入する方、コスパ重視、汎用的に使いたい方
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0027WPD7O&amp;asins=B0027WPD7O&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0027WPD7O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B0027WPD7O.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス原液</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 2. ハイポネックス 専用液肥 観葉植物用 450ml（液肥）
@@ -243,8 +246,11 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 
 **向いている人**: 観葉植物の葉色を重視する方、専用配合で管理したい方
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B07ZTM6H4H&amp;asins=B07ZTM6H4H&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B07ZTM6H4H?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B07ZTM6H4H.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス 観葉植物用液肥</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 3. マグァンプK 中粒（緩効性肥料）
@@ -257,8 +263,11 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 
 **向いている人**: 植え替えのたびに元肥を仕込みたい方、施肥管理を省力化したい方
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B0026R71OS&amp;asins=B0026R71OS&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0026R71OS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B0026R71OS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">マグァンプK 中粒</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 4. リキダス 800ml（活力剤）
@@ -271,8 +280,11 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 
 **向いている人**: 植え替え後の回復を促したい方、微量元素の補給を強化したい方
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B01NBTAX3J&amp;asins=B01NBTAX3J&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B01NBTAX3J?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B01NBTAX3J.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">リキダス（活力剤）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ### 5. プロミック 観葉植物用 150g（置き肥）
@@ -285,8 +297,11 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 
 **向いている人**: 施肥の手間を最小限にしたい方、液肥の希釈が面倒な方
 
-<div style="margin:1.5rem 0">
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ws-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=JP&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=tokyoplants0f-22&amp;marketplace=amazon&amp;region=JP&amp;placement=B00337XTO6&amp;asins=B00337XTO6&amp;show_border=false&amp;link_opens_in_new_window=true"></iframe>
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B00337XTO6?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://images-na.ssl-images-amazon.com/images/P/B00337XTO6.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">プロミック 置き型肥料</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
 </div>
 
 ---
