@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import Script from "next/script";
-import { getAllPosts, getPostsByCategory } from "@/lib/posts";
+import { getAllPosts, getPostsByCategory, getAllTags, getPostsByTag } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
 import AllArticlesList from "@/components/AllArticlesList";
@@ -29,6 +29,11 @@ export default function Home() {
     .map((def) => allPosts.find((p) => p.category === def.category && p.slug === def.slug))
     .filter((post) => post !== undefined);
   const editorsPickSlugs = new Set(editorsPickDefs.map((d) => d.slug));
+  const popularTags = getAllTags()
+    .map((tag) => ({ tag, count: getPostsByTag(tag).length }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 30);
+
   const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
   const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
   const speciesPosts = getPostsByCategory("species").slice(0, 8);
@@ -96,7 +101,35 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Tag Cloud hidden temporarily */}
+      {/* Tag Cloud */}
+      <section className="bg-gray-50/80 py-16">
+        <div className="mx-auto max-w-5xl px-4">
+          <div className="flex items-end justify-between">
+            <div>
+              <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Browse by Tag</p>
+              <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">ハッシュタグから探す</h2>
+            </div>
+            <Link
+              href="/tags"
+              className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
+            >
+              すべてのタグ &rarr;
+            </Link>
+          </div>
+          <div className="mt-8 flex flex-wrap gap-2">
+            {popularTags.map(({ tag, count }) => (
+              <Link
+                key={tag}
+                href={`/tag/${encodeURIComponent(tag)}`}
+                className="inline-flex items-center gap-1 rounded-full border border-gray-200 bg-white px-4 py-2 text-sm font-medium text-gray-700 transition-all hover:border-teal-400 hover:bg-teal-50 hover:text-teal-800"
+              >
+                <span className="text-teal-500">#</span>{tag}
+                <span className="ml-1 text-[11px] text-gray-400">{count}</span>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
 
       {/* Editors Pick */}
       {editorsPick.length > 0 && (
