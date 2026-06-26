@@ -15,6 +15,15 @@ function addAssociateTag(url: string, associateTag?: string): string {
   }
 }
 
+function buildAmazonImageUrl(product: AmazonProduct, associateTag?: string): string | null {
+  if (product.image) return product.image;
+  if (product.asin) {
+    const tag = associateTag || "tokyoplants0f-22";
+    return `https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=${product.asin}&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=${tag}`;
+  }
+  return null;
+}
+
 function buildAmazonUrl(product: AmazonProduct, associateTag?: string): string | null {
   if (product.asin) {
     const baseUrl = `https://www.amazon.co.jp/dp/${product.asin}`;
@@ -54,6 +63,8 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
           const href = buildAmazonUrl(product, associateTag);
           if (!href) return null;
 
+          const imageUrl = buildAmazonImageUrl(product, associateTag);
+
           return (
             <a
               key={`${product.title}-${index}`}
@@ -62,12 +73,12 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
               rel="sponsored noopener noreferrer"
               className="group flex items-center gap-4 rounded-xl border border-amber-200 bg-white p-4 transition-all hover:-translate-y-0.5 hover:border-amber-400 hover:shadow-md"
             >
-              <div className="h-20 w-20 overflow-hidden rounded-xl border border-amber-100 bg-amber-50 flex items-center justify-center">
-                {product.image ? (
+              <div className="h-20 w-20 shrink-0 overflow-hidden rounded-xl border border-amber-100 bg-amber-50 flex items-center justify-center">
+                {imageUrl ? (
                   <img
-                    src={product.image}
+                    src={imageUrl}
                     alt={product.title}
-                    className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                    className="h-full w-full object-contain transition-transform duration-500 group-hover:scale-105"
                     loading="lazy"
                   />
                 ) : (
