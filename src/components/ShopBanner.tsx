@@ -41,14 +41,6 @@ const SHOP_PRODUCTS = [
     tags: ["Queen Anthurium", "SELECT STOCK"],
     soldOut: false,
   },
-  {
-    title: "SISHI CRAFT × tokyoplants\nLeather Botanical",
-    price: "¥18,000",
-    url: "https://www.tokyoplants.com/items/143263775?utm_source=media&utm_medium=article&utm_campaign=shop-banner",
-    image: "https://baseec-img-mng.akamaized.net/images/item/origin/ddcc2cb431e28bbdae445da88bd24236.jpg",
-    tags: ["職人手作業", "水やり不要"],
-    soldOut: true,
-  },
 ];
 
 function ProductCard({ product }: { product: typeof SHOP_PRODUCTS[0] }) {
