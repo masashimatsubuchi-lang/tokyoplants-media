@@ -67,6 +67,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B00761OC6O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00761OC6O&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">窓際族 バジル 水耕栽培キット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -91,6 +92,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0CLD6QSDD?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CLD6QSDD&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM FLORA クリップ式 植物育成ライト（調光タイマー付き）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -101,6 +103,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0CYC631GW?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0CYC631GW&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">聖新陶芸 グリーンペット バジル栽培キット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -113,6 +116,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0027WPD7O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0027WPD7O&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス原液 800ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>

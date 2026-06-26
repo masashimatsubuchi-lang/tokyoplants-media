@@ -95,6 +95,7 @@ baseProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B08M3RFJZK?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08M3RFJZK&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">VIVOSUN グロウテント 60x60x140cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -105,6 +106,7 @@ baseProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B078XTJXYY?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078XTJXYY&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Mars Hydro グロウテント 70x70x160cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -115,6 +117,7 @@ baseProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B08MVG5BPP?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08MVG5BPP&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">AC Infinity CLOUDLAB 733 グロウテント 90x90x180cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -125,6 +128,7 @@ baseProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B07TYNYCB9?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TYNYCB9&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Spider Farmer SF1000 LED 植物育成ライト</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -135,6 +139,7 @@ baseProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B09FYK6Z3R?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09FYK6Z3R&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=tokyoplants0f-22" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;background:#fffbeb;flex-shrink:0" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">AC Infinity CLOUDLINE LITE A4 インラインダクトファン</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
