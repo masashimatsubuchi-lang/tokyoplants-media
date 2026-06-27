@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879612934-f2c620f58925?w=800&q=80"
+image: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&q=80"
 title: "観葉植物に赤玉土を混ぜる割合は？基本配合と植物別の調整方法"
 description: "観葉植物に赤玉土を混ぜる最適な割合を解説。基本は3〜4割。モンステラ・サンスベリア・アンスリウムなど植物別の配合、赤玉土の粒サイズの選び方まで詳しく説明します。"
 date: "2026-06-27"
