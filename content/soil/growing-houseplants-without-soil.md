@@ -17,15 +17,12 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
 amazonProducts:
-  - title: "ハイドロボール LECA 10L 観葉植物用"
-    asin: "B0013EE8NK"
-    price: "¥1,500前後"
-  - title: "ガラス容器 水耕栽培用 花瓶 クリア"
-    asin: "B07MR4DFSS"
-    price: "¥1,200前後"
-  - title: "ハイポネックス ハイドロカルチャー用液肥"
-    asin: "B0013AGWOE"
-    price: "¥600前後"
+  - title: "ハイドロボール（レカトン）10L 中粒"
+    asin: "B0756BCTJK"
+  - title: "水栽培ガラスベース MINI BULB VASE"
+    asin: "B07STKQKKV"
+  - title: "ハイポネックス キュート ハイドロ・水栽培用 150ml"
+    asin: "B00337XTSM"
 ---
 
 「室内で観葉植物を育てたいけれど、土の虫が怖い」「床や棚が汚れるのが嫌」「重い鉢を持ち上げられない」——そんな悩みを抱えている方は多いのではないでしょうか。実はその悩み、土を使わないことで一気に解決できます。
@@ -66,10 +63,10 @@ amazonProducts:
 容器は**排水穴なしのガラス容器**が適しています。水位が外から見えることで、水を与えすぎる失敗を防げます。陶器の容器を使う場合は、底に少し隙間を作るか、水位計を使って管理しましょう。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0013EE8NK?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0013EE8NK.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0756BCTJK?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0756BCTJK.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ハイドロボール LECA 10L 観葉植物用</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ハイドロボール（レカトン）10L 中粒</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -92,10 +89,10 @@ amazonProducts:
 肥料はハイドロカルチャー用の液体肥料を規定量の半分程度に薄めて月1〜2回与えます。土栽培と違って肥料が流れにくいため、与えすぎると塩類が蓄積して根を傷めます。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0013AGWOE?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0013AGWOE.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B00337XTSM?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00337XTSM.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ハイポネックス ハイドロカルチャー用液肥</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ハイポネックス キュート ハイドロ・水栽培用 150ml</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -137,10 +134,10 @@ tokyoplants の **HYDRO MINERAL** は富士山溶岩石75%＋島根県産ゼオ�
 容器の口のサイズと茎の太さが合うと、茎が自立して管理が楽になります。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07MR4DFSS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07MR4DFSS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B07STKQKKV?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B07STKQKKV.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ガラス容器 水耕栽培用 花瓶 クリア</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">水栽培ガラスベース MINI BULB VASE</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

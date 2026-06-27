@@ -21,7 +21,7 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
 amazonProducts:
-  - title: "住友化学園芸 ベニカXガード粒剤 150g"
+  - title: "住友化学園芸 ベニカXガード粒剤 550g"
     asin: "B085BBTW2Y"
     note: "土に混ぜるだけで病害虫を長期予防"
     price: "¥600〜"

@@ -16,9 +16,8 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "赤玉土 消毒済み 小粒 14L"
-    asin: "B00LDAZRGI"
-    price: "¥1,200前後"
+  - title: "刀川平和農園 硬質赤玉土 小粒 14L"
+    asin: "B078ZX7DRN"
   - title: "土のリサイクル材 花ごころ ふかふか"
     asin: "B00BEOMJJ0"
     price: "¥600前後"
@@ -162,10 +161,10 @@ amazonProducts:
 - **腐葉土**: 保水性と栄養補給（新しいものを使用）
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B00LDAZRGI?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00LDAZRGI.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B078ZX7DRN?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B078ZX7DRN.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">赤玉土 消毒済み 小粒 14L</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">刀川平和農園 硬質赤玉土 小粒 14L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

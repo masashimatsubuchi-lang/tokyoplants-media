@@ -16,18 +16,14 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "プロトリーフ 室内用 軽い観葉植物の土 25L"
-    asin: "B07PHTFXWB"
-    price: "¥2,000前後"
-  - title: "パーライト 20L 軽量土壌改良材"
-    asin: "B0013AGWF0"
-    price: "¥1,400前後"
-  - title: "日向土（ひゅうが土）小粒 14L 超軽量"
-    asin: "B00LDAZRGI"
-    price: "¥1,500前後"
-  - title: "スーパーミックスA 25L 軽量培養土"
-    asin: "B00E9LVHTA"
-    price: "¥2,500前後"
+  - title: "プロトリーフ 粒状かる〜い培養土 5L"
+    asin: "B07BG6W9S2"
+  - title: "あかぎ園芸 パーライト 10L 軽量土壌改良材"
+    asin: "B00I4O65L2"
+  - title: "あかぎ園芸 日向土 小粒 14L 超軽量"
+    asin: "B00UBCG826"
+  - title: "サカタのタネ スーパーミックスA 40L 軽量培養土"
+    asin: "B07Y1B5XWJ"
 ---
 
 「植え替えようとしたら鉢が重くて持ち上げられなかった」「ベランダに大鉢を並べたいけど床の耐荷重が心配」——そんな経験はありませんか？
@@ -102,10 +98,10 @@ amazonProducts:
 **デメリット**: 大容量品は価格がやや高め・単体では肥料分がやや少ない
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07PHTFXWB?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07PHTFXWB.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B07BG6W9S2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B07BG6W9S2.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">プロトリーフ 室内用 軽い観葉植物の土 25L</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">プロトリーフ 粒状かる〜い培養土 5L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -121,10 +117,10 @@ amazonProducts:
 **デメリット**: 単独では保水性がなく栄養ゼロ・粉が舞いやすいので屋外で混ぜるのが安心
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0013AGWF0?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0013AGWF0.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B00I4O65L2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00I4O65L2.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">パーライト 20L 軽量土壌改良材</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">あかぎ園芸 パーライト 10L 軽量土壌改良材</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -140,10 +136,10 @@ amazonProducts:
 **デメリット**: 保肥力が低いため追肥が必要・単独使用では栄養がほぼない
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B00LDAZRGI?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00LDAZRGI.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B00UBCG826?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00UBCG826.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">日向土（ひゅうが土）小粒 14L 超軽量</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">あかぎ園芸 日向土 小粒 14L 超軽量</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -159,10 +155,10 @@ amazonProducts:
 **デメリット**: パーライト単独より重め・ヤシ繊維の匂いが気になる方もいる
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B00E9LVHTA?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00E9LVHTA.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B07Y1B5XWJ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B07Y1B5XWJ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">スーパーミックスA 25L 軽量培養土</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">サカタのタネ スーパーミックスA 40L 軽量培養土</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

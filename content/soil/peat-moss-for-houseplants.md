@@ -16,15 +16,12 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "ピートモス 18L pH調整済み"
-    asin: "B0013AGWSS"
-    price: "¥1,200前後"
+  - title: "pH調整済みピートモス 5L（欧州産）"
+    asin: "B07S1NQN53"
   - title: "バーミキュライト 18L 土壌改良用"
-    asin: "B001HS7GXY"
-    price: "¥1,000前後"
-  - title: "ヤシガラチップ ミックス 5L（ピートモス代替）"
-    asin: "B08L9KNWRG"
-    price: "¥1,100前後"
+    asin: "B01DN24QPQ"
+  - title: "ヤシガラチップ 大粒 10L（ピートモス代替素材）"
+    asin: "B0CSSD9N5K"
 ---
 
 「ピートモスを買ったけど、どのくらい混ぜればいいかわからない」「そもそも観葉植物に向いているの？」——そんな疑問を持っていませんか。
@@ -134,10 +131,10 @@ amazonProducts:
 <mark>乾燥系・多肉系の植物にはピートモスを配合しないか、5%以下に抑える</mark>のが安全です。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0013AGWSS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0013AGWSS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B07S1NQN53?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B07S1NQN53.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ピートモス 18L pH調整済み</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">pH調整済みピートモス 5L（欧州産）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -187,10 +184,10 @@ amazonProducts:
 pH調整なしでそのまま使えて環境にも優しいヤシガラは、ピートモスの代替として非常に優秀です。保水性は若干ピートモスより低めですが、撥水化しにくく扱いやすい点でむしろ観葉植物栽培向きといえます。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B08L9KNWRG?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B08L9KNWRG.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0CSSD9N5K?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0CSSD9N5K.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ヤシガラチップ ミックス 5L（ピートモス代替）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ヤシガラチップ 大粒 10L（ピートモス代替素材）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -215,8 +212,8 @@ pH調整なしでそのまま使えて環境にも優しいヤシガラは、ピ
 火山岩を高温処理した白い粒の無機質素材。水はけ・通気性の改善専用で、保水性はほぼありません。ピートモスとは逆の役割を持ち、組み合わせて使うことでバランスが取れます。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B001HS7GXY?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B001HS7GXY.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B01DN24QPQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B01DN24QPQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">バーミキュライト 18L 土壌改良用</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
