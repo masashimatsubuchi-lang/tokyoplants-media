@@ -59,7 +59,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
   const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
   const hasAmazonProducts = !post.hideAmazonBlock && post.amazonProducts && post.amazonProducts.length > 0;
+  const hasBaseProducts = post.baseProducts && post.baseProducts.length > 0;
   const showInlineBanner = ["soil", "guide", "species", "research", "review"].includes(post.category) && hasInlineProduct(post.baseProducts);
+  const showShopBanner = hasBaseProducts || !hasAmazonProducts;
   const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterFirstH2(contentWithIds) : [contentWithIds, ""];
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
@@ -175,7 +177,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
             )}
 
             {/* Shop Banner */}
-            <ShopBanner />
+            {showShopBanner && <ShopBanner />}
 
             {/* Instagram CTA */}
             <div className="mt-12 rounded-xl border border-gray-100 bg-gray-50/60 p-5">
