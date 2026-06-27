@@ -18,7 +18,7 @@ function addAssociateTag(url: string, associateTag?: string): string {
 function buildAmazonImageUrl(product: AmazonProduct): string | null {
   if (product.image) return product.image;
   if (product.asin) {
-    return `https://images-fe.ssl-images-amazon.com/images/P/${product.asin}.01._SL160_.jpg`;
+    return `https://m.media-amazon.com/images/P/${product.asin}.01._SL160_.jpg`;
   }
   return null;
 }
@@ -88,7 +88,6 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
               <div className="min-w-0 flex-1">
                 <p className="text-[16px] font-semibold leading-snug text-gray-900 line-clamp-2">{product.title}</p>
                 {product.note && <p className="mt-1 text-xs text-gray-500 line-clamp-2">{product.note}</p>}
-                {product.price && <p className="mt-2 text-lg font-extrabold tracking-tight text-amber-700">{product.price}</p>}
               </div>
             </a>
           );
