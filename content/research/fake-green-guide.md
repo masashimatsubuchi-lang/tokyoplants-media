@@ -25,12 +25,12 @@ amazonProducts:
   - title: "イミテーショングリーン アローカシア 光触媒加工"
     asin: "B0075HPZSS"
     price: "¥3,000前後"
-  - title: "寄せ植えグリーンアレンジ CT触媒 白鉢"
-    asin: "B097SXLLQ4"
-    price: "¥3,000前後"
-  - title: "Brown. 柱サボテン フェイクグリーン 約112cm"
-    asin: "B07D51Y4JW"
-    price: "¥4,000前後"
+  - title: "Alupssuc フェイクグリーン 大型光触媒 高さ120cm"
+    asin: "B0D4DGW4BQ"
+    price: "¥4,999"
+  - title: "Keeplush モンステラ 高さ120cm フェイクグリーン"
+    asin: "B0F2Z2J1VQ"
+    price: "¥8,999"
 ---
 
 「水やりが面倒」「直射日光が入らない部屋」「旅行で長期不在になる」——そんな理由で本物の観葉植物を諦めている方に、フェイクグリーンは現実的な選択肢です。しかし一口にフェイクグリーンといっても、数百円の安価な造花から数万円の高品質品まで品質の幅が非常に広く、選び方を間違えると「いかにも作り物」という印象になりかねません。
@@ -178,36 +178,37 @@ amazonProducts:
 
 ---
 
-### 4. 寄せ植えグリーンアレンジ CT触媒（白鉢）
+### 4. Alupssuc フェイクグリーン 大型 高さ120cm（光触媒）
 
-複数の植物をアレンジした寄せ植えスタイルのフェイクグリーン。白鉢との組み合わせでモダンインテリアとの相性が良好。CT触媒（光触媒の一種）加工付きで消臭効果あり。複数の植物を1つのポットで楽しめるためボリューム感があり、玄関テーブルやリビングの中心に置いても存在感があります。
+Amazonベストセラー上位の大型フェイクグリーン。二又の幹が自然な広がりを演出し、120cmのボリュームでリビングのメインプランツに最適。光触媒加工で空気清浄・消臭効果あり。1,000件超のレビューを持つ実績ブランド。
 
-- **光触媒**: CT触媒
-- **鉢**: 白セラミック調
-- **用途**: テーブル・玄関・リビングサイドボード
+- **高さ**: 120cm
+- **光触媒**: あり（空気清浄・消臭）
+- **用途**: リビング・玄関・オフィス
+- **スタイル**: ナチュラル・モダン
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B097SXLLQ4?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B097SXLLQ4.01._SL160_.jpg" alt="寄せ植えグリーンアレンジ CT触媒 白鉢" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">寄せ植えグリーンアレンジ CT触媒 白鉢</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥3,000前後 ／ Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0D4DGW4BQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0D4DGW4BQ.01._SL160_.jpg" alt="Alupssuc フェイクグリーン 大型光触媒 120cm" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Alupssuc フェイクグリーン 大型光触媒 高さ120cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
 ---
 
-### 5. Brown. 柱サボテン フェイクグリーン（約112cm）
+### 5. Keeplush モンステラ フェイクグリーン 高さ120cm
 
-柱サボテンを忠実に再現した高さ約112cmの大型フェイクグリーン。サボテンは本物でも管理が難しい場所（光が確保しにくい室内）で見栄え良く飾れます。男性的でスタイリッシュな印象があり、モノトーンインテリアやインダストリアルスタイルとの相性が抜群。サボテンのリアルな質感（縦のリブ・刺）の再現度が高い。
+リアルな葉の切れ込みと蔓の表現にこだわったモンステラ型フェイクグリーン。11枚の立体葉と4本のリアルな蔓が影と奥行きを生み出し、安価品では出せない存在感があります。白の高級鉢付きでそのまま飾れます。
 
-- **高さ**: 約112cm
-- **素材**: PE樹脂
-- **用途**: リビング・玄関・オフィス
-- **スタイル**: モダン・インダストリアル
+- **高さ**: 120cm
+- **葉**: 11枚（3D成形） + 蔓4本
+- **鉢**: 白色高級鉢 + 化粧石
+- **用途**: リビング・オフィス装飾
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B07D51Y4JW?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07D51Y4JW.01._SL160_.jpg" alt="Brown. 柱サボテン フェイクグリーン" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Brown. 柱サボテン フェイクグリーン 約112cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥4,000前後 ／ Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0F2Z2J1VQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0F2Z2J1VQ.01._SL160_.jpg" alt="Keeplush モンステラ 高さ120cm フェイクグリーン" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Keeplush モンステラ フェイクグリーン 高さ120cm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
