@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80"
+image: "https://images.unsplash.com/photo-1575365446892-b5aeab0a59ae?w=800&q=80"
 title: "観葉植物の土の捨て方・処分方法｜自治体ルール・再利用・コンポスト活用まで"
 description: "観葉植物の古い土の正しい捨て方を解説。燃えるゴミ・不燃ゴミの分別ルール、自治体別の注意点、土の再利用・消毒方法、コンポスト活用まで詳しく説明します。"
 date: "2026-06-27"
