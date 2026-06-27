@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1598880940080-ff9a29891b85?w=800&q=80"
+image: "https://images.unsplash.com/photo-1700592478407-3981353caecb?w=800&q=80"
 title: "カラテア属とは｜人気品種・育て方・葉が丸まる原因と対処法"
 description: "カラテア属の基本情報、人気品種一覧（オービフォリア・マコヤナ・ゼブリナ等）、育て方の共通ポイント、葉が丸まる・枯れる原因と対処法をまとめた図鑑ページです。"
 date: "2026-06-28"

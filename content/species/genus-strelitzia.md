@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+image: "https://images.unsplash.com/photo-1739378076447-4b600f38b7b8?w=800&q=80"
 title: "ストレリチア属とは｜レギネ・ニコライの違いと育て方・花の咲かせ方"
 description: "ストレリチア属（極楽鳥花）の基本情報。レギネとニコライの違い、育て方の基本、花を咲かせるための条件、葉が割れる理由など、人気のインテリアグリーンを徹底解説します。"
 date: "2026-06-28"
