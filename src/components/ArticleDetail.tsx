@@ -58,7 +58,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const isGenusPage = post.slug.startsWith("genus-");
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
   const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
-  const showInlineBanner = ["soil", "guide", "species", "research"].includes(post.category) && hasInlineProduct(post.baseProducts);
+  const hasAmazonProducts = !post.hideAmazonBlock && post.amazonProducts && post.amazonProducts.length > 0;
+  const showInlineBanner = ["soil", "guide", "species", "research"].includes(post.category) && hasInlineProduct(post.baseProducts) && !hasAmazonProducts;
   const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterFirstH2(contentWithIds) : [contentWithIds, ""];
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
@@ -150,6 +151,11 @@ export default function ArticleDetail({ post }: { post: Post }) {
               {htmlBottom && <div dangerouslySetInnerHTML={{ __html: htmlBottom }} />}
             </div>
 
+            {/* Amazon Affiliate Block (shown before next reads for Amazon articles) */}
+            {hasAmazonProducts && (
+              <AmazonAffiliateBlock products={post.amazonProducts!} />
+            )}
+
             {nextReads.length > 0 && (
               <section className="mt-12 rounded-2xl border border-teal-100 bg-teal-50/40 p-5 md:p-6">
                 <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Next Read</p>
@@ -162,17 +168,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
               </section>
             )}
 
-            {/* BASE Products */}
-            {post.baseProducts && post.baseProducts.length > 0 && (
+            {/* BASE Products (tokyoplants shop) — only for non-Amazon articles */}
+            {!hasAmazonProducts && post.baseProducts && post.baseProducts.length > 0 && (
               <BaseProductBlock products={post.baseProducts} />
             )}
 
-            {!post.hideAmazonBlock && post.amazonProducts && post.amazonProducts.length > 0 && (
-              <AmazonAffiliateBlock products={post.amazonProducts} />
-            )}
-
-            {/* Shop Banner */}
-            <ShopBanner />
+            {/* Shop Banner — only for non-Amazon articles */}
+            {!hasAmazonProducts && <ShopBanner />}
 
             {/* Instagram CTA */}
             <div className="mt-12 rounded-xl border border-gray-100 bg-gray-50/60 p-5">
