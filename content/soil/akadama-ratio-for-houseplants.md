@@ -16,15 +16,15 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "硬質赤玉土 小粒 14L"
-    asin: "B07JTFNQ6N"
-    price: "¥1,500前後"
+  - title: "刀川平和農園 硬質赤玉土 小粒 14L"
+    asin: "B078ZX7DRN"
+    price: ""
   - title: "プロトリーフ 観葉植物の土 14L"
-    asin: "B002P8OQWI"
-    price: "¥1,800前後"
-  - title: "赤玉土 中粒 14L（入門用）"
-    asin: "B0013EE98A"
-    price: "¥900前後"
+    asin: "B0044RQIRE"
+    price: ""
+  - title: "あかぎ園芸 赤玉土 中粒 14L"
+    asin: "B00GTC2COU"
+    price: ""
 ---
 
 「赤玉土を混ぜるといいって聞いたけど、どのくらい入れればいいの？」――観葉植物を育て始めると、土の配合で悩む方は多いです。多すぎると根が乾きすぎる、少なすぎると排水が改善されない。そのバランスが難しいですよね。

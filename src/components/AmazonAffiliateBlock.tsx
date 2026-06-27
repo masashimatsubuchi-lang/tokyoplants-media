@@ -44,7 +44,7 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
       <div className="flex items-center justify-between gap-4">
         <h2 className="text-xl font-extrabold tracking-tight text-gray-900">Amazonで関連商品を見る</h2>
         <a
-          href={addAssociateTag("https://www.amazon.co.jp/", associateTag)}
+          href="https://www.amazon.co.jp"
           target="_blank"
           rel="sponsored noopener noreferrer"
           className="text-sm font-semibold text-amber-700 hover:text-amber-900 transition-colors"

@@ -11,10 +11,6 @@ relatedSlugs:
   - "guide/monstera-care"
   - "soil/recommended-soil-for-houseplants"
   - "species/monstera-deliciosa"
-baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
 amazonProducts:
   - title: "NHK趣味の園芸 観葉植物 パーフェクトブック"
     asin: "4141993379"
