@@ -151,11 +151,17 @@ export default function ArticleDetail({ post }: { post: Post }) {
               {htmlBottom && <div dangerouslySetInnerHTML={{ __html: htmlBottom }} />}
             </div>
 
-            {/* Amazon Affiliate Block (shown before next reads for Amazon articles) */}
+            {/* Amazon Affiliate Block */}
             {hasAmazonProducts && (
               <AmazonAffiliateBlock products={post.amazonProducts!} />
             )}
 
+            {/* BASE Products (tokyoplants shop) */}
+            {post.baseProducts && post.baseProducts.length > 0 && (
+              <BaseProductBlock products={post.baseProducts} />
+            )}
+
+            {/* Next Reads */}
             {nextReads.length > 0 && (
               <section className="mt-12 rounded-2xl border border-teal-100 bg-teal-50/40 p-5 md:p-6">
                 <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Next Read</p>
@@ -166,11 +172,6 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   ))}
                 </div>
               </section>
-            )}
-
-            {/* BASE Products (tokyoplants shop) */}
-            {post.baseProducts && post.baseProducts.length > 0 && (
-              <BaseProductBlock products={post.baseProducts} />
             )}
 
             {/* Shop Banner */}
