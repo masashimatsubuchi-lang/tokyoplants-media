@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1604360830592-9f7868b56846?w=800&q=80"
 title: "ビカクシダの板付けにおすすめの板・コルク5選｜サイズ・素材・固定方法まで解説"
 description: "ビカクシダの板付けにおすすめの板・コルクを5つ紹介。ヘゴ板・コルク板・杉板・流木の違い、サイズの選び方、水苔と組み合わせた固定方法まで詳しく解説します。"
 date: "2026-06-27"
-category: "guide"
+category: "review"
 tags: ["ビカクシダ", "板付け", "コルク", "ヘゴ板", "着生植物", "インテリア"]
 author: "tokyoplants 編集部"
 relatedSlugs:
@@ -16,21 +16,21 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "コルク板 着生植物用 Mサイズ 20×30cm"
-    asin: "B08KGPBC77"
+  - title: "コルク板 30×40cm ビカクシダ板付け用"
+    asin: "B0CHQPBJ8N"
     price: "¥1,200前後"
-  - title: "ヘゴ板 板付け用 20cm角"
-    asin: "B002LVTHM2"
+  - title: "WinJapan コルク樹皮 中サイズ150×200 5枚"
+    asin: "B0CG4GFVSH"
     price: "¥1,500前後"
-  - title: "杉板 板付け用 焼杉 30cm"
-    asin: "B09W4XWBWV"
+  - title: "ナチュラル ヘゴ板 13〜20cm×30〜40cm"
+    asin: "B076F2LGHL"
+    price: "¥1,500前後"
+  - title: "着生板 コルク+杉 2枚セット ビカクシダ板付け"
+    asin: "B0DJ8YZYLQ"
     price: "¥800前後"
-  - title: "流木 板付け・インテリア用 Mサイズ"
-    asin: "B07MWQ9Y7Q"
-    price: "¥1,000前後"
-  - title: "ステンレスワイヤー 板付け固定用 0.9mm"
-    asin: "B0013EE8HW"
-    price: "¥500前後"
+  - title: "チャーム ビカクシダ コウモリラン 板付けセット"
+    asin: "B0B2PHL6VM"
+    price: "¥1,500前後"
 ---
 
 ビカクシダの板付けを始めようとしたとき、「コルク板がいいの？ヘゴ板がいいの？杉板は？」と素材選びで迷う方は多いはずです。種類が多すぎて、どれを選べばよいか分からないまま購入をためらってしまう——そんな経験をしている方に向けて、この記事では板の種類ごとの特徴から選び方、固定方法まで一気に解説します。
@@ -176,86 +176,86 @@ amazonProducts:
 
 ## おすすめ商品5選
 
-### 1. コルク板 着生植物用 Mサイズ 20×30cm
+### 1. コルク板 30×40cm ビカクシダ板付け用
 
-初めての板付けに最適なフラットタイプのコルク板。天然コルクの凹凸が根の活着を促し、適度な通気性と保水性を確保。20×30cmは中株にちょうど良いサイズで、貯水葉が広がっても板がしっかり見えるバランスの良い大きさです。
+初めての板付けに最適なフラットタイプのコルク板。天然コルクの凹凸が根の活着を促し、適度な通気性と保水性を確保。30×40cmは中〜大株にも対応できるサイズで、貯水葉が広がっても余裕があります。
 
 **メリット**: 軽量・加工しやすい・活着しやすい・見た目が美しい
 **デメリット**: 大型株には複数枚必要になることも
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B08KGPBC77?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B08KGPBC77.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0CHQPBJ8N?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0CHQPBJ8N.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">コルク板 着生植物用 Mサイズ 20×30cm</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">コルク板 30×40cm ビカクシダ板付け用</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
 </div>
 
-### 2. ヘゴ板 板付け用 20cm角
+### 2. WinJapan コルク樹皮 中サイズ 5枚セット
+
+まとめて揃えたい方に。150×200mmの中サイズが5枚セットで届くお得なコルク樹皮。天然素材ならではの凹凸がビカクシダの根の活着を促します。複数株をまとめて板付けしたいときや、失敗しても替えがある安心感が初心者にも◎。
+
+**メリット**: コスパ良好・まとめ買い可能・着生ランやエアプランツにも使える
+**デメリット**: サイズのばらつきがある場合あり
+
+<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
+<a href="https://www.amazon.co.jp/dp/B0CG4GFVSH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0CG4GFVSH.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">WinJapan コルク樹皮 中サイズ150×200 5枚</p>
+<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
+</div>
+</a>
+</div>
+
+### 3. ナチュラル ヘゴ板 13〜20cm×30〜40cm
 
 プロ愛好家にも愛用される本格派素材。繊維の隙間から空気と水が自由に循環するため、ビカクシダが最も活き活きと育ちます。希少性があるため大切に使いたい一枚。中〜上級者の株に特におすすめです。
 
 **メリット**: 通気性が最高・活着スピードが速い・自生地に近い環境を再現できる
-**デメリット**: 入手しにくい・価格がやや高い・重さがある
+**デメリット**: 入手しにくい・サイズにばらつきあり
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B002LVTHM2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B002LVTHM2.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B076F2LGHL?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B076F2LGHL.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ヘゴ板 板付け用 20cm角</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ナチュラル ヘゴ板 13〜20cm×30〜40cm</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
 </div>
 
-### 3. 杉板 板付け用 焼杉 30cm
+### 4. 着生板 コルク+杉 2枚セット
 
-コスパ最優先の方に。焼杉加工で耐久性が高く、屋外管理でも腐りにくい。ノコギリでカットすれば自分好みのサイズに調整でき、DIY板付けの醍醐味が楽しめます。多株育成で数をそろえたい方にも最適。
+コルク板と杉板の両方が入ったお試しセット。素材の違いを実際に比較しながら板付けできるため、自分に合う素材を見極めたい方に最適です。
 
-**メリット**: 安価・入手しやすい・耐久性が高い・サイズ自由度が高い
-**デメリット**: 通気性はコルク板・ヘゴ板より劣る・仕上がりの見た目がシンプル
+**メリット**: 2素材を試せる・コスパ良好・初心者の最初の一歩に最適
+**デメリット**: サイズが小さめの場合がある
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B09W4XWBWV?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B09W4XWBWV.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0DJ8YZYLQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0DJ8YZYLQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">杉板 板付け用 焼杉 30cm</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">着生板 コルク+杉 2枚セット ビカクシダ板付け</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
 </div>
 
-### 4. 流木 板付け・インテリア用 Mサイズ
+### 5. チャーム ビカクシダ板付けセット
 
-インテリア性を最重視する方に。一点物の形が部屋の雰囲気を一気に底上げします。ボタニカルな空間づくりにこだわりたい方、SNSでビカクシダを発信している方に特に人気の素材です。
+水苔・ワイヤー・コルク板がセットになった板付け初心者向けキット。必要なものが一式揃っているため、初めての板付けに最適です。
 
-**メリット**: 唯一無二のデザイン・ナチュラル感が高い・軽量なものも多い
-**デメリット**: 形が不規則で固定に慣れが必要・品質にばらつきがある
-
-<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07MWQ9Y7Q?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07MWQ9Y7Q.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">流木 板付け・インテリア用 Mサイズ</p>
-<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
-</div>
-</a>
-</div>
-
-### 5. ステンレスワイヤー 板付け固定用 0.9mm
-
-板付けに欠かせない固定用ワイヤー。ステンレス製は錆びにくく、水やりのたびに濡れる板付け環境での長期使用に最適です。0.9mmは扱いやすい太さで、初心者でも折り曲げや締め付けがしやすいサイズ感。板の穴に通してねじるだけで固定完了です。
-
-**メリット**: 錆びにくい・扱いやすい太さ・長尺で多株に使える・コスパが高い
-**デメリット**: 細いため大型株・重い板には複数本使用が必要
+**メリット**: 必要道具が揃っている・初心者に最適・コスパが高い
+**デメリット**: 板のサイズが固定されているため、大型株には別途素材が必要
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0013EE8HW?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0013EE8HW.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0B2PHL6VM?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0B2PHL6VM.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ステンレスワイヤー 板付け固定用 0.9mm</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">チャーム ビカクシダ板付けセット</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

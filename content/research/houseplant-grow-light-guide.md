@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1475783006851-1d68dd683eff?w=1200&q=80
 title: "観葉植物にライトは必要？選び方・設置方法・照射時間を解説"
 description: "観葉植物に育成ライトが必要なケース・必要でないケースを解説。PPFD・色温度の選び方から設置距離・照射時間の管理まで、初心者でも分かるよう丁寧に紹介します。"
 date: "2026-06-08"
-category: "guide"
+category: "research"
 tags:
   - 育成ライト
   - LED

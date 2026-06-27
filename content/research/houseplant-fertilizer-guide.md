@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1664297276585-84cbe1aaad9a?w=120
 title: "観葉植物の肥料｜N・P・Kの役割から与え方・製品レビューまで徹底解説"
 description: "観葉植物の肥料を徹底解説。三大栄養素（N・P・K）の役割、有機肥料と化学肥料の違い、液肥・緩効性肥料の使い分け、施肥のタイミング、肥料焼けの対処法、ハイポネックス・マグァンプKなどおすすめ製品レビューをまとめました。"
 date: "2026-06-09"
-category: guide
+category: research
 tags:
   - 肥料
   - 初心者

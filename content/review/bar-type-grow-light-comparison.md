@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"
   - "guide/platycerium-grow-light-guide"
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "guide/monstera-grow-light-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"

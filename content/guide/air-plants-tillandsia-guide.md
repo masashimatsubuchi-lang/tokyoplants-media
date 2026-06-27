@@ -7,7 +7,7 @@ category: "guide"
 tags: ["エアプランツ", "チランジア", "飾り方", "室内栽培", "土不要"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "guide/monstera-care"
   - "review/plant-light-review"
 baseProducts:

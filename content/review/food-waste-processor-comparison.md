@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1590682680695-43b964a3ae17?w=800&q=80"
 title: "電動生ごみ処理機おすすめ5選｜パリパリキュー・ルーフェン・パナソニック・Reencleを徹底比較"
 description: "電動生ごみ処理機おすすめ5機種を徹底比較。乾燥式・バイオ式・ハイブリッド式の違い、処理能力・消費電力・臭い・助成金対象の選び方まで専門的に解説します。"
 date: "2026-06-27"
-category: "guide"
+category: "review"
 tags: ["コンポスト", "生ごみ処理機", "電動", "堆肥", "SDGs", "家庭菜園", "観葉植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:

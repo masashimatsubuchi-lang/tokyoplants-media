@@ -7,7 +7,7 @@ category: "guide"
 tags: ["ハーブ", "バジル", "ミント", "室内栽培", "水耕栽培", "家庭菜園"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:

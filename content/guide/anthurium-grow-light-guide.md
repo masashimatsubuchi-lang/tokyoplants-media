@@ -14,7 +14,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "review/plant-light-review"
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "species/anthurium-warocqueanum"
   - "species/anthurium-regale"
   - "species/velvet-anthurium-types-comparison"

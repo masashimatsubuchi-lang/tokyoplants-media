@@ -8,7 +8,7 @@ tags: ["道具", "グッズ", "鉢", "ジョウロ", "肥料", "虫対策", "観
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/recommended-pots-for-houseplants"
-  - "guide/houseplant-pest-control-tools"
+  - "review/houseplant-pest-control-tools"
   - "soil/recommended-soil-for-houseplants"
   - "review/plant-light-review"
 baseProducts:

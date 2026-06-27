@@ -14,7 +14,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/monstera-care"
   - "review/plant-light-review"
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "species/monstera-deliciosa"
   - "species/monstera-albo-variegata"
   - "species/monstera-thai-constellation"

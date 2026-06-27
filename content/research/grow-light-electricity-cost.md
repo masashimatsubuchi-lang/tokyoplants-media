@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1663609476830-8c247515c1db?w=1200&q=80
 title: "育成ライトの電気代はいくら？1ヶ月の目安と節約のコツ"
 description: "植物育成ライトの電気代を具体的に計算。10W・20W・40Wそれぞれの1日・1ヶ月のコストと、電気代を抑えながら効果を最大化するポイントを解説します。"
 date: "2026-06-08"
-category: "guide"
+category: "research"
 tags:
   - 植物育成ライト
   - 室内栽培
@@ -11,7 +11,7 @@ tags:
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "guide/platycerium-grow-light-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"

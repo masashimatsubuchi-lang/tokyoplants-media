@@ -8,7 +8,7 @@ category: "review"
 tags: ["植物育成ライト", "LED", "レビュー", "室内栽培", "ビカクシダ", "育成ライト"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "guide/platycerium-grow-light-guide"
   - "guide/monstera-care"
   - "guide/alocasia-care-guide"

@@ -13,7 +13,7 @@ relatedSlugs:
   - "review/houseplant-magazine-guide"
   - "research/history-of-houseplants"
   - "research/rare-plant-price-bubble"
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"

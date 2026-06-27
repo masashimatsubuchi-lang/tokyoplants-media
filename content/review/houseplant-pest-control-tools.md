@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1748027144968-2c67949d8942?w=120
 title: "観葉植物の虫対策グッズおすすめ5選｜コバエ・ハダニ・カイガラムシ別の駆除方法"
 description: "観葉植物に湧くコバエ・ハダニ・カイガラムシの駆除に効果的なグッズをまとめました。オルトランDX・ベニカX・粘着シートなど、虫の種類別に最適な対策方法を解説します。"
 date: "2026-06-26"
-category: "guide"
+category: "review"
 tags: ["虫対策", "コバエ", "ハダニ", "カイガラムシ", "農薬", "観葉植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:

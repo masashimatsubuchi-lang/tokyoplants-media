@@ -12,7 +12,7 @@ tags:
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"
-  - "guide/houseplant-grow-light-guide"
+  - "research/houseplant-grow-light-guide"
   - "species/platycerium-bifurcatum"
   - "species/platycerium-ridleyi"
   - "species/platycerium-willinckii"
