@@ -16,9 +16,9 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "光の楽園 フェイクグリーン パキラポット L｜日本製・光触媒"
-    asin: "B07TXJQHTF"
-    price: "¥5,000前後"
+  - title: "Alupssuc フェイクグリーン パキラ（幸福の木）高さ100cm 光触媒"
+    asin: "B0F8V62Y44"
+    price: ""
   - title: "フェイクグリーン アイビー ガーランド 防水 鉄線付き"
     asin: "B09WY958YL"
     price: "¥1,000〜2,000前後"
@@ -124,19 +124,19 @@ amazonProducts:
 
 ## フェイクグリーンおすすめ7選
 
-### 1. 光の楽園 パキラポット L（日本製・光触媒）
+### 1. Alupssuc フェイクグリーン パキラ（幸福の木）高さ100cm
 
-日本製フェイクグリーンの最高峰ブランド「光の楽園」。トヨタ中研が開発した可視光応答型光触媒「V-CAT」を採用しており、明るい室内でも機能する高度な加工技術が特徴です。葉のリアリティが国産品の中でトップクラス。パキラの幹の質感、葉の光沢と濃淡まで細部まで再現されており、来客が本物と区別できないというレビューが多い。
+Amazonベストセラー常連の実績ブランド Alupssuc によるパキラ型フェイクグリーン。幹のねじれや葉の光沢をリアルに再現。光触媒加工で消臭・空気清浄効果あり。Prime翌日配送対応。
 
-- **素材**: ポリエチレン・布巻き茎
-- **光触媒**: V-CAT（可視光対応）
-- **サイズ**: 約H90cm前後（Lサイズ）
+- **素材**: PE樹脂
+- **光触媒**: あり（消臭・空気清浄）
+- **サイズ**: 約H100cm
 - **用途**: リビング・玄関・オフィス
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B07TXJQHTF?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07TXJQHTF.01._SL160_.jpg" alt="光の楽園 パキラポット L" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">光の楽園 フェイクグリーン パキラポット L｜日本製・光触媒</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥5,000前後 ／ Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0F8V62Y44?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0F8V62Y44.01._SL160_.jpg" alt="Alupssuc フェイクグリーン パキラ 100cm" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Alupssuc フェイクグリーン パキラ（幸福の木）高さ100cm 光触媒</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -154,7 +154,7 @@ amazonProducts:
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B09WY958YL?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B09WY958YL.01._SL160_.jpg" alt="フェイクグリーン アイビー ガーランド" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">フェイクグリーン アイビー ガーランド 防水・鉄線入り</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥1,000〜2,000前後 ／ Amazon で見る →</p></div>
+<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">フェイクグリーン アイビー ガーランド 防水・鉄線入り</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -172,7 +172,7 @@ amazonProducts:
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0075HPZSS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B0075HPZSS.01._SL160_.jpg" alt="イミテーショングリーン アローカシア" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">イミテーショングリーン アローカシア 光触媒加工</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">¥3,000前後 ／ Amazon で見る →</p></div>
+<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">イミテーショングリーン アローカシア 光触媒加工</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
