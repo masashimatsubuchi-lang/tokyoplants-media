@@ -168,13 +168,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
               </section>
             )}
 
-            {/* BASE Products (tokyoplants shop) — only for non-Amazon articles */}
-            {!hasAmazonProducts && post.baseProducts && post.baseProducts.length > 0 && (
+            {/* BASE Products (tokyoplants shop) */}
+            {post.baseProducts && post.baseProducts.length > 0 && (
               <BaseProductBlock products={post.baseProducts} />
             )}
 
-            {/* Shop Banner — only for non-Amazon articles */}
-            {!hasAmazonProducts && <ShopBanner />}
+            {/* Shop Banner */}
+            <ShopBanner />
 
             {/* Instagram CTA */}
             <div className="mt-12 rounded-xl border border-gray-100 bg-gray-50/60 p-5">
