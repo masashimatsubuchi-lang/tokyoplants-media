@@ -1,7 +1,7 @@
 ---
 image: "https://images.unsplash.com/photo-1604360830592-9f7868b56846?w=800&q=80"
-title: "ビカクシダの板付けにおすすめの板・コルク5選｜サイズ・素材・固定方法まで解説"
-description: "ビカクシダの板付けにおすすめの板・コルクを5つ紹介。ヘゴ板・コルク板・杉板・流木の違い、サイズの選び方、水苔と組み合わせた固定方法まで詳しく解説します。"
+title: "ビカクシダの板付けにおすすめの板・コルク4選｜サイズ・素材・固定方法まで解説"
+description: "ビカクシダの板付けにおすすめの板・コルクを4つ紹介。ヘゴ板・コルク板・杉板・流木の違い、サイズの選び方、水苔と組み合わせた固定方法まで詳しく解説します。"
 date: "2026-06-27"
 category: "review"
 tags: ["ビカクシダ", "板付け", "コルク", "ヘゴ板", "着生植物", "インテリア"]
@@ -16,18 +16,15 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "コルク板 30×40cm ビカクシダ板付け用"
-    asin: "B0CHQPBJ8N"
-    price: "¥1,200前後"
+  - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
+    asin: "B0CG35V5CD"
+    price: "¥1,500前後"
   - title: "WinJapan コルク樹皮 中サイズ150×200 5枚"
     asin: "B0CG4GFVSH"
     price: "¥1,500前後"
   - title: "ナチュラル ヘゴ板 13〜20cm×30〜40cm"
     asin: "B076F2LGHL"
     price: "¥1,500前後"
-  - title: "着生板 コルク+杉 2枚セット ビカクシダ板付け"
-    asin: "B0DJ8YZYLQ"
-    price: "¥800前後"
   - title: "チャーム ビカクシダ コウモリラン 板付けセット"
     asin: "B0B2PHL6VM"
     price: "¥1,500前後"
@@ -174,20 +171,20 @@ amazonProducts:
 
 ---
 
-## おすすめ商品5選
+## おすすめ商品4選
 
-### 1. コルク板 30×40cm ビカクシダ板付け用
+### 1. WinJapan コルク樹皮 特大300×400mm
 
-初めての板付けに最適なフラットタイプのコルク板。天然コルクの凹凸が根の活着を促し、適度な通気性と保水性を確保。30×40cmは中〜大株にも対応できるサイズで、貯水葉が広がっても余裕があります。
+初めての板付けに最適なフラットタイプのコルク板。天然コルクの凹凸が根の活着を促し、適度な通気性と保水性を確保。30×40cmは中〜大株にも対応できるサイズで、貯水葉が広がっても余裕があります。WinJapanはビカクシダ・エアプランツ用コルク素材の定番ブランド。
 
 **メリット**: 軽量・加工しやすい・活着しやすい・見た目が美しい
 **デメリット**: 大型株には複数枚必要になることも
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0CHQPBJ8N?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0CHQPBJ8N.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0CG35V5CD.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">コルク板 30×40cm ビカクシダ板付け用</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">WinJapan コルク樹皮 特大300×400mm 1枚</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -227,24 +224,7 @@ amazonProducts:
 </a>
 </div>
 
-### 4. 着生板 コルク+杉 2枚セット
-
-コルク板と杉板の両方が入ったお試しセット。素材の違いを実際に比較しながら板付けできるため、自分に合う素材を見極めたい方に最適です。
-
-**メリット**: 2素材を試せる・コスパ良好・初心者の最初の一歩に最適
-**デメリット**: サイズが小さめの場合がある
-
-<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0DJ8YZYLQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0DJ8YZYLQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">着生板 コルク+杉 2枚セット ビカクシダ板付け</p>
-<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
-</div>
-</a>
-</div>
-
-### 5. チャーム ビカクシダ板付けセット
+### 4. チャーム ビカクシダ板付けセット
 
 水苔・ワイヤー・コルク板がセットになった板付け初心者向けキット。必要なものが一式揃っているため、初めての板付けに最適です。
 
