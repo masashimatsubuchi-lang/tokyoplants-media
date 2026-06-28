@@ -32,7 +32,7 @@ export default function Home() {
   const popularTags = getAllTags()
     .map((tag) => ({ tag, count: getPostsByTag(tag).length }))
     .sort((a, b) => b.count - a.count)
-    .slice(0, 30);
+    .slice(0, 20);
 
   const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
   const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
@@ -79,7 +79,7 @@ export default function Home() {
       </section>
 
       {/* Intent Navigation */}
-      <section className="bg-gradient-to-r from-emerald-50/70 via-white to-emerald-50/40 py-16">
+      <section className="bg-gradient-to-r from-emerald-50/70 via-white to-emerald-50/40 py-10 md:py-16">
         <div className="mx-auto max-w-5xl px-4">
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-emerald-700">Quick Start</p>
           <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">目的から探す</h2>
@@ -104,7 +104,7 @@ export default function Home() {
       </section>
 
       {/* Tag Cloud */}
-      <section className="bg-gray-50/80 py-16">
+      <section className="bg-gray-50/80 py-10 md:py-16">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -135,7 +135,7 @@ export default function Home() {
 
       {/* Editors Pick */}
       {editorsPick.length > 0 && (
-        <section className="py-24 bg-white">
+        <section className="py-12 md:py-24 bg-white">
           <div className="mx-auto max-w-5xl px-4">
             <div className="flex items-end justify-between">
               <div>
@@ -159,7 +159,7 @@ export default function Home() {
       )}
 
       {/* Soil 特集 */}
-      <section className="py-24 bg-gray-50/80">
+      <section className="py-12 md:py-24 bg-gray-50/80">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -195,7 +195,7 @@ export default function Home() {
       </section>
 
       {/* Guide */}
-      <section className="bg-white py-24">
+      <section className="bg-white py-12 md:py-24">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -228,7 +228,7 @@ export default function Home() {
       </section>
 
       {/* Species */}
-      <section className="py-24 bg-gray-50/80">
+      <section className="py-12 md:py-24 bg-gray-50/80">
         <div className="mx-auto max-w-5xl px-4">
           <div className="flex items-end justify-between">
             <div>
@@ -262,7 +262,7 @@ export default function Home() {
 
       {/* Research */}
       {researchPosts.length > 0 && (
-        <section className="bg-white py-24">
+        <section className="bg-white py-12 md:py-24">
           <div className="mx-auto max-w-5xl px-4">
             <div className="flex items-end justify-between">
               <div>
@@ -293,7 +293,7 @@ export default function Home() {
 
       {/* Review */}
       {reviewPosts.length > 0 && (
-        <section className="bg-gray-50/80 py-24">
+        <section className="bg-gray-50/80 py-12 md:py-24">
           <div className="mx-auto max-w-5xl px-4">
             <div className="flex items-end justify-between">
               <div>
@@ -323,7 +323,7 @@ export default function Home() {
       )}
 
       {/* All Articles */}
-      <section className="border-t border-gray-100 py-24 bg-white">
+      <section className="border-t border-gray-100 py-12 md:py-24 bg-white">
         <div className="mx-auto max-w-5xl px-4">
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">All Articles</p>
           <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
@@ -335,7 +335,7 @@ export default function Home() {
       </section>
 
       {/* EC Banner */}
-      <section className="py-24">
+      <section className="py-12 md:py-24">
         <div className="mx-auto max-w-5xl px-4">
           <div className="rounded-2xl bg-teal-800 overflow-hidden">
             <div className="px-8 py-14 md:px-16 md:py-16 grid md:grid-cols-2 gap-10 items-center">
@@ -410,7 +410,7 @@ export default function Home() {
       </section>
 
       {/* Instagram */}
-      <section className="border-t border-gray-100 py-16">
+      <section className="border-t border-gray-100 py-10 md:py-16">
         <div className="mx-auto max-w-5xl px-4">
           <div className="text-center">
             <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-400">
