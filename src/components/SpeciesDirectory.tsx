@@ -29,6 +29,17 @@ export default function SpeciesDirectory({ posts }: { posts: PostMeta[] }) {
     genusLabelMap.set(key, getGenusLabel(gp.title));
   }
 
+  // genus-ページが存在しない属の日本語フォールバック
+  const genusFallback: Record<string, string> = {
+    amydrium: "アミドリウム属",
+    begonia: "ベゴニア属",
+    epipremnum: "エピプレムナム属",
+    rhaphidophora: "ラフィドフォラ属",
+    scindapsus: "シンダプサス属",
+    syngonium: "シンゴニウム属",
+    tradescantia: "トラデスカンティア属",
+  };
+
   // フィルター済み記事
   const filtered = activeGenus
     ? speciesPosts.filter((p) => p.genus === activeGenus)
@@ -63,7 +74,7 @@ export default function SpeciesDirectory({ posts }: { posts: PostMeta[] }) {
                 : "border border-gray-200 bg-white text-gray-600 hover:border-teal-400 hover:text-teal-700"
             }`}
           >
-            {genusLabelMap.get(key) ?? key}
+            {genusLabelMap.get(key) ?? genusFallback[key] ?? key}
           </button>
         ))}
       </div>
