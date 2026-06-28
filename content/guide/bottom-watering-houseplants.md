@@ -20,10 +20,9 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
 amazonProducts:
-  - title: "底面給水鉢 セット（受け皿付き）"
+  - title: "T4U 自己給水プランター 3個セット"
     asin: "B07Q2VCPHQ"
     note: "底から水を吸い上げる底面給水専用鉢。水やり管理が楽に"
-    price: "¥1,500〜"
 ---
 
 「旅行中に植物を枯らしてしまった」「水やりのタイミングがわからない」——観葉植物の水やり失敗で悩んでいる人に、底面給水という選択肢があります。
@@ -99,7 +98,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B07Q2VCPHQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-na.ssl-images-amazon.com/images/P/B07Q2VCPHQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B07Q2VCPHQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">底面給水ポット（透明・水位確認）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>

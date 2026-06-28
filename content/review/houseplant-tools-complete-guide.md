@@ -16,10 +16,9 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "ITANSE スリット鉢 6号（18cm）ブラック 5個セット"
+  - title: "ITANSE スリット鉢（ブラック）"
     asin: "B08CXX4B4X"
     note: "通気性・排水性に優れたスリット入り。根詰まり・根腐れ防止の定番"
-    price: "¥1,000〜"
   - title: "ハイポネックス原液 800ml"
     asin: "B0027WPD7O"
     note: "液肥の定番。水やり時に希釈して使用。即効性で成長促進"

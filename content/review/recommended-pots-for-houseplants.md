@@ -15,10 +15,9 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "ITANSE スリット鉢 6号（18cm）ブラック 5個セット"
+  - title: "ITANSE スリット鉢（ブラック）"
     asin: "B08CXX4B4X"
     note: "通気性・排水性に優れたスリット入り。根詰まり・根腐れ防止の定番"
-    price: "¥1,000〜"
   - title: "プレステラ90 黒 10個セット"
     asin: "B00BQ6BVPU"
     note: "多肉・サボテン・挿し木管理の定番。底穴が多く水はけ抜群"

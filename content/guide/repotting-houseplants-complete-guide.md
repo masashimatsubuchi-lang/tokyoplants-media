@@ -23,10 +23,9 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,200"
 amazonProducts:
-  - title: "ITANSE スリット鉢 6号（18cm）ブラック 5個セット"
+  - title: "ITANSE スリット鉢（ブラック）"
     asin: "B08CXX4B4X"
     note: "排水性・通気性に優れたスリット入り。植え替え先の鉢として定番"
-    price: "¥1,000〜"
   - title: "鉢底ネット 丸型 20枚入り"
     asin: "B092JRTWBX"
     note: "鉢底の穴をふさぐネット。土こぼれ・虫の侵入防止に"
@@ -178,7 +177,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B08CXX4B4X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-na.ssl-images-amazon.com/images/P/B08CXX4B4X.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B08CXX4B4X.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">スリット鉢（黒・5個セット）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
@@ -192,7 +191,7 @@ amazonProducts:
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B092JRTWBX?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://images-na.ssl-images-amazon.com/images/P/B092JRTWBX.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/P/B092JRTWBX.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">植え替えセット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
