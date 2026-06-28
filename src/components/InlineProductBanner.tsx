@@ -96,39 +96,42 @@ export default function InlineProductBanner({ products }: Props) {
           href={productUrl}
           target="_blank"
           rel="noopener noreferrer"
-          className={`group flex items-center gap-4 rounded-xl border bg-white px-4 py-3 transition-all ${
+          className={`group flex flex-col sm:flex-row sm:items-center gap-3 rounded-xl border bg-white px-4 py-3 transition-all ${
             isSoldOut
               ? "border-gray-200 cursor-not-allowed opacity-60"
               : "border-emerald-100 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
           }`}
         >
-          {/* Thumbnail */}
-          <div className="h-16 w-16 shrink-0 overflow-hidden rounded-xl border border-emerald-100">
-            <img
-              src={meta.img}
-              alt={meta.label}
-              className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
-              loading="lazy"
-            />
-          </div>
+          {/* Thumbnail + Text row */}
+          <div className="flex items-center gap-3 min-w-0 flex-1">
+            {/* Thumbnail */}
+            <div className="h-14 w-14 shrink-0 overflow-hidden rounded-xl border border-emerald-100">
+              <img
+                src={meta.img}
+                alt={meta.label}
+                className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+                loading="lazy"
+              />
+            </div>
 
-          {/* Text */}
-          <div className="min-w-0 flex-1">
-            <p className="text-[13px] font-bold text-gray-900">{meta.label}</p>
-            <p className="mt-0.5 text-[12px] leading-snug text-gray-500 line-clamp-2">{meta.note}</p>
+            {/* Text */}
+            <div className="min-w-0 flex-1">
+              <p className="text-[13px] font-bold text-gray-900">{meta.label}</p>
+              <p className="mt-0.5 text-[12px] leading-snug text-gray-500 line-clamp-2">{meta.note}</p>
+            </div>
           </div>
 
           {/* Price + CTA */}
-          <div className="shrink-0 text-right">
+          <div className="flex items-center justify-between sm:flex-col sm:items-end shrink-0">
             {product.price && !isSoldOut && (
               <p className="text-base font-extrabold text-emerald-700">{product.price}</p>
             )}
             {isSoldOut ? (
-              <span className="mt-1 inline-block rounded-full bg-gray-400 px-3 py-1 text-[11px] font-bold text-white">
+              <span className="inline-block rounded-full bg-gray-400 px-3 py-1 text-[11px] font-bold text-white">
                 SOLD OUT
               </span>
             ) : (
-              <span className="mt-1 inline-block rounded-full bg-emerald-600 px-3 py-1 text-[11px] font-bold text-white transition-colors group-hover:bg-emerald-700">
+              <span className="inline-block rounded-full bg-emerald-600 px-4 py-2 text-[12px] font-bold text-white transition-colors group-hover:bg-emerald-700">
                 購入する →
               </span>
             )}

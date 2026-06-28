@@ -87,12 +87,12 @@ export default function ArticleDetail({ post }: { post: Post }) {
 
       <article className="mx-auto max-w-6xl px-4 py-12 md:py-16">
         {/* Breadcrumb */}
-        <nav className="mb-8 text-[13px] text-zinc-400">
+        <nav className="mb-8 text-[13px] text-zinc-400 flex flex-wrap items-center gap-y-1">
           <Link href="/" className="hover:text-zinc-900 transition-colors">トップ</Link>
           <span className="mx-2">/</span>
           <Link href={`/${post.category}`} className="hover:text-zinc-900 transition-colors">{category?.name}</Link>
           <span className="mx-2">/</span>
-          <span className="text-zinc-600">{post.title}</span>
+          <span className="text-zinc-600 break-all">{post.title}</span>
         </nav>
 
         <div className="grid gap-10 lg:grid-cols-[1fr_280px] lg:items-start">
@@ -190,7 +190,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   href="https://www.instagram.com/tokyoplants_"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="shrink-0 rounded-full bg-gray-900 px-5 py-2 text-xs font-semibold text-white hover:bg-gray-700 transition-colors"
+                  className="shrink-0 rounded-full bg-gray-900 px-5 py-2.5 text-xs font-semibold text-white hover:bg-gray-700 transition-colors"
                 >
                   @tokyoplants_
                 </a>

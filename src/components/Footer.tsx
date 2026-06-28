@@ -14,12 +14,12 @@ export default function Footer() {
               観葉植物の育て方・図鑑・レビューをお届けするメディア
             </p>
           </div>
-          <nav className="flex flex-wrap gap-5 text-[13px]">
+          <nav className="flex flex-wrap gap-x-5 gap-y-1 text-[13px]">
             {categories.map((cat) => (
               <Link
                 key={cat.slug}
                 href={`/${cat.slug}`}
-                className="text-gray-400 hover:text-gray-900 transition-colors"
+                className="py-2 text-gray-400 hover:text-gray-900 transition-colors"
               >
                 {cat.name}
               </Link>
@@ -28,7 +28,7 @@ export default function Footer() {
               href="https://www.instagram.com/tokyoplants_"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-gray-400 hover:text-gray-900 transition-colors"
+              className="py-2 text-gray-400 hover:text-gray-900 transition-colors"
             >
               Instagram
             </a>
@@ -36,7 +36,7 @@ export default function Footer() {
               href="https://www.tokyoplants.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="font-semibold text-teal-700 hover:text-teal-800 transition-colors"
+              className="py-2 font-semibold text-teal-700 hover:text-teal-800 transition-colors"
             >
               SHOP
             </a>
