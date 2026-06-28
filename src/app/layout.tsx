@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import Header from "@/components/Header";
@@ -17,6 +17,12 @@ const geistMono = Geist_Mono({
 
 const GA_ID = "G-F1NSGZ0BQ6";
 const GTM_ID = "GTM-W4B3BGPL";
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://media.tokyoplants.com"),
