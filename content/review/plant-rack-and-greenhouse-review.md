@@ -20,8 +20,8 @@ baseProducts:
     price: "¥2,000"
 hideAmazonBlock: true
 amazonProducts:
-  - title: "ビザールプランツラック（育成ライト・サーキュレーター取付対応）"
-    asin: "B0FF1L2CMY"
+  - title: "BIBILAB ビザールプランツラック LPR-800-BK（育成ライト・サーキュレーター取付対応）"
+    asin: "B0DGFY7TMV"
     note: "植物専用設計・ライト＆サーキュレーター取付可・キャスター付き・連結拡張対応"
   - title: "ドウシシャ ルミナス ノワール 4段"
     asin: "B07H9VRZ17"
@@ -112,8 +112,8 @@ BIBILAB（ビビラボ）が手がける植物愛好家向けの専用育成ラ�
 **注意点**: パーツ拡張不可、汎用メタルラックより高価
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0FF1L2CMY?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0FF1L2CMY.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0DGFY7TMV?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0DGFY7TMV.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">植物棚（ライト取付前提設計）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>

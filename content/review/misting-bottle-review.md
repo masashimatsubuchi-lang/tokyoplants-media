@@ -24,9 +24,8 @@ amazonProducts:
   - title: "フルプラ ダイヤスプレー ピストル型 500"
     asin: "B001VJSBGE"
     note: "Amazon評価 4.2 / 1,378件（2026-02-20取得）"
-  - title: "HeGeed 電動霧吹き 2L"
-    asin: "B0G1M8RNNX"
-    note: "Amazon評価 4.6 / 28件（2026-02-20取得）"
+  - title: "電動霧吹き 2L USB充電式"
+    asin: "B0CRV32NCZ"
 hideAmazonBlock: true
 ---
 
@@ -94,9 +93,9 @@ Amazon評価: 4.2 / 1,378件（2026-02-20取得）
 
 ボタンを押すだけで自動噴霧する充電式タイプ。握力を使わないので手が疲れません。霧の粒子が極めて細かい製品が多く、繊細な植物のケアに向いています。充電の手間がある点だけ注意が必要です。
 
-[![HeGeed 電動霧吹き 2L](https://m.media-amazon.com/images/I/71l9PVaAf2L._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B0G1M8RNNX?tag=tokyoplants0f-22)
+[![HeGeed 電動霧吹き 2L](https://m.media-amazon.com/images/I/71l9PVaAf2L._AC_UL320_.jpg)](https://www.amazon.co.jp/dp/B0CRV32NCZ?tag=tokyoplants0f-22)
 
-→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0G1M8RNNX?tag=tokyoplants0f-22)  
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0CRV32NCZ?tag=tokyoplants0f-22)  
 Amazon評価: 4.6 / 28件（2026-02-20取得）
 
 ### 4. ガラス製おしゃれタイプ
