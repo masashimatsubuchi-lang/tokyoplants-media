@@ -11,6 +11,9 @@ relatedSlugs:
   - "review/houseplant-pest-control-tools"
   - "soil/recommended-soil-for-houseplants"
   - "review/plant-light-review"
+  - "review/plant-label-maker-review"
+  - "review/circulator-for-houseplants-review"
+  - "review/switchbot-humidity-control-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -229,6 +232,8 @@ SwitchBot 温湿度計はBluetooth経由でスマートフォンと連携し、�
 
 特に冬の暖房期間中は室内湿度が20〜30%まで下がることがあります。この時期の急激な乾燥が、春に「なぜか調子が悪い」という原因になっていることが多い。
 
+詳しくは[SwitchBotで観葉植物の湿度管理を自動化](/review/switchbot-humidity-control-houseplants)もご覧ください。
+
 ### サーキュレーターで風通しを作る
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
@@ -243,6 +248,8 @@ SwitchBot 温湿度計はBluetooth経由でスマートフォンと連携し、�
 **気孔の開閉促進**：風による適度な蒸散ストレスが気孔の開閉を活性化し、光合成効率・CO₂吸収効率が上がります。**茎の強化**：適度な揺れが「風揺性形成（サイグモモーフォジェネシス）」を促し、茎・葉柄を太く丈夫にします。風のない環境で育った植物は茎が細く、植え替え後に自立できないことがあります。
 
 SwitchBot サーキュレーター Lite はスマートホームと連携でき、スケジュール設定で「日中のみ稼働」「温度が〇度を超えたら自動ON」といった管理が可能。静音設計で寝室に置いても気にならないレベルです。
+
+詳しくは[観葉植物向けサーキュレーター比較](/review/circulator-for-houseplants-review)もご覧ください。
 
 ---
 

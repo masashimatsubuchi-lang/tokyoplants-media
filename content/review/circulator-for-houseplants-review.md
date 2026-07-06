@@ -10,6 +10,8 @@ relatedSlugs:
   - "soil/mold-on-houseplant-soil"
   - "soil/bugs-in-houseplant-soil"
   - "review/plant-light-review"
+  - "review/switchbot-humidity-control-houseplants"
+  - "review/houseplant-tools-complete-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

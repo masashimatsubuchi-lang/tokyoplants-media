@@ -21,6 +21,7 @@ relatedSlugs:
   - "species/philodendron-spiritus-sancti"
   - "guide/philodendron-repotting-guide"
   - "guide/philodendron-hydroculture"
+  - "review/plant-label-maker-review"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

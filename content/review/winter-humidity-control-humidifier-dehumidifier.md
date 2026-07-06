@@ -11,6 +11,7 @@ relatedSlugs:
   - "research/misting-effects-on-houseplants"
   - "guide/march-houseplant-care-reset"
   - "guide/root-rot-causes-and-recovery"
+  - "review/switchbot-humidity-control-houseplants"
 hideAmazonBlock: true
 amazonProducts:
   - title: "シャープ 衣類乾燥除湿機 CV-R71-W"

@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/indoor-repotting-clean-tips"
   - "soil/drainage-stones-guide"
   - "guide/choosing-pot-size-for-repotting"
+  - "review/plant-label-maker-review"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
