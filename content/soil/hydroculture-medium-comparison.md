@@ -14,11 +14,13 @@ tags:
   - 用土
 author: tokyoplants 編集部
 relatedSlugs:
+  - soil/hydroculture-complete-guide
   - soil/hydroculture-vs-soil
   - soil/lava-rock-for-houseplants
   - soil/zeolite-for-houseplants
   - guide/bottom-watering-houseplants
-  - soil/soilless-houseplant-growing
+  - soil/growing-houseplants-without-soil
+  - guide/soil-to-hydroculture-transition
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'

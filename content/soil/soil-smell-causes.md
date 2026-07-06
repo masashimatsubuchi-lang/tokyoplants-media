@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/mold-on-houseplant-soil"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
+  - "soil/recommended-soil-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "species/ficus-elastica"
   - "species/ficus-lyrata"
+  - "species/ficus-pumila"
   - "guide/umbellata-care"
   - "guide/umbellata-repotting-guide"
   - "guide/root-rot-causes-and-recovery"

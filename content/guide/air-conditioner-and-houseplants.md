@@ -7,7 +7,7 @@ category: "guide"
 tags: ["エアコン", "夏", "夏の管理"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "guide/summer-houseplant-care"
+  - "guide/summer-houseplant-care-guide"
   - "guide/rainy-season-houseplant-care"
   - "soil/hydroculture-medium-comparison"
 baseProducts:

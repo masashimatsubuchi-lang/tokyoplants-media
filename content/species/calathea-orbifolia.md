@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/houseplant-pruning-basics"
   - "guide/rainy-season-houseplant-care"
   - "soil/recommended-soil-for-houseplants"
+  - "soil/best-soil-for-calathea"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -85,7 +86,7 @@ baseProducts:
 
 ### 用土
 
-保水性と排水性のバランスが重要です。市販の観葉植物用土に赤玉土小粒15%とパーライト10%を加えた配合が安定しています。ピートモスを含む配合は保水性が高くなりすぎる場合があるため、ピートモス比率が高い用土の場合はパーライトを増量して調整します。鉢底石は必須ではありませんが、排水穴のある鉢を必ず使用します。
+保水性と排水性のバランスが重要です。市販の観葉植物用土に赤玉土小粒15%とパーライト10%を加えた配合が安定しています。ピートモスを含む配合は保水性が高くなりすぎる場合があるため、ピートモス比率が高い用土の場合はパーライトを増量して調整します。鉢底石は必須ではありませんが、排水穴のある鉢を必ず使用します。具体的な配合比率や植え替え手順は[カラテアの土おすすめ｜配合レシピと植え替えで根腐れさせないコツ](/soil/best-soil-for-calathea)で詳しく紹介している。
 
 ### 肥料
 

@@ -8,6 +8,7 @@ tags: []
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:
+  - "species/genus-alocasia"
   - "species/alocasia-longiloba"
   - "species/alocasia-amazonica"
   - "guide/alocasia-care-guide"

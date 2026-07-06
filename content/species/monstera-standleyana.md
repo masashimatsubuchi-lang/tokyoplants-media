@@ -8,6 +8,7 @@ tags: []
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:
+  - "species/genus-monstera"
   - "species/monstera-albo-variegata"
   - "species/monstera-adansonii"
   - "species/monstera-deliciosa"

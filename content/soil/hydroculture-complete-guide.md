@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/lava-rock-for-houseplants"
   - "soil/zeolite-for-houseplants"
   - "soil/hydroponics-vs-hydroculture"
-  - "soil/soilless-houseplant-growing"
+  - "soil/growing-houseplants-without-soil"
   - "guide/alocasia-hydroculture"
   - "guide/monstera-hydroculture"
   - "guide/philodendron-hydroculture"
@@ -95,7 +95,7 @@ amazonProducts:
 
 ハイドロカルチャーの大きな魅力のひとつが、インテリアとしての美しさです。透明なガラス容器に黒い溶岩石や白いゼオライトを組み合わせることで、植物そのものだけでなく、容器ごとデザインとして成立します。テーブルや棚の上に置いても土がこぼれる心配がなく、清潔感があります。
 
-詳しい土栽培との比較については、[ハイドロカルチャーと土栽培の違い](/soil/hydroculture-vs-soil)で深掘りしています。また、土なしで植物を育てるさまざまな方法については、[観葉植物を土なしで育てる方法](/soil/soilless-houseplant-growing)もあわせてご覧ください。
+詳しい土栽培との比較については、[ハイドロカルチャーと土栽培の違い](/soil/hydroculture-vs-soil)で深掘りしています。また、土なしで植物を育てるさまざまな方法については、[観葉植物を土なしで育てる方法](/soil/growing-houseplants-without-soil)もあわせてご覧ください。
 
 ---
 

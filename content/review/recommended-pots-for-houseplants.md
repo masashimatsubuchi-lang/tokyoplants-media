@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
-  - "guide/root-rot-recovery-complete-guide"
+  - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

@@ -7,6 +7,9 @@ category: "soil"
 tags: ["ハイドロカルチャー", "土", "比較", "水耕栽培", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "soil/hydroculture-complete-guide"
+  - "soil/hydroponics-vs-hydroculture"
+  - "soil/hydroculture-medium-comparison"
   - "soil/recommended-soil-for-houseplants"
   - "soil/indoor-houseplant-soil"
   - "soil/improve-drainage-for-houseplants"

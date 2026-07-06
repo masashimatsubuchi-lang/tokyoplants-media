@@ -14,6 +14,10 @@ relatedSlugs:
   - "species/monstera-albo-variegata"
   - "species/monstera-adansonii"
   - "species/monstera-obliqua"
+  - "species/monstera-mint"
+  - "species/monstera-yellow-marilyn"
+  - "species/monstera-standleyana"
+  - "species/monstera-dubia"
   - "guide/monstera-repotting-guide"
   - "guide/monstera-hydroculture"
 baseProducts:

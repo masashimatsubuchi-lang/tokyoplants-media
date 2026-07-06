@@ -11,7 +11,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/yellow-leaves-houseplants-checklist"
-  - "guide/houseplant-sunburn-causes-and-recovery"
+  - "guide/sunburn-houseplants"
   - "soil/improve-drainage-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"

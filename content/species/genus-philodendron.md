@@ -15,6 +15,10 @@ relatedSlugs:
   - "species/philodendron-micans"
   - "species/philodendron-pink-princess"
   - "species/philodendron-billietiae"
+  - "species/philodendron-hederaceum"
+  - "species/philodendron-red-congo"
+  - "species/philodendron-verrucosum"
+  - "species/philodendron-spiritus-sancti"
   - "guide/philodendron-repotting-guide"
   - "guide/philodendron-hydroculture"
 baseProducts:

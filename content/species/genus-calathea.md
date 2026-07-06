@@ -10,6 +10,7 @@ relatedSlugs:
   - "species/calathea-orbifolia"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
+  - "soil/best-soil-for-calathea"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
@@ -75,7 +76,7 @@ baseProducts:
 
 ### 土
 
-水はけがよく適度な保水性を持つ土が理想。市販の観葉植物の土に赤玉土・パーライトを2〜3割混合すると排水性が上がり、根腐れを防ぎやすくなる。腐植を含み微生物が豊富な環境を好むため、完全な無機質配合より有機質を含む配合のほうが安定して育つことが多い。
+水はけがよく適度な保水性を持つ土が理想。市販の観葉植物の土に赤玉土・パーライトを2〜3割混合すると排水性が上がり、根腐れを防ぎやすくなる。腐植を含み微生物が豊富な環境を好むため、完全な無機質配合より有機質を含む配合のほうが安定して育つことが多い。具体的な配合レシピは[カラテアの土おすすめ｜配合レシピと植え替えで根腐れさせないコツ](/soil/best-soil-for-calathea)で詳しく解説している。
 
 ### 肥料
 

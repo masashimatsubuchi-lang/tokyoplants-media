@@ -8,6 +8,7 @@ tags: []
 author: "tokyoplants 編集部"
 genus: "ficus"
 relatedSlugs:
+  - "species/genus-ficus"
   - "species/ficus-elastica"
   - "species/ficus-lyrata"
   - "species/ficus-umbellata"

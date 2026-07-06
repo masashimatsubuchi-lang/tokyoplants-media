@@ -8,6 +8,7 @@ tags: []
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:
+  - "species/genus-philodendron"
   - "species/philodendron-gloriosum"
   - "species/philodendron-melanochrysum"
   - "species/philodendron-patriciae"

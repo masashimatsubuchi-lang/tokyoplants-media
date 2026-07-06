@@ -10,6 +10,7 @@ tags:
   - 希少植物
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "species/genus-monstera"
   - "species/monstera-albo-variegata"
   - "species/monstera-miracle"
   - "species/monstera-electro-light"

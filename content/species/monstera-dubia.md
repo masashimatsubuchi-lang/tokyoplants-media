@@ -8,6 +8,7 @@ tags: []
 author: "tokyoplants 編集部"
 genus: "monstera"
 relatedSlugs:
+  - "species/genus-monstera"
   - "species/monstera-obliqua"
   - "species/monstera-standleyana"
   - "species/amydrium-medium"

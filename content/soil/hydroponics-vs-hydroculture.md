@@ -7,6 +7,7 @@ category: "soil"
 tags: ["水耕栽培", "ハイドロカルチャー", "無機培地", "比較"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "soil/hydroculture-complete-guide"
   - "soil/hydroculture-medium-comparison"
   - "soil/hydroculture-vs-soil"
   - "guide/bottom-watering-houseplants"

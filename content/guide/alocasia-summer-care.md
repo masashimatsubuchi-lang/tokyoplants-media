@@ -10,7 +10,7 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "guide/alocasia-hydroculture"
   - "species/alocasia-holy-grail"
-  - "guide/summer-houseplant-care"
+  - "guide/summer-houseplant-care-guide"
 baseProducts:
   - title: "Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル"
     url: "https://www.tokyoplants.com/items/144787813"
