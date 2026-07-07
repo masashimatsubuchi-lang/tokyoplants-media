@@ -12,6 +12,7 @@ relatedSlugs:
   - "review/houseplant-tools-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "review/circulator-for-houseplants-review"
+  - "review/watering-checker-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

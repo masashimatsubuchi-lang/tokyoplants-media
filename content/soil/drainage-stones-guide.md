@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
+  - "review/drainage-net-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
