@@ -20,7 +20,7 @@ baseProducts:
 amazonProducts:
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
-    price: "¥1,200前後"
+    price: "¥2,599前後"
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
     price: "¥500前後"

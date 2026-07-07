@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/monstera-care"
   - "guide/bottom-watering-houseplants"
   - "soil/hydroculture-medium-comparison"
+  - "review/moss-pole-comparison"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -28,7 +29,7 @@ amazonProducts:
     price: "¥1,000前後"
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
-    price: "¥1,200前後"
+    price: "¥2,599前後"
 ---
 
 # モンステラをハイドロカルチャーで育てる方法｜水管理と培地の選び方

@@ -8,6 +8,7 @@ tags: ["モンステラ", "育て方", "完全ガイド", "初心者"]
 relatedSlugs:
   - "species/monstera-deliciosa"
   - "soil/basic-soil-mix"
+  - "review/moss-pole-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -21,7 +22,7 @@ amazonProducts:
     price: "¥500前後"
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
-    price: "¥1,200前後"
+    price: "¥2,599前後"
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     price: "¥800前後"
@@ -173,7 +174,7 @@ amazonProducts:
 
 ### 支柱の種類
 
-- ヘゴ棒・モスポール: 気根活着を促しやすい
+- [ヘゴ棒・モスポール](/review/moss-pole-comparison): 気根活着を促しやすい
 - 樹脂支柱: 管理は容易だが活着補助は弱い
 - 板付け・壁面誘引: 上級者向け
 

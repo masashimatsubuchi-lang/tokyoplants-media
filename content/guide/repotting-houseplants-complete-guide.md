@@ -17,6 +17,7 @@ relatedSlugs:
   - "guide/monstera-repotting-guide"
   - "review/plant-label-maker-review"
   - "review/drainage-net-comparison"
+  - "review/moss-pole-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -293,7 +294,7 @@ amazonProducts:
 
 - **土**: 通気性重視。バークチップや軽石を多めに配合
 - **気根**: 健康な気根は切らない。土に向かっている気根はそのまま埋める
-- **支柱**: モンステラなどつる性の株は、植え替え時に支柱（ヘゴ棒・モスポール）を立てると樹形が安定する
+- **支柱**: モンステラなどつる性の株は、植え替え時に[支柱（ヘゴ棒・モスポール）](/review/moss-pole-comparison)を立てると樹形が安定する
 - **注意**: 樹液にシュウ酸カルシウムを含むため、皮膚に触れるとかゆくなることがある。手袋着用推奨
 
 → 「[モンステラの植え替え方法](/guide/monstera-repotting-guide)」
