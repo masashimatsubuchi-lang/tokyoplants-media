@@ -1,10 +1,11 @@
 ---
 image: "https://images.unsplash.com/photo-1621460248083-6271cc4437a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "植え替えに必要な道具リスト｜初心者が揃えるべきアイテム"
-description: "観葉植物の植え替えに必要な道具を初心者向けに解説。鉢・土・鉢底石・ハサミなど必須アイテムと、あると便利なグッズ、100均で代用できるものを紹介します。"
+title: "植え替えに必要な道具リスト｜初心者向けAmazon厳選アイテム"
+description: "観葉植物の植え替えに必要な道具を初心者向けに解説。鉢・ハサミ・スコップ・じょうろなど各アイテムの選び方に加え、Amazonで評価の高い実物商品も紹介。あると便利なグッズや100均で代用できるものもまとめました。"
 date: "2026-06-05"
+updated: "2026-07-06"
 category: "guide"
-tags: ["植え替え", "初心者"]
+tags: ["植え替え", "初心者", "道具", "Amazon"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
@@ -13,17 +14,48 @@ relatedSlugs:
   - "guide/choosing-pot-size-for-repotting"
   - "review/plant-label-maker-review"
   - "review/drainage-net-comparison"
+  - "review/houseplant-tools-complete-guide"
+  - "soil/zeolite-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ダルトン(Dulton) 植木鉢 5号 ターコイズ 陶器鉢（受け皿付き）"
+    asin: "B0DG8MH6BL"
+    note: "穴あり・受け皿付きのカラー陶器鉢。デザイン性を重視して鉢を選びたい人向け。評価★4.1・レビュー693件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
+    price: "¥1,623〜"
+  - title: "ARS(アルス) 剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    note: "1868年創業・堺の刃物メーカー製。生木切断能力約15mmで根切りにも使いやすい。評価★4.5・レビュー1,538件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
+    price: "¥3,220〜"
+  - title: "ヒラサワ PC 土入れ 3ツ組"
+    asin: "B00CSH0AGC"
+    note: "大小3サイズがセットになった定番の土入れ。鉢のサイズに合わせて使い分けられる。評価★4.3・レビュー633件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
+    price: "¥355〜"
+  - title: "千吉(Senkichi) オールステンレス スコップ 約290mm"
+    asin: "B003EIEHRC"
+    note: "錆びにくいオールステンレス製の1本。長く使える定番品。評価★4.4・レビュー361件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
+    price: "¥430〜"
+  - title: "リッチェル ミニじょうろN グレー 1.5L"
+    asin: "B09HQP851S"
+    note: "室内サイズの小型じょうろ。1.5L容量で観葉植物の水やりに扱いやすい。評価★4.1・レビュー306件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
+    price: "¥709〜"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    note: "振り子ホース式で上向き・下向きなど全方向に噴霧できる霧吹き。植え替え後の葉水に。評価★4.2・レビュー1,100件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
+    price: "¥464〜"
+  - title: "メネデール 植物活力剤 100ml"
+    asin: "B00337XS92"
+    note: "1955年発売のロングセラー活力剤。植え替え直後の根の回復サポートに使いやすい100倍希釈タイプ。評価★4.4・レビュー7,685件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
+    price: "¥397〜"
 ---
 
-# 植え替えに必要な道具リスト｜初心者が揃えるべきアイテム
+# 植え替えに必要な道具リスト｜初心者向けAmazon厳選アイテム
 
 「そろそろ植え替えなきゃ」と思い立ったはいいものの、いざ始めようとして「あ、土がない」「ハサミはどこ？」と途中で手が止まってしまった経験はありませんか。植え替えは、道具が揃っていないと作業の途中で中断せざるを得ない場面が出てきます。<mark>根が露出した状態で放置すると植物にとって大きなストレスになるため、事前の準備が成功の鍵を握ります。</mark>
 
-この記事では、観葉植物の植え替えを初めて行う方に向けて、最低限必要な7点の道具とその選び方、あると作業がぐっと楽になる便利グッズ、さらに100均やホームセンターで代用できるアイテムまでまとめて解説します。植え替え前にチェックリストとして活用してみてください。
+この記事では、観葉植物の植え替えを初めて行う方に向けて、最低限必要な7点の道具とその選び方、あると作業がぐっと楽になる便利グッズ、さらに100均やホームセンターで代用できるアイテムまでまとめて解説します。それぞれのアイテムについて、Amazonで実際に評価の高い商品も具体的に紹介するので、購入時の目安として活用してください。
 
 ---
 
@@ -41,7 +73,7 @@ baseProducts:
 | 6 | 新聞紙・ブルーシート | 作業スペースの養生 |
 | 7 | じょうろ・霧吹き | 植え替え後の水やり |
 
-この7点が揃っていれば、基本的な植え替えは問題なく完了できます。それぞれの詳しい選び方と注意点を次のセクションで解説します。
+この7点が揃っていれば、基本的な植え替えは問題なく完了できます。それぞれの詳しい選び方と注意点、Amazonで評価の高い商品を次のセクションで解説します。
 
 ---
 
@@ -64,6 +96,19 @@ baseProducts:
 
 初心者には、管理のしやすさからプラスチック鉢または素焼き鉢がおすすめです。底に穴が開いているものを必ず選びましょう。
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0DG8MH6BL?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0DG8MH6BL.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ダルトン(Dulton) 植木鉢 5号 ターコイズ 陶器鉢（受け皿付き）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+**ダルトン 陶器鉢｜見た目にもこだわりたい人向け**
+
+底に穴が開いた本格仕様でありながら、受け皿がセットになっているため排水対策も一緒に済むデザイン鉢です。評価★4.1・レビュー693件（確認済み）と実績も十分。プラスチック鉢からワンランク上げて部屋のインテリアに馴染ませたい植え替えにおすすめです。
+
+なお、通気性・排水性を最優先するなら側面にスリットが入った「スリット鉢」も選択肢のひとつです。根詰まりを防ぐスリット鉢の仕組みとおすすめ商品は[観葉植物の道具おすすめ完全まとめ](/review/houseplant-tools-complete-guide)で詳しく紹介しています。
+
 ---
 
 ### 2. 用土
@@ -82,15 +127,12 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 
 ### 3. 鉢底石・鉢底ネット
 
-**鉢底ネット（鉢底網）**
+鉢の底穴を覆う「鉢底ネット」と、鉢底に敷いて排水性・通気性を高める「鉢底石」は、植え替えの基本セットです。ネットがないと水やりのたびに土が流れ出したり、キノコバエなどの害虫が底穴から侵入する原因になります。鉢底石を敷くことで、鉢底に水が溜まりにくくなり排水性と通気性が向上します。目安は鉢の深さの10〜15%程度です。
 
-鉢の底穴を覆うためのネットです。これがないと、水やりのたびに土が流れ出したり、害虫（特にキノコバエ）が底穴から侵入する原因になります。100円ショップでも入手でき、鉢のサイズに合わせてカットして使います。
+どちらも素材やタイプによって選び方が変わるため、詳しい役割・適切な量・Amazonで評価の高い商品は、それぞれ以下の記事でまとめて解説しています。
 
-**鉢底石**
-
-鉢底に敷く軽石や発泡スチロール片などのことです。鉢底石を敷くことで、鉢底に水が溜まりにくくなり、排水性と通気性が向上します。鉢の深さの10〜15%程度を目安に敷き詰めましょう。
-
-軽石・パーライト・ゼオライト・レカ（LECA）などが主に使われます。ゼオライトは吸臭・有害物質吸着の効果もあるため、室内使いに特におすすめです。
+- 鉢底石の役割・量・おすすめ素材（軽石・日向石など）→ [観葉植物に鉢底石は必要？｜役割・量とAmazon人気商品](/soil/drainage-stones-guide)
+- 鉢底ネットのタイプ別比較（ロール・プレカット・メッシュ袋）→ [観葉植物の鉢底ネット比較｜サイズ・素材別Amazon人気商品](/review/drainage-net-comparison)
 
 ---
 
@@ -103,6 +145,17 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 - 刃が薄く、切れ味の良いものを選ぶ
 - 小型（全長15〜20cm程度）が扱いやすい
 - バネ付きで刃が自動で開くタイプが手が疲れにくい
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B005Q4LU1I?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B005Q4LU1I.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ARS(アルス) 剪定鋏 VS-8Z</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+**ARS 剪定鋏 VS-8Z｜迷ったらこれ、堺の刃物メーカー製**
+
+1868年創業、刃物の産地・堺（大阪府）に本社を置くARSコーポレーションの定番剪定鋏です。生木切断能力は約15mmで、観葉植物の根や茎のカットには十分な性能。評価★4.5・レビュー1,538件（確認済み）と、剪定ばさみカテゴリの中でも特に実績のある商品です。
 
 **注意点：消毒を忘れずに**
 
@@ -120,7 +173,29 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 - 先端が細いと、根の周りに土を入れ込みやすい
 - ステンレス製が錆びにくく清潔に保てる
 
-ガーデニング用の大きなスコップは室内作業には向きません。100均の小型スコップや、土入れ専用のじょうごタイプが使いやすいです。
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B00CSH0AGC?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00CSH0AGC.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ヒラサワ PC 土入れ 3ツ組</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+**ヒラサワ 土入れ3ツ組｜迷ったらこれ、大小サイズを使い分けられる定番品**
+
+大・中・小の3サイズがセットになっており、鉢のサイズや作業内容によって使い分けられます。評価★4.3・レビュー633件（確認済み）と実績が豊富で、価格も手頃なため「まず1セット」に向いています。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B003EIEHRC?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B003EIEHRC.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">千吉(Senkichi) オールステンレス スコップ 約290mm</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+**千吉 オールステンレススコップ｜1本を長く使いたい人向け**
+
+柄まですべてステンレス製で錆びにくく、耐久性を重視する人に向いています。評価★4.4・レビュー361件（確認済み）。大鉢の植え替えなど、一度に多くの土を扱う場面で扱いやすいサイズです。
+
+ガーデニング用の大きなスコップは室内作業には向きません。上記のような小〜中型スコップや、100均の小型スコップが室内での植え替えには使いやすいです。
 
 ---
 
@@ -151,9 +226,31 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 - 先端のノズルが細かく（シャワータイプ）、やさしく水をかけられるもの
 - 室内用なら容量1〜2Lの小型タイプが扱いやすい
 
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B09HQP851S?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B09HQP851S.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">リッチェル ミニじょうろN グレー 1.5L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+**リッチェル ミニじょうろN｜室内サイズの定番**
+
+1.5L容量のコンパクトサイズで、室内の観葉植物の水やりにちょうど良いサイズ感です。評価★4.1・レビュー306件（確認済み）。棚の上や窓際など、置き場所を選ばないのも利点です。
+
 **霧吹きの用途**
 
 植え替え直後は葉にも水をかけてあげることで、蒸散によるダメージを軽減できます。また、作業中に根が乾燥しそうになった際に根を湿らせるためにも使えます。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0BJDP1CJX?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0BJDP1CJX.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">マルハチ産業 ザ・霧吹き 振り子ホース式 300ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+**マルハチ産業 ザ・霧吹き｜全方向に噴霧できる定番品**
+
+振り子式のホースが内蔵されており、ボトルを傾けても噴霧できるのが特徴です。評価★4.2・レビュー1,100件（確認済み）と実績も豊富。植え替え直後の葉水や、鉢の隙間への水やりにも扱いやすい1本です。
 
 ---
 
@@ -163,7 +260,7 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 
 ### 根腐れ防止剤（ミリオン・ゼオライトなど）
 
-用土に混ぜることで余分な水分を吸収し、根腐れを予防します。特に水やりの頻度を管理しにくい初心者や、通気性の低い陶器鉢を使う場合に有効です。
+用土に混ぜることで余分な水分を吸収し、根腐れを予防します。特に水やりの頻度を管理しにくい初心者や、通気性の低い陶器鉢を使う場合に有効です。ゼオライトの効果の仕組み・配合量・Amazonで評価の高い商品は[ゼオライトを観葉植物に使う効果｜量・配合・根腐れ防止まで](/soil/zeolite-for-houseplants)で詳しく解説しています。
 
 ### ピンセット・割りばし
 
@@ -175,11 +272,22 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 
 ### 植物用活力剤・発根促進剤
 
-植え替え後の根に塗布または希釈水として与えることで、新しい環境への適応を促します。根のダメージが大きい場合には特に効果的です。
+植え替え後の根に希釈水として与えることで、新しい環境への適応を促します。根のダメージが大きい場合には特に効果的です。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B00337XS92?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00337XS92.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">メネデール 植物活力剤 100ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+**メネデール｜1955年発売のロングセラー活力剤**
+
+肥料ではなく「活力剤」で、植え替え・挿し木・弱った株の回復サポートとして日常的に使えます。100倍希釈で水やり代わりに与えるだけとシンプルです。評価★4.4・レビュー7,685件（確認済み）と、活力剤の中でも圧倒的な実績を持つ定番商品です。
 
 ### ラベルスティック・マスキングテープ
 
-植え替えた植物の名前・日付・土の種類などをメモしておくためのアイテムです。複数の植物を管理している場合、記録をつける習慣が管理の質を上げます。
+植え替えた植物の名前・日付・土の種類などをメモしておくためのアイテムです。複数の植物を管理している場合、記録をつける習慣が管理の質を上げます。鉢数が増えてきた方には、ラベルライターや金属製プラントタグも選択肢になります。タイプ別の比較・Amazonで評価の高い商品は[観葉植物の品種名管理ラベル・タグ比較｜テプラ・園芸ラベル3選](/review/plant-label-maker-review)で紹介しています。
 
 ---
 
@@ -249,4 +357,4 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 - [ ] 大きめのゴミ袋（古い土の処分用）
 - [ ] 水拭き用雑巾またはペーパータオル
 
-道具が揃ったら、植え替えの適期（春〜初夏）を選んで作業に臨みましょう。準備が万全であれば、初めての植え替えでも落ち着いて進めることができます。植物のためにも、自分のためにも、事前の準備を丁寧に。それが植え替えを成功させる一番の近道です。
+道具が揃ったら、植え替えの適期（春〜初夏）を選んで作業に臨みましょう。どれを買えばいいか迷った項目は、本文中で紹介したAmazonの評価実績がある商品を目安に選んでみてください。準備が万全であれば、初めての植え替えでも落ち着いて進めることができます。植物のためにも、自分のためにも、事前の準備を丁寧に。それが植え替えを成功させる一番の近道です。

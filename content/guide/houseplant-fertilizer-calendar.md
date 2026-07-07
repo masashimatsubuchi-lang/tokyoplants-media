@@ -1,7 +1,7 @@
 ---
 image: "https://images.pexels.com/photos/28214180/pexels-photo-28214180.jpeg?auto=compress&cs=tinysrgb&w=1200"
 title: "観葉植物の肥料カレンダー完全版"
-description: "観葉植物の肥料管理を春夏秋冬で最適化するための実務ガイド。液体肥料と緩効性肥料の使い分け、停止時期、失敗回避の基準を解説します。"
+description: "観葉植物の肥料管理を春夏秋冬で最適化するための実務ガイド。液体肥料と緩効性肥料の使い分け、停止時期、失敗回避の基準に加え、元肥・活力剤のおすすめ製品も紹介します。"
 date: "2026-02-17"
 category: "guide"
 tags: ["肥料", "育て方", "完全ガイド"]
@@ -11,6 +11,14 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
+  - "research/houseplant-fertilizer-guide"
+amazonProducts:
+  - title: "マグァンプK 中粒 250g"
+    asin: "B0026R71OS"
+    note: "緩効性元肥の定番・約1年効果持続。植え替え時に土へ混ぜ込むだけ"
+  - title: "リキダス 800ml"
+    asin: "B01NBTAX3J"
+    note: "活力剤。植え替え直後・不調株の回復促進に（肥料の代替にはならない）"
 ---
 
 観葉植物の肥料管理は「与える量」より「与える時期」で結果が分かれます。失敗の多くは、成長が止まる時期に与え続けること、または回復していない株へ追肥することから起きます。肥料は万能薬ではなく、根が健全に働いている時だけ効果を発揮します。
@@ -76,11 +84,29 @@ relatedSlugs:
 - 液体肥料: 微調整向け、反応を見ながら運用
 - 緩効性肥料: ベース維持向け、過剰に注意
 
-初心者は液体肥料の低濃度運用から始めると事故率が低くなります。濃度は製品表示より薄め開始が安全です。
+初心者は液体肥料の低濃度運用から始めると事故率が低くなります。濃度は製品表示より薄め開始が安全です。液体肥料の具体的な製品比較（ハイポネックス原液・専用液肥など）は[観葉植物の肥料｜N・P・Kの役割から与え方・製品レビューまで徹底解説](https://media.tokyoplants.com/research/houseplant-fertilizer-guide)にまとめています。
+
+緩効性肥料をベースに敷く場合は、植え替え時に土へ混ぜ込むタイプの元肥が管理しやすくなります。定番はマグァンプK中粒で、水やりのたびに少しずつ溶け出す設計のため、与えすぎによる肥料焼けリスクが比較的低いのが特長です。土1Lあたり2〜3g（小さじ半分程度）が目安の使用量です。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0026R71OS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0026R71OS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">マグァンプK 中粒（緩効性元肥）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
 
 ### 4. 植え替え前後は施肥を止める
 
 植え替え直前直後は根が不安定です。施肥は回復確認後に再開します。目安は新葉展開の再開です。
+
+この期間に株の回復を後押ししたい場合は、肥料ではなく活力剤を使います。リキダスは窒素・リン酸・カリウムの含有量が低く、微量元素とアミノ酸を中心に補給できるため、弱った根への負荷が小さいのが特長です。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B01NBTAX3J?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B01NBTAX3J.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">リキダス（活力剤）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
 
 [植え替え完全ガイド](https://media.tokyoplants.com/guide/repotting-houseplants-complete-guide)
 
@@ -124,6 +150,8 @@ relatedSlugs:
 追肥の前に根と環境を整える。この順序を守るだけで、肥料トラブルは大幅に減らせます。
 
 ---
+
+肥料の基礎知識（N・P・Kの役割、有機肥料と化学肥料の違い、製品ごとの詳しいレビュー）は[観葉植物の肥料｜N・P・Kの役割から与え方・製品レビューまで徹底解説](https://media.tokyoplants.com/research/houseplant-fertilizer-guide)で解説しています。合わせてご覧ください。
 
 → 関連商品リンク: [観葉植物用土カテゴリ（tokyoplants EC）](https://www.tokyoplants.com/categories/6291374)
 

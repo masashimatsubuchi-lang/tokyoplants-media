@@ -1,7 +1,7 @@
 ---
 image: "https://images.unsplash.com/photo-1622383563227-04401ab4e5ea?w=1200&q=80"
 title: "観葉植物のカイガラムシ対策完全版"
-description: "観葉植物に発生するカイガラムシの判別、初期対応、駆除手順、再発防止の管理方法を解説。ベタつき・すす病対策まで整理します。"
+description: "観葉植物に発生するカイガラムシの判別、初期対応、駆除手順、再発防止の管理方法を解説。ベタつき・すす病対策と、駆除に使えるおすすめ薬剤も紹介します。"
 date: "2026-02-17"
 category: "guide"
 tags: ["カイガラムシ", "害虫", "害虫対策"]
@@ -11,6 +11,11 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "research/humidity-and-leaf-damage-thresholds"
   - "soil/bugs-in-houseplant-soil"
+  - "review/houseplant-pest-control-tools"
+amazonProducts:
+  - title: "フマキラー カダンセーフ 1000ml"
+    asin: "B076CR3NC4"
+    note: "食品由来成分の殺虫殺菌剤。低刺激でクローラー期の予防処理に使いやすい"
 ---
 
 茎や葉柄に小さな茶色い突起がつき、触っても動かない。葉や床がベタつき、黒いすすのような汚れが出る。これらはカイガラムシ被害の代表症状です。カイガラムシは発見が遅れると株全体の生育を長期間阻害し、見た目の悪化だけでなく二次障害（すす病）を招きます。
@@ -58,6 +63,19 @@ relatedSlugs:
 ### 4. 薬剤処理を複数回で設計する
 
 ラベル準拠で適用可能な薬剤を使い、5〜7日間隔で複数回処理します。新規孵化個体への追撃を想定し、単回で終えない運用が必要です。
+
+カイガラムシは成虫になると殻や蝋質に覆われ、一般的な浸透移行性の薬剤が効きにくくなります。そこで有効なのが物理的に窒息させるタイプの薬剤です。マシン油乳剤は害虫の呼吸孔を油膜で塞いで駆除する仕組みで、殻に守られた成虫にも効果が期待できます（Amazonのレビュー評価が確認できなかったため、購入リンクの掲載は見送っています）。ただし新芽の展開を阻害するおそれがあるため、使用は休眠期（冬季）が基本です。
+
+孵化直後の移動幼虫（クローラー）期には、食品由来成分でできたカダンセーフのような低刺激タイプのスプレーも選択肢になります。膜で虫体を覆って駆除する仕組みで、ペットや小さな子供がいる家庭でも使いやすいのが利点です。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B076CR3NC4?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B076CR3NC4.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">フマキラー カダンセーフ 1000ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+</a>
+</div>
+
+浸透移行性のオルトランDXやベニカXファインスプレーなど、他の害虫にも併用しやすい薬剤との使い分けは[観葉植物の虫対策グッズおすすめ5選](https://media.tokyoplants.com/review/houseplant-pest-control-tools)で詳しく比較しています。
 
 ### 5. 2週間の重点監視を行う
 
