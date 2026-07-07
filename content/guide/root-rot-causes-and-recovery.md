@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "guide/plant-not-recovering-after-repotting"
   - "guide/how-to-trim-roots-when-repotting"
+  - "guide/no-bugs-houseplant-growing"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

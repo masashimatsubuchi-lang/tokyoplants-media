@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/bugs-in-houseplant-soil"
   - "soil/mold-on-houseplant-soil"
   - "soil/recommended-soil-for-houseplants"
+  - "guide/no-bugs-houseplant-growing"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

@@ -10,6 +10,7 @@ relatedSlugs:
   - "guide/rainy-season-houseplant-care"
   - "soil/bugs-in-houseplant-soil"
   - "soil/recommended-soil-for-houseplants"
+  - "review/fungus-gnat-control-products-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -55,7 +56,7 @@ baseProducts:
 - **殺虫スプレー**：ピレスロイド系の室内用スプレーを空間に噴霧。土への直接散布タイプもあります
 - **土面にくん煙剤・粒剤**：幼虫にも効果のある粒状殺虫剤を土の上に散布する方法もあります
 
-ただし、これらはあくまで一時的な対処です。環境を変えなければ繰り返し発生します。
+ただし、これらはあくまで一時的な対処です。環境を変えなければ繰り返し発生します。タイプ別（スプレー・粘着シート・置くだけ忌避剤）の評価・レビュー数を比較した[観葉植物のコバエ駆除グッズ比較](/review/fungus-gnat-control-products-comparison)も参考にしてください。
 
 ## 根本対策：発生しにくい環境をつくる
 
