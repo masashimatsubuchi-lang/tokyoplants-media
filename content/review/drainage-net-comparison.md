@@ -30,7 +30,7 @@ amazonProducts:
     price: "¥940前後（3枚入り／参考価格）"
 ---
 
-植え替えの際、鉢底石を入れる前に忘れてはいけないのが「鉢底ネット」です。地味な存在ですが、これを敷くかどうかで排水性能や虫の侵入リスクが大きく変わります。この記事では、鉢底ネットの役割と種類を整理したうえで、Amazonで実際に人気のある商品を比較します。鉢底"石"の役割・量・代用品については[鉢底石は必要？役割・量・代用品を解説](/soil/drainage-stones-guide)で詳しく解説しているので、あわせて参考にしてください。
+植え替えの際、鉢底石を入れる前に忘れてはいけないのが「鉢底ネット」です。地味な存在ですが、これを敷くかどうかで排水性能や虫の侵入リスクが大きく変わります。この記事では、鉢底ネットの役割と種類を整理したうえで、Amazonで実際に人気のある商品を比較します。鉢底"石"の役割・量・おすすめ商品については[観葉植物に鉢底石は必要？｜役割・量とAmazon人気商品](/soil/drainage-stones-guide)で詳しく解説しているので、あわせて参考にしてください。
 
 ## 結論（最初に答え）
 
@@ -164,7 +164,7 @@ amazonProducts:
 - [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
-- [観葉植物に鉢底石は必要？役割・量・代用品を解説](/soil/drainage-stones-guide)
+- [観葉植物に鉢底石は必要？｜役割・量とAmazon人気商品](/soil/drainage-stones-guide)
 - [観葉植物の植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)
 - [植え替えに必要な道具リスト](/guide/repotting-tools-checklist)
 - [観葉植物の水はけが悪いときの改善方法](/soil/improve-drainage-for-houseplants)
