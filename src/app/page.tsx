@@ -371,7 +371,7 @@ export default function Home() {
                     ショップを見る
                   </a>
                   <a
-                    href="https://www.instagram.com/tokyoplants_"
+                    href="https://www.instagram.com/tokyoplants.jp"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block rounded-full border border-white/30 px-7 py-3 text-sm font-medium text-white hover:bg-white/10 transition-colors"
@@ -418,12 +418,12 @@ export default function Home() {
             </p>
             <h2 className="mt-3 text-xl md:text-2xl font-bold tracking-tight text-gray-900">
               <a
-                href="https://www.instagram.com/tokyoplants_"
+                href="https://www.instagram.com/tokyoplants.jp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-teal-700 transition-colors"
               >
-                @tokyoplants_
+                @tokyoplants.jp
               </a>
             </h2>
             <p className="mt-2 text-sm text-gray-400">
@@ -438,7 +438,7 @@ export default function Home() {
           </div>
           <div className="mt-8 text-center">
             <a
-              href="https://www.instagram.com/tokyoplants_"
+              href="https://www.instagram.com/tokyoplants.jp"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block rounded-full bg-gray-900 px-8 py-3 text-sm font-semibold text-white hover:bg-gray-700 transition-colors"

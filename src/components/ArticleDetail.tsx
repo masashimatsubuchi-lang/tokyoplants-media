@@ -187,12 +187,12 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   <p className="mt-0.5 text-xs text-gray-500">入荷情報・育て方のコツを発信中</p>
                 </div>
                 <a
-                  href="https://www.instagram.com/tokyoplants_"
+                  href="https://www.instagram.com/tokyoplants.jp"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="shrink-0 rounded-full bg-gray-900 px-5 py-2.5 text-xs font-semibold text-white hover:bg-gray-700 transition-colors"
                 >
-                  @tokyoplants_
+                  @tokyoplants.jp
                 </a>
               </div>
               <Script src="https://cdn.lightwidget.com/widgets/lightwidget.js" strategy="afterInteractive" />

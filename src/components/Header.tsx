@@ -19,7 +19,7 @@ export default function Header() {
             </Link>
           ))}
           <a
-            href="https://www.instagram.com/tokyoplants_"
+            href="https://www.instagram.com/tokyoplants.jp"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-emerald-700 transition-colors"
@@ -54,7 +54,7 @@ export default function Header() {
         </form>
         <div className="md:hidden flex items-center gap-2">
           <a
-            href="https://www.instagram.com/tokyoplants_"
+            href="https://www.instagram.com/tokyoplants.jp"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full border border-gray-200 p-2.5 text-gray-600"

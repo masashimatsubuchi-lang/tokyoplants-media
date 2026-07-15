@@ -113,7 +113,7 @@ export default function RootLayout({
     url: "https://www.tokyoplants.com",
     sameAs: [
       "https://media.tokyoplants.com",
-      "https://www.instagram.com/tokyoplants_",
+      "https://www.instagram.com/tokyoplants.jp",
     ],
   };
 

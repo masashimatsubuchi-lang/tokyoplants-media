@@ -112,7 +112,7 @@ SISHI CRAFTは台湾を拠点とするレザーアーティスト。植物のシ
 - 制作期間：約1ヶ月
 - 一点一点手作業のため、個体差があります（それ自体も作品の一部です）
 
-在庫販売ではないため、入荷・受付タイミングを逃さないようにInstagramアカウント（[@tokyoplants_](https://www.instagram.com/tokyoplants_)）をフォローしておくことをおすすめします。
+在庫販売ではないため、入荷・受付タイミングを逃さないようにInstagramアカウント（[@tokyoplants.jp](https://www.instagram.com/tokyoplants.jp)）をフォローしておくことをおすすめします。
 
 ---
 
