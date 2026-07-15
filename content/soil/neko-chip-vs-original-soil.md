@@ -1,7 +1,7 @@
 ---
 image: "https://images.unsplash.com/photo-1612339490298-26de583dd107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "ねこチップとは｜特徴・使い方・I'm original SOILとの違いを比較"
-description: "観葉植物の土として人気のねこチップの特徴・使い方・配合割合を詳しく解説。軽石系無機培地と有機配合土の違い、それぞれのメリット・デメリット、tokyoplants I'm original SOILとの比較まで。"
+title: "ねこチップとは｜メリット・デメリット・使い方を解説"
+description: "ねこチップとは何か、メリット・デメリット、配合割合、水やり頻度まで徹底解説。軽石系無機培地の特徴とtokyoplants I'm original SOILとの違いも比較し、あなたの観葉植物に合う土選びをサポートします。"
 date: "2026-06-05"
 category: "soil"
 tags: ["無機培地"]
@@ -19,7 +19,7 @@ baseProducts:
     price: "¥1,200〜"
 ---
 
-# ねこチップとは｜特徴・使い方・I'm original SOILとの違いを比較
+# ねこチップとは｜メリット・デメリット・使い方を解説
 
 「ねこチップってどんな培地なの？」「ねこチップを使ってみたいけど、配合はどうすればいい？」「他の土と何が違うの？」
 
