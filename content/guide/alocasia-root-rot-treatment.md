@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/alocasia-hydroculture"
   - "guide/root-rot-causes-and-recovery"
   - "guide/bottom-watering-houseplants"
+  - "guide/alocasia-yellow-leaves"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -79,7 +80,7 @@ amazonProducts:
 
 ### 見落としがちなサイン
 
-葉の黄変は根腐れ以外（日光不足・肥料不足・自然な老化）でも起きるため、単体では判断が難しいです。複数のサインが重なっている場合は根腐れを疑い、鉢から抜いて根を直接確認することをおすすめします。
+葉の黄変は根腐れ以外（日光不足・肥料不足・自然な老化）でも起きるため、単体では判断が難しいです。複数のサインが重なっている場合は根腐れを疑い、鉢から抜いて根を直接確認することをおすすめします。新葉と下葉のどちらが黄変しているかで原因を切り分ける具体的な方法は[アロカシアの葉が黄色くなる原因と対処法｜新葉・下葉の見分け方](/guide/alocasia-yellow-leaves)で詳しく解説しています。
 
 特に注意したいのが「土が乾かない」という状態です。季節や室温によって乾燥速度は変わりますが、夏場に7日以上、冬場に14日以上経っても表面の土が湿っているなら、水やり頻度を見直すか根腐れの確認が必要です。
 

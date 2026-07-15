@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/no-bugs-houseplant-growing"
   - "guide/no-drainage-hole-pot-guide"
   - "soil/best-soil-for-pachira"
+  - "guide/pachira-yellow-leaves-falling"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

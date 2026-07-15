@@ -10,6 +10,7 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "soil/recommended-soil-for-houseplants"
   - "soil/how-to-mix-soil-for-houseplants"
+  - "guide/alocasia-yellow-leaves"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -298,7 +299,7 @@ amazonProducts:
 
 ### 葉が黄色くなる
 
-**原因：** 水のやりすぎ、光量不足、自然な古い葉の入れ替わり。下の葉から1枚だけ黄変するのは正常な新陳代謝です。複数の葉が同時に黄変する場合は、根の状態を確認してください。根腐れの可能性があります。[根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)で詳しく確認してください。
+**原因：** 水のやりすぎ、光量不足、自然な古い葉の入れ替わり。下の葉から1枚だけ黄変するのは正常な新陳代謝です。複数の葉が同時に黄変する場合は、根の状態を確認してください。根腐れの可能性があります。新葉と下葉での見分け方や原因別の対処法は[アロカシアの葉が黄色くなる原因と対処法](/guide/alocasia-yellow-leaves)で詳しく解説しています。根腐れが疑われる場合は[アロカシアが根腐れする原因と対処法](/guide/alocasia-root-rot-treatment)も参考にしてください。
 
 ### 葉先が茶色く枯れる
 

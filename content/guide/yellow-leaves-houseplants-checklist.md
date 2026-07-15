@@ -11,6 +11,7 @@ relatedSlugs:
   - "research/light-intensity-by-window-direction"
   - "research/watering-frequency-by-season-indoor"
   - "soil/houseplant-soil-hub-guide"
+  - "guide/pachira-yellow-leaves-falling"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
