@@ -13,6 +13,7 @@ relatedSlugs:
   - "guide/how-to-trim-roots-when-repotting"
   - "guide/choosing-pot-size-for-repotting"
   - "guide/repotting-without-upsizing"
+  - "guide/monstera-repotting-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

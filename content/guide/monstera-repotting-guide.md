@@ -10,6 +10,7 @@ relatedSlugs:
   - "guide/monstera-care"
   - "species/monstera-deliciosa"
   - "soil/best-soil-for-monstera"
+  - "guide/plant-not-recovering-after-repotting"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

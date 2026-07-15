@@ -8,9 +8,10 @@ tags:
   - 育成ライト
   - LED
   - ビカクシダ
-  - 育成ライト
+  - コウモリラン
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "guide/platycerium-watering-guide"
   - "review/plant-light-review"
   - "research/houseplant-grow-light-guide"
   - "species/platycerium-bifurcatum"
@@ -42,6 +43,8 @@ amazonProducts:
 - 新葉の展開が遅い・止まった
 - 北向き・採光が弱い部屋に置いている
 - 冬季の日照不足が気になる
+
+なお、光量とあわせて見直したいのが水やりです。ビカクシダは光と水のバランスが崩れるとトラブルが出やすい植物なので、板付け・鉢植え別の水やり頻度は **[ビカクシダの水やり完全ガイド](/guide/platycerium-watering-guide)** もあわせて確認してください。
 
 ---
 
