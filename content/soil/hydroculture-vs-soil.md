@@ -16,6 +16,8 @@ relatedSlugs:
   - "guide/alocasia-hydroculture"
   - "guide/monstera-hydroculture"
   - "guide/bottom-watering-houseplants"
+  - "guide/hydroculture-to-soil-transition"
+  - "guide/philodendron-hydroculture"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -159,7 +161,7 @@ baseProducts:
 5. たっぷり水やりする
 6. 明るい日陰で1〜2週間養生する
 
-土に移行すると、数週間で成長スピードが上がるのを実感できます。
+土に移行すると、数週間で成長スピードが上がるのを実感できます。移行後の水やりスケジュールや失敗しないためのコツは「[ハイドロカルチャーから土への植え替え方法](/guide/hydroculture-to-soil-transition)」で詳しく解説しています。
 
 ---
 
@@ -179,7 +181,7 @@ baseProducts:
 
 ### 失敗4：移行直後に直射日光に当てる
 
-土→ハイドロ、ハイドロ→土のどちらの移行でも、根が新しい環境に適応するまで1〜2週間かかります。この間に直射日光やに当てると、葉焼けや萎れの原因になります。
+土→ハイドロ、ハイドロ→土のどちらの移行でも、根が新しい環境に適応するまで1〜2週間かかります。この間に直射日光に当てると、葉焼けや萎れの原因になります。
 
 ---
 

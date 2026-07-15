@@ -10,8 +10,6 @@ tags:
   - 底面給水
   - 培地
   - 水耕栽培
-  - アロカシア
-  - ハイドロカルチャー
 author: tokyoplants 編集部
 relatedSlugs:
   - guide/alocasia-care-guide
@@ -19,6 +17,7 @@ relatedSlugs:
   - guide/bottom-watering-houseplants
   - guide/hydroculture-to-soil-transition
   - soil/hydroculture-vs-soil
+  - guide/philodendron-hydroculture
 baseProducts:
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
@@ -47,7 +46,7 @@ amazonProducts:
 2. **通気性が重要**：根が酸欠になると急速に傷む。土が詰まると根腐れが一気に進む
 3. **繊細な根**：有害物質（アンモニア・老廃物）に対して敏感
 
-この3つの特徴が、**溶岩石+ゼオライト配合の無機系培地と底面給水**の組み合わせとほぼ完全に一致します。
+この3つの特徴が、**溶岩石+ゼオライト配合の無機系培地と底面給水**の組み合わせとほぼ完全に一致します。培地ごとの違いは[ハイドロカルチャーの培地おすすめ比較｜LECA・溶岩石の違い](/soil/hydroculture-medium-comparison)で詳しく比較しています。同じサトイモ科の[フィロデンドロンをハイドロカルチャーで育てる方法](/guide/philodendron-hydroculture)も合わせて参考になります。
 
 | 特徴 | 土植え | 無機系培地（溶岩石+ゼオライト） |
 |------|--------|-------------------------------|

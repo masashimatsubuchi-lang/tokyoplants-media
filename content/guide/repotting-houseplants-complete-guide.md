@@ -18,6 +18,7 @@ relatedSlugs:
   - "review/plant-label-maker-review"
   - "review/drainage-net-comparison"
   - "review/moss-pole-comparison"
+  - "soil/best-soil-for-pachira"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -318,6 +319,7 @@ amazonProducts:
 - **鉢選び**: これ以上大きくしたくない場合は、同じ鉢で根を切り詰めて土だけ入れ替える
 - **移動**: 植え替え後の鉢は重いため、キャスター付きの鉢台があると便利
 - **支柱**: パキラの編み込みタイプは植え替え時に支柱を追加して形状を安定させる
+- **土**: パキラは過湿に弱く、排水性最優先の土選びが重要です。詳しくは「[パキラの土おすすめ5選｜配合レシピと根腐れしない選び方](/soil/best-soil-for-pachira)」を参照してください。
 
 ### ハイドロカルチャーから土への切り替え
 

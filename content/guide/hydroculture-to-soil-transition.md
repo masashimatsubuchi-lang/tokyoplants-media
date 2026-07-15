@@ -13,6 +13,8 @@ relatedSlugs:
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/plant-not-recovering-after-repotting"
   - "guide/soil-to-hydroculture-transition"
+  - "soil/hydroculture-medium-comparison"
+  - "guide/philodendron-hydroculture"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -142,7 +144,7 @@ baseProducts:
 ## 植物タイプ別の注意点
 
 **ポトス・フィロデンドロン系**
-比較的移行しやすい種類です。[ハイドロカルチャー完全ガイド](/soil/hydroculture-complete-guide)も合わせて参照ください。失敗の多くは過湿です。
+比較的移行しやすい種類です。[ハイドロカルチャー完全ガイド](/soil/hydroculture-complete-guide)も合わせて参照ください。失敗の多くは過湿です。フィロデンドロンをハイドロカルチャーで育てる場合の培地選びは[フィロデンドロンをハイドロカルチャーで育てる方法](/guide/philodendron-hydroculture)も参考になります。
 
 **モンステラ**
 太根が多く、酸欠に弱い傾向があります。粗め配合（軽石多め）を強めにして空気を確保します。
@@ -185,7 +187,7 @@ A：多少の落葉は正常の範囲内です。根の機能が一時的に低�
 
 **Q：HYDRO MINERALから土への移行はどうする？**
 
-A：HYDRO MINERALは溶岩石75%＋ゼオライト25%の無機系培地で、一般的なハイドロボールより根への影響が少ない素材です。培地を丁寧に除去し、残った粒は無理に取らなくても構いません。移行後は通常のハイドロ根と同じ水管理（乾湿メリハリ重視）で進めてください。なお、HYDRO MINERALをそのまま土に混ぜ込むことで通気性を高める使い方も可能です。
+A：HYDRO MINERALは溶岩石75%＋ゼオライト25%の無機系培地で、一般的なハイドロボールより根への影響が少ない素材です。培地を丁寧に除去し、残った粒は無理に取らなくても構いません。移行後は通常のハイドロ根と同じ水管理（乾湿メリハリ重視）で進めてください。なお、HYDRO MINERALをそのまま土に混ぜ込むことで通気性を高める使い方も可能です。培地ごとの特徴の違いは[ハイドロカルチャーの培地おすすめ比較｜LECA・溶岩石の違い](/soil/hydroculture-medium-comparison)で詳しく比較しています。
 
 ---
 

@@ -21,6 +21,9 @@ relatedSlugs:
   - guide/bottom-watering-houseplants
   - soil/growing-houseplants-without-soil
   - guide/soil-to-hydroculture-transition
+  - guide/hydroculture-to-soil-transition
+  - guide/alocasia-hydroculture
+  - guide/philodendron-hydroculture
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'
@@ -132,7 +135,7 @@ LECA単体は「水を保持できるが通気とろ過が不足」という問�
 
 **水の汚れや匂いが気になる**：ゼオライト配合を選ぶ。浄化作用がある分、水換えの頻度を下げられます。
 
-**アロカシア・モンステラ・フィロデンドロンを育てたい**：溶岩石+ゼオライト配合が最適です。根の通気性と浄化の両方を高いレベルで確保できます。
+**アロカシア・モンステラ・フィロデンドロンを育てたい**：溶岩石+ゼオライト配合が最適です。根の通気性と浄化の両方を高いレベルで確保できます。具体的な育て方は「[アロカシアをハイドロで育てる方法](/guide/alocasia-hydroculture)」「[フィロデンドロンをハイドロカルチャーで育てる](/guide/philodendron-hydroculture)」も参考にしてください。逆にハイドロから土へ戻したい場合は「[ハイドロカルチャーから土への植え替え方法](/guide/hydroculture-to-soil-transition)」を参照してください。
 
 **底面給水環境で管理を楽にしたい**：溶岩石+ゼオライト+緩効性肥料配合を選ぶ。水やりと施肥の手間を大幅に削減できます。
 

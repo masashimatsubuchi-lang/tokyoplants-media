@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/drainage-stones-guide"
   - "guide/repotting-houseplants-complete-guide"
+  - "guide/no-drainage-hole-pot-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -160,7 +161,7 @@ baseProducts:
 
 デザイン性の高い鉢は底穴がないものが多いです。その場合は「鉢カバー」として使い、中にプラスチックの内鉢（底穴あり）を入れてください。
 
-水やり時は内鉢を取り出して水やりし、水が切れてから鉢カバーに戻す方法が安全です。
+水やり時は内鉢を取り出して水やりし、水が切れてから鉢カバーに戻す方法が安全です。どうしても穴なし鉢に直接植えたい場合は、水やりの量・頻度・培地の選び方が通常とは異なります。「[観葉植物の穴なし鉢の使い方](/guide/no-drainage-hole-pot-guide)」で詳しく解説しています。
 
 ---
 

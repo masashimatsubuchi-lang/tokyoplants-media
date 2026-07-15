@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "soil/commercial-soil-ingredients"
   - "soil/when-to-replace-soil"
+  - "guide/home-compost-beginners-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -127,7 +128,7 @@ baseProducts:
 
 ### 有機質の量と質をチェック
 
-有機質がゼロである必要はありません。問題は「未熟な有機質」です。十分に発酵・分解された堆肥は虫の餌になりにくい。商品説明に「完熟堆肥」「発酵済み」と書かれているか確認しましょう。
+有機質がゼロである必要はありません。問題は「未熟な有機質」です。十分に発酵・分解された堆肥は虫の餌になりにくい。商品説明に「完熟堆肥」「発酵済み」と書かれているか確認しましょう。自宅で生ごみから完熟堆肥を作りたい方は「[コンポストの始め方](/guide/home-compost-beginners-guide)」も参考にしてください。
 
 ### 表面を無機質でカバーする
 

@@ -11,6 +11,8 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "soil/hydroculture-medium-comparison"
   - "guide/alocasia-hydroculture"
+  - "guide/hydroculture-to-soil-transition"
+  - "soil/hydroculture-vs-soil"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -24,7 +26,7 @@ baseProducts:
 
 フィロデンドロンを室内で育てていて、「土から虫が湧く」「水やりのタイミングが難しい」「根腐れが心配」と感じている方は多いのではないでしょうか。<mark>実はフィロデンドロンは、観葉植物の中でもハイドロカルチャーとの相性が特によい植物のひとつです。</mark>
 
-ハイドロカルチャーとは、土を使わずに無機培地や水だけで植物を育てる方法。虫の発生リスクがほぼゼロになり、水やり管理も格段に楽になります。本記事では、フィロデンドロンをハイドロカルチャーで育てるための培地の選び方、水位管理のコツ、土からの移行手順、よくあるトラブルの対処法まで、実践的な情報を詳しく解説します。
+ハイドロカルチャーとは、土を使わずに無機培地や水だけで植物を育てる方法。虫の発生リスクがほぼゼロになり、水やり管理も格段に楽になります。本記事では、フィロデンドロンをハイドロカルチャーで育てるための培地の選び方、水位管理のコツ、土からの移行手順、よくあるトラブルの対処法まで、実践的な情報を詳しく解説します。逆にハイドロカルチャーから土に戻したい場合は[ハイドロカルチャーから土への植え替え方法](/guide/hydroculture-to-soil-transition)、そもそもどちらが自分に合うか迷っている方は[ハイドロカルチャーと土栽培の違い](/soil/hydroculture-vs-soil)も参考にしてください。
 
 ## フィロデンドロンとハイドロカルチャーの相性
 

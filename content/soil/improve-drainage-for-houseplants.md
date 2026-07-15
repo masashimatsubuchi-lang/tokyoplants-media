@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/no-drainage-hole-pot-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -146,7 +147,7 @@ baseProducts:
 
 ### 失敗2：鉢底に穴を開けて対処
 
-排水穴のない鉢にドリルで穴を開ける人がいますが、陶器の鉢は割れるリスクがあります。排水穴のない鉢はカバーポットとして使い、中にプラスチックの内鉢を入れる方が安全です。
+排水穴のない鉢にドリルで穴を開ける人がいますが、陶器の鉢は割れるリスクがあります。排水穴のない鉢はカバーポットとして使い、中にプラスチックの内鉢を入れる方が安全です。どうしても直接植え込みたい場合は、水やり量や培地選びを見直す必要があります。詳しくは「[観葉植物の穴なし鉢の使い方](/guide/no-drainage-hole-pot-guide)」を参照してください。
 
 ### 失敗3：土の上に砂利を敷く
 

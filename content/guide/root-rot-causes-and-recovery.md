@@ -13,6 +13,8 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/how-to-trim-roots-when-repotting"
   - "guide/no-bugs-houseplant-growing"
+  - "guide/no-drainage-hole-pot-guide"
+  - "soil/best-soil-for-pachira"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -71,7 +73,7 @@ amazonProducts:
 
 最も多い原因です。「植物に水をあげなきゃ」という意識が強すぎると、土が乾く前に次の水やりをしてしまいます。根は「湿る→乾く」のサイクルで呼吸しています。常に湿った状態では酸欠になり、嫌気性菌が繁殖して根が腐ります。
 
-特に冬場は植物の水分吸収量が減るため、夏と同じ頻度で水やりを続けると簡単に根腐れします。
+特に冬場は植物の水分吸収量が減るため、夏と同じ頻度で水やりを続けると簡単に根腐れします。特にパキラやサンスベリアなど過湿に弱い植物では、致命的なダメージになることがあります（[パキラの土おすすめと配合レシピはこちら](/soil/best-soil-for-pachira)）。
 
 ### 2. 排水性の悪い土
 
@@ -81,7 +83,7 @@ amazonProducts:
 
 ### 3. 鉢の問題
 
-- **鉢底穴がない、または小さい：** 水が抜けず溜まる
+- **鉢底穴がない、または小さい：** 水が抜けず溜まる（[穴なし鉢の正しい使い方はこちら](/guide/no-drainage-hole-pot-guide)）
 - **鉢が大きすぎる：** 土の量が多く、根が吸い上げきれない水が残る
 - **受け皿に水を溜めたまま：** 鉢底から吸い上げて常に過湿になる
 

@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/drainage-stones-guide"
   - "soil/improve-drainage-for-houseplants"
+  - "guide/no-drainage-hole-pot-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -209,6 +210,8 @@ tokyoplants の **I'm original SOIL** は、鹿沼土・軽石・バーミキュ
 - 内鉢でしっかり通気性・排水性を確保
 - 外鉢でインテリア性を演出
 - 水やり後は外鉢に水が溜まらないように注意（腰水状態にならないようにする）
+
+排水穴のない鉢に直接植え込みたい場合は、水やりの量・頻度と培地選びを大きく変える必要があります。詳しい管理方法は「[観葉植物の穴なし鉢の使い方](/guide/no-drainage-hole-pot-guide)」で解説しています。
 
 ### 素材の質感をインテリアスタイルに合わせる
 

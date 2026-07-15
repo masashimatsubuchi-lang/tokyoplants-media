@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
   - "soil/when-to-replace-soil"
+  - "guide/home-compost-beginners-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -71,7 +72,7 @@ baseProducts:
 
 ### バーク堆肥 ── 有機質を補う
 
-樹皮を発酵させた堆肥。微生物の活動を促し、長期的な土壌環境を支えます。完熟したものを選べば虫も湧きにくい。
+樹皮を発酵させた堆肥。微生物の活動を促し、長期的な土壌環境を支えます。完熟したものを選べば虫も湧きにくい。市販品を買わずに家庭の生ごみから堆肥を自作する方法は「[コンポストの始め方](/guide/home-compost-beginners-guide)」で解説しています。
 
 ### ココチップ・ココピート ── 軽量で扱いやすい
 
