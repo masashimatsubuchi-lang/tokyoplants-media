@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "research/houseplant-fertilizer-guide"
+  - "review/houseplant-fertilizer-products-comparison"
 amazonProducts:
   - title: "マグァンプK 中粒 250g"
     asin: "B0026R71OS"
@@ -84,7 +85,7 @@ amazonProducts:
 - 液体肥料: 微調整向け、反応を見ながら運用
 - 緩効性肥料: ベース維持向け、過剰に注意
 
-初心者は液体肥料の低濃度運用から始めると事故率が低くなります。濃度は製品表示より薄め開始が安全です。液体肥料の具体的な製品比較（ハイポネックス原液・専用液肥など）は[観葉植物の肥料｜N・P・Kの役割から与え方・製品レビューまで徹底解説](https://media.tokyoplants.com/research/houseplant-fertilizer-guide)にまとめています。
+初心者は液体肥料の低濃度運用から始めると事故率が低くなります。濃度は製品表示より薄め開始が安全です。N・P・Kの役割など肥料の基礎知識は[観葉植物の肥料｜N・P・Kの役割から与え方・製品レビューまで徹底解説](https://media.tokyoplants.com/research/houseplant-fertilizer-guide)を、「結局どの製品を買うべきか」を製品タイプ別（液体肥料・元肥・置き肥・ハイドロ用）に比較したい方は[観葉植物の肥料比較｜ハイポネックス・マグァンプK等](https://media.tokyoplants.com/review/houseplant-fertilizer-products-comparison)にまとめています。
 
 緩効性肥料をベースに敷く場合は、植え替え時に土へ混ぜ込むタイプの元肥が管理しやすくなります。定番はマグァンプK中粒で、水やりのたびに少しずつ溶け出す設計のため、与えすぎによる肥料焼けリスクが比較的低いのが特長です。土1Lあたり2〜3g（小さじ半分程度）が目安の使用量です。
 

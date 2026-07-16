@@ -7,6 +7,7 @@ category: "species"
 tags: ["育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "guide/zamioculcas-care-guide"
   - "guide/root-rot-causes-and-recovery"
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
@@ -15,9 +16,6 @@ baseProducts:
   - title: "ザミオクルカスの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 ---
 
 # ザミオクルカスの育て方図鑑｜ZZ plantの特徴と管理の基本
@@ -87,6 +85,8 @@ baseProducts:
 ---
 
 ## 育て方のポイント
+
+水やり頻度や用土配合、植え替え手順をより実践的に知りたい場合は[ザミオクルカスの育て方｜水やり・用土・置き場所を解説](/guide/zamioculcas-care-guide)で詳しく解説しています。
 
 ### 置き場所（光）
 

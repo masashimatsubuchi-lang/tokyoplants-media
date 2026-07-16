@@ -1,7 +1,7 @@
 ---
 image: "https://plus.unsplash.com/premium_photo-1664297276585-84cbe1aaad9a?w=1200&q=80"
-title: "観葉植物の肥料｜N・P・Kの役割から与え方・製品レビューまで徹底解説"
-description: "観葉植物の肥料を徹底解説。三大栄養素（N・P・K）の役割、有機肥料と化学肥料の違い、液肥・緩効性肥料の使い分け、施肥のタイミング、肥料焼けの対処法、ハイポネックス・マグァンプKなどおすすめ製品レビューをまとめました。"
+title: "観葉植物の肥料｜N・P・Kの役割から与え方・肥料焼け対策まで徹底解説"
+description: "観葉植物の肥料を徹底解説。三大栄養素（N・P・K）の役割、有機肥料と化学肥料の違い、液肥・緩効性肥料の使い分け、施肥のタイミング、肥料焼けの対処法、植物別の与え方をまとめました。製品ごとの詳しい比較・ランキングは製品比較記事もあわせてご覧ください。"
 date: "2026-06-09"
 category: research
 tags:
@@ -14,23 +14,15 @@ relatedSlugs:
   - guide/root-rot-causes-and-recovery
   - soil/repotting-soil-guide
   - guide/houseplant-fertilizer-calendar
+  - review/houseplant-fertilizer-products-comparison
 hideAmazonBlock: true
 amazonProducts:
-  - title: ハイポネックス原液 800ml
-    asin: B0027WPD7O
-    note: 液肥の定番・N-P-K 6-10-5
   - title: ハイポネックス 専用液肥 観葉植物用 450ml
     asin: B07ZTM6H4H
     note: 観葉植物専用配合
-  - title: マグァンプK 中粒 250g
-    asin: B0026R71OS
-    note: 緩効性元肥の定番・約1年効果持続
   - title: リキダス 800ml
     asin: B01NBTAX3J
     note: 活力剤・植え替え後の回復促進
-  - title: プロミック 観葉植物用 150g
-    asin: B00337XTO6
-    note: 置くだけ錠剤タイプ
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -40,13 +32,13 @@ baseProducts:
     price: "¥1,200"
 ---
 
-# 観葉植物の肥料｜N・P・Kの役割から与え方・製品レビューまで徹底解説
+# 観葉植物の肥料｜N・P・Kの役割から与え方・肥料焼け対策まで徹底解説
 
 観葉植物を室内で育てていると、「肥料は必要なのか」「どれを選べばよいのか」という疑問にぶつかります。結論から言えば、鉢植えの観葉植物に肥料は必要です。
 
 自然界では落ち葉や動物の排泄物が微生物によって分解され、養分が循環し続けます。しかし鉢の中はその循環が存在しない**閉じた系**です。土に含まれる養分は水やりのたびに流出し、時間とともに枯渇します。新しい培養土でも元肥は1〜3ヶ月で消耗するものがほとんどです。
 
-この記事では、肥料の基礎（N・P・K の科学）から選び方・与え方・具体的な製品レビューまで体系的にまとめました。
+この記事では、肥料の基礎（N・P・K の科学）から選び方・与え方・肥料焼けの対処法まで体系的にまとめました。定番製品の比較・ランキングは[観葉植物の肥料比較｜ハイポネックス・マグァンプK等](https://media.tokyoplants.com/review/houseplant-fertilizer-products-comparison)で詳しく扱っています。
 
 ---
 
@@ -217,26 +209,11 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 
 ---
 
-## おすすめ肥料5選レビュー
+## 液肥・活力剤をもう一歩踏み込んで選ぶなら
 
-### 1. ハイポネックス原液 800ml（液肥）
+ハイポネックス原液・マグァンプK・プロミック・ハイポニカ液体肥料といった定番製品の評価・レビュー数を比較しながら「結局どれを買うべきか」を1本に絞って知りたい方は、[観葉植物の肥料比較｜ハイポネックス・マグァンプK等](https://media.tokyoplants.com/review/houseplant-fertilizer-products-comparison)で製品別に詳しく比較しています。ここでは、その比較記事では扱っていない「観葉植物専用液肥」と「活力剤」という、もう一段踏み込んだ2つの選択肢を紹介します。
 
-園芸肥料の定番中の定番。N-P-K 6-10-5 の配合で、15種類の栄養素をバランスよく含む。希釈倍率は500〜1,000倍が標準で、観葉植物には1,000倍希釈（水1Lに対して1ml）が適している。
-
-価格が手頃で入手性が高く、ホームセンターでもネット通販でもどこでも手に入る。1本あれば観葉植物だけでなく、花や野菜にも使えるため、園芸初心者が最初に買う液肥としてはこれが最も無難な選択肢。
-
-リン酸（P）の比率がやや高いため、根の発達と全体の栄養バランスを重視した配合になっている。窒素多めの配合が欲しい場合は、観葉植物専用液肥のほうが適する場合もある。
-
-**向いている人**: 初めて液肥を購入する方、コスパ重視、汎用的に使いたい方
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0027WPD7O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0027WPD7O.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス原液</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
-
-### 2. ハイポネックス 専用液肥 観葉植物用 450ml（液肥）
+### 1. ハイポネックス 専用液肥 観葉植物用 450ml（液肥）
 
 ハイポネックスの観葉植物専用ライン。原液に比べて窒素の比率がやや高く設計されており、葉の色つやを維持しやすい。希釈倍率は500倍が標準。
 
@@ -253,24 +230,7 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 </a>
 </div>
 
-### 3. マグァンプK 中粒（緩効性肥料）
-
-植え替え時に土に混ぜ込む元肥として、最も広く使われている緩効性肥料。N-P-K-Mg 6-40-6-15 という配合で、リン酸とマグネシウムの比率が極めて高い。中粒タイプの効果持続期間は約1年とされる。
-
-マグァンプKの最大の特長は、水やりのたびに少しずつ溶出する「水溶性」の設計にある。根が水分を吸うときに肥料成分も一緒に取り込まれるため、与えすぎによる肥料焼けのリスクが比較的低い。植え替え時に土1Lあたり2〜3g（小さじ半分程度）を混ぜ込むのが標準的な使い方。
-
-粒の大きさによって溶出速度と持続期間が異なる。大粒は約2年、中粒は約1年、小粒は約2ヶ月。観葉植物の場合は中粒が最もバランスがよく、1〜2年に1回の植え替えサイクルとも合致する。
-
-**向いている人**: 植え替えのたびに元肥を仕込みたい方、施肥管理を省力化したい方
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0026R71OS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0026R71OS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">マグァンプK 中粒</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
-
-### 4. リキダス 800ml（活力剤）
+### 2. リキダス 800ml（活力剤）
 
 厳密には「肥料」ではなく「活力剤」に分類される製品。窒素・リン酸・カリウムの含有量が肥料の基準を下回るため法律上の「肥料」には該当しないが、鉄・銅・亜鉛・モリブデンなどの微量元素とコリン・フルボ酸・アミノ酸を含み、植物の根の活力を高める効果がある。
 
@@ -287,22 +247,7 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 </a>
 </div>
 
-### 5. プロミック 観葉植物用 150g（置き肥）
-
-土の表面に置くだけで使える錠剤タイプの肥料。N-P-K 10-8-8 の配合で、窒素がやや多めの観葉植物向けバランスになっている。1錠の効果は約2ヶ月とされ、古い錠剤を取り除いてから新しいものを置き直す。
-
-液肥のように希釈する手間がなく、「置くだけ」で施肥が完了するため、管理の手間を最小限にしたい方に向いている。鉢のサイズに応じて錠剤の数を調整する（3号鉢で1錠、5号鉢で2〜3錠が目安）。
-
-注意点として、錠剤が土の表面に露出しているため、カビが生えやすい環境（高湿度・通気不良）では見た目が気になる場合がある。また、水やりの際に錠剤に直接水をかけると溶出が速くなりすぎるため、錠剤を避けて水を与えるのがコツ。
-
-**向いている人**: 施肥の手間を最小限にしたい方、液肥の希釈が面倒な方
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B00337XTO6?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00337XTO6.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">プロミック 置き型肥料</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+マグァンプK・プロミックを含めた定番4製品の評価・レビュー数の比較は、[観葉植物の肥料比較｜ハイポネックス・マグァンプK等](https://media.tokyoplants.com/review/houseplant-fertilizer-products-comparison)でまとめて確認できます。
 
 ---
 
@@ -348,3 +293,5 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 - 液肥は必ず規定濃度に希釈し、植え替え直後2〜4週間は控える
 - 活力剤（リキダス等）は肥料の代替にはならないが、植え替え後の回復や微量元素の補給に有効
 - 株の不調時はまず原因を切り分け、肥料より環境改善を優先する
+
+「結局どの製品を買うべきか」を評価・レビュー数から知りたい方は、[観葉植物の肥料比較｜ハイポネックス・マグァンプK等](https://media.tokyoplants.com/review/houseplant-fertilizer-products-comparison)をあわせてご覧ください。

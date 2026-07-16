@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/monstera-care"
   - "guide/repotting-tools-checklist"
+  - "review/pruning-shears-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -69,7 +70,7 @@ amazonProducts:
 
 ### 3. 節の上で切る
 
-<mark>新芽を出したい位置の節を残し、節の少し上で清潔な刃物で切断します。切り口は潰さないことが重要です。</mark>切れ味の悪いハサミは切り口を潰して回復を遅らせる原因になるため、よく研がれた剪定鋏を使いましょう。刃物選びの目安は[植え替えに必要な道具リスト](/guide/repotting-tools-checklist)で紹介している剪定鋏も参考になります。
+<mark>新芽を出したい位置の節を残し、節の少し上で清潔な刃物で切断します。切り口は潰さないことが重要です。</mark>切れ味の悪いハサミは切り口を潰して回復を遅らせる原因になるため、よく研がれた剪定鋏を使いましょう。タイプ別の選び方やAmazonで評価の高い商品の比較は[観葉植物の剪定バサミおすすめ比較](/review/pruning-shears-comparison)で詳しく解説しています。
 
 大型葉種は一度に大きく切らず、2回に分けると負担を抑えられます。太い枝や幹に近い部分を大きく切った場合は、切り口から病原菌が侵入しないよう「トップジンMペースト」のような癒合剤を塗布しておくと安心です。細い枝葉の剪定では必須ではありませんが、更新剪定などで直径1cm以上の枝を切る際には保護しておくと回復がスムーズになります。
 
