@@ -40,6 +40,13 @@ export default function Footer() {
             >
               SHOP
             </a>
+            <Link
+              href="/go/media"
+              target="_blank"
+              className="py-2 font-semibold text-teal-700 hover:text-teal-800 transition-colors"
+            >
+              APP
+            </Link>
           </nav>
         </div>
         <p className="mt-10 text-[11px] text-gray-300">

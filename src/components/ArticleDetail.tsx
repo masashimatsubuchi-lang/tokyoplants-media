@@ -7,6 +7,7 @@ import BaseProductBlock from "./BaseProductBlock";
 import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
+import ArticleAppCta from "./ArticleAppCta";
 import Image from "next/image";
 import Link from "next/link";
 import Script from "next/script";
@@ -178,6 +179,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
 
             {/* Shop Banner */}
             {showShopBanner && <ShopBanner />}
+
+            {/* App CTA */}
+            <ArticleAppCta />
 
             {/* Instagram CTA */}
             <div className="mt-12 rounded-xl border border-gray-100 bg-gray-50/60 p-5">
