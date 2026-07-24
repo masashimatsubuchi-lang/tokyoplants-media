@@ -29,17 +29,19 @@ export default function AppPromoBanner() {
   };
 
   return (
-    <div className="relative flex items-center justify-center gap-3 bg-emerald-800 px-4 py-2 text-white">
-      <p className="truncate text-[12px] md:text-[13px]">
+    <div className="relative flex items-center justify-center gap-2 bg-emerald-800 px-3 py-2 text-white sm:gap-3 sm:px-4">
+      <p className="min-w-0 truncate text-[12px] sm:text-[13px]">
         <span className="mr-1.5">🌱</span>
-        植物との毎日がちょっと楽しくなるアプリ、はじめました。
+        <span className="sm:hidden">アプリで植物との毎日をもっと楽しく</span>
+        <span className="hidden sm:inline">植物との毎日がちょっと楽しくなるアプリ、はじめました。</span>
       </p>
       <a
         href="/go/top_banner"
         target="_blank"
-        className="shrink-0 rounded-full bg-white px-3 py-1 text-[11px] font-semibold text-emerald-800 hover:bg-emerald-50 transition-colors"
+        className="shrink-0 whitespace-nowrap rounded-full bg-white px-3 py-1 text-[11px] font-semibold text-emerald-800 hover:bg-emerald-50 transition-colors"
       >
-        7日間の無料体験
+        <span className="sm:hidden">無料で試す</span>
+        <span className="hidden sm:inline">7日間の無料体験</span>
       </a>
       <button
         type="button"
