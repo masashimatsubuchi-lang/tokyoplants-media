@@ -16,7 +16,6 @@ const CHANNEL_LABELS: Record<string, string> = {
   media: "tokyoplants media",
   top_banner: "tokyoplants media",
   article_bottom: "tokyoplants media",
-  ec_banner: "tokyoplants SHOP",
 };
 
 declare global {
