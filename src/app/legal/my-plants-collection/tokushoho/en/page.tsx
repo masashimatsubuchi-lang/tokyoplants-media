@@ -91,7 +91,14 @@ export default function TokushohoPageEn() {
           >
             Japanese version
           </a>{" "}
-          shall prevail.
+          shall prevail. A Traditional Chinese translation is also available{" "}
+          <a
+            className="text-emerald-700 underline"
+            href="https://media.tokyoplants.com/legal/my-plants-collection/tokushoho/zh-Hant"
+          >
+            here
+          </a>
+          .
         </p>
       </div>
     </div>

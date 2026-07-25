@@ -184,7 +184,14 @@ export default function TermsOfServicePageEn() {
           >
             Japanese version
           </a>{" "}
-          shall prevail.
+          shall prevail. A Traditional Chinese translation is also available{" "}
+          <a
+            className="text-emerald-700 underline"
+            href="https://media.tokyoplants.com/legal/my-plants-collection/terms/zh-Hant"
+          >
+            here
+          </a>
+          .
         </p>
       </div>
     </div>
