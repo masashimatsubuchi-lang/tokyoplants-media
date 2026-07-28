@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { appStoreUrl } from "@/lib/appStore";
 
 const DISMISS_KEY = "app-promo-banner-dismissed";
 
@@ -36,8 +37,9 @@ export default function AppPromoBanner() {
         <span className="hidden sm:inline">植物との毎日がちょっと楽しくなるアプリ、はじめました。</span>
       </p>
       <a
-        href="/go/top_banner"
+        href={appStoreUrl("media_top_banner")}
         target="_blank"
+        rel="noopener noreferrer"
         className="shrink-0 whitespace-nowrap rounded-full bg-white px-3 py-1 text-[11px] font-semibold text-emerald-800 hover:bg-emerald-50 transition-colors"
       >
         <span className="sm:hidden">無料で試す</span>

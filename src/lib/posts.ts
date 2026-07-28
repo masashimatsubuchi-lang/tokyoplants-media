@@ -39,6 +39,8 @@ export interface PostMeta {
   baseProducts?: BaseProduct[];
   amazonProducts?: AmazonProduct[];
   hideAmazonBlock?: boolean;
+  /** 記事下のアプリCTAに出す、その記事の文脈に沿った一言。未設定の記事にはCTAを出さない */
+  appCta?: string;
 }
 
 export interface Post extends PostMeta {
@@ -72,6 +74,7 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
       baseProducts: data.baseProducts,
       amazonProducts: data.amazonProducts,
       hideAmazonBlock: data.hideAmazonBlock,
+      appCta: data.appCta,
     } satisfies PostMeta;
   });
 
@@ -108,6 +111,7 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
     baseProducts: data.baseProducts,
     amazonProducts: data.amazonProducts,
     hideAmazonBlock: data.hideAmazonBlock,
+    appCta: data.appCta,
     contentHtml,
   };
 }

@@ -6,6 +6,7 @@ date: "2026-02-17"
 category: "guide"
 tags: ["植え替え", "根", "剪定", "根腐れ"]
 author: "tokyoplants 編集部"
+appCta: "根を切ったあとの1ヶ月は、写真を並べて比べられると安心できます。"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"

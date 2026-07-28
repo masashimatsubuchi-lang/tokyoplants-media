@@ -6,6 +6,7 @@ date: "2026-03-03"
 category: "guide"
 tags: ["モンステラ", "植え替え", "土", "鉢", "春"]
 author: "tokyoplants 編集部"
+appCta: "次の植え替え時期は、前回の日付が残っていれば逆算できます。"
 relatedSlugs:
   - "guide/monstera-care"
   - "species/monstera-deliciosa"

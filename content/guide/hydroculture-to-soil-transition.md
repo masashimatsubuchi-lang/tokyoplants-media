@@ -6,6 +6,7 @@ date: "2026-02-17"
 category: "guide"
 tags: ["ハイドロカルチャー", "水耕栽培", "植え替え", "根腐れ"]
 author: "tokyoplants 編集部"
+appCta: "移行後の4週間は、水やりの間隔が結果を分けます。次にあげる日を通知で受け取れます。"
 relatedSlugs:
   - "soil/hydroculture-vs-soil"
   - "soil/repotting-soil-guide"

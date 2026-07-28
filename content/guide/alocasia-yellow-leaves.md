@@ -6,6 +6,7 @@ date: "2026-07-15"
 category: "guide"
 tags: ["アロカシア", "黄変", "トラブル", "育て方", "根腐れ"]
 author: "tokyoplants 編集部"
+appCta: "黄変した日と直前の水やり日を並べると、原因をかなり絞り込めます。"
 genus: "alocasia"
 relatedSlugs:
   - "guide/alocasia-root-rot-treatment"

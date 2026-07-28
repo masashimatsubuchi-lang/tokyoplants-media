@@ -6,6 +6,7 @@ date: "2026-06-05"
 category: "guide"
 tags: ["葉焼け", "夏", "直射日光", "トラブル", "回復", "夏の管理"]
 author: "tokyoplants 編集部"
+appCta: "置き場所を変えた日を書き残しておくと、葉焼けの原因を特定しやすくなります。"
 relatedSlugs:
   - "guide/summer-houseplant-care-guide"
   - "guide/air-conditioner-and-houseplants"

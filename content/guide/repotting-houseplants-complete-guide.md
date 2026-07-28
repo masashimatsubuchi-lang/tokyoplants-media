@@ -6,6 +6,7 @@ date: "2026-03-03"
 category: "guide"
 tags: ["植え替え", "時期", "用土", "鉢", "初心者", "完全ガイド"]
 author: "tokyoplants 編集部"
+appCta: "植え替えた日を残しておくと、次に迷ったときの判断が早くなります。"
 relatedSlugs:
   - "guide/best-time-to-repot-houseplants"
   - "guide/choosing-pot-size-for-repotting"

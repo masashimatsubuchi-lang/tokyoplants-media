@@ -2,21 +2,21 @@
 
 import { useEffect } from "react";
 import { useParams } from "next/navigation";
+import { appStoreUrl } from "@/lib/appStore";
 
-// App Store（my Plants Collection / Green Collection）へのリンク。
 // Instagram・Xなど「参照元ドメインを持たない」チャネルからの流入を区別するための中継ページ。
-// ここを経由させることで、GA4側では/go/[channel]へのページビューとして、
-// App Store Connect側ではmedia.tokyoplants.comからのWeb Referrerとして計測できる。
-const APP_STORE_URL =
-  "https://apps.apple.com/jp/app/green-collection-%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%E3%81%AE%E3%81%8A%E4%B8%96%E8%A9%B1-%E6%88%90%E9%95%B7%E8%A8%98%E9%8C%B2/id6790673876";
-
+// サイト内の導線（ヘッダーバナー・記事下CTA・フッター）はApp Storeへ直リンクしており、
+// GA4の拡張計測（outbound click）とApp Store Connectのct計測で追えるため、ここは通さない。
 const CHANNEL_LABELS: Record<string, string> = {
   instagram: "Instagram",
   x: "X",
   media: "tokyoplants media",
-  top_banner: "tokyoplants media",
-  article_bottom: "tokyoplants media",
 };
+
+// gtag.jsはafterInteractiveで読み込まれるため、useEffect時点ではまだ未定義のことがある。
+// 読み込みを最大この時間まで待ってからイベントを送る。
+const GTAG_WAIT_MS = 1500;
+const GTAG_POLL_MS = 100;
 
 declare global {
   interface Window {
@@ -31,24 +31,44 @@ export default function AppStoreRedirectPage() {
   const label = CHANNEL_LABELS[channel] ?? channel;
 
   useEffect(() => {
-    const redirect = () => window.location.replace(APP_STORE_URL);
+    const url = appStoreUrl(channel);
+    let done = false;
+    const redirect = () => {
+      if (done) return;
+      done = true;
+      window.location.replace(url);
+    };
 
-    if (typeof window.gtag === "function") {
+    const send = () => {
       // event_callback/event_timeoutでヒット送信（またはタイムアウト）を待ってから
-      // 遷移する。即座にreplace()すると、afterInteractiveで読み込まれるgtag.jsの
-      // ネットワークリクエストが遷移によってキャンセルされ、イベントが計測されない
-      // ことがあるため。
-      window.gtag("event", "app_store_click", {
+      // 遷移する。即座にreplace()すると、gtag.jsのネットワークリクエストが遷移で
+      // キャンセルされ、イベントが計測されないことがあるため。
+      window.gtag!("event", "app_store_click", {
         channel,
         event_callback: redirect,
         event_timeout: 500,
       });
-      const timer = setTimeout(redirect, 500);
-      return () => clearTimeout(timer);
+      setTimeout(redirect, 500);
+    };
+
+    if (typeof window.gtag === "function") {
+      send();
+      return;
     }
 
-    // gtag.jsがまだ読み込まれていない場合は計測を諦めて遷移する
-    redirect();
+    const start = Date.now();
+    const poll = setInterval(() => {
+      if (typeof window.gtag === "function") {
+        clearInterval(poll);
+        send();
+      } else if (Date.now() - start >= GTAG_WAIT_MS) {
+        // 待っても読み込まれない場合は計測を諦めて遷移する
+        clearInterval(poll);
+        redirect();
+      }
+    }, GTAG_POLL_MS);
+
+    return () => clearInterval(poll);
   }, [channel]);
 
   return (
@@ -56,7 +76,7 @@ export default function AppStoreRedirectPage() {
       <p className="text-sm text-gray-500">
         {label}からApp Storeへ移動しています…
       </p>
-      <a href={APP_STORE_URL} className="text-teal-700 underline">
+      <a href={appStoreUrl(channel)} className="text-teal-700 underline">
         自動的に移動しない場合はこちらをタップ
       </a>
     </main>

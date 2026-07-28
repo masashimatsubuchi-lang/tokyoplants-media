@@ -6,6 +6,7 @@ date: "2026-06-05"
 category: "guide"
 tags: ["水やり", "根腐れ", "インテリア"]
 author: "tokyoplants 編集部"
+appCta: "鉢穴のない鉢は、あげた日と量を残しておくのが一番の保険になります。"
 relatedSlugs:
   - "guide/how-to-drill-drainage-hole"
   - "guide/root-rot-causes-and-recovery"

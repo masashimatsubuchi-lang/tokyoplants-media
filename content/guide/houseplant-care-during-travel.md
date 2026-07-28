@@ -6,6 +6,7 @@ date: "2026-06-04"
 category: "guide"
 tags: ["水やり", "底面給水", "ハイドロカルチャー"]
 author: "tokyoplants 編集部"
+appCta: "留守にする前に、帰宅後の水やり予定を通知にしておくと安心です。"
 relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "guide/alocasia-hydroculture"

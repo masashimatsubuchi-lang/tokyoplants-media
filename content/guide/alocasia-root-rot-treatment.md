@@ -6,6 +6,7 @@ date: "2026-06-04"
 category: "guide"
 tags: ["アロカシア", "根腐れ", "ハイドロカルチャー", "復活", "培地"]
 author: "tokyoplants 編集部"
+appCta: "治療中の株こそ、毎日の小さな変化を写真で残しておきたいところです。"
 genus: "alocasia"
 relatedSlugs:
   - "guide/alocasia-care-guide"

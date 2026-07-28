@@ -6,6 +6,7 @@ date: "2026-06-05"
 category: "guide"
 tags: ["植え替え", "回復", "トラブル"]
 author: "tokyoplants 編集部"
+appCta: "失敗のパターンは、記録が残っていれば次は繰り返さずに済みます。"
 relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/repotting-houseplants-complete-guide"

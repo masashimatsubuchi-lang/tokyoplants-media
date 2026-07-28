@@ -6,6 +6,7 @@ date: "2026-06-03"
 category: "guide"
 tags: ["アロカシア", "夏越し", "夏", "育て方", "ホーリーグレイル", "夏の管理"]
 author: "tokyoplants 編集部"
+appCta: "夏は水やりの間隔が縮みます。通知の設定を季節ごとに変えられます。"
 relatedSlugs:
   - "guide/alocasia-care-guide"
   - "guide/alocasia-hydroculture"

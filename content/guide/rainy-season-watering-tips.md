@@ -11,6 +11,7 @@ tags:
   - 管理
   - 葉水
 author: tokyoplants 編集部
+appCta: "梅雨は水やりの間隔を空ける時期。通知の間隔も季節に合わせて変えられます。"
 relatedSlugs:
   - guide/rainy-season-houseplant-care
   - guide/root-rot-causes-and-recovery

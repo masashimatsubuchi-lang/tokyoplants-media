@@ -11,6 +11,7 @@ tags:
   - 着生植物
   - コウモリラン
 author: "tokyoplants 編集部"
+appCta: "ビカクシダの水やり間隔は株ごとに違います。株ごとに記録を残せます。"
 relatedSlugs:
   - "guide/platycerium-grow-light-guide"
   - "review/platycerium-mounting-board-cork"

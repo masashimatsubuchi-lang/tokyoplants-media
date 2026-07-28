@@ -6,6 +6,7 @@ date: "2026-06-03"
 category: "guide"
 tags: ["エアコン", "夏", "夏の管理"]
 author: "tokyoplants 編集部"
+appCta: "エアコンを使う季節は、土の乾き方が変わります。通知の間隔も合わせて調整できます。"
 relatedSlugs:
   - "guide/summer-houseplant-care-guide"
   - "guide/rainy-season-houseplant-care"

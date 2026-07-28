@@ -6,6 +6,7 @@ date: "2026-02-17"
 category: "guide"
 tags: ["植え替え", "時期", "初心者"]
 author: "tokyoplants 編集部"
+appCta: "前回の植え替えがいつだったか、すぐに思い出せますか。"
 relatedSlugs:
   - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"

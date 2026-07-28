@@ -6,6 +6,7 @@ date: "2026-02-17"
 category: "guide"
 tags: ["植え替え", "回復", "トラブル"]
 author: "tokyoplants 編集部"
+appCta: "回復したかどうかは、記憶より記録のほうが正確です。植え替えた日と葉の写真を残しておけます。"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/repotting-soil-guide"

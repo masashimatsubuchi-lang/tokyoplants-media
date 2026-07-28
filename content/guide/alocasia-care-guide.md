@@ -6,6 +6,7 @@ date: "2026-02-16"
 category: "guide"
 tags: ["アロカシア", "育て方", "サトイモ科", "冬越し", "用土", "完全ガイド"]
 author: "tokyoplants 編集部"
+appCta: "アロカシアは水やりの間隔を掴むまでが山場。記録を続けると、その部屋に合った周期が見えてきます。"
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "soil/recommended-soil-for-houseplants"

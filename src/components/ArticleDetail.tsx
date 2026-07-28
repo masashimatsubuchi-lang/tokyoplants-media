@@ -180,8 +180,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
             {/* Shop Banner */}
             {showShopBanner && <ShopBanner />}
 
-            {/* App CTA */}
-            <ArticleAppCta />
+            {/* App CTA（frontmatterでappCtaを設定した記事のみ） */}
+            {post.appCta && <ArticleAppCta message={post.appCta} />}
 
             {/* Instagram CTA */}
             <div className="mt-12 rounded-xl border border-gray-100 bg-gray-50/60 p-5">

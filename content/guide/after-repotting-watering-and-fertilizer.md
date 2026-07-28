@@ -6,6 +6,7 @@ date: "2026-06-05"
 category: "guide"
 tags: ["植え替え", "水やり", "肥料"]
 author: "tokyoplants 編集部"
+appCta: "肥料を再開する日は忘れやすいので、通知にしておくのがおすすめです。"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/plant-not-recovering-after-repotting"

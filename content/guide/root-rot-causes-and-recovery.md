@@ -6,6 +6,7 @@ date: "2026-02-16"
 category: "guide"
 tags: ["根腐れ", "復活", "植え替え", "用土"]
 author: "tokyoplants 編集部"
+appCta: "根腐れの原因は、水やりの履歴を見返すとたいてい見えてきます。"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"

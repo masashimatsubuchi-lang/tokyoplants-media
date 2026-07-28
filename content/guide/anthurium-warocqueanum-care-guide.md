@@ -6,6 +6,7 @@ date: "2026-06-03"
 category: "guide"
 tags: ["アンスリウム", "ワロクアーナム", "育て方", "ベルベットアンスリウム", "希少植物"]
 author: "tokyoplants 編集部"
+appCta: "難しい株ほど、前回いつ水をやったか覚えておきたいもの。お世話の履歴から、調子を崩した理由をたどれます。"
 relatedSlugs:
   - "species/anthurium-warocqueanum"
   - "species/velvet-anthurium-types-comparison"

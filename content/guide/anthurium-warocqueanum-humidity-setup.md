@@ -6,6 +6,7 @@ date: "2026-06-03"
 category: "guide"
 tags: ["アンスリウム", "ワロクアーナム", "湿度管理", "希少植物"]
 author: "tokyoplants 編集部"
+appCta: "湿度と水やりはセットで記録しておくと、調子のいい状態を再現しやすくなります。"
 relatedSlugs:
   - "species/anthurium-warocqueanum"
   - "guide/anthurium-warocqueanum-care-guide"

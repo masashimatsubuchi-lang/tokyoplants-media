@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { categories } from "@/lib/categories";
+import { appStoreUrl } from "@/lib/appStore";
 
 export default function Footer() {
   return (
@@ -40,13 +41,14 @@ export default function Footer() {
             >
               SHOP
             </a>
-            <Link
-              href="/go/media"
+            <a
+              href={appStoreUrl("media_footer")}
               target="_blank"
+              rel="noopener noreferrer"
               className="py-2 font-semibold text-teal-700 hover:text-teal-800 transition-colors"
             >
               APP
-            </Link>
+            </a>
           </nav>
         </div>
         <p className="mt-10 text-[11px] text-gray-300">
