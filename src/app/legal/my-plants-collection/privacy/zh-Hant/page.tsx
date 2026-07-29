@@ -247,6 +247,13 @@ export default function PrivacyPolicyPageZhHant() {
           >
             English
           </a>
+          。韓文版本請參閱
+          <a
+            className="text-emerald-700 underline"
+            href="https://media.tokyoplants.com/legal/my-plants-collection/privacy/ko"
+          >
+            한국어
+          </a>
           。
         </p>
       </div>

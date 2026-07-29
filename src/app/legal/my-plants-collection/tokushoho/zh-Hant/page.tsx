@@ -84,6 +84,13 @@ export default function TokushohoPageZhHant() {
           >
             English
           </a>
+          。韓文版本請參閱
+          <a
+            className="text-emerald-700 underline"
+            href="https://media.tokyoplants.com/legal/my-plants-collection/tokushoho/ko"
+          >
+            한국어
+          </a>
           。
         </p>
       </div>

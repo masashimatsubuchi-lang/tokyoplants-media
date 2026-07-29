@@ -191,6 +191,13 @@ export default function TermsOfServicePageEn() {
           >
             here
           </a>
+          , and a Korean translation is also available{" "}
+          <a
+            className="text-emerald-700 underline"
+            href="https://media.tokyoplants.com/legal/my-plants-collection/terms/ko"
+          >
+            here
+          </a>
           .
         </p>
       </div>

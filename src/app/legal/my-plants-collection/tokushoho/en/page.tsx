@@ -98,6 +98,13 @@ export default function TokushohoPageEn() {
           >
             here
           </a>
+          , and a Korean translation is also available{" "}
+          <a
+            className="text-emerald-700 underline"
+            href="https://media.tokyoplants.com/legal/my-plants-collection/tokushoho/ko"
+          >
+            here
+          </a>
           .
         </p>
       </div>

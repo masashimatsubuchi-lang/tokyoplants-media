@@ -276,6 +276,13 @@ export default function PrivacyPolicyPageEn() {
           >
             here
           </a>
+          , and a Korean translation is also available{" "}
+          <a
+            className="text-emerald-700 underline"
+            href="https://media.tokyoplants.com/legal/my-plants-collection/privacy/ko"
+          >
+            here
+          </a>
           .
         </p>
       </div>
