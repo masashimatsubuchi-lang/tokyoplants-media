@@ -4,6 +4,7 @@ import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import AppPromoBanner from "@/components/AppPromoBanner";
+import CouponBanner from "@/components/CouponBanner";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -158,6 +159,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
         />
+        <CouponBanner />
         <AppPromoBanner />
         <Header />
         <main className="min-h-screen">{children}</main>
