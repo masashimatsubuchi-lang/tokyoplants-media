@@ -9,6 +9,17 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "baseec-img-mng.akamaized.net" },
     ],
   },
+  async headers() {
+    return [
+      // iOSのUniversal Link（Green Collectionのともだち招待）で必須。
+      // Appleのクローラは Content-Type: application/json 以外を受け付けず、
+      // 拡張子なしファイルはNextの静的配信だと text/plain になってしまうため明示する。
+      {
+        source: "/.well-known/apple-app-site-association",
+        headers: [{ key: "Content-Type", value: "application/json" }],
+      },
+    ];
+  },
   async redirects() {
     return [
       // 2026-06-28 commit 3553f09 でカテゴリ移動した記事の旧URLリダイレクト

@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["CYFDNGZAU9.com.tokyoplants.mygreenshelf"],
+        "components": [
+          {
+            "/": "/invite/*",
+            "comment": "Green Collection のともだち招待リンク"
+          }
+        ]
+      }
+    ]
+  }
+}
