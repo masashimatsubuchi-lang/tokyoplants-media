@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/alocasia-yellow-leaves"
+  - "species/alocasia-sanderiana"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"

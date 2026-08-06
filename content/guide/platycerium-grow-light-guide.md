@@ -12,7 +12,9 @@ tags:
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/platycerium-watering-guide"
+  - "guide/platycerium-placement-guide"
   - "review/plant-light-review"
+  - "review/neo-amateras-review"
   - "research/houseplant-grow-light-guide"
   - "species/platycerium-bifurcatum"
   - "species/platycerium-ridleyi"
@@ -135,7 +137,9 @@ PPFD が不足している可能性があります。ワット数が低い製品
 - **小型〜中型株**：BARREL AMATERAS LED 20W（PPFD高・演色性Ra97）
 - **ラック複数枚管理**：パネル型ライト（BRIM PANEL など）+ タイマーコンセント
 
-具体的なスペック比較・価格は **[植物育成ライト おすすめ5選レビュー](/review/plant-light-review)** を参照してください。
+具体的なスペック比較・価格は **[植物育成ライト おすすめ5選レビュー](/review/plant-light-review)** を参照してください。AMATERASのPPFD実測値の読み解き方や距離別の使用感、Amazonレビューの詳しい分析は **[NEO AMATERAS LEDレビュー｜PPFD実測と使用感を徹底解説](/review/neo-amateras-review)** で単体深掘りしています。
+
+なお、光量以外の置き場所（屋外・屋内の選び方、直射日光の当て方、季節ごとの管理）については **[ビカクシダの置き場所ガイド](/guide/platycerium-placement-guide)** で詳しく解説しています。
 
 ---
 

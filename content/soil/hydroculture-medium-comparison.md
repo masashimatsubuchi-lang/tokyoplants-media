@@ -24,6 +24,7 @@ relatedSlugs:
   - guide/hydroculture-to-soil-transition
   - guide/alocasia-hydroculture
   - guide/philodendron-hydroculture
+  - review/hydroponic-kit-comparison
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'
@@ -151,3 +152,5 @@ LECA単体は「水を保持できるが通気とろ過が不足」という問�
 - **透明か半透明の容器を使う**：水位が外から見えると管理が楽
 
 アロイド系の観葉植物を清潔に、長く育てるなら、溶岩石とゼオライトを組み合わせた無機系培地が最適です。
+
+なお、今育てている観葉植物を移行するのではなく、これから新しくハーブや野菜を水耕栽培で育ててみたい場合は、LEDライト付きの水耕栽培キットを使う方法もあります。製品ごとの評価・特徴は[水耕栽培キットおすすめ比較｜LEDライト付きで新しく育てる](/review/hydroponic-kit-comparison)で紹介しています。

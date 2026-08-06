@@ -10,6 +10,7 @@ relatedSlugs:
   - "research/houseplant-grow-light-guide"
   - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
+  - "review/hydroponic-kit-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -316,3 +317,5 @@ EC メーターは1,000〜2,000円程度で入手でき、正確な管理に役�
 - 花芽（ボルティング）は早めに摘み取る。最終的には株の更新が最善策
 - ミントは必ず **単独の鉢**で管理。混植すると他の植物を圧迫する
 - バジルは15℃以下で急激に衰弱する一年草。冬は株を更新するか、室内20℃以上＋育成ライトの環境が必要
+
+より本格的にLEDライト付きの水耕栽培キットを検討したい場合は、[水耕栽培キットおすすめ比較｜LEDライト付きで新しく育てる](/review/hydroponic-kit-comparison)で定番モデルから低価格モデルまで目的別に比較しています。

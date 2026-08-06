@@ -11,6 +11,7 @@ genus: "alocasia"
 relatedSlugs:
   - "species/alocasia-zebrina"
   - "species/alocasia-amazonica"
+  - "species/alocasia-sanderiana"
   - "guide/alocasia-care-guide"
   - "guide/alocasia-repotting-guide"
   - "soil/recommended-soil-for-houseplants"

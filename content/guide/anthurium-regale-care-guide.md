@@ -15,6 +15,7 @@ author: tokyoplants 編集部
 relatedSlugs:
   - species/anthurium-regale
   - guide/anthurium-regale-vs-warocqueanum
+  - guide/anthurium-crystallinum-care-guide
   - species/velvet-anthurium-types-comparison
   - guide/anthurium-care-for-beginners
   - guide/root-rot-causes-and-recovery

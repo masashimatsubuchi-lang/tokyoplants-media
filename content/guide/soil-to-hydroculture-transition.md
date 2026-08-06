@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/hydroculture-medium-comparison"
   - "soil/zeolite-for-houseplants"
   - "soil/lava-rock-for-houseplants"
+  - "review/hydroponic-kit-comparison"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -150,6 +151,8 @@ baseProducts:
 3. **移行直後の水位は低めに保ち、土耕とは違う「常時一定量」の管理感覚に切り替える**
 
 特にアロカシア・モンステラ・フィロデンドロンなどアロイド系の植物は、通気性と浄化作用を両立した培地を使うことでハイドロカルチャーへの移行がスムーズになります。焦らず段階的に環境を切り替えることが、根を傷めずに移行を成功させる一番の近道です。
+
+なお、今育てている植物を移行するのではなく、これから新しくハーブや野菜を土を使わずに育ててみたい場合は、LEDライト付きの水耕栽培キットを使う方法もあります。製品比較は[水耕栽培キットおすすめ比較｜LEDライト付きで新しく育てる](/review/hydroponic-kit-comparison)で紹介しています。
 
 ---
 

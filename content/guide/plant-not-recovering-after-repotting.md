@@ -9,6 +9,7 @@ author: "tokyoplants 編集部"
 appCta: "回復したかどうかは、記憶より記録のほうが正確です。植え替えた日と葉の写真を残しておけます。"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
+  - "guide/yellow-leaves-houseplants-checklist"
   - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/how-to-trim-roots-when-repotting"
@@ -259,4 +260,4 @@ baseProducts:
 
 ### Q: 植え替え後に葉が黄色くなるのは正常？
 
-下の方の**古い葉が1〜2枚黄色くなる程度は正常**なストレス反応です。しかし、全体的に葉が黄色くなる・次々と新しい葉も黄変する場合は過湿や根腐れのサインです。土の状態を確認し、3日以上経っても土が湿ったままの場合は水やりを控え、必要に応じて排水性の高い土への植え替えを検討してください。
+下の方の**古い葉が1〜2枚黄色くなる程度は正常**なストレス反応です。しかし、全体的に葉が黄色くなる・次々と新しい葉も黄変する場合は過湿や根腐れのサインです。土の状態を確認し、3日以上経っても土が湿ったままの場合は水やりを控え、必要に応じて排水性の高い土への植え替えを検討してください。葉の黄変は水やり・光・根・肥料・害虫など複数の原因が絡むため、植え替え直後でない株も含めた原因の切り分け方は [観葉植物の葉が黄色い原因チェック](/guide/yellow-leaves-houseplants-checklist) で詳しく解説しています。

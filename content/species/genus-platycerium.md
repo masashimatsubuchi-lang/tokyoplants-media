@@ -8,6 +8,8 @@ tags: ["ビカクシダ", "プラティセリウム", "品種", "着生植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
+  - "guide/platycerium-placement-guide"
+  - "guide/platycerium-grow-light-guide"
   - "soil/recommended-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
   - "species/platycerium-bifurcatum"
@@ -98,7 +100,7 @@ baseProducts:
 
 ### 光
 
-明るい間接光〜半日陰が最適。直射日光は葉焼けの原因になるが、光量不足では胞子葉が間延びし、貯水葉が小さくなる。東向きの壁面や窓辺が理想的。
+明るい間接光〜半日陰が最適。直射日光は葉焼けの原因になるが、光量不足では胞子葉が間延びし、貯水葉が小さくなる。東向きの壁面や窓辺が理想的。屋外・屋内それぞれの置き場所の選び方や季節ごとの管理は **[ビカクシダの置き場所ガイド](/guide/platycerium-placement-guide)**、育成ライトを使った光量の補い方は **[育成ライトガイド](/guide/platycerium-grow-light-guide)** で詳しく解説している。
 
 ### 温度
 

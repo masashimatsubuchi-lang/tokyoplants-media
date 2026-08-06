@@ -1,6 +1,6 @@
 import { Post } from "@/lib/posts";
 
-export default function ArticleJsonLd({ post, siteUrl = "https://example.com" }: { post: Post; siteUrl?: string }) {
+export default function ArticleJsonLd({ post, siteUrl = "https://media.tokyoplants.com" }: { post: Post; siteUrl?: string }) {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -8,14 +8,18 @@ export default function ArticleJsonLd({ post, siteUrl = "https://example.com" }:
     description: post.description,
     author: {
       "@type": "Person",
-      name: post.author || "BOTANY LIFE",
+      name: post.author || "tokyoplants 編集部",
     },
     datePublished: post.date,
     dateModified: post.updated ?? post.date,
-    image: post.image ? `${siteUrl}${post.image}` : undefined,
+    image: post.image
+      ? post.image.startsWith("http")
+        ? post.image
+        : `${siteUrl}${post.image}`
+      : undefined,
     publisher: {
       "@type": "Organization",
-      name: "BOTANY LIFE",
+      name: "tokyoplants",
     },
     mainEntityOfPage: {
       "@type": "WebPage",

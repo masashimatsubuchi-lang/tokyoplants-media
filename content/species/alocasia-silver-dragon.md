@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "species/alocasia-melo"
   - "species/alocasia-azlanii"
+  - "species/alocasia-sanderiana"
   - "guide/alocasia-repotting-guide"
   - "guide/alocasia-root-rot-treatment"
   - "guide/alocasia-hydroculture"

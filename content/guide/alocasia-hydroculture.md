@@ -18,6 +18,8 @@ relatedSlugs:
   - guide/hydroculture-to-soil-transition
   - soil/hydroculture-vs-soil
   - guide/philodendron-hydroculture
+  - species/alocasia-sanderiana
+  - review/hydroponic-kit-comparison
 baseProducts:
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
@@ -157,3 +159,5 @@ amazonProducts:
 3. **換水は補給ではなく全換えにする**（老廃物の蓄積を防ぐ）
 
 適切な培地と水管理さえ守れば、アロカシアはハイドロカルチャーで土植えよりも安定して管理できます。清潔な環境で大きな葉を広げるアロカシアを楽しんでください。
+
+アロカシアのようなアロイド系観葉植物だけでなく、キッチンでハーブや野菜も土を使わずに育ててみたい場合は、LEDライト付きの水耕栽培キットもおすすめです。製品比較は[水耕栽培キットおすすめ比較｜LEDライト付きで新しく育てる](/review/hydroponic-kit-comparison)で紹介しています。

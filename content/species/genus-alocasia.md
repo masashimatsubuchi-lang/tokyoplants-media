@@ -18,6 +18,7 @@ relatedSlugs:
   - "species/alocasia-zebrina"
   - "species/alocasia-amazonica"
   - "species/alocasia-silver-dragon"
+  - "species/alocasia-sanderiana"
   - "species/alocasia-holy-grail"
   - "species/alocasia-wentii"
   - "guide/alocasia-repotting-guide"

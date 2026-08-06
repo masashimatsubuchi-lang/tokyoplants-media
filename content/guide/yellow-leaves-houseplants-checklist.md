@@ -8,6 +8,7 @@ tags: ["トラブル", "水やり", "根腐れ", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
+  - "guide/plant-not-recovering-after-repotting"
   - "research/light-intensity-by-window-direction"
   - "research/watering-frequency-by-season-indoor"
   - "soil/houseplant-soil-hub-guide"
@@ -79,6 +80,8 @@ baseProducts:
 
 根に異常があれば、葉への対処より先に植え替えが必要です。
 [根腐れの原因と復活方法](https://media.tokyoplants.com/guide/root-rot-causes-and-recovery)
+
+なお、植え替え直後の株で葉が黄色くなっている場合は、根腐れではなく一時的な植え替えストレスのケースも多くあります。回復の見込みや期間の目安は [植え替え後にしおれる・元気がない原因と復活方法](https://media.tokyoplants.com/guide/plant-not-recovering-after-repotting) で詳しく解説しています。
 
 ### 4. 光量条件を現実的に見直す
 
