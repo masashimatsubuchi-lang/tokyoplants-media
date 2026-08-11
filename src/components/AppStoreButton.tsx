@@ -2,7 +2,7 @@
 
 import { Suspense, useState, useSyncExternalStore } from "react";
 import { useSearchParams } from "next/navigation";
-import { appStoreSchemeUrl, appStoreUrl } from "@/lib/appStore";
+import { appStoreUrl } from "@/lib/appStore";
 import { isInAppBrowser } from "@/lib/inAppBrowser";
 
 // App Store へのCTAボタン。
@@ -16,19 +16,13 @@ import { isInAppBrowser } from "@/lib/inAppBrowser";
 //    iOS は apps.apple.com を App Store の Universal Link として扱うが、
 //    OSが横取りするのは「ユーザーが <a> をタップした」ナビゲーションのみ。
 //
-// 3. アプリ内ブラウザでは href 自体を itms-apps:// に差し替える
-//    Instagram等のWKWebViewは、Appleが返す `301 Location: itms-appss://...` を
-//    処理できず、httpsのままだと何も起きない。
-//    https のApp Store URLは、短縮形でも itunes.apple.com でもパラメータを変えても
-//    例外なくこのスキームへ転送されるため（2026-08-12に実測）、
-//    「リダイレクトを挟む」やり方では回避できない。最初からスキームを渡すしかない。
+// 3. リンク先は素の https でよい。ただしURLは短い形であること
+//    Instagramのアプリ内ブラウザでも、Appleが返す `itms-appss://` は処理できる。
+//    以前タップしても何も起きなかったのは、アプリ名入りの長いURLを使っていたため、
+//    引き継がれるスキームURLが179文字＋日本語エンコードになっていたのが原因だった。
+//    詳細は appStore.ts のコメントを参照。
 //
-//    JSで location を書き換えるのではなく href に入れるのが要点。
-//    WKWebViewは「ユーザーがリンクをタップした」ナビゲーションだけをホストアプリに
-//    問い合わせるので、実際のタップのほうが受け渡される見込みが高い。
-//    誤判定で通常ブラウザにスキームを出しても、Safariは itms-apps:// を解釈できるため実害はない。
-//
-//    それでも開けなかった場合は、外部ブラウザで開く案内を出す（下の BLOCKED_MS）。
+//    それでも開けなかった場合に備え、外部ブラウザで開く案内を出す（下の BLOCKED_MS）。
 //
 // ct（キャンペーントークン）は ?ch= から取る。/go/[channel] からのリダイレクトと
 // Instagram プロフィールリンクの両方がこのクエリを付けて着地する。
@@ -87,7 +81,7 @@ function ButtonLink({
   return (
     <>
       <a
-        href={inApp ? appStoreSchemeUrl(channel) : appStoreUrl(channel)}
+        href={appStoreUrl(channel)}
         onClick={() => {
           window.gtag?.("event", "app_store_click", { channel, inApp });
           // 既定動作は止めない。アプリ内ブラウザのときだけ、開けたかどうかを見張る。

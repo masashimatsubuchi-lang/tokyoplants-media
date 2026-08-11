@@ -17,28 +17,25 @@
 // ⚠️ サイト内からApp Storeへ直リンクしないこと。アプリ内ブラウザで開けなくなる。
 // 必ず /app?ch=... を経由させるか、AppStoreButton を使うこと。
 const APP_ID = "6790673876";
-const APP_STORE_URL =
-  "https://apps.apple.com/jp/app/green-collection-%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%E3%81%AE%E3%81%8A%E4%B8%96%E8%A9%B1-%E6%88%90%E9%95%B7%E8%A8%98%E9%8C%B2/id6790673876";
+
+// ⚠️ アプリ名入りの長いURL（.../green-collection-%E8%A6%B3.../id6790673876）を
+// 使ってはいけない。IDだけの短い形にすること。
+//
+// iOSのUAに対して、Appleはどのhttps URLでも `301 Location: itms-appss://...` を返す。
+// このスキームURLはリクエストしたパスをそのまま引き継ぐため、
+//   長いURL → itms-appss://.../green-collection-%E8%A6%B3.../id6790673876  (179文字)
+//   短いURL → itms-appss://apps.apple.com/jp/app/id6790673876              (52文字)
+// となり、Instagramのアプリ内ブラウザは前者を開けずタップしても何も起きない。
+// 後者は問題なくApp Storeが開く（同じ形のURLで動いている実例を確認済み。2026-08-12）。
+//
+// pt / ct はどのみちこのリダイレクトで落ちるので、スキームURLの長さには影響しない。
+const APP_STORE_URL = `https://apps.apple.com/jp/app/id${APP_ID}`;
 const PROVIDER_ID = "129155915";
 
 // URLコンストラクタを使うと、日本語部分のパーセントエンコードが再エンコードされて
 // しまうため、文字列連結で組み立てる。
 export function appStoreUrl(campaign: string): string {
   return `${APP_STORE_URL}?pt=${PROVIDER_ID}&ct=${sanitize(campaign)}&mt=8`;
-}
-
-// App Store アプリを直接開くスキーム。
-//
-// iOSのUAで https://apps.apple.com にアクセスすると、Appleは必ず
-// `301 Location: itms-appss://...` を返す。Safariはこれを解釈してApp Storeを開くが、
-// Instagram等のアプリ内ブラウザ（WKWebView）はhttp/https以外へのサーバーリダイレクトを
-// 処理できず、何も起きないまま止まる（2026-08-12にオーナー環境で再現）。
-//
-// リダイレクトを経由せず、最初からスキームでリンクすれば、
-// アプリ内ブラウザでもOSに受け渡される可能性がある。
-// アプリ内ブラウザだと判定できたときだけ、こちらを使う。
-export function appStoreSchemeUrl(campaign: string): string {
-  return `itms-apps://apps.apple.com/jp/app/id${APP_ID}?pt=${PROVIDER_ID}&ct=${sanitize(campaign)}`;
 }
 
 // ctは最大40文字。使える文字種に丸める。
