@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { appStoreUrl } from "@/lib/appStore";
+import Link from "next/link";
 
 // 記事のfrontmatterの appCta に一言を書いた記事だけに出す。
 // EC・アフィリエイト導線と競合しないよう、soil / review / 育成ライト系には設置しない。
@@ -22,14 +22,14 @@ export default function ArticleAppCta({ message }: { message: string }) {
             </p>
           </div>
         </div>
-        {/* target="_blank" を付けない。アプリ内ブラウザでUniversal Linkが
-            機能せず、App Storeアプリに渡らなくなるため。 */}
-        <a
-          href={appStoreUrl("media_article_cta")}
+        {/* App Storeへ直リンクしないこと。アプリ内ブラウザでは開けない。
+            /app を経由させ、そこで対策済みのボタンを押してもらう。 */}
+        <Link
+          href="/app?ch=media_article"
           className="shrink-0 rounded-full bg-emerald-700 px-5 py-2.5 text-xs font-semibold text-white hover:bg-emerald-800 transition-colors"
         >
           アプリを見る
-        </a>
+        </Link>
       </div>
     </div>
   );

@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { categories } from "@/lib/categories";
-import { appStoreUrl } from "@/lib/appStore";
 
 export default function Footer() {
   return (
@@ -41,15 +40,14 @@ export default function Footer() {
             >
               SHOP
             </a>
-            {/* App Storeへのリンクは target="_blank" を付けない。
-                アプリ内ブラウザ（Instagram等）は新規ウィンドウを開けず、
-                Universal Link でApp Storeアプリに渡らなくなるため。 */}
-            <a
-              href={appStoreUrl("media_footer")}
+            {/* App Storeへ直リンクしないこと。アプリ内ブラウザでは開けない。
+                /app を経由させ、そこで対策済みのボタンを押してもらう。 */}
+            <Link
+              href="/app?ch=media_footer"
               className="py-2 font-semibold text-teal-700 hover:text-teal-800 transition-colors"
             >
               APP
-            </a>
+            </Link>
           </nav>
         </div>
         <p className="mt-10 text-[11px] text-gray-300">

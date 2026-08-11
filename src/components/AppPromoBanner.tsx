@@ -1,8 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { appStoreUrl } from "@/lib/appStore";
 
 const DISMISS_KEY = "app-promo-banner-dismissed";
 
@@ -39,15 +39,16 @@ export default function AppPromoBanner() {
         <span className="sm:hidden">アプリで植物との毎日をもっと楽しく</span>
         <span className="hidden sm:inline">植物との毎日がちょっと楽しくなるアプリ、はじめました。</span>
       </p>
-      {/* target="_blank" を付けない。アプリ内ブラウザでUniversal Linkが
-          機能せず、App Storeアプリに渡らなくなるため。 */}
-      <a
-        href={appStoreUrl("media_top_banner")}
+      {/* App Storeへ直リンクしないこと。アプリ内ブラウザではAppleが返す
+          itms-appss:// のリダイレクトを処理できず、タップしても何も起きない。
+          /app を経由させ、そこで対策済みのボタンを押してもらう。 */}
+      <Link
+        href="/app?ch=media_banner"
         className="shrink-0 whitespace-nowrap rounded-full bg-white px-3 py-1 text-[11px] font-semibold text-emerald-800 hover:bg-emerald-50 transition-colors"
       >
         <span className="sm:hidden">無料で試す</span>
         <span className="hidden sm:inline">7日間の無料体験</span>
-      </a>
+      </Link>
       <button
         type="button"
         onClick={dismiss}

@@ -189,7 +189,7 @@ function InlineCta({ note }: { note: string }) {
 
 function SectionHeading({ children }: { children: React.ReactNode }) {
   return (
-    <h2 className="text-center text-[22px] font-bold leading-snug text-[#16352A] sm:text-[26px]">
+    <h2 className="text-center text-[22px] font-bold leading-snug text-balance [word-break:auto-phrase] text-[#16352A] sm:text-[26px]">
       {children}
     </h2>
   );
@@ -256,12 +256,12 @@ export default function AppLandingPage() {
         {/* 見出しだけで「何のアプリか」が伝わるようにする。
             Instagramからの流入は最初の1画面で離脱を判断するため、
             説明文を読ませる前提のキャッチにしない。 */}
-        <h1 className="mt-4 text-[27px] font-bold leading-[1.4] tracking-tight text-[#16352A] sm:text-[35px]">
+        <h1 className="mt-4 text-[27px] font-bold leading-[1.4] tracking-tight text-balance [word-break:auto-phrase] text-[#16352A] sm:text-[35px]">
           植物のお世話が、
           <br />
           コレクションになる。
         </h1>
-        <p className="mt-4 text-[15px] leading-[1.85] sm:text-base">
+        <p className="mt-4 text-[15px] leading-[1.85] text-pretty [word-break:auto-phrase] sm:text-base">
           開くたびに、育てている植物が降ってくる。
           <br />
           観葉植物の専門店がつくった、育てる楽しさが続くアプリ。
@@ -313,10 +313,10 @@ export default function AppLandingPage() {
                 />
               </div>
               <div className="text-center sm:text-left">
-                <h2 className="text-[22px] font-bold leading-snug text-[#16352A] sm:text-[27px]">
+                <h2 className="text-[22px] font-bold leading-snug text-balance [word-break:auto-phrase] text-[#16352A] sm:text-[27px]">
                   {f.title}
                 </h2>
-                <p className="mt-4 text-[15px] leading-[1.9]">{f.body}</p>
+                <p className="mt-4 text-[15px] leading-[1.9] text-pretty [word-break:auto-phrase]">{f.body}</p>
               </div>
             </div>
           ))}
@@ -338,10 +338,10 @@ export default function AppLandingPage() {
                 key={f.title}
                 className="rounded-2xl border border-[#EAE5DA] bg-white p-5"
               >
-                <h3 className="text-[15px] font-bold text-[#16352A]">
+                <h3 className="text-[15px] font-bold text-balance [word-break:auto-phrase] text-[#16352A]">
                   {f.title}
                 </h3>
-                <p className="mt-2 text-sm leading-[1.85]">{f.body}</p>
+                <p className="mt-2 text-sm leading-[1.85] text-pretty [word-break:auto-phrase]">{f.body}</p>
               </div>
             ))}
           </div>
@@ -352,7 +352,7 @@ export default function AppLandingPage() {
       <section className="border-t border-[#E6E1D6] bg-[#F1EEE6] px-5 py-14 sm:py-20">
         <div className="mx-auto max-w-3xl">
           <SectionHeading>まずは無料で、3株から。</SectionHeading>
-          <p className="mx-auto mt-4 max-w-xl text-center text-sm leading-[1.9]">
+          <p className="mx-auto mt-4 max-w-xl text-center text-sm leading-[1.9] text-pretty [word-break:auto-phrase]">
             主な機能は無料のまま使えます。もっとたくさん育てたくなったら、Proプランへ。
           </p>
 
@@ -407,8 +407,8 @@ export default function AppLandingPage() {
                 key={f.q}
                 className="rounded-2xl border border-[#EAE5DA] bg-white p-5"
               >
-                <dt className="text-[15px] font-bold text-[#16352A]">{f.q}</dt>
-                <dd className="mt-2 text-sm leading-[1.85]">{f.a}</dd>
+                <dt className="text-[15px] font-bold text-balance [word-break:auto-phrase] text-[#16352A]">{f.q}</dt>
+                <dd className="mt-2 text-sm leading-[1.85] text-pretty [word-break:auto-phrase]">{f.a}</dd>
               </div>
             ))}
           </dl>
@@ -418,10 +418,10 @@ export default function AppLandingPage() {
       {/* 最終CTA */}
       <section className="border-t border-[#E6E1D6] bg-white px-5 py-16">
         <div className="mx-auto flex max-w-2xl flex-col items-center text-center">
-          <h2 className="text-[22px] font-bold leading-snug text-[#16352A] sm:text-[26px]">
+          <h2 className="text-[22px] font-bold leading-snug text-balance [word-break:auto-phrase] text-[#16352A] sm:text-[26px]">
             最初の1株を、登録してみよう。
           </h2>
-          <p className="mt-4 text-sm leading-[1.9]">
+          <p className="mt-4 text-sm leading-[1.9] text-pretty [word-break:auto-phrase]">
             3株までずっと無料。水やり管理はオフにして、
             <br className="hidden sm:block" />
             ただ育てる楽しさだけ味わうのもOK。
@@ -432,10 +432,11 @@ export default function AppLandingPage() {
           </div>
 
           {/* Instagram等のアプリ内ブラウザで万一開かなかった人向けの逃げ道。
-              ヒーローに置くと不安要素として目立ってしまうので、ここまで下げている。 */}
+              ヒーローに置くと不安要素として目立ってしまうので、ここまで下げている。
+              メニューの名称はInstagramの表記に合わせること（「Safariで開く」ではない）。 */}
           <p className="mt-8 max-w-sm text-[11px] leading-relaxed text-[#8C8A80]">
-            App Store が開かない場合は、画面右上の「…」から「Safariで開く」を選んで
-            もう一度お試しください。
+            App Store が開かない場合は、画面右上の「…」から「外部ブラウザで開く」を
+            選んで、もう一度お試しください。
           </p>
         </div>
       </section>

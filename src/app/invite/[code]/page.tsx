@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { appStoreUrl } from "@/lib/appStore";
+import AppStoreButton from "@/components/AppStoreButton";
 
 // Green Collection の「ともだち招待」リンクの着地ページ。
 //
@@ -49,12 +49,11 @@ export default async function InvitePage({
         </p>
       </div>
 
-      <a
-        href={appStoreUrl("invite")}
-        className="mt-8 w-full rounded-full bg-teal-700 px-6 py-4 text-base font-bold text-white transition hover:bg-teal-800"
-      >
-        App Store でアプリを入手
-      </a>
+      {/* 招待コードを見せたままにしたいので /app へは飛ばさず、
+          アプリ内ブラウザ対策の入ったボタンをそのまま置く。 */}
+      <div className="mt-8 flex w-full justify-center">
+        <AppStoreButton channel="invite" label="App Store でアプリを入手" />
+      </div>
 
       <p className="mt-6 text-xs leading-relaxed text-gray-500">
         アプリをインストールしたあと、もう一度このリンクを開くか、
