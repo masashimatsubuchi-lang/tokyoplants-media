@@ -26,6 +26,14 @@ let OUT_WIDTH: CGFloat = 440          // LPでの表示は最大240pt。2倍弱�
 let BITRATE = 1_100_000               // 縦440pxのUI動画ならこれで十分きれい
 let POSTER_QUALITY = 0.6
 
+// 画面収録中を示す赤い丸を隠す矩形（入力の原寸、左上原点）。
+// ダイナミックアイランドは純黒なので、内側を黒で塗れば継ぎ目なく消える。
+// 座標は収録した端末・iOSのバージョンで変わる。差し替えたら
+// 「赤い画素の範囲」と「矩形の外周がすべて純黒か」を測り直すこと。
+// 現在の値は iPhone 16 Pro / 1260x2736 の収録で確認済み。
+let MASK_RECT = CGRect(x: 386, y: 84, width: 58, height: 59)
+let MASK_ENABLED = true
+
 let args = CommandLine.arguments
 guard args.count >= 3 else {
     print("usage: swift make-hero-video.swift <input.MOV> <outDir> [posterSeconds]")
@@ -48,6 +56,18 @@ guard track.preferredTransform.isIdentity else {
 // H.264 は偶数サイズを要求するので丸める
 let outW = Int((OUT_WIDTH / 2).rounded()) * 2
 let outH = Int((OUT_WIDTH * track.naturalSize.height / track.naturalSize.width / 2).rounded()) * 2
+
+/// 画面収録中を示す赤い丸を、ダイナミックアイランドと同じ黒で塗りつぶす。
+/// CIImage は左下が原点なので、MASK_RECT（左上原点）を上下反転して合わせる。
+func maskRecordingDot(_ image: CIImage, height: CGFloat) -> CIImage {
+    guard MASK_ENABLED else { return image }
+    let rect = CGRect(x: MASK_RECT.minX,
+                      y: height - MASK_RECT.maxY,
+                      width: MASK_RECT.width,
+                      height: MASK_RECT.height)
+    let black = CIImage(color: CIColor.black).cropped(to: rect)
+    return black.composited(over: image)
+}
 
 let outURL = outDir.appendingPathComponent("hero-falling.mp4")
 try? FileManager.default.removeItem(at: outURL)
@@ -101,8 +121,10 @@ writerInput.requestMediaDataWhenReady(on: queue) {
         let time = CMSampleBufferGetPresentationTimeStamp(sample)
         // 縮小はCoreImageで行う（writerのoutputSettingsだけでは拡縮されないため）
         let scale = CGFloat(outW) / CGFloat(CVPixelBufferGetWidth(pixels))
-        let image = CIImage(cvPixelBuffer: pixels)
-            .transformed(by: CGAffineTransform(scaleX: scale, y: scale))
+        // 赤い丸を消すのは縮小より前。縮小後に塗ると、周囲に混ざった赤が残る。
+        let masked = maskRecordingDot(CIImage(cvPixelBuffer: pixels),
+                                      height: CGFloat(CVPixelBufferGetHeight(pixels)))
+        let image = masked.transformed(by: CGAffineTransform(scaleX: scale, y: scale))
         var out: CVPixelBuffer?
         CVPixelBufferPoolCreatePixelBuffer(nil, adaptor.pixelBufferPool!, &out)
         if let out {
@@ -118,18 +140,22 @@ guard writer.status == .completed else {
     print("変換に失敗: \(writer.error?.localizedDescription ?? "不明")"); exit(1)
 }
 
-// ポスター画像
+// ポスター画像。こちらも赤い丸を消してから書き出す（動画と別経路なので忘れやすい）。
+// 原寸で取り出してマスクしてから縮小する。maximumSize で先に縮めてしまうと、
+// MASK_RECT の座標が合わなくなる。
 let gen = AVAssetImageGenerator(asset: asset)
 gen.appliesPreferredTrackTransform = true
-gen.maximumSize = CGSize(width: CGFloat(outW), height: CGFloat(outH))
 gen.requestedTimeToleranceBefore = .zero
 gen.requestedTimeToleranceAfter = CMTime(seconds: 0.3, preferredTimescale: 600)
 let cg = try gen.copyCGImage(
     at: CMTime(seconds: posterSeconds, preferredTimescale: 600), actualTime: nil)
+let posterScale = CGFloat(outW) / CGFloat(cg.width)
+let poster = maskRecordingDot(CIImage(cgImage: cg), height: CGFloat(cg.height))
+    .transformed(by: CGAffineTransform(scaleX: posterScale, y: posterScale))
 let posterURL = outDir.appendingPathComponent("hero-falling-poster.jpg")
 try? FileManager.default.removeItem(at: posterURL)
 try ciContext.writeJPEGRepresentation(
-    of: CIImage(cgImage: cg), to: posterURL,
+    of: poster, to: posterURL,
     colorSpace: CGColorSpace(name: CGColorSpace.sRGB)!,
     options: [kCGImageDestinationLossyCompressionQuality as CIImageRepresentationOption:
                 POSTER_QUALITY])
