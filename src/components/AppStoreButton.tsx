@@ -44,14 +44,20 @@ function ButtonLink({
   channel,
   variant,
   label,
+  size,
 }: {
   channel: string;
   variant: "primary" | "secondary";
   label: string;
+  size: "default" | "sm";
 }) {
   // LPは明るい生成りの背景なので、主ボタンはブランドグリーンの塗り。
   const base =
-    "inline-flex w-full max-w-sm items-center justify-center rounded-full px-8 py-4 text-base font-bold transition-colors";
+    "inline-flex w-full items-center justify-center rounded-full font-bold transition-colors";
+  const sizes =
+    size === "sm"
+      ? "px-6 py-3 text-[15px]"
+      : "max-w-sm px-8 py-4 text-base";
   const styles =
     variant === "primary"
       ? "bg-[#015440] text-white shadow-sm hover:bg-[#026A51]"
@@ -64,40 +70,45 @@ function ButtonLink({
         // 遷移はブラウザに任せる。ここでは計測イベントを投げるだけ。
         window.gtag?.("event", "app_store_click", { channel });
       }}
-      className={`${base} ${styles}`}
+      className={`${base} ${sizes} ${styles}`}
     >
       {label}
     </a>
   );
 }
 
-function AppStoreButtonInner({
-  variant,
-  label,
-}: {
+function AppStoreButtonInner(props: {
   variant: "primary" | "secondary";
   label: string;
+  size: "default" | "sm";
 }) {
   const channel = sanitizeChannel(useSearchParams().get("ch"));
-  return <ButtonLink channel={channel} variant={variant} label={label} />;
+  return <ButtonLink channel={channel} {...props} />;
 }
 
 export default function AppStoreButton({
   variant = "primary",
-  label = "App Store で無料ダウンロード",
+  label = "無料でダウンロード",
+  size = "default",
 }: {
   variant?: "primary" | "secondary";
   label?: string;
+  size?: "default" | "sm";
 }) {
   // useSearchParams はページ全体を動的レンダリングに落とさないよう Suspense で包む。
   // fallback は ct が既定値になるだけで見た目は同一なので、ズレは起きない。
   return (
     <Suspense
       fallback={
-        <ButtonLink channel={DEFAULT_CHANNEL} variant={variant} label={label} />
+        <ButtonLink
+          channel={DEFAULT_CHANNEL}
+          variant={variant}
+          label={label}
+          size={size}
+        />
       }
     >
-      <AppStoreButtonInner variant={variant} label={label} />
+      <AppStoreButtonInner variant={variant} label={label} size={size} />
     </Suspense>
   );
 }

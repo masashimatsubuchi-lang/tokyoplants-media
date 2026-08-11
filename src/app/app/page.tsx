@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import AppStoreButton from "@/components/AppStoreButton";
+import StickyAppCta from "@/components/StickyAppCta";
 
 // Green Collection（iOSアプリ）の紹介LP。
 //
@@ -23,67 +24,77 @@ import AppStoreButton from "@/components/AppStoreButton";
 //   罫線  #E6E1D6
 //   強調  #015440  ブランドグリーン。CTAの塗りに使う
 
+const PAGE_TITLE = "Green Collection｜観葉植物のお世話と成長を記録するアプリ";
+const PAGE_DESCRIPTION =
+  "撮るだけで品種がわかるAI図鑑、水やりリマインド、成長のBefore/After記録。観葉植物の専門店 tokyoplants がつくった、育てる楽しさが続くiPhoneアプリです。3株までずっと無料。";
+
+// 記事と同じ動的OG生成ルートを使う（1200x630）。
+// スクショは縦長なので、SNSのカードに載せると上下が切れてしまう。
+const OG_IMAGE = `/og?title=${encodeURIComponent(PAGE_TITLE)}`;
+
 export const metadata: Metadata = {
-  title: "Green Collection｜観葉植物のお世話と成長を記録するアプリ",
-  description:
-    "撮るだけで品種がわかるAI図鑑、水やりリマインド、成長のBefore/After記録。8体のなかまたちと一緒に、植物との暮らしを楽しく続けられるiPhoneアプリです。無料ではじめられます。",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
   alternates: { canonical: "/app" },
   openGraph: {
     type: "website",
     url: "/app",
-    title: "Green Collection｜観葉植物のお世話と成長を記録するアプリ",
-    description:
-      "撮るだけで品種がわかるAI図鑑、水やりリマインド、成長のBefore/After記録。8体のなかまたちと一緒に、植物との暮らしを楽しく続けられるiPhoneアプリです。",
-    images: [
-      {
-        // 記事と同じ動的OG生成ルートを使う（1200x630）。
-        // スクショは縦長なので、SNSのカードに載せると上下が切れてしまう。
-        url: "/og?title=Green%20Collection%EF%BD%9C%E8%A6%B3%E8%91%89%E6%A4%8D%E7%89%A9%E3%81%AE%E3%81%8A%E4%B8%96%E8%A9%B1%E3%81%A8%E6%88%90%E9%95%B7%E3%82%92%E8%A8%98%E9%8C%B2%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA",
-        width: 1200,
-        height: 630,
-      },
-    ],
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
+    images: [{ url: OG_IMAGE, width: 1200, height: 630 }],
+  },
+  // ⚠️ twitter を省略すると layout.tsx のメディアサイト用の値（Unsplash画像つき）を
+  // そのまま継承してしまう。XにこのURLを貼ったときに別サイトのカードが出るため、
+  // og と同じ内容で必ず上書きすること。
+  twitter: {
+    card: "summary_large_image",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
+    images: [OG_IMAGE],
   },
 };
 
 // 高さは画像ごとに異なる（App Store掲載画像から見出しの焼き込み部分を切り落としたため）。
 // 実寸と違う値を入れるとアスペクト比が崩れるので、差し替え時は必ず測り直すこと。
 // 生成は scripts/prepare-app-screenshots.py。実行すると入れるべき height が表示される。
+// 並び順は「実用フックで“使える”と思わせてから、情緒価値で“好き”にさせる」。
+// AI図鑑・リマインドという課題解決を先に置き、差別化要素の「降ってくる」を
+// そのあとに見せる。初見の人はまず自分の困りごとが解けるかを見ているため。
 const features = [
-  {
-    image: "/images/app/screen-home.png",
-    height: 1997,
-    alt: "Green Collection のホーム画面。育てている植物のアイコンが降ってくる",
-    title: "開くたびに、ぽとぽと降ってくる。",
-    body: "自宅で育てている植物のアイコンが、アプリを開くたびに可愛く舞い降りてきます。集めるほど、棚がにぎやかになっていく。",
-  },
   {
     image: "/images/app/screen-ai-add.png",
     height: 1948,
     alt: "植物を追加する画面。AIが品種名と水やり頻度を下書きしている",
     title: "撮るだけで、図鑑クオリティ。",
-    body: "写真を撮るだけで、AIが品種名・育て方・水やり頻度まで下書きしてくれます。1,000種以上を登録済みで、随時追加中。",
+    body: "写真1枚で、AIが品種名から水やり頻度まで下書き。1,000種以上に対応しています。",
   },
   {
     image: "/images/app/screen-calendar.png",
     height: 1956,
     alt: "カレンダー画面。水やりや肥料の予定が表示されている",
     title: "水やり、もう忘れない。",
-    body: "水やり・肥料などお世話のタイミングを、キャラクターがやさしく通知。季節に合わせて次回の予定を自動調整することもできます。",
+    body: "ベストなタイミングをキャラクターがやさしくお知らせ。季節に合わせた自動調整も。",
+  },
+  {
+    image: "/images/app/screen-home.png",
+    height: 1997,
+    alt: "Green Collection のホーム画面。育てている植物のアイコンが降ってくる",
+    title: "開くたびに、ぽとぽと降ってくる。",
+    body: "育てている植物たちが、アプリを開くたびに舞い降りる。集めるほど、棚がにぎやかに。",
   },
   {
     image: "/images/app/screen-characters.png",
     height: 1942,
     alt: "なかまたち図鑑の画面。ブルーム、ラム、クロなどのキャラクター一覧",
-    title: "8体のなかまたちが、そばにいるよ。",
-    body: "「ひとりで育てない。」応援担当のブルーム、植物博士のラム、土のことならクロ。個性豊かな仲間が日々のお世話に寄り添います。",
+    title: "ひとりで育てない。8体のなかまたち。",
+    body: "応援担当のブルーム、植物博士のラム、土のことならクロ。毎日のお世話に寄り添います。",
   },
   {
     image: "/images/app/screen-photo-log.png",
     height: 1903,
     alt: "植物の詳細画面。切り抜き前後の写真を比較している",
-    title: "育てた日々を、写真で残そう。",
-    body: "お迎えから1ヶ月・3ヶ月・半年・1年…節目ごとに撮影を促してくれます。並べて見ると、ちゃんと育っているのがわかる。",
+    title: "「ちゃんと育ってる」が、目に見える。",
+    body: "1ヶ月・3ヶ月・1年…節目ごとに撮影をリマインド。並べれば、成長がひと目でわかる。",
   },
 ];
 
@@ -141,10 +152,31 @@ const faqs = [
     a: "いつでも解約できます。iPhoneの「設定」＞ Apple ID ＞「サブスクリプション」から手続きしてください。",
   },
   {
+    q: "AIの判定はどのくらい正確ですか？",
+    a: "AIが出すのはあくまで「下書き」です。品種名も水やり頻度も、その場で自由に書き換えられます。似た品種は取り違えることもあるので、違っていたら直してください。登録済みの1,000種以上から検索して選ぶこともできます。",
+  },
+  {
+    q: "通知はうるさくないですか？",
+    a: "通知の強さを選べます。予定日の朝だけ知らせる設定にも、まだ水やりできていない株に毎日そっと知らせ続ける設定にもできます。通知を切ることも、水やり管理そのものをオフにすることもできます。",
+  },
+  {
     q: "Android版はありますか？",
     a: "現在はiPhone向けのみです。iPadでもダウンロードできますが、iPhone向けの画面がそのまま表示されます。",
   },
 ];
+
+// ページ途中に挟むCTA。読み進めている間に「入れよう」と思った瞬間、
+// その場で押せるようにするためのもの。
+function InlineCta({ note }: { note: string }) {
+  return (
+    <div className="mx-auto flex max-w-sm flex-col items-center gap-2.5 px-5 py-12">
+      <AppStoreButton />
+      <p className="text-center text-[13px] font-medium text-[#16352A]">
+        {note}
+      </p>
+    </div>
+  );
+}
 
 function SectionHeading({ children }: { children: React.ReactNode }) {
   return (
@@ -182,7 +214,8 @@ export default function AppLandingPage() {
   };
 
   return (
-    <div className="bg-[#FAF8F4] text-[#5C5A52]">
+    // pb-28 はモバイルの固定CTAバーのぶん。これがないと最下部のリンクが隠れる。
+    <div className="bg-[#FAF8F4] pb-28 text-[#5C5A52] sm:pb-0">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -205,27 +238,39 @@ export default function AppLandingPage() {
         <p className="mt-5 text-[13px] font-semibold tracking-[0.18em] text-[#6E6C63]">
           GREEN COLLECTION
         </p>
-        <h1 className="mt-3 text-[30px] font-bold leading-[1.35] tracking-tight text-[#16352A] sm:text-[38px]">
-          あつめるほど、
+        {/* 見出しだけで「何のアプリか」が伝わるようにする。
+            Instagramからの流入は最初の1画面で離脱を判断するため、
+            説明文を読ませる前提のキャッチにしない。 */}
+        <h1 className="mt-3 text-[28px] font-bold leading-[1.4] tracking-tight text-[#16352A] sm:text-[36px]">
+          植物のお世話が、
           <br />
-          たのしくなる。
+          コレクションになる。
         </h1>
         <p className="mt-5 text-[15px] leading-[1.9] sm:text-base">
-          観葉植物のお世話と成長を記録する iPhone アプリです。
+          撮るだけで品種がわかるAI図鑑、忘れない水やり通知、成長のBefore/After。
           <br className="hidden sm:block" />
-          撮るだけでわかるAI図鑑、水やりリマインド、成長のBefore/After。
+          観葉植物の専門店がつくった、育てる楽しさが続くアプリ。
         </p>
 
-        <div className="mt-9 flex w-full flex-col items-center gap-3">
+        <div className="mt-9 flex w-full flex-col items-center gap-2.5">
           <AppStoreButton />
-          <p className="text-xs text-[#6E6C63]">iPhone対応・無料ではじめられます</p>
+          <p className="text-[13px] font-medium text-[#16352A]">
+            3株までずっと無料
+          </p>
+          <p className="text-xs text-[#6E6C63]">iPhone対応</p>
         </div>
+      </section>
 
-        {/* Instagram等のアプリ内ブラウザで万一開かなかった人向けの逃げ道 */}
-        <p className="mt-6 max-w-sm text-[11px] leading-relaxed text-[#8C8A80]">
-          App Store が開かない場合は、画面右上の「…」から「Safariで開く」を選んで
-          もう一度お試しください。
-        </p>
+      {/* 信頼バー。開発元はこのアプリ最大の差別化なので、フッター直前ではなく
+          ファーストビューの直後に置く。
+          ⚠️ App Storeの評価やDL数を足すのはここ。実数がはっきりするまでは
+          憶測の数字を書かないこと。 */}
+      <section className="border-y border-[#E6E1D6] bg-[#F1EEE6] px-5 py-5">
+        <ul className="mx-auto flex max-w-3xl flex-col items-center gap-2 text-center text-[13px] text-[#16352A] sm:flex-row sm:justify-center sm:gap-8">
+          <li className="font-semibold">観葉植物専門店 tokyoplants が開発</li>
+          <li>1,000種以上の植物データを収録</li>
+          <li>日本語・English・繁體中文・한국어</li>
+        </ul>
       </section>
 
       {/* 機能紹介。余白と画像の交互配置でリズムをつくる。
@@ -261,6 +306,11 @@ export default function AppLandingPage() {
         </div>
       </section>
 
+      {/* 中間CTA①: 主要機能を見終えた直後 */}
+      <section className="border-t border-[#E6E1D6]">
+        <InlineCta note="3株までずっと無料" />
+      </section>
+
       {/* 画像なしの機能一覧 */}
       <section className="border-t border-[#E6E1D6] px-5 py-14 sm:py-20">
         <div className="mx-auto max-w-5xl">
@@ -278,9 +328,6 @@ export default function AppLandingPage() {
               </div>
             ))}
           </div>
-          <p className="mt-9 text-center text-xs text-[#6E6C63]">
-            日本語・English・繁體中文・한국어に対応しています。
-          </p>
         </div>
       </section>
 
@@ -328,6 +375,8 @@ export default function AppLandingPage() {
             <br className="hidden sm:block" />
             サブスクリプションは自動更新され、いつでも解約できます。
           </p>
+          {/* 中間CTA②: 料金を見て納得した直後 */}
+          <InlineCta note="まずは無料の3株から。あとから変更できます" />
         </div>
       </section>
 
@@ -349,23 +398,28 @@ export default function AppLandingPage() {
         </div>
       </section>
 
-      {/* 2つめのCTA */}
+      {/* 最終CTA */}
       <section className="border-t border-[#E6E1D6] bg-white px-5 py-16">
         <div className="mx-auto flex max-w-2xl flex-col items-center text-center">
           <h2 className="text-[22px] font-bold leading-snug text-[#16352A] sm:text-[26px]">
-            今日から、記録をはじめよう。
+            最初の1株を、登録してみよう。
           </h2>
           <p className="mt-4 text-sm leading-[1.9]">
-            水やり管理はオフにもできます。頻度を気にせず、
+            3株までずっと無料。水やり管理はオフにして、
             <br className="hidden sm:block" />
-            ただ育てる楽しさだけを味わう使い方も。
+            ただ育てる楽しさだけ味わうのもOK。
           </p>
-          <div className="mt-8 flex w-full flex-col items-center gap-3">
+          <div className="mt-8 flex w-full flex-col items-center gap-2.5">
             <AppStoreButton />
-            <p className="text-xs text-[#6E6C63]">
-              iPhone対応・無料ではじめられます
-            </p>
+            <p className="text-xs text-[#6E6C63]">iPhone対応</p>
           </div>
+
+          {/* Instagram等のアプリ内ブラウザで万一開かなかった人向けの逃げ道。
+              ヒーローに置くと不安要素として目立ってしまうので、ここまで下げている。 */}
+          <p className="mt-8 max-w-sm text-[11px] leading-relaxed text-[#8C8A80]">
+            App Store が開かない場合は、画面右上の「…」から「Safariで開く」を選んで
+            もう一度お試しください。
+          </p>
         </div>
       </section>
 
@@ -403,6 +457,8 @@ export default function AppLandingPage() {
           </div>
         </div>
       </section>
+
+      <StickyAppCta />
     </div>
   );
 }
