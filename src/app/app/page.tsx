@@ -54,47 +54,68 @@ export const metadata: Metadata = {
   },
 };
 
-// 高さは画像ごとに異なる（App Store掲載画像から見出しの焼き込み部分を切り落としたため）。
-// 実寸と違う値を入れるとアスペクト比が崩れるので、差し替え時は必ず測り直すこと。
-// 生成は scripts/prepare-app-screenshots.py。実行すると入れるべき height が表示される。
+// 端末画像は scripts/frame-app-screenshots.py で生成する（生スクショに枠を合成）。
+// 背景が透明なので、どのセクションに置いても浮かない。
+// 同じ機種のスクショなら出力サイズは揃うが、差し替え時は実行時に表示される
+// height を必ず反映すること（実寸と違うとアスペクト比が崩れる）。
+const SHOT_WIDTH = 900;
+const SHOT_HEIGHT = 1894;
+
 // 並び順は「実用フックで“使える”と思わせてから、情緒価値で“好き”にさせる」。
-// AI図鑑・リマインドという課題解決を先に置き、差別化要素の「降ってくる」を
-// そのあとに見せる。初見の人はまず自分の困りごとが解けるかを見ているため。
+// 初見の人はまず自分の困りごとが解けるかを見ているため、水やり・登録・育て方を先に置く。
 const features = [
   {
-    image: "/images/app/screen-ai-add.png",
-    height: 1948,
-    alt: "植物を追加する画面。AIが品種名と水やり頻度を下書きしている",
-    title: "撮るだけで、図鑑クオリティ。",
-    body: "写真1枚で、AIが品種名から水やり頻度まで下書き。1,000種以上に対応しています。",
+    image: "/images/app/screen-watering.png",
+    alt: "「次のお水」画面。今日3株、明日2株、それ以降23株にまとまっている",
+    title: "今日あげる株が、ひと目でわかる。",
+    body: "今日・明日・それ以降に自動でまとまります。株をダブルタップすれば、その場で水やりを記録。",
   },
   {
-    image: "/images/app/screen-calendar.png",
-    height: 1956,
-    alt: "カレンダー画面。水やりや肥料の予定が表示されている",
-    title: "水やり、もう忘れない。",
-    body: "ベストなタイミングをキャラクターがやさしくお知らせ。季節に合わせた自動調整も。",
+    image: "/images/app/screen-add.png",
+    alt: "植物を追加する画面。種類の検索、ニックネーム、水やりリマインダーの設定",
+    title: "撮るだけで、図鑑クオリティ。",
+    body: "写真を1枚追加すれば、AIが品種名から水やり頻度まで下書き。1,000種以上のデータから検索して選ぶこともできます。",
+  },
+  {
+    image: "/images/app/screen-detail.png",
+    alt: "植物の詳細画面。適温、適湿度、日当たり、耐寒温度などの育て方データ",
+    title: "適温も、湿度も、光の強さも。",
+    body: "「レースカーテン越しの窓辺」まで具体的に。品種ごとの育て方が最初から入っているので、調べ直す必要がありません。",
   },
   {
     image: "/images/app/screen-home.png",
-    height: 1997,
-    alt: "Green Collection のホーム画面。育てている植物のアイコンが降ってくる",
+    alt: "ホーム画面。育てている植物のアイコンが舞い降りてくる",
     title: "開くたびに、ぽとぽと降ってくる。",
     body: "育てている植物たちが、アプリを開くたびに舞い降りる。集めるほど、棚がにぎやかに。",
   },
   {
-    image: "/images/app/screen-characters.png",
-    height: 1942,
-    alt: "なかまたち図鑑の画面。ブルーム、ラム、クロなどのキャラクター一覧",
-    title: "ひとりで育てない。8体のなかまたち。",
-    body: "応援担当のブルーム、植物博士のラム、土のことならクロ。毎日のお世話に寄り添います。",
+    image: "/images/app/screen-collection.png",
+    alt: "「うちの植物」画面。41株が並び、属ごとのフィルタと検索ができる",
+    title: "増えても、迷わない。",
+    body: "属ごとの絞り込み、名前・品種での検索、お気に入り。何十株になっても、探している子がすぐ見つかります。",
   },
   {
-    image: "/images/app/screen-photo-log.png",
-    height: 1903,
-    alt: "植物の詳細画面。切り抜き前後の写真を比較している",
-    title: "「ちゃんと育ってる」が、目に見える。",
-    body: "1ヶ月・3ヶ月・1年…節目ごとに撮影をリマインド。並べれば、成長がひと目でわかる。",
+    image: "/images/app/screen-share.png",
+    alt: "シェア動画の画面。フィード4:5とストーリーズ9:16を選べる",
+    title: "棚ごと、そのまま投稿。",
+    body: "集めた棚を動画で書き出せます。フィード（4:5）とストーリーズ（9:16）から選べるので、加工なしでそのまま投稿できます。",
+  },
+];
+
+// 主要機能ほどの尺は要らないが、画面を見せたほうが伝わるもの。
+// 2列に並べて、上の機能紹介よりコンパクトに見せる。
+const secondaryFeatures = [
+  {
+    image: "/images/app/screen-calendar.png",
+    alt: "カレンダー画面。水やりや剪定、メモが日付ごとに並んでいる",
+    title: "お世話は、ぜんぶ残る。",
+    body: "水やり・肥料・剪定・メモが日付ごとに。植え替えの予定も自由に書き込めます。",
+  },
+  {
+    image: "/images/app/screen-summary.png",
+    alt: "今月のまとめ画面。水やり回数とお世話合計、水やり回数ランキング",
+    title: "がんばった分が、数字になる。",
+    body: "今月の水やり回数とお世話の合計、いちばん世話した株のランキングが毎月まとまります。",
   },
 ];
 
@@ -103,8 +124,12 @@ const features = [
 // 「他にもこれだけできる」を一覧で見せたほうが読み進めやすい。
 const extraFeatures = [
   {
-    title: "棚をそのままシェア",
-    body: "集めた棚を画像・動画で書き出せます。フィード（4:5）とストーリーズ（9:16）から選べるので、そのまま投稿できます。",
+    title: "ひとりで育てない",
+    body: "応援担当のブルーム、植物博士のラム、土のことならクロ。8体のなかまたちが、毎日のお世話に寄り添います。",
+  },
+  {
+    title: "成長のBefore/After",
+    body: "お迎えから1ヶ月・3ヶ月・1年…節目ごとに撮影をリマインド。並べれば、ちゃんと育っているのがひと目でわかります。",
   },
   {
     title: "ホーム画面ウィジェット",
@@ -273,9 +298,7 @@ export default function AppLandingPage() {
         </ul>
       </section>
 
-      {/* 機能紹介。余白と画像の交互配置でリズムをつくる。
-          ⚠️ このセクションの背景はページ背景(#FAF8F4)のままにすること。
-          スクショの端末まわりを同じ色で塗ってあるので、白にすると端末の背景が四角く浮く。 */}
+      {/* 機能紹介。余白と画像の交互配置でリズムをつくる */}
       <section className="border-t border-[#E6E1D6]">
         <div className="mx-auto max-w-5xl px-5">
           {features.map((f, i) => (
@@ -285,14 +308,14 @@ export default function AppLandingPage() {
                 i > 0 ? "border-t border-[#EFEBE1]" : ""
               } ${i % 2 === 1 ? "sm:flex-row-reverse" : "sm:flex-row"}`}
             >
-              <div className="w-full max-w-[250px] shrink-0 sm:max-w-[290px]">
+              <div className="w-full max-w-[240px] shrink-0 sm:max-w-[280px]">
                 <Image
                   src={f.image}
                   alt={f.alt}
-                  width={1242}
-                  height={f.height}
-                  sizes="(max-width: 640px) 250px, 290px"
-                  className="h-auto w-full"
+                  width={SHOT_WIDTH}
+                  height={SHOT_HEIGHT}
+                  sizes="(max-width: 640px) 240px, 280px"
+                  className="h-auto w-full drop-shadow-[0_14px_30px_rgba(22,53,42,0.16)]"
                 />
               </div>
               <div className="text-center sm:text-left">
@@ -301,6 +324,30 @@ export default function AppLandingPage() {
                 </h2>
                 <p className="mt-4 text-[15px] leading-[1.9]">{f.body}</p>
               </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* 補足機能。主要機能より小さく2列で見せる */}
+      <section className="border-t border-[#E6E1D6] px-5 py-14 sm:py-20">
+        <div className="mx-auto grid max-w-4xl gap-12 sm:grid-cols-2 sm:gap-10">
+          {secondaryFeatures.map((f) => (
+            <div key={f.image} className="flex flex-col items-center text-center">
+              <div className="w-full max-w-[190px]">
+                <Image
+                  src={f.image}
+                  alt={f.alt}
+                  width={SHOT_WIDTH}
+                  height={SHOT_HEIGHT}
+                  sizes="190px"
+                  className="h-auto w-full drop-shadow-[0_12px_24px_rgba(22,53,42,0.14)]"
+                />
+              </div>
+              <h2 className="mt-7 text-[19px] font-bold leading-snug text-[#16352A]">
+                {f.title}
+              </h2>
+              <p className="mt-3 max-w-sm text-[15px] leading-[1.9]">{f.body}</p>
             </div>
           ))}
         </div>
