@@ -49,12 +49,13 @@ function ButtonLink({
   variant: "primary" | "secondary";
   label: string;
 }) {
+  // LPは明るい生成りの背景なので、主ボタンはブランドグリーンの塗り。
   const base =
     "inline-flex w-full max-w-sm items-center justify-center rounded-full px-8 py-4 text-base font-bold transition-colors";
   const styles =
     variant === "primary"
-      ? "bg-[#E0E8C0] text-[#015440] hover:bg-[#EAF0D2]"
-      : "border-2 border-[#E0E8C0] text-[#E0E8C0] hover:bg-[#E0E8C0]/10";
+      ? "bg-[#015440] text-white shadow-sm hover:bg-[#026A51]"
+      : "border-2 border-[#015440] text-[#015440] hover:bg-[#015440]/5";
 
   return (
     <a
