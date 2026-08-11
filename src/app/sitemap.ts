@@ -3,7 +3,7 @@ import { getAllPosts } from "@/lib/posts";
 
 const siteUrl = "https://media.tokyoplants.com";
 
-const staticPaths = ["/", "/guide", "/soil", "/research", "/review", "/species"] as const;
+const staticPaths = ["/", "/guide", "/soil", "/research", "/review", "/species", "/app"] as const;
 
 function parseDate(value: string): Date {
   const d = new Date(value);

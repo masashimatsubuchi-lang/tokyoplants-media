@@ -1,12 +1,15 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 import { appStoreUrl } from "@/lib/appStore";
 
 const DISMISS_KEY = "app-promo-banner-dismissed";
 
 export default function AppPromoBanner() {
   const [visible, setVisible] = useState(false);
+  // アプリのLP（/app）では同じApp Store導線が主役なので、このバナーは邪魔にしかならない。
+  const onAppLanding = usePathname() === "/app";
 
   useEffect(() => {
     try {
@@ -18,7 +21,7 @@ export default function AppPromoBanner() {
     }
   }, []);
 
-  if (!visible) return null;
+  if (!visible || onAppLanding) return null;
 
   const dismiss = () => {
     setVisible(false);
@@ -36,10 +39,10 @@ export default function AppPromoBanner() {
         <span className="sm:hidden">アプリで植物との毎日をもっと楽しく</span>
         <span className="hidden sm:inline">植物との毎日がちょっと楽しくなるアプリ、はじめました。</span>
       </p>
+      {/* target="_blank" を付けない。アプリ内ブラウザでUniversal Linkが
+          機能せず、App Storeアプリに渡らなくなるため。 */}
       <a
         href={appStoreUrl("media_top_banner")}
-        target="_blank"
-        rel="noopener noreferrer"
         className="shrink-0 whitespace-nowrap rounded-full bg-white px-3 py-1 text-[11px] font-semibold text-emerald-800 hover:bg-emerald-50 transition-colors"
       >
         <span className="sm:hidden">無料で試す</span>

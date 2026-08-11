@@ -41,10 +41,11 @@ export default function Footer() {
             >
               SHOP
             </a>
+            {/* App Storeへのリンクは target="_blank" を付けない。
+                アプリ内ブラウザ（Instagram等）は新規ウィンドウを開けず、
+                Universal Link でApp Storeアプリに渡らなくなるため。 */}
             <a
               href={appStoreUrl("media_footer")}
-              target="_blank"
-              rel="noopener noreferrer"
               className="py-2 font-semibold text-teal-700 hover:text-teal-800 transition-colors"
             >
               APP

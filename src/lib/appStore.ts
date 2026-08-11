@@ -1,4 +1,4 @@
-// App Store（my Plants Collection / Green Collection）へのリンク生成。
+// App Store（Green Collection）へのリンク生成。
 // pt（Provider ID）とct（Campaign Token）を付けることで、App Store Connectの
 // アナリティクス > 獲得 > キャンペーン で流入元ごとのダウンロード数を計測できる。
 // ctは最大40文字。
