@@ -370,45 +370,15 @@ export default function AppLandingPage() {
         </div>
       </section>
 
-      {/* EC導線: アプリ訴求を邪魔しないよう最下部に控えめに置く */}
-      <section className="border-t border-white/10 bg-white/5 px-5 py-14">
+      {/* 最下部のリンク行。以前はここに商品バナー（土・タオル）を置いていたが、
+          アプリのダウンロードだけに集中させるため外した。 */}
+      <section className="border-t border-white/10 bg-white/5 px-5 py-10">
         <div className="mx-auto max-w-3xl text-center">
-          <p className="text-xs font-semibold tracking-widest text-white/50">
-            FROM TOKYOPLANTS
-          </p>
-          <h2 className="mt-3 text-xl font-bold" style={{ color: BRAND_CREAM }}>
-            土もタオルも、tokyoplants で。
-          </h2>
-          <p className="mt-3 text-sm leading-relaxed text-white/70">
+          <p className="text-sm leading-relaxed text-white/70">
             アプリをつくっているのは、観葉植物の専門店 tokyoplants です。
           </p>
 
-          <div className="mt-8 grid gap-3 sm:grid-cols-2">
-            <a
-              href="https://www.tokyoplants.com/items/99620939"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-2xl bg-white/10 px-5 py-4 text-left transition-colors hover:bg-white/15"
-            >
-              <p className="text-sm font-bold text-white">
-                観葉植物の土『 I&apos;m original SOIL 』
-              </p>
-              <p className="mt-1 text-xs text-white/60">¥1,200〜</p>
-            </a>
-            <a
-              href="https://www.tokyoplants.com/items/135803882"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-2xl bg-white/10 px-5 py-4 text-left transition-colors hover:bg-white/15"
-            >
-              <p className="text-sm font-bold text-white">
-                Daily Botanical Towel｜リーフタオル
-              </p>
-              <p className="mt-1 text-xs text-white/60">¥2,000</p>
-            </a>
-          </div>
-
-          <div className="mt-8 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-[13px]">
+          <div className="mt-6 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-[13px]">
             <a
               href="https://www.tokyoplants.com"
               target="_blank"
