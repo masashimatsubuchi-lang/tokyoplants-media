@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 
 const DISMISS_KEY = "coupon-banner-dismissed";
 const COUPON_CODE = "A4TH7NVB";
@@ -10,6 +11,9 @@ const SHOP_URL =
 export default function CouponBanner() {
   const [visible, setVisible] = useState(false);
   const [copied, setCopied] = useState(false);
+  // アプリのLP（/app）では出さない。ECのクーポンとApp Storeへの導線が
+  // 最初の1画面でぶつかるうえ、その分だけCTAが画面外に押し出されるため。
+  const onAppLanding = usePathname() === "/app";
 
   useEffect(() => {
     try {
@@ -21,7 +25,7 @@ export default function CouponBanner() {
     }
   }, []);
 
-  if (!visible) return null;
+  if (!visible || onAppLanding) return null;
 
   const dismiss = () => {
     setVisible(false);

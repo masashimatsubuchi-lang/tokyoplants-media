@@ -11,7 +11,8 @@ import AppStoreButton from "./AppStoreButton";
 //
 // ヒーローのボタンが見えている間は出さない。同じボタンが二重に見えると
 // かえって押しづらいため、ヒーローを通り過ぎてから現れる。
-const SHOW_AFTER_PX = 520;
+// ヒーローに動画が入って縦に伸びたぶん、以前より早めに出す。
+const SHOW_AFTER_PX = 380;
 
 export default function StickyAppCta() {
   const [shown, setShown] = useState(false);

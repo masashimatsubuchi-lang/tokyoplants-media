@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import AppStoreButton from "@/components/AppStoreButton";
+import HeroVideo from "@/components/HeroVideo";
 import StickyAppCta from "@/components/StickyAppCta";
 
 // Green Collection（iOSアプリ）の紹介LP。
@@ -14,9 +15,7 @@ import StickyAppCta from "@/components/StickyAppCta";
 // ファーストビューでボタンに到達できる構成にしている。
 //
 // 配色（ナチュラル・低コントラストすぎない範囲で明るく）
-//   背景  #FAF8F4  生成り。⚠️ scripts/prepare-app-screenshots.py の PAGE_BG と
-//                  同じ値にすること。スクショの端末まわりをこの色で塗っているため、
-//                  ここだけ変えると端末の背景が浮く
+//   背景  #FAF8F4  生成り
 //   帯    #F1EEE6  セクションの区切り
 //   見出し #16352A  深い緑。本文より一段濃くして視線を集める
 //   本文  #5C5A52  温かみのあるグレー（背景に対して約6.2:1）
@@ -67,7 +66,7 @@ const features = [
   {
     image: "/images/app/screen-watering.png",
     alt: "「次のお水」画面。今日3株、明日2株、それ以降23株にまとまっている",
-    title: "今日あげる株が、ひと目でわかる。",
+    title: "今日水やりをする植物が、ひと目でわかる。",
     body: "今日・明日・それ以降に自動でまとまります。株をダブルタップすれば、その場で水やりを記録。",
   },
   {
@@ -83,16 +82,28 @@ const features = [
     body: "「レースカーテン越しの窓辺」まで具体的に。品種ごとの育て方が最初から入っているので、調べ直す必要がありません。",
   },
   {
-    image: "/images/app/screen-home.png",
-    alt: "ホーム画面。育てている植物のアイコンが舞い降りてくる",
-    title: "開くたびに、ぽとぽと降ってくる。",
-    body: "育てている植物たちが、アプリを開くたびに舞い降りる。集めるほど、棚がにぎやかに。",
+    image: "/images/app/screen-calendar.png",
+    alt: "カレンダー画面。日付ごとに水やりや剪定、メモの記録が並んでいる",
+    title: "お世話は、ぜんぶカレンダーに残る。",
+    body: "水やり・肥料・剪定・メモが日付ごとに積み上がります。植え替えの予定も自由に書き込めるので、季節の作業を先に決めておけます。",
   },
   {
     image: "/images/app/screen-collection.png",
     alt: "「うちの植物」画面。41株が並び、属ごとのフィルタと検索ができる",
     title: "増えても、迷わない。",
     body: "属ごとの絞り込み、名前・品種での検索、お気に入り。何十株になっても、探している子がすぐ見つかります。",
+  },
+  {
+    image: "/images/app/screen-characters.png",
+    alt: "なかまたち図鑑の画面。ブルーム、ラム、クロなどのキャラクターと担当が並んでいる",
+    title: "ひとりで育てない。8体のなかまたち。",
+    body: "応援担当のブルーム、植物博士のラム、土と植え替えならクロ、静かに見守るシェイディ。それぞれの担当から、毎日ひとことずつ届きます。",
+  },
+  {
+    image: "/images/app/screen-summary.png",
+    alt: "今月のまとめ画面。水やり回数とお世話合計、水やり回数ランキング",
+    title: "がんばった分が、数字になる。",
+    body: "今月の水やり回数とお世話の合計、いちばん世話した株のランキングが毎月まとまります。振り返ると、続けてきたことがちゃんと見えます。",
   },
   {
     image: "/images/app/screen-share.png",
@@ -102,31 +113,10 @@ const features = [
   },
 ];
 
-// 主要機能ほどの尺は要らないが、画面を見せたほうが伝わるもの。
-// 2列に並べて、上の機能紹介よりコンパクトに見せる。
-const secondaryFeatures = [
-  {
-    image: "/images/app/screen-calendar.png",
-    alt: "カレンダー画面。水やりや剪定、メモが日付ごとに並んでいる",
-    title: "お世話は、ぜんぶ残る。",
-    body: "水やり・肥料・剪定・メモが日付ごとに。植え替えの予定も自由に書き込めます。",
-  },
-  {
-    image: "/images/app/screen-summary.png",
-    alt: "今月のまとめ画面。水やり回数とお世話合計、水やり回数ランキング",
-    title: "がんばった分が、数字になる。",
-    body: "今月の水やり回数とお世話の合計、いちばん世話した株のランキングが毎月まとまります。",
-  },
-];
-
 // スクリーンショットを用意していない機能は、上の features（画像つき）ではなく
 // ここにテキストだけで並べる。画像ありきの節を無理に増やすより、
 // 「他にもこれだけできる」を一覧で見せたほうが読み進めやすい。
 const extraFeatures = [
-  {
-    title: "ひとりで育てない",
-    body: "応援担当のブルーム、植物博士のラム、土のことならクロ。8体のなかまたちが、毎日のお世話に寄り添います。",
-  },
   {
     title: "成長のBefore/After",
     body: "お迎えから1ヶ月・3ヶ月・1年…節目ごとに撮影をリマインド。並べれば、ちゃんと育っているのがひと目でわかります。",
@@ -146,10 +136,6 @@ const extraFeatures = [
   {
     title: "思い出図鑑",
     body: "お別れした植物も、写真とメモを添えて残しておけます。枯らしてしまっても、育てた日々は消えません。",
-  },
-  {
-    title: "自分の予定も書ける",
-    body: "カレンダーには水やり以外の予定も追加できます。植え替えの計画も、開花の記録も自由に。",
   },
 ];
 
@@ -250,34 +236,44 @@ export default function AppLandingPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
 
-      {/* ヒーロー: ファーストビューでボタンまで到達させる */}
-      <section className="mx-auto flex max-w-2xl flex-col items-center px-5 pt-12 pb-14 text-center sm:pt-16">
-        <Image
-          src="/images/app/app-icon.png"
-          alt="Green Collection アプリアイコン"
-          width={88}
-          height={88}
-          priority
-          className="rounded-[20px] shadow-[0_6px_20px_rgba(22,53,42,0.13)]"
-        />
-        <p className="mt-5 text-[13px] font-semibold tracking-[0.18em] text-[#6E6C63]">
-          GREEN COLLECTION
-        </p>
+      {/* ヒーロー。アプリの顔である「アイコンが降ってくる」動画を主役に据える。
+          動画が縦に長いぶん、アイコンと名前は横並びの小さなロックアップにまとめ、
+          CTAが画面の下に押し出されすぎないようにしている。 */}
+      <section className="mx-auto flex max-w-2xl flex-col items-center px-5 pt-7 pb-14 text-center sm:pt-12">
+        <div className="flex items-center gap-2.5">
+          <Image
+            src="/images/app/app-icon.png"
+            alt=""
+            aria-hidden
+            width={40}
+            height={40}
+            priority
+            className="rounded-[10px]"
+          />
+          <p className="text-[13px] font-semibold tracking-[0.16em] text-[#6E6C63]">
+            GREEN COLLECTION
+          </p>
+        </div>
+
         {/* 見出しだけで「何のアプリか」が伝わるようにする。
             Instagramからの流入は最初の1画面で離脱を判断するため、
             説明文を読ませる前提のキャッチにしない。 */}
-        <h1 className="mt-3 text-[28px] font-bold leading-[1.4] tracking-tight text-[#16352A] sm:text-[36px]">
+        <h1 className="mt-4 text-[27px] font-bold leading-[1.4] tracking-tight text-[#16352A] sm:text-[35px]">
           植物のお世話が、
           <br />
           コレクションになる。
         </h1>
-        <p className="mt-5 text-[15px] leading-[1.9] sm:text-base">
-          撮るだけで品種がわかるAI図鑑、忘れない水やり通知、成長のBefore/After。
-          <br className="hidden sm:block" />
+        <p className="mt-4 text-[15px] leading-[1.85] sm:text-base">
+          開くたびに、育てている植物が降ってくる。
+          <br />
           観葉植物の専門店がつくった、育てる楽しさが続くアプリ。
         </p>
 
-        <div className="mt-9 flex w-full flex-col items-center gap-2.5">
+        <div className="mt-5 flex justify-center">
+          <HeroVideo />
+        </div>
+
+        <div className="mt-7 flex w-full flex-col items-center gap-2.5">
           <AppStoreButton />
           <p className="text-[13px] font-medium text-[#16352A]">
             3株までずっと無料
@@ -324,30 +320,6 @@ export default function AppLandingPage() {
                 </h2>
                 <p className="mt-4 text-[15px] leading-[1.9]">{f.body}</p>
               </div>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      {/* 補足機能。主要機能より小さく2列で見せる */}
-      <section className="border-t border-[#E6E1D6] px-5 py-14 sm:py-20">
-        <div className="mx-auto grid max-w-4xl gap-12 sm:grid-cols-2 sm:gap-10">
-          {secondaryFeatures.map((f) => (
-            <div key={f.image} className="flex flex-col items-center text-center">
-              <div className="w-full max-w-[190px]">
-                <Image
-                  src={f.image}
-                  alt={f.alt}
-                  width={SHOT_WIDTH}
-                  height={SHOT_HEIGHT}
-                  sizes="190px"
-                  className="h-auto w-full drop-shadow-[0_12px_24px_rgba(22,53,42,0.14)]"
-                />
-              </div>
-              <h2 className="mt-7 text-[19px] font-bold leading-snug text-[#16352A]">
-                {f.title}
-              </h2>
-              <p className="mt-3 max-w-sm text-[15px] leading-[1.9]">{f.body}</p>
             </div>
           ))}
         </div>
