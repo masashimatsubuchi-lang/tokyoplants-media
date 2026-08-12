@@ -23,37 +23,30 @@ const APP_ID = "6790673876";
 const APP_STORE_URL = `https://apps.apple.com/jp/app/id${APP_ID}`;
 const PROVIDER_ID = "129155915";
 
-// Adjust のリンクトークン。
+// Branch のリンクドメイン。
 //
-// Adjust管理画面で発行した英数字（例: onebank は "hve3jrj"）をここに入れると、
-// サイト内のApp Store導線がすべてAdjust経由に切り替わる。
+// Branch管理画面で払い出される `xxxxx.app.link` 形式のドメインをここに入れると、
+// サイト内のApp Store導線がすべてBranch経由に切り替わる。
 // 空のあいだは、これまでどおりApp Storeへ直接リンクする。
 //
-// ⚠️ インストール数の計測まで行うには、アプリ側にAdjust SDKの組み込みが必要。
-//    トークンを入れただけではクリック数までしか取れない。
-//
-// ⚠️ アプリ内ブラウザからApp Storeを開けない問題は、これでは解決しない可能性が高い。
+// ⚠️ アプリ内ブラウザからApp Storeを開けない問題は、これでは解決しない。
 //    2026-08-12の実機検証で、https・スキーム直リンク・自ドメイン経由の転送の
-//    いずれもInstagram内では無反応だった。Adjust自身もInstagram経由では
-//    「ブラウザで開いて続ける」という手順画面を出している。
-//    導入の主目的は計測と割り切ること。
-const ADJUST_LINK_TOKEN = "";
+//    いずれもInstagram内では無反応だった。この用途の専業サービスも
+//    「Metaのアプリ内ブラウザを確実に回避できるサービスは存在しない」としている。
+//    Branchを入れても外部ブラウザへの誘導（InAppBrowserNotice）は必要。
+const BRANCH_LINK_DOMAIN = "";
 
-export const usesAdjust = ADJUST_LINK_TOKEN !== "";
+export const usesBranch = BRANCH_LINK_DOMAIN !== "";
 
 export function appStoreUrl(campaign: string): string {
   const channel = sanitize(campaign);
 
-  if (usesAdjust) {
-    // PC閲覧時の逃げ先。Adjustはスマホ以外ではここへ転送する。
-    const fallback = encodeURIComponent(APP_STORE_URL);
-    // campaign / adgroup はAdjustのリンクパラメータ名。
-    // 管理画面のリンク設定によって使う名前が変わることがあるので、
-    // 実際に計測が入るかダッシュボードで必ず確認すること。
+  if (usesBranch) {
+    // ~channel はBranchの分析用パラメータ。ダッシュボードで流入元の内訳になる。
+    // $desktop_url はPCで開かれたときの逃げ先（Branchはストアへ送れないため）。
     return (
-      `https://app.adjust.com/${ADJUST_LINK_TOKEN}` +
-      `?campaign=${channel}` +
-      `&redirect_macos=${fallback}&redirect_windows=${fallback}`
+      `https://${BRANCH_LINK_DOMAIN}/?~channel=${channel}` +
+      `&$desktop_url=${encodeURIComponent(APP_STORE_URL)}`
     );
   }
 

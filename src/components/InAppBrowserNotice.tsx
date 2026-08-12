@@ -1,7 +1,6 @@
 "use client";
 
 import { useSyncExternalStore } from "react";
-import { usesAdjust } from "@/lib/appStore";
 import { isInAppBrowser } from "@/lib/inAppBrowser";
 
 // Instagram等のアプリ内ブラウザで開かれたときに、外部ブラウザへの逃げ道を案内する。
@@ -23,9 +22,9 @@ export default function InAppBrowserNotice() {
     () => false,
   );
 
-  // Adjust経由に切り替えると、Adjust側が同じ手順画面を出す。
-  // 二重に同じ案内を見せないよう、こちらは引っ込める。
-  if (!inApp || usesAdjust) return null;
+  // Branch等のリンクサービスを挟んでもこの案内は必要。
+  // アプリ内ブラウザからストアを開く手段は存在しないため（上記コメント参照）。
+  if (!inApp) return null;
 
   return (
     <div className="mb-5 w-full max-w-sm rounded-2xl border border-[#E8C9A0] bg-[#FDF4E9] p-5 text-left">
