@@ -63,12 +63,35 @@ const SHOT_HEIGHT = 1894;
 
 // 並び順は「実用フックで“使える”と思わせてから、情緒価値で“好き”にさせる」。
 // 初見の人はまず自分の困りごとが解けるかを見ているため、水やり・登録・育て方を先に置く。
-const features = [
+//
+// width/height/containerClass は、端末フレームの縦長画像（900x1894）以外を
+// 混ぜるときだけ指定する。ウィジェットのように横長のカードを同じ縦長の枠に
+// 収めると小さく潰れるため、素材の実寸に合わせて上書きできるようにしてある。
+type Feature = {
+  image: string;
+  alt: string;
+  title: string;
+  body: string;
+  width?: number;
+  height?: number;
+  containerClass?: string;
+};
+
+const features: Feature[] = [
   {
     image: "/images/app/screen-watering.png",
     alt: "「次のお水」画面。今日3株、明日2株、それ以降23株にまとまっている",
     title: "今日水やりをする植物が、ひと目でわかる。",
     body: "今日・明日・それ以降に自動でまとまります。株をダブルタップすれば、その場で水やりを記録。",
+  },
+  {
+    image: "/images/app/screen-widget.png",
+    width: 1096,
+    height: 514,
+    containerClass: "max-w-[300px] sm:max-w-[380px]",
+    alt: "ホーム画面のウィジェット。今日水やりが必要な8株がサムネイルで並び、「ぜんぶ」ボタンがある",
+    title: "ロック解除せずに、今日のお世話がわかる。",
+    body: "ホーム画面に置くだけで、水やりが必要な株がひと目で並びます。「ぜんぶ」をタップすれば、アプリを開かずまとめて記録完了に。",
   },
   {
     image: "/images/app/screen-add.png",
@@ -119,10 +142,6 @@ const extraFeatures = [
   {
     title: "成長のBefore/After",
     body: "お迎えから1ヶ月・3ヶ月・1年…節目ごとに撮影をリマインド。並べれば、ちゃんと育っているのがひと目でわかります。",
-  },
-  {
-    title: "ホーム画面ウィジェット",
-    body: "水やりが必要な株をロック解除せずに確認。ウィジェットからワンタップでそのまま記録できます。",
   },
   {
     title: "ともだちと見せ合う",
@@ -305,13 +324,13 @@ export default function AppLandingPage() {
                 i > 0 ? "border-t border-[#EFEBE1]" : ""
               } ${i % 2 === 1 ? "sm:flex-row-reverse" : "sm:flex-row"}`}
             >
-              <div className="w-full max-w-[240px] shrink-0 sm:max-w-[280px]">
+              <div className={`w-full shrink-0 ${f.containerClass ?? "max-w-[240px] sm:max-w-[280px]"}`}>
                 <Image
                   src={f.image}
                   alt={f.alt}
-                  width={SHOT_WIDTH}
-                  height={SHOT_HEIGHT}
-                  sizes="(max-width: 640px) 240px, 280px"
+                  width={f.width ?? SHOT_WIDTH}
+                  height={f.height ?? SHOT_HEIGHT}
+                  sizes="(max-width: 640px) 280px, 380px"
                   className="h-auto w-full drop-shadow-[0_14px_30px_rgba(22,53,42,0.16)]"
                 />
               </div>
