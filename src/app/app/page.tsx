@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import AppStoreButton from "@/components/AppStoreButton";
+import FeatureVideo from "@/components/FeatureVideo";
 import HeroVideo from "@/components/HeroVideo";
 import InAppBrowserNotice from "@/components/InAppBrowserNotice";
 import StickyAppCta from "@/components/StickyAppCta";
@@ -75,6 +76,10 @@ type Feature = {
   width?: number;
   height?: number;
   containerClass?: string;
+  // 指定すると画像の代わりに端末フレームつきの自動再生動画を表示する
+  // （FeatureVideo.tsx）。生成は scripts/make-feature-video.swift。
+  video?: string;
+  poster?: string;
 };
 
 const features: Feature[] = [
@@ -95,7 +100,9 @@ const features: Feature[] = [
   },
   {
     image: "/images/app/screen-add.png",
-    alt: "植物を追加する画面。種類の検索、ニックネーム、水やりリマインダーの設定",
+    video: "/videos/feature-ai-draft.mp4",
+    poster: "/videos/feature-ai-draft-poster.jpg",
+    alt: "植物を追加する画面。写真から背景を切り抜き、原産地・適温・適湿度・水やり頻度などをAIが自動入力する",
     title: "撮るだけで、図鑑クオリティ。",
     body: "写真を1枚追加すれば、AIが品種名から水やり頻度まで下書き。1,000種以上のデータから検索して選ぶこともできます。",
   },
@@ -104,6 +111,14 @@ const features: Feature[] = [
     alt: "植物の詳細画面。適温、適湿度、日当たり、耐寒温度などの育て方データ",
     title: "適温も、湿度も、光の強さも。",
     body: "「レースカーテン越しの窓辺」まで具体的に。品種ごとの育て方が最初から入っているので、調べ直す必要がありません。",
+  },
+  {
+    image: "/images/app/screen-detail.png",
+    video: "/videos/feature-light-meter.mp4",
+    poster: "/videos/feature-light-meter-poster.jpg",
+    alt: "光をはかる画面。葉っぱにカメラを向けて3秒待つと、実際の明るさをlux換算で表示し、この植物に合っているか判定する",
+    title: "その場所の明るさ、写すだけで測れる。",
+    body: "葉っぱを3秒写すだけで、実際の明るさをlux換算。この植物に合っているかをその場で判定し、同じ場所が合う株も教えてくれます。",
   },
   {
     image: "/images/app/screen-calendar.png",
@@ -118,16 +133,16 @@ const features: Feature[] = [
     body: "属ごとの絞り込み、名前・品種での検索、お気に入り。何十株になっても、探している子がすぐ見つかります。",
   },
   {
-    image: "/images/app/screen-characters.png",
-    alt: "なかまたち図鑑の画面。ブルーム、ラム、クロなどのキャラクターと担当が並んでいる",
-    title: "ひとりで育てない。8体のなかまたち。",
-    body: "応援担当のブルーム、植物博士のラム、土と植え替えならクロ、静かに見守るシェイディ。それぞれの担当から、毎日ひとことずつ届きます。",
-  },
-  {
     image: "/images/app/screen-summary.png",
     alt: "今月のまとめ画面。水やり回数とお世話合計、水やり回数ランキング",
     title: "がんばった分が、数字になる。",
     body: "今月の水やり回数とお世話の合計、いちばん世話した株のランキングが毎月まとまります。振り返ると、続けてきたことがちゃんと見えます。",
+  },
+  {
+    image: "/images/app/screen-characters.png",
+    alt: "なかまたち図鑑の画面。ブルーム、ラム、クロなどのキャラクターと担当が並んでいる",
+    title: "ひとりで育てない。8体のなかまたち。",
+    body: "応援担当のブルーム、植物博士のラム、土と植え替えならクロ、静かに見守るシェイディ。それぞれの担当から、毎日ひとことずつ届きます。",
   },
 ];
 
@@ -319,20 +334,26 @@ export default function AppLandingPage() {
         <div className="mx-auto max-w-5xl px-5">
           {features.map((f, i) => (
             <div
-              key={f.image}
+              // video指定時はimageがダミー値（アスペクト比合わせのポスター代わり）で
+              // 重複しうるため、videoを優先してキーにする。
+              key={f.video ?? f.image}
               className={`flex flex-col items-center gap-7 py-12 sm:gap-16 sm:py-20 ${
                 i > 0 ? "border-t border-[#EFEBE1]" : ""
               } ${i % 2 === 1 ? "sm:flex-row-reverse" : "sm:flex-row"}`}
             >
               <div className={`w-full shrink-0 ${f.containerClass ?? "max-w-[240px] sm:max-w-[280px]"}`}>
-                <Image
-                  src={f.image}
-                  alt={f.alt}
-                  width={f.width ?? SHOT_WIDTH}
-                  height={f.height ?? SHOT_HEIGHT}
-                  sizes="(max-width: 640px) 280px, 380px"
-                  className="h-auto w-full drop-shadow-[0_14px_30px_rgba(22,53,42,0.16)]"
-                />
+                {f.video ? (
+                  <FeatureVideo src={f.video} poster={f.poster!} alt={f.alt} />
+                ) : (
+                  <Image
+                    src={f.image}
+                    alt={f.alt}
+                    width={f.width ?? SHOT_WIDTH}
+                    height={f.height ?? SHOT_HEIGHT}
+                    sizes="(max-width: 640px) 280px, 380px"
+                    className="h-auto w-full drop-shadow-[0_14px_30px_rgba(22,53,42,0.16)]"
+                  />
+                )}
               </div>
               <div className="text-center sm:text-left">
                 <h2 className="text-[22px] font-bold leading-snug text-balance [word-break:auto-phrase] text-[#16352A] sm:text-[27px]">

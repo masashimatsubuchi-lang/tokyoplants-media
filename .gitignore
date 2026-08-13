@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# python (scripts/配下の画像生成スクリプト用)
+__pycache__/
+*.pyc
