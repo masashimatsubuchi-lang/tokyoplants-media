@@ -84,6 +84,22 @@ type Feature = {
 
 const features: Feature[] = [
   {
+    image: "/images/app/screen-add.png",
+    video: "/videos/feature-ai-draft.mp4",
+    poster: "/videos/feature-ai-draft-poster.jpg",
+    alt: "植物を追加する画面。写真から背景を切り抜き、原産地・適温・適湿度・水やり頻度などをAIが自動入力する",
+    title: "撮るだけで、図鑑クオリティ。",
+    body: "写真を1枚追加すれば、AIが品種名から水やり頻度まで下書き。1,000種以上のデータから検索して選ぶこともできます。",
+  },
+  {
+    image: "/images/app/screen-detail.png",
+    video: "/videos/feature-light-meter.mp4",
+    poster: "/videos/feature-light-meter-poster.jpg",
+    alt: "光をはかる画面。葉っぱにカメラを向けて3秒待つと、実際の明るさをlux換算で表示し、この植物に合っているか判定する",
+    title: "その場所の明るさ、写すだけで測れる。",
+    body: "葉っぱを3秒写すだけで、実際の明るさをlux換算。この植物に合っているかをその場で判定し、同じ場所が合う株も教えてくれます。",
+  },
+  {
     image: "/images/app/screen-watering.png",
     alt: "「次のお水」画面。今日3株、明日2株、それ以降23株にまとまっている",
     title: "今日水やりをする植物が、ひと目でわかる。",
@@ -99,26 +115,10 @@ const features: Feature[] = [
     body: "ホーム画面に置くだけで、水やりが必要な株がひと目で並びます。「ぜんぶ」をタップすれば、アプリを開かずまとめて記録完了に。",
   },
   {
-    image: "/images/app/screen-add.png",
-    video: "/videos/feature-ai-draft.mp4",
-    poster: "/videos/feature-ai-draft-poster.jpg",
-    alt: "植物を追加する画面。写真から背景を切り抜き、原産地・適温・適湿度・水やり頻度などをAIが自動入力する",
-    title: "撮るだけで、図鑑クオリティ。",
-    body: "写真を1枚追加すれば、AIが品種名から水やり頻度まで下書き。1,000種以上のデータから検索して選ぶこともできます。",
-  },
-  {
     image: "/images/app/screen-detail.png",
     alt: "植物の詳細画面。適温、適湿度、日当たり、耐寒温度などの育て方データ",
     title: "適温も、湿度も、光の強さも。",
     body: "「レースカーテン越しの窓辺」まで具体的に。品種ごとの育て方が最初から入っているので、調べ直す必要がありません。",
-  },
-  {
-    image: "/images/app/screen-detail.png",
-    video: "/videos/feature-light-meter.mp4",
-    poster: "/videos/feature-light-meter-poster.jpg",
-    alt: "光をはかる画面。葉っぱにカメラを向けて3秒待つと、実際の明るさをlux換算で表示し、この植物に合っているか判定する",
-    title: "その場所の明るさ、写すだけで測れる。",
-    body: "葉っぱを3秒写すだけで、実際の明るさをlux換算。この植物に合っているかをその場で判定し、同じ場所が合う株も教えてくれます。",
   },
   {
     image: "/images/app/screen-calendar.png",
