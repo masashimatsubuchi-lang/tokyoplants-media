@@ -4,10 +4,17 @@
 生のiPhoneスクショに、背景・ラベル・見出し・説明文を載せて仕上げる。
 文言は /app のLPと揃えてあるので、ストアとLPで訴求がぶれない。
 
-デザインの方針
-  - 背景はLPと同じ生成り(#FAF8F4)。アプリのUI自体が生成りなので端末が馴染む
-  - 画面ごとに淡いアクセント色を上部に敷き、8枚並んだときに単調にならないようにする
-  - 「ラベル → 見出し → 説明」の3段で、視線の入り口を作る
+デザインの方針（2026-08-13改訂：「AI生成っぽい」という指摘を受けて全面刷新）
+  - 背景は全枚で統一（LPと同じ生成り #FAF8F4）。以前は画面ごとに違う原色の
+    グラデーションを敷いていたが、9枚並べたときに「テンプレートへ自動で色を
+    割り振っただけ」に見えてしまっていた。統一した背景に変えることで、
+    9枚が1つのキャンペーンとして見えるようにする
+  - ぼかした楕円の色だまり（AI生成画像やテンプレート素材で最も多用される
+    「安易な奥行きの出し方」）をやめ、代わりに葉っぱのシルエットを背景モチーフに
+    使う。植物図鑑アプリの世界観に直接結びつく、記号として意味のある要素にする
+  - ラベルは「標本ラベル」風。丸数字インデックス＋字間を空けたラベル＋細い罫線
+  - 全枚共通で下部に小さなブランドマーク（葉アイコン＋GREEN COLLECTION）を置き、
+    バラバラの掲載物ではなく統一されたシリーズだと分かるようにする
   - 端末には実際に影を落とす。平置きに見えると安っぽくなる
   - 並び順は「これは何のアプリか」→「実用」→「情緒」。1枚目が最も見られるため
 
@@ -17,13 +24,13 @@
     python3 -m venv .venv && .venv/bin/pip install Pillow
 
 Usage:
-    .venv/bin/python scripts/make-store-screenshots.py <出力先> [centered|editorial]
+    .venv/bin/python scripts/make-store-screenshots.py <出力先>
 """
 
 import os
 import sys
 
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageFont
 
 from importlib.machinery import SourceFileLoader
 
@@ -40,24 +47,10 @@ BODY = (0x5C, 0x5A, 0x52)      # 説明文の温かみのあるグレー
 #    漢字が字形を持たず、無言で抜け落ちる。下の check_glyphs() で必ず検査している。
 FONT_PATH = os.path.expanduser("~/Library/Fonts/NotoSansJP-VariableFont_wght.ttf")
 
-TOP_PAD = 132
-LABEL_SIZE = 34
-HEADLINE_SIZE = 86
-HEADLINE_LEADING = 1.32
-SUB_SIZE = 40
-SUB_LEADING = 1.55
-GAP_LABEL = 40
-GAP_SUB = 34
-GAP_DEVICE = 78
-DEVICE_WIDTH = 980
-
-WASH_HEIGHT = 1150             # 上部に敷くアクセントの高さ
-WASH_ALPHA = 46                # 濃くしすぎない。地の生成りを残す
-
 DOWNLOADS = os.path.expanduser("~/Downloads")
 
 # 見出し・説明文はLPと同じ言い回しに揃えている。
-# accent は画面ごとの識別色。ラベルの地色と上部のウォッシュに使う。
+# accent は画面ごとの識別色。ラベルの地色・葉モチーフの色に使う（背景は全枚共通）。
 SLIDES = [
     {
         "src": "IMG_3981.PNG", "name": "01-home", "index": "01",
@@ -74,7 +67,9 @@ SLIDES = [
                 "株をダブルタップすれば、その場で記録。"],
     },
     {
-        "src": "IMG_3987.PNG", "name": "03-add", "index": "03",
+        # 2026-08-13更新: 種類名がAIで自動入力された直後の場面に差し替え
+        # （撮影→背景切り抜き→種類名の自動下書きまで進んだ状態が伝わるため）
+        "src": "AI-Draft-Catalog.PNG", "name": "03-add", "index": "03",
         "label": "AI図鑑", "accent": (0x4A, 0x7C, 0x2F),
         "headline": ["写真を撮るだけで、", "AIが自動で下書き。"],
         "sub": ["品種名・水やり頻度・育て方まで、",
@@ -88,28 +83,36 @@ SLIDES = [
                 "品種ごとの育て方がすぐわかる。"],
     },
     {
-        "src": "IMG_3992.PNG", "name": "05-calendar", "index": "05",
+        # 2026-08-13新設: 光をはかる機能
+        "src": "Light-Meter-Result.PNG", "name": "05-light-meter", "index": "05",
+        "label": "光をはかる", "accent": (0xC9, 0x8A, 0x1E),
+        "headline": ["その場所の明るさ、", "写すだけで測れる。"],
+        "sub": ["葉っぱを3秒写すだけで、",
+                "lux換算・株ごとに判定します。"],
+    },
+    {
+        "src": "IMG_3992.PNG", "name": "06-calendar", "index": "06",
         "label": "記録", "accent": (0x9A, 0x5A, 0x2C),
         "headline": ["お世話は、ぜんぶ", "カレンダーに残る。"],
         "sub": ["水やり・肥料・剪定・メモが日付ごとに。",
                 "植え替えの予定も自由に書き込めます。"],
     },
     {
-        "src": "IMG_3988.PNG", "name": "06-collection", "index": "06",
+        "src": "IMG_3988.PNG", "name": "07-collection", "index": "07",
         "label": "コレクション", "accent": (0x2F, 0x6B, 0x52),
         "headline": ["増えても、迷わない。"],
         "sub": ["属ごとの絞り込み、名前・品種での検索、お気に入り。",
                 "何十株になっても、探している子がすぐ見つかる。"],
     },
     {
-        "src": "IMG_3991.PNG", "name": "07-characters", "index": "07",
+        "src": "IMG_3991.PNG", "name": "08-characters", "index": "08",
         "label": "なかまたち", "accent": (0xC2, 0x5A, 0x1E),
         "headline": ["ひとりで育てない。", "8体のなかまたち。"],
         "sub": ["応援担当のブルーム、植物博士のラム、土ならクロ。",
                 "それぞれの担当から、毎日ひとことずつ。"],
     },
     {
-        "src": "IMG_3982.PNG", "name": "08-summary", "index": "08",
+        "src": "IMG_3982.PNG", "name": "09-summary", "index": "09",
         "label": "ふりかえり", "accent": (0x2E, 0x7D, 0xA8),
         "headline": ["がんばった分が、", "数字になる。"],
         "sub": ["今月の水やり回数とお世話の合計、",
@@ -134,36 +137,6 @@ def check_glyphs(font, lines, where):
                if c.strip() and not font.getmask(c).getbbox()}
     if missing:
         sys.exit(f"{where}: フォントに字形がない文字があります → {''.join(sorted(missing))}")
-
-
-def paint_wash(canvas, accent):
-    """上部にアクセント色を薄く敷き、下に向けて地の色へ溶かす。"""
-    ramp = Image.new("L", (1, WASH_HEIGHT))
-    for y in range(WASH_HEIGHT):
-        # 上端が最も濃く、下端で完全に消える
-        ramp.putpixel((0, y), int(WASH_ALPHA * (1 - y / WASH_HEIGHT) ** 1.6))
-    mask = ramp.resize((CANVAS[0], WASH_HEIGHT))
-    layer = Image.new("RGB", (CANVAS[0], WASH_HEIGHT), accent)
-    canvas.paste(layer, (0, 0), mask)
-
-
-def draw_label(draw, text, font, top, accent, center_x=None):
-    """アクセント色の小さな見出しラベル（角丸のピル）。
-
-    ⚠️ ピルの高さを font.size から出さないこと。日本語は字面が em を超えるため、
-    下端が欠けたり上下がずれたりする。実際の字面（getbbox）から採寸し、
-    文字は anchor="mm" でピルの中心に置く。
-    """
-    pad_x, pad_y = 32, 18
-    left, top_b, right, bottom = font.getbbox(text)
-    box_w = (right - left) + pad_x * 2
-    box_h = (bottom - top_b) + pad_y * 2
-    x = (center_x if center_x is not None else CANVAS[0] // 2) - box_w // 2
-    draw.rounded_rectangle([x, top, x + box_w, top + box_h],
-                           radius=box_h // 2, fill=accent)
-    draw.text((x + box_w // 2, top + box_h // 2), text,
-              font=font, fill=BG, anchor="mm")
-    return top + box_h
 
 
 def draw_lines(draw, lines, font, top, color, leading, x, anchor="ma"):
@@ -202,31 +175,118 @@ def draw_tracked(draw, text, font, x, y, color, tracking):
     return x
 
 
-def build_editorial(slide, out_dir):
-    """雑誌の見開きのような、左揃え・余白多め・端末を傾けた構成。"""
-    accent = slide["accent"]
+def leaf_mask(w, h, r_ratio=0.58, d_ratio=0.85):
+    """葉っぱのシルエットのマスク（白黒）を作る。
 
-    canvas = Image.new("RGB", CANVAS, BG)
-    # 斜めの淡いグラデーション。平坦さを消して奥行きを出す
-    grad = Image.new("L", (64, 64))
-    gd = ImageDraw.Draw(grad)
-    for i in range(64):
-        gd.line([(0, i), (64, i - 64)], fill=int(58 * (1 - i / 64) ** 1.3))
-    canvas.paste(Image.new("RGB", CANVAS, accent), (0, 0),
-                 grad.resize(CANVAS, Image.BICUBIC))
+    2つの円を少しだけ離して重ね、その交差（ヴェシカ形）を葉として使う。
+    中心を結ぶ線と垂直な向きに尖った、左右に細長いレンズ形になるので、
+    使うときは回転させて自然な向き（斜め）に見せる。
+    supersample してから縮小し、輪郭を滑らかにする。
+    """
+    SS = 4
+    W, H = w * SS, h * SS
+    R = int(H * r_ratio)
+    d = int(H * d_ratio)
+    cx, cy = W // 2, H // 2
+    a = Image.new("L", (W, H), 0)
+    ImageDraw.Draw(a).ellipse([cx - R, cy - d // 2 - R, cx + R, cy - d // 2 + R], fill=255)
+    b = Image.new("L", (W, H), 0)
+    ImageDraw.Draw(b).ellipse([cx - R, cy + d // 2 - R, cx + R, cy + d // 2 + R], fill=255)
+    return ImageChops.darker(a, b).resize((w, h), Image.LANCZOS)
 
-    # 端末の背後に置く、ぼかした色だまり。奥行きの芯になる
-    blob = Image.new("RGBA", CANVAS, (0, 0, 0, 0))
-    ImageDraw.Draw(blob).ellipse([180, 1180, 1140, 2200], fill=accent + (58,))
-    canvas.paste(Image.alpha_composite(
-        canvas.convert("RGBA"), blob.filter(ImageFilter.GaussianBlur(150))
-    ).convert("RGB"), (0, 0))
 
-    draw = ImageDraw.Draw(canvas)
+def paint_leaf_motif(canvas, accent, size, center, angle, alpha):
+    """背景に、うっすら色づいた葉のシルエットを1枚置く。
+
+    以前はぼかした楕円の色だまりで奥行きを出していたが、それは
+    テンプレート素材によくある表現で「AI生成っぽい」印象の一因になっていた。
+    植物図鑑アプリの世界観に直接つながる葉モチーフに差し替える。
+    中央に葉脈の線を1本添えて、ただの色面ではなく「葉」だと分かるようにする。
+    """
+    w, h = size
+    mask = leaf_mask(w, h)
+    layer = Image.new("RGBA", (w, h), accent + (0,))
+    layer.putalpha(mask.point(lambda p: int(p * alpha / 255)))
+
+    # 葉脈（中心を横切る線と、そこから斜めに数本）。штрихは持たせすぎない。
+    vein = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    vd = ImageDraw.Draw(vein)
+    cx, cy = w // 2, h // 2
+    span = int(w * 0.34)
+    vd.line([(cx - span, cy), (cx + span, cy)], fill=accent + (int(alpha * 1.6), ), width=3)
+    for t in (-0.55, -0.2, 0.2, 0.55):
+        vx = cx + int(span * t)
+        vd.line([(vx, cy), (vx + int(span * 0.22), cy - int(span * 0.30))],
+                fill=accent + (int(alpha * 1.2),), width=2)
+        vd.line([(vx, cy), (vx + int(span * 0.22), cy + int(span * 0.30))],
+                fill=accent + (int(alpha * 1.2),), width=2)
+    vein.putalpha(ImageChops.multiply(vein.getchannel("A"), mask))
+    layer = Image.alpha_composite(layer, vein)
+
+    layer = layer.rotate(angle, expand=True, resample=Image.BICUBIC)
+    x = center[0] - layer.width // 2
+    y = center[1] - layer.height // 2
+    canvas.paste(layer, (x, y), layer)
+
+
+def draw_specimen_label(draw, slide, top, accent, index_font, label_font):
+    """植物標本のラベルのような佇まいの見出しラベル。
+
+    丸数字（円のアウトライン＋数字）＋細い罫線＋字間を空けたラベル、という
+    「図鑑・標本カード」のフォーマットに寄せている。塗りつぶしたピルより、
+    実在の印刷物に近い落ち着いた見た目になる。
+    """
     left = 104
+    d = 64
+    draw.ellipse([left, top, left + d, top + d], outline=accent, width=3)
+    draw.text((left + d / 2, top + d / 2), slide["index"],
+              font=index_font, fill=accent, anchor="mm")
+    draw.line([(left + d + 24, top + d / 2), (left + d + 74, top + d / 2)],
+              fill=accent, width=2)
+    draw_tracked(draw, slide["label"], label_font, left + d + 96,
+                top + d / 2 - label_font.size * 0.62, accent, 5)
+    return top + d
+
+
+def draw_brand_mark(canvas, draw):
+    """全枚共通のブランドマーク。9枚がバラバラの掲載物ではなく、
+    1つのシリーズだと分かるように、毎回同じ位置に同じ形で置く。
+
+    ⚠️ 下部には置かないこと。端末は「下端からはみ出すぶんは切れる」設計
+    （with_shadowのコメント参照）で、大きい端末だと縦の9割近くを占めるため、
+    下部に固定位置を確保しようとすると（一度試したが）端末が押し上げられて
+    見出しと衝突する。上部の、標本ラベルより右・端末が絶対に届かない余白
+    （見出しブロックの右上）に置けば、位置調整なしで常に衝突しない。
+    """
+    mark_font = load_font(26, 700)
+    text = "GREEN COLLECTION"
+    text_w = draw.textlength(text, font=mark_font)
+    leaf = leaf_mask(30, 30, r_ratio=0.62, d_ratio=0.8).rotate(-30, expand=True)
+    leaf_img = Image.new("RGBA", leaf.size, INK + (200,))
+    leaf_img.putalpha(ImageChops.multiply(leaf_img.getchannel("A"), leaf))
+
+    gap = 12
+    right = CANVAS[0] - 104
+    top = 160
+    tx = right - text_w
+    canvas.paste(leaf_img, (int(tx - leaf_img.width - gap), int(top)), leaf_img)
+    draw_tracked(draw, text, mark_font, int(tx), int(top - mark_font.size * 0.1),
+                (0x6E, 0x6C, 0x63), 3)
+
+
+def build(slide, out_dir):
+    """統一した生成りの背景に、葉モチーフ・標本ラベル・端末・ブランドマークを重ねる。"""
+    accent = slide["accent"]
+    canvas = Image.new("RGB", CANVAS, BG).convert("RGBA")
+
+    # 背景の葉モチーフ。右上にはみ出す位置に大きく1枚、控えめな左下にもう1枚
+    paint_leaf_motif(canvas, accent, (1100, 1100), (CANVAS[0] - 120, 520), 28, 34)
+    paint_leaf_motif(canvas, accent, (700, 700), (60, CANVAS[1] - 520), -18, 22)
+    canvas = canvas.convert("RGB")
+    draw = ImageDraw.Draw(canvas)
 
     label_font = load_font(30, 700)
-    head_font = load_font(94, 900)
+    head_font = load_font(92, 900)
     sub_font = load_font(38, 500)
     index_font = load_font(30, 900)
     for f, lines, where in ((label_font, [slide["label"]], "ラベル"),
@@ -234,13 +294,9 @@ def build_editorial(slide, out_dir):
                             (sub_font, slide["sub"], "説明文")):
         check_glyphs(f, lines, f"{slide['name']} の{where}")
 
-    # 連番と細い罫線。誌面の目次のような佇まいにする
-    y = 150
-    draw.text((left, y), slide["index"], font=index_font, fill=accent, anchor="la")
-    draw.line([(left + 62, y + 20), (left + 132, y + 20)], fill=accent, width=3)
-    draw_tracked(draw, slide["label"], label_font, left + 152, y - 1, accent, 4)
-
-    y = draw_lines(draw, slide["headline"], head_font, y + 92, INK, 1.30,
+    left = 104
+    y = draw_specimen_label(draw, slide, 148, accent, index_font, label_font)
+    y = draw_lines(draw, slide["headline"], head_font, y + 74, INK, 1.30,
                    left, anchor="la")
     y = draw_lines(draw, slide["sub"], sub_font, y + 30, BODY, 1.6,
                    left, anchor="la")
@@ -251,41 +307,12 @@ def build_editorial(slide, out_dir):
                            Image.LANCZOS)
     device = device.rotate(-3.4, expand=True, resample=Image.BICUBIC)
     device, pad = with_shadow(device)
+    # 端末は中央寄せ。canvasの下端からはみ出すぶんは切れる（意図どおり、大きく見せる）。
+    # ブランドマークは上部に置いてあるので、この配置と衝突しない。
     canvas.paste(device, ((CANVAS[0] - device.width) // 2 + 30,
-                          y + 96 - pad), device)
+                          y + 90 - pad), device)
 
-    path = os.path.join(out_dir, f"{slide['name']}.png")
-    canvas.save(path)
-    return path
-
-
-def build(slide, out_dir):
-    device = _framer.frame(os.path.join(DOWNLOADS, slide["src"]))
-    device = device.resize(
-        (DEVICE_WIDTH, round(device.height * DEVICE_WIDTH / device.width)),
-        Image.LANCZOS)
-    device, pad = with_shadow(device)
-
-    canvas = Image.new("RGB", CANVAS, BG)
-    paint_wash(canvas, slide["accent"])
-    draw = ImageDraw.Draw(canvas)
-
-    label_font = load_font(LABEL_SIZE, 700)
-    head_font = load_font(HEADLINE_SIZE, 900)
-    sub_font = load_font(SUB_SIZE, 500)
-    check_glyphs(label_font, [slide["label"]], f"{slide['name']} のラベル")
-    check_glyphs(head_font, slide["headline"], f"{slide['name']} の見出し")
-    check_glyphs(sub_font, slide["sub"], f"{slide['name']} の説明文")
-
-    y = draw_label(draw, slide["label"], label_font, TOP_PAD, slide["accent"])
-    y = draw_lines(draw, slide["headline"], head_font, y + GAP_LABEL,
-                   INK, HEADLINE_LEADING, CANVAS[0] // 2)
-    y = draw_lines(draw, slide["sub"], sub_font, y + GAP_SUB,
-                   BODY, SUB_LEADING, CANVAS[0] // 2)
-
-    # 端末は中央寄せ。canvasの下端からはみ出すぶんは切れる（意図どおり）
-    canvas.paste(device, ((CANVAS[0] - device.width) // 2,
-                          y + GAP_DEVICE - pad), device)
+    draw_brand_mark(canvas, draw)
 
     path = os.path.join(out_dir, f"{slide['name']}.png")
     canvas.save(path)
@@ -296,11 +323,9 @@ def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
     out_dir = os.path.abspath(sys.argv[1])
-    style = sys.argv[2] if len(sys.argv) > 2 else "centered"
-    maker = {"centered": build, "editorial": build_editorial}[style]
     os.makedirs(out_dir, exist_ok=True)
     for slide in SLIDES:
-        print(os.path.basename(maker(slide, out_dir)))
+        print(os.path.basename(build(slide, out_dir)))
     print(f"\n{len(SLIDES)}枚を {out_dir} に出力しました（{CANVAS[0]}x{CANVAS[1]}）")
 
 
