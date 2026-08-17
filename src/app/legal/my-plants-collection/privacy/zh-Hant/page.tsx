@@ -12,7 +12,7 @@ export default function PrivacyPolicyPageZhHant() {
       <p className="mt-4 text-sm text-gray-500">
         生效日期：2026年7月14日
         <br />
-        最後更新日期：2026年7月14日
+        最後更新日期：2026年8月17日
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -146,8 +146,11 @@ export default function PrivacyPolicyPageZhHant() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            4. 向第三方提供資訊（AI 植物辨識功能）
+            4. 向第三方提供資訊（AI 功能）
           </h2>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-1. AI 植物辨識功能
+          </h3>
           <p className="mt-2">
             僅於您使用本應用程式的「以 AI
             判定植物」功能時，您所拍攝的植物照片資料才會傳送至植物辨識服務「Pl@ntNet」（由
@@ -162,7 +165,38 @@ export default function PrivacyPolicyPageZhHant() {
             </a>
             ）。
           </p>
-          <p className="mt-2">若您不使用此功能，照片資料將不會傳送至外部。</p>
+
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-2. AI 健康檢查功能
+          </h3>
+          <p className="mt-2">
+            僅於您使用本應用程式的「AI
+            健康檢查」功能時，您所拍攝的植物照片（最多 3
+            張）與該植物的照護狀況摘要，才會傳送至 OpenAI, Inc. 所提供的 API。
+          </p>
+          <p className="mt-2">
+            所傳送的照護狀況摘要僅限於預先定義的項目，具體為：品種名稱、自迎入之日起的天數、置於室內或室外、擺放位置名稱、澆水間隔、距離上次澆水／施肥／換盆的天數、最近
+            30
+            天內的澆水次數、季節、光線檢查的測量值，以及您在該畫面輸入的症狀說明。{" "}
+            <strong>
+              您的姓名、電子郵件地址、住址、有關好友的資訊、植物的暱稱、購買金額，以及與檢查無關的備註，均不會傳送。
+            </strong>
+          </p>
+          <p className="mt-2">
+            為健康檢查而傳送的照片不會保存於我方的伺服器（雲端儲存空間）。僅於您在結果畫面選擇「保存為成長記錄」時，才會依第
+            3 項作為一般植物照片保存。檢查結果的文字內容，僅於您已登入時保存於雲端。
+          </p>
+          <p className="mt-2">
+            有關 OpenAI 如何處理資料，請參閱 OpenAI 的隱私權政策（
+            <a
+              className="text-emerald-700 underline"
+              href="https://openai.com/policies/privacy-policy"
+            >
+              https://openai.com/policies/privacy-policy
+            </a>
+            ）。
+          </p>
+          <p className="mt-2">若您不使用這些功能，照片資料將不會傳送至外部。</p>
         </section>
 
         <section>

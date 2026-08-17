@@ -126,8 +126,11 @@ export default function TermsOfServicePageEn() {
           <ol className="mt-2 list-decimal space-y-1 pl-5">
             <li>
               The plant care guidance provided in the App (such as watering frequency and
-              fertilizer amounts) and the results of AI-based plant identification are general
-              reference information only, and we do not guarantee their accuracy or completeness.
+              fertilizer amounts), the results of AI-based plant identification, and the results
+              of the AI Health Check are general reference information only, and we do not
+              guarantee their accuracy or completeness. The AI Health Check suggests possible
+              explanations for a plant&apos;s condition; it does not identify or confirm any
+              disease or pest.
               Actual plant growth varies by individual and environment, and any final decisions
               are your own responsibility.
             </li>

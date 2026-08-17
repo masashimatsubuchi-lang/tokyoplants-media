@@ -12,7 +12,7 @@ export default function PrivacyPolicyPageEn() {
       <p className="mt-4 text-sm text-gray-500">
         Effective date: July 14, 2026
         <br />
-        Last updated: July 14, 2026
+        Last updated: August 17, 2026
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -159,8 +159,11 @@ export default function PrivacyPolicyPageEn() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            4. Disclosure to Third Parties (AI Plant Identification Feature)
+            4. Disclosure to Third Parties (AI Features)
           </h2>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-1. AI Plant Identification
+          </h3>
           <p className="mt-2">
             Only if you use the App&apos;s &quot;Identify with AI&quot; feature, the photo of the
             plant you took is sent to the plant identification service &quot;Pl@ntNet&quot; (run
@@ -175,8 +178,44 @@ export default function PrivacyPolicyPageEn() {
             </a>
             ).
           </p>
+
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-2. AI Health Check
+          </h3>
           <p className="mt-2">
-            If you do not use this feature, no photo data is sent externally.
+            Only if you use the App&apos;s &quot;AI Health Check&quot; feature, the photos you
+            take (up to three) and a summary of how that plant has been cared for are sent to an
+            API provided by OpenAI, Inc.
+          </p>
+          <p className="mt-2">
+            The care summary is limited to a predefined set of items: the species name, days
+            since you added the plant, whether it is kept indoors or outdoors, the name of its
+            location, the watering interval, days since the last watering, fertilizing and
+            repotting, the number of waterings in the last 30 days, the season, light check
+            readings, and the description of symptoms you enter on that screen.{" "}
+            <strong>
+              Your name, email address, address, information about your friends, the nickname you
+              gave the plant, its purchase price, and notes unrelated to the check are not sent.
+            </strong>
+          </p>
+          <p className="mt-2">
+            Photos sent for a health check are not stored on our servers (cloud storage). They
+            are saved as ordinary plant photos, as described in Section 3, only if you choose
+            &quot;Save as a growth record&quot; on the result screen. The text of the result is
+            stored in the cloud only if you are signed in.
+          </p>
+          <p className="mt-2">
+            For information on how OpenAI handles data, please see OpenAI&apos;s Privacy Policy (
+            <a
+              className="text-emerald-700 underline"
+              href="https://openai.com/policies/privacy-policy"
+            >
+              https://openai.com/policies/privacy-policy
+            </a>
+            ).
+          </p>
+          <p className="mt-2">
+            If you do not use these features, no photo data is sent externally.
           </p>
         </section>
 

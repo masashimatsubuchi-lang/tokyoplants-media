@@ -12,7 +12,7 @@ export default function PrivacyPolicyPageKo() {
       <p className="mt-4 text-sm text-gray-500">
         제정일: 2026년 7월 14일
         <br />
-        최종 개정일: 2026년 7월 14일
+        최종 개정일: 2026년 8월 17일
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -168,8 +168,11 @@ export default function PrivacyPolicyPageKo() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            4. 제3자에 대한 정보 제공(AI 식물 판별 기능)
+            4. 제3자에 대한 정보 제공(AI 기능)
           </h2>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-1. AI 식물 판별 기능
+          </h3>
           <p className="mt-2">
             본 앱의 &quot;AI로 식물 판정하기&quot; 기능을 이용하는 경우에
             한해, 이용자가 촬영한 식물 사진 데이터가 식물 판별 서비스
@@ -185,8 +188,45 @@ export default function PrivacyPolicyPageKo() {
             </a>
             )을 확인해 주십시오.
           </p>
+
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-2. AI 건강 체크 기능
+          </h3>
           <p className="mt-2">
-            이 기능을 이용하지 않는 경우, 사진 데이터가 외부로 전송되는
+            본 앱의 &quot;AI 건강 체크&quot; 기능을 이용하는 경우에 한해,
+            이용자가 촬영한 식물 사진(최대 3장)과 해당 식물의 관리 상황
+            요약이 OpenAI, Inc.가 제공하는 API로 전송됩니다.
+          </p>
+          <p className="mt-2">
+            전송되는 관리 상황 요약은 미리 정해 둔 항목으로 한정됩니다.
+            구체적으로는 품종명, 들인 날로부터의 일수, 실내인지 실외인지,
+            두는 장소의 이름, 물주기 간격, 마지막 물주기・시비・분갈이로부터의
+            일수, 최근 30일간의 물주기 횟수, 계절, 빛 체크 측정값, 그리고
+            이용자가 해당 화면에서 입력한 증상 설명입니다.{" "}
+            <strong>
+              이용자의 성명・이메일 주소・주소・친구에 관한 정보・식물의
+              별명・구입 금액・진단과 관계없는 메모는 전송되지 않습니다.
+            </strong>
+          </p>
+          <p className="mt-2">
+            건강 체크를 위해 전송된 사진은 당사의 서버(클라우드 스토리지)에
+            저장되지 않습니다. 이용자가 결과 화면에서 &quot;성장 기록으로
+            저장&quot;을 선택한 경우에 한해, 일반 식물 사진으로서 제3항과
+            같이 저장됩니다. 진단 결과 텍스트는 로그인한 경우에 한해 클라우드에
+            저장됩니다.
+          </p>
+          <p className="mt-2">
+            OpenAI 측의 취급에 대해서는 OpenAI의 개인정보처리방침(
+            <a
+              className="text-emerald-700 underline"
+              href="https://openai.com/policies/privacy-policy"
+            >
+              https://openai.com/policies/privacy-policy
+            </a>
+            )을 확인해 주십시오.
+          </p>
+          <p className="mt-2">
+            이러한 기능을 이용하지 않는 경우, 사진 데이터가 외부로 전송되는
             일은 없습니다.
           </p>
         </section>

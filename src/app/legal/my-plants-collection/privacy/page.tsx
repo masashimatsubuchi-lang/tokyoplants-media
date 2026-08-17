@@ -12,7 +12,7 @@ export default function PrivacyPolicyPage() {
       <p className="mt-4 text-sm text-gray-500">
         制定日: 2026年7月14日
         <br />
-        最終改定日: 2026年7月14日
+        最終改定日: 2026年8月17日
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -138,8 +138,11 @@ export default function PrivacyPolicyPage() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            4. 第三者への情報提供（AIによる植物同定機能）
+            4. 第三者への情報提供（AI機能）
           </h2>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-1. AIによる植物同定機能
+          </h3>
           <p className="mt-2">
             本アプリの「AIで植物を判定する」機能を利用した場合に限り、ユーザーが撮影した植物の写真データが、植物同定サービス「Pl@ntNet」（Pl@ntNetプロジェクト運営元）へ送信されます。これは同定結果を取得するために必要な処理であり、送信された画像は当方が保存・二次利用することはありません。Pl@ntNet側での取り扱いについては、Pl@ntNetのプライバシーポリシー（
             <a
@@ -150,8 +153,35 @@ export default function PrivacyPolicyPage() {
             </a>
             ）をご確認ください。
           </p>
+
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-2. AI健康チェック機能
+          </h3>
           <p className="mt-2">
-            この機能を利用しない場合、写真データが外部に送信されることはありません。
+            本アプリの「AI健康チェック」機能を利用した場合に限り、ユーザーが撮影した植物の写真（最大3枚）と、その植物の育成状況の要約が、OpenAI,
+            Inc.が提供するAPIへ送信されます。
+          </p>
+          <p className="mt-2">
+            送信される育成状況の要約は、あらかじめ定めた項目に限定しています。具体的には、品種名・お迎えからの日数・屋内か屋外か・置き場所の名称・水やり間隔・最終の水やり／施肥／植え替えからの日数・直近30日間の水やり回数・季節・光チェックの測定値、およびユーザーがその画面で入力した症状の説明です。
+            <strong>
+              ユーザーの氏名・メールアドレス・住所・ともだちに関する情報・植物のニックネーム・購入金額・診断に関係しないメモは送信されません。
+            </strong>
+          </p>
+          <p className="mt-2">
+            診断のために送信された写真は、当方のサーバー（クラウドストレージ）には保存されません。ユーザーが結果画面で「成長の記録として保存する」を選んだ場合に限り、通常の植物の写真として第3項のとおり保存されます。診断結果のテキストは、ログインしている場合に限りクラウド上に保存されます。
+          </p>
+          <p className="mt-2">
+            OpenAI側での取り扱いについては、OpenAIのプライバシーポリシー（
+            <a
+              className="text-emerald-700 underline"
+              href="https://openai.com/policies/privacy-policy"
+            >
+              https://openai.com/policies/privacy-policy
+            </a>
+            ）をご確認ください。
+          </p>
+          <p className="mt-2">
+            これらの機能を利用しない場合、写真データが外部に送信されることはありません。
           </p>
         </section>
 
