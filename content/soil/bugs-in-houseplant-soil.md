@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
   - "soil/basic-soil-mix"
+  - "soil/neko-chip-vs-original-soil"
   - "review/fungus-gnat-control-products-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
@@ -115,7 +116,7 @@ amazonProducts:
 
 ### 2. 排水性が高い
 
-粒状の素材を多く含み、水がスッと抜ける土を選びましょう。日向石・パーライト・軽石などが入っていると排水性が高い目安になります。
+粒状の素材を多く含み、水がスッと抜ける土を選びましょう。日向石・パーライト・軽石などが入っていると排水性が高い目安になります。有機質をほぼ含まないねこチップのような無機培地に切り替えると、虫の餌となる有機質自体が減るため、コバエやキノコバエが出にくくなります。詳しい特徴や使い方は[ねこチップとは｜メリット・デメリット・使い方を解説](/soil/neko-chip-vs-original-soil)で解説しています。
 
 ### 3. 加熱処理されている
 
