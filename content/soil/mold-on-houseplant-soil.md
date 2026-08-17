@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/indoor-houseplant-soil"
   - "soil/when-to-replace-soil"
+  - "soil/neko-chip-vs-original-soil"
   - "guide/rainy-season-houseplant-care"
   - "guide/root-rot-causes-and-recovery"
   - "guide/fungus-gnat-prevention-rainy-season"
@@ -146,6 +147,8 @@ amazonProducts:
 - 赤玉土・日向石・パーライトなどの無機質素材が主体
 - 腐葉土・ピートモスの割合が少ない
 - 粒が崩れにくい硬質タイプ
+
+軽石ベースの無機培地「ねこチップ」も、この条件に当てはまる選択肢のひとつです。ただし無機質だからといって100%カビと無縁というわけではなく、未開封の袋を高温多湿な場所で保管すると袋内で結露してカビが生えるケースも報告されています。ねこチップの特徴やメリット・デメリットは[ねこチップとは｜メリット・デメリット・使い方を解説](/soil/neko-chip-vs-original-soil)で詳しく解説しています。
 
 ### 対策4：受け皿の水を捨てる
 
