@@ -39,11 +39,12 @@ const PROVIDER_ID = "129155915";
 // ⚠️ インストール数の計測まで行うには、アプリ側にAdjust SDKの組み込みが必要。
 //    トークンを入れただけではクリック数までしか取れない。
 //
-// ⚠️ アプリ内ブラウザからApp Storeを開けない問題は、これでは解決しない。
-//    2026-08-12の実機検証で、https・スキーム直リンク・自ドメイン経由の転送の
-//    いずれもInstagram内では無反応だった。この用途の専業サービスも
-//    「Metaのアプリ内ブラウザを確実に回避できるサービスは存在しない」としている。
-//    Adjustを入れても外部ブラウザへの誘導（InAppBrowserNotice）は必要。
+// ⚠️ アプリ内ブラウザからApp Storeを開けない問題について。
+//    2026-08-12の実機検証時点ではInstagram内で無反応だったが、2026-08-17時点では
+//    Instagramからでも直接開けるようになっている（Instagram側の挙動変化とみられる）。
+//    そのため常時表示の事前案内（InAppBrowserNotice）は廃止し、実際にタップして
+//    開かなかった場合だけ AppStoreButton.tsx の `blocked` フォールバックで
+//    外部ブラウザへの誘導を出す方式にした。Adjustを入れてもこの前提は変わらない。
 const ADJUST_LINK_TOKEN = "";
 
 export const usesAdjust = ADJUST_LINK_TOKEN !== "";

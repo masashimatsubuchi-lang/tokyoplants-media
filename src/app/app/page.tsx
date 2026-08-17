@@ -4,7 +4,6 @@ import Link from "next/link";
 import AppStoreButton from "@/components/AppStoreButton";
 import FeatureVideo from "@/components/FeatureVideo";
 import HeroVideo from "@/components/HeroVideo";
-import InAppBrowserNotice from "@/components/InAppBrowserNotice";
 import StickyAppCta from "@/components/StickyAppCta";
 
 // Green Collection（iOSアプリ）の紹介LP。
@@ -318,8 +317,6 @@ export default function AppLandingPage() {
         </div>
 
         <div className="mt-7 flex w-full flex-col items-center gap-2.5">
-          {/* アプリ内ブラウザからはApp Storeを開けない。開かないボタンを押させる前に手順を示す */}
-          <InAppBrowserNotice />
           <AppStoreButton />
           <p className="text-[13px] font-medium text-[#16352A]">
             3株までずっと無料
