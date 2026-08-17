@@ -1,5 +1,5 @@
 ---
-image: "/images/app/screen-detail.png"
+image: "/images/app/banner-comparison.png"
 title: "観葉植物管理アプリ比較｜Green Collection他4選"
 description: "観葉植物の管理・育成アプリを徹底比較。tokyoplants公式「Green Collection」と、海外で人気のPlanta・Greg・PlantIn、国内SNSアプリGreenSnapの機能・対応言語・価格帯の違いをWebSearchで確認した最新情報をもとに解説します。"
 date: "2026-08-18"
@@ -58,10 +58,13 @@ WebSearchで確認できた情報をもとに、5つのアプリを表にまと�
 | 有料プランの価格帯 | App Store・アプリ内表示を参照 | 月額$7.99〜、年額$35.99程度（2026年時点の目安） | サブスクリプションあり（金額は変動） | 年額$19.99程度（2026年時点の目安） | 大きな課金要素は確認できず |
 | App Store評価 | App Store参照 | 4.7/5（約3,900件） | 4.6/5前後 | 4.56/5（約217,000件） | 4.6/5・約18,600件（2022年時点の情報） |
 
-<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52);text-align:center">
-<a href="https://media.tokyoplants.com/app?ch=media_app_comparison&utm_source=media&utm_medium=article&utm_campaign=app_comparison" target="_blank" rel="noopener noreferrer" style="display:block;padding:1.1rem 1.5rem;text-decoration:none;color:#fff;font-weight:700;font-size:1.05rem">
-Green Collectionを試してみる →
-<div style="font-weight:400;font-size:0.85rem;margin-top:0.3rem;opacity:0.85">tokyoplants公式｜植物のお世話がコレクションになるアプリ</div>
+<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52)">
+<a href="https://media.tokyoplants.com/app?ch=media_app_comparison&utm_source=media&utm_medium=article&utm_campaign=app_comparison" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1.1rem 1.5rem;text-decoration:none;color:#fff">
+<img src="/images/app/app-icon.png" alt="" width="56" height="56" style="border-radius:14px;flex-shrink:0" loading="lazy" />
+<span>
+<span style="display:block;font-weight:700;font-size:1.05rem">Green Collectionを試してみる →</span>
+<span style="display:block;font-weight:400;font-size:0.85rem;margin-top:0.3rem;opacity:0.85">tokyoplants公式｜植物のお世話がコレクションになるアプリ</span>
+</span>
 </a>
 </div>
 
@@ -147,9 +150,10 @@ Free（3株まで）とProプランがありますが、具体的な料金は変
 
 「植物のお世話を記録として残しながら、コレクションのように育てる楽しみも味わいたい」という方は、まずGreen Collectionを試してみるのがおすすめです。
 
-<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52);text-align:center">
-<a href="https://media.tokyoplants.com/app?ch=media_app_comparison&utm_source=media&utm_medium=article&utm_campaign=app_comparison" target="_blank" rel="noopener noreferrer" style="display:block;padding:1.1rem 1.5rem;text-decoration:none;color:#fff;font-weight:700;font-size:1.05rem">
-App Storeで詳細を見る →
+<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52)">
+<a href="https://media.tokyoplants.com/app?ch=media_app_comparison&utm_source=media&utm_medium=article&utm_campaign=app_comparison" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1.1rem 1.5rem;text-decoration:none;color:#fff">
+<img src="/images/app/app-icon.png" alt="" width="56" height="56" style="border-radius:14px;flex-shrink:0" loading="lazy" />
+<span style="font-weight:700;font-size:1.05rem">App Storeで詳細を見る →</span>
 </a>
 </div>
 

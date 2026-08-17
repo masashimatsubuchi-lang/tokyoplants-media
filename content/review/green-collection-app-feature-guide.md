@@ -1,5 +1,5 @@
 ---
-image: /images/app/screen-collection.png
+image: /images/app/banner-feature-guide.png
 title: Green Collection全機能ガイド｜植物のお世話アプリ
 description: >-
   tokyoplants の公式iPhoneアプリ「Green Collection」の全機能を徹底解説。植物登録・お世話記録・リマインド・光チェック・AI健康チェック・ウィジェットまで、使い方とFree/Proプランの違いをまとめました。
@@ -23,10 +23,13 @@ relatedSlugs:
 
 この記事では、Green Collectionの全機能をひとつずつ丁寧に紹介します。インストールを迷っている方はもちろん、すでに使っている方も「こんな機能があったのか」という発見があるはずです。
 
-<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52);text-align:center">
-<a href="https://media.tokyoplants.com/app?ch=media_app_feature_guide&utm_source=media&utm_medium=article&utm_campaign=app_feature_guide" target="_blank" rel="noopener noreferrer" style="display:block;padding:1.1rem 1.5rem;text-decoration:none;color:#fff;font-weight:700;font-size:1.05rem">
-Green Collectionを見てみる →
-<div style="font-weight:400;font-size:0.85rem;margin-top:0.3rem;opacity:0.85">tokyoplants公式｜観葉植物のお世話・成長記録アプリ</div>
+<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52)">
+<a href="https://media.tokyoplants.com/app?ch=media_app_feature_guide&utm_source=media&utm_medium=article&utm_campaign=app_feature_guide" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1.1rem 1.5rem;text-decoration:none;color:#fff">
+<img src="/images/app/app-icon.png" alt="" width="56" height="56" style="border-radius:14px;flex-shrink:0" loading="lazy" />
+<span>
+<span style="display:block;font-weight:700;font-size:1.05rem">Green Collectionを見てみる →</span>
+<span style="display:block;font-weight:400;font-size:0.85rem;margin-top:0.3rem;opacity:0.85">tokyoplants公式｜観葉植物のお世話・成長記録アプリ</span>
+</span>
 </a>
 </div>
 
@@ -86,7 +89,7 @@ Proプランでは、リマインドの精度がさらに上がります。
 - **スマート通知（Pro）**: 季節係数によって水やり間隔を自動調整。夏は乾きやすく、冬は乾きにくいという植物の性質に合わせて通知タイミングが変わります
 - **屋外栽培の天気連動調整（Pro）**: ベランダや庭で育てている植物向けに、降雨予報に応じて水やり間隔を自動調整。雨が降る予報の日は通知を後ろにずらすといった調整が自動で行われます
 
-<img src="/images/app/screen-watering.png" alt="Green Collectionの水やり記録画面" style="width:100%;border-radius:0.75rem;margin:1rem 0" loading="lazy" />
+<img src="/images/app/screen-watering.png" alt="Green Collectionの水やり記録画面" style="max-width:280px;width:100%;display:block;margin:1.5rem auto;border-radius:0.75rem" loading="lazy" />
 
 ## 機能4：光チェック（カメラでその場所の明るさを判定）
 
@@ -113,7 +116,7 @@ Proプランでは、リマインドの精度がさらに上がります。
 
 月の予算を設定しておくと、今どれくらい消化しているかがバー表示でひと目でわかるので、「今月はもう予算オーバーしているから来月にしよう」といった判断がしやすくなります。
 
-<img src="/images/app/screen-summary.png" alt="Green Collectionの月まとめ画面" style="width:100%;border-radius:0.75rem;margin:1rem 0" loading="lazy" />
+<img src="/images/app/screen-summary.png" alt="Green Collectionの月まとめ画面" style="max-width:280px;width:100%;display:block;margin:1.5rem auto;border-radius:0.75rem" loading="lazy" />
 
 ## 機能7：ともだち（植物好き同士でつながる）
 
@@ -130,7 +133,7 @@ Green Collectionには、植物好き同士で交流できる「ともだち」�
 
 アプリを開かなくても、ホーム画面やロック画面のウィジェットに水やりが必要な株がサムネイルで並びます。タップするとその場で水やり記録が完了するため、「今日水やりが必要な植物」を毎回アプリを開いて確認する手間がありません。
 
-<img src="/images/app/screen-widget.png" alt="Green Collectionのウィジェット画面" style="width:100%;border-radius:0.75rem;margin:1rem 0" loading="lazy" />
+<img src="/images/app/screen-widget.png" alt="Green Collectionのウィジェット画面" style="max-width:280px;width:100%;display:block;margin:1.5rem auto;border-radius:0.75rem" loading="lazy" />
 
 ## 機能9：シェア（棚の様子をSNS用に書き出す）
 
@@ -157,7 +160,7 @@ Green Collectionには、植物好き同士で交流できる「ともだち」�
 
 それぞれが場面に応じたセリフを表示してくれるため、無機質になりがちなお世話記録アプリに、親しみやすさが加わっています。
 
-<img src="/images/app/screen-characters.png" alt="Green Collectionのキャラクターたち" style="width:100%;border-radius:0.75rem;margin:1rem 0" loading="lazy" />
+<img src="/images/app/screen-characters.png" alt="Green Collectionのキャラクターたち" style="max-width:280px;width:100%;display:block;margin:1.5rem auto;border-radius:0.75rem" loading="lazy" />
 
 ## Free / Pro プランの違い
 
@@ -213,10 +216,13 @@ Green Collectionは、観葉植物専門店tokyoplantsが「お世話が続く�
 
 3株までは無料で使えるので、今育てている植物の記録から始めてみてはいかがでしょうか。
 
-<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52);text-align:center">
-<a href="https://media.tokyoplants.com/app?ch=media_app_feature_guide&utm_source=media&utm_medium=article&utm_campaign=app_feature_guide" target="_blank" rel="noopener noreferrer" style="display:block;padding:1.1rem 1.5rem;text-decoration:none;color:#fff;font-weight:700;font-size:1.05rem">
-アプリの詳細を見る（App Store）→
-<div style="font-weight:400;font-size:0.85rem;margin-top:0.3rem;opacity:0.85">Green Collection｜観葉植物のお世話・成長記録</div>
+<div style="margin:1.5rem 0;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#015440,#026b52)">
+<a href="https://media.tokyoplants.com/app?ch=media_app_feature_guide&utm_source=media&utm_medium=article&utm_campaign=app_feature_guide" target="_blank" rel="noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1.1rem 1.5rem;text-decoration:none;color:#fff">
+<img src="/images/app/app-icon.png" alt="" width="56" height="56" style="border-radius:14px;flex-shrink:0" loading="lazy" />
+<span>
+<span style="display:block;font-weight:700;font-size:1.05rem">アプリの詳細を見る（App Store）→</span>
+<span style="display:block;font-weight:400;font-size:0.85rem;margin-top:0.3rem;opacity:0.85">Green Collection｜観葉植物のお世話・成長記録</span>
+</span>
 </a>
 </div>
 
