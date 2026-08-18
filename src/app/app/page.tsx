@@ -466,7 +466,7 @@ export default function AppLandingPage() {
                 </span>
               </p>
             </div>
-            <div className="relative overflow-hidden rounded-2xl border border-[#015440]/25 bg-gradient-to-b from-[#EFF5F1] to-white p-6 pt-8 text-center shadow-[0_16px_32px_-12px_rgba(1,84,64,0.28)]">
+            <div className="relative rounded-2xl border border-[#015440]/25 bg-gradient-to-b from-[#EFF5F1] to-white p-6 pt-8 text-center shadow-[0_16px_32px_-12px_rgba(1,84,64,0.28)]">
               <span className="absolute -top-3 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-full bg-[#015440] px-4 py-1.5 text-[11px] font-bold tracking-wide text-white shadow-sm">
                 おすすめ
               </span>
