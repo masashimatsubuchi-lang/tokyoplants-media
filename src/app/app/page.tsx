@@ -454,8 +454,38 @@ export default function AppLandingPage() {
             </table>
           </div>
 
+          <div className="mt-6 grid gap-4 sm:grid-cols-2">
+            <div className="rounded-2xl border border-[#E0DACD] bg-white p-6 text-center">
+              <p className="text-sm font-semibold text-[#6E6C63]">月額プラン</p>
+              <p className="mt-2 text-[28px] font-bold text-[#16352A]">
+                ¥480
+                <span className="text-sm font-normal text-[#6E6C63]">
+                  /月
+                </span>
+              </p>
+            </div>
+            <div className="relative rounded-2xl border-2 border-[#015440] bg-white p-6 pt-7 text-center">
+              <span className="absolute -top-3 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-full bg-[#015440] px-3 py-1 text-[11px] font-bold text-white">
+                おすすめ・約39%おトク
+              </span>
+              <p className="text-sm font-semibold text-[#6E6C63]">
+                年額プラン
+              </p>
+              <p className="mt-2 text-[28px] font-bold text-[#16352A]">
+                ¥3,500
+                <span className="text-sm font-normal text-[#6E6C63]">
+                  /年
+                </span>
+              </p>
+              <p className="mt-1 text-xs text-[#6E6C63]">月あたり約¥292</p>
+              <p className="mt-3 inline-block rounded-full bg-[#FBEFE2] px-3 py-1 text-[11px] font-bold text-[#7A4A1E]">
+                7日間無料トライアルつき
+              </p>
+            </div>
+          </div>
+
           <p className="mt-5 text-center text-xs leading-relaxed text-[#6E6C63]">
-            Proプランの料金はApp Storeおよびアプリ内でご確認いただけます。
+            表示価格は税込の目安です。正式な金額はApp Store・アプリ内の表示に従います。
             <br className="hidden sm:block" />
             サブスクリプションは自動更新され、いつでも解約できます。
           </p>

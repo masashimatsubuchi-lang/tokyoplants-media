@@ -13,6 +13,8 @@
 //   shop_top_banner ショップ(tokyoplants.com)のTOPバナー経由
 //                   （URLは utm_source=shop&utm_medium=banner&utm_campaign=app_promo も併記。
 //                   ch はApp Store側の計測用、utm_*はGA4のセッション流入元計測用で役割が別）
+//   shop_blog      ショップ(BASE)のブログ記事経由
+//                   （URLは utm_source=shop&utm_medium=blog&utm_campaign=app_promo も併記）
 //   app_lp         /app に直接来た（chなし）
 //
 // ⚠️ サイト内からApp Storeへ直リンクしないこと。アプリ内ブラウザで開けなくなる。
