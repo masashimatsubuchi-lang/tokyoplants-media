@@ -19,9 +19,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
 ---
 
 # ねこチップとは｜メリット・デメリット・使い方を解説
@@ -231,8 +228,6 @@ I'm original SOILは、tokyoplantsが自社で管理・販売している観葉�
 - tokyoplantsが選んだ土で育ててみたいとき
 
 ねこチップは「素材として優秀」、I'm original SOILは「仕上がった配合土として優秀」という関係性です。どちらが上か下かではなく、自分の育て方・管理スタイル・植物の種類に合わせて選ぶことが大切です。
-
-なお、「ねこチップに近い感覚で、でも肥料管理も省きたい」という方には、tokyoplantsの『HYDRO MINERAL 2L』（富士山溶岩石×ゼオライトの無機培地）も選択肢のひとつです。ハイドロ・底面給水向けの無機系培地として設計されており、ねこチップの代わりに無機系管理を実現しながら、オスモコートの配合で8〜9ヶ月間の追肥も不要です。
 
 ---
 
