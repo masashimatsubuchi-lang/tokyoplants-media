@@ -15,7 +15,7 @@
 // ffmpeg は入っていないので AVFoundation で処理している。
 //
 // Usage:
-//   swift scripts/make-feature-video.swift <入力.MOV> <出力先ディレクトリ> <出力名> <出力幅px> [ビットレートbps] [ポスターの秒数]
+//   swift scripts/make-feature-video.swift <入力.MOV> <出力先ディレクトリ> <出力名> <出力幅px> [ビットレートbps] [ポスターの秒数] [マスク矩形 x,y,w,h]
 //
 // 出力: <出力先>/<出力名>.mp4, <出力先>/<出力名>-poster.jpg
 
@@ -27,14 +27,15 @@ import Foundation
 // ダイナミックアイランドは純黒なので、内側を黒で塗れば継ぎ目なく消える。
 // 座標は収録した端末・iOSのバージョンで変わる。差し替えたら
 // 「赤い画素の範囲」と「矩形の外周がすべて純黒か」を測り直すこと。
-// 現在の値は iPhone 16 Pro / 1260x2736 の収録で確認済み（make-hero-video.swiftと同じ）。
-let MASK_RECT = CGRect(x: 386, y: 84, width: 58, height: 59)
+// 既定値は iPhone 16 Pro / 1260x2736 の収録で確認済み（make-hero-video.swiftと同じ）。
+// 別解像度の収録では最後の引数（x,y,w,h）で上書きすること。
+let DEFAULT_MASK_RECT = CGRect(x: 386, y: 84, width: 58, height: 59)
 let MASK_ENABLED = true
 let POSTER_QUALITY = 0.65
 
 let args = CommandLine.arguments
 guard args.count >= 5 else {
-    print("usage: swift make-feature-video.swift <input.mov> <outDir> <outName> <outWidth> [bitrate] [posterSeconds]")
+    print("usage: swift make-feature-video.swift <input.mov> <outDir> <outName> <outWidth> [bitrate] [posterSeconds] [maskRect x,y,w,h]")
     exit(1)
 }
 let srcURL = URL(fileURLWithPath: args[1])
@@ -43,6 +44,12 @@ let outName = args[3]
 let outWidthArg = Double(args[4]) ?? 600
 let bitrateArg = args.count > 5 ? Int(args[5]) : nil
 let posterSeconds = args.count > 6 ? Double(args[6]) ?? 1.0 : 1.0
+let MASK_RECT: CGRect = {
+    guard args.count > 7 else { return DEFAULT_MASK_RECT }
+    let parts = args[7].split(separator: ",").compactMap { Double($0) }
+    guard parts.count == 4 else { return DEFAULT_MASK_RECT }
+    return CGRect(x: parts[0], y: parts[1], width: parts[2], height: parts[3])
+}()
 
 let asset = AVURLAsset(url: srcURL)
 guard let track = asset.tracks(withMediaType: .video).first else {

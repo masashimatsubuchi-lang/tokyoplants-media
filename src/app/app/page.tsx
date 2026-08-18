@@ -99,6 +99,14 @@ const features: Feature[] = [
     body: "葉っぱを3秒写すだけで、実際の明るさをlux換算。この植物に合っているかをその場で判定し、同じ場所が合う株も教えてくれます。",
   },
   {
+    image: "/images/app/screen-detail.png",
+    video: "/videos/feature-ai-health-check.mp4",
+    poster: "/videos/feature-ai-health-check-poster.jpg",
+    alt: "AI健康チェック画面。葉が黄色くなっている状態に対し、植え替え直後の影響（高め）・水切れ（中程度）・光量不足（低め）と考えられる原因、試してみてほしいことが表示されている",
+    title: "気になる症状も、写真でAIに相談。",
+    body: "葉が黄色い、元気がないなど気になる症状を選んで写真を送ると、考えられる原因と試してほしいことをAIが教えてくれます。水やりや植え替えの記録もふまえて判断します。",
+  },
+  {
     image: "/images/app/screen-watering.png",
     alt: "「次のお水」画面。今日3株、明日2株、それ以降23株にまとまっている",
     title: "今日水やりをする植物が、ひと目でわかる。",
@@ -133,9 +141,9 @@ const features: Feature[] = [
   },
   {
     image: "/images/app/screen-summary.png",
-    alt: "今月のまとめ画面。水やり回数とお世話合計、水やり回数ランキング",
+    alt: "今月のまとめ画面。新入り・水やり・お世話合計・使ったお金の4つの数字と、水やり回数ランキングが表示されている",
     title: "がんばった分が、数字になる。",
-    body: "今月の水やり回数とお世話の合計、いちばん世話した株のランキングが毎月まとまります。振り返ると、続けてきたことがちゃんと見えます。",
+    body: "今月の水やり回数とお世話の合計、使った金額、いちばん世話した株のランキングが毎月まとまります。予算を決めておけば、使いすぎも防げます。",
   },
   {
     image: "/images/app/screen-characters.png",
@@ -215,7 +223,7 @@ const faqs = [
   },
   {
     q: "Android版はありますか？",
-    a: "現在はiPhone向けのみです。iPadでもダウンロードできますが、iPhone向けの画面がそのまま表示されます。",
+    a: "現在はiPhone向けのみです。Android版は近日公開予定です。iPadでもダウンロードできますが、iPhone向けの画面がそのまま表示されます。",
   },
 ];
 
@@ -321,7 +329,9 @@ export default function AppLandingPage() {
           <p className="text-[13px] font-medium text-[#16352A]">
             3株までずっと無料
           </p>
-          <p className="text-xs text-[#6E6C63]">iPhone対応</p>
+          <p className="text-xs text-[#6E6C63]">
+            iPhone対応（Android版は近日公開予定）
+          </p>
         </div>
       </section>
 
@@ -349,7 +359,9 @@ export default function AppLandingPage() {
                 i > 0 ? "border-t border-[#EFEBE1]" : ""
               } ${i % 2 === 1 ? "sm:flex-row-reverse" : "sm:flex-row"}`}
             >
-              <div className={`w-full shrink-0 ${f.containerClass ?? "max-w-[240px] sm:max-w-[280px]"}`}>
+              <div
+                className={`w-full shrink-0 ${f.containerClass ?? "max-w-[240px] sm:max-w-[280px]"}`}
+              >
                 {f.video ? (
                   <FeatureVideo src={f.video} poster={f.poster!} alt={f.alt} />
                 ) : (
@@ -367,7 +379,9 @@ export default function AppLandingPage() {
                 <h2 className="text-[22px] font-bold leading-snug text-balance [word-break:auto-phrase] text-[#16352A] sm:text-[27px]">
                   {f.title}
                 </h2>
-                <p className="mt-4 text-[15px] leading-[1.9] text-pretty [word-break:auto-phrase]">{f.body}</p>
+                <p className="mt-4 text-[15px] leading-[1.9] text-pretty [word-break:auto-phrase]">
+                  {f.body}
+                </p>
               </div>
             </div>
           ))}
@@ -392,7 +406,9 @@ export default function AppLandingPage() {
                 <h3 className="text-[15px] font-bold text-balance [word-break:auto-phrase] text-[#16352A]">
                   {f.title}
                 </h3>
-                <p className="mt-2 text-sm leading-[1.85] text-pretty [word-break:auto-phrase]">{f.body}</p>
+                <p className="mt-2 text-sm leading-[1.85] text-pretty [word-break:auto-phrase]">
+                  {f.body}
+                </p>
               </div>
             ))}
           </div>
@@ -458,8 +474,12 @@ export default function AppLandingPage() {
                 key={f.q}
                 className="rounded-2xl border border-[#EAE5DA] bg-white p-5"
               >
-                <dt className="text-[15px] font-bold text-balance [word-break:auto-phrase] text-[#16352A]">{f.q}</dt>
-                <dd className="mt-2 text-sm leading-[1.85] text-pretty [word-break:auto-phrase]">{f.a}</dd>
+                <dt className="text-[15px] font-bold text-balance [word-break:auto-phrase] text-[#16352A]">
+                  {f.q}
+                </dt>
+                <dd className="mt-2 text-sm leading-[1.85] text-pretty [word-break:auto-phrase]">
+                  {f.a}
+                </dd>
               </div>
             ))}
           </dl>
@@ -479,14 +499,17 @@ export default function AppLandingPage() {
           </p>
           <div className="mt-8 flex w-full flex-col items-center gap-2.5">
             <AppStoreButton />
-            <p className="text-xs text-[#6E6C63]">iPhone対応</p>
+            <p className="text-xs text-[#6E6C63]">
+              iPhone対応（Android版は近日公開予定）
+            </p>
           </div>
 
           {/* Instagram等のアプリ内ブラウザで万一開かなかった人向けの逃げ道。
               ヒーローに置くと不安要素として目立ってしまうので、ここまで下げている。
               メニューの名称はInstagramの表記に合わせること（「Safariで開く」ではない）。 */}
           <p className="mt-8 max-w-sm text-[11px] leading-relaxed text-[#8C8A80]">
-            App Store が開かない場合は、画面右上の「…」から「外部ブラウザで開く」を
+            App Store
+            が開かない場合は、画面右上の「…」から「外部ブラウザで開く」を
             選んで、もう一度お試しください。
           </p>
         </div>
