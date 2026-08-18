@@ -455,30 +455,38 @@ export default function AppLandingPage() {
           </div>
 
           <div className="mt-6 grid gap-4 sm:grid-cols-2">
-            <div className="rounded-2xl border border-[#E0DACD] bg-white p-6 text-center">
-              <p className="text-sm font-semibold text-[#6E6C63]">月額プラン</p>
-              <p className="mt-2 text-[28px] font-bold text-[#16352A]">
+            <div className="flex flex-col justify-center rounded-2xl border border-[#E0DACD] bg-white p-6 text-center">
+              <p className="text-sm font-semibold text-[#6E6C63]">
+                月額プラン
+              </p>
+              <p className="mt-3 text-[26px] font-bold text-[#16352A]">
                 ¥480
                 <span className="text-sm font-normal text-[#6E6C63]">
                   /月
                 </span>
               </p>
             </div>
-            <div className="relative rounded-2xl border-2 border-[#015440] bg-white p-6 pt-7 text-center">
-              <span className="absolute -top-3 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-full bg-[#015440] px-3 py-1 text-[11px] font-bold text-white">
-                おすすめ・約39%おトク
+            <div className="relative overflow-hidden rounded-2xl border border-[#015440]/25 bg-gradient-to-b from-[#EFF5F1] to-white p-6 pt-8 text-center shadow-[0_16px_32px_-12px_rgba(1,84,64,0.28)]">
+              <span className="absolute -top-3 left-1/2 -translate-x-1/2 whitespace-nowrap rounded-full bg-[#015440] px-4 py-1.5 text-[11px] font-bold tracking-wide text-white shadow-sm">
+                おすすめ
               </span>
-              <p className="text-sm font-semibold text-[#6E6C63]">
+              <p className="text-sm font-semibold text-[#015440]">
                 年額プラン
               </p>
-              <p className="mt-2 text-[28px] font-bold text-[#16352A]">
-                ¥3,500
-                <span className="text-sm font-normal text-[#6E6C63]">
-                  /年
+              <p className="mt-3 flex items-baseline justify-center gap-2">
+                <span className="text-[15px] text-[#A7A499] line-through">
+                  ¥5,760
                 </span>
+                <span className="text-[32px] font-bold text-[#16352A]">
+                  ¥3,500
+                </span>
+                <span className="text-sm font-normal text-[#6E6C63]">/年</span>
               </p>
-              <p className="mt-1 text-xs text-[#6E6C63]">月あたり約¥292</p>
-              <p className="mt-3 inline-block rounded-full bg-[#FBEFE2] px-3 py-1 text-[11px] font-bold text-[#7A4A1E]">
+              <p className="mt-1 text-xs font-semibold text-[#015440]">
+                月あたり約¥292・39%おトク
+              </p>
+              <div className="mx-auto mt-4 h-px w-12 bg-[#015440]/15" />
+              <p className="mt-4 inline-block rounded-full bg-[#FBEFE2] px-3.5 py-1.5 text-[11px] font-bold text-[#7A4A1E]">
                 7日間無料トライアルつき
               </p>
             </div>
