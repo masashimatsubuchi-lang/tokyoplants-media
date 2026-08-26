@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/ficus-elastica"
   - "species/ficus-lyrata"
   - "guide/repotting-houseplants-complete-guide"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -119,7 +120,7 @@ baseProducts:
 - 赤玉土は硬質タイプを選ぶと粒が崩れにくく、排水性が長持ちする
 - 腐葉土は2割以下に抑え、有機質の過多を避ける
 - パーライトで排水性と軽量化を両立する
-- くん炭は根腐れ防止・pHの微調整（弱アルカリ性）・抗菌に役立つ
+- [くん炭](/soil/kunzan-for-houseplants)は根腐れ防止・pHの微調整（弱アルカリ性）・抗菌に役立つ
 
 [土の配合の基本を詳しく学ぶ](/soil/how-to-mix-soil-for-houseplants)
 

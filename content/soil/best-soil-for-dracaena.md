@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -123,7 +124,7 @@ baseProducts:
 - 赤玉土は硬質タイプを選ぶと崩れにくく排水性が長持ちする
 - 腐葉土は2割以下に抑える（有機質の過多はフッ素・虫の問題に繋がりやすい）
 - パーライトで排水性と通気性を底上げする
-- くん炭が弱酸性の維持と根腐れ防止を兼ねる
+- [くん炭](/soil/kunzan-for-houseplants)が弱酸性の維持と根腐れ防止を兼ねる
 
 ### 高湿度環境・プラスチック鉢の場合
 

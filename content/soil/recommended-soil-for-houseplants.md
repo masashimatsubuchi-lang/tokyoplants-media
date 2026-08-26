@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/commercial-soil-ingredients"
   - "soil/when-to-replace-soil"
   - "guide/home-compost-beginners-guide"
+  - "soil/protoleaf-vs-original-soil"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -63,7 +64,7 @@ baseProducts:
 
 ### 2. プロトリーフ「室内向け観葉・多肉の土」
 
-無機質主体で虫が湧きにくい点が最大の特徴。軽量で室内の持ち運びも楽です。ただし保水性がやや低いため、水やり頻度が増える傾向があります。乾燥に強い植物向き。
+無機質主体で虫が湧きにくい点が最大の特徴。軽量で室内の持ち運びも楽です。ただし保水性がやや低いため、水やり頻度が増える傾向があります。乾燥に強い植物向き。I'm original SOILとの詳しい違いは「[プロトリーフ vs SOIL｜観葉植物の土はどっち](/soil/protoleaf-vs-original-soil)」で比較しています。
 
 ### 3. 花ごころ「観葉植物の土」
 

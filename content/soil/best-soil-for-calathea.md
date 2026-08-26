@@ -10,6 +10,7 @@ relatedSlugs:
   - "species/genus-calathea"
   - "species/calathea-orbifolia"
   - "soil/recommended-soil-for-houseplants"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -98,7 +99,7 @@ tokyoplantsの**I'm original SOIL**は、ココチップ・日向石・発酵樹
 - 赤玉土は保水と通気のベースとして、全体の4割程度に抑える(排水性重視の植物より控えめ)
 - 腐葉土・バーク堆肥は保水性と微生物環境を確保する役割。カラテアにはやや多めに配合する
 - パーライトは通気性を高めるが、入れすぎると乾燥しやすくなるため2割程度が目安
-- くん炭は抗菌効果と微酸性の維持に役立つ
+- [くん炭](/soil/kunzan-for-houseplants)は抗菌効果と微酸性の維持に役立つ
 
 ### 乾燥しやすい環境(エアコン使用・暖房の効いた部屋)の場合
 

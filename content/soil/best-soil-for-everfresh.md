@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -122,7 +123,7 @@ baseProducts:
 - 赤玉土は硬質タイプを選ぶと崩れにくく、長期間通気性が維持される
 - 腐葉土3割で、エバーフレッシュの細根が必要とする適度な水分と有機栄養を確保
 - パーライト2割で余分な水分の滞留を防ぐ
-- くん炭1割で根腐れ防止と弱酸性維持に役立てる
+- [くん炭](/soil/kunzan-for-houseplants)1割で根腐れ防止と弱酸性維持に役立てる
 
 ### 湿度が高い環境・梅雨〜夏の場合
 

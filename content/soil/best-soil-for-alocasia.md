@@ -9,9 +9,11 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
+  - "soil/bellabon-for-houseplants"
   - "guide/alocasia-care-guide"
   - "guide/alocasia-root-rot-treatment"
   - "guide/repotting-houseplants-complete-guide"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -112,8 +114,8 @@ baseProducts:
 **ポイント：**
 - 赤玉土は硬質タイプを選ぶと粒が崩れにくく、排水性が長持ちする
 - パーライトを多めに入れて通気性を高め、根の酸素不足を防ぐ
-- ヤシガラ繊維（ベラボン等）は保水と通気のバランスが良く、根が絡みやすい
-- くん炭は根腐れ防止・pH調整・抗菌に役立つ
+- ヤシガラ繊維（[ベラボン](/soil/bellabon-for-houseplants)等）は保水と通気のバランスが良く、根が絡みやすい
+- [くん炭](/soil/kunzan-for-houseplants)は根腐れ防止・pH調整・抗菌に役立つ
 - 腐葉土は入れない（室内管理では虫・カビのリスクが高い）
 
 [土の配合の基本を詳しく学ぶ](/soil/repotting-soil-guide)

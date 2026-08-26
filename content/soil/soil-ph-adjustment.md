@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "soil/commercial-soil-ingredients"
   - "soil/peat-moss-for-houseplants"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -134,7 +135,7 @@ baseProducts:
 
 ### くん炭を混ぜる
 
-もみ殻くん炭はpH8〜10のアルカリ性素材です。土に1割程度混ぜ込むと、穏やかにpHを上げます。排水性の改善にもなるため、一石二鳥です。
+もみ殻くん炭はpH8〜10のアルカリ性素材です。土に1割程度混ぜ込むと、穏やかにpHを上げます。排水性の改善にもなるため、一石二鳥です。くん炭の効果・デメリット・使い方の詳細は[もみ殻くん炭とは｜効果・使い方・デメリット](/soil/kunzan-for-houseplants)で解説しています。
 
 ### 有機石灰（カキ殻石灰）を使う
 

@@ -11,6 +11,8 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "soil/improve-drainage-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
+  - "soil/protoleaf-vs-original-soil"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -198,6 +200,8 @@ amazonProducts:
 </a>
 </div>
 
+プロトリーフとtokyoplants『I'm original SOIL』の違いを比較した記事「[プロトリーフ vs SOIL｜観葉植物の土はどっち](/soil/protoleaf-vs-original-soil)」もあわせてご覧ください。
+
 ---
 
 ## 粒サイズの選び方
@@ -251,7 +255,7 @@ amazonProducts:
 
 ### 酸性化
 
-赤玉土は長期間使用すると pH が下がり（酸性化）、植物の生育に影響を与えることがあります。pH が低すぎると根が肥料を吸収しにくくなります。気になる場合は、植え替え時に新しい赤玉土に交換するか、くん炭（炭素素材）を少量加えて pH を調整する方法があります。
+赤玉土は長期間使用すると pH が下がり（酸性化）、植物の生育に影響を与えることがあります。pH が低すぎると根が肥料を吸収しにくくなります。気になる場合は、植え替え時に新しい赤玉土に交換するか、[くん炭](/soil/kunzan-for-houseplants)（炭素素材）を少量加えて pH を調整する方法があります。
 
 ### 単体使用は NG
 

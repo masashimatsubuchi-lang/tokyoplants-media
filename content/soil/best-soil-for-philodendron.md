@@ -9,8 +9,10 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
+  - "soil/bellabon-for-houseplants"
   - "guide/philodendron-for-beginners"
   - "guide/repotting-houseplants-complete-guide"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -118,9 +120,9 @@ baseProducts:
 
 **ポイント：**
 - 赤玉土は硬質タイプを選ぶと崩れにくく、排水性が長持ちする
-- ヤシガラ繊維（ベラボンなど）は保水性と通気性を同時に確保できる着生植物向けの素材
+- ヤシガラ繊維（[ベラボン](/soil/bellabon-for-houseplants)など）は保水性と通気性を同時に確保できる着生植物向けの素材
 - パーライトは排水性と通気性を大幅に向上させる。多めでも問題なし
-- くん炭で根腐れ防止と弱酸性を維持する
+- [くん炭](/soil/kunzan-for-houseplants)で根腐れ防止と弱酸性を維持する
 
 ### 這い性品種（グロリオサム系）の配合
 

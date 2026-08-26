@@ -8,6 +8,7 @@ tags: ["ポトス", "用土", "植え替え", "おすすめ", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
+  - "soil/kunzan-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "species/pothos-epipremnum-aureum"
@@ -83,7 +84,7 @@ baseProducts:
 - バーミキュライト 2
 - くん炭 1
 
-パーライトの割合を増やすと軽くなります。吊り鉢やハンギングで育てる場合は、軽量配合がおすすめです。
+パーライトの割合を増やすと軽くなります。吊り鉢やハンギングで育てる場合は、軽量配合がおすすめです。くん炭の効果・配合の目安は[もみ殻くん炭とは｜効果・使い方・デメリット](/soil/kunzan-for-houseplants)で詳しく解説しています。
 
 ---
 

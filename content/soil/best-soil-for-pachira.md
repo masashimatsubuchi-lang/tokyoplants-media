@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/pachira-yellow-leaves-falling"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -126,7 +127,7 @@ amazonProducts:
 **ポイント：**
 - 赤玉土は硬質タイプを選ぶと崩れにくく、排水性が長持ちする
 - 日向石は軽石の一種で、排水性と通気性を大幅に向上させる
-- くん炭は根腐れ防止と微酸性の維持に役立つ
+- [くん炭](/soil/kunzan-for-houseplants)は根腐れ防止と微酸性の維持に役立つ
 - 腐葉土は入れない、または1割以下に抑える
 
 ### 湿度が高い環境・プラスチック鉢の場合

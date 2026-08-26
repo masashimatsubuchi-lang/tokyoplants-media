@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "soil/improve-drainage-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
+  - "soil/protoleaf-vs-original-soil"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -96,6 +97,8 @@ amazonProducts:
 
 **メリット**: 軽量化率が高い・室内向けに清潔処理済み・使いやすいベーシックな配合
 **デメリット**: 大容量品は価格がやや高め・単体では肥料分がやや少ない
+
+プロトリーフとtokyoplants『I'm original SOIL』の配合思想の違いを詳しく知りたい方は「[プロトリーフ vs SOIL｜観葉植物の土はどっち](/soil/protoleaf-vs-original-soil)」も参考にしてください。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B07BG6W9S2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">

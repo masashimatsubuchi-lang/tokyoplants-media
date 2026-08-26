@@ -14,6 +14,7 @@ relatedSlugs:
   - "species/sansevieria"
   - "guide/sansevieria-care"
   - "guide/winter-watering-houseplants"
+  - "soil/kunzan-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -117,7 +118,7 @@ baseProducts:
 - 赤玉土は硬質タイプを選ぶと崩れにくく、排水性が長持ちする
 - 軽石（日向石など）は排水性と通気性を大幅に高める
 - パーライトは超軽量で水はけをさらに向上させる
-- くん炭は根腐れ防止と微酸性の維持に役立つ
+- [くん炭](/soil/kunzan-for-houseplants)は根腐れ防止と微酸性の維持に役立つ
 - 腐葉土は基本的に入れない
 
 ### 多肉植物の土をベースにするアレンジ
