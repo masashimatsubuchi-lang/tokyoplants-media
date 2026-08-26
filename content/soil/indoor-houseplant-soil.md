@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/bugs-in-houseplant-soil"
   - "soil/commercial-soil-ingredients"
+  - "soil/worm-castings-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -66,7 +67,7 @@ baseProducts:
 
 **パーライト：** 白い粒状の軽量素材。通気性と排水性を改善します。見た目も清潔。
 
-**ミミズ堆肥（完熟）：** 有機質の中では最も安定しており、虫が湧きにくい。少量でも微生物を活性化する効果があります。
+**[ミミズ堆肥](/soil/worm-castings-for-houseplants)（完熟）：** 有機質の中では最も安定しており、虫が湧きにくい。少量でも微生物を活性化する効果があります。
 
 ### 避けるべき素材
 

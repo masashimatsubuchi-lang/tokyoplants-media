@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/commercial-soil-ingredients"
   - "soil/when-to-replace-soil"
   - "guide/home-compost-beginners-guide"
+  - "soil/worm-castings-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -181,7 +182,7 @@ baseProducts:
 
 ## tokyoplantsおすすめ用土
 
-「配合に興味はあるけど、まずはプロの配合を試してみたい」という方には、tokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。ココチップ・日向石・発酵樹皮・ミミズ堆肥など6種の天然素材を独自配合。通気性と排水性を重視した、サトイモ科に最適な設計です。
+「配合に興味はあるけど、まずはプロの配合を試してみたい」という方には、tokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。ココチップ・日向石・発酵樹皮・[ミミズ堆肥](/soil/worm-castings-for-houseplants)など6種の天然素材を独自配合。通気性と排水性を重視した、サトイモ科に最適な設計です。
 
 自分で配合する際の「お手本」としても参考になります。
 

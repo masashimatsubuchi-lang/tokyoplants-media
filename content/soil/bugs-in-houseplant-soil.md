@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "soil/neko-chip-vs-original-soil"
   - "review/fungus-gnat-control-products-comparison"
+  - "soil/worm-castings-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -109,7 +110,7 @@ amazonProducts:
 
 ### 1. 有機質が完熟している
 
-有機質がゼロの土は虫が湧きにくい反面、長期的な土壌環境としては微生物が不足します。理想は「完熟した有機質を適量含む」土です。発酵が十分な堆肥や、ミミズ堆肥のように完全に分解された有機質なら、虫の餌にはなりにくい。
+有機質がゼロの土は虫が湧きにくい反面、長期的な土壌環境としては微生物が不足します。理想は「完熟した有機質を適量含む」土です。発酵が十分な堆肥や、[ミミズ堆肥](/soil/worm-castings-for-houseplants)のように完全に分解された有機質なら、虫の餌にはなりにくい。
 
 ### 2. 排水性が高い
 

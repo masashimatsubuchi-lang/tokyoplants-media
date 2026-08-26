@@ -10,6 +10,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/lightweight-soil-for-houseplants"
   - "soil/akadama-ratio-for-houseplants"
+  - "soil/worm-castings-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -45,7 +46,7 @@ baseProducts:
 
 ### I'm original SOIL（tokyoplants）とは
 
-tokyoplantsが観葉植物専門店としての栽培経験をもとに独自配合した用土です。ココチップ・日向石・発酵樹皮・ミミズ堆肥など**6種類の天然素材をブレンド**し、化学肥料・農薬不使用で仕上げています。特にモンステラ・アンスリウムなどサトイモ科の植物との相性を意識した配合になっているのが特徴です。EC直販のみの取り扱いで、価格は¥1,200〜。
+tokyoplantsが観葉植物専門店としての栽培経験をもとに独自配合した用土です。ココチップ・日向石・発酵樹皮・[ミミズ堆肥](/soil/worm-castings-for-houseplants)など**6種類の天然素材をブレンド**し、化学肥料・農薬不使用で仕上げています。特にモンステラ・アンスリウムなどサトイモ科の植物との相性を意識した配合になっているのが特徴です。EC直販のみの取り扱いで、価格は¥1,200〜。
 
 ---
 
