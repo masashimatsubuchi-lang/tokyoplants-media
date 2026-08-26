@@ -14,6 +14,7 @@ relatedSlugs:
   - "species/peperomia-caperata"
   - "soil/indoor-houseplant-soil"
   - "guide/bottom-watering-houseplants"
+  - "guide/cats-and-houseplants-safety"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

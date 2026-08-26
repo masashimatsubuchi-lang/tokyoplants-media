@@ -20,6 +20,7 @@ relatedSlugs:
   - "species/monstera-dubia"
   - "guide/monstera-repotting-guide"
   - "guide/monstera-hydroculture"
+  - "guide/cats-and-houseplants-safety"
 baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"

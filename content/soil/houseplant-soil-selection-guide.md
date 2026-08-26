@@ -8,6 +8,7 @@ tags: ["用土", "土", "選び方", "初心者", "ハイドロカルチャー",
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/houseplant-soil-hub-guide"
+  - "research/100yen-shop-rare-houseplants"
   - "soil/recommended-soil-for-houseplants"
   - "soil/hydroculture-medium-comparison"
   - "soil/perlite-vs-vermiculite"

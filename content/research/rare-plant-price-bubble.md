@@ -11,6 +11,7 @@ tags:
   - モンステラ
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "research/100yen-shop-rare-houseplants"
   - "research/history-of-houseplants"
   - "research/houseplant-trivia-10-facts"
   - "research/tokyo-rare-houseplant-specialty-shops"

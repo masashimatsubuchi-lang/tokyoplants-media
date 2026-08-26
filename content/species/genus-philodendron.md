@@ -22,6 +22,7 @@ relatedSlugs:
   - "guide/philodendron-repotting-guide"
   - "guide/philodendron-hydroculture"
   - "review/plant-label-maker-review"
+  - "guide/cats-and-houseplants-safety"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

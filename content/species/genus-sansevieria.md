@@ -8,6 +8,7 @@ tags: ["サンスベリア", "品種", "キジカクシ科", "耐陰性", "多�
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/sansevieria"
+  - "guide/cats-and-houseplants-safety"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"

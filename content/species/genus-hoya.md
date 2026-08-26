@@ -13,6 +13,7 @@ relatedSlugs:
   - "species/hoya-carnosa"
   - "species/hoya-kerrii"
   - "species/hoya-pubicalyx"
+  - "guide/cats-and-houseplants-safety"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
