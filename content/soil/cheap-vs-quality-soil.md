@@ -16,9 +16,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
 ---
 
 観葉植物の土は100均で110円から買えます。一方で、専門店の土は1,000円以上するものもあります。この価格差は何なのか。高い土を買う意味はあるのか。多くの人が一度は疑問に思うことです。

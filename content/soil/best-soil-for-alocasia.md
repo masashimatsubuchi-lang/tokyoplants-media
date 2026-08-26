@@ -16,9 +16,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
 ---
 
 「アロカシアを植え替えたら急に葉が落ちた」「土が乾く前に水をやってしまい根腐れした」——アロカシア栽培で最も多いトラブルは、根腐れと過湿です。

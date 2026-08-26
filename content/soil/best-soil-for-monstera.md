@@ -14,9 +14,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
 ---
 
 モンステラは丈夫で育てやすい植物ですが、土を間違えると根腐れで一気に弱ります。もし根腐れが起きてしまった場合の対処法は[根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)を参考にしてください。特に植え替え時の土選びは、その後の生育を大きく左右する重要な判断です。この記事では、モンステラの根の特性を踏まえた最適な土の条件と、具体的な配合レシピを解説します。
