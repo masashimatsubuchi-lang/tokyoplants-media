@@ -8,6 +8,7 @@ tags: ["アロカシア", "希少種", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "alocasia"
 relatedSlugs:
+  - "species/alocasia-nobillis"
   - "species/alocasia-longiloba"
   - "species/alocasia-amazonica"
   - "species/alocasia-silver-dragon"
@@ -78,6 +79,8 @@ baseProducts:
 ### コレクター市場での位置づけ
 
 矢じり形の葉に鋭い切れ込みが入るサンデリアーナの姿は、ジュエル・アロカシア系ほど極端な希少色彩ではないものの、造形の力強さでコレクターを惹きつけてきた。特に古くから観葉植物として親しまれてきた歴史があり、後述するアマゾニカ（*Alocasia* × *amazonica*）など人気の交配種のルーツにも数えられる、いわば「クラシックな名品種」としての位置づけを持つ。
+
+流通名「アロカシア・ノビリス（Nobilis）」も、このサンデリアーナの選抜品種（*Alocasia sanderiana* 'Nobilis'、旧称 *Alocasia sanderiana* var. *nobilis* André）であり、独立種ではない。新葉がコーラル〜ピンクに発色する選別株「Pink K」も同系統から選抜された個体だ。詳細は[アロカシア・ノビリスの図鑑記事](/species/alocasia-nobillis)で解説している。
 
 ---
 
