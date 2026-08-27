@@ -23,7 +23,7 @@ relatedSlugs:
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
@@ -192,7 +192,7 @@ LECAとは "Lightweight Expanded Clay Aggregate" の略で、粘土を高温で�
 
 ### tokyoplants が生み出した無機系ハイドロ培地
 
-HYDRO MINERALは、tokyoplants が開発した**ハイドロカルチャー専用の無機系培地**です。「富士山溶岩石75%＋島根県産ゼオライト25%」という独自配合に、植物の初期生育を支えるオスモコート（緩効性肥料）を配合しています。2L入りで¥1,200という価格も、継続して使いやすいコストパフォーマンスです。
+HYDRO MINERALは、tokyoplants が開発した**ハイドロカルチャー専用の無機系培地**です。「富士山溶岩石75%＋島根県産ゼオライト25%」という独自配合に、植物の初期生育を支えるオスモコート（緩効性肥料）を配合しています。2L入りで¥1,480という価格も、継続して使いやすいコストパフォーマンスです。
 
 ### 75%：25%という配合比率の根拠
 
@@ -232,7 +232,7 @@ HYDRO MINERALは特に以下の植物との相性が良いです。
 
 ### 価格と購入方法
 
-HYDRO MINERAL 2Lは、tokyoplants のECサイトにて**¥1,200**で購入できます。2Lあれば一般的な6〜8号鉢（直径18〜24cm）1〜2鉢分の培地として使えます。
+HYDRO MINERAL 2Lは、tokyoplants のECサイトにて**¥1,480**で購入できます。2Lあれば一般的な6〜8号鉢（直径18〜24cm）1〜2鉢分の培地として使えます。
 
 ---
 

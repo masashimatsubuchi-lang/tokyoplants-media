@@ -18,7 +18,7 @@ baseProducts:
     price: "¥8,000"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 # アロカシアの夏越し｜成長期の水やり・肥料・置き場所の管理方法

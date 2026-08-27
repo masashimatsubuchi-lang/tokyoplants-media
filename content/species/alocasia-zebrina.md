@@ -24,7 +24,7 @@ baseProducts:
     price: ""
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 # アロカシア・ゼブリナ｜シマウマ模様の茎が個性的な大型種の育て方図鑑

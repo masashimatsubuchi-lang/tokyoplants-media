@@ -31,7 +31,7 @@ baseProducts:
     price: '¥1,200〜'
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
-    price: '¥1,200'
+    price: '¥1,480'
 amazonProducts:
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"

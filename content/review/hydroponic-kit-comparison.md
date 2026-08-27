@@ -20,7 +20,7 @@ baseProducts:
     price: "¥1,200〜"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 amazonProducts:
   - title: "iDOO 水耕栽培キット 水耕栽培セット 室内 植物育成LEDライト付き"
     asin: "B08ZCN278C"

@@ -99,10 +99,10 @@ amazonProducts:
 <mark>迷ったらまず「培養土6：赤玉土4」から始めるのがおすすめです。</mark>その後、植物の反応（水はけ、乾き具合）を見ながら調整していきましょう。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07JTFNQ6N?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07JTFNQ6N.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B078ZX7DRN?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B078ZX7DRN.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">硬質赤玉土 小粒 14L</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">刀川平和農園 硬質赤玉土 小粒 14L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -191,8 +191,8 @@ amazonProducts:
 | 多肉植物 | 30% | 50% | 川砂20% |
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B002P8OQWI?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B002P8OQWI.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0044RQIRE?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0044RQIRE.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">プロトリーフ 観葉植物の土 14L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
@@ -231,10 +231,10 @@ amazonProducts:
 なお、赤玉土は**「硬質」タイプを選ぶとより長持ち**します。通常の赤玉土は水に繰り返し濡れると崩れやすいため、植え替えを頻繁にしない場合は硬質タイプがおすすめです。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0013EE98A?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0013EE98A.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B00GTC2COU?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00GTC2COU.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">赤玉土 中粒 14L（入門用）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">あかぎ園芸 赤玉土 中粒 14L（入門用）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

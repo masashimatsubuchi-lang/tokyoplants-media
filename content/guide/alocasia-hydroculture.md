@@ -23,7 +23,7 @@ relatedSlugs:
 baseProducts:
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
-    price: '¥1,200'
+    price: '¥1,480'
   - title: Daily Botanical Towel｜リーフタオル
     url: 'https://www.tokyoplants.com/items/135803882'
     price: '¥2,000'

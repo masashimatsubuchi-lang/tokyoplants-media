@@ -19,7 +19,7 @@ baseProducts:
     price: "¥1,200〜"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 # シンゴニウム・ポドフィルム｜矢じり形の葉と豊富な品種展開が魅力の定番観葉植物図鑑

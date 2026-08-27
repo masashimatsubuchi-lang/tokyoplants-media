@@ -20,7 +20,7 @@ baseProducts:
     price: "¥1,200〜"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 観葉植物として部屋に置かれているモンステラ・デリシオサは、せいぜい葉が30〜60cm程度。1mを超えたら「かなり大きい」と感じるはずです。

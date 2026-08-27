@@ -16,7 +16,7 @@ baseProducts:
     price: "¥1,200〜"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 春は植え替え需要が急増する時期ですが、準備不足で失敗するケースも増えます。この記事は、3〜4月に植え替えを始める前提で、実施可否を判断するチェックリストを提供します。

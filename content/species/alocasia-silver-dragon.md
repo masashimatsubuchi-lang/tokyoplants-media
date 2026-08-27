@@ -26,7 +26,7 @@ baseProducts:
     price: "お問い合わせ"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 # アロカシア・シルバードラゴン｜銀の鱗模様が美しい小型種の育て方図鑑

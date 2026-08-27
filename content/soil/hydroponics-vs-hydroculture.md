@@ -15,7 +15,7 @@ relatedSlugs:
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 # 水耕栽培とハイドロカルチャーの違い｜観葉植物に向いているのはどっち？

@@ -25,7 +25,7 @@ baseProducts:
     price: "お問い合わせ"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 # アロカシア・メロ｜ゴツゴツした革質の葉が個性的な希少種の育て方図鑑

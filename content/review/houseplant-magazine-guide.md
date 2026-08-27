@@ -43,7 +43,7 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/4141993379?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/4141993379.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">パーフェクト版 観葉植物と暮らす</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">NHK趣味の園芸 観葉植物 パーフェクトブック</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -117,7 +117,7 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/4528024233?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/4528024233.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">やさしい観葉植物図鑑</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">決定版 よくわかる観葉植物</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 

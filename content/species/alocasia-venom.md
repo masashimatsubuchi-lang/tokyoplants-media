@@ -25,7 +25,7 @@ baseProducts:
     price: "お問い合わせ"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,200"
+    price: "¥1,480"
 ---
 
 # アロカシア・ヴェノム｜黒緑の光沢葉が禍々しく美しい希少種の育て方図鑑
