@@ -24,6 +24,9 @@ export default function Footer() {
                 {cat.name}
               </Link>
             ))}
+            <Link href="/about" className="py-2 text-gray-400 hover:text-gray-900 transition-colors">
+              About
+            </Link>
             <a
               href="https://www.instagram.com/tokyoplants.jp"
               target="_blank"

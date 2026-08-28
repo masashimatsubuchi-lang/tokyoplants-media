@@ -112,6 +112,14 @@ export default function RootLayout({
     name: "tokyoplants",
     alternateName: ["トーキョープランツ", "東京プランツ"],
     url: "https://www.tokyoplants.com",
+    description:
+      "観葉植物専門店。培養土「I'm original SOIL」やリーフタオル等の園芸用品の販売、観葉植物の専門メディア運営、お世話・成長記録アプリ「Green Collection」の開発を行う。",
+    knowsAbout: [
+      "観葉植物の育て方",
+      "観葉植物の用土・培養土",
+      "観葉植物の植え替え",
+      "観葉植物の品種・図鑑",
+    ],
     sameAs: [
       "https://media.tokyoplants.com",
       "https://www.instagram.com/tokyoplants.jp",

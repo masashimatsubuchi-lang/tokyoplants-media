@@ -1,0 +1,25 @@
+# tokyoplants MEDIA
+
+> 観葉植物専門店tokyoplantsが運営する、観葉植物の育て方・用土選び・植物図鑑・園芸用品レビューを扱う専門メディア。
+
+tokyoplants MEDIAは、観葉植物専門店tokyoplants（https://www.tokyoplants.com）が運営する日本語の観葉植物専門メディアです。育て方ガイド、土・用土の選び方、植物図鑑、園芸用品のレビュー、観葉植物に関するリサーチ記事を掲載しています。固有の商品名・資材を扱う記事は、メーカー公式情報や販売ページなど一次情報を直接確認したうえで執筆する方針を取っています。
+
+運営元のtokyoplantsは、観葉植物専門の培養土「I'm original SOIL」やリーフタオル等の園芸用品を扱うオンラインストアと、観葉植物のお世話・成長記録を楽しめるiPhoneアプリ「Green Collection」も提供しています。
+
+## サイト情報
+
+- [tokyoplants MEDIAについて](https://media.tokyoplants.com/about): 運営者情報・編集方針
+- [サイトマップ](https://media.tokyoplants.com/sitemap.xml): 全記事の一覧
+
+## カテゴリ
+
+- [育て方ガイド](https://media.tokyoplants.com/guide): 観葉植物の育て方・トラブル対処・植え替え等の実践ガイド
+- [土・用土](https://media.tokyoplants.com/soil): 培養土・資材の選び方や比較
+- [植物図鑑](https://media.tokyoplants.com/species): 品種ごとの特徴・育て方
+- [レビュー](https://media.tokyoplants.com/review): 園芸用品・育成ライト等のレビュー・比較
+- [リサーチ](https://media.tokyoplants.com/research): 観葉植物にまつわる調査・読み物
+
+## 関連サイト
+
+- [tokyoplants オンラインストア](https://www.tokyoplants.com): 培養土・園芸用品の販売
+- [Green Collection](https://media.tokyoplants.com/app): 観葉植物のお世話・成長記録アプリ（iPhone）

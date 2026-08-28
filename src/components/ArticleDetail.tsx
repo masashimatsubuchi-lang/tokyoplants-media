@@ -3,6 +3,8 @@ import { getCategoryBySlug } from "@/lib/categories";
 import ArticleJsonLd from "./ArticleJsonLd";
 import FaqJsonLd from "./FaqJsonLd";
 import { extractFaqs } from "@/lib/faq";
+import HowToJsonLd from "./HowToJsonLd";
+import { extractHowTo } from "@/lib/howto";
 import RelatedPosts from "./RelatedPosts";
 import ArticleCard from "./ArticleCard";
 import BaseProductBlock from "./BaseProductBlock";
@@ -62,6 +64,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
   const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
   const faqs = extractFaqs(post.contentHtml);
+  const howTo = extractHowTo(post.contentHtml);
   const hasAmazonProducts = !post.hideAmazonBlock && post.amazonProducts && post.amazonProducts.length > 0;
   const hasBaseProducts = post.baseProducts && post.baseProducts.length > 0;
   const showInlineBanner = ["soil", "guide", "species", "research", "review"].includes(post.category) && hasInlineProduct(post.baseProducts);
@@ -75,6 +78,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
     <>
       <ArticleJsonLd post={post} />
       <FaqJsonLd faqs={faqs} />
+      <HowToJsonLd howTo={howTo} />
 
       {/* Hero Image */}
       {post.image && (
