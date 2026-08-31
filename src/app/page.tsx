@@ -6,8 +6,19 @@ import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
 import AllArticlesList from "@/components/AllArticlesList";
 
+/** 現在の月から季節を判定する（3-5月=春, 6-8月=夏, 9-11月=秋, 12-2月=冬）。
+ * トップページの「季節の作業」カードが常に今の季節の記事を指すようにするため。 */
+function getCurrentSeasonKeyword(): string {
+  const month = new Date().getMonth() + 1;
+  if (month >= 3 && month <= 5) return "春";
+  if (month >= 6 && month <= 8) return "夏";
+  if (month >= 9 && month <= 11) return "秋";
+  return "冬";
+}
+
 export default function Home() {
   const allPosts = getAllPosts();
+  const seasonKeyword = getCurrentSeasonKeyword();
   const featuredTags = [
     "観葉植物", "モンステラ", "アロカシア", "アンスリウム", "フィロデンドロン",
     "ビカクシダ", "育て方", "植え替え", "用土", "根腐れ",
@@ -90,7 +101,7 @@ export default function Home() {
               { title: "初心者向け", desc: "最初の1鉢で失敗しにくい記事", href: "/guide" },
               { title: "症状から探す", desc: "黄化・害虫・根腐れの対処", href: "/search?q=%E5%8E%9F%E5%9B%A0" },
               { title: "植物別で探す", desc: "モンステラやアンスリウムの図鑑", href: "/species" },
-              { title: "季節の作業", desc: "植え替え・水やりの時期別ガイド", href: "/search?q=%E5%86%AC" },
+              { title: "季節の作業", desc: `今は${seasonKeyword}。植え替え・水やりの時期別ガイド`, href: `/search?q=${encodeURIComponent(seasonKeyword)}` },
             ].map((item) => (
               <Link
                 key={item.title}
