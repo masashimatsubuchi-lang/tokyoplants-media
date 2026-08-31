@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1623325943583-d658515e0889?w=1200&q=80"
+image: "https://plus.unsplash.com/premium_photo-1756053418984-6dc7fb2f2903?w=1200&q=80"
 title: "モンステラ・イエローマリリン｜Monstera 'Yellow Marilyn' 図鑑"
 description: "モンステラ・イエローマリリン（Monstera 'Yellow Marilyn'）の特徴・育て方を解説。鮮やかなイエロー〜ゴールドの斑が特徴のモンステラ希少カルチバーの図鑑ページです。"
 date: "2026-06-09"

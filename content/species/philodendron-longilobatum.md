@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1689150421131-140385516944?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1780024397662-d7731f2801b0?w=1200&q=80"
 title: "フィロデンドロン・ロンギロバタム ミント斑入り｜Philodendron longilobatum 図鑑"
 description: "フィロデンドロン・ロンギロバタム ミント斑入り（Philodendron longilobatum mint variegated）の特徴・育て方を解説。細長い葉と爽やかなミント色の斑が特徴の希少フィロデンドロンです。"
 date: "2026-06-09"
@@ -42,7 +42,7 @@ baseProducts:
 | 学名 | *Philodendron longilobatum* 'Mint Variegated' |
 | 科名 | サトイモ科（Araceae） |
 | 属名 | フィロデンドロン属（*Philodendron*） |
-| 原産地 | 中南米（熱帯雨林） |
+| 原産地 | ブラジル（大西洋岸熱帯雨林、エスピリトサント州） |
 | 成長型 | 蔓性・着生（登攀性クライミングタイプ） |
 | 草丈の目安 | 室内栽培で葉長30〜70cm以上（支柱誘引時） |
 | 難易度 | ★★★★☆（上級・斑+成熟管理） |

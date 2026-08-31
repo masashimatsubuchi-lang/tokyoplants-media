@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1600958004829-16421f144fd0?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1762710963074-3f7a88ccd538?w=1200&q=80"
 title: "ベゴニア・ソリムタータ｜Begonia soli-mutata 図鑑"
 description: "ベゴニア・ソリムタータ（Begonia soli-mutata）の特徴・育て方を解説。光の当たり方で葉色が変化するフォトクロミック現象が特徴の希少ベゴニアの図鑑ページです。"
 date: "2026-06-09"

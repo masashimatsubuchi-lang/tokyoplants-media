@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1565357253913-b69f52242bab?w=1200&q=80"
 title: "フィロデンドロンの植え替え｜根腐れさせない土と手順"
 description: "フィロデンドロンの植え替え方法を解説。根腐れしやすいフィロデンドロンに適した土の選び方、最適な時期、手順、HYDRO MINERALを使った無機培地での植え替えまで詳しく説明します。"
 date: "2026-06-05"

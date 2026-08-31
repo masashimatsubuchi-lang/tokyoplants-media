@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1623325943583-d658515e0889?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1754722871568-262bca46bbf3?w=1200&q=80"
 title: "モンステラ・エレクトロライト｜Monstera 'Electro Light' 図鑑"
 description: "モンステラ・エレクトロライト（Monstera 'Electro Light'）の特徴・育て方を解説。明るいライムグリーン〜ゴールドの発色が鮮烈な希少モンステラカルチバーの図鑑ページです。"
 date: "2026-06-09"

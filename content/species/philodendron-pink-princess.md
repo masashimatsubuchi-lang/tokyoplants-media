@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1598880940080-ff9a29891b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1724587815173-ae46b8786c2e?w=1200&q=80"
 title: "フィロデンドロン・ピンクプリンセス｜斑入り品種の育て方と斑を保つコツ"
 description: "フィロデンドロン・ピンクプリンセス（Pink Princess）の基本情報、ピンク斑の出し方・消えてしまう原因、光管理、育て方のポイントを図鑑形式で詳しく解説します。"
 date: "2026-06-09"

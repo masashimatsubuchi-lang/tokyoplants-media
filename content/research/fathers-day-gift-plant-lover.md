@@ -1,5 +1,5 @@
 ---
-image: "/images/products/leather-botanical-monstera-stand.jpg"
+image: "https://images.unsplash.com/photo-1702066054572-08bfd519f1d2?w=1200&q=80"
 title: "父の日プレゼント 植物好きへ｜Daily Botanical Towelほか予算別ギフト5選"
 description: "父の日に植物好きなお父さんへ贈るプレゼントを厳選。¥2,000のリーフタオルから¥18,000のレザーボタニカルまで、本当に喜ばれるギフトを予算別に紹介します。"
 date: "2026-06-03"

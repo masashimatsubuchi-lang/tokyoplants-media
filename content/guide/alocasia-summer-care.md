@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1595313082034-91e3c9ba273e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1720151569463-2deede93c00f?w=1200&q=80"
 title: "アロカシアの夏越し｜成長期の水やり・肥料・置き場所の管理方法"
 description: "夏はアロカシアの最大成長期。ホーリーグレイルなどジュエルアロカシアの夏の水やり頻度・肥料タイミング・直射日光への対処・高温障害を防ぐ置き場所を解説します。"
 date: "2026-06-03"
