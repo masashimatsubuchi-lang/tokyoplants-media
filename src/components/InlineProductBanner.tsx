@@ -17,7 +17,7 @@ const PRODUCT_META: Record<ProductType, ProductMeta> = {
   towel: {
     heading: "tokyoplants のおすすめギフト",
     label: "Daily Botanical Towel｜リーフタオル",
-    note: "ボタニカルデザインの今治タオル仕様。植物好きへのギフトに。",
+    note: "ボタニカルデザインのマイクロファイバー素材。吸水性・速乾性に優れ、植物好きへのギフトに。",
     img: "/images/products/botanical-towel-main.jpg",
   },
   holygrail: {
