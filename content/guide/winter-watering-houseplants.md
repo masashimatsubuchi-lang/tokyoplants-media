@@ -8,6 +8,7 @@ tags: ["冬", "水やり", "根腐れ", "冬の管理"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
+  - "guide/autumn-watering-frequency"
   - "soil/when-to-replace-soil"
   - "soil/mold-on-houseplant-soil"
 baseProducts:

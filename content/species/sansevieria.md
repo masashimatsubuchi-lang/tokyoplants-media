@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/sansevieria-care"
   - "soil/improve-drainage-for-houseplants"
+  - "research/halloween-houseplant-decor"
 baseProducts:
   - title: "サンスベリアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

@@ -15,6 +15,7 @@ appCta: "梅雨は水やりの間隔を空ける時期。通知の間隔も季�
 relatedSlugs:
   - guide/rainy-season-houseplant-care
   - guide/root-rot-causes-and-recovery
+  - guide/autumn-watering-frequency
   - soil/recommended-soil-for-houseplants
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』

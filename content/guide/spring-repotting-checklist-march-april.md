@@ -9,6 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/best-time-to-repot-houseplants"
   - "guide/repotting-houseplants-complete-guide"
+  - "guide/autumn-repotting-guide"
   - "soil/houseplant-soil-hub-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
@@ -85,6 +86,8 @@ baseProducts:
 - 養生環境を先に作る
 
 ---
+
+秋にも植え替えのチャンスがあります。9〜10月に植え替えを検討している方は「[秋の植え替えガイド｜適期と冬越し前の注意点](/guide/autumn-repotting-guide)」もあわせてご覧ください。
 
 → 関連商品リンク: [観葉植物用土カテゴリ（tokyoplants EC）](https://www.tokyoplants.com/categories/6291374)
 

@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "guide/houseplant-care-during-travel"
   - "guide/alocasia-summer-care"
+  - "guide/autumn-watering-frequency"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"

@@ -9,6 +9,7 @@ author: "tokyoplants 編集部"
 appCta: "植え替えた日を残しておくと、次に迷ったときの判断が早くなります。"
 relatedSlugs:
   - "guide/best-time-to-repot-houseplants"
+  - "guide/autumn-repotting-guide"
   - "guide/choosing-pot-size-for-repotting"
   - "soil/repotting-soil-guide"
   - "guide/how-to-trim-roots-when-repotting"
@@ -407,6 +408,7 @@ A. 避けた方が無難です。開花にエネルギーを使っている状�
 植え替えは観葉植物にとって「引っ越し」のようなもの。適切な時期に、適切な環境を整えてあげれば、植物はそれに応えてくれます。この春、植え替えに挑戦してみてください。
 
 → 春の準備は「[春の植え替え前チェックリスト](/guide/spring-repotting-checklist-march-april)」で確認
+→ 秋に植え替える場合は「[秋の植え替えガイド｜適期と冬越し前の注意点](/guide/autumn-repotting-guide)」で確認
 
 ## 関連記事
 
@@ -416,6 +418,7 @@ A. 避けた方が無難です。開花にエネルギーを使っている状�
 - [植え替え時期はいつ？月別カレンダー](/guide/best-time-to-repot-houseplants)
 - [冬の植え替えはNG？緊急時の判断基準](/guide/winter-emergency-repotting-guide)
 - [春の植え替え前チェックリスト](/guide/spring-repotting-checklist-march-april)
+- [秋の植え替えガイド｜適期と冬越し前の注意点](/guide/autumn-repotting-guide)
 - [買ったらすぐ植え替える？判断基準](/guide/repotting-after-purchase)
 
 **手順・テクニック:**
