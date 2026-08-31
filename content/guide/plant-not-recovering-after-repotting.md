@@ -20,9 +20,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,480"
 ---
 
 植え替えたのに、元気になるどころかしおれてきた——。葉が黄色くなる、ぽろぽろ落ちる、まったく回復する気配がない。そんな症状が出ると「失敗したのでは？」と焦りますよね。

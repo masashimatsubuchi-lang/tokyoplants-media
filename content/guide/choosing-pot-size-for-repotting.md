@@ -15,9 +15,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,480"
 ---
 
 「一回り大きい鉢に植え替える」と言われても、一回りとはどのくらいなのか。素材は何がいいのか。底穴はいくつ必要なのか——鉢選びには意外と多くの判断ポイントがあります。

@@ -27,9 +27,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,480"
 ---
 
 # 観葉植物の肥料｜N・P・Kの役割から与え方・肥料焼け対策まで徹底解説

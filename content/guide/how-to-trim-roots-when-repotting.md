@@ -15,9 +15,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,480"
 ---
 
 「根を切ったら枯れてしまうのでは？」——植え替えで鉢から抜いたとき、根がぎっしり絡まっているのを見てそう感じる方は多いはずです。怖くてそのまま植え直したり、逆に切りすぎて弱らせてしまうケースも少なくありません。

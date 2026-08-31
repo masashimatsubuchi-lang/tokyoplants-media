@@ -15,9 +15,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,480"
 ---
 
 「植え替えは春がいい」と聞くけれど、具体的に何月がベストなのか。今の時期にやっても大丈夫なのか。植え替えの時期を間違えると、植物に大きなストレスを与え、最悪の場合枯れてしまいます。
