@@ -14,16 +14,18 @@ export default function Home() {
     "水やり", "ハイドロカルチャー", "育成ライト", "害虫対策", "斑入り",
     "希少植物", "初心者", "夏の管理", "冬の管理", "完全ガイド",
   ];
+  // 直近28日間のGA4実績（PV上位）に基づく選出。2026-08-31更新。
+  // 定期的に実データで見直すこと（メモリ: project_ga4.md参照）。
   const editorsPickDefs = [
-    { category: "review", slug: "daily-botanical-towel-review" },
+    { category: "soil", slug: "neko-chip-vs-original-soil" },
     { category: "review", slug: "plant-light-review" },
-    { category: "soil", slug: "houseplant-soil-hub-guide" },
-    { category: "soil", slug: "hydroculture-complete-guide" },
-    { category: "guide", slug: "monstera-care" },
-    { category: "guide", slug: "root-rot-causes-and-recovery" },
-    { category: "guide", slug: "repotting-houseplants-complete-guide" },
-    { category: "guide", slug: "alocasia-care-guide" },
-    { category: "guide", slug: "anthurium-care-for-beginners" },
+    { category: "guide", slug: "hydroculture-to-soil-transition" },
+    { category: "guide", slug: "platycerium-grow-light-guide" },
+    { category: "species", slug: "alocasia-silver-dragon" },
+    { category: "guide", slug: "no-drainage-hole-pot-guide" },
+    { category: "soil", slug: "best-soil-for-pachira" },
+    { category: "guide", slug: "anthurium-warocqueanum-care-guide" },
+    { category: "guide", slug: "monstera-hydroculture" },
   ];
   const editorsPick = editorsPickDefs
     .map((def) => allPosts.find((p) => p.category === def.category && p.slug === def.slug))
