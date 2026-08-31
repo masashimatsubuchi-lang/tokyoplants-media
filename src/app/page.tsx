@@ -93,6 +93,39 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Featured Article — EC送客率の高いタオルレビュー記事を常時表示 */}
+      <section className="py-10 md:py-14 bg-white">
+        <div className="mx-auto max-w-5xl px-4">
+          <Link
+            href="/review/daily-botanical-towel-review"
+            className="group flex flex-col overflow-hidden rounded-2xl border border-gray-200 transition-all hover:-translate-y-0.5 hover:border-teal-400 hover:shadow-md sm:flex-row"
+          >
+            <div className="relative h-48 w-full shrink-0 overflow-hidden sm:h-auto sm:w-72">
+              <Image
+                src="/images/products/daily-botanical-towel-review-header.jpg"
+                alt="Daily Botanical Towel レビュー"
+                fill
+                className="object-cover transition-transform duration-500 group-hover:scale-105"
+              />
+            </div>
+            <div className="flex flex-1 flex-col justify-center gap-2 px-6 py-6 md:px-8">
+              <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
+                Featured Article
+              </p>
+              <h2 className="text-lg font-bold tracking-tight text-gray-900 md:text-xl">
+                観葉植物モチーフのタオルで暮らしにグリーンを｜Daily Botanical Towel レビュー
+              </h2>
+              <p className="text-[13px] leading-relaxed text-gray-500">
+                希少植物のリーフデザイン全7種、マイクロファイバー素材の使い心地、ギフトとしての魅力を実際に使ってレビュー。
+              </p>
+              <span className="mt-1 inline-flex w-fit items-center gap-1 text-[13px] font-semibold text-teal-700 group-hover:text-teal-800">
+                記事を読む →
+              </span>
+            </div>
+          </Link>
+        </div>
+      </section>
+
       {/* Intent Navigation */}
       <section className="bg-gradient-to-r from-emerald-50/70 via-white to-emerald-50/40 py-10 md:py-16">
         <div className="mx-auto max-w-5xl px-4">
