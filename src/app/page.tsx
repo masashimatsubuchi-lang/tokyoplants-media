@@ -5,6 +5,7 @@ import { getAllPosts, getPostsByCategory, getAllTags, getPostsByTag } from "@/li
 import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
 import AllArticlesList from "@/components/AllArticlesList";
+import CategoryTabs from "@/components/CategoryTabs";
 
 /** 現在の月から季節を判定する（3-5月=春, 6-8月=夏, 9-11月=秋, 12-2月=冬）。
  * トップページの「季節の作業」カードが常に今の季節の記事を指すようにするため。 */
@@ -47,11 +48,12 @@ export default function Home() {
     .sort((a, b) => b.count - a.count)
     .slice(0, 20);
 
-  const soilPosts = getPostsByCategory("soil").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
-  const guidePosts = getPostsByCategory("guide").filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
-  const speciesPosts = getPostsByCategory("species").slice(0, 8);
-  const researchPosts = getPostsByCategory("research").slice(0, 8);
-  const reviewPosts = getPostsByCategory("review").slice(0, 8);
+  const categoryTabs = (["soil", "guide", "species", "research", "review"] as const).map((slug) => {
+    const category = categories.find((c) => c.slug === slug)!;
+    const allInCategory = getPostsByCategory(slug);
+    const posts = allInCategory.filter((p) => !editorsPickSlugs.has(p.slug)).slice(0, 8);
+    return { ...category, posts, totalCount: allInCategory.length };
+  });
 
   return (
     <>
@@ -171,169 +173,20 @@ export default function Home() {
         </section>
       )}
 
-      {/* Soil 特集 */}
+      {/* カテゴリ別記事（タブ切り替え） */}
       <section className="py-12 md:py-24 bg-gray-50/80">
         <div className="mx-auto max-w-5xl px-4">
-          <div className="flex items-end justify-between">
-            <div>
-              <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
-                Featured
-              </p>
-              <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
-                土・用土
-              </h2>
-              <p className="mt-2 text-sm leading-relaxed text-gray-400">
-                観葉植物の土選び・配合・市販土の比較など
-              </p>
-            </div>
-            <Link
-              href="/soil"
-              className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
-            >
-              すべて見る &rarr;
-            </Link>
+          <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
+            Browse by Category
+          </p>
+          <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
+            カテゴリから探す
+          </h2>
+          <div className="mt-8">
+            <CategoryTabs tabs={categoryTabs} />
           </div>
-          {soilPosts.length === 0 ? (
-            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
-          ) : (
-            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
-              {soilPosts.map((post) => (
-                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
-                  <ArticleCard post={post} />
-                </div>
-              ))}
-            </div>
-          )}
         </div>
       </section>
-
-      {/* Guide */}
-      <section className="bg-white py-12 md:py-24">
-        <div className="mx-auto max-w-5xl px-4">
-          <div className="flex items-end justify-between">
-            <div>
-              <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
-                育て方ガイド
-              </h2>
-              <p className="mt-2 text-sm leading-relaxed text-gray-400">
-                初心者から中級者まで、育て方の基本とコツ
-              </p>
-            </div>
-            <Link
-              href="/guide"
-              className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
-            >
-              すべて見る &rarr;
-            </Link>
-          </div>
-          {guidePosts.length === 0 ? (
-            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
-          ) : (
-            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
-              {guidePosts.map((post) => (
-                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
-                  <ArticleCard post={post} />
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-      </section>
-
-      {/* Species */}
-      <section className="py-12 md:py-24 bg-gray-50/80">
-        <div className="mx-auto max-w-5xl px-4">
-          <div className="flex items-end justify-between">
-            <div>
-              <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
-                植物図鑑
-              </h2>
-              <p className="mt-2 text-sm leading-relaxed text-gray-400">
-                観葉植物の種類と特徴を詳しく紹介
-              </p>
-            </div>
-            <Link
-              href="/species"
-              className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
-            >
-              すべて見る &rarr;
-            </Link>
-          </div>
-          {speciesPosts.length === 0 ? (
-            <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
-          ) : (
-            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
-              {speciesPosts.map((post) => (
-                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
-                  <ArticleCard post={post} />
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-      </section>
-
-      {/* Research */}
-      {researchPosts.length > 0 && (
-        <section className="bg-white py-12 md:py-24">
-          <div className="mx-auto max-w-5xl px-4">
-            <div className="flex items-end justify-between">
-              <div>
-                <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
-                  リサーチ・コラム
-                </h2>
-                <p className="mt-2 text-sm leading-relaxed text-gray-400">
-                  植物科学・インテリア・ライフスタイル
-                </p>
-              </div>
-              <Link
-                href="/research"
-                className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
-              >
-                すべて見る &rarr;
-              </Link>
-            </div>
-            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
-              {researchPosts.map((post) => (
-                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
-                  <ArticleCard post={post} />
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Review */}
-      {reviewPosts.length > 0 && (
-        <section className="bg-gray-50/80 py-12 md:py-24">
-          <div className="mx-auto max-w-5xl px-4">
-            <div className="flex items-end justify-between">
-              <div>
-                <h2 className="text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
-                  レビュー
-                </h2>
-                <p className="mt-2 text-sm leading-relaxed text-gray-400">
-                  実際に使ったアイテムのレビュー
-                </p>
-              </div>
-              <Link
-                href="/review"
-                className="hidden sm:block text-[13px] font-medium text-gray-400 hover:text-gray-900 transition-colors"
-              >
-                すべて見る &rarr;
-              </Link>
-            </div>
-            <div className="mt-10 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory -mx-4 px-4 md:mx-0 md:px-0">
-              {reviewPosts.map((post) => (
-                <div key={`${post.category}-${post.slug}`} className="w-[280px] md:w-[300px] shrink-0 snap-start">
-                  <ArticleCard post={post} />
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
 
       {/* All Articles */}
       <section className="border-t border-gray-100 py-12 md:py-24 bg-white">
