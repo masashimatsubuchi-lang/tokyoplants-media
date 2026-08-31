@@ -27,6 +27,7 @@ tools: Read, Grep, Glob, Edit, Bash
 - 図鑑（species）記事 → 植物カテゴリページ（モンステラ関連は `https://www.tokyoplants.com/categories/6382102`、該当なしは `https://www.tokyoplants.com/categories/6382090`）
 - 土・ガイド記事 → ソイル商品 `https://www.tokyoplants.com/items/99620939`
 - タオル（`https://www.tokyoplants.com/items/135803882`）はモンステラ・アンスリウム・アロカシア関連記事のみに掲載されているか
+- ⚠️ `baseProducts` にSOILとHYDRO MINERAL（`https://www.tokyoplants.com/items/142692278`）が両方載っている場合、記事本文がハイドロ/無機培地を独立した見出し・段落レベルで主要な解決策として扱っているか確認する。アロカシア専用記事・水耕栽培/ハイドロカルチャーが主題の記事以外で、選択肢の一つとして一文触れているだけならHYDRO MINERALをbaseProductsから外しSOILのみ残す（`InlineProductBanner`はHYDRO側を自動的に優先表示するため、無関係な記事に残すと結論直下のPICK UPバナーが誤った商品を出す）
 
 ### 5. Amazon商品選定基準（該当記事のみ）
 - 評価★3.2以上、レビュー10件以上、Prime対象、在庫ありか

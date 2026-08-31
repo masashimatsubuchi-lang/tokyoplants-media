@@ -57,8 +57,8 @@ baseProducts:
   - モンステラ関連 → `https://www.tokyoplants.com/categories/6382102`
   - ECに該当カテゴリがない植物 → All plants `https://www.tokyoplants.com/categories/6382090`
 - 土・ガイド記事 → ソイル商品 `https://www.tokyoplants.com/items/99620939`（I'm original SOIL, ¥1,200〜）
-- ハイドロ・底面給水関連記事 → HYDRO MINERAL 2L `https://www.tokyoplants.com/items/142692278`（¥1,200）も検討
 - タオル掲載対象 → モンステラ・アンスリウム・アロカシア関連記事のみ `https://www.tokyoplants.com/items/135803882`（¥2,000）
+- ⚠️ HYDRO MINERAL 2L `https://www.tokyoplants.com/items/142692278`（¥1,480）は、**アロカシア専用記事、または水耕栽培・ハイドロカルチャーへの切り替え/比較が記事の主題である場合のみ** baseProductsに追加する。「植え替え」「水やり」「エアコン対策」等の一般記事でハイドロを選択肢の一つとして触れる程度なら追加しない。SOILとHYDRO MINERALを両方載せると`InlineProductBanner`（結論直下のPICK UPバナー）が自動的にHYDRO側を優先表示してしまうため、無関係な一般記事に載せると誤った商品訴求になる（詳細: [feedback_soil_vs_hydro_product_priority.md](/Users/masashimatsubuchi/.claude/projects/-Users-masashimatsubuchi-my-first-project/memory/feedback_soil_vs_hydro_product_priority.md)）
 
 ## Amazonアフィリエイト商品を記事内で紹介する場合の選定基準
 1. 評価★3.2以上、レビュー10件以上、Prime対象、在庫あり

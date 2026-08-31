@@ -17,9 +17,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
-    url: "https://www.tokyoplants.com/items/142692278"
-    price: "¥1,480"
 ---
 
 「植え替えのタイミングを逃した」「夏は暑すぎて手をつけられなかった」——そんな方にとって、秋は今年最後の植え替えチャンスです。ただし春と同じ感覚で進めると、休眠期に入る前に根が回復しきらず、冬に調子を崩す原因になります。
