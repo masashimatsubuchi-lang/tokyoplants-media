@@ -59,7 +59,7 @@ baseProducts:
 | 素材 | マイクロファイバー（ポリエステル100%） |
 | サイズ | 約30cm × 20cm |
 | 価格 | ¥2,000（税込） |
-| デザイン | 全7種（モンステラ・アンスリウムなど） |
+| デザイン | 全10種（モンステラ・アンスリウムなど） |
 
 **ギフトとして選ばれる理由：**
 
@@ -71,7 +71,7 @@ baseProducts:
 
 複数枚をセットで贈るのもおすすめ。受け取った側が「このデザインは何の植物か」と調べたくなり、植物への興味が深まるきっかけにもなります。
 
-→ [Daily Botanical Towel 全7種を見る](https://www.tokyoplants.com/items/135803882)
+→ [Daily Botanical Towel 全10種を見る](https://www.tokyoplants.com/items/135803882)
 
 > 🎀 **ギフトラッピング対応** ── 購入時にラッピングオプションを選択するだけで、そのまま贈れる状態でお届けします。大切な方へのプレゼントにもそのままご利用いただけます。
 
@@ -110,7 +110,7 @@ Daily Botanical Towelとオリジナル用土『 I'm original SOIL 』を組み�
 
 ### ¥18,000〜｜Leather Botanical Collection
 
-台湾のレザーアーティスト SISHI CRAFT と tokyoplants のコラボ作品。植物タンニン鞣しのイタリアンレザーで一点一点手作業で仕立てた「革でできた植物」。水やり不要で永く飾れる特別な一点ものです。
+台湾のレザーアーティスト SISHICRAFT と tokyoplants のコラボ作品。植物タンニン鞣しのイタリアンレザーで一点一点手作業で仕立てた「革でできた植物」。水やり不要で永く飾れる特別な一点ものです。
 
 → [Leather Botanical Collection を見る](https://www.tokyoplants.com/categories/7318231)
 
@@ -134,4 +134,4 @@ Daily Botanical Towelとオリジナル用土『 I'm original SOIL 』を組み�
 
 迷ったら、まずは Daily Botanical Towel から。¥2,000という贈りやすい価格で、相手の好きな植物のデザインを選ぶだけで「ちゃんとわかってくれてる」と感じてもらえます。
 
-→ [Daily Botanical Towel 全7種を見る](https://www.tokyoplants.com/items/135803882)
+→ [Daily Botanical Towel 全10種を見る](https://www.tokyoplants.com/items/135803882)

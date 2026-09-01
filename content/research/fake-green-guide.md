@@ -21,16 +21,16 @@ amazonProducts:
     price: ""
   - title: "フェイクグリーン アイビー ガーランド 防水 鉄線付き"
     asin: "B09WY958YL"
-    price: "¥1,000〜2,000前後"
-  - title: "イミテーショングリーン アローカシア 光触媒加工"
-    asin: "B0075HPZSS"
-    price: "¥3,000前後"
+    price: "¥950〜2,000前後"
+  - title: "不二貿易 フェイクグリーン アロカシア 卓上セラミックポット"
+    asin: "B0BTGSZBGQ"
+    price: "¥2,961"
   - title: "Alupssuc フェイクグリーン 大型光触媒 高さ120cm"
     asin: "B0D4DGW4BQ"
     price: "¥4,999"
   - title: "Keeplush モンステラ 高さ120cm フェイクグリーン"
     asin: "B0F2Z2J1VQ"
-    price: "¥8,999"
+    price: "¥7,999"
 ---
 
 「水やりが面倒」「直射日光が入らない部屋」「旅行で長期不在になる」——そんな理由で本物の観葉植物を諦めている方に、フェイクグリーンは現実的な選択肢です。しかし一口にフェイクグリーンといっても、数百円の安価な造花から数万円の高品質品まで品質の幅が非常に広く、選び方を間違えると「いかにも作り物」という印象になりかねません。
@@ -160,19 +160,19 @@ Amazonベストセラー常連の実績ブランド Alupssuc によるパキラ�
 
 ---
 
-### 3. イミテーショングリーン アローカシア（光触媒）
+### 3. 不二貿易 フェイクグリーン アロカシア（卓上セラミックポット）
 
-アロカシア（里芋科）の特徴的なハート型の大葉を再現したポット型フェイクグリーン。光触媒加工付き。セラミック鉢との組み合わせでインテリアとの馴染みが良い。アロカシアは本物を育てるには湿度管理が難しい植物の一つ。フェイクで飾ることで、本物の育て方を楽しみながら視覚的にも楽しむというハイブリッドな使い方もできます。
+アロカシア（里芋科）の特徴的なハート型の大葉を再現した卓上サイズのポット型フェイクグリーン。インテリア雑貨の老舗ブランド・不二貿易の製品で、セラミック鉢との組み合わせでインテリアとの馴染みが良い。アロカシアは本物を育てるには湿度管理が難しい植物の一つ。フェイクで飾ることで、本物の育て方を楽しみながら視覚的にも楽しむというハイブリッドな使い方もできます。
 
-- **サイズ**: 約Φ19×H28cm
-- **鉢**: セラミック
-- **光触媒**: あり
+- **ブランド**: 不二貿易
+- **鉢**: セラミックポット
+- **サイズ感**: ミニ・卓上サイズ
 - **用途**: 卓上・デスク・棚
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0075HPZSS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0075HPZSS.01._SL160_.jpg" alt="イミテーショングリーン アローカシア" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">イミテーショングリーン アローカシア 光触媒加工</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0BTGSZBGQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0BTGSZBGQ.01._SL160_.jpg" alt="不二貿易 フェイクグリーン アロカシア 卓上セラミックポット" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div style="flex:1"><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">不二貿易 フェイクグリーン アロカシア 卓上セラミックポット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 

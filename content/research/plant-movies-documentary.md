@@ -11,12 +11,12 @@ relatedSlugs:
   - "guide/monstera-care"
   - "soil/recommended-soil-for-houseplants"
 amazonProducts:
-  - title: "ビッグ・リトル・ファーム 理想の暮らしのつくり方（字幕版）"
-    asin: "B08TB6YJW3"
+  - title: "ビッグ・リトル・ファーム 理想の暮らしのつくり方（Blu-ray）"
+    asin: "B082VBSKB2"
   - title: "ジェレミー・クラークソン 農家になる Season1"
     asin: "B09649Y5C1"
-  - title: "フード・インク（字幕版）"
-    asin: "B07SG7PDN9"
+  - title: "フード・インク（DVD）"
+    asin: "B07X4HYVQS"
 ---
 
 # 植物好きが見るべき映画・ドキュメンタリー5選｜日本語字幕・配信で観られる作品
@@ -42,10 +42,10 @@ amazonProducts:
 **こんな人におすすめ**: 自然に生きることへの憧れがある人 / 土づくりや有機栽培に興味がある人 / 感動系ドキュメンタリーが好きな人
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B08TB6YJW3?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B08TB6YJW3.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B082VBSKB2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B082VBSKB2.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ビッグ・リトル・ファーム 理想の暮らしのつくり方（字幕版）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ビッグ・リトル・ファーム 理想の暮らしのつくり方（Blu-ray）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -118,10 +118,10 @@ Amazon Prime Videoで無料配信中（Prime会員）。2008年の作品なが�
 **こんな人におすすめ**: 食や農業の裏側を知りたい人 / 社会問題をドキュメンタリーで学びたい人 / 植物と食のつながりを考えたい人
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07SG7PDN9?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07SG7PDN9.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B07X4HYVQS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B07X4HYVQS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">フード・インク（字幕版）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">フード・インク（DVD）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

@@ -50,7 +50,7 @@ relatedSlugs:
 
 **こんな人に向く：** 実物を見比べて選びたい人・インテリア目線で植物を選びたい人
 
-[garage TOKYO（公式サイト） →](https://www.garage.co.jp)
+[garage TOKYO（公式サイト） →](https://garage-garden.com)
 
 ---
 
@@ -65,7 +65,7 @@ relatedSlugs:
 
 **こんな人に向く：** まず実物を見て判断したい人・渋谷周辺で探している人
 
-[garage SHIBUYA（公式サイト） →](https://www.garage.co.jp)
+[garage SHIBUYA（公式サイト） →](https://garage-garden.com)
 
 ---
 
@@ -80,7 +80,7 @@ relatedSlugs:
 
 **こんな人に向く：** ビカクシダを深く集めたい人・系統差まで見て選びたい人
 
-[vandaka plants →](https://www.vandaka.jp)
+[vandaka plants →](https://www.vandaka-plants.com)
 
 ---
 
