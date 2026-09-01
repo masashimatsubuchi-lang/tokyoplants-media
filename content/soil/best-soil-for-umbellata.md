@@ -12,6 +12,9 @@ relatedSlugs:
   - "species/ficus-umbellata"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/kunzan-for-houseplants"
+  - "soil/houseplant-soil-hub-guide"
+  - "soil/best-soil-for-alocasia"
+  - "soil/best-soil-for-everfresh"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

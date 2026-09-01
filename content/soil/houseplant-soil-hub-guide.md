@@ -27,6 +27,11 @@ relatedSlugs:
   - soil/white-particles-in-soil
   - soil/reusing-houseplant-soil
   - soil/neko-chip-vs-original-soil
+  - soil/best-soil-for-alocasia
+  - soil/best-soil-for-pachira
+  - soil/best-soil-for-umbellata
+  - soil/best-soil-for-everfresh
+  - soil/best-soil-for-monstera
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL 』
     url: 'https://www.tokyoplants.com/items/99620939'
