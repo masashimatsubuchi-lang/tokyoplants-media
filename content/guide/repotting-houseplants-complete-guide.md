@@ -26,7 +26,7 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "ITANSE スリット鉢（ブラック）"
+  - title: "ITANSE スリット鉢 6・7・8号 各1個 計3個セット（ブラック）"
     asin: "B08CXX4B4X"
     note: "排水性・通気性に優れたスリット入り。植え替え先の鉢として定番"
   - title: "鉢底ネット 丸型 20枚入り"
@@ -181,7 +181,7 @@ amazonProducts:
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B08CXX4B4X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B08CXX4B4X.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">スリット鉢（黒・5個セット）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ITANSEスリット鉢（黒・6/7/8号 計3個セット）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 

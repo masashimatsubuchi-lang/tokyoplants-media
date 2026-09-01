@@ -25,7 +25,7 @@ amazonProducts:
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     price: "¥800前後"
-  - title: "住友化学園芸 GFベンレート水和剤 0.5g×10包"
+  - title: "KINCHO園芸（旧:住友化学園芸） GFベンレート水和剤 0.5g×10包"
     asin: "B0027WRLLK"
     price: "¥650前後"
 ---

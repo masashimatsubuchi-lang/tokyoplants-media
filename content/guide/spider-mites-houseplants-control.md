@@ -12,10 +12,10 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "soil/indoor-houseplant-soil"
 amazonProducts:
-  - title: "住友化学園芸 オルトランDX粒剤 200g｜浸透移行性殺虫剤"
+  - title: "KINCHO園芸（旧:住友化学園芸） オルトランDX粒剤 200g｜浸透移行性殺虫剤"
     asin: "B004MK7RW8"
     price: "¥891前後"
-  - title: "住友化学園芸 ベニカXファインスプレー 420ml"
+  - title: "KINCHO園芸（旧:住友化学園芸） ベニカXファインスプレー 420ml"
     asin: "B003ULEF52"
 ---
 

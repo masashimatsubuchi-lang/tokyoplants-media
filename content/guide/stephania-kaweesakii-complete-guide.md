@@ -52,13 +52,13 @@ tokyoplants では国内流通量の少ないステファニアを随時取り�
 
 ステファニア・カウィーサキ（*Stephania kaweesakii*）は、ツヅラフジ科（Menispermaceae）ステファニア属に属する多年生つる性の塊根植物です。原産地はタイ北部・中部の石灰岩地帯。険しい石灰岩の崖や岩の間に自生し、乾季に地上部を枯らして塊根で生き延びるという戦略をとっています。この過酷な環境への適応が、あの印象的な丸い塊根を生み出しました。
 
-種の記載は2014年と比較的新しく、植物学的にもまだ研究途上の部分が多い種です。英名では「Shield Vine」とも呼ばれ、盾のような丸みを帯びた葉の形状に由来しています。種小名の「kaweesakii」は、タイの植物学者・Keerati Kaweesakさんに捧げられたものです。
+種の記載は2020年（Jenjittikul & Ruchisansakun）と比較的新しく、植物学的にもまだ研究途上の部分が多い種です。英名では「Shield Vine」とも呼ばれ、盾のような丸みを帯びた葉の形状に由来しています。種小名の「kaweesakii」は、タイプ標本の採集に貢献したタイの植物収集家・Kaweesak Keeratikiatさんに捧げられたものです。
 
 ### 基本情報テーブル
 
 | 項目 | 内容 |
 |------|------|
-| 学名 | *Stephania kaweesakii* Thwaites |
+| 学名 | *Stephania kaweesakii* Jenjitt. & Ruchis. |
 | 科名 | ツヅラフジ科（Menispermaceae） |
 | 属名 | ステファニア属（*Stephania*） |
 | 原産地 | タイ北部〜中部（石灰岩地帯） |
