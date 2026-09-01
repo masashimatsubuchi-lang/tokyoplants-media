@@ -18,7 +18,7 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "住友化学園芸 オルトランDX粒剤 200g"
+  - title: "KINCHO園芸 オルトランDX粒剤 200g"
     asin: "B004MK7RW8"
     note: "土に混ぜるだけで浸透移行性。アブラムシ・カイガラムシ・コナジラミに"
     price: "¥560〜"

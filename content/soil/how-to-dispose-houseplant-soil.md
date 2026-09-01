@@ -18,11 +18,11 @@ baseProducts:
 amazonProducts:
   - title: "刀川平和農園 硬質赤玉土 小粒 14L"
     asin: "B078ZX7DRN"
-  - title: "土のリサイクル材 花ごころ ふかふか"
-    asin: "B00BEOMJJ0"
+  - title: "自然応用科学 まくだけで甦る 土のリサイクル材 5L"
+    asin: "B0085PU9MG"
     price: "¥600前後"
-  - title: "ゴミ袋 45L 半透明（土処分に）"
-    asin: "B07HB8YTXC"
+  - title: "by Amazon ごみ袋 半透明 とって付き シャカシャカタイプ 45L 100枚"
+    asin: "B089TGWXZS"
     price: "¥500前後"
 ---
 
@@ -110,10 +110,10 @@ amazonProducts:
 濡れた土は非常に重く、ゴミ袋が破れる原因になります。処分前に日当たりのよい場所でシートの上に広げ、1〜2日乾燥させてから袋に入れましょう。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07HB8YTXC?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07HB8YTXC.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B089TGWXZS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B089TGWXZS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ゴミ袋 45L 半透明（土処分に）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">by Amazon ごみ袋 半透明 とって付き シャカシャカタイプ 45L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -175,10 +175,10 @@ amazonProducts:
 市販の「土のリサイクル材」を使うと、手軽に古い土を再生できます。腐植酸・ミネラル・有用菌などが含まれており、古い土に混ぜるだけで通気性・排水性・保肥力を回復させられます。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B00BEOMJJ0?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00BEOMJJ0.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0085PU9MG?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0085PU9MG.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">土のリサイクル材 花ごころ ふかふか</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">自然応用科学 まくだけで甦る 土のリサイクル材 5L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

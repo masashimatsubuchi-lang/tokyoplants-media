@@ -185,6 +185,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物用土カテゴリ（tokyoplants EC）](https://www.tokyoplants.com/categories/6291374)
+→ 関連商品リンク: [観葉植物用土カテゴリ（tokyoplants EC）](https://www.tokyoplants.com/categories/6820321)
 
 → 関連カテゴリリンク: [観葉植物の土・用土カテゴリ一覧](https://media.tokyoplants.com/soil)
