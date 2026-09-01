@@ -72,7 +72,7 @@ baseProducts:
 
 **こんな人におすすめ：** ジュエルアロカシア入門として始めたい人。コンパクトで管理しやすいものを探している人。
 
-**Holy GreilとBlack Velvetの違い：** Black Velvetはマット質感でシャープな印象、Holy Grailは光沢感とシャドウ効果で重厚感がある。Holy Grailのほうが希少性が高くやや高価。
+**Holy GrailとBlack Velvetの違い：** Black Velvetはマット質感でシャープな印象、Holy Grailは光沢感とシャドウ効果で重厚感がある。Holy Grailのほうが希少性が高くやや高価。
 
 ---
 

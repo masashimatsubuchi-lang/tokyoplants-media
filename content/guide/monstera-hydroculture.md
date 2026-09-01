@@ -26,7 +26,7 @@ amazonProducts:
     price: "¥700前後"
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
-    price: "¥1,000前後"
+    price: "¥2,500前後"
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
     price: "¥2,599前後"

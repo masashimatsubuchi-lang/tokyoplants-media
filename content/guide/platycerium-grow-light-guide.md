@@ -134,7 +134,7 @@ PPFD が不足している可能性があります。ワット数が低い製品
 
 ビカクシダ管理で定評のある構成：
 
-- **小型〜中型株**：BARREL AMATERAS LED 20W（PPFD高・演色性Ra97）
+- **小型〜中型株**：BARREL NEO AMATERAS LED 20W（PPFD高・演色性Ra97）
 - **ラック複数枚管理**：パネル型ライト（BRIM PANEL など）+ タイマーコンセント
 
 具体的なスペック比較・価格は **[植物育成ライト おすすめ5選レビュー](/review/plant-light-review)** を参照してください。AMATERASのPPFD実測値の読み解き方や距離別の使用感、Amazonレビューの詳しい分析は **[NEO AMATERAS LEDレビュー｜PPFD実測と使用感を徹底解説](/review/neo-amateras-review)** で単体深掘りしています。

@@ -14,7 +14,7 @@ relatedSlugs:
   - "research/houseplant-fertilizer-guide"
   - "review/houseplant-fertilizer-products-comparison"
 amazonProducts:
-  - title: "マグァンプK 中粒 250g"
+  - title: "マグァンプK 中粒 200g"
     asin: "B0026R71OS"
     note: "緩効性元肥の定番・約1年効果持続。植え替え時に土へ混ぜ込むだけ"
   - title: "リキダス 800ml"
