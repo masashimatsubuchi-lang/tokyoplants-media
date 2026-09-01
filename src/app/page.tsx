@@ -6,7 +6,6 @@ import { categories } from "@/lib/categories";
 import ArticleCard from "@/components/ArticleCard";
 import AllArticlesList from "@/components/AllArticlesList";
 import CategoryTabs from "@/components/CategoryTabs";
-import PlantLeafIcon from "@/components/PlantLeafIcon";
 
 /** 現在の月から季節を判定する（3-5月=春, 6-8月=夏, 9-11月=秋, 12-2月=冬）。
  * トップページの「季節の作業」カードが常に今の季節の記事を指すようにするため。 */
@@ -284,30 +283,27 @@ export default function Home() {
               {/* Right: Category grid */}
               <div className="grid grid-cols-3 gap-2.5">
                 {[
-                  { name: "Monstera", ja: "モンステラ", path: "/categories/6382102", icon: "monstera" as const },
-                  { name: "Philodendron", ja: "フィロデンドロン", path: "/categories/6382100", icon: "philodendron" as const },
-                  { name: "Anthurium", ja: "アンスリウム", path: "/categories/6382097", icon: "anthurium" as const },
-                  { name: "Alocasia", ja: "アロカシア", path: "/categories/6382096", icon: "alocasia" as const },
-                  { name: "Aglaonema", ja: "アグラオネマ", path: "/categories/6382098", icon: "aglaonema" as const },
-                  { name: "Begonia", ja: "ベゴニア", path: "/categories/7114659", icon: "begonia" as const },
+                  { name: "Monstera", path: "/categories/6382102", image: "monstera" },
+                  { name: "Philodendron", path: "/categories/6382100", image: "philodendron" },
+                  { name: "Anthurium", path: "/categories/6382097", image: "anthurium" },
+                  { name: "Alocasia", path: "/categories/6382096", image: "alocasia" },
+                  { name: "Aglaonema", path: "/categories/6382098", image: "aglaonema" },
+                  { name: "Begonia", path: "/categories/7114659", image: "begonia" },
                 ].map((cat) => (
                   <a
                     key={cat.name}
                     href={`https://www.tokyoplants.com${cat.path}`}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="group overflow-hidden rounded-2xl bg-[#f4f1e8] transition-transform hover:-translate-y-0.5"
+                    className="group overflow-hidden rounded-2xl transition-transform hover:-translate-y-0.5"
                   >
-                    <div className="flex aspect-square items-center justify-center overflow-hidden bg-gradient-to-br from-[#f4f1e8] to-[#e4e9df] p-3">
-                      <PlantLeafIcon
-                        kind={cat.icon}
-                        className="h-full w-full drop-shadow-sm transition-transform duration-300 group-hover:scale-105"
-                      />
-                    </div>
-                    <div className="px-2 py-2 text-center">
-                      <p className="text-[11px] font-semibold text-teal-900">{cat.name}</p>
-                      <p className="mt-0.5 text-[10px] text-teal-700/80">{cat.ja}</p>
-                    </div>
+                    <Image
+                      src={`/images/categories/${cat.image}.png`}
+                      alt={cat.name}
+                      width={420}
+                      height={520}
+                      className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+                    />
                   </a>
                 ))}
               </div>
