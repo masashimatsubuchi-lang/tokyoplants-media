@@ -8,6 +8,7 @@ tags: ["フィロデンドロン", "斑入り"]
 author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:
+  - "guide/philodendron-birkin-care"
   - "species/philodendron-gloriosum"
   - "species/genus-philodendron"
   - "guide/philodendron-for-beginners"
@@ -75,7 +76,7 @@ baseProducts:
 
 バーキンとロホコンゴは同じ株から分かれた関係にあるため、斑のないバーキンの葉とロホコンゴの葉は非常によく似る。判別には、株全体で斑入りの葉がどの程度混在しているかを確認するのが確実だ。
 
-[フィロデンドロン属の図鑑ページはこちら](/species/genus-philodendron)
+[フィロデンドロン属の図鑑ページはこちら](/species/genus-philodendron)　|　[バーキンの詳しい育て方・斑が消える対策はこちら](/guide/philodendron-birkin-care)
 
 ---
 
