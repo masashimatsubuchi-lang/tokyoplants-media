@@ -183,7 +183,7 @@ export default function Home() {
 
       {/* Editors Pick */}
       {editorsPick.length > 0 && (
-        <section className="py-12 md:py-24 bg-white">
+        <section className="py-10 md:py-16 bg-white">
           <div className="mx-auto max-w-5xl px-4">
             <div className="flex items-end justify-between">
               <div>
@@ -207,7 +207,7 @@ export default function Home() {
       )}
 
       {/* カテゴリ別記事（タブ切り替え） */}
-      <section className="py-12 md:py-24 bg-gray-50/80">
+      <section className="py-10 md:py-16 bg-gray-50/80">
         <div className="mx-auto max-w-5xl px-4">
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">
             Browse by Category
@@ -222,7 +222,7 @@ export default function Home() {
       </section>
 
       {/* All Articles */}
-      <section className="border-t border-gray-100 py-12 md:py-24 bg-white">
+      <section className="border-t border-gray-100 py-10 md:py-16 bg-white">
         <div className="mx-auto max-w-5xl px-4">
           <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">All Articles</p>
           <h2 className="mt-2 text-2xl md:text-3xl font-bold tracking-tight text-gray-900">
@@ -234,7 +234,7 @@ export default function Home() {
       </section>
 
       {/* EC Banner */}
-      <section className="py-12 md:py-24">
+      <section className="py-10 md:py-16">
         <div className="mx-auto max-w-5xl px-4">
           <div className="rounded-2xl bg-teal-800 overflow-hidden">
             <div className="px-8 py-14 md:px-16 md:py-16 grid md:grid-cols-2 gap-10 items-center">

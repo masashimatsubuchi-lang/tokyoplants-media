@@ -5,8 +5,8 @@ import { categories } from "@/lib/categories";
 export default function Header() {
   return (
     <header className="border-b border-gray-100 bg-white">
-      <div className="mx-auto max-w-5xl px-4 py-5 flex items-center justify-between">
-        <Link href="/" className="text-lg font-extrabold tracking-tight text-emerald-800">
+      <div className="mx-auto max-w-5xl px-4 py-5 flex items-center gap-8">
+        <Link href="/" className="shrink-0 text-lg font-extrabold tracking-tight text-emerald-800">
           tokyoplants
         </Link>
         <nav className="hidden md:flex items-center gap-8 text-[13px]">
@@ -40,7 +40,7 @@ export default function Header() {
             SHOP
           </a>
         </nav>
-        <form action="/search" method="get" className="hidden md:flex items-center gap-2">
+        <form action="/search" method="get" className="hidden md:flex items-center gap-2 ml-auto">
           <input
             type="search"
             name="q"
@@ -54,7 +54,7 @@ export default function Header() {
             検索
           </button>
         </form>
-        <div className="md:hidden flex items-center gap-2">
+        <div className="md:hidden flex items-center gap-2 ml-auto">
           <a
             href="https://www.instagram.com/tokyoplants.jp"
             target="_blank"
