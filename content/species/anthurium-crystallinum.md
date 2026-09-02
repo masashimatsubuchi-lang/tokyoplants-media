@@ -11,6 +11,7 @@ relatedSlugs:
   - "species/genus-anthurium"
   - "species/anthurium-clarinervium"
   - "guide/anthurium-crystallinum-care-guide"
+  - "guide/anthurium-grow-light-guide"
   - "guide/root-rot-causes-and-recovery"
   - "species/anthurium-magnificum"
   - "species/anthurium-forgetii"

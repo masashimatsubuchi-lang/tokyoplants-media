@@ -9,6 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-bound-signs-and-solutions"
   - "guide/zamioculcas-care-guide"
+  - "guide/plant-not-recovering-after-repotting"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

@@ -13,6 +13,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"
   - "guide/platycerium-grow-light-guide"
+  - "guide/anthurium-grow-light-guide"
   - "research/light-intensity-by-window-direction"
   - "research/grow-light-distance-and-growth-response"
 baseProducts:

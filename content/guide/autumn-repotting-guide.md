@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/best-time-to-repot-houseplants"
   - "guide/winter-emergency-repotting-guide"
+  - "guide/plant-not-recovering-after-repotting"
   - "soil/repotting-soil-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
@@ -75,7 +76,7 @@ baseProducts:
 | 気温が下がり始めたら | 水やり頻度を段階的に減らす | 休眠に向けて根の吸水量が落ちる |
 | 最低気温15℃を下回る前 | 置き場所を室内の窓辺などへ移動 | 植え替え直後の株は特に寒さに弱い |
 
-植え替え直後の株は根がまだ不安定なため、通常の株より寒さの影響を受けやすい状態です。**気温の低下と植え替え後の回復期間が重ならないよう、逆算してスケジュールを組む**のが秋の植え替え成功のコツです。
+植え替え直後の株は根がまだ不安定なため、通常の株より寒さの影響を受けやすい状態です。**気温の低下と植え替え後の回復期間が重ならないよう、逆算してスケジュールを組む**のが秋の植え替え成功のコツです。植え替え後にしおれる・元気がないといった症状が出た場合は、「[植え替え後にしおれる・元気がない原因と復活方法](/guide/plant-not-recovering-after-repotting)」で正常な範囲か緊急対応が必要かを確認してください。
 
 → 冬の管理全般は「[冬の植え替え緊急時の判断基準](/guide/winter-emergency-repotting-guide)」も参考にしてください
 
@@ -118,6 +119,7 @@ baseProducts:
 - [植え替え時期はいつ？月別カレンダー](/guide/best-time-to-repot-houseplants)
 - [冬の植え替えはNG？緊急時の判断基準](/guide/winter-emergency-repotting-guide)
 - [大きくしない植え替え方法](/guide/repotting-without-upsizing)
+- [植え替え後にしおれる・元気がない原因と復活方法](/guide/plant-not-recovering-after-repotting)
 
 ---
 

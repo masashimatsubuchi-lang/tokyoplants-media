@@ -12,6 +12,7 @@ relatedSlugs:
   - "review/brim-grow-light-comparison"
   - "research/houseplant-grow-light-guide"
   - "guide/platycerium-grow-light-guide"
+  - "guide/anthurium-grow-light-guide"
   - "guide/monstera-care"
   - "guide/alocasia-care-guide"
   - "review/circulator-for-houseplants-review"

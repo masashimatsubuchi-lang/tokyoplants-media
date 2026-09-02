@@ -18,6 +18,7 @@ relatedSlugs:
   - guide/anthurium-crystallinum-care-guide
   - species/velvet-anthurium-types-comparison
   - guide/anthurium-care-for-beginners
+  - guide/anthurium-grow-light-guide
   - guide/root-rot-causes-and-recovery
 baseProducts:
   - title: Anthurium Regale｜アンスリウム・レガレ

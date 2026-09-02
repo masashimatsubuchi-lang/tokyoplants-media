@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
+  - "guide/plant-not-recovering-after-repotting"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

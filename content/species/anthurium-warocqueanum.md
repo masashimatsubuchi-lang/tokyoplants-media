@@ -17,6 +17,7 @@ relatedSlugs:
   - "species/anthurium-veitchii"
   - "species/anthurium-carlablackiae"
   - "guide/anthurium-care-for-beginners"
+  - "guide/anthurium-grow-light-guide"
   - "guide/anthurium-regale-vs-warocqueanum"
   - "guide/anthurium-summer-rainy-season-care"
 baseProducts:

@@ -17,7 +17,11 @@ relatedSlugs:
   - "research/houseplant-grow-light-guide"
   - "species/anthurium-warocqueanum"
   - "species/anthurium-regale"
+  - "species/anthurium-crystallinum"
   - "species/velvet-anthurium-types-comparison"
+  - "guide/anthurium-warocqueanum-care-guide"
+  - "guide/anthurium-regale-care-guide"
+  - "guide/anthurium-crystallinum-care-guide"
 baseProducts:
   - title: "Anthurium Warocqueanum"
     url: "https://www.tokyoplants.com/categories/6382097"

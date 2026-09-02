@@ -13,6 +13,7 @@ relatedSlugs:
   - "guide/anthurium-warocqueanum-humidity-setup"
   - "guide/anthurium-crystallinum-care-guide"
   - "guide/anthurium-care-for-beginners"
+  - "guide/anthurium-grow-light-guide"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "Anthurium Warocqueanum｜アンスリウム・ワロクアーナム"

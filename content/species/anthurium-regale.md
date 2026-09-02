@@ -17,6 +17,7 @@ relatedSlugs:
   - "species/velvet-anthurium-types-comparison"
   - "guide/anthurium-regale-care-guide"
   - "guide/anthurium-regale-vs-warocqueanum"
+  - "guide/anthurium-grow-light-guide"
   - "guide/root-rot-causes-and-recovery"
   - "species/anthurium-veitchii"
   - "species/anthurium-magnificum"

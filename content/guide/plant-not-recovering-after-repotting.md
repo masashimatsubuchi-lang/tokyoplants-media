@@ -16,6 +16,9 @@ relatedSlugs:
   - "guide/choosing-pot-size-for-repotting"
   - "guide/repotting-without-upsizing"
   - "guide/monstera-repotting-guide"
+  - "guide/autumn-repotting-guide"
+  - "guide/alocasia-repotting-guide"
+  - "guide/philodendron-repotting-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

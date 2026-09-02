@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "guide/root-rot-causes-and-recovery"
   - "guide/alocasia-hydroculture"
+  - "guide/plant-not-recovering-after-repotting"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"

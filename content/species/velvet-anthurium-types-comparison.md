@@ -18,6 +18,7 @@ relatedSlugs:
   - "species/anthurium-clarinervium"
   - "species/anthurium-crystallinum"
   - "species/anthurium-magnificum"
+  - "guide/anthurium-grow-light-guide"
   - "species/genus-anthurium"
   - "guide/anthurium-warocqueanum-care-guide"
   - "guide/anthurium-care-for-beginners"
