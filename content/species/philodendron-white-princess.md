@@ -9,6 +9,7 @@ author: "tokyoplants 編集部"
 genus: "philodendron"
 relatedSlugs:
   - "species/philodendron-pink-princess"
+  - "species/philodendron-white-knight"
   - "species/genus-philodendron"
   - "species/philodendron-melanochrysum"
   - "species/philodendron-micans"
