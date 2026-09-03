@@ -19,10 +19,10 @@ baseProducts:
 amazonProducts:
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
-    price: "¥500前後"
+    price: "¥1,593前後"
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
-    price: "¥800前後"
+    price: "¥2,448"
   - title: "住友化学園芸 オルトランDX粒剤 200g"
     asin: "B004MK7RW8"
     price: "¥891前後"
