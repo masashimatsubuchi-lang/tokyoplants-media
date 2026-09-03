@@ -62,12 +62,12 @@ function detectType(product: BaseProduct): ProductType | null {
   return null;
 }
 
-/** バナーに表示する商品を優先順で1件選ぶ（植物 > 土 > ハイドロ） */
+/** バナーに表示する商品を1件選ぶ。baseProductsの配列順（記事執筆時に意図した主役の並び）を尊重し、
+ * 認識可能なタイプの中で最初に出てきたものを表示する。 */
 function pickPrimary(products: BaseProduct[]): { product: BaseProduct; type: ProductType; meta: ProductMeta } | null {
-  const priority: ProductType[] = ["towel", "holygrail", "warocqueanum", "regale", "hydro", "soil"];
-  for (const ptype of priority) {
-    const found = products.find((p) => detectType(p) === ptype);
-    if (found) return { product: found, type: ptype, meta: PRODUCT_META[ptype] };
+  for (const product of products) {
+    const type = detectType(product);
+    if (type) return { product, type, meta: PRODUCT_META[type] };
   }
   return null;
 }
