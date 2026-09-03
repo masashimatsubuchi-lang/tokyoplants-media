@@ -23,7 +23,7 @@ baseProducts:
 amazonProducts:
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"
-    price: "¥700前後"
+    price: "¥1,100前後"
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
     price: "¥2,500前後"

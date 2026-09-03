@@ -30,13 +30,13 @@ baseProducts:
 amazonProducts:
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"
-    price: "¥700前後"
+    price: "¥1,100前後"
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
-    price: "¥1,000前後"
+    price: "¥2,500前後"
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
-    price: "¥800前後"
+    price: "¥2,448"
 ---
 
 # 観葉植物のハイドロカルチャー完全ガイド｜培地・水管理・植物別の育て方まで

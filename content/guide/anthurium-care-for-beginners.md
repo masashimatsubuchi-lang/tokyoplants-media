@@ -20,10 +20,10 @@ baseProducts:
 amazonProducts:
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
-    price: "¥800前後"
+    price: "¥2,448"
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
-    price: "¥500前後"
+    price: "¥1,593前後"
   - title: "Levoit Classic200 超音波加湿器 4L｜静音・40時間連続"
     asin: "B083JVNMV2"
     price: "¥4,000前後"
