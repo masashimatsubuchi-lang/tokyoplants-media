@@ -11,6 +11,7 @@ relatedSlugs:
   - "species/genus-sansevieria"
   - "species/sansevieria"
   - "species/sansevieria-moonshine"
+  - "research/dracaena-sansevieria-taxonomy-science"
   - "guide/sansevieria-care"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:

@@ -8,6 +8,7 @@ tags: ["ラフィドフォラ", "ミニモンステラ", "用土", "植え替え
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/rhaphidophora-tetrasperma"
+  - "guide/rhaphidophora-tetrasperma-care"
   - "soil/best-soil-for-monstera"
   - "guide/root-bound-signs-and-solutions"
 baseProducts:

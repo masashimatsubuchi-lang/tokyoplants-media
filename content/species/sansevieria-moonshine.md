@@ -10,6 +10,7 @@ genus: "sansevieria"
 relatedSlugs:
   - "species/genus-sansevieria"
   - "species/sansevieria"
+  - "research/dracaena-sansevieria-taxonomy-science"
   - "guide/sansevieria-care"
   - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"

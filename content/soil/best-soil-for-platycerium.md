@@ -7,6 +7,7 @@ category: "soil"
 tags: ["ビカクシダ", "コウモリラン", "用土", "鉢植え", "着生植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "soil/platycerium-moss-mounting-medium"
   - "guide/platycerium-grow-light-guide"
   - "guide/platycerium-placement-guide"
   - "soil/sphagnum-moss-recommended"

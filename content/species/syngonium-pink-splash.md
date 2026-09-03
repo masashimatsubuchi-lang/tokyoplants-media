@@ -9,6 +9,8 @@ author: "tokyoplants 編集部"
 genus: "syngonium"
 relatedSlugs:
   - "species/syngonium-podophyllum"
+  - "guide/syngonium-care-for-beginners"
+  - "soil/best-soil-for-syngonium"
   - "guide/philodendron-for-beginners"
   - "soil/hydroculture-complete-guide"
 baseProducts:

@@ -7,6 +7,7 @@ category: "soil"
 tags: ["ビカクシダ", "水苔", "着生植物", "板付け", "用土", "コウモリラン"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "soil/best-soil-for-platycerium"
   - "guide/platycerium-grow-light-guide"
   - "review/platycerium-mounting-board-cork"
   - "guide/platycerium-placement-guide"

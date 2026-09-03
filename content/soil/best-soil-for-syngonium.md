@@ -8,6 +8,8 @@ tags: ["シンゴニウム", "用土", "植え替え", "サトイモ科"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/syngonium-podophyllum"
+  - "species/syngonium-pink-splash"
+  - "guide/syngonium-care-for-beginners"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:

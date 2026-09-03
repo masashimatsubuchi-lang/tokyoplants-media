@@ -9,6 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/monstera-care"
   - "species/rhaphidophora-tetrasperma"
+  - "soil/best-soil-for-rhaphidophora-tetrasperma"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

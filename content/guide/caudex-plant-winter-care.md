@@ -10,6 +10,7 @@ relatedSlugs:
   - "guide/stephania-kaweesakii-care"
   - "guide/stephania-kaweesakii-complete-guide"
   - "species/stephania-erecta"
+  - "research/caudex-plant-winter-dormancy-science"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

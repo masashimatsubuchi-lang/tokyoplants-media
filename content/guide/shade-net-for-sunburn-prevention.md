@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/sunburn-houseplants"
   - "guide/summer-houseplant-care-guide"
   - "guide/air-conditioner-and-houseplants"
+  - "review/shade-net-curtain-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"

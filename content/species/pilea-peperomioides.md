@@ -7,6 +7,7 @@ category: "species"
 tags: ["ピレア", "パンケーキプランツ", "初心者向け", "コレクター"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "guide/pilea-peperomioides-care"
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
