@@ -10,6 +10,7 @@ relatedSlugs:
   - "species/pothos-epipremnum-aureum"
   - "soil/best-soil-for-pothos"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/pothos-propagation-water-cutting"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -105,7 +106,7 @@ amazonProducts:
 - **切る位置**: 節の少し上でカットする（節から新しい芽が出る）
 - **仕立て方**: ヘゴ棒やポールに巻きつけて上に伸ばすと、葉が大きくなりやすい。ハンギングで垂らすスタイルも人気
 
-カットしたつるは水挿しや挿し木に使えるため、増やしたい場合は捨てずに活用しましょう。
+カットしたつるは水挿しや挿し木に使えるため、増やしたい場合は捨てずに活用しましょう。水挿し・土挿しの詳しい手順や、発根しない・腐る場合の原因は[ポトスの増やし方｜水挿し・土挿しの手順と失敗しないコツ](/guide/pothos-propagation-water-cutting)で詳しく解説しています。
 
 ## よくあるトラブルと対策
 

@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/pachira-yellow-leaves-falling"
+  - "guide/pachira-propagation-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -75,7 +76,7 @@ baseProducts:
 - 清潔なハサミを使い、切り口から雑菌が入るのを防ぐ
 - 間延びした枝や内側に向かって伸びた枝を優先的に整理する
 
-大胆に切り戻しても復活する生命力の強さがパキラの魅力です。理想の高さで切れば、そこから新しい枝が分岐して、よりボリュームのある姿に仕上がります。
+大胆に切り戻しても復活する生命力の強さがパキラの魅力です。理想の高さで切れば、そこから新しい枝が分岐して、よりボリュームのある姿に仕上がります。剪定で出た枝は、挿し木で増やすことも可能です。具体的な手順は[パキラの増やし方｜挿し木・水挿しの時期と管理方法](/guide/pachira-propagation-guide)で解説しています。
 
 ## 植え替え
 

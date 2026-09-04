@@ -10,6 +10,7 @@ relatedSlugs:
   - "species/monstera-deliciosa"
   - "soil/basic-soil-mix"
   - "review/moss-pole-comparison"
+  - "guide/monstera-propagation-cutting-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -205,6 +206,8 @@ amazonProducts:
 
 モンステラは節を含む茎で増殖できます。特に大株更新では取り木が有効です。  
 取り木は「成功率を上げてから切り離す」方法なので、希少株や大切な親株で安全性が高い手法です。
+
+挿し木・水挿し・茎伏せの具体的な手順や、発根しない・腐るといった失敗の原因については[モンステラの増やし方完全ガイド](/guide/monstera-propagation-cutting-guide)で詳しく解説しています。
 
 ## よくある症状と診断フロー
 
