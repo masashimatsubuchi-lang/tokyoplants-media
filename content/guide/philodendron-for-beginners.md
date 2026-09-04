@@ -7,9 +7,11 @@ category: "guide"
 tags: ["フィロデンドロン", "初心者", "おすすめ", "品種", "サトイモ科", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "species/philodendron-prince-of-orange"
   - "guide/anthurium-care-for-beginners"
   - "guide/alocasia-care-guide"
   - "soil/recommended-soil-for-houseplants"
+  - "guide/philodendron-propagation-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -158,6 +160,8 @@ amazonProducts:
 
 つる性品種（ブラジル、シルバーソードなど）は、支柱やヘゴ棒を使って上方向に誘引すると、葉が大きくなる性質があります。自立型品種は支柱不要です。
 
+つる性品種の水挿し・土挿しや、グロリオサムのようなクリーパータイプの茎伏せなど、品種タイプ別の増やし方は[フィロデンドロンの増やし方｜茎伏せ・水挿しで確実に発根させる方法](/guide/philodendron-propagation-guide)で詳しく解説しています。
+
 ---
 
 ## よくあるトラブルと対処法
@@ -185,6 +189,7 @@ amazonProducts:
 
 基本の品種に慣れたら、ステップアップしてみましょう。
 
+- **フィロデンドロン・プリンスオブオレンジ：** 新芽が鮮やかなオレンジ色に染まり、成長とともに緑へ変化する交配品種。自立するセルフヘディング型で支柱不要。詳しくは[フィロデンドロン・プリンスオブオレンジ完全図鑑](/species/philodendron-prince-of-orange)を参照
 - **フィロデンドロン・グロリオサム：** ビロード状の葉に白い葉脈。地を這うように成長するクリーパータイプ
 - **フィロデンドロン・メラノクリサム：** 黒みがかった大きな葉。高湿度が必要
 - **フィロデンドロン・スピリタスサンクティ：** 極めて希少な細長い葉を持つ品種

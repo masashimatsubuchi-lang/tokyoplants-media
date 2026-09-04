@@ -9,6 +9,7 @@ tags:
 author: "tokyoplants 編集部"
 genus: "scindapsus"
 relatedSlugs:
+  - "species/scindapsus-treubii-moonlight"
   - "species/pothos-epipremnum-aureum"
   - "species/rhaphidophora-tetrasperma"
   - "guide/pothos-care"

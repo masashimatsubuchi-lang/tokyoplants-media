@@ -7,6 +7,7 @@ category: "soil"
 tags: ["テーブルヤシ", "用土", "配合", "初心者", "植え替え"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "species/chamaedorea-elegans"
   - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/basic-soil-mix"
