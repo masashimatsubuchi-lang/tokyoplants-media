@@ -12,13 +12,11 @@ relatedSlugs:
   - "species/genus-stephania"
   - "guide/stephania-kaweesakii-care"
   - "guide/stephania-kaweesakii-complete-guide"
+  - "soil/best-soil-for-caudex-plants"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
 ---
 
 # ステファニア・エレクタ｜丸い塊根と可愛い葉の塊根植物の育て方図鑑
@@ -201,4 +199,4 @@ baseProducts:
 
 塊根を土に埋めず露出させてディスプレイするスタイルは、植物としての機能美とインテリア性を両立させる点で他の観葉植物にはない魅力があります。kaweesakii など同属の仲間と並べてコレクションを楽しむのもおすすめです。
 
-希少な塊根植物や植物全般のラインナップは tokyoplants の通販でもチェックできます。土選びで迷ったら、水はけにこだわって作られた『 I'm original SOIL 』もぜひ試してみてください。
+希少な塊根植物や植物全般のラインナップは tokyoplants の通販でもチェックできます。用土は保水性重視の一般的な観葉植物用培養土ではなく、排水性を優先した専用配合を選ぶのが鉄則です。具体的な配合レシピとおすすめの市販培養土は[塊根植物（ステファニア等）に合う土の配合](/soil/best-soil-for-caudex-plants)で紹介しています。

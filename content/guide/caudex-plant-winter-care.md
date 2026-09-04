@@ -11,10 +11,11 @@ relatedSlugs:
   - "guide/stephania-kaweesakii-complete-guide"
   - "species/stephania-erecta"
   - "research/caudex-plant-winter-dormancy-science"
+  - "soil/best-soil-for-caudex-plants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "ステファニアの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382099"
+    price: ""
 ---
 
 塊根植物（コーデックス）を育てていると、冬になって葉が次々と落ち、丸裸の塊根だけが鉢に残る姿に「枯れてしまったのでは」と不安になる方は多いはずです。しかしこれは多くの夏型コーデックスにとって自然な休眠現象で、正しく断水・保温してあげれば春には必ず新芽を出します。この記事では、塊根植物の冬の休眠期の管理方法を、ステファニア（カウィーサキ・エレクタなど）を中心に解説します。ステファニア・カウィーサキの通年管理は[ステファニア・カウィーサキの育て方](/guide/stephania-kaweesakii-care)、より詳しい休眠サイクルは[ステファニアの育て方完全ガイド](/guide/stephania-kaweesakii-complete-guide)も参考にしてください。
@@ -100,6 +101,6 @@ baseProducts:
 - 休眠中か枯れているかは、塊根の硬さ・重さ・蔓の断面の色で見分けられる
 - 春の発芽は気温20℃以上が目安。発芽確認後は水やりを少量から徐々に再開する
 
-冬に葉が落ちても慌てず、春の発芽を楽しみに待つゆとりを持つことが、塊根植物を長く健康に育てるための心構えです。
+冬に葉が落ちても慌てず、春の発芽を楽しみに待つゆとりを持つことが、塊根植物を長く健康に育てるための心構えです。休眠期の過湿を避けるための排水性重視の用土配合は[塊根植物（ステファニア等）に合う土の配合](/soil/best-soil-for-caudex-plants)で詳しく解説しています。
 
-[I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
+[ステファニアの商品一覧を見る](https://www.tokyoplants.com/categories/6382099)

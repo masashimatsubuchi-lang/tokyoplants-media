@@ -10,10 +10,11 @@ relatedSlugs:
   - "guide/stephania-kaweesakii-complete-guide"
   - "species/stephania-erecta"
   - "guide/caudex-plant-winter-care"
+  - "soil/best-soil-for-caudex-plants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "ステファニアの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382099"
+    price: ""
 ---
 
 ステファニア・エレクタやカウィーサキなどの塊根植物（コーデックス）を育てていると、秋〜冬にかけて葉が次々と落ち、最終的に塊根だけの姿になることがあります。初めて経験すると「枯れてしまったのでは」と不安になりますが、これは多くの塊根植物に共通する自然な休眠現象です。この記事では、塊根植物がなぜ葉を落とすのか、その仕組みを植物生理学の一般的な知見から解説します。
@@ -59,4 +60,4 @@ baseProducts:
 - 落葉前の養分回収は、翌シーズンの発芽・成長を支える準備でもある
 - 休眠中は塊根の硬さ・重さ・断面の色で「休眠中」か「枯死」かを見分け、水やりは大幅に控えるのが基本
 
-塊根植物の休眠を正しく理解できれば、冬の落葉に慌てず、春の発芽を落ち着いて待てるようになります。用土は排水性を最優先に選び、休眠期の過湿を避けることが長期栽培の鍵です。土選びに迷ったら、tokyoplantsが開発した観葉植物専用の培養土『 I'm original SOIL 』もぜひご検討ください。
+塊根植物の休眠を正しく理解できれば、冬の落葉に慌てず、春の発芽を落ち着いて待てるようになります。用土は排水性を最優先に選び、休眠期の過湿を避けることが長期栽培の鍵です。具体的な配合レシピは[塊根植物（ステファニア等）に合う土の配合](/soil/best-soil-for-caudex-plants)で詳しく解説しています。

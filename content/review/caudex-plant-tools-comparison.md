@@ -9,10 +9,11 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/watering-checker-comparison"
   - "guide/stephania-kaweesakii-care"
+  - "soil/best-soil-for-caudex-plants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "ステファニアの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382099"
+    price: ""
 amazonProducts:
   - title: "日本ポリ鉢販売 プレステラ75型 10個組 ブラック（スリット入り）"
     asin: "B0CSCX75Z5"
@@ -146,8 +147,9 @@ SUSteeは電池不要で、土に挿しておくだけで水分量に応じて�
 道具に頼ることで「乾かしすぎ」「与えすぎ」どちらの失敗も減らせます。塊根植物ならではの水やり・休眠の考え方は[塊根植物（ステファニア等）の冬の休眠期の育て方](/guide/caudex-plant-winter-care)もあわせてご覧ください。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [ステファニアの商品一覧](https://www.tokyoplants.com/categories/6382099)
 
 → 関連記事
 - [観葉植物の水やりチェッカー比較](/review/watering-checker-comparison)
 - [ステファニア・カウィーサキの育て方](/guide/stephania-kaweesakii-care)
+- [塊根植物（ステファニア等）に合う土の配合](/soil/best-soil-for-caudex-plants)

@@ -13,13 +13,11 @@ relatedSlugs:
   - "species/stephania-erecta"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
+  - "soil/best-soil-for-caudex-plants"
 baseProducts:
   - title: "tokyoplants ステファニア一覧"
     url: "https://www.tokyoplants.com/categories/6382099"
     price: ""
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
 ---
 
 # ステファニア・カウィーサキ完全ガイド｜育て方・塊根管理・休眠・よくある失敗まで
@@ -287,9 +285,9 @@ tokyoplants では国内流通量の少ないステファニアを随時取り�
 
 この配合は、適度な排水性と通気性を確保しつつ、成長期には必要な水分と養分を供給できるバランスになっています。
 
-### I'm original SOIL との組み合わせ
+### 市販の塊根植物・多肉植物専用培養土を使う場合
 
-tokyoplants の [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939) は、室内栽培向けに設計された清潔感のある培養土ベースです。カウィーサキに使う場合は、I'm original SOIL 40〜50% + 軽石または赤玉土（小粒）50〜60% の配合がおすすめです。I'm original SOIL のベース成分が適度な保水性と通気性を担保し、そこに排水性の高い無機質素材を加えることで、塊根植物に適したバランスになります。清潔な素材が使われているため、室内管理でも虫が発生しにくいのも魅力です。
+赤玉土・軽石・鹿沼土を自分で配合するのが手間な場合は、最初から塊根植物・多肉植物向けに調整された市販の培養土を使う方法もあります。カウィーサキのように保水性より排水性を優先すべき植物には、腐葉土やココチップをベースにした一般的な観葉植物用培養土ではなく、「多肉植物用」「塊根植物用」と明記された商品を選ぶのが安全です。具体的な配合例やAmazonで購入できる商品は[塊根植物（ステファニア等）に合う土の配合](/soil/best-soil-for-caudex-plants)にまとめています。
 
 ### 鉢の素材（テラコッタ推奨の理由）
 

@@ -11,13 +11,11 @@ relatedSlugs:
   - "species/genus-stephania"
   - "soil/improve-drainage-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
+  - "soil/best-soil-for-caudex-plants"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"
     price: ""
-  - title: "観葉植物の土『 I'm original SOIL 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
@@ -102,7 +100,7 @@ baseProducts:
 
 ポイントは有機質（腐葉土やピートモス）を入れないか、ごく少量に抑えること。有機質が多いと保水性が高くなりすぎ、塊根が腐りやすくなります。
 
-排水性を重視したオリジナルブレンド用土を使う場合は、軽石を追加で2〜3割混ぜると、コーデックスに適した水はけになります。
+自分で配合するのが手間な場合は、赤玉土・軽石・鹿沼土をベースにした多肉植物・塊根植物専用の市販培養土を使う方法もあります。詳しい配合レシピと商品例は[塊根植物（ステファニア等）に合う土の配合](/soil/best-soil-for-caudex-plants)で紹介しています。一般的な観葉植物用の培養土（腐葉土・ココチップなど保水性重視のもの）をベースにするのは避けましょう。
 
 ### 鉢の選び方
 
