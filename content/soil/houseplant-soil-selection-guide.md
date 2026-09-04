@@ -36,7 +36,7 @@ baseProducts:
 | そもそも土を使いたくない／虫や匂いが気になる | ハイドロカルチャー（LECA・溶岩石・ゼオライト） | [ハイドロカルチャーの培地おすすめ比較](/soil/hydroculture-medium-comparison) |
 | カラテアなど酸性土を好む植物を育てている | 鹿沼土をブレンドに追加 | [鹿沼土を観葉植物に使うメリット・デメリット](/soil/kanuma-soil-for-houseplants) |
 | コストを抑えて始めたい・とりあえず1袋欲しい | 市販の完成培養土をベースに使う | [観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)・[100均と専門店の土の違い](/soil/cheap-vs-quality-soil) |
-| 見た目や軽さを重視したい（インテリア寄せ） | ねこチップ（軽石系）をブレンド | [ねこチップとは｜メリット・デメリット](/soil/neko-chip-vs-original-soil) |
+| 見た目や軽さを重視したい（インテリア寄せ） | ねこチップ（ココチップ＋日向石）をブレンド | [ねこチップとは｜メリット・デメリット](/soil/neko-chip-vs-original-soil) |
 
 「植物名」で検索してもこの3条件を満たす答えには一足飛びにたどり着けません。まずは自分の環境を言語化することが、遠回りのようで一番の近道です。
 
@@ -89,7 +89,7 @@ baseProducts:
 - 培養土か赤玉土か：[培養土と赤玉土の違い｜観葉植物にはどちらが向く？](/soil/baiyoudo-vs-akadama)
 - 酸性土を好む植物向け：[鹿沼土を観葉植物に使うメリット・デメリット](/soil/kanuma-soil-for-houseplants)
 - 排水性と保水性の微調整：[パーライトとバーミキュライトの違い](/soil/perlite-vs-vermiculite)
-- 軽石系の選択肢：[ねこチップとは｜メリット・デメリット](/soil/neko-chip-vs-original-soil)
+- ココチップ＋日向石のハイブリッド培地：[ねこチップとは｜メリット・デメリット](/soil/neko-chip-vs-original-soil)
 - 補助資材の使い方：[観葉植物に鉢底石は必要？](/soil/drainage-stones-guide)
 
 ### ステップ5：植物タイプで最終チェックをかける
