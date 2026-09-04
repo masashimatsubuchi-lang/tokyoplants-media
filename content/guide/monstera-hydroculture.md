@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1617628235649-1e5eecb460d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "モンステラをハイドロカルチャーで育てる方法｜水管理と培地の選び方"
 description: "モンステラはハイドロカルチャーとの相性が抜群。土なし・虫なし・根腐れしにくい無機培地での育て方、水位管理、肥料、土からの移行手順を詳しく解説します。"
 date: "2026-06-04"

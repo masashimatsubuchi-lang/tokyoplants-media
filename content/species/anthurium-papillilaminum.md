@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1598880940080-ff9a29891b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1641977563277-0bbc6c7db21c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "アンスリウム・パピリラミナム｜ベルベット葉と卵形の美しさ｜育て方図鑑"
 description: "アンスリウム・パピリラミナム（Anthurium papillilaminum）の基本情報、ビロード状の大きな卵形葉の特徴、多くのハイブリッドの親として重要な品種の育て方を解説します。"
 date: "2026-06-09"

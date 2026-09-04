@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1782560680344-f04571eae8ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "観葉植物に虫がわかない育て方｜無機培地で清潔に管理するコツ"
 description: "観葉植物の虫（コバエ・キノコバエ・アブラムシ）は土が原因のほとんど。無機培地（溶岩石・ゼオライト）に切り替えることで虫知らずの清潔な栽培環境を実現する方法を解説。"
 date: "2026-06-04"

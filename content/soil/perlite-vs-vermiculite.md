@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1589135716303-d04b9f3ab4b6?w=800&q=80"
+image: "https://plus.unsplash.com/premium_photo-1769130496006-bef6ea01ae07?w=800&q=80"
 title: "パーライトとバーミキュライトの違い｜観葉植物での使い分け"
 description: "パーライトとバーミキュライトの違いを徹底比較。排水性重視ならパーライト、保水性重視ならバーミキュライト。素材の仕組み、観葉植物での混ぜる割合、挿し木への活用法、よくある失敗例まで解説します。"
 date: "2026-07-16"

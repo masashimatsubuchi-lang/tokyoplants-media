@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1536882240095-0379873feb4e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1745280499776-7299369c0164?w=1200&q=80"
 title: "ザミオクルカス・レイブン（黒葉品種）の魅力と育て方"
 description: "ザミオクルカス・レイブン（黒葉ZZプランツ）の基本情報、葉が黒く色づく仕組み、通常種との違い、育て方とトラブル対策を図鑑形式で解説します。"
 date: "2026-09-02"

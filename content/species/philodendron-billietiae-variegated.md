@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1689150421131-140385516944?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1617268745770-03353462da85?w=1200&q=80"
 title: "フィロデンドロン・ビリエティアエ斑入り｜Philodendron billietiae variegated 図鑑"
 description: "フィロデンドロン・ビリエティアエ斑入り（Philodendron billietiae variegated）の特徴・育て方を解説。オレンジ茎とホワイト〜クリームの斑が特徴の希少フィロデンドロンです。"
 date: "2026-06-09"
