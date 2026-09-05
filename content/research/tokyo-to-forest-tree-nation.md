@@ -7,9 +7,10 @@ category: "research"
 tags: ["ブランドストーリー", "サステナビリティ", "tokyo to forest"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "research/tokyo-to-forest-points-guide"
+  - "research/what-is-tree-nation"
+  - "research/why-plant-shops-do-reforestation"
   - "review/leather-botanical-collection"
-  - "guide/home-compost-beginners-guide"
-  - "research/history-of-houseplants"
 ---
 
 東京の部屋の片隅で、モンステラの新しい葉が開く。その小さな出来事の裏側で、地球のどこかの森が少しだけ元気になっていたら——tokyoplantsは、そんな循環をつくる新しい取り組み「tokyo to forest」を始めました。
