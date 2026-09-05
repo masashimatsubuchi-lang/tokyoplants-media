@@ -10,7 +10,7 @@ relatedSlugs:
   - "guide/jewel-alocasia-types-comparison"
   - "species/genus-alocasia"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -55,4 +55,4 @@ baseProducts:
 - ただし、これらを裏付ける定量的なデータは限定的で、断定的な結論は避けるべき
 - ジュエルアロカシアなど品種ごとの詳しい特徴は[ジュエルアロカシアの種類比較](/guide/jewel-alocasia-types-comparison)、育て方全般は[アロカシア属とは｜主な品種・育て方・特徴を解説](/species/genus-alocasia)を参考にしてください
 
-アロカシアを育てる際は、高湿度の維持と排水性の高い用土が管理の基本になります。土選びに迷ったら、tokyoplantsが開発した観葉植物専用の培養土『 I'm original SOIL 』もぜひご検討ください。
+アロカシアを育てる際は、高湿度の維持と排水性の高い用土が管理の基本になります。土選びに迷ったら、tokyoplantsが開発した観葉植物専用の培養土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』もぜひご検討ください。

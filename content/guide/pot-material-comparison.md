@@ -13,7 +13,7 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "guide/no-drainage-hole-pot-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -187,7 +187,7 @@ baseProducts:
 
 市販の観葉植物用培養土は保水性重視で配合されているものが多く、通気性の低い鉢と組み合わせると過湿になりやすい傾向があります。こうした場合は、水はけ・通気性に優れた専用用土を選ぶことで、素材の弱点をカバーできます。
 
-tokyoplants の **I'm original SOIL** は、ココチップ・日向石を中心とした6種の天然素材（ココチップ・日向石・洋蘭発酵バーク・ミミズ堆肥・ピートモス・パーライト）をブレンドした水はけ重視の配合で、陶器・プラスチック鉢との組み合わせで特に効果を発揮します。「おしゃれな陶器鉢を使いたいけど根腐れが心配」という方に特に向いています。
+tokyoplants の **I'm original SOIL（tokyoplantsプレミアム培養土）** は、ココチップ・日向石を中心とした6種の天然素材（ココチップ・日向石・洋蘭発酵バーク・ミミズ堆肥・ピートモス・パーライト）をブレンドした水はけ重視の配合で、陶器・プラスチック鉢との組み合わせで特に効果を発揮します。「おしゃれな陶器鉢を使いたいけど根腐れが心配」という方に特に向いています。
 
 ### テラコッタ鉢を使う場合
 

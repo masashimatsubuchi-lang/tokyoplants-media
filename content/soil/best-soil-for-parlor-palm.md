@@ -14,7 +14,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/houseplant-soil-hub-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -61,7 +61,7 @@ baseProducts:
 - 「観葉植物の土」として販売されているもので問題ない
 - 極端に保水性の高い花用培養土は避ける
 
-tokyoplantsの**I'm original SOIL**はココチップ・日向石・パーライトなどをバランス良く配合しており、テーブルヤシが求める排水性と、室内でも清潔に使える設計を両立しています。初めての植え替えでも配合を考える必要がなく、そのまま使える手軽さも初心者向けの一鉢に適しています。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**はココチップ・日向石・パーライトなどをバランス良く配合しており、テーブルヤシが求める排水性と、室内でも清潔に使える設計を両立しています。初めての植え替えでも配合を考える必要がなく、そのまま使える手軽さも初心者向けの一鉢に適しています。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
 
 **避けるべき土：**
 - 花用の培養土（保水性が高すぎる）

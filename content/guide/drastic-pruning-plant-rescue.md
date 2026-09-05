@@ -17,7 +17,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "review/pruning-shears-comparison"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -237,7 +237,7 @@ SNSで「幹をぶった切ったら復活した」という投稿が驚かれ�
 
 弱った株の多くは、土の劣化が背景にあります。赤玉土の粒が崩れて微塵化すると排水性が落ち、根が常に湿った状態になって根腐れを繰り返す。**新芽が数枚展開して安定したタイミング**で、排水性の高い用土に入れ替えてください。強剪定と同時ではなく、回復を確認してからが安全です。
 
-tokyoplantsの『I'm original SOIL』は、日向石・ココチップなど粗い素材を中心に配合した排水重視の用土です。根が呼吸できる状態を維持しやすく、同じ失敗を繰り返さないための土として設計しています。
+tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は、日向石・ココチップなど粗い素材を中心に配合した排水重視の用土です。根が呼吸できる状態を維持しやすく、同じ失敗を繰り返さないための土として設計しています。
 
 [I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
 

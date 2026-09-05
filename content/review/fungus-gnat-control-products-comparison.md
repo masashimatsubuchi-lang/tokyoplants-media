@@ -12,7 +12,7 @@ relatedSlugs:
   - "review/houseplant-pest-control-tools"
   - "guide/no-bugs-houseplant-growing"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -157,7 +157,7 @@ amazonProducts:
 
 ## tokyoplantsおすすめ用土
 
-コバエの根本原因である「湿った有機質の土」を見直したい方には、tokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。排水性・通気性を重視した配合で、土の表面が乾きやすく、コバエが好む過湿環境になりにくい設計になっています。
+コバエの根本原因である「湿った有機質の土」を見直したい方には、tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』がおすすめです。排水性・通気性を重視した配合で、土の表面が乾きやすく、コバエが好む過湿環境になりにくい設計になっています。
 
 駆除グッズで今の虫を減らしながら、次の植え替えでは虫が湧きにくい土に切り替えることで、コバエの悩みから根本的に解放されます。
 

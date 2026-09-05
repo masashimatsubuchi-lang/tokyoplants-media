@@ -13,7 +13,7 @@ relatedSlugs:
   - "species/syngonium-pink-splash"
   - "soil/best-soil-for-syngonium"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -69,7 +69,7 @@ baseProducts:
 | パーライト | 2 |
 | 赤玉土（小粒） | 1 |
 
-市販の観葉植物用の土をそのまま使う場合は、パーライトを2割ほど追加すると排水性が向上します。tokyoplantsの『I'm original SOIL』はサトイモ科植物に適した通気性の高い配合になっているため、そのまま活用することもできます。
+市販の観葉植物用の土をそのまま使う場合は、パーライトを2割ほど追加すると排水性が向上します。tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』はサトイモ科植物に適した通気性の高い配合になっているため、そのまま活用することもできます。
 
 ### ハイドロカルチャーとの相性
 

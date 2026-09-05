@@ -13,7 +13,7 @@ relatedSlugs:
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/bugs-in-houseplant-soil"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -30,7 +30,7 @@ baseProducts:
 - すでに分解が完了した「完熟堆肥」のため、未熟な堆肥のように土の中でさらに発酵・発熱してしまう心配が少ない
 - 分解が進んだ有機質は虫のエサになりにくく、生の有機物に比べて虫が湧きにくい
 
-つまり「有機質を使いたいけれど、虫や臭いが心配」という観葉植物栽培ならではの悩みに対して、比較的バランスの取れた選択肢がミミズ堆肥だと言えます。tokyoplantsの『I'm original SOIL』にも、この特性を活かすために配合素材のひとつとして採用されています。
+つまり「有機質を使いたいけれど、虫や臭いが心配」という観葉植物栽培ならではの悩みに対して、比較的バランスの取れた選択肢がミミズ堆肥だと言えます。tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』にも、この特性を活かすために配合素材のひとつとして採用されています。
 
 ---
 

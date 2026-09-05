@@ -13,7 +13,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/philodendron-propagation-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -211,7 +211,7 @@ amazonProducts:
 
 ## tokyoplantsおすすめ用土
 
-フィロデンドロンの植え替えには、サトイモ科に最適化されたtokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。ココチップ・日向石を中心に6種の天然素材を配合し、着生植物が求める通気性を実現。化学肥料・農薬不使用で室内でも安心です。
+フィロデンドロンの植え替えには、サトイモ科に最適化されたtokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』がおすすめです。ココチップ・日向石を中心に6種の天然素材を配合し、着生植物が求める通気性を実現。化学肥料・農薬不使用で室内でも安心です。
 
 最初の植え替えに、ぜひお試しください。
 

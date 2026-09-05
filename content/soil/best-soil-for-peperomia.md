@@ -16,7 +16,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -65,7 +65,7 @@ baseProducts:
 
 ## ペペロミアにおすすめの市販土ランキング
 
-### 1位：tokyoplants｜I'm original SOIL（最推奨）
+### 1位：tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 ココチップ・日向石・発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した用土で、ペペロミアが必要とする排水性と軽さを両立できます。
 

@@ -127,4 +127,4 @@ amazonProducts:
 
 お気に入りのプロパゲーションステーションを見つければ、挿し木の管理そのものがインテリアの一部として楽しめるようになります。
 
-→ 関連商品：[観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)（鉢上げ後の植え替えに）
+→ 関連商品：[観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)（鉢上げ後の植え替えに）

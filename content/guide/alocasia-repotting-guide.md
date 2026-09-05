@@ -16,7 +16,7 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -86,7 +86,7 @@ baseProducts:
 ただし、有機質が多い土は**微生物の活動や加湿によって通気性が低下しやすく**、根腐れのリスクが高まる傾向があります。アロカシアのように根腐れしやすい植物には、排水性を高める工夫（赤玉土やパーライトの混合）が必要です。
 
 **おすすめ配合例（有機土ベース）**
-- 観葉植物の土（tokyoplants I'm original SOIL）：6
+- 観葉植物の土（I'm original SOIL｜tokyoplantsプレミアム培養土）：6
 - 赤玉土（小粒）：3
 - パーライト：1
 

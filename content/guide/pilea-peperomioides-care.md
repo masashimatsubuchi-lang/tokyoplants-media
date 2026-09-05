@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "guide/houseplant-fertilizer-calendar"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -106,6 +106,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [ピレア・ペペロミオイデス図鑑](/species/pilea-peperomioides) / [観葉植物の植え替え完全ガイド](/guide/repotting-houseplants-complete-guide) / [観葉植物の肥料カレンダー](/guide/houseplant-fertilizer-calendar)

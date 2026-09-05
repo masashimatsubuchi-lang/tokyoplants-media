@@ -10,7 +10,7 @@ relatedSlugs:
   - "species/philodendron-birkin"
   - "guide/philodendron-for-beginners"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -115,4 +115,4 @@ baseProducts:
 
 白いストライプ模様はバーキンの最大の魅力です。日々の置き場所と水やりを少し意識するだけで、美しい斑を長く楽しむことができます。
 
-[I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
+[I'm original SOIL（tokyoplantsプレミアム培養土） を見る](https://www.tokyoplants.com/items/99620939)

@@ -14,7 +14,7 @@ relatedSlugs:
   - "guide/root-bound-signs-and-solutions"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -153,6 +153,6 @@ baseProducts:
 
 ## tokyoplantsおすすめ用土
 
-植え替え時には、崩れにくい天然素材をブレンドしたtokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。ココチップ・日向石・発酵樹皮など6種の天然素材で通気性を保ちやすく設計されており、圧密による水はけの悪化を防ぎやすい配合です。
+植え替え時には、崩れにくい天然素材をブレンドしたtokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』がおすすめです。ココチップ・日向石・発酵樹皮など6種の天然素材で通気性を保ちやすく設計されており、圧密による水はけの悪化を防ぎやすい配合です。
 
 [I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)

@@ -11,7 +11,7 @@ relatedSlugs:
   - "guide/alocasia-hydroculture"
   - "guide/houseplant-fertilizer-calendar"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -118,4 +118,4 @@ baseProducts:
 
 季節ごとの施肥の考え方をさらに詳しく知りたい方は、[観葉植物の肥料カレンダー完全版](/guide/houseplant-fertilizer-calendar)もあわせてご覧ください。
 
-[I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
+[I'm original SOIL（tokyoplantsプレミアム培養土） を見る](https://www.tokyoplants.com/items/99620939)

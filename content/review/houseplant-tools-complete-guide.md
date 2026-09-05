@@ -17,7 +17,7 @@ relatedSlugs:
   - "review/watering-checker-comparison"
   - "review/drainage-net-comparison"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -117,7 +117,7 @@ amazonProducts:
 - **保水性**：根が必要な水分を一定期間保持する（ピートモス・ヤシ殻炭）
 - **通気性**：根圏の酸素供給を確保する（赤玉土・スリット鉢との併用）
 
-tokyoplants が自社開発した「[I'm original SOIL](/soil/recommended-soil-for-houseplants)」は、この三要素を室内栽培向けに最適化した配合です。市販土に混ぜて使うことも、単独で使うこともできます。
+tokyoplants が自社開発した「[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/recommended-soil-for-houseplants)」は、この三要素を室内栽培向けに最適化した配合です。市販土に混ぜて使うことも、単独で使うこともできます。
 
 ### 土の配合で変わる水やり頻度
 

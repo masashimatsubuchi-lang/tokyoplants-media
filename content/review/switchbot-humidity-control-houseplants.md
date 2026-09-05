@@ -14,7 +14,7 @@ relatedSlugs:
   - "review/circulator-for-houseplants-review"
   - "review/watering-checker-comparison"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -173,7 +173,7 @@ SwitchBot純正の加湿器はWi-Fi機能を内蔵しているため、プラグ
 湿度管理と合わせて、土そのものの水はけ・通気性を見直すことも根腐れやカビ予防には欠かせません。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [冬の湿度管理と加湿器・除湿機の選び方](/review/winter-humidity-control-humidifier-dehumidifier)

@@ -19,7 +19,7 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -76,7 +76,7 @@ baseProducts:
 
 植物好きであれば、高品質な土は必ず使う消耗品です。引っ越し後の植え替えシーズンに合わせて、**専門店が配合した観葉植物用の土**を贈るのも実用的です。
 
-tokyoplants の『I'm original SOIL』は、水はけ・通気性・保水性のバランスを調整したブレンド土。市販の培養土との違いを知っている植物好きには、特に喜ばれます。
+tokyoplants の『I'm original SOIL（tokyoplantsプレミアム培養土）』は、水はけ・通気性・保水性のバランスを調整したブレンド土。市販の培養土との違いを知っている植物好きには、特に喜ばれます。
 
 ---
 

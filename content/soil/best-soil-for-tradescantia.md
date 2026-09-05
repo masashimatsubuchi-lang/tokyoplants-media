@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -58,7 +58,7 @@ baseProducts:
 
 ## トラデスカンティアにおすすめの市販土
 
-### tokyoplants｜I'm original SOIL（最推奨）
+### tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 天然ヤシの繊維（ココチップ）30%・日向石20%・蘭の発酵樹皮20%・ミミズ堆肥10%・ピートモス10%・パーライト10%を配合した用土です。粒が粗すぎない配合で、細く繊細な根にも負担をかけにくく、排水性と保水性のバランスも取れています。
 

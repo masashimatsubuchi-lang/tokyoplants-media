@@ -11,7 +11,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/recommended-soil-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -80,7 +80,7 @@ amazonProducts:
 | 軽石（またはパーライト） | 3 |
 | バーク堆肥 | 2 |
 
-市販の観葉植物用の土をベースにする場合は、軽石やパーライトを全体の2〜3割追加して排水性を高めると、既製品でも十分に対応できます。tokyoplantsの『I'm original SOIL』は日向石・ココチップなど粗めの素材を配合した、乾きやすく根腐れしにくい設計の用土です。ゼロから配合を考えるのが手間な場合はベースとして活用してください。
+市販の観葉植物用の土をベースにする場合は、軽石やパーライトを全体の2〜3割追加して排水性を高めると、既製品でも十分に対応できます。tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は日向石・ココチップなど粗めの素材を配合した、乾きやすく根腐れしにくい設計の用土です。ゼロから配合を考えるのが手間な場合はベースとして活用してください。
 
 鉢底には軽石タイプの鉢底石を敷くと、さらに排水性が安定します。素焼き鉢を使うと鉢自体からも水分が蒸発するため、特に水やりの加減に自信がない初心者には管理しやすい組み合わせです。
 

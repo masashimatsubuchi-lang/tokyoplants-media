@@ -16,7 +16,7 @@ relatedSlugs:
   - "soil/houseplant-soil-selection-guide"
   - "soil/commercial-soil-ingredients"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
@@ -36,7 +36,7 @@ baseProducts:
 
 | 比較項目 | 有機培養土（腐葉土・ココチップ系） | 無機質培地（軽石・ゼオライト系） |
 |----------|----------------------------------|----------------------------------|
-| 代表例 | I'm original SOIL、腐葉土配合の一般培養土 | ねこチップ、HYDRO MINERAL、ハイドロボール（LECA） |
+| 代表例 | I'm original SOIL（tokyoplantsプレミアム培養土）、腐葉土配合の一般培養土 | ねこチップ、HYDRO MINERAL、ハイドロボール（LECA） |
 | 栄養分 | 元肥入りのものが多い | ほぼゼロ（要追肥） |
 | 保水性 | 高め | 低め〜中程度 |
 | 虫の発生 | 比較的出やすい（未熟な有機質の場合） | 出にくい |

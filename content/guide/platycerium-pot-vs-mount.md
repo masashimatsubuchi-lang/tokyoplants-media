@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/platycerium-winter-care"
   - "review/platycerium-mounting-board-cork"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -118,4 +118,4 @@ baseProducts:
 
 どちらの仕立て方にも異なる魅力があります。自分のライフスタイルと管理にかけられる時間を踏まえて、無理なく続けられる方法を選びましょう。
 
-[I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
+[I'm original SOIL（tokyoplantsプレミアム培養土） を見る](https://www.tokyoplants.com/items/99620939)

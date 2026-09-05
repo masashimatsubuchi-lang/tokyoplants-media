@@ -12,7 +12,7 @@ relatedSlugs:
   - "review/switchbot-humidity-control-houseplants"
   - "soil/when-to-replace-soil"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -152,7 +152,7 @@ SUStee（サスティー）は電池不要で、土に挿しておくだけで�
 チェッカーの数値はあくまで判断の補助であり、土そのものの排水性・通気性が悪ければ根本的な解決にはなりません。水はけの良い土に見直すことも、水やり判断のブレを減らす近道です。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [観葉植物の便利グッズ完全ガイド](/review/houseplant-tools-complete-guide)

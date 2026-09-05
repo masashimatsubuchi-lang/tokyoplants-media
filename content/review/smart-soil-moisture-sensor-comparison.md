@@ -117,5 +117,5 @@ amazonProducts:
 
 まずは1本を試してみて、自分の植物の水やりサイクルのクセを可視化するところから始めてみてはいかがでしょうか。
 
-→ 関連商品：[観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品：[観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 → 関連記事：[観葉植物の水やりチェッカー比較](/review/watering-checker-comparison)

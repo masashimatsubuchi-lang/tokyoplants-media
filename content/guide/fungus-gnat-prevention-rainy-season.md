@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "review/fungus-gnat-control-products-comparison"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -78,7 +78,7 @@ baseProducts:
 
 ## 排水性の高い用土でコバエ対策と根腐れ予防を両立
 
-コバエ対策に有効な「有機質が少なく水はけの良い土」は、根腐れ予防にもつながります。tokyoplants の『 I'm original SOIL 』は、排水性と通気性を重視した配合で、土の表面が乾きやすく、コバエが好む過湿環境になりにくい設計です。
+コバエ対策に有効な「有機質が少なく水はけの良い土」は、根腐れ予防にもつながります。tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は、排水性と通気性を重視した配合で、土の表面が乾きやすく、コバエが好む過湿環境になりにくい設計です。
 
 梅雨時期の植え替えに合わせて用土を見直すことで、コバエ対策と植物の健康管理を同時に改善できます。
 

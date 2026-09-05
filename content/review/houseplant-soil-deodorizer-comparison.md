@@ -22,7 +22,7 @@ amazonProducts:
     asin: "B0017S1ANA"
     price: "¥2,400前後"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -102,7 +102,7 @@ baseProducts:
 
 ### 排水性の高い土に見直す
 
-匂いの根本原因の多くは土の過湿にあります。排水性の高い専用土に切り替えることで、消臭グッズに頼らずとも匂いが発生しにくい環境を作れます。[I'm original SOIL](https://www.tokyoplants.com/items/99620939)のような通気性を考慮したブレンド土もひとつの選択肢です。
+匂いの根本原因の多くは土の過湿にあります。排水性の高い専用土に切り替えることで、消臭グッズに頼らずとも匂いが発生しにくい環境を作れます。[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)のような通気性を考慮したブレンド土もひとつの選択肢です。
 
 ### 水やりと風通しを見直す
 

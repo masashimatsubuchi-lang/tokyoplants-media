@@ -13,7 +13,7 @@ relatedSlugs:
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -61,7 +61,7 @@ baseProducts:
 
 ### 市販土を使う場合の選び方
 
-自分で配合するのが手間な場合は、排水性と適度な保水力を両立した市販の観葉植物用培養土を選びましょう。tokyoplantsの[『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)は、ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材からなる用土で、そのまま使ってもシンゴニウムに適した水はけと保湿のバランスが取れています。
+自分で配合するのが手間な場合は、排水性と適度な保水力を両立した市販の観葉植物用培養土を選びましょう。tokyoplantsの[『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)は、ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材からなる用土で、そのまま使ってもシンゴニウムに適した水はけと保湿のバランスが取れています。
 
 腐葉土の割合が極端に高い培養土や、逆に軽石・砂利主体で保水力がほとんどない用土は避けましょう。
 

@@ -17,7 +17,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -128,7 +128,7 @@ baseProducts:
 - 観葉植物用培養土（40%）＋パーライト（30%）＋ヤシガラ繊維（20%）＋赤玉土小粒（10%）
 - または専用の着生植物用ミックスを使用
 
-tokyoplants の『 I'm original SOIL 』は水はけと保水のバランスが良く、フィロデンドロン全般に適しています。
+tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は水はけと保水のバランスが良く、フィロデンドロン全般に適しています。
 
 ### 肥料
 

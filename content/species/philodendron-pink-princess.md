@@ -21,7 +21,7 @@ baseProducts:
   - title: "Philodendron Pink Princess｜フィロデンドロン・ピンクプリンセス"
     url: "https://www.tokyoplants.com/items/136380988"
     price: "お問い合わせ"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -140,7 +140,7 @@ baseProducts:
 ピンクプリンセスには**水はけが良く、適度な保水性を持つ配合土**が適しています。市販の観葉植物の土をベースに、パーライトや軽石を20〜30%混ぜると通気性と排水性が向上します。
 
 推奨配合の一例：
-- 観葉植物の土（tokyoplants I'm original SOIL）：60%
+- 観葉植物の土（I'm original SOIL｜tokyoplantsプレミアム培養土）：60%
 - 赤玉土（小粒）：20%
 - パーライト：20%
 

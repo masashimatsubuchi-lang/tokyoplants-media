@@ -11,7 +11,7 @@ relatedSlugs:
   - "guide/zamioculcas-care-guide"
   - "guide/plant-not-recovering-after-repotting"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -108,4 +108,4 @@ baseProducts:
 
 塊根植物ならではの成長の仕組みを理解しておけば、鉢が割れてから慌てるという事態を防げます。定期的なチェックを習慣にして、ザミオクルカスを長く健康に育てましょう。
 
-[I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
+[I'm original SOIL（tokyoplantsプレミアム培養土） を見る](https://www.tokyoplants.com/items/99620939)

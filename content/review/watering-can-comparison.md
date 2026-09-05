@@ -11,7 +11,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "guide/summer-watering-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -140,7 +140,7 @@ SUS304ステンレス製で錆びに強く、長期間使っても劣化しに�
 じょうろを見直すだけで、日々の水やりの手間とストレスは大きく減ります。あわせて、水やりのタイミングを正確に判断したい方は[水やりチェッカーの比較記事](/review/watering-checker-comparison)、鉢底からの水はけを整えたい方は培養土の見直しも検討してみてください。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [観葉植物の水やりチェッカー比較｜種類とAmazon人気商品を解説](/review/watering-checker-comparison)

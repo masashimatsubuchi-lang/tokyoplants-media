@@ -16,7 +16,7 @@ relatedSlugs:
   - "soil/mold-on-houseplant-soil"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 hideAmazonBlock: true
@@ -35,7 +35,7 @@ amazonProducts:
 
 観葉植物を育てていると、一度はねこチップという名前を耳にしたことがあるのではないでしょうか。ヤシガラ由来のココチップと日向石（軽石の一種）を組み合わせた培地として、植物愛好家の間で広く知られる存在です。
 
-この記事では、ねこチップとはどういう培地なのかを基本から丁寧に解説します。特徴・メリット・デメリット・使い方・配合割合を整理した上で、tokyoplants が展開する有機配合土『I'm original SOIL』との違いも比較します。「ねこチップ 違い」「ねこチップ 比較」「ねこチップ 代わり」と検索しているあなたが、自分の育て方・スタイルにぴったりの用土を選ぶための参考になれば幸いです。
+この記事では、ねこチップとはどういう培地なのかを基本から丁寧に解説します。特徴・メリット・デメリット・使い方・配合割合を整理した上で、tokyoplants が展開する有機配合土『I'm original SOIL（tokyoplantsプレミアム培養土）』との違いも比較します。「ねこチップ 違い」「ねこチップ 比較」「ねこチップ 代わり」と検索しているあなたが、自分の育て方・スタイルにぴったりの用土を選ぶための参考になれば幸いです。
 
 ---
 

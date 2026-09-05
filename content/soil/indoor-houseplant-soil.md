@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/commercial-soil-ingredients"
   - "soil/worm-castings-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -172,7 +172,7 @@ baseProducts:
 
 ## tokyoplantsおすすめ用土
 
-室内栽培に最適な土をお探しなら、tokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトも配合した6種類の厳選素材のみで配合。虫が湧きにくく、臭いも気になりません。化学肥料・農薬不使用。
+室内栽培に最適な土をお探しなら、tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』がおすすめです。ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトも配合した6種類の厳選素材のみで配合。虫が湧きにくく、臭いも気になりません。化学肥料・農薬不使用。
 
 室内で植物を楽しむなら、まずは土から整えましょう。
 

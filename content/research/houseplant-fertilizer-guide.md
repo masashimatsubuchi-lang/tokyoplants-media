@@ -24,7 +24,7 @@ amazonProducts:
     asin: B01NBTAX3J
     note: 活力剤・植え替え後の回復促進
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---

@@ -17,7 +17,7 @@ relatedSlugs:
   - "species/genus-sansevieria"
   - "guide/no-bugs-houseplant-growing"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -247,7 +247,7 @@ ASPCAの毒性植物データベースで「Non-Toxic to Cats（猫に対して�
 
 ### 関連商品
 
-猫が土を掘ってしまう、鉢まわりを清潔に保ちたいという場合は、培地の見直しが効きます。tokyoplantsの『[I'm original SOIL](https://www.tokyoplants.com/items/99620939)』は、6種の天然素材をブレンドした**化学肥料・農薬不使用**の配合土です。土を掘る癖のある猫がいる場合は、表面に化粧石を敷いて物理的に覆う使い方と組み合わせてください。
+猫が土を掘ってしまう、鉢まわりを清潔に保ちたいという場合は、培地の見直しが効きます。tokyoplantsの『[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)』は、6種の天然素材をブレンドした**化学肥料・農薬不使用**の配合土です。土を掘る癖のある猫がいる場合は、表面に化粧石を敷いて物理的に覆う使い方と組み合わせてください。
 
 有機物をできるだけ持ち込みたくない場合は、富士山溶岩石とゼオライトを配合した『[HYDRO MINERAL 2L](https://www.tokyoplants.com/items/142692278)』も選択肢になります。無機系のためコバエが発生しにくく、室内を清潔に保ちやすい培地です。いずれの場合も、**培地そのものを猫が口にしないよう管理**してください。
 

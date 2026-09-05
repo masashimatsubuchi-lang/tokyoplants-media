@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/neko-chip-vs-original-soil"
   - "guide/no-bugs-houseplant-growing"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -84,7 +84,7 @@ baseProducts:
 虫の種類を正しく見分けることで、無駄な薬剤使用を避け、的確な対策が取れます。発生原因や土選びの総論は「[観葉植物の土に虫が湧く原因と対策｜虫が湧きにくい土の選び方](/soil/bugs-in-houseplant-soil)」もあわせて参考にしてください。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [観葉植物の土に虫が湧く原因と対策｜虫が湧きにくい土の選び方](/soil/bugs-in-houseplant-soil)

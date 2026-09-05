@@ -11,7 +11,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/repotting-tools-checklist"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -137,7 +137,7 @@ VS-8Zの上位に位置するプロ仕様モデル。太い枝もスパッと切
 良いハサミは、剪定という作業そのものの負担を減らし、結果的に植物へのストレスも小さくしてくれます。具体的な剪定の手順やタイミングは[観葉植物の剪定・切り戻し入門](/guide/houseplant-pruning-basics)、植え替え時に必要な道具全般は[植え替えに必要な道具リスト](/guide/repotting-tools-checklist)もあわせてご覧ください。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [観葉植物の剪定・切り戻し入門](/guide/houseplant-pruning-basics)

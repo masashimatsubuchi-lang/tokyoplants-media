@@ -16,7 +16,7 @@ relatedSlugs:
   - "soil/best-soil-for-alocasia"
   - "soil/best-soil-for-everfresh"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -79,7 +79,7 @@ baseProducts:
 
 ウンベラータの植え替えに使える市販土を、排水性・保水性のバランス・清潔さ・コスパの観点で比較します。
 
-### 1位：tokyoplants｜I'm original SOIL（最推奨）
+### 1位：tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 観葉植物専門店 tokyoplants が開発した用土で、**ウンベラータに必要な排水性・適度な保水性・清潔さをバランス良く満たします**。
 

@@ -11,7 +11,7 @@ relatedSlugs:
   - "guide/pot-material-comparison"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -178,4 +178,4 @@ baseProducts:
 - 穴は直径1〜1.5cm程度を目安に、大きな鉢では複数開けると排水性が安定する
 - ガラス製や高価な鉢は、無理せず専門店への依頼も検討する
 
-穴を開けた後は、[鉢底石](/soil/drainage-stones-guide)を敷いてから[観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)のような排水性の高い土を使うことで、根腐れのリスクをさらに抑えられます。「まだ穴を開ける自信がない」という方は、[穴なし鉢のまま管理する方法](/guide/no-drainage-hole-pot-guide)から試してみるのもよいでしょう。鉢の[素材ごとの特徴比較](/guide/pot-material-comparison)も参考に、あなたのお気に入りの鉢を最大限活かしてあげてください。
+穴を開けた後は、[鉢底石](/soil/drainage-stones-guide)を敷いてから[観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)のような排水性の高い土を使うことで、根腐れのリスクをさらに抑えられます。「まだ穴を開ける自信がない」という方は、[穴なし鉢のまま管理する方法](/guide/no-drainage-hole-pot-guide)から試してみるのもよいでしょう。鉢の[素材ごとの特徴比較](/guide/pot-material-comparison)も参考に、あなたのお気に入りの鉢を最大限活かしてあげてください。

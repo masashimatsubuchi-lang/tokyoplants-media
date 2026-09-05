@@ -11,7 +11,7 @@ relatedSlugs:
   - "soil/sphagnum-moss-recommended"
   - "soil/bellabon-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -107,7 +107,7 @@ amazonProducts:
 自分で材料から揃えて作りたい場合は、[苔玉の作り方と土の配合](/soil/kokedama-soil-guide)で配合比率と手順を詳しく解説しています。あわせてご覧ください。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [苔玉の作り方と土の配合｜秋のギフトにも](/soil/kokedama-soil-guide)

@@ -14,7 +14,7 @@ baseProducts:
   - title: "Begonia maculata variegata 'Pink'｜ベゴニア・マキュラータ"
     url: "https://www.tokyoplants.com/items/129136399"
     price: "お問い合わせ"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -118,7 +118,7 @@ baseProducts:
 
 マキュラータに適した用土は、**水はけが良く、適度に保水性もある配合**です。市販の観葉植物用培養土をベースに、パーライトを2〜3割程度混ぜると排水性が上がります。
 
-tokyoplants の『I'm original SOIL』は、保水性と通気性のバランスが取れた配合で、ベゴニアにも相性が良い土です。植え替え時にぜひ試してみてください。
+tokyoplants の『I'm original SOIL（tokyoplantsプレミアム培養土）』は、保水性と通気性のバランスが取れた配合で、ベゴニアにも相性が良い土です。植え替え時にぜひ試してみてください。
 
 ### 素焼き鉢が根腐れ防止に効果的
 

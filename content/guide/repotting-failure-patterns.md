@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/after-repotting-watering-and-fertilizer"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -68,7 +68,7 @@ baseProducts:
 
 ### 土選びの重要性
 
-観葉植物の土は「排水性・通気性・保水性のバランス」が重要です。tokyoplants の『 I'm original SOIL 』は、排水性と通気性を重視した配合で、室内管理でも根腐れしにくい環境を作ります。水やりのタイミングが多少ずれても、土が適切に乾いてくれるため、初心者でも管理しやすい設計になっています。
+観葉植物の土は「排水性・通気性・保水性のバランス」が重要です。tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は、排水性と通気性を重視した配合で、室内管理でも根腐れしにくい環境を作ります。水やりのタイミングが多少ずれても、土が適切に乾いてくれるため、初心者でも管理しやすい設計になっています。
 
 また、ハイドロ・底面給水での管理を検討している場合は、無機系培地の『 HYDRO MINERAL 』も選択肢のひとつ。溶岩石とゼオライトの配合で、根腐れのリスクを大幅に下げられます。
 

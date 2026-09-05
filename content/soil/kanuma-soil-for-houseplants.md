@@ -11,7 +11,7 @@ relatedSlugs:
   - "soil/baiyoudo-vs-akadama"
   - "soil/best-soil-for-calathea"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -130,7 +130,7 @@ amazonProducts:
 鹿沼土は、赤玉土の代わりに何にでも使える万能用土ではなく、「弱酸性を好む植物」「通気性を最優先したい植物」に狙いを絞って使う専門的な素材です。カラテアやシダ類など酸性土壌を好む植物には配合の一部として組み込むメリットが大きい一方、乾燥に弱い植物や一般的な観葉植物に単用するのは避けましょう。赤玉土・腐葉土と役割分担させながら配合することで、鹿沼土の特性を活かした管理が可能になります。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [硬質赤玉土と普通赤玉土の違い](/soil/akadama-hard-vs-regular)

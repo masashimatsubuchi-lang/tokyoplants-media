@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/pot-material-comparison"
   - "guide/choosing-pot-size-for-repotting"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -156,6 +156,6 @@ amazonProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [植物育成ラック・温室 おすすめ5選](/review/plant-rack-and-greenhouse-review) / [観葉植物の鉢材質比較](/guide/pot-material-comparison) / [観葉植物の鉢おすすめ](/review/recommended-pots-for-houseplants) / [植え替え時の鉢サイズの選び方](/guide/choosing-pot-size-for-repotting)

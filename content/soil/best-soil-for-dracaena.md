@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/kunzan-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -82,7 +82,7 @@ baseProducts:
 
 ドラセナの植え替えに使える市販土を、排水性・清潔さ・フッ素リスクの観点で比較します。
 
-### 1位：tokyoplants｜I'm original SOIL（最推奨）
+### 1位：tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 観葉植物専門店 tokyoplants が開発した用土で、**ドラセナに必要な排水性・通気性・清潔さを高い水準で満たします**。
 

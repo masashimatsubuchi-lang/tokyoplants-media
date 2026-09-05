@@ -13,7 +13,7 @@ relatedSlugs:
   - "species/monstera-deliciosa"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -124,6 +124,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939) / [Daily Botanical Towel｜リーフタオル](https://www.tokyoplants.com/items/135803882)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939) / [Daily Botanical Towel｜リーフタオル](https://www.tokyoplants.com/items/135803882)
 
 → 関連記事: [モンステラの育て方完全ガイド](/guide/monstera-care) / [挿し木・水挿しが発根しない・腐る原因と対策](/guide/rooting-failure-common-causes) / [観葉植物の根腐れは復活できる？](/guide/root-rot-causes-and-recovery)

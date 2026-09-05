@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -103,7 +103,7 @@ baseProducts:
 年末年始も落ち着いて植物と向き合えるよう、出発前の水やり量から見直してみてください。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [旅行中の観葉植物の水やり｜2泊〜1週間以上の留守対策まとめ](/guide/houseplant-care-during-travel)

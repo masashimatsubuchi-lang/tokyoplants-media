@@ -23,7 +23,7 @@ relatedSlugs:
   - "guide/rainy-season-root-rot-prevention"
   - "research/root-rot-mechanism-science"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -202,7 +202,7 @@ amazonProducts:
 
 ## tokyoplantsおすすめ用土
 
-根腐れの再発を防ぎたい方に、tokyoplantsのオリジナル用土『I'm original SOIL』をおすすめします。日向石・ココチップなど排水性に優れた素材を中心に配合。根が呼吸しやすい環境を作り、過湿による根腐れリスクを大幅に軽減します。
+根腐れの再発を防ぎたい方に、tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』をおすすめします。日向石・ココチップなど排水性に優れた素材を中心に配合。根が呼吸しやすい環境を作り、過湿による根腐れリスクを大幅に軽減します。
 
 植え替えのタイミングで、土を見直してみてください。
 

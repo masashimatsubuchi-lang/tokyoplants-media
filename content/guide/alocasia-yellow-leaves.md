@@ -15,7 +15,7 @@ relatedSlugs:
   - "guide/yellow-leaves-houseplants-checklist"
   - "soil/hydroculture-medium-comparison"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
@@ -164,7 +164,7 @@ baseProducts:
 
 ## tokyoplantsおすすめ用土
 
-黄変の多くは土の水はけと深く関係しています。tokyoplantsのオリジナル用土『I'm original SOIL』は、排水性・通気性を重視した配合で、アロカシアが苦手とする過湿状態を防ぎます。
+黄変の多くは土の水はけと深く関係しています。tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』は、排水性・通気性を重視した配合で、アロカシアが苦手とする過湿状態を防ぎます。
 
 すでに根腐れを繰り返している、または水やり管理を根本的に見直したい場合は、富士山溶岩石×ゼオライト配合の無機培地『HYDRO MINERAL』への切り替えもおすすめです。有機物を含まないため根腐れの原因菌が増えにくく、黄変の再発を防ぎやすくなります。
 

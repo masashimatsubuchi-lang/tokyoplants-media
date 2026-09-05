@@ -13,7 +13,7 @@ relatedSlugs:
   - "research/light-intensity-by-window-direction"
   - "guide/spider-mites-houseplants-control"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -111,6 +111,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [観葉植物の葉が黄色い原因チェック](/guide/yellow-leaves-houseplants-checklist) / [根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery) / [湿度は何％が最適？](/research/humidity-and-leaf-damage-thresholds)

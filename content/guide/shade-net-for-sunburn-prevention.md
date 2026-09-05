@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/air-conditioner-and-houseplants"
   - "review/shade-net-curtain-comparison"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -133,7 +133,7 @@ amazonProducts:
 葉焼けの原因やメカニズムをより詳しく知りたい方は「[観葉植物の葉焼けとは｜原因・症状・回復方法と予防策](/guide/sunburn-houseplants)」もあわせてご覧ください。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [観葉植物の葉焼けとは｜原因・症状・回復方法と予防策](/guide/sunburn-houseplants)

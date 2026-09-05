@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/when-to-replace-soil"
   - "soil/mold-on-houseplant-soil"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -97,7 +97,7 @@ baseProducts:
 冬の水やりは、頻度の暗記ではなく条件判断の精度で決まります。乾燥感だけに引っ張られず、鉢内の水分状態を客観的に確認し、暖かい時間に実施し、排水を残さない。この基本を徹底すれば、根腐れと水切れの両方を防げます。冬を安定して越せると、春の立ち上がりが明確に変わります。まずは1鉢でもよいので、記録付き管理を始めてください。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連カテゴリリンク
 - [土・用土カテゴリ](/soil)

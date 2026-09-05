@@ -18,7 +18,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/recommended-soil-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -92,7 +92,7 @@ baseProducts:
 秋の切り替えをうまくこなせると、根が健やかな状態で冬の休眠期を迎えられます。水はけのよい土を使っていれば、秋から冬にかけての根腐れリスクもさらに下げられます。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [梅雨の水やりと葉水｜観葉植物の正しい頻度とタイミング](/guide/rainy-season-watering-tips)

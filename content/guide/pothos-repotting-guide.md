@@ -12,7 +12,7 @@ relatedSlugs:
   - "species/pothos-epipremnum-aureum"
   - "guide/root-bound-signs-and-solutions"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -147,7 +147,7 @@ baseProducts:
 
 ### tokyoplants おすすめの土
 
-tokyoplants が販売する **観葉植物の土『 I'm original SOIL 』**は、ポトスの植え替えに最適な配合の培養土です。排水性と保水性のバランスを重視して調整されており、室内での観葉植物栽培に適した軽量設計になっています。ポトスのほか、モンステラやフィロデンドロンなどのサトイモ科植物全般に使いやすい汎用性も魅力です。
+tokyoplants が販売する **観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』**は、ポトスの植え替えに最適な配合の培養土です。排水性と保水性のバランスを重視して調整されており、室内での観葉植物栽培に適した軽量設計になっています。ポトスのほか、モンステラやフィロデンドロンなどのサトイモ科植物全般に使いやすい汎用性も魅力です。
 
 市販の一般的な培養土を使う場合は、赤玉土（小粒）や軽石を2〜3割混ぜて排水性を高めると、ポトスに適した環境に近づきます。
 

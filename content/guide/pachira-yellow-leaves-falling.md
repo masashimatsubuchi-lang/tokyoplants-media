@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/yellow-leaves-houseplants-checklist"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -186,6 +186,6 @@ baseProducts:
 
 パキラの育て方全般（水やり・置き場所・剪定・植え替え）は[パキラの育て方｜初心者でも枯らさないコツ](/guide/pachira-care)で解説しています。土の選び方は[パキラの土おすすめ5選【2026年】](/soil/best-soil-for-pachira)、根腐れの詳しい復活手順は[観葉植物が根腐れする原因と復活方法](/guide/root-rot-causes-and-recovery)をあわせてご覧ください。
 
-観葉植物の土『 I'm original SOIL 』は排水性・通気性・清潔さを重視した配合で、パキラの根腐れ予防にも役立ちます。
+観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は排水性・通気性・清潔さを重視した配合で、パキラの根腐れ予防にも役立ちます。
 
 [I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)

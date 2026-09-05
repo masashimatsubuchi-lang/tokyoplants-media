@@ -18,7 +18,7 @@ relatedSlugs:
   - "guide/soil-to-hydroculture-transition"
   - "guide/bottom-watering-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -128,6 +128,6 @@ baseProducts:
 
 ---
 
-土からブレンドを始めるなら、通気性と排水性を両立したtokyoplantsのオリジナル用土『[I'm original SOIL](https://www.tokyoplants.com/items/99620939)』がベースとして使いやすくおすすめです。ハイドロカルチャーで管理をシンプルにしたい場合は、溶岩石とゼオライトを配合した『[HYDRO MINERAL 2L](https://www.tokyoplants.com/items/142692278)』も検討してください。
+土からブレンドを始めるなら、通気性と排水性を両立したtokyoplantsのオリジナル用土『[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)』がベースとして使いやすくおすすめです。ハイドロカルチャーで管理をシンプルにしたい場合は、溶岩石とゼオライトを配合した『[HYDRO MINERAL 2L](https://www.tokyoplants.com/items/142692278)』も検討してください。
 
 → 関連記事：[観葉植物の土 完全ガイド](/soil/houseplant-soil-hub-guide)｜[観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)｜[ハイドロカルチャーの培地おすすめ比較](/soil/hydroculture-medium-comparison)

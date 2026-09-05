@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/philodendron-repotting-guide"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -90,7 +90,7 @@ baseProducts:
 土と鉢を見直すだけで、根腐れのリスクは大きく下げられます。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [フィロデンドロン初心者におすすめの品種5選｜育てやすい種類と育て方](/guide/philodendron-for-beginners)

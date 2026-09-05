@@ -14,7 +14,7 @@ baseProducts:
   - title: "tokyoplants Begonia｜ベゴニア一覧"
     url: "https://www.tokyoplants.com/categories/7114659"
     price: ""
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -131,7 +131,7 @@ baseProducts:
 
 土は**水はけが良く軽い配合**を選びます。市販の観葉植物用培養土に、パーライトや軽石を2〜3割混ぜると排水性が上がります。通気性を確保したい場合は素焼き鉢の使用も効果的です。
 
-tokyoplants の『 I'm original SOIL 』は、軽量で水はけと保水性のバランスが良く、ベゴニア・レックスの根茎性の性質にも適した配合です。
+tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は、軽量で水はけと保水性のバランスが良く、ベゴニア・レックスの根茎性の性質にも適した配合です。
 
 ### 温度
 

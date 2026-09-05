@@ -14,7 +14,7 @@ relatedSlugs:
   - "soil/bugs-in-houseplant-soil"
   - "review/houseplant-pest-control-tools"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -105,6 +105,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [観葉植物を買ったらすぐ植え替える？](/guide/repotting-after-purchase) / [カイガラムシ対策完全版](/guide/scale-insects-houseplants-control) / [ハダニ対策](/guide/spider-mites-houseplants-control) / [コバエ対策](/guide/fungus-gnat-prevention-rainy-season)

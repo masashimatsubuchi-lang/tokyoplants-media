@@ -19,7 +19,7 @@ relatedSlugs:
   - "species/calathea-orbifolia"
   - "research/halloween-houseplant-decor"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -184,7 +184,7 @@ TikTokやInstagramで「ダイソー 観葉植物 レア」が検索ワードと
 
 安く買った株ほど、土に投資する価値があります。理由は単純で、**株の値段が安いほど、その後の生育を左右する要因のうち土の比率が大きくなる**からです。数千円の鉢物は生産者がすでに良い土で仕上げていますが、110円の苗は「ここから」なのです。
 
-tokyoplantsの[『I'm original SOIL』](https://www.tokyoplants.com/items/99620939)は、通気性と排水性を両立させた観葉植物用のオリジナル配合土です。100均苗の植え替えに使いやすい理由は3つあります。
+tokyoplantsの[『I'm original SOIL（tokyoplantsプレミアム培養土）』](https://www.tokyoplants.com/items/99620939)は、通気性と排水性を両立させた観葉植物用のオリジナル配合土です。100均苗の植え替えに使いやすい理由は3つあります。
 
 - **粒がしっかりしていて土が締まりにくい**ため、育苗ポットの「乾かない」問題を根本から解消できる
 - **無機質主体で清潔**なので、コバエなどの発生リスクを抑えやすい

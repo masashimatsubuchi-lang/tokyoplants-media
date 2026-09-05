@@ -17,7 +17,7 @@ relatedSlugs:
   - "soil/kunzan-for-houseplants"
   - "soil/houseplant-soil-hub-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -89,7 +89,7 @@ amazonProducts:
 
 パキラの植え替えに使える市販土を、排水性・清潔さ・コスパの観点で比較します。
 
-### 1位：tokyoplants｜I'm original SOIL（最推奨）
+### 1位：tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 観葉植物専門店 tokyoplants が開発した用土で、**パキラに必要な排水性・通気性をバランスよく満たす**ことができます。
 

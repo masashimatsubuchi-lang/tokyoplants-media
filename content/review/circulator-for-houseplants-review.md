@@ -13,7 +13,7 @@ relatedSlugs:
   - "review/switchbot-humidity-control-houseplants"
   - "review/houseplant-tools-complete-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -133,7 +133,7 @@ amazonProducts:
 観葉植物向けサーキュレーター選びは、家電のパワー勝負ではなく、弱風の質と循環設計で決まります。最低風量、首振り、静音、電力、清掃性の5点で比較し、直撃ではなく循環を作る運用に切り替えると、土の乾き方とトラブル率が目に見えて改善します。光や土と同じく、風は栽培環境の基礎要素です。1台導入するだけでも管理の再現性は大きく上がります。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連カテゴリリンク
 - [レビューカテゴリ](/review)

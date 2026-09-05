@@ -13,7 +13,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/how-to-mix-soil-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -61,7 +61,7 @@ baseProducts:
 
 ## シェフレラにおすすめの市販土
 
-### tokyoplants｜I'm original SOIL（最推奨）
+### tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 天然ヤシの繊維（ココチップ）30%・日向石20%・蘭の発酵樹皮20%・ミミズ堆肥10%・ピートモス10%・パーライト10%を配合した用土です。ココチップと日向石で全体の半分を占める配合のため通気性・排水性が高く、シェフレラが苦手とする過湿を防ぎながら、適度な保水性も両立できます。
 

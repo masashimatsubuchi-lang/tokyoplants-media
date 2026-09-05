@@ -15,7 +15,7 @@ relatedSlugs:
   - "soil/worm-castings-for-houseplants"
   - "guide/no-bugs-houseplant-growing"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -178,7 +178,7 @@ amazonProducts:
 
 ## tokyoplantsおすすめ用土
 
-虫の悩みを根本から解決したい方には、tokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。完熟素材のみを使用し、化学肥料・農薬不使用。虫が湧きにくい設計で、室内栽培に最適な通気性と排水性を備えています。
+虫の悩みを根本から解決したい方には、tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』がおすすめです。完熟素材のみを使用し、化学肥料・農薬不使用。虫が湧きにくい設計で、室内栽培に最適な通気性と排水性を備えています。
 
 土を変えるだけで、虫のストレスから解放されます。
 

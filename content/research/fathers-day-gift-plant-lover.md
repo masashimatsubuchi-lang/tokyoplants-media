@@ -58,7 +58,7 @@ tokyoplants オリジナルの **Daily Botanical Towel**（¥2,000）は、植�
 
 ## ¥3,200〜｜タオル＋土のセット
 
-Daily Botanical Towelに、tokyoplants オリジナル用土『 I'm original SOIL 』（¥1,200〜）を組み合わせたセットも人気です。植物好きなら土にもこだわる方が多く、「使うもの」と「育てるもの」のセットは、植物のある暮らしをまるごとサポートする贈り物になります。
+Daily Botanical Towelに、tokyoplants オリジナル用土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』（¥1,200〜）を組み合わせたセットも人気です。植物好きなら土にもこだわる方が多く、「使うもの」と「育てるもの」のセットは、植物のある暮らしをまるごとサポートする贈り物になります。
 
 ---
 

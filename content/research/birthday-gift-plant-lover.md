@@ -23,7 +23,7 @@ baseProducts:
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
     price: "¥18,000〜"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -92,7 +92,7 @@ amazonProducts:
 
 植え替え時期（春・秋）の前後に贈ると、すぐに使ってもらえてより喜ばれます。
 
-[I'm original SOIL をみる →](https://www.tokyoplants.com/items/99620939)
+[I'm original SOIL（tokyoplantsプレミアム培養土） をみる →](https://www.tokyoplants.com/items/99620939)
 
 ---
 

@@ -11,7 +11,7 @@ relatedSlugs:
   - "soil/best-soil-for-ficus"
   - "guide/ficus-rubber-tree-care"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -59,7 +59,7 @@ baseProducts:
 
 ### 市販土を使う場合
 
-自分で配合するのが手間な場合は、tokyoplantsの[『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)をベースにする方法もあります。ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材で、排水性と清潔さを両立した設計です。リラータに使う場合は、日向石やパーライトを1〜2割追加すると、より安心な排水性に調整できます。
+自分で配合するのが手間な場合は、tokyoplantsの[『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)をベースにする方法もあります。ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材で、排水性と清潔さを両立した設計です。リラータに使う場合は、日向石やパーライトを1〜2割追加すると、より安心な排水性に調整できます。
 
 腐葉土主体の培養土や、保水性が高いと明記された花用培養土は避けましょう。
 

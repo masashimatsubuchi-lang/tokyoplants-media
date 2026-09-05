@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -93,7 +93,7 @@ baseProducts:
 根の状態は土を変えるだけで大きく改善します。植え替えのタイミングで、用土そのものを見直してみてください。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [アンスリウムの育て方｜初心者が失敗しない水やり・置き場所・用土](/guide/anthurium-care-for-beginners)

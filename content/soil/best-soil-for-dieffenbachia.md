@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -61,7 +61,7 @@ baseProducts:
 
 ## ディフェンバキアにおすすめの市販土
 
-### tokyoplants｜I'm original SOIL（最推奨）
+### tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 天然ヤシの繊維（ココチップ）30%・日向石20%・蘭の発酵樹皮20%・ミミズ堆肥10%・ピートモス10%・パーライト10%を配合した用土です。ココチップと日向石で通気性・排水性を確保しつつ、ミミズ堆肥とピートモスで保水性のバランスも取れているため、ディフェンバキアのような「過湿は避けたいが完全に乾ききるのも困る」植物に適しています。
 

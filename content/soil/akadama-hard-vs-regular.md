@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/how-to-trim-roots-when-repotting"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -97,7 +97,7 @@ baseProducts:
 硬質赤玉土と普通赤玉土の差は、初日より3か月後・6か月後に表れます。長期管理が前提の観葉植物では、崩れにくさがそのまま管理安定性につながります。結論としては、基礎は硬質赤玉土、必要に応じて普通赤玉土を補助的に使う設計が最も失敗しにくいです。価格差だけでなく、土の寿命と管理工数を含めて判断すると、選択がぶれなくなります。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連カテゴリリンク
 - [土・用土カテゴリ](/soil)

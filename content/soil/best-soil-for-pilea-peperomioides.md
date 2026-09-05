@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -60,7 +60,7 @@ baseProducts:
 
 ## ピレアにおすすめの市販土
 
-### tokyoplants｜I'm original SOIL（最推奨）
+### tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 天然ヤシの繊維（ココチップ）30%・日向石20%・蘭の発酵樹皮20%・ミミズ堆肥10%・ピートモス10%・パーライト10%を配合した用土です。ココチップと日向石で通気性・排水性を確保しており、ピレアが苦手とする過湿を防げます。
 

@@ -16,7 +16,7 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "soil/kunzan-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -74,7 +74,7 @@ baseProducts:
 
 ## サンスベリアにおすすめの市販土
 
-### 1位：tokyoplants｜I'm original SOIL（最推奨）
+### 1位：tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 観葉植物専門店 tokyoplants が開発した用土で、**サンスベリアに必要な排水性・通気性・清潔さをすべて満たします**。
 

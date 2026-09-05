@@ -18,7 +18,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/houseplant-soil-hub-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -69,7 +69,7 @@ baseProducts:
 
 ## アンスリウムにおすすめの市販土ランキング
 
-### 1位：tokyoplants｜I'm original SOIL（最推奨）
+### 1位：tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 観葉植物専門店 tokyoplants が開発した用土で、ココチップ・日向石・発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材で構成されています。着生植物であるアンスリウムが必要とする通気性と、室内管理での清潔さを両立できます。
 

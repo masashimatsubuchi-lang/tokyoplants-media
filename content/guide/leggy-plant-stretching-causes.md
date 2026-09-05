@@ -13,7 +13,7 @@ relatedSlugs:
   - "review/plant-light-review"
   - "guide/houseplant-pruning-basics"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -107,6 +107,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [窓の方角で光量はどれだけ違う？](/research/light-intensity-by-window-direction) / [観葉植物にライトは必要？](/research/houseplant-grow-light-guide) / [植物育成ライトおすすめ5選](/review/plant-light-review)

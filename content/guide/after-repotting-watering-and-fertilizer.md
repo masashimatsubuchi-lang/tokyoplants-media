@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/repotting-soil-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -105,7 +105,7 @@ baseProducts:
 
 植え替えの際に**元肥（もとごえ）が配合された土**を使った場合は、追肥の開始をさらに遅らせることができます。
 
-tokyoplants の『 I'm original SOIL 』は、植物の生育に必要な養分があらかじめ配合されており、植え替え後すぐに肥料を追加しなくても植物がしっかり育つよう設計されています。元肥の効果が持続する期間はおよそ**2〜3ヶ月**。この期間中は追肥を行わなくても、土からの養分供給で植物の回復と成長を支えることができます。
+tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は、植物の生育に必要な養分があらかじめ配合されており、植え替え後すぐに肥料を追加しなくても植物がしっかり育つよう設計されています。元肥の効果が持続する期間はおよそ**2〜3ヶ月**。この期間中は追肥を行わなくても、土からの養分供給で植物の回復と成長を支えることができます。
 
 逆に言えば、元肥入りの土を使っているにもかかわらず早期に追肥を行うと、養分過多になりやすく、かえって根へのダメージリスクが高まります。
 

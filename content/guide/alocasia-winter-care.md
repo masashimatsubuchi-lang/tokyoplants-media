@@ -15,7 +15,7 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -96,7 +96,7 @@ baseProducts:
 
 → 関連商品リンク
 - [HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地](https://www.tokyoplants.com/items/142692278)
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [アロカシアの育て方完全ガイド｜水やり頻度・湿度管理・冬越し・品種別のコツまで](/guide/alocasia-care-guide)

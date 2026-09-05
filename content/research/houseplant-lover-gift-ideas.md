@@ -19,7 +19,7 @@ baseProducts:
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
     price: "¥18,000〜"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -102,7 +102,7 @@ baseProducts:
 
 ### ¥3,200〜｜タオル＋土セット
 
-Daily Botanical Towelとオリジナル用土『 I'm original SOIL 』を組み合わせたセット。「使うもの」と「育てるもの」を一緒に贈ることで、植物のある暮らし全体を提案できます。
+Daily Botanical Towelとオリジナル用土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』を組み合わせたセット。「使うもの」と「育てるもの」を一緒に贈ることで、植物のある暮らし全体を提案できます。
 
 ### ¥5,000〜10,000｜植物育成ライト
 

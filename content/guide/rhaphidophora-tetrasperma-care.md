@@ -11,7 +11,7 @@ relatedSlugs:
   - "species/rhaphidophora-tetrasperma"
   - "soil/best-soil-for-rhaphidophora-tetrasperma"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -118,4 +118,4 @@ baseProducts:
 
 支柱誘引という一手間を加えるだけで、テトラスペルマ本来の魅力を存分に引き出せます。棚やシェルフに置けるコンパクトさと、日々の成長を実感できる速さを、ぜひ楽しんでみてください。
 
-[I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
+[I'm original SOIL（tokyoplantsプレミアム培養土） を見る](https://www.tokyoplants.com/items/99620939)

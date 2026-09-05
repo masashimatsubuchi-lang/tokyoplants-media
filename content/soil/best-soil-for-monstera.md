@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/houseplant-soil-hub-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -180,7 +180,7 @@ baseProducts:
 
 ## tokyoplantsおすすめ用土
 
-モンステラの植え替えには、tokyoplantsのオリジナル用土『I'm original SOIL』が最適です。ココチップ・日向石・発酵樹皮など6種の天然素材を配合し、サトイモ科が求める通気性と排水性を実現しています。化学肥料・農薬不使用。
+モンステラの植え替えには、tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』が最適です。ココチップ・日向石・発酵樹皮など6種の天然素材を配合し、サトイモ科が求める通気性と排水性を実現しています。化学肥料・農薬不使用。
 
 モンステラの根が喜ぶ土を、ぜひ体感してください。
 

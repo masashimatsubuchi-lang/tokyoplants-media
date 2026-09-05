@@ -17,7 +17,7 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -367,7 +367,7 @@ A: 直風さえ当たらなければ問題ありません。エアコンの乾�
 
 ## tokyoplantsおすすめ用土
 
-アロカシアの栽培には、排水性と通気性に優れた用土が不可欠です。tokyoplantsのオリジナル用土『I'm original SOIL』は、日向石・ココチップなど粗めの素材を中心に配合。サトイモ科の球根植物に最適な、乾きやすく根腐れしにくい環境を作ります。
+アロカシアの栽培には、排水性と通気性に優れた用土が不可欠です。tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』は、日向石・ココチップなど粗めの素材を中心に配合。サトイモ科の球根植物に最適な、乾きやすく根腐れしにくい環境を作ります。
 
 ハイドロカルチャーや底面給水での管理を検討されている場合は、富士山溶岩石75%+ゼオライト25%配合の『HYDRO MINERAL』もアロカシアとの相性が抜群です。
 

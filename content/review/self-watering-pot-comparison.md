@@ -136,4 +136,4 @@ amazonProducts:
 
 旅行や出張が多い方、水やりのタイミングに自信が持てない方は、まず1〜2鉢から自動給水鉢を試してみるのがおすすめです。
 
-→ 関連商品：[観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)（自動給水鉢用の土の見直しに）
+→ 関連商品：[観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)（自動給水鉢用の土の見直しに）

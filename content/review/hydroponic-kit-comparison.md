@@ -15,7 +15,7 @@ relatedSlugs:
   - "guide/alocasia-hydroculture"
   - "guide/indoor-herb-growing-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
@@ -172,7 +172,7 @@ LEDライト付き水耕栽培キットは、今育てている観葉植物を�
 キッチンでハーブを育てる楽しさに慣れてきたら、同じ「土を使わない育て方」であるハイドロカルチャーで観葉植物にも挑戦してみるのもおすすめです。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 - [HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地](https://www.tokyoplants.com/items/142692278)
 
 → 関連記事

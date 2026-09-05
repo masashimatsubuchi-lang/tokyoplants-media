@@ -14,7 +14,7 @@ relatedSlugs:
   - "soil/protoleaf-vs-original-soil"
   - "soil/kunzan-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -200,7 +200,7 @@ amazonProducts:
 </a>
 </div>
 
-プロトリーフとtokyoplants『I'm original SOIL』の違いを比較した記事「[プロトリーフ vs SOIL｜観葉植物の土はどっち](/soil/protoleaf-vs-original-soil)」もあわせてご覧ください。
+プロトリーフとtokyoplants『I'm original SOIL（tokyoplantsプレミアム培養土）』の違いを比較した記事「[プロトリーフ vs SOIL｜観葉植物の土はどっち](/soil/protoleaf-vs-original-soil)」もあわせてご覧ください。
 
 ---
 

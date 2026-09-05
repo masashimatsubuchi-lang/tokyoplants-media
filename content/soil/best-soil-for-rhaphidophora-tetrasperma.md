@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/best-soil-for-monstera"
   - "guide/root-bound-signs-and-solutions"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -60,7 +60,7 @@ baseProducts:
 
 ### 市販土を使う場合
 
-自分で配合するのが手間な場合は、排水性の高い観葉植物用培養土を選びましょう。tokyoplantsの[『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)は、ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材からなる用土で、そのまま使っても水はけと養分供給のバランスが取れています。成長が特に速い株には、パーライトを1〜2割追加するとより安定します。
+自分で配合するのが手間な場合は、排水性の高い観葉植物用培養土を選びましょう。tokyoplantsの[『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)は、ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材からなる用土で、そのまま使っても水はけと養分供給のバランスが取れています。成長が特に速い株には、パーライトを1〜2割追加するとより安定します。
 
 すでにモンステラを育てている方は、[モンステラの植え替えに最適な土は？](/soil/best-soil-for-monstera)で解説している配合の考え方もそのまま応用できます。
 

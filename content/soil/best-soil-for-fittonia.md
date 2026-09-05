@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "species/fittonia-albivenis"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -62,7 +62,7 @@ baseProducts:
 - 排水性の粒状素材（パーライト等）も一定量含まれている
 - 「観葉植物用」の中でも水はけ寄りに設計された商品は避ける
 
-tokyoplantsの**I'm original SOIL**はココチップ・日向石・発酵樹皮・ピートモスなど複数の天然素材をブレンドしており、通気性を保ちながら一定の保水力も持たせた設計です。フィットニア単体では保水性がやや物足りない場合もあるため、後述の配合レシピのようにピートモスや水苔を追加すると安定します。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**はココチップ・日向石・発酵樹皮・ピートモスなど複数の天然素材をブレンドしており、通気性を保ちながら一定の保水力も持たせた設計です。フィットニア単体では保水性がやや物足りない場合もあるため、後述の配合レシピのようにピートモスや水苔を追加すると安定します。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
 
 **避けるべき土：**
 - サボテン・多肉植物用土（乾燥しすぎる）

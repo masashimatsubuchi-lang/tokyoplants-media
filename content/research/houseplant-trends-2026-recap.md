@@ -19,7 +19,7 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -72,6 +72,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [Daily Botanical Towel｜リーフタオル](https://www.tokyoplants.com/items/135803882) / [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [Daily Botanical Towel｜リーフタオル](https://www.tokyoplants.com/items/135803882) / [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [なぜ希少植物の価格は暴落するのか](/research/rare-plant-price-bubble)

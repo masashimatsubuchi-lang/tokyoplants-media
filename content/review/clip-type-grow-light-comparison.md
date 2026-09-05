@@ -13,7 +13,7 @@ relatedSlugs:
   - "research/houseplant-grow-light-guide"
   - "guide/anthurium-grow-light-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -140,6 +140,6 @@ amazonProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [植物育成ライトおすすめ5選](/review/plant-light-review) / [BRIM植物育成ライト徹底比較](/review/brim-grow-light-comparison) / [バータイプ育成ライトおすすめ5選](/review/bar-type-grow-light-comparison)

@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/alocasia-hydroculture"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -166,7 +166,7 @@ tokyoplantsの「HYDRO MINERAL」のようにオスモコート（緩効性肥�
 
 製品選びと合わせて、施肥の時期（成長期に与え、休眠期は止める）を守ることも同じくらい重要です。詳しい施肥スケジュールは[観葉植物の肥料カレンダー完全版](https://media.tokyoplants.com/guide/houseplant-fertilizer-calendar)、N・P・Kの基礎から学びたい方は[観葉植物の肥料｜N・P・Kの役割から与え方まで徹底解説](https://media.tokyoplants.com/research/houseplant-fertilizer-guide)をあわせてご覧ください。
 
-肥料と同じくらい、根が健全に働ける土台（用土）も重要です。植え替え時にはtokyoplantsのオリジナル用土『I'm original SOIL』、ハイドロカルチャーへの移行には『HYDRO MINERAL』もあわせてご検討ください。
+肥料と同じくらい、根が健全に働ける土台（用土）も重要です。植え替え時にはtokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』、ハイドロカルチャーへの移行には『HYDRO MINERAL』もあわせてご検討ください。
 
 [I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939) ｜ [HYDRO MINERAL 2L を見る](https://www.tokyoplants.com/items/142692278)
 

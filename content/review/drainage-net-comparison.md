@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/repotting-tools-checklist"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -161,7 +161,7 @@ amazonProducts:
 サイズを底穴より一回り大きくカットし、鉢底石とセットで使うことが、水はけの良い植え替えを実現する基本です。土そのものの排水性を見直すことも、根腐れ予防には欠かせません。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [観葉植物に鉢底石は必要？｜役割・量とAmazon人気商品](/soil/drainage-stones-guide)

@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/anthurium-grow-light-guide"
   - "species/monstera-deliciosa"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -203,7 +203,7 @@ amazonProducts:
 
 ## tokyoplantsおすすめ用土
 
-tokyoplantsでは、アンスリウムをはじめとするサトイモ科の植物に最適化したオリジナル用土『I'm original SOIL』を販売しています。ココチップ・日向石・発酵樹皮など6種の天然素材を配合し、着生植物が求める通気性と排水性を実現。化学肥料・農薬不使用で安心です。
+tokyoplantsでは、アンスリウムをはじめとするサトイモ科の植物に最適化したオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』を販売しています。ココチップ・日向石・発酵樹皮など6種の天然素材を配合し、着生植物が求める通気性と排水性を実現。化学肥料・農薬不使用で安心です。
 
 はじめての植え替えにも、ぜひ試してみてください。
 

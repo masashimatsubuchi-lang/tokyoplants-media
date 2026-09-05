@@ -13,7 +13,7 @@ relatedSlugs:
   - "research/misting-effects-on-houseplants"
   - "guide/winter-watering-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -98,6 +98,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [湿度は何％が最適？](/research/humidity-and-leaf-damage-thresholds) / [冬の湿度管理と加湿器・除湿機の選び方](/review/winter-humidity-control-humidifier-dehumidifier) / [腰水トレイ（ピーブルトレイ）で加湿する方法](/guide/pebble-tray-humidity-guide)

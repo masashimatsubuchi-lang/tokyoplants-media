@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/summer-houseplant-care-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -155,4 +155,4 @@ baseProducts:
 - 台風後は**塩害・折れ枝・土の過湿**の3点を必ず点検する
 - 直前の対応は危険を伴うため、天気予報を見て**前日までに準備**を済ませておくことが重要
 
-台風シーズンを安全に乗り切るためにも、日頃の土選びから見直しておきましょう。tokyoplantsの **[I'm original SOIL](https://www.tokyoplants.com/items/99620939)** は観葉植物の根環境に配慮したブレンドで、植え替え時の軽量化・排水性改善にも活用できます。ビカクシダなど着生植物特有の屋外管理・台風時の避難については **[ビカクシダの置き場所ガイド](/guide/platycerium-placement-guide)** もあわせてご覧ください。
+台風シーズンを安全に乗り切るためにも、日頃の土選びから見直しておきましょう。tokyoplantsの **[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)** は観葉植物の根環境に配慮したブレンドで、植え替え時の軽量化・排水性改善にも活用できます。ビカクシダなど着生植物特有の屋外管理・台風時の避難については **[ビカクシダの置き場所ガイド](/guide/platycerium-placement-guide)** もあわせてご覧ください。

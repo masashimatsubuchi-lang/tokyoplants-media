@@ -15,7 +15,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/how-to-mix-soil-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -64,7 +64,7 @@ baseProducts:
 
 ## アグラオネマにおすすめの市販土ランキング
 
-### 1位：tokyoplants｜I'm original SOIL（最推奨）
+### 1位：tokyoplants｜I'm original SOIL（tokyoplantsプレミアム培養土）（最推奨）
 
 ココチップ・日向石・発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した用土で、アグラオネマに必要な排水性と適度な保水力を両立できます。
 

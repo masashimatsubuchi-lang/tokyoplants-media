@@ -18,7 +18,7 @@ relatedSlugs:
   - "soil/zeolite-for-houseplants"
   - "guide/houseplant-pruning-basics"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -118,7 +118,7 @@ amazonProducts:
 
 市販の「観葉植物の土」には様々な種類がありますが、配合が均一でなかったり、品質にばらつきがあるものも少なくありません。特に室内で育てる場合は、排水性と保水性のバランスが取れた土を選ぶことが重要です。
 
-**tokyoplants がおすすめする土：I'm original SOIL**
+**tokyoplants がおすすめする土：I'm original SOIL（tokyoplantsプレミアム培養土）**
 
 tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最適な排水性と保水性を追求したブレンド土です。室内環境での使用を前提に設計されており、根腐れしにくい配合になっています。植え替えを初めて行う方が「最初の一択」として選ぶのに最適な土です。
 

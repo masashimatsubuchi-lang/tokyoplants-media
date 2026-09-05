@@ -12,7 +12,7 @@ relatedSlugs:
   - "research/humidity-and-leaf-damage-thresholds"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -125,7 +125,7 @@ amazonProducts:
 数値がわかれば、水やりや加湿器のタイミングも「なんとなく」から「根拠のある判断」に変えられます。
 
 → 関連商品
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
 - [SwitchBotで観葉植物の湿度管理を自動化](/review/switchbot-humidity-control-houseplants)

@@ -14,7 +14,7 @@ relatedSlugs:
   - "species/philodendron-billietiae-variegated"
   - "species/monstera-miracle"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -109,6 +109,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [バリエガータ植物のキメラとは何か](/research/variegated-chimera-science) / [モンステラ・アルボバリエガータ図鑑](/species/monstera-albo-variegata) / [モンステラ・タイコンステレーション図鑑](/species/monstera-thai-constellation) / [フィロデンドロン・ピンクプリンセス図鑑](/species/philodendron-pink-princess)

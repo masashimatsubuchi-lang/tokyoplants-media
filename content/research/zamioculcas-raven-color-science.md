@@ -10,7 +10,7 @@ relatedSlugs:
   - "research/why-plants-are-green"
   - "species/zamioculcas-raven"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -60,4 +60,4 @@ baseProducts:
 - 光量とアントシアニンの蓄積には関係があると考えられているが、レイブン特有の学術的な裏付けは限定的で、園芸的な経験則にとどまる部分も多い
 - 黒さを楽しみたい場合は、明るい間接光の場所で気長に成熟を待つのがポイント
 
-用土選びに迷ったら、塊根が過湿に弱いザミオクルカスに適した排水性の高い培養土『 I'm original SOIL 』もぜひご検討ください。
+用土選びに迷ったら、塊根が過湿に弱いザミオクルカスに適した排水性の高い培養土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』もぜひご検討ください。

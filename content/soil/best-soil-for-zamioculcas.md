@@ -12,7 +12,7 @@ relatedSlugs:
   - "guide/root-bound-signs-and-solutions"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -60,7 +60,7 @@ baseProducts:
 
 ### 市販の観葉植物用土を使う場合
 
-自分で配合するのが手間な場合は、市販の観葉植物用培養土をベースに調整する方法もあります。tokyoplantsの[『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)は、ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材からなる用土です。そのまま使っても排水性は確保されていますが、ザミオクルカスに使う場合は軽石やパーライトを全体の2〜3割ほど追加すると、より安心な排水性に調整できます。
+自分で配合するのが手間な場合は、市販の観葉植物用培養土をベースに調整する方法もあります。tokyoplantsの[『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)は、ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材からなる用土です。そのまま使っても排水性は確保されていますが、ザミオクルカスに使う場合は軽石やパーライトを全体の2〜3割ほど追加すると、より安心な排水性に調整できます。
 
 保水性の高いことが明記された花用培養土や、腐葉土主体の土は避けましょう。
 

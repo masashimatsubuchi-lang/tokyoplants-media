@@ -16,7 +16,7 @@ relatedSlugs:
   - "research/light-intensity-by-window-direction"
   - "research/watering-frequency-by-season-indoor"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
   - title: "Daily Botanical Towel｜リーフタオル"
@@ -87,6 +87,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939) / [Daily Botanical Towel｜リーフタオル](https://www.tokyoplants.com/items/135803882)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939) / [Daily Botanical Towel｜リーフタオル](https://www.tokyoplants.com/items/135803882)
 
 → 関連記事: [3月の観葉植物リセット手順](/guide/march-houseplant-care-reset)

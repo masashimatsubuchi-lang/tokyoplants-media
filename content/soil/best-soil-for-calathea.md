@@ -12,7 +12,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/kunzan-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -76,7 +76,7 @@ baseProducts:
 - 腐葉土やピートモスなど保水性のある有機質も含まれている
 - 「水はけが良すぎる」タイプではない(サボテン・多肉植物用は避ける)
 
-tokyoplantsの**I'm original SOIL**は、ココチップ・日向石・発酵樹皮など複数の天然素材をブレンドした設計で、通気性を保ちながら適度な保水力も持たせています。カラテアのように「乾燥にも過湿にも弱い」植物には、極端に排水性だけを追求した専用土よりも、こうしたバランス型の用土の方が扱いやすい傾向があります。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は、ココチップ・日向石・発酵樹皮など複数の天然素材をブレンドした設計で、通気性を保ちながら適度な保水力も持たせています。カラテアのように「乾燥にも過湿にも弱い」植物には、極端に排水性だけを追求した専用土よりも、こうしたバランス型の用土の方が扱いやすい傾向があります。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
 
 **避けるべき土：**
 - サボテン・多肉植物専用土(排水性が高すぎて乾燥しやすい)

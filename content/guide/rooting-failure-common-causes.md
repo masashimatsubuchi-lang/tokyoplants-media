@@ -13,7 +13,7 @@ relatedSlugs:
   - "guide/philodendron-propagation-guide"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -95,6 +95,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [モンステラの増やし方完全ガイド](/guide/monstera-propagation-cutting-guide) / [ポトスの増やし方](/guide/pothos-propagation-water-cutting) / [パキラの増やし方](/guide/pachira-propagation-guide) / [フィロデンドロンの増やし方](/guide/philodendron-propagation-guide) / [観葉植物の根腐れは復活できる？](/guide/root-rot-causes-and-recovery)

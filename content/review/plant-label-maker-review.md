@@ -12,7 +12,7 @@ relatedSlugs:
   - "review/houseplant-tools-complete-guide"
   - "species/genus-philodendron"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
@@ -161,6 +161,6 @@ Instagramなどで植物を紹介する際、品種名を毎回調べ直すの�
 
 ## tokyoplantsおすすめ用土
 
-植え替えとあわせて土を見直したい方には、tokyoplantsのオリジナル用土『I'm original SOIL』がおすすめです。排水性・通気性を重視した配合で、根腐れしにくい環境を作れます。ラベルで品種名を管理しながら、土も定期的に見直すことで、コレクションを長く健康に育てられます。
+植え替えとあわせて土を見直したい方には、tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』がおすすめです。排水性・通気性を重視した配合で、根腐れしにくい環境を作れます。ラベルで品種名を管理しながら、土も定期的に見直すことで、コレクションを長く健康に育てられます。
 
 [I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)

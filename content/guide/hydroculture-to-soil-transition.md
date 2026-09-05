@@ -18,7 +18,7 @@ relatedSlugs:
   - "guide/philodendron-hydroculture"
   - "review/hydroponic-kit-comparison"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -195,7 +195,7 @@ A：HYDRO MINERALは溶岩石75%＋ゼオライト25%の無機系培地で、一
 ---
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL 』](https://www.tokyoplants.com/items/99620939)
+- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連カテゴリリンク
 - [育て方ガイドカテゴリ](/guide)

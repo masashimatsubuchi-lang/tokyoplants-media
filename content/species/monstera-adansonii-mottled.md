@@ -19,7 +19,7 @@ baseProducts:
   - title: "Monstera adansonii Mottled｜モンステラ・アダンソニー斑入り"
     url: "https://www.tokyoplants.com/items/144053834"
     price: "お問い合わせ"
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---

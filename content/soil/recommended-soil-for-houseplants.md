@@ -14,7 +14,7 @@ relatedSlugs:
   - "soil/protoleaf-vs-original-soil"
   - "soil/worm-castings-for-houseplants"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL 』"
+  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 ---
@@ -59,7 +59,7 @@ baseProducts:
 
 実際に使用した経験と、成分・価格のバランスを総合的に評価して選びました。
 
-### 1. I'm original SOIL（tokyoplants）
+### 1. I'm original SOIL（tokyoplantsプレミアム培養土）（tokyoplants）
 
 6種類の天然素材をブレンドした、観葉植物専門店が作ったオリジナル用土。ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、[ミミズ堆肥](/soil/worm-castings-for-houseplants)・ピートモス・パーライトも配合し、通気性と水はけに優れます。化学肥料・農薬不使用で、虫が湧きにくい設計。特にアンスリウムやモンステラなどサトイモ科の植物との相性が良いです。
 
