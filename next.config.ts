@@ -2,6 +2,9 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
+    // 2026-09-06: Vercel Image Optimizationの利用上限超過（402 OPTIMIZED_IMAGE_REQUEST_PAYMENT_REQUIRED）で
+    // サイト全体の画像が表示不能になったための緊急停止措置。プランアップグレードまたは月次リセット後に解除を検討。
+    unoptimized: true,
     remotePatterns: [
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "plus.unsplash.com" },
