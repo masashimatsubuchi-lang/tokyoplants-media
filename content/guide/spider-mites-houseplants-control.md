@@ -11,6 +11,7 @@ relatedSlugs:
   - "review/circulator-for-houseplants-review"
   - "guide/winter-watering-houseplants"
   - "soil/indoor-houseplant-soil"
+  - "review/misting-bottle-review"
 amazonProducts:
   - title: "KINCHO園芸（旧:住友化学園芸） オルトランDX粒剤 200g｜浸透移行性殺虫剤"
     asin: "B004MK7RW8"

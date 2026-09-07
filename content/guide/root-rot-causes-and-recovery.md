@@ -22,6 +22,7 @@ relatedSlugs:
   - "guide/anthurium-root-rot-causes-and-recovery"
   - "guide/rainy-season-root-rot-prevention"
   - "research/root-rot-mechanism-science"
+  - "review/smart-soil-moisture-sensor-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
