@@ -73,6 +73,11 @@ baseProducts:
 **原則3：鉢の深さに対して根域を適切にキープする**
 鉢が深すぎると底部に水溜まりゾーンが生まれます。植物の根が届かない深さに水が溜まると、腐敗の温床になります。植物のサイズに対してちょうどよい深さの鉢を選ぶことが重要です。
 
+<div style="margin:1.5rem 0;border-left:4px solid #d97706;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fffbeb">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">「このおしゃれな鉢、植物を植えても大丈夫ですか」というご相談は、実際によくいただきます。結論からお伝えすると大丈夫なのですが、水やりの感覚を"穴あり鉢用"から少し切り替える必要がある、という点だけは毎回お伝えするようにしています。最初の1〜2回はやや不安になるかもしれませんが、鉢の重さで判断する感覚さえ掴めれば、それほど難しいものではありません。</p>
+</div>
+
 ---
 
 ## 水やりの正しい方法（量・頻度・確認方法）
@@ -153,30 +158,15 @@ baseProducts:
 
 すべての植物が穴なし鉢に適しているわけではありません。植物の水分要求量と耐過湿性を考慮して選びましょう。
 
-### 穴なし鉢に向く植物
-
-**サンスベリア**
-乾燥に非常に強く、水やりの頻度を極限まで下げられます。穴なし鉢との相性は観葉植物の中でもトップクラスです。
-
-**ザミオクルカス（ZZ植物）**
-地下に水分を蓄える根茎を持ち、乾燥耐性が高い植物です。水やりを少なめにしても問題なく育ちます。
-
-**ポトス**
-ある程度の過湿にも適応力があります。ただし穴なし鉢では水やり量を抑えることを意識しましょう。
-
-**アロカシア（無機培地使用時）**
-HYDRO MINERALなどの無機系培地と組み合わせることで、穴なし鉢でも管理しやすくなります。
-
-### 穴なし鉢に向かない植物
-
-**モンステラ・フィロデンドロン**
-成長が旺盛で根の量が多く、水分・酸素の両方を大量に消費します。穴なし鉢では酸素不足になりやすいため、穴あり鉢のほうが管理しやすいです。
-
-**アジアンタム・シダ類**
-常に高い湿度を必要としますが、過湿と湿度は異なります。シダ類は土中の水分が多いと根腐れを起こしやすく、穴なし鉢の管理は難易度が高いです。
-
-**多肉植物・サボテン**
-乾燥を好み、過湿に極めて弱い植物です。穴なし鉢との組み合わせは根腐れのリスクが高く、避けるのが賢明です。
+| 植物名 | 耐過湿性 | 穴なし鉢との相性 | ひとことポイント |
+|--------|---------|------------------|------------------|
+| サンスベリア | 高い | ◎ | 乾燥に非常に強く、水やり頻度を極限まで下げられる |
+| ザミオクルカス（ZZ植物） | 高い | ◎ | 地下の根茎に水を蓄えるため多少の管理ミスに強い |
+| ポトス | やや高い | ○ | 過湿への適応力はあるが、水やり量は控えめを意識 |
+| アロカシア（無機培地使用時） | 中程度 | ○（培地次第） | HYDRO MINERALなど無機系培地との組み合わせが前提 |
+| モンステラ・フィロデンドロン | 低い | △ | 根の量が多く、酸欠になりやすいため穴あり鉢向き |
+| アジアンタム・シダ類 | 低い | △〜× | 高湿度は好むが、土中の過湿には弱く難易度が高い |
+| 多肉植物・サボテン | 極めて低い | × | 過湿に極めて弱く、根腐れリスクが高いため避けたい |
 
 ---
 
@@ -187,6 +177,23 @@ HYDRO MINERALなどの無機系培地と組み合わせることで、穴なし�
 ### インナーポット方式とは
 
 穴あり鉢（プラスチック製の育成ポット）に植物を植え、それをデザイン性の高い穴なし鉢に入れるだけの方法です。観葉植物専門店でも、育成と観賞を分ける目的でこの方法が一般的に採用されています。
+
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#92400e;text-align:center">インナーポット方式の断面イメージ</p>
+<div style="border:2px dashed #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff">
+<div style="text-align:center;padding:0.4rem;margin-bottom:0.5rem;color:#78716c;font-size:12px">穴なし鉢（外側・観賞用）</div>
+<div style="border:2px solid #16a34a;border-radius:0.5rem;padding:0.75rem;background:#f0fdf4;text-align:center;margin-bottom:0.5rem">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">穴あり鉢（インナーポット）＋植物</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">水やり後はここごと持ち上げて水を切れる</p>
+</div>
+<div style="border:1px solid #a8a29e;border-radius:0.5rem;padding:0.5rem;background:#f5f5f4;text-align:center;margin-bottom:0.5rem">
+<p style="margin:0;font-size:12px;color:#57534e">小石・パーライトの層（1〜2cm）— インナーポットを底の水から浮かせる</p>
+</div>
+<div style="border:1px dashed #93c5fd;border-radius:0.5rem;padding:0.5rem;background:#eff6ff;text-align:center">
+<p style="margin:0;font-size:12px;color:#1d4ed8">余分な水が溜まるスペース（傾ける・スポイトで定期的に除去）</p>
+</div>
+</div>
+</div>
 
 ### メリット
 

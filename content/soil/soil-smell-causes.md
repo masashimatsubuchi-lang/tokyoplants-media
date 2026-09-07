@@ -25,15 +25,33 @@ baseProducts:
 
 ## 結論：匂いの種類で原因がわかる
 
-| 匂いの種類 | 原因 | 緊急度 |
-|-----------|------|--------|
-| カビ臭い（ジメジメした匂い） | カビの発生・土の過湿 | ★★☆ |
-| 腐敗臭（ドブのような匂い） | 根腐れ・嫌気性発酵 | ★★★ |
-| 酸っぱい匂い | 土の酸性化・有機物の異常発酵 | ★★☆ |
-| アンモニア臭 | 未熟な有機肥料・堆肥 | ★★☆ |
-| 卵の腐った匂い | 嫌気性バクテリア（硫化水素） | ★★★ |
+| 匂いの種類 | 原因 | 緊急度 | 対処法（要点） |
+|-----------|------|--------|--------------|
+| カビ臭い（ジメジメした匂い） | カビの発生・土の過湿 | ★★☆ | 水やりを控え、風通しを改善する |
+| 腐敗臭（ドブのような匂い） | 根腐れ・嫌気性発酵 | ★★★ | すぐに鉢から抜き、根の状態を確認する |
+| 酸っぱい匂い | 土の酸性化・有機物の異常発酵 | ★★☆ | 土の表面をほぐし、通気性を改善する |
+| アンモニア臭 | 未熟な有機肥料・堆肥 | ★★☆ | 表面の肥料を除去し、水でしっかり流す |
+| 卵の腐った匂い | 嫌気性バクテリア（硫化水素） | ★★★ | 腐敗臭と同様、早急に植え替えを検討する |
 
 <mark>腐敗臭と卵の腐った匂いは根腐れが進行している可能性が高く、早急な対処が必要です。</mark>
+
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#92400e;text-align:center">匂いの発生源はどこ？（鉢の断面イメージ）</p>
+<div style="border:2px dashed #d97706;border-radius:0.75rem;overflow:hidden">
+<div style="padding:0.75rem;background:#fef3c7;text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">表層（土の表面）</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78350f">カビ臭・アンモニア臭が出やすいゾーン</p>
+</div>
+<div style="padding:0.75rem;background:#fde68a;text-align:center;border-top:1px dashed #d97706">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">中層（土の中ほど）</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78350f">通気不足による酸っぱい匂い（異常発酵）が起きやすいゾーン</p>
+</div>
+<div style="padding:0.75rem;background:#fcd34d;text-align:center;border-top:1px dashed #d97706">
+<p style="margin:0;font-weight:700;color:#78350f;font-size:13px">根の周辺（鉢底寄り）</p>
+<p style="margin:4px 0 0;font-size:12px;color:#78350f">腐敗臭・卵の腐った匂い（根腐れ・硫化水素）が起きやすい最重要ゾーン</p>
+</div>
+</div>
+</div>
 
 ---
 
@@ -76,6 +94,11 @@ baseProducts:
 5. **水やりを控えめに** — 植え替え後1週間は水やりを控える
 
 根の大部分が腐っている場合は復活が難しくなります。異臭を感じたら早急に対処してください。
+
+<div style="margin:1.5rem 0;border-left:4px solid #d97706;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fffbeb">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">土の匂いに関するご相談は、実際によくいただくもののひとつです。お話をうかがっていると「気づいたときにはもう根が傷んでいた」というケースが少なくありません。匂いは、鉢の中で今なにが起きているかを教えてくれる数少ないサインです。「気のせいかもしれない」と流さず、少しでも違和感があれば早めに鉢から出して根を確認していただくことをおすすめしています。</p>
+</div>
 
 ---
 

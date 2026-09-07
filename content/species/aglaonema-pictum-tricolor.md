@@ -120,6 +120,40 @@ baseProducts:
 - **ハイシルバー**: シルバーグリーンの割合が多く、全体的に明るく光沢感の強い印象
 - **グリーンオングリーン**: 深緑と中緑の差が大きく、コントラストが際立つタイプ
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">3色の配分バランスのイメージ（バリエーションによる傾向の違い）</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">スタンダード</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="width:34%;background:#14532d"></div>
+<div style="width:33%;background:#4d7c0f"></div>
+<div style="width:33%;background:#a8a29e"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">ハイシルバー</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="width:20%;background:#14532d"></div>
+<div style="width:25%;background:#4d7c0f"></div>
+<div style="width:55%;background:#d6d3d1"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">グリーンオングリーン</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="width:55%;background:#14532d"></div>
+<div style="width:35%;background:#4d7c0f"></div>
+<div style="width:10%;background:#a8a29e"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#a8a29e">※実際の配分比率は株ごと・葉ごとに異なります。上図はあくまで傾向を示すイメージです。</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">模様の入り方が特に美しい株は早く決まりやすい、というのはコレクション性の高い植物によくある傾向で、トリカラーも例外ではありません。一枚として同じ模様がない植物だからこそ、「この模様がいい」と感じたタイミングを逃さずに検討することも、この植物と出会ううえでのひとつのコツかもしれません。</p>
+</div>
+
 購入の際は、**葉一枚一枚の模様の入り方**をよく確認することが重要です。同一株であっても季節や生育状況によって新葉の模様が変化することがあるため、現在の葉の状態だけでなく、新葉が展開しているかどうかも健康状態の指標になります。また、根元が詰まっていないか、葉の裏に害虫がいないかもチェックポイントです。
 
 ---

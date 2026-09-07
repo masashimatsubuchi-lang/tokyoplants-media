@@ -95,6 +95,35 @@ amazonProducts:
 
 モスポールは既製品をそのまま使う方法と、支柱＋水苔で自作する方法の2通りがあります。ここでは、どちらにも共通する設置の流れを解説します。
 
+<div style="margin:1.5rem 0;overflow-x:auto">
+<div style="display:flex;align-items:stretch;gap:0.4rem;min-width:640px">
+<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 1</p>
+<p style="margin:4px 0 0;font-size:12px;color:#57534e">植え替えと同時に挿す</p>
+</div>
+<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
+<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 2</p>
+<p style="margin:4px 0 0;font-size:12px;color:#57534e">茎をポールに沿わせる</p>
+</div>
+<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
+<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 3</p>
+<p style="margin:4px 0 0;font-size:12px;color:#57534e">麻紐でゆるく固定</p>
+</div>
+<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
+<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 4</p>
+<p style="margin:4px 0 0;font-size:12px;color:#57534e">ポールを常に湿らせる</p>
+</div>
+<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
+<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 5</p>
+<p style="margin:4px 0 0;font-size:12px;color:#57534e">気根が潜り込むのを待つ</p>
+</div>
+</div>
+</div>
+
 ### 必要なもの
 
 - モスポール（既製品）または支柱＋乾燥水苔
@@ -122,6 +151,11 @@ amazonProducts:
 **STEP 5: 気根が潜り込むのを待つ**
 
 湿らせた状態を維持していると、数週間〜数ヶ月かけて気根がポールの繊維に潜り込み始めます。気根がしっかり張り付けば、以降の管理は通常の水やりサイクルに戻して問題ありません。
+
+<div style="margin:1.5rem 0;border-left:4px solid #d97706;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fffbeb">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">モスポールを設置した直後は、何も変化が見えない期間がしばらく続きます。「本当に活着しているのだろうか」と不安になるお声も少なくありません。ただ、気根が繊維に潜り込むまでには数週間から数ヶ月かかることも珍しくなく、見た目の変化がないからといって失敗しているとは限らないというのが、多くの株を見てきた中での実感です。霧吹きだけは欠かさず、気長に見守っていただくのがいちばんの近道だと感じています。</p>
+</div>
 
 ## よくある失敗例
 

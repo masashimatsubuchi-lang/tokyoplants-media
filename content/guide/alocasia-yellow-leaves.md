@@ -40,6 +40,24 @@ baseProducts:
 
 特に新葉の黄変や、黄色くなるスピードが早い（数日で進行する）場合は根の状態を疑ってください。アロカシアは根腐れを起こしやすい植物で、葉の黄変はその代表的な初期サインです。詳しい見分け方と対処は後述しますが、根腐れが疑われる場合は[アロカシアが根腐れする原因と対処法](/guide/alocasia-root-rot-treatment)も合わせてご覧ください。
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">黄色くなっているのはどの葉？</div>
+<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span>↙ 下葉が1枚だけ</span>
+<span>↘ 新葉／複数枚同時</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">自然な老化・世代交代</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">数週間かけてゆっくり進行／心配不要</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">要チェック：根腐れ・光量・肥料・寒さのいずれか</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">数日〜1週間で急速に進行することも。原因別チェックへ↓</p>
+</div>
+</div>
+</div>
+
 ---
 
 ## 下葉が黄色くなる原因
@@ -98,6 +116,22 @@ baseProducts:
 葉の裏に小さな虫がいたり、白い斑点状の変色が見られたりする場合は、ハダニやカイガラムシによる吸汁被害が疑われます。害虫は葉の養分を吸い取るため、局所的な黄変や斑点として現れます。
 
 **チェック方法**：葉の裏側と葉の付け根を明るい場所でよく観察する。乾燥した環境ではハダニが繁殖しやすいため、湿度管理も予防策になります。
+
+<div style="margin:1.5rem 0;border-left:4px solid #d97706;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fffbeb">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">黄色くなった葉を前にすると、多くの方がまず「これは病気なのでは」と心配になるようです。実際には自然な老化によるものであることも多く、下葉が1枚ずつゆっくり黄色くなっている分には、経過を見守るだけで十分なケースがほとんどだと感じています。それでも判断に迷うときは、葉の様子よりも根の状態を確認していただくほうが、結局は近道になることが多いです。</p>
+</div>
+
+### 新葉の黄変｜原因別 早見表
+
+| 原因 | 見分け方 | 対処法 |
+|------|---------|--------|
+| 水切れ・乾燥 | 土がカラカラ、鉢を持つと軽い | 鉢底から流れ出るまでたっぷり水やり |
+| 光量不足・日照過多 | 新葉が薄い色で展開／葉焼けの斑点 | 明るい間接光の場所へ調整する |
+| 肥料不足・肥料過多 | 直近1〜2ヶ月の施肥履歴を確認 | 生育期に規定量を施肥、または一旦中断 |
+| 低温・寒さ | 室温が15℃を下回っている | 水やり・施肥を控えて休眠を見守る |
+| 病害虫 | 葉裏に虫・白い斑点 | 葉水・拭き取り、必要に応じて薬剤処理 |
+| 根腐れ（複数枚同時に黄変） | 土が何日も湿ったまま／根が黒くぶよぶよ | [根腐れの緊急対処手順](/guide/alocasia-root-rot-treatment)へ |
 
 ---
 
