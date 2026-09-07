@@ -95,35 +95,6 @@ amazonProducts:
 
 モスポールは既製品をそのまま使う方法と、支柱＋水苔で自作する方法の2通りがあります。ここでは、どちらにも共通する設置の流れを解説します。
 
-<div style="margin:1.5rem 0;overflow-x:auto">
-<div style="display:flex;align-items:stretch;gap:0.4rem;min-width:640px">
-<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 1</p>
-<p style="margin:4px 0 0;font-size:12px;color:#57534e">植え替えと同時に挿す</p>
-</div>
-<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
-<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 2</p>
-<p style="margin:4px 0 0;font-size:12px;color:#57534e">茎をポールに沿わせる</p>
-</div>
-<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
-<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 3</p>
-<p style="margin:4px 0 0;font-size:12px;color:#57534e">麻紐でゆるく固定</p>
-</div>
-<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
-<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 4</p>
-<p style="margin:4px 0 0;font-size:12px;color:#57534e">ポールを常に湿らせる</p>
-</div>
-<div style="display:flex;align-items:center;color:#d97706;font-weight:700;font-size:16px">→</div>
-<div style="flex:1;border:2px solid #fbbf24;border-radius:0.75rem;padding:0.7rem;background:linear-gradient(135deg,#fffbeb,#fff);text-align:center">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:12px">STEP 5</p>
-<p style="margin:4px 0 0;font-size:12px;color:#57534e">気根が潜り込むのを待つ</p>
-</div>
-</div>
-</div>
-
 ### 必要なもの
 
 - モスポール（既製品）または支柱＋乾燥水苔
