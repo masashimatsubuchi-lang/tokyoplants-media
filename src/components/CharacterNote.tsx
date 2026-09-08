@@ -7,11 +7,9 @@ interface Props {
 }
 
 /**
- * 記事本文中に挿入する、Green Collectionキャラクターによる注釈カード。
- * 雑誌の「編集注（Editor's Note）」のような控えめな見せ方を意図しており、
- * 吹き出し会話のようなカジュアルな演出は避ける。
- *
- * 本文の専門性・信頼感を損なわないよう、装飾は最小限に留める。
+ * 記事本文中に挿入する、Green Collectionキャラクターの吹き出しコメント。
+ * キャラクターが実際に話しかけているような親しみやすさを出しつつ、
+ * 本文の専門性・信頼感を損なわないよう、コメント自体は本文の言い換えにしない。
  */
 export default function CharacterNote({ character, type, html }: Props) {
   if (!isCharacterId(character)) return null;
@@ -20,19 +18,28 @@ export default function CharacterNote({ character, type, html }: Props) {
   const typeLabel = NOTE_TYPE_LABELS[noteType];
 
   return (
-    <div
-      className={`not-prose my-6 flex items-start gap-3 rounded-2xl border border-zinc-200 bg-zinc-50/70 py-3.5 pl-3.5 pr-4 border-l-4 ${info.accentBorderClass}`}
-    >
-      <div className="flex h-11 w-11 shrink-0 items-center justify-center overflow-hidden rounded-full bg-white ring-1 ring-zinc-200">
+    <div className="not-prose my-6 flex items-start gap-2.5">
+      {/* Avatar */}
+      <div
+        className={`flex h-14 w-14 shrink-0 items-center justify-center overflow-hidden rounded-full bg-white ring-2 ${info.ringClass}`}
+      >
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={info.image} alt={info.name} className="h-9 w-9 object-contain" loading="lazy" />
+        <img src={info.image} alt={info.name} className="h-11 w-11 object-contain" loading="lazy" />
       </div>
-      <div className="min-w-0 flex-1 pt-0.5">
-        <p className="text-[10px] font-bold uppercase tracking-[0.15em] text-zinc-500">
-          {`${info.englishName}'S ${typeLabel}`}
-        </p>
+
+      {/* Speech bubble */}
+      <div
+        className={`relative min-w-0 flex-1 rounded-2xl rounded-tl-sm px-4 pb-3.5 pt-3 ${info.bubbleBgClass}`}
+      >
+        <div className="flex flex-wrap items-baseline gap-x-1.5 gap-y-0.5">
+          <span className={`text-[13px] font-extrabold ${info.nameTextClass}`}>{info.name}</span>
+          <span className="text-[11px] text-zinc-500">{info.roleLabel}</span>
+          <span className="ml-auto rounded-full bg-white/70 px-2 py-0.5 text-[9px] font-bold uppercase tracking-[0.1em] text-zinc-500">
+            {typeLabel}
+          </span>
+        </div>
         <div
-          className="mt-1 text-[14px] leading-relaxed text-zinc-800 [&>p]:m-0 [&>p+p]:mt-2"
+          className="mt-1.5 text-[16px] leading-[1.7] text-zinc-800 [&>p]:m-0 [&>p+p]:mt-2 [font-family:var(--font-yomogi)]"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>

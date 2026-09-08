@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Yomogi } from "next/font/google";
 import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -14,6 +14,14 @@ const geistSans = Geist({
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
+});
+
+// キャラクター注釈（CharacterNote）の吹き出しコメント用の手書き風フォント
+const yomogi = Yomogi({
+  variable: "--font-yomogi",
+  weight: "400",
+  subsets: ["latin"],
+  preload: false,
 });
 
 const GA_ID = "G-F1NSGZ0BQ6";
@@ -137,7 +145,7 @@ export default function RootLayout({
           })(window,document,'script','dataLayer','${GTM_ID}');`}
         </Script>
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} ${yomogi.variable} antialiased`}>
         <noscript>
           <iframe
             src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
