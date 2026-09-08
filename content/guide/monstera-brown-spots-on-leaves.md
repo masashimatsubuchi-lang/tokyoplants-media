@@ -37,6 +37,32 @@ baseProducts:
 
 まず全体像を確認し、該当する原因のセクションを参照してください。
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">茶色い斑点はどこに、どんな形で出ている？</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;margin-top:0.75rem">
+<div style="flex:1;min-width:220px;border:2px solid #ea580c;border-radius:0.75rem;padding:0.75rem;background:#fff7ed;text-align:center">
+<p style="margin:0;font-weight:700;color:#9a3412;font-size:14px">光が当たる面に集中／パリパリ</p>
+<p style="margin:4px 0 0;font-size:12px;color:#c2410c">→ 葉焼け</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">下葉から黄変／水っぽく柔らかい</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">→ 根腐れ・過湿</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #9333ea;border-radius:0.75rem;padding:0.75rem;background:#faf5ff;text-align:center">
+<p style="margin:0;font-weight:700;color:#6b21a8;font-size:14px">不規則な形／黄色いハロー</p>
+<p style="margin:4px 0 0;font-size:12px;color:#7e22ce">→ 病気（斑点病など）</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #2563eb;border-radius:0.75rem;padding:0.75rem;background:#eff6ff;text-align:center">
+<p style="margin:0;font-weight:700;color:#1e40af;font-size:14px">縁・先端から乾いたように茶色</p>
+<p style="margin:4px 0 0;font-size:12px;color:#1d4ed8">→ 水切れ</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">細かい斑点が全体に散らばる</p>
+<p style="margin:4px 0 0;font-size:12px;color:#15803d">→ 害虫（ハダニなど）</p>
+</div>
+</div>
+</div>
+
 ## 理由・仕組み
 
 ### 葉焼けによる斑点
