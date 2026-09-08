@@ -123,6 +123,34 @@ amazonProducts:
 
 鉢は現在のサイズより一回り小さめを選び、根が詰まり気味になるようにします。粗めの配合にすることで、根詰まり状態でも過湿にならず、開花を促す環境が整います。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（室内標準）　赤玉土3：日向石3：ココチップ2：パーライト2</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:2;background:#ca8a04"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">開花を促したい場合　日向石4：赤玉土3：ココチップ2：パーライト1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#a8a29e"></div>
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:2;background:#ca8a04"></div>
+<div style="flex:1;background:#cbd5e1"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#a8a29e">■</span>日向石　<span style="color:#ca8a04">■</span>ココチップ　<span style="color:#cbd5e1">■</span>パーライト</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">開花を狙う配合は日向石の比率を上げるだけのシンプルな調整です。まずは基本配合で株の状態を安定させ、花芽が付きやすい時期に合わせて配合を切り替えるとよいでしょう。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | ホヤへの効果 |

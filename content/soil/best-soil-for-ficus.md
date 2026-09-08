@@ -148,6 +148,38 @@ baseProducts:
 
 梅雨期や通気性の低い室内、プラスチック鉢で管理する場合は日向石を増やして土の乾きを促進します。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（室内管理・共通）　赤玉土5：腐葉土2：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#b45309"></div>
+<div style="flex:2;background:#57534e"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">リラタ向け（排水性強化配合）　赤玉土4：日向石3：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">ウンベラータ向け（やや保水性あり配合）　赤玉土5：腐葉土3：パーライト2</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#b45309"></div>
+<div style="flex:3;background:#57534e"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#57534e">■</span>腐葉土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#292524">■</span>くん炭　<span style="color:#a8a29e">■</span>日向石</p>
+<p style="margin:0.5rem 0 0;font-size:11px;color:#a8a29e">※湿度が高い環境・プラスチック鉢の場合の配合は、上記「リラタ向け」と同じ赤玉土4：日向石3：パーライト2：くん炭1です。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | フィカスへの効果 |

@@ -81,6 +81,23 @@ amazonProducts:
 
 けと土だけでも丸めることは可能ですが、乾燥すると収縮してひび割れやすくなります。赤玉土を混ぜることで、乾湿を繰り返しても形が崩れにくくなります。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合　けと土5：赤玉土（小粒）5</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#44403c"></div>
+<div style="flex:5;background:#b45309"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#44403c">■</span>けと土　<span style="color:#b45309">■</span>赤玉土（小粒）</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">けと土と赤玉土は同量でも、練るときの水加減次第で仕上がりの硬さが変わります。耳たぶくらいの柔らかさを目安に少しずつ水を足していくと、丸めやすくひび割れにくい球になります。</p>
+</div>
+
 ### 配合済みの苔玉用土を使う場合
 
 自分で配合するのが手間な場合は、けと土・赤玉土・富士砂・炭・緩効性肥料があらかじめブレンドされた市販の苔玉用土を使うと手軽です。水を加えて練るだけで使える状態になっているものが多く、初めての苔玉作りにも向いています。

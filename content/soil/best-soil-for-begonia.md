@@ -114,6 +114,34 @@ baseProducts:
 
 マキュラータのように茎が直立して大きく育つタイプは、根量も多くなるためパーライトの比率をやや増やし、排水性を強化します。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（室内標準）　ピートモス4：パーライト3：バーミキュライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#451a03"></div>
+<div style="flex:3;background:#cbd5e1"></div>
+<div style="flex:2;background:#eab308"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">マキュラータ系（排水性強化配合）　ピートモス3：パーライト4：バーミキュライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#451a03"></div>
+<div style="flex:4;background:#cbd5e1"></div>
+<div style="flex:2;background:#eab308"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#451a03">■</span>ピートモス　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#eab308">■</span>バーミキュライト　<span style="color:#292524">■</span>くん炭</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">浅く広がる根茎を持つベゴニアは、比率よりも「鉢の浅さ・広さ」の方が結果を左右しやすい植物です。配合比率は目安として捉え、鉢選びとセットで調整してください。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | ベゴニアへの効果 |

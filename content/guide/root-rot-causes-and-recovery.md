@@ -169,6 +169,24 @@ amazonProducts:
 - **茎の中心部まで腐っている：** 茎を切っても中が茶色い場合は手遅れの可能性が高い
 - **株全体がぐらぐらする：** 根と茎の接合部が腐っている状態
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">白くハリのある根は残っているか？</div>
+<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span>↙ 残っている</span>
+<span>↘ 残っていない・全滅</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">復活が期待できる</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">上記の6ステップ（切除→乾燥→植え替え→養生）で対応する</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">厳しい状態</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">茎の上部が緑で健康なら挿し木を検討。茎の中心まで褐変していれば復活は困難</p>
+</div>
+</div>
+</div>
+
 ただし、茎の上部がまだ緑色で健康なら、挿し木で救える場合があります。健康な部分をカットし、水挿しまたは水苔で発根させる方法を試してみてください。
 
 ---

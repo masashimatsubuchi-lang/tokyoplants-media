@@ -92,6 +92,33 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 
 密閉空間では過湿になりやすいため、鉢植えよりもやや排水性を高めた配合にします。底面に軽石やハイドロボールを敷いて排水層を作ると、水の滞留を防げます。水苔の選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)で詳しく解説しています。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（鉢植え・室内標準）　ピートモス4：赤玉土3：パーライト2：バーミキュライト1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#451a03"></div>
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#eab308"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">テラリウム・ケース栽培（排水性強化配合）　赤玉土4：パーライト3：水苔3</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:3;background:#cbd5e1"></div>
+<div style="flex:3;background:#4d7c0f"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#451a03">■</span>ピートモス　<span style="color:#b45309">■</span>赤玉土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#eab308">■</span>バーミキュライト　<span style="color:#4d7c0f">■</span>水苔</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">フィットニアは保水性が命の植物ですが、テラリウムなど密閉環境では逆に排水性を意識した配合が必要になります。栽培環境によって考え方が変わる点を押さえておいてください。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | フィットニアへの効果 |

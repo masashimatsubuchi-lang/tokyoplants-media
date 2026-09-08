@@ -97,6 +97,31 @@ baseProducts:
 
 水挿しで発根させた挿し穂を土に鉢上げする際は、細く出たばかりの根を傷めないよう、より軽く柔らかい配合が向いています。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（標準的な鉢・ハンギング）　観葉植物用培養土8：パーライト1：赤玉土（小粒）1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:8;background:#78716c"></div>
+<div style="flex:1;background:#cbd5e1"></div>
+<div style="flex:1;background:#b45309"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">挿し木の鉢上げ用（さらに軽い配合）　パーライト5：ピートモスまたはココチップ5</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#cbd5e1"></div>
+<div style="flex:5;background:#a16207"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#78716c">■</span>観葉植物用培養土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#b45309">■</span>赤玉土（小粒）　<span style="color:#a16207">■</span>ピートモス／ココチップ</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">トラデスカンティアは成長の速さに気を取られて土のことは後回しになりがちですが、根が細いぶん粒の粗さの影響を受けやすい植物です。挿し木で増やす前提で管理する場合は、鉢上げ用の軽い配合もあわせて用意しておくと植え替えのたびに迷いません。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | トラデスカンティアへの効果 |

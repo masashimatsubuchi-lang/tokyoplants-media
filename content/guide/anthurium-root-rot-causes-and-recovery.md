@@ -33,6 +33,24 @@ baseProducts:
 
 これらが当てはまる場合は、すぐに鉢から抜いて根の状態を確認してください。
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">葉がしおれている。土の状態は？</div>
+<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span>↙ 乾いている</span>
+<span>↘ 湿っている・鉢が重い</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">水切れの可能性</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">鉢底から流れるまでたっぷり水やりする</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">根腐れの疑い</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">水やりを増やさず、鉢から抜いて根を確認する</p>
+</div>
+</div>
+</div>
+
 ## 理由・仕組み
 
 アンスリウムが根腐れしやすい最大の理由は、自生地での育ち方にあります。中南米の熱帯雨林で樹皮や岩の隙間に根を張って生きるアンスリウムの根は、常に空気に触れられる環境に適応しています。そのため、市販の一般的な観葉植物用培養土のように保水性重視でぎっしり詰まった土に植えると、根の周りに酸素が行き渡らず、あっという間に呼吸ができなくなります。

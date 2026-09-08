@@ -100,6 +100,34 @@ baseProducts:
 
 幹が木質化し鉢が大きくなった株は、土の量自体が多く乾きにくいため、粗い素材の割合を増やして排水性を最大限に高めます。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（標準サイズの鉢）　赤玉土4：ココチップ3：パーライト2：バーク堆肥1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:3;background:#ca8a04"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#9a3412"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">大型株・幹立ちタイプ向け　赤玉土3：ココチップ3：軽石3：バーク堆肥1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#ca8a04"></div>
+<div style="flex:3;background:#d6d3d1"></div>
+<div style="flex:1;background:#9a3412"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#ca8a04">■</span>ココチップ　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#d6d3d1">■</span>軽石　<span style="color:#9a3412">■</span>バーク堆肥</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">大型株向けの配合はパーライトを軽石に置き換え、赤玉土の比率をやや下げているだけです。株が大きくなるほど排水性重視にシフトさせる、という考え方の流れとして捉えてください。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | シェフレラへの効果 |

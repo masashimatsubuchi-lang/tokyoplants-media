@@ -190,6 +190,70 @@ amazonProducts:
 | フィカス | 65% | 25% | 腐葉土10% |
 | 多肉植物 | 30% | 50% | 川砂20% |
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る（培養土：赤玉土：その他）</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合の目安　培養土60％：赤玉土40％</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:60;background:#78716c"></div>
+<div style="flex:40;background:#b45309"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">モンステラ　培養土60％：赤玉土30％：パーライト10％</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:60;background:#78716c"></div>
+<div style="flex:30;background:#b45309"></div>
+<div style="flex:10;background:#cbd5e1"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">サンスベリア　培養土40％：赤玉土40％：川砂またはパーライト20％</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:40;background:#78716c"></div>
+<div style="flex:40;background:#b45309"></div>
+<div style="flex:20;background:#ca8a04"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">アンスリウム　培養土50％：赤玉土30％：腐葉土20％</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:50;background:#78716c"></div>
+<div style="flex:30;background:#b45309"></div>
+<div style="flex:20;background:#78350f"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">ポトス　培養土65％：赤玉土35％（目安の中間値。実際は培養土60〜70％：赤玉土30〜40％の範囲で調整）</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:65;background:#78716c"></div>
+<div style="flex:35;background:#b45309"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">フィカス　培養土65％：赤玉土25％：腐葉土10％</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:65;background:#78716c"></div>
+<div style="flex:25;background:#b45309"></div>
+<div style="flex:10;background:#78350f"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">多肉植物　培養土30％：赤玉土50％：川砂20％</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:30;background:#78716c"></div>
+<div style="flex:50;background:#b45309"></div>
+<div style="flex:20;background:#ca8a04"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#78716c">■</span>培養土　<span style="color:#b45309">■</span>赤玉土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#78350f">■</span>腐葉土　<span style="color:#ca8a04">■</span>川砂／川砂またはパーライト</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">赤玉土の割合は植物ごとの「乾かしたい度合い」を数字にしたものと考えると分かりやすいです。迷ったときは基本の培養土6：赤玉土4に一度戻してから、育てている植物の性質に合わせて少しずつ調整していく進め方をおすすめします。</p>
+</div>
+
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B0044RQIRE?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B0044RQIRE.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />

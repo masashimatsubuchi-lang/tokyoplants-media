@@ -152,6 +152,44 @@ baseProducts:
 
 大きな鉢では粒を中粒にすることで、土の内部まで空気が届きやすくなります。腐葉土の割合は標準のまま維持します。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（室内標準）　赤玉土4：腐葉土3：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:3;background:#78350f"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">湿度が高い環境・梅雨〜夏　赤玉土5：腐葉土2：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#b45309"></div>
+<div style="flex:2;background:#78350f"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">乾燥しやすい環境・素焼き鉢　赤玉土3：腐葉土4：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:4;background:#78350f"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#78350f">■</span>腐葉土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#292524">■</span>くん炭</p>
+<p style="margin:0.5rem 0 0;font-size:11px;color:#a8a29e">※大鉢（6号以上）の場合も比率は基本配合と同じ4：3：2：1で、粒のサイズを中粒に変えるだけです。</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">「過湿もNG・乾燥もNG」という配合は難しく感じられるかもしれませんが、比率をきっちり測る必要はありません。季節や置き場所に応じて赤玉土と腐葉土の割合を少しずつ動かす、くらいの感覚で十分に対応できます。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | エバーフレッシュへの効果 |

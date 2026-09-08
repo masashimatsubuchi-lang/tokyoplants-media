@@ -140,6 +140,44 @@ baseProducts:
 
 梅雨・夏の高湿度環境では有機質を完全に排除し、無機質主体の配合に切り替えます。通気性が最優先になります。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（蔓性・室内標準）　赤玉土4：ヤシガラ繊維2：パーライト3：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:2;background:#a16207"></div>
+<div style="flex:3;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">這い性品種（グロリオサム系）の配合　赤玉土4：ヤシガラ繊維2：パーライト2：腐葉土1：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:2;background:#a16207"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#78716c"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">高湿度環境・梅雨の時期の配合　赤玉土3：日向石3：パーライト3：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:3;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#a16207">■</span>ヤシガラ繊維　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#78716c">■</span>腐葉土　<span style="color:#a8a29e">■</span>日向石　<span style="color:#292524">■</span>くん炭</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">3つの配合はいずれも赤玉土とパーライトを軸にしつつ、環境や品種に応じてヤシガラ繊維・腐葉土・日向石のいずれかを入れ替える構成です。着生植物としての通気性の軸をぶらさないことがポイントです。</p>
+</div>
+
 ### 着生ミックスとは？
 
 海外では「アロイドミックス（Aroid Mix）」と呼ばれる着生植物向けの培地が人気です。樹皮（バーク）・ヤシガラ・パーライト・水苔を主体にした配合で、フィロデンドロンの着生植物としての特性に最もマッチします。

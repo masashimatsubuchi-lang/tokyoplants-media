@@ -59,6 +59,24 @@ baseProducts:
 
 下葉のみで古葉更新なら緊急度は低い一方、新葉黄化は環境不良や根障害のシグナルであることが多く、優先的に確認が必要です。
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">黄化している葉の位置は？</div>
+<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span>↙ 下葉から（新葉は健康）</span>
+<span>↘ 新葉から／複数枚同時</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">緊急度は低い</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">古い葉の生理的な更新の可能性。経過観察でよいケースが多い</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">緊急度は高い</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">環境不良・根の障害を疑い、土と根を優先的に確認する</p>
+</div>
+</div>
+</div>
+
 ### 2. 土の水分を内部まで確認する
 
 表面の見た目だけで判断しないでください。指・竹串・鉢重量で内部状態を確認します。

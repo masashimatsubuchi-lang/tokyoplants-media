@@ -113,6 +113,34 @@ baseProducts:
 
 根が細く浅い品種は、より軽く排水性の高い配合にすることで根腐れリスクを下げられます。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（直立型・室内標準）　赤玉土3：パーライト3：ココチップ2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#cbd5e1"></div>
+<div style="flex:2;background:#ca8a04"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">匍匐型・ロゼット型向け　パーライト4：赤玉土2：ココチップ2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#cbd5e1"></div>
+<div style="flex:2;background:#b45309"></div>
+<div style="flex:2;background:#ca8a04"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#ca8a04">■</span>ココチップ　<span style="color:#292524">■</span>くん炭</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">匍匐型・ロゼット型向けの配合は、赤玉土とパーライトの割合を入れ替えるだけのシンプルな調整です。品種の見た目だけで判断せず、実際の根の張り方を観察しながら選んでみてください。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | ペペロミアへの効果 |

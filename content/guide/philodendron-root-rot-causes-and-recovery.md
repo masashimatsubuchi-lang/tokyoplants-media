@@ -32,6 +32,24 @@ baseProducts:
 - 鉢の土がいつまでも湿っていて、酸っぱいような臭いがする
 - 茎の根元がぶよぶよと柔らかい
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">葉がしおれている。土の状態は？</div>
+<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span>↙ 乾いている</span>
+<span>↘ 湿っている・鉢が重い</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">水切れの可能性</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">鉢底から流れるまでたっぷり水やりする</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">根腐れの疑い</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">水やりを増やさず、鉢から抜いて根を確認する</p>
+</div>
+</div>
+</div>
+
 ## 理由・仕組み
 
 フィロデンドロンの根腐れが起こる背景には、この植物の生育環境が関係しています。多くの品種は熱帯雨林で樹木に絡みつくように育つつる性植物で、根は空気に触れながら水分を得る性質を持っています。鉢植えで一般的な保水性重視の土を使うと、根の周囲の酸素が不足し、根が呼吸できなくなります。

@@ -118,6 +118,35 @@ baseProducts:
 
 葉ものタイプは高湿度を好む一方で過湿には弱いという相反する条件を持ちます。水苔を少量混ぜることで保水力を補いつつ、日向石・パーライトで排水性を確保するバランス型の配合です。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（花ものタイプ・室内標準）　ココチップ3：日向石2：赤玉土3：発酵バーク堆肥2</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#ca8a04"></div>
+<div style="flex:2;background:#a8a29e"></div>
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:2;background:#78716c"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">葉ものタイプ（水苔併用配合）　ココチップ3：日向石2：水苔2：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#ca8a04"></div>
+<div style="flex:2;background:#a8a29e"></div>
+<div style="flex:2;background:#4d7c0f"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#ca8a04">■</span>ココチップ　<span style="color:#a8a29e">■</span>日向石　<span style="color:#b45309">■</span>赤玉土　<span style="color:#78716c">■</span>発酵バーク堆肥　<span style="color:#4d7c0f">■</span>水苔　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#292524">■</span>くん炭</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">配合比率はあくまで目安です。着生植物であるアンスリウムは自生環境の幅が広いため、株の様子を見ながら通気性を優先する方向で微調整していただくのが基本の考え方です。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | アンスリウムへの効果 |

@@ -97,6 +97,33 @@ baseProducts:
 
 支柱に誘引して大きく育てたい株には、着生植物らしい通気性重視の配合がより適しています。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（標準サイズの鉢）　観葉植物用培養土65%：パーライト20%：赤玉土（小粒）15%</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:65;background:#57534e"></div>
+<div style="flex:20;background:#cbd5e1"></div>
+<div style="flex:15;background:#b45309"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">支柱仕立て・大型化を狙う株向け　赤玉土3：ココチップ3：軽石2：バーク堆肥2</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#ca8a04"></div>
+<div style="flex:2;background:#d6d3d1"></div>
+<div style="flex:2;background:#9a3412"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#57534e">■</span>観葉植物用培養土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#b45309">■</span>赤玉土　<span style="color:#ca8a04">■</span>ココチップ　<span style="color:#d6d3d1">■</span>軽石　<span style="color:#9a3412">■</span>バーク堆肥</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">支柱仕立てで大きく育てる場合は、ベースの培養土に頼らず赤玉土・ココチップ・軽石・バーク堆肥を個別に配合する構成に切り替わります。仕立て方に合わせて配合の考え方ごと変えるのがポイントです。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | スキンダプサスへの効果 |

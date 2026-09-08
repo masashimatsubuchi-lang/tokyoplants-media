@@ -146,6 +146,35 @@ amazonProducts:
 
 大きな鉢では粒を中粒にすることで、土の内部まで空気が届きやすくなります。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（室内標準）　赤玉土4：日向石3：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">湿度が高い環境・プラスチック鉢　赤玉土3：日向石4：パーライト2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:4;background:#a8a29e"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#a8a29e">■</span>日向石　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#292524">■</span>くん炭</p>
+<p style="margin:0.5rem 0 0;font-size:11px;color:#a8a29e">※大鉢（8号以上）の場合も比率は基本配合と同じ4：3：2：1で、粒のサイズを中粒に変えるだけです。</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">配合の比率について「厳密に守らないといけないか」というご質問をよくいただきますが、多少の誤差は問題ありません。大切なのは「排水性を最優先する」という考え方そのもので、比率はあくまで目安として捉えていただければ十分です。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | パキラへの効果 |

@@ -32,6 +32,24 @@ baseProducts:
 
 一方で、**春〜秋の時期に落葉・黄変が起きている場合**や、**冬でも新芽・上部の葉まで大量に落ちる場合**は、水のやりすぎ・根腐れ・光量不足など何らかのトラブルが起きている可能性が高いです。
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">落葉の季節と枚数は？</div>
+<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span>↙ 冬に下葉が数枚だけ</span>
+<span>↘ それ以外（春〜秋／大量・新芽）</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">自然な生理落葉</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">1〜2週間で数枚程度のペース／新芽は健康／心配不要</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">要チェック：根腐れ・乾燥・光量・環境ストレスのいずれか</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">葉の落ち方（しおれる／パリパリ）で原因を絞り込む↓</p>
+</div>
+</div>
+</div>
+
 まずは以下の早見表で状況を確認してください。
 
 | 症状 | 季節 | 可能性が高い原因 |

@@ -41,6 +41,11 @@ amazonProducts:
 
 つまりザミオクルカスの管理で意識すべきは「頻度」ではなく「乾湿のサイクルを守ること」です。水やりの間隔を一律の日数で決めるのではなく、土の乾き具合を都度確認する習慣が失敗を防ぎます。
 
+<div style="margin:1.5rem 0;border-left:4px solid #d97706;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fffbeb">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">「乾燥に強い」と紹介される植物ほど、実は過湿には弱いというねじれた性質を持っていることが少なくありません。ザミオクルカスもその代表例で、耐乾性の高さと耐湿性の低さは表裏一体の関係にあります。水やりのタイミングで迷ったときは、「もう少し我慢して土を乾かす」方向に判断を寄せておくと、結果的に失敗が少なくなる傾向があります。</p>
+</div>
+
 ---
 
 ## 具体的なやり方

@@ -130,6 +130,34 @@ baseProducts:
 
 屋外管理や梅雨・夏の湿度が高い時期は、日向石を加えて排水性をさらに高めます。腐葉土の割合を減らすことで虫の発生も抑えられます。
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（室内標準）　赤玉土5：腐葉土3：パーライト2</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#b45309"></div>
+<div style="flex:3;background:#78350f"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">屋外管理・夏の高温多湿　赤玉土5：腐葉土2：パーライト2：日向石1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#b45309"></div>
+<div style="flex:2;background:#78350f"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#a8a29e"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#78350f">■</span>腐葉土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#a8a29e">■</span>日向石</p>
+<p style="margin:0.5rem 0 0;font-size:11px;color:#a8a29e">※大株（8号以上）の場合も比率は基本配合と同じ5：3：2で、粒のサイズを中粒に変えるだけです。</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">シュロチクは「丈夫だから土は何でもいい」と思われがちですが、根が横に密に広がる性質上、実際は配合バランスの影響を受けやすい植物です。数年単位で植え替えていない株ほど、まずは基本配合での植え替えから見直してみてください。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | シュロチクへの効果 |

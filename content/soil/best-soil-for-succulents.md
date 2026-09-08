@@ -126,6 +126,35 @@ amazonProducts:
 
 観葉植物の土記事で紹介されることの多い溶岩石（ラバロック）は、多孔質で見た目には乾燥に強そうですが、実際は保水性がやや高く、多肉植物・サボテンの主要な培地としては向きません。表土装飾や少量のブレンド材として使う程度にとどめ、主体は軽石・パーライト・川砂にするのが安全です。[溶岩石の特性について詳しくはこちら](/soil/lava-rock-for-houseplants)
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">自作する場合の配合比率を見る</p>
+<div style="margin-bottom:0.75rem">
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">基本配合（多肉植物・室内標準）　赤玉土3：軽石3：パーライト3：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:3;background:#cbd5e1"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<div>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">サボテン向け（さらに排水性を高めた配合）　軽石4：赤玉土3：川砂2：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#a8a29e"></div>
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:2;background:#ca8a04"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#a8a29e">■</span>軽石　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#ca8a04">■</span>川砂　<span style="color:#292524">■</span>くん炭</p>
+<p style="margin:0.5rem 0 0;font-size:11px;color:#a8a29e">※この配合は自分で用土をブレンドする場合の目安です。市販の多肉植物・サボテン専用培養土を使う場合はブレンド不要です。</p>
+</div>
+
+<div style="margin:1.5rem 0;border-left:4px solid #78716c;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fafaf9">
+<p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
+<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">多肉植物・サボテンは観葉植物の土の配合思想とは方向性が異なるため、まずは市販の専用培養土から試すのが失敗の少ない選び方です。自作配合は、コレクションの株数が増えてコストや調整幅を重視したくなってから検討しても遅くありません。</p>
+</div>
+
 ### 配合素材の役割まとめ
 
 | 素材 | 役割 | 多肉植物・サボテンへの効果 |

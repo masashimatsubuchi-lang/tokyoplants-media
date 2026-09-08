@@ -85,6 +85,20 @@ amazonProducts:
 
 特に注意したいのが「土が乾かない」という状態です。季節や室温によって乾燥速度は変わりますが、夏場に7日以上、冬場に14日以上経っても表面の土が湿っているなら、水やり頻度を見直すか根腐れの確認が必要です。
 
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">土が乾かない期間の目安</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;margin-top:0.6rem">
+<div style="flex:1;min-width:220px;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fffbeb;text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:14px">夏場</p>
+<p style="margin:4px 0 0;font-size:12px;color:#57534e">7日以上、表面が湿ったままなら要注意</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fffbeb;text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:14px">冬場</p>
+<p style="margin:4px 0 0;font-size:12px;color:#57534e">14日以上、表面が湿ったままなら要注意</p>
+</div>
+</div>
+</div>
+
 ---
 
 ## 緊急対処手順｜5ステップで復活させる
