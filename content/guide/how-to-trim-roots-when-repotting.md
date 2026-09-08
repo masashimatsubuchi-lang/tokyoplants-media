@@ -92,6 +92,28 @@ baseProducts:
 
 ## 根の切り方：状態別ガイド
 
+<div style="margin:1.5rem 0;border:2px solid #78716c;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fafaf9,#fff)">
+<div style="text-align:center;border:2px solid #57534e;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#44403c;max-width:320px;margin:0 auto;font-size:14px">根の状態はどれに近い？</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;margin-top:1rem">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">健康だが根がぎっしり</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">→ ケース1（根詰まり）へ</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fffbeb;text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:14px">一部の根が黒く変色</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b45309">→ ケース2（一部根腐れ）へ</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">大半が黒変・異臭</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">→ ケース3（深刻な根腐れ）へ</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #2563eb;border-radius:0.75rem;padding:0.75rem;background:#eff6ff;text-align:center">
+<p style="margin:0;font-weight:700;color:#1e3a8a;font-size:14px">健康・サイズ維持したい</p>
+<p style="margin:4px 0 0;font-size:12px;color:#1d4ed8">→ ケース4（同じ鉢に戻す）へ</p>
+</div>
+</div>
+</div>
+
 ### ケース1：健康だが根がぎっしり（根詰まり）
 
 根が鉢の形にびっしり張っている状態です。
@@ -186,6 +208,15 @@ baseProducts:
 - 根詰まりしやすいが、回復力が高いため1/3カットしても問題なく回復する
 - 水耕栽培から土に移す際は、水耕用の根（白く細い根）をすべて切り落とし、新たに土用の根を出させる方が安定しやすい
 - ツルの長さと根のバランスを意識し、地上部が極端に大きい場合は合わせて剪定する
+
+### 植物別 早見表
+
+| 植物 | 根の特徴 | 切る量の目安 | 特に注意すべき点 |
+|------|---------|------------|----------------|
+| モンステラ | 気根＋細い土中根の2種類 | 根詰まり時は1/3程度 | 気根は切らない |
+| アロカシア | 太めで根量が少ない | 全体の1/4以内 | 腐った根は必ず除去。切りすぎ注意 |
+| パキラ | 細く白い根、腐ると黒変 | 明確な数値目安はなし（腐った根の除去を優先） | 切除後は切り口を半日〜1日乾燥させる |
+| ポトス | 細く白い根、回復力が高い | 1/3カットしても問題なく回復 | 水耕から土に移す際は水耕用の根をすべて切り落とす |
 
 ---
 

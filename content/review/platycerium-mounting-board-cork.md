@@ -14,16 +14,16 @@ relatedSlugs:
 amazonProducts:
   - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
     asin: "B0CG35V5CD"
-    price: "¥1,500前後"
-  - title: "WinJapan コルク樹皮 中サイズ150×200 5枚"
+    price: "¥2,980前後（2026-09-08確認）"
+  - title: "WinJapan コルク樹皮 中サイズ150×200 5枚（訳あり・B級品）"
     asin: "B0CG4GFVSH"
-    price: "¥1,500前後"
+    price: "¥3,280前後（2026-09-08確認）"
   - title: "ナチュラル ヘゴ板 13〜20cm×30〜40cm"
     asin: "B076F2LGHL"
-    price: "¥1,500前後"
+    price: "¥1,500前後（⚠️2026-09-08時点で在庫切れ・再入荷未定を確認）"
   - title: "チャーム ビカクシダ コウモリラン 板付けセット"
     asin: "B0B2PHL6VM"
-    price: "¥1,500前後"
+    price: "¥2,456前後（2026-09-08確認）"
 ---
 
 ビカクシダの板付けを始めようとしたとき、「コルク板がいいの？ヘゴ板がいいの？杉板は？」と素材選びで迷う方は多いはずです。種類が多すぎて、どれを選べばよいか分からないまま購入をためらってしまう——そんな経験をしている方に向けて、この記事では板の種類ごとの特徴から選び方、固定方法まで一気に解説します。
@@ -186,12 +186,12 @@ amazonProducts:
 </a>
 </div>
 
-### 2. WinJapan コルク樹皮 中サイズ 5枚セット
+### 2. WinJapan コルク樹皮 中サイズ 5枚セット（訳あり・B級品）
 
-まとめて揃えたい方に。150×200mmの中サイズが5枚セットで届くお得なコルク樹皮。天然素材ならではの凹凸がビカクシダの根の活着を促します。複数株をまとめて板付けしたいときや、失敗しても替えがある安心感が初心者にも◎。
+まとめて揃えたい方に。150×200mmの中サイズが5枚セットで届くお得なコルク樹皮。天然素材ならではの凹凸がビカクシダの根の活着を促します。複数株をまとめて板付けしたいときや、失敗しても替えがある安心感が初心者にも◎。<br>※こちらは検品ではじかれた「訳あり・B級品」（傷・ひび割れ・厚さ不足等）です。板付けの機能自体には問題ない前提で販売されていますが、見た目にこだわりたい方は正規品も検討してください。
 
 **メリット**: コスパ良好・まとめ買い可能・着生ランやエアプランツにも使える
-**デメリット**: サイズのばらつきがある場合あり
+**デメリット**: サイズのばらつきがある場合あり・訳あり品のため個体差が大きい
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B0CG4GFVSH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
@@ -209,6 +209,8 @@ amazonProducts:
 
 **メリット**: 通気性が最高・活着スピードが速い・自生地に近い環境を再現できる
 **デメリット**: 入手しにくい・サイズにばらつきあり
+
+> ⚠️ **在庫状況の注意**: この商品は2026年9月時点でAmazon在庫切れ・再入荷予定なしとなっています。前述の通りヘゴ板は資源保護・輸出規制により流通量自体が少ないため、入手できない場合は上記の天然コルク板（コスパと通気性のバランスが良い代替素材）を検討してください。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B076F2LGHL?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">

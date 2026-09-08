@@ -16,14 +16,14 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "Barrina T5 育成ライト 4本セット（2ft・フルスペクトル）"
-    asin: "B0814LNBHH"
-    note: "コスパ重視の入門モデル。棚1段に4本並べで均一照射"
-    price: "¥4,000〜"
+  - title: "HaruDesign 植物育成LEDライト GL-T5 L530（18W×2本・全長53cm）"
+    asin: "B0D362RR1R"
+    note: "コスパ重視の入門モデル。Samsung LM281B+Pro搭載・IP66防塵防水・連結拡張可。評価★4.6・レビュー65件（2026-09-08 Amazon直接確認・在庫あり）"
+    price: "¥6,973前後"
   - title: "HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）"
     asin: "B0DCFSQP9F"
-    note: "国産・Samsung製LEDチップ使用。高品質で3年保証付き"
-    price: "¥10,000〜"
+    note: "国産・Samsung製LEDチップ使用。3年保証付き。評価★4.3・レビュー45件（2026-09-08 Amazon直接確認・在庫あり）"
+    price: "¥5,587前後（2026-09-08確認）"
 ---
 
 植物育成ライトを選ぶとき「バータイプとスポットタイプ、どちらがいい？」と迷う方は多いです。結論からいうと、**複数の植物をまとめて照らしたい・棚やラックで管理したい場合はバータイプが圧倒的に向いています。**
@@ -72,13 +72,13 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 ### 1位：HaruDesign BAR LIGHT L610（国産・高品質）
 
-- **PPFD（植物から30cm）**: 約300μmol/m²/s以上
+- **PPFD**: メーカー公式の30cm時点データは非公開（距離が近いほど強くなる特性上、設置時は実測して調整するのがおすすめ）
 - **照射範囲**: 幅約61cm
 - **色温度**: 5800K（Samsung LM281+PRO採用・自然光に近い白色）
 - **演色性**: 高演色（コレクター向け）
 - **消費電力**: 32W
-- **価格**: 約10,000〜15,000円
-- **Amazon**: Prime対応・3年保証
+- **価格**: ¥5,587前後（2026-09-08確認）
+- **Amazon**: 出品者発送・3年保証
 
 日本のプラントコレクター向けに設計された国産バータイプ。Samsung製チップ使用で光の質が高く、アロカシア・ビカクシダ・アンスリウムの本格栽培に対応。コンパクトな棚育成から本格ラック環境まで使いやすい。
 
@@ -89,21 +89,21 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 </a>
 </div>
 
-### 2位：Barrina T5 育成ライト 4本セット
+### 2位：HaruDesign 植物育成LEDライト GL-T5 L530（コスパ重視）
 
-- **PPFD**: 約180μmol/m²/s（4本設置時）
-- **照射範囲**: 1本あたり幅30cm × 4本
-- **色温度**: 6500K
-- **消費電力**: 10W × 4本 = 40W
-- **価格**: 約4,000〜6,000円
-- **Amazon**: Prime対応
+- **PPFD**: メーカー公式データ非公開
+- **照射範囲**: 全長53cm（連結で拡張可・最大30本連結対応）
+- **消費電力**: 18W × 2本 = 36W
+- **その他**: Samsung LM281B+Pro搭載・IP66防塵防水・製品3年保証
+- **価格**: ¥6,973前後（2026-09-08確認）
+- **Amazon**: 出品者発送・在庫あり
 
-コスパ最強クラス。棚1段に4本並べることで均一な光量を確保できます。ポトス・モンステラ・ウンベラータなど一般的な観葉植物への補光入門に最適。
+L610と同じくSamsung製LEDチップを採用した国産バータイプ。連結して長さを拡張できるため、棚の奥行きや複数段にも柔軟に対応。ポトス・モンステラ・ウンベラータなど一般的な観葉植物への補光入門に向いています。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0814LNBHH.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">バータイプ育成ライト（コスパ重視）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0D362RR1R?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0D362RR1R.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">HaruDesign GL-T5 L530（コスパ重視）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -122,6 +122,16 @@ Amazon以外の専門ショップで取り扱われる高品質モデルです�
 
 高演色（Ra96）でコレクター植物にも対応するバー型モデルです。IP65の防水仕様のため、葉水や加湿環境の多い植物棚でも使いやすい設計です。取り扱いはBARREL公式サイトのみ。
 
+### 3モデルのスペック比較表
+
+ここまで紹介した3モデルのスペックを一覧で比較します。
+
+| モデル | PPFD | 照射範囲 | 色温度 | 演色性 | 消費電力 | 価格 |
+|--------|------|---------|--------|--------|---------|------|
+| HaruDesign BAR LIGHT L610 | メーカー公式データ非公開 | 幅約61cm | 5800K | 高演色（Samsung LM281B+PRO） | 32W | ¥5,587前後 |
+| HaruDesign GL-T5 L530 | メーカー公式データ非公開 | 全長53cm（連結拡張可） | 記載なし | 記載なし | 36W（18W×2本） | ¥6,973前後 |
+| BARREL GROW LINE 60cm型 | 約170〜180μmol/m²/s（5〜15cm） | 60cm（120cm型もあり） | 3000K／5000K選択 | Ra96 | 18W（60cm型）／25W（120cm型） | 約13,990円（60cm型） |
+
 ## バータイプ育成ライトの電気代
 
 育成ライトは毎日点灯するため、電気代も重要な選定ポイントです。
@@ -130,10 +140,10 @@ Amazon以外の専門ショップで取り扱われる高品質モデルです�
 
 | モデル | 消費電力 | 12h点灯/日の月間電気代 |
 |--------|---------|-------------------|
-| Barrina 4本セット（40W） | 40W | 約390円/月 |
-| HaruDesign BAR LIGHT L610（32W） | 32W | 約170円/月 |
-| GROW LINE 60cm型（18W） | 18W | 約95円/月 |
-| GROW LINE 120cm型（25W） | 25W | 約135円/月 |
+| HaruDesign GL-T5 L530（36W） | 36W | 約350円/月 |
+| HaruDesign BAR LIGHT L610（32W） | 32W | 約310円/月 |
+| GROW LINE 120cm型（25W） | 25W | 約243円/月 |
+| GROW LINE 60cm型（18W） | 18W | 約175円/月 |
 
 ※電気代単価27円/kWhで計算
 
@@ -152,8 +162,8 @@ Amazon以外の専門ショップで取り扱われる高品質モデルです�
 
 | 予算 | おすすめ | 対象植物 | 購入先 |
 |------|---------|---------|--------|
-| 〜6,000円 | Barrina T5 4本セット | ポトス・モンステラ・サンスベリア | [Amazon](https://www.amazon.co.jp/dp/B0814LNBHH?tag=tokyoplants0f-22) |
-| 〜15,000円 | HaruDesign BAR LIGHT L610 | アロカシア・ビカクシダ・アンスリウム | [Amazon](https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22) |
+| 〜6,000円 | HaruDesign BAR LIGHT L610 | アロカシア・ビカクシダ・アンスリウム | [Amazon](https://www.amazon.co.jp/dp/B0DCFSQP9F?tag=tokyoplants0f-22) |
+| 〜7,000円 | HaruDesign GL-T5 L530 | ポトス・モンステラ・サンスベリア（連結して拡張したい場合） | [Amazon](https://www.amazon.co.jp/dp/B0D362RR1R?tag=tokyoplants0f-22) |
 | 〜15,000円 | GROW LINE 60cm型 | コレクター植物全般（高演色Ra96） | 専門店のみ |
 
 スポットタイプとバータイプを組み合わせて使うのもおすすめです。バーで全体を照らし、特に光量が必要な株にはスポットを追加する方法が、コスパと効果のバランスに優れています。

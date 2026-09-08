@@ -107,6 +107,15 @@ baseProducts:
 
 フライデックはブラックベルベットと同じくベルベット質の葉を持つが、葉色は濃い緑（黒ではない）で、サイズもブラックベルベットより大きい。成株で40〜60cm程度になるため、鉢のサイズ選びや水やり量がやや異なる。フライデックのほうが根量が多く、若干過湿に強い印象があるが、それでもアロカシア全般としては排水性重視の管理が基本である。
 
+### 近縁種比較表
+
+| 品種 | 葉色 | 葉のテクスチャ | 成株サイズ目安 | 特記事項 |
+|------|------|--------------|--------------|---------|
+| ブラックベルベット（本種） | 黒に近い暗紫色 | ベルベット状（マット） | 20〜30cm | 銀白の葉脈とのコントラストが最大の特徴 |
+| ドラゴンスケール | シルバーグリーン〜ダークグリーン | 鱗のような深い凹凸 | ブラックベルベットよりやや大きい | 耐寒性はやや強め。過湿に弱い点は共通 |
+| シルバードラゴン | シルバーがかった淡い色 | ドラゴンスケールと同様の深い凹凸 | ドラゴンスケールに近い | やや光量を多く必要とする |
+| フライデック | 濃い緑（黒ではない） | ベルベット質だが黒くはない | 40〜60cm | 根量が多く、やや過湿に強い傾向 |
+
 ---
 
 ## 育て方
@@ -126,6 +135,19 @@ baseProducts:
 排水性を最優先にする。小さな球茎と少ない根量のため、水持ちが良すぎる用土は致命的になる。
 
 **配合例:** 赤玉土（小粒）3：パーライト3：鹿沼土2：ピートモス1：くん炭1
+
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率の目安</p>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">赤玉土3：パーライト3：鹿沼土2：ピートモス1：くん炭1</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#cbd5e1"></div>
+<div style="flex:2;background:#fbbf24"></div>
+<div style="flex:1;background:#78350f"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#b45309">■</span>赤玉土　<span style="color:#cbd5e1">■</span>パーライト　<span style="color:#fbbf24">■</span>鹿沼土　<span style="color:#78350f">■</span>ピートモス　<span style="color:#292524">■</span>くん炭</p>
+</div>
 
 市販の「観葉植物の土」をそのまま使うと保水性が高すぎる場合が多い。使う場合はパーライトやバーク堆肥を3割程度混ぜて排水性を上げるとよい。鉢はプラ鉢より素焼き鉢のほうが鉢壁からも水分が蒸発するため、過湿リスクを減らせる。
 

@@ -133,6 +133,17 @@ baseProducts:
 - パーライト: 25%
 - 水苔: 25%
 
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">バーク粗配合の比率</p>
+<p style="margin:0 0 4px;font-size:12px;color:#57534e">バークチップ50％：パーライト25％：水苔25％</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:50;background:#92400e"></div>
+<div style="flex:25;background:#a8a29e"></div>
+<div style="flex:25;background:#166534"></div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:11px;color:#57534e"><span style="color:#92400e">■</span>バークチップ　<span style="color:#a8a29e">■</span>パーライト　<span style="color:#166534">■</span>水苔</p>
+</div>
+
 通気性が高い反面、乾きが早いため、水やり頻度が上がります。
 
 ### 避けるべき用土
