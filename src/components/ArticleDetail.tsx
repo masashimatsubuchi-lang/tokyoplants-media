@@ -9,6 +9,7 @@ import RelatedPosts from "./RelatedPosts";
 import ArticleCard from "./ArticleCard";
 import BaseProductBlock from "./BaseProductBlock";
 import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
+import CharacterNote from "./CharacterNote";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
 import ArticleAppCta from "./ArticleAppCta";
@@ -26,15 +27,56 @@ function stripHtml(text: string): string {
   return text.replace(/<[^>]*>/g, "").trim();
 }
 
-/** 最初の </h2> の直後でHTMLを2分割する。H2が存在しない場合は [html, ""] を返す */
-function splitAfterFirstH2(html: string): [string, string] {
-  const pattern = /<\/h2>/i;
-  const match = pattern.exec(html);
-  if (match) {
-    const idx = match.index + match[0].length;
-    return [html.slice(0, idx), html.slice(idx)];
+type ContentSegment =
+  | { type: "html"; html: string }
+  | { type: "note"; character: string; noteType: string; innerHtml: string }
+  | { type: "banner" };
+
+/**
+ * 本文HTML中の `<!-- character-note character="lum" type="point" -->...<!-- /character-note -->`
+ * マーカーを検出し、素のHTML断片とキャラクター注釈断片に分割する。
+ * remark-html は sanitize:false のため、Markdown本文中に書かれたHTMLコメントはそのまま
+ * contentHtml に残る（マーカー内側の1行テキストは通常のMarkdown段落として <p> 化される）。
+ */
+function splitCharacterNotes(html: string): ContentSegment[] {
+  const pattern = /<!--\s*character-note\s+character="([a-z]+)"\s+type="([a-z]+)"\s*-->([\s\S]*?)<!--\s*\/character-note\s*-->/g;
+  const segments: ContentSegment[] = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+  while ((match = pattern.exec(html)) !== null) {
+    if (match.index > lastIndex) {
+      segments.push({ type: "html", html: html.slice(lastIndex, match.index) });
+    }
+    segments.push({ type: "note", character: match[1], noteType: match[2], innerHtml: match[3] });
+    lastIndex = match.index + match[0].length;
   }
-  return [html, ""];
+  if (lastIndex < html.length) {
+    segments.push({ type: "html", html: html.slice(lastIndex) });
+  }
+  return segments;
+}
+
+/** segments内で最初に </h2> を含む html セグメントを見つけ、その直後に banner セグメントを挿入する。
+ * 見つからない場合は末尾に追加する（表示自体は保証しつつ、位置がずれる可能性を残す）。 */
+function insertBannerAfterFirstH2(segments: ContentSegment[]): ContentSegment[] {
+  const result: ContentSegment[] = [];
+  let inserted = false;
+  for (const seg of segments) {
+    if (!inserted && seg.type === "html") {
+      const match = /<\/h2>/i.exec(seg.html);
+      if (match) {
+        const idx = match.index + match[0].length;
+        result.push({ type: "html", html: seg.html.slice(0, idx) });
+        result.push({ type: "banner" });
+        result.push({ type: "html", html: seg.html.slice(idx) });
+        inserted = true;
+        continue;
+      }
+    }
+    result.push(seg);
+  }
+  if (!inserted) result.push({ type: "banner" });
+  return result;
 }
 
 
@@ -69,7 +111,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const hasBaseProducts = post.baseProducts && post.baseProducts.length > 0;
   const showInlineBanner = ["soil", "guide", "species", "research", "review"].includes(post.category) && hasInlineProduct(post.baseProducts);
   const showShopBanner = hasBaseProducts || !hasAmazonProducts;
-  const [htmlTop, htmlBottom] = showInlineBanner ? splitAfterFirstH2(contentWithIds) : [contentWithIds, ""];
+  const noteSegments = splitCharacterNotes(contentWithIds);
+  const contentSegments = showInlineBanner ? insertBannerAfterFirstH2(noteSegments) : noteSegments;
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
   ).slice(0, 3);
@@ -155,11 +198,17 @@ export default function ArticleDetail({ post }: { post: Post }) {
 
             {/* Content */}
             <div className="prose prose-zinc mt-10 max-w-none prose-headings:scroll-mt-28 prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-700 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-700 prose-li:leading-[1.85]">
-              <div dangerouslySetInnerHTML={{ __html: htmlTop }} />
-              {showInlineBanner && post.baseProducts && (
-                <InlineProductBanner products={post.baseProducts} />
-              )}
-              {htmlBottom && <div dangerouslySetInnerHTML={{ __html: htmlBottom }} />}
+              {contentSegments.map((seg, i) => {
+                if (seg.type === "html") {
+                  return seg.html ? <div key={i} dangerouslySetInnerHTML={{ __html: seg.html }} /> : null;
+                }
+                if (seg.type === "banner") {
+                  return post.baseProducts ? <InlineProductBanner key={i} products={post.baseProducts} /> : null;
+                }
+                return (
+                  <CharacterNote key={i} character={seg.character} type={seg.noteType} html={seg.innerHtml} />
+                );
+              })}
             </div>
 
             {/* Amazon Affiliate Block */}
