@@ -149,12 +149,31 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 - 赤玉土（小粒）：2
 - バーミキュライト：1
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#a8a29e"></div>
+<div style="flex:3;background:#78716c"></div>
+<div style="flex:2;background:#b45309"></div>
+<div style="flex:1;background:#eab308"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ねこチップ 40%　■腐葉土 30%　■赤玉土 20%　■バーミキュライト 10%</p>
+</div>
+
 水はけと保水性のバランスが取れた配合。モンステラ、フィロデンドロン、ポトスなどの一般的な観葉植物に向いています。
 
 **水はけ重視型（根腐れ対策）**
 - ねこチップ：5
 - 赤玉土：3
 - 腐葉土：2
+
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#a8a29e"></div>
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:2;background:#78716c"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ねこチップ 50%　■赤玉土 30%　■腐葉土 20%</p>
+</div>
 
 排水性を重視したい植物（アロカシア・ビカクシダ・エアプランツなど）や、根腐れを繰り返してしまう方向けの配合です。追肥はやや多めに必要になります。
 
@@ -163,6 +182,16 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 - 腐葉土：4
 - 赤玉土：2
 - バーミキュライト：1
+
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:4;background:#78716c"></div>
+<div style="flex:2;background:#b45309"></div>
+<div style="flex:1;background:#eab308"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ねこチップ 30%　■腐葉土 40%　■赤玉土 20%　■バーミキュライト 10%</p>
+</div>
 
 エアコンの風が当たりやすい部屋や、水やりの頻度を抑えたい方向けです。
 
