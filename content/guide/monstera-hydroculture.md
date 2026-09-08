@@ -87,6 +87,14 @@ amazonProducts:
 
 溶岩石75%＋ゼオライト25%という配合は、高い通気性を維持しながらゼオライトの水質浄化・保肥効果を最大限に引き出します。さらに、オスモコートなどの緩効性肥料が配合されている製品であれば、植え付けから8〜9ヶ月は追肥不要で育てられます。
 
+<div style="margin:1rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:75;background:#78716c"></div>
+<div style="flex:25;background:#a8a29e"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■溶岩石 75%　■ゼオライト 25%</p>
+</div>
+
 ## 土からハイドロへの移行手順
 
 すでに土栽培しているモンステラをハイドロカルチャーに切り替えることは十分可能です。ただし、正しい手順を踏まないと根へのダメージが大きくなるため、以下の流れで丁寧に行いましょう。
