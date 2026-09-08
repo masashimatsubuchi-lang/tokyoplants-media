@@ -20,11 +20,9 @@ export default function CharacterNote({ character, type, html }: Props) {
   return (
     <div className="not-prose my-6 flex items-start gap-2.5">
       {/* Avatar */}
-      <div
-        className={`flex h-14 w-14 shrink-0 items-center justify-center overflow-hidden rounded-full bg-white ring-2 ${info.ringClass}`}
-      >
+      <div className="flex h-14 w-14 shrink-0 items-center justify-center">
         {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={info.image} alt={info.name} className="h-11 w-11 object-contain" loading="lazy" />
+        <img src={info.image} alt={info.name} className="h-14 w-14 object-contain" loading="lazy" />
       </div>
 
       {/* Speech bubble */}
@@ -39,7 +37,7 @@ export default function CharacterNote({ character, type, html }: Props) {
           </span>
         </div>
         <div
-          className="mt-1.5 text-[16px] font-semibold leading-[1.7] text-zinc-800 [&>p]:m-0 [&>p+p]:mt-2 [font-family:var(--font-character-note)]"
+          className="mt-1.5 text-[16px] font-normal leading-[1.7] text-zinc-800 [&>p]:m-0 [&>p+p]:mt-2 [font-family:var(--font-character-note)]"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>

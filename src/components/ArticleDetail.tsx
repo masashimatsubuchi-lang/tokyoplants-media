@@ -10,6 +10,7 @@ import ArticleCard from "./ArticleCard";
 import BaseProductBlock from "./BaseProductBlock";
 import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
 import CharacterNote from "./CharacterNote";
+import ComparisonSummary, { ComparisonOption } from "./ComparisonSummary";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
 import ArticleAppCta from "./ArticleAppCta";
@@ -30,16 +31,43 @@ function stripHtml(text: string): string {
 type ContentSegment =
   | { type: "html"; html: string }
   | { type: "note"; character: string; noteType: string; innerHtml: string }
-  | { type: "banner" };
+  | { type: "banner" }
+  | { type: "comparison"; title: string; left: ComparisonOption; right: ComparisonOption };
+
+function parseMarkerAttrs(raw: string): Record<string, string> {
+  const attrs: Record<string, string> = {};
+  const attrPattern = /(\w+)="([^"]*)"/g;
+  let m: RegExpExecArray | null;
+  while ((m = attrPattern.exec(raw)) !== null) {
+    attrs[m[1]] = m[2];
+  }
+  return attrs;
+}
+
+function parseComparisonAttrs(raw: string): { title: string; left: ComparisonOption; right: ComparisonOption } {
+  const attrs = parseMarkerAttrs(raw);
+  const toItems = (value: string | undefined) =>
+    (value ?? "")
+      .split("|")
+      .map((s) => s.trim())
+      .filter(Boolean);
+  return {
+    title: attrs.title ?? "",
+    left: { label: attrs.leftLabel ?? "", tagline: attrs.leftTagline ?? "", items: toItems(attrs.leftItems) },
+    right: { label: attrs.rightLabel ?? "", tagline: attrs.rightTagline ?? "", items: toItems(attrs.rightItems) },
+  };
+}
 
 /**
  * 本文HTML中の `<!-- character-note character="lum" type="point" -->...<!-- /character-note -->`
- * マーカーを検出し、素のHTML断片とキャラクター注釈断片に分割する。
+ * および `<!-- comparison-summary title="..." leftLabel="..." ... -->`（属性完結・閉じタグなし）
+ * マーカーを検出し、素のHTML断片とコンポーネント挿入断片に分割する。
  * remark-html は sanitize:false のため、Markdown本文中に書かれたHTMLコメントはそのまま
- * contentHtml に残る（マーカー内側の1行テキストは通常のMarkdown段落として <p> 化される）。
+ * contentHtml に残る（character-noteの内側テキストは通常のMarkdown段落として <p> 化される）。
  */
-function splitCharacterNotes(html: string): ContentSegment[] {
-  const pattern = /<!--\s*character-note\s+character="([a-z]+)"\s+type="([a-z]+)"\s*-->([\s\S]*?)<!--\s*\/character-note\s*-->/g;
+function splitContentMarkers(html: string): ContentSegment[] {
+  const pattern =
+    /<!--\s*character-note\s+character="([a-z]+)"\s+type="([a-z]+)"\s*-->([\s\S]*?)<!--\s*\/character-note\s*-->|<!--\s*comparison-summary\s+([\s\S]*?)-->/g;
   const segments: ContentSegment[] = [];
   let lastIndex = 0;
   let match: RegExpExecArray | null;
@@ -47,7 +75,11 @@ function splitCharacterNotes(html: string): ContentSegment[] {
     if (match.index > lastIndex) {
       segments.push({ type: "html", html: html.slice(lastIndex, match.index) });
     }
-    segments.push({ type: "note", character: match[1], noteType: match[2], innerHtml: match[3] });
+    if (match[1] !== undefined) {
+      segments.push({ type: "note", character: match[1], noteType: match[2], innerHtml: match[3] });
+    } else {
+      segments.push({ type: "comparison", ...parseComparisonAttrs(match[4]) });
+    }
     lastIndex = match.index + match[0].length;
   }
   if (lastIndex < html.length) {
@@ -111,7 +143,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const hasBaseProducts = post.baseProducts && post.baseProducts.length > 0;
   const showInlineBanner = ["soil", "guide", "species", "research", "review"].includes(post.category) && hasInlineProduct(post.baseProducts);
   const showShopBanner = hasBaseProducts || !hasAmazonProducts;
-  const noteSegments = splitCharacterNotes(contentWithIds);
+  const noteSegments = splitContentMarkers(contentWithIds);
   const contentSegments = showInlineBanner ? insertBannerAfterFirstH2(noteSegments) : noteSegments;
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
@@ -204,6 +236,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 }
                 if (seg.type === "banner") {
                   return post.baseProducts ? <InlineProductBanner key={i} products={post.baseProducts} /> : null;
+                }
+                if (seg.type === "comparison") {
+                  return <ComparisonSummary key={i} title={seg.title} left={seg.left} right={seg.right} />;
                 }
                 return (
                   <CharacterNote key={i} character={seg.character} type={seg.noteType} html={seg.innerHtml} />

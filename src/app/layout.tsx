@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono, Klee_One } from "next/font/google";
+import { Geist, Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -16,12 +17,14 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// キャラクター注釈（CharacterNote）の吹き出しコメント用の手書き風フォント
-// Yomogiは線が細く視認性が低かったため、太めで読みやすいKlee One（SemiBold）に変更（2026-09-09）
-const handwriting = Klee_One({
+// キャラクター注釈（CharacterNote）の吹き出しコメント用の手書き風フォント「うずらフォント」
+// (c) azukifont.com、フリーフォント・商用利用可（利用規約: https://azukifont.com/kiyaku.html）。
+// 元のTTF(8.8MB)から、サイト全記事で実際に使われている文字＋かな/記号/英数字のみに
+// サブセット化したWOFF2（624KB）を同梱している（2026-09-09、Yomogi→Klee One→うずらフォントに変更）。
+const handwriting = localFont({
   variable: "--font-character-note",
-  weight: "600",
-  subsets: ["latin"],
+  src: "./fonts/uzura-font.woff2",
+  weight: "400",
   preload: false,
 });
 

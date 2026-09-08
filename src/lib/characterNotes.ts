@@ -31,8 +31,6 @@ export interface CharacterInfo {
   nameTextClass: string;
   /** 吹き出し背景の淡いタイント用Tailwindクラス */
   bubbleBgClass: string;
-  /** アバターの縁取り用Tailwindクラス */
-  ringClass: string;
   /** このキャラクターが担当するテーマ（記事執筆時の選定メモ、詳細版。UIには出さない） */
   topics: string;
   /** 一言でわかるキャラクター性（記事執筆時のトーン参考。UIには出さない） */
@@ -47,7 +45,6 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
     accentHex: "#F3DFA8",
     nameTextClass: "text-[#8A6D23]",
     bubbleBgClass: "bg-[#F3DFA8]/20",
-    ringClass: "ring-[#F3DFA8]",
     topics: "植物の特徴・育て方・豆知識（品種の性質、なぜそうなるかの仕組み）",
     personality: "穏やかで物知りな植物博士。説教しない、短くわかりやすい説明が得意。",
   },
@@ -58,7 +55,6 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
     accentHex: "#2F5D4A",
     nameTextClass: "text-[#2F5D4A]",
     bubbleBgClass: "bg-[#2F5D4A]/10",
-    ringClass: "ring-[#2F5D4A]",
     topics: "水やり・乾燥・水分管理（頻度の目安、乾かし気味/多湿の判断）",
     personality: "控えめで観察力がある見守り役。押しつけがましくなく、寄り添うように促す。",
   },
@@ -69,7 +65,6 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
     accentHex: "#4A4038",
     nameTextClass: "text-[#4A4038]",
     bubbleBgClass: "bg-[#4A4038]/8",
-    ringClass: "ring-[#4A4038]",
     topics: "土・根・植え替え・用土配合",
     personality: "寡黙で頼れる職人気質。短く核心を突くひとことが多い。",
   },
@@ -80,7 +75,6 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
     accentHex: "#FF9F5A",
     nameTextClass: "text-[#C2570A]",
     bubbleBgClass: "bg-[#FF9F5A]/15",
-    ringClass: "ring-[#FF9F5A]",
     topics: "成長・開花・生育・繁殖（増やし方、生育サイン）",
     personality: "明るいムードメーカー。前向きで少し大げさなくらい褒め上手。",
   },
@@ -91,7 +85,6 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
     accentHex: "#FFD166",
     nameTextClass: "text-[#9C6B00]",
     bubbleBgClass: "bg-[#FFD166]/20",
-    ringClass: "ring-[#FFD166]",
     topics: "光・日照・育成ライト・置き場所",
     personality: "のんびり屋で太陽好き。ほどよい塩梅を教えてくれる。",
   },
