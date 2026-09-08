@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono, Yomogi } from "next/font/google";
+import { Geist, Geist_Mono, Klee_One } from "next/font/google";
 import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -17,9 +17,10 @@ const geistMono = Geist_Mono({
 });
 
 // キャラクター注釈（CharacterNote）の吹き出しコメント用の手書き風フォント
-const yomogi = Yomogi({
-  variable: "--font-yomogi",
-  weight: "400",
+// Yomogiは線が細く視認性が低かったため、太めで読みやすいKlee One（SemiBold）に変更（2026-09-09）
+const handwriting = Klee_One({
+  variable: "--font-character-note",
+  weight: "600",
   subsets: ["latin"],
   preload: false,
 });
@@ -145,7 +146,7 @@ export default function RootLayout({
           })(window,document,'script','dataLayer','${GTM_ID}');`}
         </Script>
       </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} ${yomogi.variable} antialiased`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} ${handwriting.variable} antialiased`}>
         <noscript>
           <iframe
             src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}

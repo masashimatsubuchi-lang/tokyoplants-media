@@ -39,7 +39,7 @@ export default function CharacterNote({ character, type, html }: Props) {
           </span>
         </div>
         <div
-          className="mt-1.5 text-[16px] leading-[1.7] text-zinc-800 [&>p]:m-0 [&>p+p]:mt-2 [font-family:var(--font-yomogi)]"
+          className="mt-1.5 text-[16px] font-semibold leading-[1.7] text-zinc-800 [&>p]:m-0 [&>p+p]:mt-2 [font-family:var(--font-character-note)]"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
