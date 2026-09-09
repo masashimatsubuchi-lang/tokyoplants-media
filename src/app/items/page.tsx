@@ -50,64 +50,61 @@ function firstRelatedTitle(slugs: string[]): { title: string; href: string } | n
 function ItemCard({ item }: { item: RecommendedItem }) {
   const isOwn = item.source === "tokyoplants";
   const href = isOwn ? getTokyoplantsUrl(item.url!) : getAmazonUrl(item.asin!);
-  const imageUrl = isOwn ? undefined : getAmazonImageUrl(item.asin!);
+  const imageUrl = isOwn ? item.image : getAmazonImageUrl(item.asin!);
   const related = firstRelatedTitle(item.relatedSlugs);
 
   return (
     <div
-      className={`flex flex-col rounded-2xl border p-5 ${
-        isOwn
-          ? "border-emerald-200 bg-gradient-to-br from-emerald-50/70 via-white to-emerald-50/30"
-          : "border-amber-200 bg-gradient-to-br from-amber-50/70 via-white to-amber-50/30"
+      className={`flex flex-col overflow-hidden rounded-2xl border ${
+        isOwn ? "border-emerald-200 bg-white" : "border-amber-200 bg-white"
       }`}
     >
-      <div className="flex items-start gap-3">
-        <div
-          className={`flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-xl border bg-white ${
-            isOwn ? "border-emerald-100" : "border-amber-100"
+      <div className={`relative h-44 w-full ${isOwn ? "bg-emerald-50" : "bg-amber-50"}`}>
+        {imageUrl ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={imageUrl}
+            alt={item.title}
+            className={`h-full w-full ${isOwn ? "object-cover" : "object-contain p-4"}`}
+            loading="lazy"
+          />
+        ) : (
+          <div className="flex h-full w-full items-center justify-center text-3xl">🌿</div>
+        )}
+        <span
+          className={`absolute left-3 top-3 rounded-full px-2 py-0.5 text-[10px] font-bold text-white ${
+            isOwn ? "bg-emerald-600" : "bg-amber-500"
           }`}
         >
-          {imageUrl ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={imageUrl} alt="" className="h-full w-full object-contain" loading="lazy" />
-          ) : (
-            <span className="text-2xl">🌿</span>
-          )}
-        </div>
-        <div className="min-w-0 flex-1">
-          <span
-            className={`inline-block rounded-full px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide ${
-              isOwn ? "bg-emerald-600 text-white" : "bg-amber-500 text-white"
-            }`}
-          >
-            {isOwn ? "tokyoplants公式" : "Amazon"}
-          </span>
-          <p className="mt-1 text-[15px] font-bold leading-snug text-gray-900">{item.title}</p>
-          {item.price && <p className="mt-0.5 text-sm font-bold text-gray-700">{item.price}</p>}
-        </div>
+          {isOwn ? "tokyoplants公式" : "Amazon"}
+        </span>
       </div>
 
-      <p className="mt-3 text-[13px] leading-relaxed text-gray-600">{item.reason}</p>
+      <div className="flex flex-1 flex-col p-4">
+        <p className="text-[15px] font-bold leading-snug text-gray-900">{item.title}</p>
+        {item.price && <p className="mt-0.5 text-sm font-bold text-gray-700">{item.price}</p>}
+        <p className="mt-2 text-[13px] leading-relaxed text-gray-600">{item.reason}</p>
 
-      {related && (
-        <Link
-          href={related.href}
-          className="mt-3 text-xs font-semibold text-teal-700 hover:text-teal-900 hover:underline"
+        {related && (
+          <Link
+            href={related.href}
+            className="mt-2 text-xs text-teal-700 hover:text-teal-900 hover:underline"
+          >
+            {related.title} →
+          </Link>
+        )}
+
+        <a
+          href={href}
+          target="_blank"
+          rel={isOwn ? "noopener noreferrer" : "sponsored noopener noreferrer"}
+          className={`mt-auto pt-4 inline-flex items-center justify-center rounded-full px-4 py-2 text-xs font-bold text-white transition-colors ${
+            isOwn ? "bg-emerald-700 hover:bg-emerald-800" : "bg-amber-600 hover:bg-amber-700"
+          }`}
         >
-          この商品が登場する記事: {related.title} →
-        </Link>
-      )}
-
-      <a
-        href={href}
-        target="_blank"
-        rel={isOwn ? "noopener noreferrer" : "sponsored noopener noreferrer"}
-        className={`mt-4 inline-flex items-center justify-center rounded-full px-4 py-2 text-xs font-bold text-white transition-colors ${
-          isOwn ? "bg-emerald-700 hover:bg-emerald-800" : "bg-amber-600 hover:bg-amber-700"
-        }`}
-      >
-        {isOwn ? "tokyoplantsで見る →" : "Amazonで見る →"}
-      </a>
+          {isOwn ? "tokyoplantsで見る →" : "Amazonで見る →"}
+        </a>
+      </div>
     </div>
   );
 }

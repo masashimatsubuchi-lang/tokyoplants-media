@@ -15,8 +15,10 @@ export interface RecommendedItem {
   url?: string;
   /** Amazon商品の場合のASIN */
   asin?: string;
+  /** tokyoplants商品の商品写真（/public配下）。未指定ならAmazon側はASINから自動生成 */
+  image?: string;
   price?: string;
-  /** なぜ選んでいるか（1〜3文、本文の言い換えではなく購入判断の決め手） */
+  /** なぜ選んでいるか（1文、購入判断の決め手のみ） */
   reason: string;
   /** この商品の選定根拠となった記事（content/{category}/{slug}） */
   relatedSlugs: string[];
@@ -34,27 +36,27 @@ export const RECOMMENDED_OWN_ITEMS: RecommendedItem[] = [
     title: "I'm original SOIL（tokyoplantsプレミアム培養土）",
     source: "tokyoplants",
     url: "https://www.tokyoplants.com/items/99620939",
+    image: "/images/products/im-original-soil-main.jpg",
     price: "¥1,200〜",
-    reason:
-      "6種の天然素材をブレンドし、化学肥料不使用で元肥配合済み。植え替え直後から追肥を気にせず使える、tokyoplantsの看板用土です。",
+    reason: "6種の天然素材をブレンドし、化学肥料不使用で元肥配合済みの看板用土。",
     relatedSlugs: ["soil/recommended-soil-for-houseplants"],
   },
   {
     title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地",
     source: "tokyoplants",
     url: "https://www.tokyoplants.com/items/142692278",
+    image: "/images/products/hydro-mineral-main.jpg",
     price: "¥1,480",
-    reason:
-      "富士山溶岩石75%・ゼオライト25%の無機配合で、ハイドロカルチャーや底面給水に最適。肥料効果が8〜9ヶ月持続するため管理の手間が少なくて済みます。",
+    reason: "富士山溶岩石×ゼオライトの無機配合で、肥料効果が8〜9ヶ月持続。",
     relatedSlugs: ["guide/monstera-hydroculture", "guide/alocasia-hydroculture"],
   },
   {
     title: "Daily Botanical Towel｜リーフタオル",
     source: "tokyoplants",
     url: "https://www.tokyoplants.com/items/135803882",
+    image: "/images/products/botanical-towel-main.jpg",
     price: "¥2,000",
-    reason:
-      "モンステラ・アンスリウム・アロカシアなど人気植物のシルエットをモチーフにしたマイクロファイバータオル。植物好きへのギフトとしても選ばれています。",
+    reason: "モンステラ・アンスリウム・アロカシアのシルエットをモチーフにしたタオル。",
     relatedSlugs: ["species/genus-monstera"],
   },
 ];
@@ -70,8 +72,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B005Q4LU1I",
         price: "¥3,220〜",
-        reason:
-          "1876年創業・堺の刃物メーカー製のバイパス式。握るだけでロック解除できる打ち合いクッション付きで、根切りにも使いやすい定番の1本です。",
+        reason: "堺の刃物メーカー製で、握るだけでロック解除できる定番のバイパス式剪定鋏。",
         relatedSlugs: ["review/pruning-shears-comparison", "guide/repotting-tools-checklist"],
       },
       {
@@ -79,8 +80,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B00CSH0AGC",
         price: "¥355〜",
-        reason:
-          "大小3サイズがセットになった定番の土入れ。鉢のサイズに合わせて使い分けられ、価格も手頃なので最初の1セットとしておすすめです。",
+        reason: "大小3サイズがセットになった、鉢のサイズに合わせて使い分けられる定番の土入れ。",
         relatedSlugs: ["guide/repotting-tools-checklist"],
       },
       {
@@ -88,8 +88,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B0C9LN59ZR",
         price: "¥999前後",
-        reason:
-          "600D防水オックスフォード生地に銅製ボタン付き。植え替え中にこぼれた土をそのまま鉢に戻せる設計で、部屋を汚さずに作業できます。",
+        reason: "防水生地でこぼれた土をそのまま鉢に戻せる、部屋を汚さない植え替えシート。",
         relatedSlugs: ["review/repotting-mat-comparison"],
       },
     ],
@@ -103,24 +102,21 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         title: "BARREL NEO AMATERAS LED 20W 植物育成ライト",
         source: "amazon",
         asin: "B0BXPKS4S7",
-        reason:
-          "電球型で高PPFD・演色性Ra97の本格モデル。コレクター植物や光量を要する品種まで、幅広い植物の光量不足を補えます。",
+        reason: "電球型で高PPFD・演色性Ra97の本格モデル。光量を要する植物にも対応。",
         relatedSlugs: ["review/plant-light-review"],
       },
       {
         title: "SwitchBot サーキュレーター Lite",
         source: "amazon",
         asin: "B0D9896MPY",
-        reason:
-          "DCモーター搭載で静音22dB、30畳まで対応。風通しを良くすることでコバエや根腐れの予防にもつながる、地味だが効果の大きい道具です。",
+        reason: "静音22dBのDCモーター搭載で、風通しを良くしてコバエ・根腐れ予防にもつながる。",
         relatedSlugs: ["review/circulator-for-houseplants-review"],
       },
       {
         title: "フルプラ ダイヤスプレー エクセレント500",
         source: "amazon",
         asin: "B001HPEIWI",
-        reason:
-          "霧が細かく葉全体に均一にかかるタイプ。高湿度を好む植物の葉水や、ハダニ予防の日常ケアに使いやすい定番品です。",
+        reason: "霧が細かく葉全体に均一にかかる、葉水やハダニ予防の日常ケアに使いやすい定番品。",
         relatedSlugs: ["review/misting-bottle-review"],
       },
       {
@@ -128,8 +124,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B0027WPD7O",
         price: "¥748〜",
-        reason:
-          "液体肥料の定番。希釈して水やりのタイミングで使え、成長期の追肥を切らさないために常備しておきたい1本です。",
+        reason: "希釈して水やりのタイミングで使える、成長期の追肥に常備したい液体肥料の定番。",
         relatedSlugs: ["review/houseplant-fertilizer-products-comparison"],
       },
       {
@@ -137,8 +132,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B00288GPJC",
         price: "¥400〜600程度",
-        reason:
-          "挿し木を増やしたいときの発根促進剤の定番。切り口に軽くまぶすだけで発根率が上がりやすく、初めての挿し木にも扱いやすい粉末タイプです。",
+        reason: "切り口に軽くまぶすだけで発根率が上がる、挿し木の発根促進剤の定番。",
         relatedSlugs: ["review/rooting-hormone-powder-comparison"],
       },
       {
@@ -146,8 +140,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B0CV9TCSQR",
         price: "¥1,478前後",
-        reason:
-          "水挿しの発根管理をそのままインテリアにできる試験管型スタンド。挿し穂の根の伸びを日々観察したい人に向いています。",
+        reason: "水挿しの発根管理をそのままインテリアにできる、木製フレームの試験管型スタンド。",
         relatedSlugs: ["review/propagation-station-glass-vase-comparison"],
       },
     ],
@@ -162,8 +155,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B002B54J4U",
         price: "¥3,064前後",
-        reason:
-          "温度・湿度に加え快適レベルまで表示され、最高最低記録・アラーム機能付き。置き場所の環境を数値で把握する第一歩に向いています。",
+        reason: "温度・湿度に加え快適レベルまで表示され、最高最低記録・アラーム機能も搭載。",
         relatedSlugs: ["review/thermo-hygrometer-comparison"],
       },
       {
@@ -171,8 +163,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B08PPML5TC",
         price: "¥2,480〜",
-        reason:
-          "GOOD DESIGN AWARD受賞の色変化式・電池不要スティック。土に挿しておくだけで水やりのタイミングが一目でわかり、水のやりすぎ・根腐れ予防に直結します。",
+        reason: "土に挿すだけで水やりのタイミングが一目でわかる、GOOD DESIGN AWARD受賞の電池不要スティック。",
         relatedSlugs: ["review/watering-checker-comparison"],
       },
       {
@@ -180,8 +171,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B0DF4TB93J",
         price: "¥2,798前後",
-        reason:
-          "水分・pH・温度に加えて日照（照度）まで1台で数値化できるデジタルメーター。電池式でアプリ不要、すぐに使い始められます。",
+        reason: "水分・pH・温度・日照を1台で数値化できる、アプリ不要のデジタルメーター。",
         relatedSlugs: ["review/smart-soil-moisture-sensor-comparison"],
       },
     ],
@@ -196,8 +186,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B007UM6NK2",
         price: "¥800〜",
-        reason:
-          "スプレータイプで、ハダニ・アブラムシ・カイガラムシに即効性があります。虫を見つけたときにすぐ対処できる、常備しておきたい1本です。",
+        reason: "ハダニ・アブラムシ・カイガラムシに即効性のある、常備しておきたいスプレー。",
         relatedSlugs: ["review/houseplant-pest-control-tools"],
       },
       {
@@ -205,8 +194,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B0CRJND4H6",
         price: "¥1,555〜",
-        reason:
-          "土に挿すだけで忌避と捕獲を両立でき、薬剤不使用なので小さな子供やペットがいる家庭でも使いやすい設計です。",
+        reason: "土に挿すだけで忌避と捕獲を両立、薬剤不使用で子供やペットがいる家庭にも使いやすい。",
         relatedSlugs: ["review/fungus-gnat-control-products-comparison"],
       },
       {
@@ -214,8 +202,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B0CZJKWQKB",
         price: "¥2,500〜",
-        reason:
-          "土に混ぜ込むことで水はけを改善し、過湿によるカビ・根腐れの発生を予防します。土のカビが気になる方の対策の第一歩に向いています。",
+        reason: "土に混ぜ込んで水はけを改善し、過湿によるカビ・根腐れを予防する。",
         relatedSlugs: ["soil/mold-on-houseplant-soil"],
       },
     ],
@@ -229,8 +216,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         title: "BIBILAB ビザールプランツラック LPR-800-BK",
         source: "amazon",
         asin: "B0DGFY7TMV",
-        reason:
-          "育成ライト・サーキュレーターの取付に対応した植物専用設計のラック。キャスター付きで連結拡張もでき、コレクションが増えてきた人に向いています。",
+        reason: "育成ライト・サーキュレーターの取付に対応した、キャスター付き連結拡張式の植物専用ラック。",
         relatedSlugs: ["review/plant-rack-and-greenhouse-review"],
       },
       {
@@ -238,16 +224,14 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B0F8HVGRB4",
         price: "¥2,490",
-        reason:
-          "耐荷重200kgで円形・矩形どちらの鉢にも対応する伸縮式。大型鉢の日当たり調整や模様替えの負担を大きく減らせます。",
+        reason: "耐荷重200kgの伸縮式で、大型鉢の日当たり調整や模様替えの負担を大きく減らせる。",
         relatedSlugs: ["review/plant-caddy-stand-with-wheels-comparison"],
       },
       {
         title: "Bambu Lab A1 mini 3Dプリンター",
         source: "amazon",
         asin: "B0CRYJBKQQ",
-        reason:
-          "既製品にちょうどいいサイズがない鉢を自作したい人向けの入門機。通気性メッシュ鉢など、観葉植物向けのデータ設計にも対応しやすいモデルです。",
+        reason: "既製品にちょうどいいサイズがない鉢を自作したい人向けの入門機。",
         relatedSlugs: ["review/bambu-lab-3d-printer-comparison"],
       },
       {
@@ -255,8 +239,7 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         source: "amazon",
         asin: "B01EIXUY0A",
         price: "¥417〜",
-        reason:
-          "好きなサイズにカットして使えるロールタイプの定番品。植え替えのたびに鉢底石の流出・虫の侵入を防ぐ、地味だが欠かせない道具です。",
+        reason: "好きなサイズにカットして使える、鉢底石の流出・虫の侵入を防ぐロールタイプの定番品。",
         relatedSlugs: ["review/drainage-net-comparison"],
       },
     ],
