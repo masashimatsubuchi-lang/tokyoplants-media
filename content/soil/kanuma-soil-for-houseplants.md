@@ -87,6 +87,16 @@ pHが合わない土だと、栄養そのものはあっても根が吸収でき
 - **酸性土壌を好む植物向け（カラテア・シダ類）**
 鹿沼土（小粒）3：赤玉土（小粒）3：腐葉土またはバーク堆肥 3：くん炭 1
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#eab308"></div>
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:3;background:#78716c"></div>
+<div style="flex:1;background:#292524"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■鹿沼土（小粒）30%　■赤玉土（小粒）30%　■腐葉土またはバーク堆肥 30%　■くん炭 10%</p>
+</div>
+
 - **過湿回避・通気性重視型（サンスベリア・ザミオクルカス）**
 鹿沼土（小粒）4：赤玉土（硬質小粒）4：パーライト 2
 

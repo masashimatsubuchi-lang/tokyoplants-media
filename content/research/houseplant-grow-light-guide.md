@@ -8,7 +8,6 @@ tags:
   - 育成ライト
   - LED
   - 室内栽培
-  - 育成ライト
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/plant-light-review"
@@ -57,6 +56,16 @@ amazonProducts:
 
 - 南向き・東向きの窓際（直射日光が入る場所）
 - 光量が少なくても育つ品種：ポトス・ザミオクルカス・サンスベリアなど
+
+<!-- comparison-summary
+  title="うちの植物にライトは必要？"
+  leftLabel="ライトが必要なケース"
+  leftTagline="光不足のサインが出ている"
+  leftItems="窓から2m以上離れた場所に置いている|北向き・採光が少ない部屋に置いている|徒長（茎が細く間延び）が起きている|新葉が小さい・斑入り品種の斑が薄れた|秋〜冬に元気がなくなる"
+  rightLabel="ライトなしでも育てられるケース"
+  rightTagline="十分な自然光が確保できている"
+  rightItems="南向き・東向きの窓際（直射日光が入る）|光量が少なくても育つ品種（ポトス・ザミオクルカス・サンスベリアなど）"
+-->
 
 ---
 

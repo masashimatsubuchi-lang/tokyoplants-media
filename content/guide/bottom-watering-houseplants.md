@@ -123,6 +123,14 @@ amazonProducts:
 **3. 水位を管理する**
 容器に水を張る場合、水位は容器高さの**1/5〜1/4**が目安です。培地の下部だけが水に触れ、上部は空気と接する状態を保ちます。
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:1;background:#0ea5e9"></div>
+<div style="flex:4;background:#e0e7ff"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■水位（容器高さの1/5〜1/4を目安に）　■空気に触れる層（根が呼吸できる部分）</p>
+</div>
+
 **4. 換水のタイミング**
 容器内の水が完全になくなったタイミングで新しい水に替えます。「補給（足し水）」ではなく**全換え**が基本です。夏場は3〜5日、冬場は1〜2週間が目安です。
 

@@ -97,6 +97,17 @@ baseProducts:
 | パーライト | 1 | 通気性 |
 | ミミズ堆肥 | 1 | 有機質・微生物 |
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:2;background:#78716c"></div>
+<div style="flex:2;background:#a8a29e"></div>
+<div style="flex:1;background:#d6d3d1"></div>
+<div style="flex:1;background:#4d7c0f"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■赤玉土（小粒・硬質）40%　■ココチップ20%　■日向石（小粒）20%　■パーライト10%　■ミミズ堆肥10%</p>
+</div>
+
 有機質はミミズ堆肥のみに限定し、虫と臭いのリスクを最小化しています。
 
 ### 完全無機質タイプ（虫ゼロを追求する方向け）

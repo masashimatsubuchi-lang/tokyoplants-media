@@ -97,6 +97,16 @@ NEO AMATERASと同価格帯・同用途で検討されやすい機種と比較�
 
 ビカクシダの光量管理全般については [ビカクシダにライトは必要？育成ライトの選び方・設置・照射時間](/guide/platycerium-grow-light-guide) で、置き場所との使い分けは [ビカクシダの置き場所ガイド](/guide/platycerium-placement-guide) で詳しく解説している。
 
+<!-- comparison-summary
+  title="迷ったら姉妹機種TSUKUYOMIとも比較を"
+  leftLabel="NEO AMATERAS（青色寄り）"
+  leftTagline="引き締めて育てたい人向け"
+  leftItems="色温度約5,900Kのやや青白い光|徒長抑制・株をコンパクトに引き締めたい人向け|公表PPFDは約406µmol/m²/s|ビカクシダ・アガベ・多肉植物に最適"
+  rightLabel="TSUKUYOMI（自然光寄り）"
+  rightTagline="観葉植物全般に使いやすい"
+  rightItems="色温度約4,000〜5,000Kの自然な白色|リビングに置いても光色の違和感が少ない|公表PPFDは約507µmol/m²/s（AMATERASより高い）|観葉植物全般向けの補光に"
+-->
+
 ---
 
 ## 設置方法・距離別の使用感
