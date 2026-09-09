@@ -36,6 +36,14 @@ baseProducts:
 
 健康な根を含めて切る場合でも、**全体の1/3を超えないようにしてください。** これ以上切ると、水分の吸収力が極端に落ち、地上部を支えられなくなります。
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:1;background:#16a34a"></div>
+<div style="flex:2;background:#dc2626"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■安全に切ってよい範囲（最大1/3）　■切りすぎ・水分吸収力が大きく落ちる範囲</p>
+</div>
+
 <!-- character-note character="kuro" type="point" -->
 「1/3」という数字は適当に決まったわけじゃなくて、根が失っても地上部を支えられる水分吸収力を保てるライン、という経験則なんだ。迷ったら少なめに切って、様子を見ながら次の植え替えで調整する方が安全だよ。
 <!-- /character-note -->

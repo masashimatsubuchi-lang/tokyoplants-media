@@ -91,6 +91,15 @@ baseProducts:
 
 赤玉土（小粒）6：パーライト2：バーク堆肥2の比率が基本。植物に合わせて微調整できるのが最大のメリットです。コストも市販土より安くなる場合があります。ただし素材をそれぞれ購入・保管する手間がかかるため、鉢数が多い方向きです。
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:6;background:#b45309"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:2;background:#78350f"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■赤玉土（小粒）60%　■パーライト20%　■バーク堆肥20%</p>
+</div>
+
 ---
 
 ## 【比較表】おすすめ土の特徴まとめ

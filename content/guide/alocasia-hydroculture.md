@@ -103,6 +103,14 @@ amazonProducts:
 **5. 初回の水やり**
 上から水を与えて培地全体を湿らせます。容器に水を張る場合は、容器高さの1/5程度を目安にします。
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:1;background:#2563eb"></div>
+<div style="flex:4;background:#e7e5e4"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■水位のめやす（容器高さの1/5以下）　■球根を浸けない空間</p>
+</div>
+
 **6. 明るい日陰で養生**
 移行後2〜3週間は直射日光を避け、明るい日陰で管理します。アロカシアは強い光で葉焼けしやすいため、ハイドロに慣れるまでは慎重に管理してください。
 
