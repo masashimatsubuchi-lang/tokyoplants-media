@@ -15,17 +15,14 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "ITANSE スリット鉢（ブラック）"
+  - title: "ITANSE スリット鉢 6・7・8号セット"
     asin: "B08CXX4B4X"
-    note: "通気性・排水性に優れたスリット入り。根詰まり・根腐れ防止の定番"
+    note: "通気性・排水性に優れたスリット入り。根詰まり・根腐れ防止の定番。Amazon評価4.0・64件（2026-09-10確認・在庫あり）"
+    price: "¥3,480前後"
   - title: "プレステラ90 黒 10個セット"
     asin: "B00BQ6BVPU"
-    note: "多肉・サボテン・挿し木管理の定番。底穴が多く水はけ抜群"
-    price: "¥800〜"
-  - title: "エアーポット 3L（根切り鉢）"
-    asin: "B08HMNXLFQ"
-    note: "側面の穴で根をエアープルーニング。根の健全化に効果的"
-    price: "¥1,500〜"
+    note: "多肉・サボテン・挿し木管理の定番。底穴が多く水はけ抜群。Amazon評価4.3・280件（2026-09-10確認・在庫あり）"
+    price: "¥950前後"
 ---
 
 観葉植物の健康は、土の質だけでなく「鉢」の設計に大きく左右されます。どんなに高品質な用土を使っても、鉢の通気性・排水性・サイズが適切でなければ根は健全に育ちません。逆に言えば、鉢選びを正しく理解するだけで、植物の生長速度・病害リスク・管理のしやすさが劇的に変わります。
@@ -163,13 +160,13 @@ amazonProducts:
 
 ---
 
-## おすすめ鉢：機能性重視 TOP3
+## おすすめ鉢：機能性重視 TOP2
 
 ### 1位：ITANSE スリット鉢 ブラック
 
 スリット鉢のスタンダード。側面の縦スリットが根のサークリングを防ぎ、エアープルーニング効果で細根の分岐を促進します。ブラックカラーはどんな植物・インテリアにも合わせやすく、プロの生産者・ナーセリーでも広く採用されています。
 
-5個セットのコスパの良さも魅力。モンステラ・フィロデンドロン・アロカシアなど中〜大型熱帯植物の管理に最適です。
+6・7・8号の3個セットで、鉢のサイズ替えにも対応しやすいのが魅力。モンステラ・フィロデンドロン・アロカシアなど中〜大型熱帯植物の管理に最適です。
 
 - サイズ展開：4号〜10号（植物に合わせて選択可能）
 - 重さ：軽量（プラスチック製）
@@ -178,7 +175,7 @@ amazonProducts:
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B08CXX4B4X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B08CXX4B4X.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">スリット鉢（黒・5個セット）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">スリット鉢（6・7・8号 3個セット）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -195,18 +192,11 @@ amazonProducts:
 </a>
 </div>
 
-### 3位：エアーポット（根切り鉢）
+### エアーポット（根切り鉢）について
 
-側面全体に円錐形の突起と穴が配列されており、あらゆる方向からエアープルーニングを実現します。根がどこへ伸びても穴に向かい、根端が空気で止まるたびに新しい側根が分岐します。
+側面全体に円錐形の突起と穴が配列されており、あらゆる方向からエアープルーニングを実現する設計です。根がどこへ伸びても穴に向かい、根端が空気で止まるたびに新しい側根が分岐します。
 
-結果として生まれる根系は、通常の鉢とは比べものにならないほど高密度に分岐した「フィブロス根」です。希少なアロイド系コレクター植物・高価な熱帯植物の管理に使うと生長の違いが明確に感じられます。
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B08HMNXLFQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B08HMNXLFQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">エアーポット 3L（根切り鉢）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+結果として生まれる根系は、通常の鉢とは比べものにならないほど高密度に分岐した「フィブロス根」です。希少なアロイド系コレクター植物・高価な熱帯植物の管理に使うと生長の違いが明確に感じられる設計ですが、現時点でAmazon上のエアーポットはどのサイズもレビュー件数が2〜3件程度と少なく、tokyoplantsの商品選定基準（レビュー10件以上）を満たさないため、具体的な商品リンクの掲載は見送っています。同様の原理を持つスリット鉢（1位・2位）でも近い効果が期待できます。
 
 ---
 

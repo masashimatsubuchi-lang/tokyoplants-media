@@ -16,19 +16,19 @@ hideAmazonBlock: true
 amazonProducts:
   - title: "シャープ 衣類乾燥除湿機 CV-R71-W"
     asin: "B0CZTGPY25"
-    note: "Amazon評価 4.3 / 724件（2026-02-24確認）"
+    note: "Amazon評価 4.2 / 727件（2026-09-10 Amazon直接確認・在庫あり）"
   - title: "コロナ 衣類乾燥除湿機 CD-P6324(W)"
     asin: "B0D1D5FS33"
-    note: "Amazon評価 4.5 / 23件（2026-02-24確認）"
-  - title: "アイリスオーヤマ 除湿機 IJC-J56"
-    asin: "B0827SGDZX"
-    note: "Amazon評価 4.1 / 1,698件（2026-02-24確認）"
-  - title: "象印 スチーム式加湿器 EE-DE50"
-    asin: "B0D5V7JVGP"
-    note: "Amazon評価 4.4 / 602件（2026-02-24確認）"
-  - title: "小型USB卓上加湿器（超音波）"
+    note: "Amazon評価 4.6 / 30件（2026-09-10 Amazon直接確認・在庫あり）"
+  - title: "アイリスオーヤマ 除湿機 IJC-R65（コンプレッサー式 6.5L）"
+    asin: "B0DXQ1Z3J2"
+    note: "Amazon評価 4.2 / 239件（2026-09-10 Amazon直接確認・在庫あり）※旧型IJC-J56は新品在庫切れのため後継モデルに変更"
+  - title: "象印 スチーム式加湿器 EE-RU50-WA（3.0L）"
+    asin: "B0FH9ZP9LR"
+    note: "Amazon評価 4.4 / 161件（2026-09-10 Amazon直接確認・在庫あり）※旧型EE-DE50は新品在庫切れのため後継モデルに変更"
+  - title: "Troston 卓上加湿器 超音波式 350ml"
     asin: "B0DCFXF1H1"
-    note: "Amazon評価 4.5 / 487件（2026-02-24確認）"
+    note: "Amazon評価 4.2 / 7,260件（2026-09-10 Amazon直接確認・在庫あり）"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -90,7 +90,7 @@ baseProducts:
 [![シャープ 衣類乾燥除湿機 CV-R71-W](https://m.media-amazon.com/images/I/61w9+3Q5ycL._AC_SY300_SX300_.jpg)](https://www.amazon.co.jp/dp/B0CZTGPY25?tag=tokyoplants0f-22)
 
 → [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0CZTGPY25?tag=tokyoplants0f-22)  
-Amazon評価: 4.3 / 724件（2026-02-24確認）
+Amazon評価: 4.2 / 727件（2026-09-10確認）
 
 ### 2) コロナ 衣類乾燥除湿機 CD-P6324(W)
 
@@ -99,14 +99,14 @@ Amazon評価: 4.3 / 724件（2026-02-24確認）
 [![コロナ 衣類乾燥除湿機 CD-P6324(W)](https://m.media-amazon.com/images/I/51WNfUvQTyL._AC_SY300_SX300_.jpg)](https://www.amazon.co.jp/dp/B0D1D5FS33?tag=tokyoplants0f-22)
 
 → [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0D1D5FS33?tag=tokyoplants0f-22)  
-Amazon評価: 4.5 / 23件（2026-02-24確認）
+Amazon評価: 4.6 / 30件（2026-09-10確認）
 
-### 3) アイリスオーヤマ IJC-J56（型番比較）
+### 3) アイリスオーヤマ IJC-R65（コンプレッサー式 6.5L・型番比較）
 
 初期コストを抑えて導入しやすい価格帯。派生モデルが混在しやすいため、購入時は型番で検索してタンク容量・騒音・モード差を確認してください。
 
-→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0827SGDZX?tag=tokyoplants0f-22)  
-Amazon評価: 4.1 / 1,698件（2026-02-24確認）
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0DXQ1Z3J2?tag=tokyoplants0f-22)  
+Amazon評価: 4.2 / 239件（2026-09-10確認）
 
 ## 小型卓上加湿器レビュー
 
@@ -117,19 +117,19 @@ Amazon評価: 4.1 / 1,698件（2026-02-24確認）
 - 給水と清掃のしやすさ
 - 電源方式（USB常時給電か）
 
-### 1) 象印 スチーム式加湿器 EE-DE50（主加湿機）
+### 1) 象印 スチーム式加湿器 EE-RU50-WA（3.0L・主加湿機）
 
 卓上専用ではないものの、冬の湿度安定では再現性が高い方式です。衛生管理しやすく、部屋全体の底上げを担わせやすい。植物棚近傍はサーキュレーター併用で過湿を防ぐ運用が現実的です。
 
-→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0D5V7JVGP?tag=tokyoplants0f-22)  
-Amazon評価: 4.4 / 602件（2026-02-24確認）
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0FH9ZP9LR?tag=tokyoplants0f-22)  
+Amazon評価: 4.4 / 161件（2026-09-10確認）
 
-### 2) 小型USB卓上加湿器（超音波）
+### 2) Troston 卓上加湿器（超音波式）
 
 棚前面やデスク周辺での局所補正に向きます。機種差が大きいため、レビュー件数と最新評価の両方で比較するのが安全です。噴霧口を葉面へ向けず、30〜50cm離して使ってください。
 
 → [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0DCFXF1H1?tag=tokyoplants0f-22)  
-Amazon評価: 4.5 / 487件（2026-02-24確認）
+Amazon評価: 4.2 / 7,260件（2026-09-10確認）
 
 ## 冬に失敗しない運用手順
 
