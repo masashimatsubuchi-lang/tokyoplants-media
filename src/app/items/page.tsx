@@ -55,7 +55,7 @@ function ItemCard({ item }: { item: RecommendedItem }) {
 
   return (
     <div
-      className={`flex flex-col overflow-hidden rounded-2xl border ${
+      className={`flex w-72 shrink-0 snap-start flex-col overflow-hidden rounded-2xl border ${
         isOwn ? "border-emerald-200 bg-white" : "border-amber-200 bg-white"
       }`}
     >
@@ -134,7 +134,7 @@ export default function RecommendedItemsPage() {
       <section className="mt-12">
         <h2 className="text-xl font-extrabold tracking-tight text-gray-900">tokyoplants公式アイテム</h2>
         <p className="mt-1 text-[13px] text-gray-500">tokyoplantsが自社で開発・販売している商品</p>
-        <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-5 -mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2">
           {RECOMMENDED_OWN_ITEMS.map((item) => (
             <ItemCard key={item.title} item={item} />
           ))}
@@ -146,7 +146,7 @@ export default function RecommendedItemsPage() {
         <section key={section.id} id={section.id} className="mt-14 scroll-mt-24">
           <h2 className="text-xl font-extrabold tracking-tight text-gray-900">{section.title}</h2>
           <p className="mt-1 text-[13px] text-gray-500">{section.description}</p>
-          <div className="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-5 -mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2">
             {section.items.map((item) => (
               <ItemCard key={item.title} item={item} />
             ))}
