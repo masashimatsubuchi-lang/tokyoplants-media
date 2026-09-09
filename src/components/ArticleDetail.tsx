@@ -256,6 +256,18 @@ export default function ArticleDetail({ post }: { post: Post }) {
               <BaseProductBlock products={post.baseProducts} />
             )}
 
+            {/* おすすめアイテムページへの導線（商品を紹介している記事のみ） */}
+            {(hasAmazonProducts || hasBaseProducts) && (
+              <div className="mt-4 text-center">
+                <Link
+                  href="/items"
+                  className="text-sm font-semibold text-teal-700 hover:text-teal-900 hover:underline"
+                >
+                  他のおすすめアイテムも見る →
+                </Link>
+              </div>
+            )}
+
             {/* Next Reads */}
             {nextReads.length > 0 && (
               <section className="mt-12 rounded-2xl border border-teal-100 bg-teal-50/40 p-5 md:p-6">
