@@ -19,6 +19,12 @@ export default function Header() {
               {cat.name}
             </Link>
           ))}
+          <Link
+            href="/items"
+            className="whitespace-nowrap text-gray-500 hover:text-gray-900 transition-colors"
+          >
+            おすすめアイテム
+          </Link>
           <a
             href="https://www.instagram.com/tokyoplants.jp"
             target="_blank"

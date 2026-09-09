@@ -39,6 +39,8 @@ const nextConfig: NextConfig = {
       { source: "/guide/root-rot-recovery-complete-guide", destination: "/guide/root-rot-causes-and-recovery", permanent: true },
       { source: "/guide/summer-houseplant-care", destination: "/guide/summer-houseplant-care-guide", permanent: true },
       { source: "/guide/houseplant-sunburn-causes-and-recovery", destination: "/guide/sunburn-houseplants", permanent: true },
+      // 2026-09-09 「おすすめアイテム」ページ新設に伴う統合リダイレクト（内容重複によるカニバリ回避）
+      { source: "/review/houseplant-tools-complete-guide", destination: "/items", permanent: true },
     ];
   },
 };
