@@ -64,6 +64,18 @@ amazonProducts:
 
 葉が中型でマーブル状の斑が入る品種。ティネケ系よりも斑の入り方が不規則で自然なテクスチャーが魅力。
 
+| 品種 | 葉色 | 光への要求度 | 丈夫さ | 初心者適性 |
+|------|------|------------|--------|-----------|
+| Robusta | 深緑・光沢 | 低い（日陰にも耐える） | 非常に高い | ◎ |
+| Burgundy | ワインレッド〜黒 | 高い（不足すると退色） | 高い | ○ |
+| Tineke | 緑×クリーム斑入り | 中〜高い | 中程度（過湿に弱い） | △ |
+| Ruby | ピンク〜赤の斑 | 高い | やや低い | △ |
+| Schrijveriana | マーブル斑 | 中程度 | 中程度 | ○ |
+
+<!-- character-note character="sandy" type="point" -->
+斑入り品種（バーガンディ・ティネケ・ルビー）は緑一色のロブスタより光合成できる面積が少ないぶん、置き場所の明るさが発色と成長スピードの両方を左右するよ。
+<!-- /character-note -->
+
 ---
 
 ## 置き場所の設計：光・温度・通気
@@ -108,6 +120,10 @@ amazonProducts:
 ### 確認方法
 
 指を土に2〜3cm差し込み、湿り気を感じなくなってから水やりするのが最も確実です。重さで管理する場合、鉢を持ち上げて軽くなったと感じた時が目安です。
+
+<!-- character-note character="shadee" type="tip" -->
+毎回指で確認するのが面倒なら、水やりした日付だけでもメモしておくと「そろそろ乾いている頃」の感覚が早くつかめるよ。アプリで記録すると振り返りやすいのでおすすめ。
+<!-- /character-note -->
 
 <mark>葉が元気よくピンと張っているうちは水を必要としていないことが多いです。しおれ始めたら水不足のサインですが、ゴムの木はかなり遅くまでしおれないため、見た目で判断するより土の状態を優先してください。</mark>
 
@@ -196,6 +212,10 @@ amazonProducts:
 ゴムの木にはスリット鉢（スリット入りプラスチック鉢）が最適です。側面のスリットから空気が入り、根の空気接触が促進されます（エアプルーニング）。これにより根が詰まりにくく、過湿も防げます。
 
 鉢サイズは現在より**1〜2号（直径3〜6cm）大きいもの**を選んでください。大きすぎると土の乾きが遅くなり、根腐れリスクが高まります。
+
+<!-- character-note character="shadee" type="warning" -->
+「大きい鉢に替えたら水やりが楽になるはず」は誤解されがちなポイント。土の量が増えるぶん中心部が乾きにくくなるから、鉢を大きくした直後こそ水やり頻度を見直す必要があるよ。
+<!-- /character-note -->
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B08CXB5KTH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">

@@ -97,6 +97,10 @@ amazonProducts:
 
 初心者には、管理のしやすさからプラスチック鉢または素焼き鉢がおすすめです。底に穴が開いているものを必ず選びましょう。
 
+<!-- character-note character="kuro" type="warning" -->
+おしゃれな鉢カバーに惹かれて底穴なしのものを選んでしまう失敗は本当によくある。デザイン重視の鉢を使いたいときは、プラ鉢に植えたまま鉢カバーとして被せる二重鉢方式がおすすめだよ。
+<!-- /character-note -->
+
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0DG8MH6BL?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B0DG8MH6BL.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
@@ -123,6 +127,10 @@ amazonProducts:
 tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最適な排水性と保水性を追求したブレンド土です。室内環境での使用を前提に設計されており、根腐れしにくい配合になっています。植え替えを初めて行う方が「最初の一択」として選ぶのに最適な土です。
 
 植え替え前に必要量を計算しておきましょう。目安は「新しい鉢の容量の7〜8割程度」の土が必要です。鉢のサイズによって量は変わりますが、少し多めに用意しておくと安心です。
+
+<!-- character-note character="kuro" type="tip" -->
+土が少し余ったら密閉できる袋に入れて保管しておくと、次に鉢底の土が減ってきたときの補充用に使えるよ。開封後の土は湿気を吸いやすいから、乾燥した場所での保管がおすすめ。
+<!-- /character-note -->
 
 ---
 
@@ -285,6 +293,10 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 **メネデール｜1955年発売のロングセラー活力剤**
 
 肥料ではなく「活力剤」で、植え替え・挿し木・弱った株の回復サポートとして日常的に使えます。100倍希釈で水やり代わりに与えるだけとシンプルです。評価★4.4・レビュー7,685件（確認済み）と、活力剤の中でも圧倒的な実績を持つ定番商品です。
+
+<!-- character-note character="bloom" type="point" -->
+活力剤は肥料と違って「今すぐ栄養を与える」ものではなく、根が新しい環境に定着するプロセスを助ける役割。植え替え直後のダメージが心配なときこそ効果を発揮するよ。
+<!-- /character-note -->
 
 ### ラベルスティック・マスキングテープ
 

@@ -84,6 +84,10 @@ amazonProducts:
 
 「とりあえず1本、間違いのない液体肥料が欲しい」という人の第一候補になる製品です。原液のまま与えると根を傷めるため、必ずキャップの目盛りで規定倍率に希釈してください。
 
+<!-- character-note character="bloom" type="point" -->
+液体肥料は「即効性がある＝どんどん成長する」わけではなく、あくまで植物が今まさに成長しようとしているタイミングを後押しする役割。休眠期に与えても吸収されず、根に負担をかけるだけになってしまうよ。
+<!-- /character-note -->
+
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0026R71OS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B0026R71OS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
@@ -96,6 +100,10 @@ amazonProducts:
 液体肥料とは役割が異なり、**植え替え時に土へ混ぜ込む「元肥」**として使う緩効性肥料です。水やりのたびに少しずつ溶け出す設計のため、与えすぎによる肥料焼けリスクが比較的低く、「使いやすさ」「耐久性」の評価項目で高いスコアが確認できます。
 
 中粒タイプの効果持続は約1年とされ、1〜2年に1回の植え替えサイクルとも相性が良い製品です。目安は土1Lあたり2〜3g（小さじ半分程度）。液体肥料と違い、これ単体で日常の追肥を代替するものではなく、追肥用の液体肥料や置き肥と組み合わせて使うのが基本です。
+
+<!-- character-note character="kuro" type="tip" -->
+土全体に均一に混ぜ込むより、鉢の中〜下層にまとめて埋め込む方が、水やりのたびに少しずつ根の近くへ溶け出しやすくなるよ。
+<!-- /character-note -->
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B00337XTO6?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
@@ -150,6 +158,10 @@ tokyoplantsの「HYDRO MINERAL」のようにオスモコート（緩効性肥�
 ### 3. プロミックの錠剤を交換せず放置する
 
 「置くだけ」で手軽な反面、効果が切れた古い錠剤を土に残したまま新しいものを追加してしまうと、成分が過剰になります。約2ヶ月を目安に、古い錠剤を取り除いてから交換しましょう。
+
+<!-- character-note character="bloom" type="tip" -->
+錠剤を置いた日付をメモしておくと交換忘れを防げるよ。水やりのついでに記録する習慣があると、施肥のタイミングも一緒に振り返りやすい。
+<!-- /character-note -->
 
 ### 4. ハイドロカルチャーに土用の肥料を使ってしまう
 
