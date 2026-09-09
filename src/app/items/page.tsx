@@ -50,7 +50,7 @@ function firstRelatedTitle(slugs: string[]): { title: string; href: string } | n
 function ItemCard({ item }: { item: RecommendedItem }) {
   const isOwn = item.source === "tokyoplants";
   const href = isOwn ? getTokyoplantsUrl(item.url!) : getAmazonUrl(item.asin!);
-  const imageUrl = isOwn ? item.image : getAmazonImageUrl(item.asin!);
+  const imageUrl = item.image ?? (isOwn ? undefined : getAmazonImageUrl(item.asin!));
   const related = firstRelatedTitle(item.relatedSlugs);
 
   return (

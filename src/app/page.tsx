@@ -71,14 +71,12 @@ export default function Home() {
         </div>
         <div className="bg-[#f1eee6] pb-10 pt-6">
           <div className="mx-auto max-w-3xl px-4">
-            <div className="grid grid-cols-2 gap-3 md:grid-cols-5">
+            <div className="grid grid-cols-2 gap-3 md:grid-cols-6">
               {categories.map((cat) => (
                 <Link
                   key={cat.slug}
                   href={`/${cat.slug}`}
-                  className={`rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white ${
-                    cat.slug === "species" ? "col-span-2 md:col-span-1" : ""
-                  }`}
+                  className="rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white"
                 >
                   <span className="block text-[13px] font-bold text-slate-800">
                     {cat.name}
@@ -88,6 +86,17 @@ export default function Home() {
                   </span>
                 </Link>
               ))}
+              <Link
+                href="/items"
+                className="rounded-xl border border-white/60 bg-white/70 px-3 py-3 text-center transition-all hover:border-teal-500 hover:bg-white"
+              >
+                <span className="block text-[13px] font-bold text-slate-800">
+                  おすすめアイテム
+                </span>
+                <span className="mt-1 block text-[11px] leading-relaxed text-slate-500">
+                  記事で紹介した道具まとめ
+                </span>
+              </Link>
             </div>
           </div>
         </div>
