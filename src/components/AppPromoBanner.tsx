@@ -46,8 +46,7 @@ export default function AppPromoBanner() {
         href="/app?ch=media_banner"
         className="shrink-0 whitespace-nowrap rounded-full bg-white px-3 py-1 text-[11px] font-semibold text-emerald-800 hover:bg-emerald-50 transition-colors"
       >
-        <span className="sm:hidden">無料で試す</span>
-        <span className="hidden sm:inline">7日間の無料体験</span>
+        無料でダウンロード
       </Link>
       <button
         type="button"
