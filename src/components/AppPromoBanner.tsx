@@ -46,7 +46,7 @@ export default function AppPromoBanner() {
         href="/app?ch=media_banner"
         className="shrink-0 whitespace-nowrap rounded-full bg-white px-3 py-1 text-[11px] font-semibold text-emerald-800 hover:bg-emerald-50 transition-colors"
       >
-        無料でダウンロード
+        無料ダウンロード
       </Link>
       <button
         type="button"
