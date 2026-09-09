@@ -130,12 +130,31 @@ SNSや観葉植物コミュニティでは「ベラボンに変えたら鉢が�
 - パーライト：2
 - くん炭：1
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:4;background:#78716c"></div>
+<div style="flex:2;background:#b45309"></div>
+<div style="flex:1;background:#eab308"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ベラボン 30%　■赤玉土 40%　■パーライト 20%　■くん炭 10%</p>
+</div>
+
 赤玉土の重みで鉢の安定感を補いつつ、ベラボンの通気性を活かせる配合です。フィロデンドロン、モンステラ、ポトスなど一般的な観葉植物に向いています。
 
 **着生植物向け（通気性重視）**
 - ベラボン：5
 - 赤玉土（小粒）：3
 - パーライト：2
+
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#a8a29e"></div>
+<div style="flex:3;background:#78716c"></div>
+<div style="flex:2;background:#b45309"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ベラボン 50%　■赤玉土 30%　■パーライト 20%</p>
+</div>
 
 樹木に着生する性質を持つフィロデンドロンやアンスリウムなど、根に空気を多く届けたい植物向けの配合です。鉢は重めの陶器鉢を選び、転倒対策を併用してください。
 
@@ -144,6 +163,16 @@ SNSや観葉植物コミュニティでは「ベラボンに変えたら鉢が�
 - 赤玉土（小粒）：5
 - 日向石：2
 - くん炭：1
+
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:2;background:#a8a29e"></div>
+<div style="flex:5;background:#78716c"></div>
+<div style="flex:2;background:#b45309"></div>
+<div style="flex:1;background:#eab308"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ベラボン 20%　■赤玉土 50%　■日向石 20%　■くん炭 10%</p>
+</div>
 
 背が高くなる株や葉が茂って重心が高い株には、赤玉土や日向石の比率を上げて鉢全体の重量を確保する配合がおすすめです。
 

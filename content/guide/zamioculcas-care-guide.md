@@ -89,6 +89,15 @@ amazonProducts:
 | 軽石（またはパーライト） | 3 |
 | バーク堆肥 | 2 |
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#b45309"></div>
+<div style="flex:3;background:#a8a29e"></div>
+<div style="flex:2;background:#57534e"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■赤玉土（小粒） 50%　■軽石（またはパーライト） 30%　■バーク堆肥 20%</p>
+</div>
+
 市販の観葉植物用の土をベースにする場合は、軽石やパーライトを全体の2〜3割追加して排水性を高めると、既製品でも十分に対応できます。tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は日向石・ココチップなど粗めの素材を配合した、乾きやすく根腐れしにくい設計の用土です。ゼロから配合を考えるのが手間な場合はベースとして活用してください。
 
 鉢底には軽石タイプの鉢底石を敷くと、さらに排水性が安定します。素焼き鉢を使うと鉢自体からも水分が蒸発するため、特に水やりの加減に自信がない初心者には管理しやすい組み合わせです。

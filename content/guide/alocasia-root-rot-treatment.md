@@ -169,6 +169,14 @@ amazonProducts:
 
 tokyoplants の HYDRO MINERAL は、富士山溶岩石75%とゼオライト25%を配合した無機系培地です。
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#57534e"></div>
+<div style="flex:1;background:#d6d3d1"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■富士山溶岩石 75%　■ゼオライト 25%</p>
+</div>
+
 - **溶岩石（75%）**：多孔質構造で排水性と通気性を両立。根が酸欠になりにくい。
 - **ゼオライト（25%）**：イオン交換能が高く、余分なアンモニア・重金属を吸着。根の周りの水質を安定させる。
 - **オスモコート配合**：緩効性肥料が配合済みで、植え付け後8〜9ヶ月は追肥不要。
