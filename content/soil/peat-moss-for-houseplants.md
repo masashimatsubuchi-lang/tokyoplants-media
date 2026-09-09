@@ -52,6 +52,10 @@ amazonProducts:
 
 ミズゴケ由来の繊維質構造が特徴で、スポンジのように水を吸収しながらも過剰な水分は排出するという、矛盾するような性質を持っています。この構造が観葉植物の用土改良材として人気を集める理由のひとつです。
 
+<!-- character-note character="kuro" type="point" -->
+スポンジ状の構造は、乾いたときに繊維がぎゅっと縮む性質もある。これが後述する「撥水化」の原因になるため、保水力の高さと撥水化しやすさは表裏一体の性質と言える。
+<!-- /character-note -->
+
 ---
 
 ## 観葉植物にピートモスを使うメリット
@@ -90,6 +94,10 @@ amazonProducts:
 
 対策としては、水やりの前にバケツに水を張って鉢ごとつけ置く「腰水」で均一に湿らせるか、土が完全に乾ききる前に水やりをするリズムを保つことが重要です。
 
+<!-- character-note character="shadee" type="warning" -->
+一度撥水化してしまうと、表面から水をかけただけでは「入っているように見えて実は鉢の外に流れ落ちているだけ」ということが起きやすい。水やり後に鉢底から本当に水が出ているか確認する習慣をつけると気づきやすい。
+<!-- /character-note -->
+
 ### 3. 環境負荷の問題
 
 ピートモスの採掘は湿地の破壊につながり、温室効果ガスの排出源になるという環境問題があります。カナダ産ピートモスは長期管理計画のもとで採掘されているものが多いですが、サステナビリティを重視する場合はヤシガラなどの代替素材の選択も一考に値します。
@@ -112,7 +120,18 @@ amazonProducts:
 - パーライト：15〜20%
 - 鹿沼土または軽石：5〜10%
 
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:60;background:#b45309" title="培養土・赤玉土 60%"></div>
+<div style="flex:18;background:#78350f" title="ピートモス 15〜20%"></div>
+<div style="flex:17;background:#e7e5e4" title="パーライト 15〜20%"></div>
+<div style="flex:5;background:#d6d3d1" title="鹿沼土・軽石 5〜10%"></div>
+</div>
+
 ピートモスを20%程度配合することで、乾燥しやすい室内でも水持ちが改善されます。
+
+<!-- character-note character="kuro" type="tip" -->
+配合はキッチンスケールで重さを量ると再現性が上がる。体積（カップ）で計ると素材によって同じ「1」でも重さが大きく違うため、次回同じ配合を作りたいときは重さの記録が役立つ。
+<!-- /character-note -->
 
 ### 乾燥系植物（サンスベリア・ザミオクルカスなど）
 
@@ -124,11 +143,23 @@ amazonProducts:
 - ピートモス（pH調整済み）：10%以下
 - パーライト：10〜20%
 
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:50;background:#b45309" title="赤玉土 50%"></div>
+<div style="flex:30;background:#d6d3d1" title="鹿沼土・軽石 30%"></div>
+<div style="flex:10;background:#78350f" title="ピートモス 10%以下"></div>
+<div style="flex:10;background:#e7e5e4" title="パーライト 10〜20%"></div>
+</div>
+
 ### 多肉植物・サボテン
 
 多肉やサボテンには基本的にピートモスは不向きです。どうしても使う場合は5%以下にとどめ、残りは砂や軽石などの無機質素材で構成します。
 
 <mark>乾燥系・多肉系の植物にはピートモスを配合しないか、5%以下に抑える</mark>のが安全です。
+
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#78350f" title="ピートモス 5%以下"></div>
+<div style="flex:95;background:#a8a29e" title="砂・軽石などの無機質素材 95%以上"></div>
+</div>
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B07S1NQN53?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
@@ -232,6 +263,10 @@ pH調整なしでそのまま使えて環境にも優しいヤシガラは、ピ
 ### Q2. ピートモスを入れた土からカビが生えました。原因は何ですか？
 
 ピートモス自体は雑菌が少ない清潔な素材ですが、他の有機質素材（腐葉土など）と組み合わせた際に保水性が高まりすぎると通気性が悪くなりカビが生えやすくなります。配合割合を見直し、パーライトや軽石を増やして水はけを改善してください。また完全密閉した容器での保存は避け、開封後は早めに使い切ることをおすすめします。
+
+<!-- character-note character="kuro" type="tip" -->
+配合を変えるたびに「何をどれくらい混ぜたか」をメモしておくと、後から調整しやすくなる。Green Collectionの植え替え記録を活用すると、配合内容も含めて振り返りやすいよ。
+<!-- /character-note -->
 
 ### Q3. 市販の観葉植物用培養土にさらにピートモスを追加しても大丈夫ですか？
 

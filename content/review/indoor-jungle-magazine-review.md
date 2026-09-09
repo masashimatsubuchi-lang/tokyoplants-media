@@ -47,6 +47,10 @@ baseProducts:
 
 アガベコレクターにとっては「タイタノタ辞典」として機能する内容で、品種同定・選び方の基準を学ぶ上でも参考になります。
 
+<!-- character-note character="lum" type="point" -->
+アガベは同じ品種でも育成環境によって株姿が大きく変わる。57品種のアーカイブのような資料は、見比べながら「自分の環境ではどう育つか」を想像する材料としても役立つ。
+<!-- /character-note -->
+
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0CHCV7P4W?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B0CHCV7P4W.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
@@ -76,6 +80,10 @@ baseProducts:
 塊根植物の2大人気種——オペルキュリカリア・パキプスとパキポジウム・グラキリス——に焦点を当てた特集。栽培方法・実生からの育て方・各地のコレクションが紹介されています。
 
 「パキプスとグラキリスを極めたい」というコレクターにとって、これほど深く掘り下げた日本語資料は他にほとんど存在しません。
+
+<!-- character-note character="bloom" type="point" -->
+パキプスやグラキリスのような塊根植物は、実生からだと成熟まで何年もかかることが珍しくない。じっくり時間をかけて育てる楽しみ方を知りたい人には、こうした専門誌の情報が特に参考になる。
+<!-- /character-note -->
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0D6BVFJ8X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
@@ -122,6 +130,10 @@ No.02から進化したビカクシダ特集の第二弾。単なる育て方に
 
 「ビカクシダを育てる」から「ビカクシダで表現する」という次のステージを覗ける一冊です。
 
+<!-- character-note character="lum" type="tip" -->
+ビカクシダは板付けや仕立て方によって見た目の印象が大きく変わる植物。専門誌でさまざまな仕立て例を見ておくと、自分の株をどう飾るか考えるときのアイデアが広がる。
+<!-- /character-note -->
+
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0FB4XTN6V?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B0FB4XTN6V.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
@@ -139,6 +151,17 @@ No.02から進化したビカクシダ特集の第二弾。単なる育て方に
 
 最新号は [Amazon.co.jp で「INDOOR JUNGLE」と検索](https://www.amazon.co.jp/s?k=INDOOR+JUNGLE+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB&i=stripbooks) してご確認ください。
 
+| 号数 | 特集テーマ |
+|------|-----------|
+| No.01 | アガベ タイタノタ 57品種アーカイブ |
+| No.02 | ビカクシダ現象 |
+| No.03 | パキプス・グラキリス（塊根植物） |
+| No.04 | アガベ ニューオーダー |
+| No.05 | 南アフリカ・ビザールプランツ |
+| No.06 | ビカクシダ、新表現の胎動 |
+| No.07 | 鉢と塊根植物と、まだ見ぬ景色 |
+| No.08 | ジャパニーズビザールプランツの新世界 |
+
 ---
 
 ## INDOOR JUNGLE はこんな人に向いている
@@ -152,6 +175,10 @@ No.02から進化したビカクシダ特集の第二弾。単なる育て方に
 **向かないケース**
 - 観葉植物の入門書・育て方の基礎を知りたい初心者
 - モンステラ・フィロデンドロン・アンスリウムなどアロイド系に特化した情報を求めている人（アロイド特集号は現状ない）
+
+<!-- character-note character="bloom" type="tip" -->
+こうした専門誌で気になった品種に出会ったら、まずは品種名を控えておくと後で調べやすい。Green Collectionの品種図鑑を使えば、気になった株の記録もまとめて残しておける。
+<!-- /character-note -->
 
 ---
 
