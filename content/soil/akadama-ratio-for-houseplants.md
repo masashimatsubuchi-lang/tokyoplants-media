@@ -65,6 +65,10 @@ amazonProducts:
 | pH 安定 | 弱酸性〜中性を維持 |
 | 衛生管理 | 無機質で虫・菌が繁殖しにくい |
 
+<!-- character-note character="kuro" type="point" -->
+赤玉土の粒は、外側が排水路（マクロポア）、内側が貯水庫（ミクロポア）という二重構造になっている。「排水と保水を一つの粒が両立する」この仕組みが、他の無機素材にはない赤玉土ならではの強みだよ。
+<!-- /character-note -->
+
 ---
 
 ## 基本の配合割合（3〜4割が標準の理由）
@@ -97,6 +101,10 @@ amazonProducts:
 ```
 
 <mark>迷ったらまず「培養土6：赤玉土4」から始めるのがおすすめです。</mark>その後、植物の反応（水はけ、乾き具合）を見ながら調整していきましょう。
+
+<!-- character-note character="kuro" type="tip" -->
+「迷ったら6:4」はあくまでスタート地点。植え替え後1〜2週間の土の乾き方を観察して、乾くのが早すぎるなら赤玉土を減らし、逆に土が湿ったままなら増やす、という微調整をすると植物に合った配合にどんどん近づくよ。
+<!-- /character-note -->
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B078ZX7DRN?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
@@ -189,6 +197,10 @@ amazonProducts:
 | ポトス | 60% | 40% | — |
 | フィカス | 65% | 25% | 腐葉土10% |
 | 多肉植物 | 30% | 50% | 川砂20% |
+
+<!-- character-note character="shadee" type="tip" -->
+表を見ると、水を好む植物ほど赤玉土が少なく、乾燥好きの植物ほど赤玉土が多いのがわかるはず。配合を考えるときは「この植物にどれくらいの頻度で水をあげたいか」から逆算すると失敗しにくいよ。
+<!-- /character-note -->
 
 <div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
 <p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">配合比率を見る（培養土：赤玉土：その他）</p>
