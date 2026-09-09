@@ -53,6 +53,16 @@ baseProducts:
 | バークチップ（細粒） | 2 | 着生植物に適した通気性 |
 | 軽石（小粒） | 1 | 排水層の補強 |
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#b45309"></div>
+<div style="flex:2;background:#78716c"></div>
+<div style="flex:2;background:#a8a29e"></div>
+<div style="flex:1;background:#eab308"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■赤玉土 50%　■鹿沼土 20%　■バークチップ 20%　■軽石 10%</p>
+</div>
+
 <mark>バークチップを混ぜるのがモンステラ用配合のポイントです。着生植物であるモンステラの根は、樹皮に絡みつく性質があり、バークとの相性が良好です。</mark>
 
 <!-- character-note character="kuro" type="tip" -->

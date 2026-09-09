@@ -81,9 +81,26 @@ amazonProducts:
 - 培養土 60% + 赤玉土 or パーライト 20% + ゼオライト 20%
 - 効果：水はけ改善 + ゼオライトの浄化作用
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:6;background:#78716c"></div>
+<div style="flex:2;background:#b45309"></div>
+<div style="flex:2;background:#4d7c0f"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■培養土 60%　■赤玉土 or パーライト 20%　■ゼオライト 20%</p>
+</div>
+
 **ハイドロカルチャー培地（土なし）**
 - 溶岩石 75% + ゼオライト 25%
 - 効果：高い通気性と浄化作用を両立
+
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:75;background:#57534e"></div>
+<div style="flex:25;background:#4d7c0f"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■溶岩石 75%　■ゼオライト 25%</p>
+</div>
 
 ゼオライトの配合量が20%を超えると粒が密に詰まり、逆に通気性が落ちることがあります。土への配合は10〜20%が適切な範囲です。
 

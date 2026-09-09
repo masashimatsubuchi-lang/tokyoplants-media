@@ -106,6 +106,14 @@ amazonProducts:
 
 **溶岩石（75%）+ ゼオライト（25%）の組み合わせ**が、アロイド系植物に最も適した培地の比率とされています。
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:75;background:#57534e"></div>
+<div style="flex:25;background:#4d7c0f"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■溶岩石 75%　■ゼオライト 25%</p>
+</div>
+
 ---
 
 ## ハイドロカルチャーでの使い方

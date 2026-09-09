@@ -286,10 +286,28 @@ tokyoplants では国内流通量の少ないステファニアを随時取り�
 - 軽石（小粒）：40%
 - 腐葉土または観葉植物用培養土：20%
 
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:4;background:#b45309"></div>
+<div style="flex:4;background:#a8a29e"></div>
+<div style="flex:2;background:#78716c"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■赤玉土 40%　■軽石 40%　■腐葉土 or 培養土 20%</p>
+</div>
+
 **さらに水はけを重視したい場合**
 - 赤玉土（小粒）：30%
 - 軽石（小粒）：50%
 - 腐葉土：20%
+
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:3;background:#b45309"></div>
+<div style="flex:5;background:#a8a29e"></div>
+<div style="flex:2;background:#78716c"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■赤玉土 30%　■軽石 50%　■腐葉土 20%</p>
+</div>
 
 この配合は、適度な排水性と通気性を確保しつつ、成長期には必要な水分と養分を供給できるバランスになっています。
 
