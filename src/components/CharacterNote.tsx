@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { CHARACTERS, NOTE_TYPE_LABELS, isCharacterId, isNoteType } from "@/lib/characterNotes";
 
 interface Props {
@@ -40,6 +41,12 @@ export default function CharacterNote({ character, type, html }: Props) {
           className="mt-1.5 text-[16px] font-normal leading-[1.7] text-zinc-800 [&>p]:m-0 [&>p+p]:mt-2 [font-family:var(--font-character-note)]"
           dangerouslySetInnerHTML={{ __html: html }}
         />
+        <Link
+          href="/app?ch=character-note"
+          className="mt-2 inline-block text-[10px] text-zinc-400 transition-colors hover:text-zinc-600 hover:underline"
+        >
+          tokyoplants公式アプリキャラクター
+        </Link>
       </div>
     </div>
   );
