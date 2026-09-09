@@ -17,13 +17,14 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// キャラクター注釈（CharacterNote）の吹き出しコメント用の手書き風フォント「うずらフォント」
-// (c) azukifont.com、フリーフォント・商用利用可（利用規約: https://azukifont.com/kiyaku.html）。
-// 元のTTF(8.8MB)から、サイト全記事で実際に使われている文字＋かな/記号/英数字のみに
-// サブセット化したWOFF2（624KB）を同梱している（2026-09-09、Yomogi→Klee One→うずらフォントに変更）。
+// キャラクター注釈（CharacterNote）の吹き出しコメント用の手書き風フォント「07やさしさゴシック」
+// (c) フォントな(fontna.com)、フリーフォント・商用利用可（IPAフォントライセンス+M+ FONTS）。
+// オリジナル配布のOpenType(4.9MB)から、サイト全記事で実際に使われている文字＋かな/記号/
+// 英数字のみにサブセット化したWOFF2（508KB）を同梱している
+// （2026-09-09、Yomogi→Klee One→うずらフォント→やさしさゴシックに変更）。
 const handwriting = localFont({
   variable: "--font-character-note",
-  src: "./fonts/uzura-font.woff2",
+  src: "./fonts/yasashisa-gothic.woff2",
   weight: "400",
   preload: false,
 });

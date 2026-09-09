@@ -50,7 +50,7 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
   },
   shadee: {
     name: "シャディ",
-    roleLabel: "水やり担当",
+    roleLabel: "植物のお世話係",
     image: "/characters/char_shadee.png",
     accentHex: "#2F5D4A",
     nameTextClass: "text-[#2F5D4A]",
