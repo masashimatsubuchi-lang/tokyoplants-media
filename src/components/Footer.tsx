@@ -24,6 +24,9 @@ export default function Footer() {
                 {cat.name}
               </Link>
             ))}
+            <Link href="/items" className="py-2 text-gray-400 hover:text-gray-900 transition-colors">
+              おすすめアイテム
+            </Link>
             <Link href="/about" className="py-2 text-gray-400 hover:text-gray-900 transition-colors">
               About
             </Link>
