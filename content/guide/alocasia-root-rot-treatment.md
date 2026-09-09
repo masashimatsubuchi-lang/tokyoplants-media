@@ -85,6 +85,10 @@ amazonProducts:
 
 特に注意したいのが「土が乾かない」という状態です。季節や室温によって乾燥速度は変わりますが、夏場に7日以上、冬場に14日以上経っても表面の土が湿っているなら、水やり頻度を見直すか根腐れの確認が必要です。
 
+<!-- character-note character="kuro" type="point" -->
+「土が乾かない」は、水のあげすぎだけじゃなく、土そのものが劣化して排水性が落ちているサインのこともあるよ。同じ水やりペースを続けているのに急に乾きが悪くなったら、土の状態そのものを疑ってみて。
+<!-- /character-note -->
+
 <div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
 <div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">土が乾かない期間の目安</div>
 <div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;margin-top:0.6rem">
@@ -114,6 +118,10 @@ amazonProducts:
 茶色・黒色に変色した根、ぶよぶよと柔らかくなった根はすべて切除します。使用するハサミは必ずアルコールで消毒しておきましょう。「もったいない」と思って腐った根を残すと、残った菌が新しい根に広がり再発の原因になります。
 
 切除する際は「白くてハリのある健康な根だけを残す」という判断基準を徹底してください。判断に迷う場合は切除した方が無難です。
+
+<!-- character-note character="kuro" type="tip" -->
+迷ったら切る、で基本的には問題ないよ。根は思っている以上に再生力があるから、多少切りすぎたかなと思っても、殺菌と乾燥さえきちんとやれば新しい根はちゃんと出てくるよ。
+<!-- /character-note -->
 
 ### ステップ3：殺菌処理をする
 
@@ -212,6 +220,10 @@ tokyoplants の HYDRO MINERAL は、富士山溶岩石75%とゼオライト25%�
 容器高さの **1/4以下** を目安にします。底面給水の場合、根の先端が水に触れる程度で十分です。水位が高すぎると、根の上部が常に水に浸かった状態になり、酸欠を招きます。
 
 おすすめは、水位計付きのハイドロ用容器を使う方法です。水位が「min（最低水位）」を下回ったタイミングで補水すると管理がとても楽になります。
+
+<!-- character-note character="shadee" type="warning" -->
+土栽培から移ったばかりだと、水位計が空になっても「かわいそうだから」とすぐ足したくなる気持ち、すごくわかるよ。でもそこで我慢するのがハイドロ移行を成功させる分かれ目だから、しばらくは心を鬼にしてね。
+<!-- /character-note -->
 
 ### 換水タイミング
 

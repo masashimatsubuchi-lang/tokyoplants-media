@@ -40,6 +40,10 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 
 **こんな人に向く**: 観葉植物を幅広く収集している・品種同定に使いたい・体系的な育て方の参考書が欲しい
 
+<!-- character-note character="lum" type="tip" -->
+図鑑で品種を調べるときは、1枚の写真だけで判断せず、葉の表・裏・葉柄の付け根まで見比べると精度が上がるよ。似た品種ほど細部に違いが出やすいんだ。アプリの品種図鑑も、こういう紙の図鑑と組み合わせて使うと答え合わせがしやすいよ。
+<!-- /character-note -->
+
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/4141993379?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/4141993379.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
@@ -75,6 +79,10 @@ SNSやウェブの情報は速く広いですが、系統立てて学ぶ・品�
 「ビザールプランツと生きる」が思想書的な読み物寄りとすれば、こちらはより図鑑・リファレンス的な使い方に向きます。「この植物の名前を調べたい」「どんな種類があるか網羅的に見たい」という用途に適しています。
 
 **こんな人に向く**: 塊根植物・アガベ・ビカクシダを複数種集めている・品種同定に使いたい・図鑑として手元に置きたい
+
+<!-- character-note character="lum" type="point" -->
+塊根植物は成長がゆっくりだから、図鑑で「本来の樹形」を先にイメージしておくと、日々の小さな変化にも気づきやすくなるよ。
+<!-- /character-note -->
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/4074383705?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
