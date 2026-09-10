@@ -15,9 +15,9 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "research/rare-plant-price-bubble"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "フィロデンドロンの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382100"
+    price: ""
 ---
 
 # フィロデンドロン・スピリトゥス・サンクティの育て方｜世界最高値を記録した幻の希少種
@@ -79,6 +79,10 @@ baseProducts:
 
 明るい間接光が最適です。直射日光は葉焼けの原因となり、本種の光沢ある葉面を傷めます。**東〜北東向きの窓際**か、育成ライト（照度10,000〜20,000 lux相当）を葉から適切な距離（50〜80 cm）に設置した環境が安定します。光量が不足すると葉が短く幅広になり、本種最大の特徴である細長い葉形が失われます。「葉が正常な形に展開しない」と感じたときは、光量の見直しが最初の確認ポイントです。
 
+<!-- character-note character="sandy" type="point" -->
+本種の細長い葉形は、光が足りているかどうかのわかりやすいバロメーター。葉が短く幅広に展開し始めたら、置き場所を変える前にまず日照時間や育成ライトの距離をチェックしてみて。
+<!-- /character-note -->
+
 ### 温度
 
 20〜30℃が適温で、熱帯雨林の気候に近い温暖な環境を年間を通じて維持することが理想です。15℃以下では成長が止まり、10℃以下では枯死のリスクが高まります。ブラジルの熱帯雨林が原産地のため、ベルコーサムやパボニナと異なり比較的高温耐性はありますが、35℃以上の高温は葉の展開を止める原因となります。冬は最低気温の確保が最重要で、暖房の効いた室内での管理が必要です。
@@ -90,6 +94,20 @@ baseProducts:
 ### 用土
 
 **着生栽培が最も適しています。** ヘゴ材・コルク板・ツリーファーンへの着生が理想で、根が常に通気性の高い環境に置かれます。鉢植えで管理する場合は超排水配合が必須です。蘭用バーク60%・軽石（パーライト）30%・観葉植物用土10%の配合が推奨されます。通常の観葉植物用土のみでは過湿になりやすく、根腐れのリスクが高いため必ず改良してください。
+
+<div style="margin:1.5rem 0;border:1px solid #d6d3d1;border-radius:1rem;padding:1rem 1.25rem;background:#fafaf9">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#44403c;font-size:14px">鉢植え時の推奨配合比率</p>
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:60;background:#a8794f"></div>
+<div style="flex:30;background:#cbd5e1"></div>
+<div style="flex:10;background:#57534e"></div>
+</div>
+<p style="margin:0.5rem 0 0;font-size:11px;color:#57534e"><span style="color:#a8794f">■</span>蘭用バーク60%　<span style="color:#cbd5e1">■</span>軽石（パーライト）30%　<span style="color:#57534e">■</span>観葉植物用土10%</p>
+</div>
+
+<!-- character-note character="kuro" type="tip" -->
+着生植物にとって「土に埋める」ことは必ずしも快適とは限らないよ。鉢植えにこだわらず、ヘゴ材やコルク板に根を這わせる着生スタイルも選択肢に入れてみて。
+<!-- /character-note -->
 
 ### 支柱・着生仕立て
 
@@ -112,6 +130,10 @@ baseProducts:
 **原因:** 過湿と通気不足による根の酸素欠乏。排水性の低い用土や受け皿の水の溜まりが原因。本種は根腐れに至るスピードが比較的速いため、早期発見が重要です。
 
 **対処:** 鉢から抜いて根を確認します。黒く腐敗した根は全て除去し、殺菌剤（ベンレート希釈液など）で切り口を処理後、超排水配合の新しい用土へ植え替えます。着生素材への切り替えも検討してください。回復管理中は水やりを極力控え、高湿度は葉水でまかないます。
+
+<!-- character-note character="kuro" type="warning" -->
+根腐れの進行は本種のように希少で高価な株ほど見逃したくないもの。鉢植えで管理している場合は、月1回程度鉢を持ち上げて重さの変化を確認する習慣が早期発見につながるよ。
+<!-- /character-note -->
 
 ### 成長が著しく遅い
 

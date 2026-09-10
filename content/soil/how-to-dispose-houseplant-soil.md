@@ -109,6 +109,10 @@ amazonProducts:
 
 濡れた土は非常に重く、ゴミ袋が破れる原因になります。処分前に日当たりのよい場所でシートの上に広げ、1〜2日乾燥させてから袋に入れましょう。
 
+<!-- character-note character="shadee" type="tip" -->
+土は塊のまま置くより、手で軽くほぐして薄く広げたほうが乾くスピードがぐっと速まるよ。ゴミの収集日の前日から始めておけば、ちょうど良いタイミングでしっかり乾き切ることが多い。
+<!-- /character-note -->
+
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B089TGWXZS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B089TGWXZS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
@@ -150,6 +154,10 @@ amazonProducts:
 黒いビニール袋に湿らせた土を入れ、袋を密封して直射日光の当たる場所に2週間程度置きます。内部温度が60〜70℃になることで、病原菌・害虫の卵・雑草の種を死滅させられます。
 
 <mark>夏（7〜8月）の日光消毒が最も効果的で、1〜2週間で十分な殺菌効果が得られます。</mark>
+
+<!-- character-note character="kuro" type="tip" -->
+日光消毒した土は見た目が変わらなくても、内部の団粒構造は少し崩れていることが多いよ。再生するときは新しい赤玉土やパーライトを必ず加えて、排水性を回復させてから使ってあげて。
+<!-- /character-note -->
 
 **ステップ3：土壌改良材を加えて再生する**
 
@@ -268,6 +276,10 @@ amazonProducts:
 ### 再利用前提で無機質素材の土を選ぶ
 
 赤玉土・パーライト・軽石など無機質素材が主体の土は劣化が遅く、再利用しやすいです。有機質が多い土は劣化が速く、再利用が難しくなります。
+
+<!-- character-note character="kuro" type="point" -->
+有機質が多い土は植物にとって栄養豊富な反面、劣化も早い。長く使い回したいなら、赤玉土やパーライトのような崩れにくい無機質素材の比率を高めに設計するのがコツだよ。
+<!-- /character-note -->
 
 ### 少量ずつ植え替える
 
