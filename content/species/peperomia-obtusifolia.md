@@ -13,9 +13,9 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "tokyoplants All plants｜希少植物一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 # ペペロミア・オブツシフォリア｜肉厚光沢葉が美しい、育てやすさ最高峰のペペロミア図鑑
@@ -52,6 +52,10 @@ baseProducts:
 ### 多肉質の葉と乾燥耐性の仕組み
 
 ペペロミア属は1,500種以上が熱帯・亜熱帯に分布するが、多くの種が乾季のある環境に適応するために葉細胞に水分を蓄える「準多肉質（succulent-like）」の特性を持つ。<mark>オブツシフォリアの肉厚な葉はこの適応の典型例で、細胞液胞に大量の水を貯蔵することで、土が乾いても数日間は葉内部の水分で生存できる——これが「水やりを忘れてもしばらく平気」な理由だ。</mark>
+
+<!-- character-note character="shadee" type="point" -->
+葉が乾燥に強いのは根っこも強いという意味じゃないよ。水を蓄えているのは葉であって、根はむしろ多湿に弱いから、「乾燥に強いなら多めに水をあげても平気」という考え方は逆効果になりやすいんだ。
+<!-- /character-note -->
 
 ### 深緑の光沢葉と赤みがかった茎
 
@@ -121,7 +125,18 @@ baseProducts:
 - パーライト: 20%
 - 軽石（小粒）: 20%
 
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden;margin:0.5rem 0">
+<div style="flex:60;background:#8b5e34" title="観葉植物用培養土 60%"></div>
+<div style="flex:20;background:#d9c18a" title="パーライト 20%"></div>
+<div style="flex:20;background:#a8a29e" title="軽石(小粒) 20%"></div>
+</div>
+<p style="margin:0.25rem 0 0;font-size:12px;color:#78716c">培養土60% ／ パーライト20% ／ 軽石(小粒)20%</p>
+
 または多肉植物・サボテン用土をそのまま使用しても問題ない。素焼き鉢を使うと通気性がさらに高まり根腐れリスクが下がる。
+
+<!-- character-note character="kuro" type="tip" -->
+迷ったら「多肉・サボテン用土＋軽石を1〜2割足す」くらいの感覚でいい。既製品を軸にすると配合の失敗が減る。
+<!-- /character-note -->
 
 ### 湿度
 
@@ -154,6 +169,10 @@ baseProducts:
 **原因:** 過水が原因のペペロミア最多トラブル。土が乾いていない状態での水やりの繰り返しが根腐れを引き起こす。
 
 **対処:** 水やりを大幅に減らし、株を培地から抜いて根の状態を確認する。腐敗根を除去し、乾かしてから新しい用土に植え替える。
+
+<!-- character-note character="shadee" type="warning" -->
+「乾燥に強い」と「水を欲しがらない」は別物。乾いてから数日待てるだけで、実際は水切れよりも過湿の方がずっと危険だから、次の水やりまでの間隔を空けすぎないことも同じくらい大事だよ。
+<!-- /character-note -->
 
 ### 斑が薄くなった・緑が強くなった
 
