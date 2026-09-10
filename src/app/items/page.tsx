@@ -126,10 +126,6 @@ export default function RecommendedItemsPage() {
         このページは、tokyoplants MEDIAの記事内で実際に紹介・検証した道具の中から、編集部が用途別に厳選したものだけをまとめています。網羅的な商品一覧ではなく、「記事で本当に勧めているもの」だけを掲載する方針です。各商品には、選定の根拠になった記事へのリンクを添えています。
       </p>
 
-      <div className="mt-4 rounded-xl border border-gray-100 bg-gray-50/60 p-4 text-xs leading-relaxed text-gray-500">
-        ※本ページにはAmazonアソシエイトリンクを含みます。価格・在庫・レビュー件数は変動するため、購入前に必ず商品ページで最新情報をご確認ください。
-      </div>
-
       {/* tokyoplants公式アイテム */}
       <section className="mt-12">
         <h2 className="text-xl font-extrabold tracking-tight text-gray-900">tokyoplants公式アイテム</h2>
@@ -156,6 +152,8 @@ export default function RecommendedItemsPage() {
 
       <div className="mt-16 rounded-xl border border-gray-100 bg-gray-50/60 p-5 text-xs leading-relaxed text-gray-500">
         掲載商品は、tokyoplants MEDIAの商品選定基準（評価★3.2以上・レビュー10件以上・在庫あり等）を満たすものの中から編集部が選んでいます。最終更新日: 2026-09-09
+        <br />
+        ※本ページにはAmazonアソシエイトリンクを含みます。
       </div>
     </div>
   );
