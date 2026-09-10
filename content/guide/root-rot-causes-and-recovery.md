@@ -70,6 +70,40 @@ amazonProducts:
 - **健康な根：** 白〜薄い茶色。ハリがあり、しっかりしている
 - **根腐れした根：** 黒〜濃い茶色。触ると簡単に崩れる。外側の皮がずるっと剥ける
 
+根腐れは進行度によって見た目がはっきり変わります。自分の株が今どの段階にあるか、以下の表で確認してみましょう。
+
+| 段階 | 根の色・状態 | 触った感触 |
+|------|------------|-----------|
+| 初期 | 白〜薄い茶色だが、一部にぬめりが出ている | 根の張りがやや弱い |
+| 中期 | 茶色〜黒に変色した部分が目立つ | 触ると外側の皮がずるっと剥ける |
+| 末期 | ほぼ全体が黒く崩れている。悪臭が強い | 健康な白根がほぼ残っていない |
+
+---
+
+## まず確認：復活できる状態か
+
+具体的な原因や手順を読む前に、まずは今の根の状態で復活が見込めるかを確認しておきましょう。
+
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">白くハリのある根は残っているか？</div>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span style="flex:1;min-width:140px;text-align:center">↙ 残っている</span>
+<span style="flex:1;min-width:140px;text-align:center">↘ 残っていない・全滅</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-weight:700;color:#166534;font-size:14px">復活が期待できる</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">後述の6ステップ（切除→乾燥→植え替え→養生）で対応する</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">厳しい状態</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">茎の上部が緑で健康なら挿し木を検討。茎の中心まで褐変していれば復活は困難</p>
+</div>
+</div>
+</div>
+
+より詳しい判断基準（茎の中心の状態など）は、記事後半の「復活が難しいケースの判断基準」で解説しています。
+
 ---
 
 ## 根腐れが起こる3つの原因
@@ -185,23 +219,7 @@ amazonProducts:
 - **茎の中心部まで腐っている：** 茎を切っても中が茶色い場合は手遅れの可能性が高い
 - **株全体がぐらぐらする：** 根と茎の接合部が腐っている状態
 
-<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
-<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">白くハリのある根は残っているか？</div>
-<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
-<span>↙ 残っている</span>
-<span>↘ 残っていない・全滅</span>
-</div>
-<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
-<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
-<p style="margin:0;font-weight:700;color:#166534;font-size:14px">復活が期待できる</p>
-<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">上記の6ステップ（切除→乾燥→植え替え→養生）で対応する</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">厳しい状態</p>
-<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">茎の上部が緑で健康なら挿し木を検討。茎の中心まで褐変していれば復活は困難</p>
-</div>
-</div>
-</div>
+判定方法は前述の「まず確認：復活できる状態か」の通りです。白くハリのある根が残っていれば、上記の6ステップで復活が期待できます。残っていない場合や、茎の中心部まで褐変している場合は厳しい状態と考えてください。
 
 ただし、茎の上部がまだ緑色で健康なら、挿し木で救える場合があります。健康な部分をカットし、水挿しまたは水苔で発根させる方法を試してみてください。
 
