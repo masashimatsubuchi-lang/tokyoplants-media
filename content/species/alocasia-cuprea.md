@@ -16,9 +16,9 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "soil/hydroculture-complete-guide"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "アロカシア / Alocasia｜tokyoplants"
+    url: "https://www.tokyoplants.com/categories/6382096"
+    price: ""
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
@@ -91,6 +91,10 @@ azlanii（アズラニイ）やblack velvet（ブラックベルベット）と�
 
 明るい間接光が金属光沢の維持に必要。PPFD 150〜250が適切な目安だ。東〜北東向きの窓際、または南・西向き窓のレースカーテン越しが理想的な設置場所。光量が弱すぎると葉色が暗く沈んで光沢が失われ、強すぎると葉焼けを引き起こす。育成ライトを使用する場合は5,000〜10,000 luxを10〜12時間照射する。
 
+<!-- character-note character="sandy" type="tip" -->
+金属光沢は色素じゃなくて光の反射でできているから、同じ株でも照明の角度を変えるだけで銅色にも紫にも見えるよ。ディスプレイするときは、光源の位置を少し動かして一番きれいに見える角度を探してみて。
+<!-- /character-note -->
+
 ### 温度
 
 生育適温は18〜28℃。最低15℃以上を維持する。10℃以下では成長が停止し、5℃以下では枯死リスクがある。冬は室内の暖かい場所で管理し、窓際の冷気に当てない。
@@ -104,9 +108,17 @@ azlanii（アズラニイ）やblack velvet（ブラックベルベット）と�
 
 過湿は根腐れに直結する。鉢底に水が溜まらない環境を徹底する。底面給水や半ハイドロでの管理は根が常時適度に湿る状態をキープしやすく相性が良い。
 
+<!-- character-note character="shadee" type="warning" -->
+クプレアは根腐れへの耐性が低い品種だから、「表土が乾いたらすぐ水やり」ではなく、乾いてから1〜2日待ってから与えるくらいがちょうどいいよ。水やりの記録をつけておくと、季節ごとの間隔の変化にも気づきやすいんだ。
+<!-- /character-note -->
+
 ### 湿度
 
 60〜80%の高湿度を維持する。乾燥すると葉先が茶色くなり、金属光沢も失われる。加湿器や水を張ったトレーを活用する。葉面への霧吹きは水垢が残り光沢を曇らせる可能性があるため、間接的な加湿が推奨される。
+
+<!-- character-note character="shadee" type="tip" -->
+もしうっかり霧吹きしてしまったら、水滴が乾き切る前に乾いた柔らかい布でそっと押さえるように拭き取ると、跡が残りにくいよ。水道水はミネラル分が多いほど跡がつきやすいから、気になる場合は汲み置きした水を使うのも手だね。
+<!-- /character-note -->
 
 ### 用土
 
@@ -115,6 +127,16 @@ azlanii（アズラニイ）やblack velvet（ブラックベルベット）と�
 - 赤玉土（小粒）: 20%
 - パーライト: 20%
 - ヤシガラ繊維: 10%
+
+<div style="margin:0.75rem 0 1.5rem">
+<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
+<div style="flex:5;background:#78350f"></div>
+<div style="flex:2;background:#b45309"></div>
+<div style="flex:2;background:#cbd5e1"></div>
+<div style="flex:1;background:#ca8a04"></div>
+</div>
+<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■観葉植物用培養土 50%　■赤玉土 20%　■パーライト 20%　■ヤシガラ繊維 10%</p>
+</div>
 
 ハイドロカルチャー管理も可能で、根腐れリスクを下げながら湿度管理がしやすくなる。
 
@@ -131,6 +153,10 @@ azlanii（アズラニイ）やblack velvet（ブラックベルベット）と�
 **原因:** 光量不足か過湿のいずれか。
 
 **対処:** より明るい間接光の場所に移動する。水やり頻度を見直し、過湿がある場合は培地を乾かす期間を長くする。
+
+<!-- character-note character="sandy" type="point" -->
+光沢が鈍くなったとき、真っ先に疑うべきは肥料でも品種の個体差でもなく置き場所だよ。光量を戻してあげれば、新しく展開する葉から輝きが回復してくることが多い。
+<!-- /character-note -->
 
 ### 葉先・葉縁が茶色く枯れる
 
