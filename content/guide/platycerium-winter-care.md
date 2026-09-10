@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/platycerium-grow-light-guide"
   - "guide/platycerium-placement-guide"
   - "guide/platycerium-watering-guide"
+  - "guide/platycerium-dying-causes"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -72,7 +73,7 @@ baseProducts:
 
 **失敗1：夏と同じ頻度でソーキングを続ける。** 冬は蒸散量が落ちるため、同じ頻度で水を与えると根元や貯水葉の内側が過湿になり腐敗を招きます。
 
-**失敗2：貯水葉の変色をすべて水切れと判断する。** 貯水葉が茶色くなる原因には、自然な古い貯水葉の役目終了、水切れ、過湿による腐敗の3パターンがあります。根元まで確認し、柔らかく黒ずんでいれば過湿を疑ってください。
+**失敗2：貯水葉の変色をすべて水切れと判断する。** 貯水葉が茶色くなる原因には、自然な古い貯水葉の役目終了、水切れ、過湿による腐敗の3パターンがあります。根元まで確認し、柔らかく黒ずんでいれば過湿を疑ってください。冬は特にこの見極めを誤りやすい時期なので、正常な成熟と本当に枯れかけているサインの詳しい違いは「[ビカクシダが枯れる原因｜貯水葉の茶色は正常な変化](/guide/platycerium-dying-causes)」で確認してください。
 
 **失敗3：窓際に置きっぱなしで夜間の冷え込みを放置する。** 日中の明るさだけを基準に置き場所を決めると、夜間の冷気でダメージが蓄積します。
 
@@ -98,3 +99,4 @@ baseProducts:
 - [ビカクシダにライトは必要？育成ライトの選び方・設置・照射時間](/guide/platycerium-grow-light-guide)
 - [ビカクシダの置き場所ガイド｜屋外・屋内と季節管理](/guide/platycerium-placement-guide)
 - [ビカクシダの水やり完全ガイド｜板付け・鉢植え別の頻度](/guide/platycerium-watering-guide)
+- [ビカクシダが枯れる原因｜貯水葉の茶色は正常な変化](/guide/platycerium-dying-causes)
