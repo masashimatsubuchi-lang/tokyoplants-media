@@ -126,6 +126,35 @@ export default async function AuthorPage({ params }: Props) {
         </a>
       </div>
 
+      {author.products && author.products.length > 0 && (
+        <section className="mt-10">
+          <h2 className="text-sm font-bold text-gray-900">開発した商品・サービス</h2>
+          <div className="mt-3 flex flex-col gap-2">
+            {author.products.map((product) =>
+              product.url.startsWith("/") ? (
+                <Link
+                  key={product.url}
+                  href={product.url}
+                  className="rounded-lg border border-gray-100 bg-gray-50/60 px-4 py-2.5 text-[13px] font-medium text-gray-700 transition-colors hover:border-teal-300 hover:text-teal-700"
+                >
+                  {product.title} →
+                </Link>
+              ) : (
+                <a
+                  key={product.url}
+                  href={product.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-lg border border-gray-100 bg-gray-50/60 px-4 py-2.5 text-[13px] font-medium text-gray-700 transition-colors hover:border-teal-300 hover:text-teal-700"
+                >
+                  {product.title} →
+                </a>
+              )
+            )}
+          </div>
+        </section>
+      )}
+
       {shownPosts.length > 0 && (
         <section className="mt-14">
           <h2 className="text-xl font-extrabold tracking-tight text-gray-900">執筆記事一覧</h2>
