@@ -57,7 +57,7 @@ baseProducts:
   - モンステラ関連 → `https://www.tokyoplants.com/categories/6382102`
   - ECに該当カテゴリがない植物 → All plants `https://www.tokyoplants.com/categories/6382090`
 - 土・ガイド記事 → ソイル商品 `https://www.tokyoplants.com/items/99620939`（I'm original SOIL（tokyoplantsプレミアム培養土）, ¥1,200〜）⚠️2026-09-06よりサブネーム「tokyoplantsプレミアム培養土」を正式併記。baseProducts titleおよび本文初回言及は必ずこの併記形式を使うこと
-- タオル掲載対象 → モンステラ・アンスリウム・アロカシア関連記事のみ `https://www.tokyoplants.com/items/135803882`（¥2,000）
+- タオル掲載対象 → モンステラ・アンスリウム・アロカシア関連記事のみ `https://www.tokyoplants.com/items/135803882`（¥2,000）。⚠️例外（2026-09-10）：プレゼント・ギフト・インテリアなど、タオルそのものに興味がある読者層が読む記事は、モチーフ植物との一致に関わらず掲載可。単に対象属への言及があるだけで用途・主題がタオルと無関係な一般記事は対象外のまま
 - ⚠️ HYDRO MINERAL 2L `https://www.tokyoplants.com/items/142692278`（¥1,480）は、**アロカシア専用記事、または水耕栽培・ハイドロカルチャーへの切り替え/比較が記事の主題である場合のみ** baseProductsに追加する。「植え替え」「水やり」「エアコン対策」等の一般記事でハイドロを選択肢の一つとして触れる程度なら追加しない。SOILとHYDRO MINERALを両方載せると`InlineProductBanner`（結論直下のPICK UPバナー）が自動的にHYDRO側を優先表示してしまうため、無関係な一般記事に載せると誤った商品訴求になる（詳細: [feedback_soil_vs_hydro_product_priority.md](/Users/masashimatsubuchi/.claude/projects/-Users-masashimatsubuchi-my-first-project/memory/feedback_soil_vs_hydro_product_priority.md)）
 
 ## ⚠️キャラクター注釈（CharacterNote）の追加【必須・2026-09-09導入】

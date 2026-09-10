@@ -20,9 +20,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 amazonProducts:
   - title: "住友化学園芸 トップジンMペースト 100g"
     asin: "B0027WTI5W"
@@ -245,9 +242,7 @@ tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』�
 
 大型葉の植物では、復活後に出てくる葉が主要な光合成器官になります。<mark>ホコリが積もった葉は光の取り込み量が落ち、体力を回復させたい時期に不利</mark>です。とくにモンステラ・アンスリウム・アロカシアのような面積の大きい葉は、月に1〜2回、柔らかい布で優しく拭き取ってください。
 
-このとき硬いタオルやキッチンペーパーでこすると、若い葉の表面を傷つけます。tokyoplantsの『Daily Botanical Towel』は葉を傷めにくい柔らかさで、葉拭きと日常使いを兼ねられます。
-
-[Daily Botanical Towel を見る](https://www.tokyoplants.com/items/135803882)
+このとき硬いタオルやキッチンペーパーでこすると、若い葉の表面を傷つけます。柔らかい布やマイクロファイバークロスを使ってください。
 
 ---
 
