@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/basic-soil-mix"
   - "review/moss-pole-comparison"
   - "guide/monstera-propagation-cutting-guide"
+  - "guide/monstera-yellow-leaves"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -228,13 +229,15 @@ amazonProducts:
 
 主因候補:
 - 過湿（最頻）
-- 低温ストレス
+- 低温ストレス（10℃以下が目安）
 - 古葉更新（正常範囲）
 
 対応:
 1. 土の湿りと根の状態を確認
 2. 夜間温度と置き場所を再評価
 3. 施肥を一旦止める
+
+黄色くなっているのが下葉1枚だけか、新葉や複数枚かによって緊急度は大きく変わります。原因別の詳しい見分け方と対処法は[モンステラの葉が黄色くなる原因と対処法｜新葉・下葉の見分け方](/guide/monstera-yellow-leaves)で解説しています。
 
 ### 葉先・葉縁が茶色い
 
