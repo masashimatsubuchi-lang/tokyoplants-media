@@ -32,6 +32,8 @@ export interface PostMeta {
   date: string;
   updated?: string;
   author: string;
+  /** src/lib/authors.tsのキー。未指定なら既定の著者にフォールバックする */
+  authorId?: string;
   image?: string;
   genus?: string;
   tags?: string[];
@@ -67,6 +69,7 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
       date: data.date ?? "",
       updated: data.updated,
       author: data.author ?? "",
+      authorId: data.authorId,
       image: data.image,
       genus: data.genus,
       tags: data.tags,
@@ -84,6 +87,11 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
 export function getAllPosts(): PostMeta[] {
   const categories: CategorySlug[] = ["guide", "soil", "research", "review", "species"];
   return categories.flatMap((c) => getPostsByCategory(c)).sort((a, b) => (a.date > b.date ? -1 : 1));
+}
+
+/** authorId未指定の記事はDEFAULT_AUTHOR_SLUGの記事として扱う（src/lib/authors.ts参照） */
+export function getPostsByAuthor(authorSlug: string, defaultAuthorSlug: string): PostMeta[] {
+  return getAllPosts().filter((post) => (post.authorId ?? defaultAuthorSlug) === authorSlug);
 }
 
 export async function getPostBySlug(category: CategorySlug, slug: string): Promise<Post | null> {
@@ -104,6 +112,7 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
     date: data.date ?? "",
     updated: data.updated,
     author: data.author ?? "",
+    authorId: data.authorId,
     image: data.image,
     genus: data.genus,
     tags: data.tags,

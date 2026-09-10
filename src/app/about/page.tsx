@@ -48,7 +48,7 @@ export default function AboutPage() {
           tokyoplants MEDIAは、観葉植物専門店<strong className="text-gray-900">tokyoplants</strong>が運営する観葉植物の専門メディアです。育て方・用土の選び方・植物図鑑・園芸用品のレビューまで、初心者の方から上級者の方まで役立つ情報を発信しています。
         </p>
         <p>
-          店舗で日々植物と向き合う専門店だからこそ得られる知見をもとに記事を制作し、公開後も情報の正確性を継続的に確認しています。固有の商品名や資材を扱う際は、メーカー公式サイトや販売ページなど一次情報を直接確認したうえで執筆する方針を徹底しています。
+          自ら海外まで足を運んで一点ずつ株を買い付け、日々植物と向き合う専門店だからこそ得られる知見をもとに記事を制作し、公開後も情報の正確性を継続的に確認しています。固有の商品名や資材を扱う際は、メーカー公式サイトや販売ページなど一次情報を直接確認したうえで執筆する方針を徹底しています。
         </p>
         <p>
           運営元のtokyoplantsは、観葉植物専門の培養土「I&apos;m original SOIL」やリーフタオルなどの園芸用品を扱うオンラインストアも運営しています。あわせて、観葉植物のお世話と成長記録を楽しめるiPhoneアプリ「Green Collection」も開発・提供しています。
@@ -63,8 +63,13 @@ export default function AboutPage() {
             <dd>tokyoplants</dd>
           </div>
           <div className="flex flex-col gap-1 sm:flex-row sm:gap-3">
-            <dt className="shrink-0 font-semibold text-gray-900 sm:w-28">執筆・編集</dt>
-            <dd>tokyoplants 編集部</dd>
+            <dt className="shrink-0 font-semibold text-gray-900 sm:w-28">執筆者</dt>
+            <dd>
+              <Link href="/author/masashi-matsubuchi" className="text-teal-700 underline-offset-4 hover:underline">
+                Masashi Matsubuchi
+              </Link>
+              （tokyoplants オーナー）
+            </dd>
           </div>
           <div className="flex flex-col gap-1 sm:flex-row sm:gap-3">
             <dt className="shrink-0 font-semibold text-gray-900 sm:w-28">オンラインストア</dt>

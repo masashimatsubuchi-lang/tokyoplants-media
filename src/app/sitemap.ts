@@ -1,5 +1,6 @@
 import { MetadataRoute } from "next";
 import { getAllPosts } from "@/lib/posts";
+import { getAllAuthors } from "@/lib/authors";
 
 const siteUrl = "https://media.tokyoplants.com";
 
@@ -25,5 +26,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: ["soil", "species"].includes(post.category) ? 0.8 : 0.7,
   }));
 
-  return [...staticEntries, ...postEntries];
+  const authorEntries: MetadataRoute.Sitemap = getAllAuthors().map((author) => ({
+    url: `${siteUrl}/author/${author.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly",
+    priority: 0.6,
+  }));
+
+  return [...staticEntries, ...postEntries, ...authorEntries];
 }

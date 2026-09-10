@@ -1,6 +1,8 @@
 import { Post } from "@/lib/posts";
+import { getAuthorForPost } from "@/lib/authors";
 
 export default function ArticleJsonLd({ post, siteUrl = "https://media.tokyoplants.com" }: { post: Post; siteUrl?: string }) {
+  const author = getAuthorForPost(post);
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -8,7 +10,8 @@ export default function ArticleJsonLd({ post, siteUrl = "https://media.tokyoplan
     description: post.description,
     author: {
       "@type": "Person",
-      name: post.author || "tokyoplants 編集部",
+      name: author.name,
+      url: `${siteUrl}/author/${author.slug}`,
     },
     datePublished: post.date,
     dateModified: post.updated ?? post.date,

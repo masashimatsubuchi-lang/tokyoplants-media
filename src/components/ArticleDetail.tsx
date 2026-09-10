@@ -14,6 +14,8 @@ import ComparisonSummary, { ComparisonOption } from "./ComparisonSummary";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
 import ArticleAppCta from "./ArticleAppCta";
+import AuthorCard from "./AuthorCard";
+import { getAuthorForPost } from "@/lib/authors";
 import Image from "next/image";
 import Link from "next/link";
 import Script from "next/script";
@@ -132,6 +134,7 @@ function withHeadingIds(contentHtml: string): { html: string; toc: TocItem[] } {
 
 export default function ArticleDetail({ post }: { post: Post }) {
   const category = getCategoryBySlug(post.category);
+  const author = getAuthorForPost(post);
   const relatedPosts: PostMeta[] = post.relatedSlugs ? resolveRelatedPosts(post.relatedSlugs) : [];
   const sameCategoryPosts = getSameCategoryPosts(post.category, post.slug);
   const isGenusPage = post.slug.startsWith("genus-");
@@ -193,7 +196,12 @@ export default function ArticleDetail({ post }: { post: Post }) {
                     <time dateTime={post.updated}>{post.updated}</time>
                   </span>
                 )}
-                {post.author && <span>by {post.author}</span>}
+                <span>
+                  by{" "}
+                  <Link href={`/author/${author.slug}`} className="font-medium text-zinc-700 hover:text-teal-700 hover:underline">
+                    {author.name}
+                  </Link>
+                </span>
               </div>
               {post.tags && post.tags.length > 0 && (
                 <div className="mt-4 flex flex-wrap gap-2">
@@ -245,6 +253,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 );
               })}
             </div>
+
+            <AuthorCard author={author} />
 
             {/* Amazon Affiliate Block */}
             {hasAmazonProducts && (
