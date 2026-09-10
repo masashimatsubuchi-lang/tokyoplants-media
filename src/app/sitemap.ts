@@ -4,7 +4,7 @@ import { getAllAuthors } from "@/lib/authors";
 
 const siteUrl = "https://media.tokyoplants.com";
 
-const staticPaths = ["/", "/guide", "/soil", "/research", "/review", "/species", "/app"] as const;
+const staticPaths = ["/", "/guide", "/soil", "/research", "/review", "/species", "/app", "/about", "/contact", "/items"] as const;
 
 function parseDate(value: string): Date {
   const d = new Date(value);

@@ -105,6 +105,14 @@ export default function AboutPage() {
               </a>
             </dd>
           </div>
+          <div className="flex flex-col gap-1 sm:flex-row sm:gap-3">
+            <dt className="shrink-0 font-semibold text-gray-900 sm:w-28">お問い合わせ</dt>
+            <dd>
+              <Link href="/contact" className="text-teal-700 underline-offset-4 hover:underline">
+                記事掲載・法人・パートナーシップに関するお問い合わせ
+              </Link>
+            </dd>
+          </div>
         </dl>
       </div>
     </div>

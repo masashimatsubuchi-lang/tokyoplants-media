@@ -30,6 +30,9 @@ export default function Footer() {
             <Link href="/about" className="py-2 text-gray-400 hover:text-gray-900 transition-colors">
               About
             </Link>
+            <Link href="/contact" className="py-2 text-gray-400 hover:text-gray-900 transition-colors">
+              お問い合わせ
+            </Link>
             <a
               href="https://www.instagram.com/tokyoplants.jp"
               target="_blank"
