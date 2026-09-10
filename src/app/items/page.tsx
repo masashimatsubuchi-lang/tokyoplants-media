@@ -123,11 +123,11 @@ export default function RecommendedItemsPage() {
         tokyoplantsのおすすめアイテム
       </h1>
       <p className="mt-4 max-w-2xl text-[15px] leading-relaxed text-zinc-600">
-        このページは、tokyoplants MEDIAの記事内で実際に紹介・検証した道具の中から、編集部が用途別に厳選したものだけをまとめています。網羅的な商品一覧ではなく、「記事で本当に勧めているもの」だけを掲載する方針です。各商品には、選定の根拠になった記事へのリンクを添えています。
+        記事の中で実際に使って、良かったものだけを集めました。植え替える・育てる・環境を整えるなど、用途別にまとめています。気になったら紹介記事もあわせてチェックしてみてください。
       </p>
 
       {/* tokyoplants公式アイテム */}
-      <section className="mt-12">
+      <section className="mt-10">
         <h2 className="text-xl font-extrabold tracking-tight text-gray-900">tokyoplants公式アイテム</h2>
         <p className="mt-1 text-[13px] text-gray-500">tokyoplantsが自社で開発・販売している商品</p>
         <div className="mt-5 -mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2">
