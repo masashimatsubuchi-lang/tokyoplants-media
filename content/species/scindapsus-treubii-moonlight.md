@@ -8,6 +8,7 @@ tags: ["スキンダプサス", "トロイビー", "ムーンライト", "サト
 author: "tokyoplants 編集部"
 genus: "scindapsus"
 relatedSlugs:
+  - "species/scindapsus-treubii-dark-form"
   - "species/scindapsus-pictus"
   - "species/pothos-epipremnum-aureum"
   - "species/rhaphidophora-tetrasperma"
@@ -50,7 +51,7 @@ baseProducts:
 
 ### ダークフォームとの違い
 
-ムーンライトと並んで流通する近縁のカルチバーに「トロイビー・ダーク（Dark Form）」があり、こちらはより濃い緑〜ほぼ黒に近い色合いの葉を持つ。同じ *S. treubii* 由来とされるが、色調が対照的で、コレクションとして両方を並べて楽しむ愛好家も多い。
+ムーンライトと並んで流通する近縁のカルチバーに「トロイビー・ダークフォーム（Dark Form）」があり、こちらはより濃い緑〜ほぼ黒に近い色合いの葉を持つ。同じ *S. treubii* 由来とされるが、色調が対照的で、コレクションとして両方を並べて楽しむ愛好家も多い。ダークフォームの詳しい特徴と発色を保つための光量管理は[スキンダプサス・トロイビー・ダークフォーム｜ムーンライトとの違い](/species/scindapsus-treubii-dark-form)で解説している。
 
 ### 成長速度がゆっくり
 
