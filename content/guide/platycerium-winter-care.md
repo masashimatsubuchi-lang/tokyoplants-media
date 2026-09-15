@@ -13,9 +13,9 @@ relatedSlugs:
   - "guide/platycerium-watering-guide"
   - "guide/platycerium-dying-causes"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "観葉植物の商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 # ビカクシダの冬越し｜温度管理と水やり頻度の落とし方
@@ -93,7 +93,7 @@ baseProducts:
 冬の管理を丁寧に行えば、春先には新しい胞子葉が展開し始めます。まずは水やりの間隔から見直してみてください。
 
 → 関連商品リンク
-- [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
+- [水苔おすすめ5選｜ランク・圧縮率の選び方とビカクシダ・着生植物への使い方](/soil/sphagnum-moss-recommended)
 
 → 関連記事
 - [ビカクシダにライトは必要？育成ライトの選び方・設置・照射時間](/guide/platycerium-grow-light-guide)

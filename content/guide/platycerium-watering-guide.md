@@ -19,9 +19,9 @@ relatedSlugs:
   - "species/genus-platycerium"
   - "review/misting-bottle-review"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "観葉植物の商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 「ビカクシダの水やり、板付けと鉢植えで頻度が全然違うって聞くけど、結局どのくらいの間隔であげればいいの？」——SNSや育て方サイトを見比べると「2〜3日に1回」「1週間に1回」「乾いたらでOK」と情報がバラバラで、余計に混乱してしまった方は多いのではないでしょうか。

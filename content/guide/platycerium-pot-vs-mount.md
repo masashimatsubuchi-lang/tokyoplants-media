@@ -13,9 +13,9 @@ relatedSlugs:
   - "guide/platycerium-winter-care"
   - "review/platycerium-mounting-board-cork"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "観葉植物の商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 コウモリラン（ビカクシダ）を購入するとき、多くの人が最初に悩むのが「鉢植えにするか、板付けにするか」という選択です。SNSでは壁に飾られた板付けの写真をよく見かける一方、園芸店では鉢植えの株も多く流通しています。どちらが正解というわけではなく、育てる人の管理スタイルや置き場所によって向き不向きが変わります。この記事では、鉢植えと板付けそれぞれのメリット・デメリットを比較しながら、どちらを選ぶべきかの決め方を解説します。
@@ -118,4 +118,4 @@ baseProducts:
 
 どちらの仕立て方にも異なる魅力があります。自分のライフスタイルと管理にかけられる時間を踏まえて、無理なく続けられる方法を選びましょう。
 
-[I'm original SOIL（tokyoplantsプレミアム培養土） を見る](https://www.tokyoplants.com/items/99620939)
+鉢植えを選ぶ場合は水はけの良い着生植物向け用土を、板付けを選ぶ場合は水苔を使うのが基本です。用土・水苔選びの詳細は[水苔おすすめ5選｜ランク・圧縮率の選び方とビカクシダ・着生植物への使い方](/soil/sphagnum-moss-recommended)、板の選び方は[ビカクシダの板付けにおすすめの板・コルク4選](/review/platycerium-mounting-board-cork)を参考にしてください。

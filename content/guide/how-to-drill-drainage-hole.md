@@ -14,6 +14,16 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUN UP ドリルビットセット 10本組（金属・金工用）"
+    asin: "B00E4AOFUI"
+    note: "Amazon評価 3.9（3,347件）／プラスチック・金属鉢向けの通常ドリルビット"
+  - title: "ZOYUBS 陶器穴あけドリルセット（六角シャンクガラスドリルビット 3〜10mm 5本入）"
+    asin: "B08GZGZ1PQ"
+    note: "Amazon評価 3.5（61件）／陶器・ガラス・タイル用のダイヤモンド系ドリルビット"
+  - title: "ShopXJ ダイヤモンドホールソー（陶器に穴あけ）"
+    asin: "B0CK87C1WH"
+    note: "Amazon評価 4.3（71件）／陶器・磁器の大きめの穴あけに使えるホールソータイプ"
 ---
 
 # 観葉植物の鉢に自分で穴を開ける方法
@@ -93,6 +103,37 @@ baseProducts:
 - **油性ペン**: 穴を開ける位置の印付け用
 
 ダイヤモンドドリルビットは、陶器・タイル・ガラスなど硬く滑りやすい素材向けに研磨粒子をコーティングした専用ビットです。通常の鉄工用ビットでは刃先が空転して穴が開かないため、これらの素材には必ず専用ビットを用意してください。ホームセンターの工具売り場やネット通販で購入できます。
+
+<!-- character-note character="kuro" type="tip" -->
+プラスチック鉢は今持っている鉄工用ドリルでも開けられるけど、陶器・磁器・ガラスは専用のダイヤモンドビットがないとまず割れちゃう。素材を確認してから道具を揃えるのが、失敗しない一番の近道だよ。
+<!-- /character-note -->
+
+### 参考になる道具の例
+
+素材別に適した道具のイメージが湧きにくい方向けに、実際に販売されている商品を紹介します。購入前に必ず対応素材・サイズを商品ページで確認してください。
+
+※以下にはAmazonアソシエイトリンクを含みます。
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B00E4AOFUI?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B00E4AOFUI.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">SUN UP ドリルビットセット 10本組（金属・金工用）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">プラスチック・金属鉢向け／Amazon で見る →</p></div>
+</a>
+</div>
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B08GZGZ1PQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B08GZGZ1PQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ZOYUBS 陶器穴あけドリルセット（3〜10mm 5本入）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">陶器・ガラス・タイル用／Amazon で見る →</p></div>
+</a>
+</div>
+
+<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
+<a href="https://www.amazon.co.jp/dp/B0CK87C1WH?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/P/B0CK87C1WH.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ShopXJ ダイヤモンドホールソー（陶器に穴あけ）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">陶器・磁器の大きめの穴あけに／Amazon で見る →</p></div>
+</a>
+</div>
 
 ---
 

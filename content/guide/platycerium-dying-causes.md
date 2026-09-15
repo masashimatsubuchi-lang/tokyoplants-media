@@ -12,9 +12,9 @@ relatedSlugs:
   - "guide/platycerium-placement-guide"
   - "species/genus-platycerium"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "観葉植物の商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 # ビカクシダが枯れる原因｜貯水葉の茶色は正常な変化
@@ -143,8 +143,8 @@ baseProducts:
 
 ---
 
-## tokyoplantsおすすめ用土
+## 鉢植えで管理している場合の用土の見直し
 
-鉢植えでビカクシダを管理している場合、根腐れの多くは用土の水はけと関係しています。tokyoplantsのオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』は排水性・通気性を重視した配合で、根が酸欠になりにくい環境を作ります。
+鉢植えでビカクシダを管理している場合、根腐れの多くは用土の水はけと関係しています。ビカクシダは着生植物であるため、一般的な観葉植物用の培養土のような保水性重視の配合はそもそも向いていません。水苔単体、またはバーク・パーライト・軽石を粗めにブレンドした着生植物向けの用土を使い、水はけと通気性を優先しましょう。
 
-[I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)
+水苔の選び方・ランクの違いは[水苔おすすめ5選｜ランク・圧縮率の選び方とビカクシダ・着生植物への使い方](/soil/sphagnum-moss-recommended)、板付けへの移行を検討している場合は[ビカクシダの板付けにおすすめの板・コルク4選](/review/platycerium-mounting-board-cork)を参考にしてください。
