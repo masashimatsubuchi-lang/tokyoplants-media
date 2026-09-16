@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/march-houseplant-care-reset"
   - "guide/root-rot-causes-and-recovery"
   - "review/switchbot-humidity-control-houseplants"
+  - "guide/autumn-winter-humidity-drop-prep"
 hideAmazonBlock: true
 amazonProducts:
   - title: "シャープ 衣類乾燥除湿機 CV-R71-W"
@@ -37,7 +38,7 @@ baseProducts:
 
 冬の観葉植物管理は、水やりの頻度より「空気の設計」で差が出ます。東京の冬は、暖房で乾燥する時間帯と、窓際が結露して過湿になる時間帯が同じ日に混在しやすいからです。乾燥だけを恐れて加湿を強めるとカビが出る。逆に除湿だけで押し切ると葉先が傷む。実務ではこのバランス調整が最重要です。
 
-この記事では、冬の湿度管理を数値で再現する方法と、カビを出さない除湿機選定、小型卓上加湿器の使いどころを整理します。
+この記事では、冬の湿度管理を数値で再現する方法と、カビを出さない除湿機選定、小型卓上加湿器の使いどころを整理します。暖房を使い始める前の秋のうちに済ませておきたい準備は[秋から冬への湿度低下、今からできる準備](/guide/autumn-winter-humidity-drop-prep)で先に確認しておくと、この記事の機材選びがスムーズになります。
 
 ## 結論（最初に答え）
 

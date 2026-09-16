@@ -13,6 +13,7 @@ relatedSlugs:
   - "research/watering-frequency-by-season-indoor"
   - "soil/houseplant-soil-hub-guide"
   - "guide/pachira-yellow-leaves-falling"
+  - "guide/monstera-brown-spots-on-leaves"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -21,7 +22,7 @@ baseProducts:
 
 観葉植物の葉が黄色くなると、多くの人は「水不足か水のやりすぎか」の二択で判断しがちです。しかし実際には、黄化は複数要因が重なって発生することが多く、単発の対処だけでは再発しやすい症状です。特に室内管理では、光量不足・通気不足・土の劣化・根の傷み・肥料濃度・害虫被害が同時進行するケースが珍しくありません。
 
-この記事では、葉が黄色くなる原因を短時間で切り分けるために、確認順序を固定したチェックリストを提示します。やるべきことは「症状を見て推測する」のではなく、「観察項目を順番に潰していく」ことです。
+この記事では、葉が黄色くなる原因を短時間で切り分けるために、確認順序を固定したチェックリストを提示します。やるべきことは「症状を見て推測する」のではなく、「観察項目を順番に潰していく」ことです。なお、黄化ではなく葉の途中に茶色い斑点が出ている場合は原因の切り分け方が異なります。モンステラの場合は[モンステラの葉に茶色い斑点が出る原因と対処法](/guide/monstera-brown-spots-on-leaves)を参照してください。
 
 ## 結論（最初に答え）
 

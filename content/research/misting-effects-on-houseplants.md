@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/spider-mites-houseplants-control"
   - "guide/winter-watering-houseplants"
   - "review/misting-bottle-review"
+  - "guide/autumn-winter-humidity-drop-prep"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -74,7 +75,7 @@ baseProducts:
 
 **湿度改善効果は限定的**
 
-散布直後こそ湿度が15〜18ポイント上昇しましたが、1時間後にはほぼ元に戻りました。部屋全体の湿度を安定的に高めたい場合は、加湿器の使用が現実的です。葉水はあくまで「局所的・一時的な湿度補助」と捉えるべきでしょう。
+散布直後こそ湿度が15〜18ポイント上昇しましたが、1時間後にはほぼ元に戻りました。部屋全体の湿度を安定的に高めたい場合は、加湿器の使用が現実的です。葉水はあくまで「局所的・一時的な湿度補助」と捉えるべきでしょう。暖房が本格化する前の秋のうちに葉水の頻度・タイミングを見直しておく準備リストは[秋から冬への湿度低下、今からできる準備](/guide/autumn-winter-humidity-drop-prep)にまとめています。
 
 ## 実践ガイド
 

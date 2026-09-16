@@ -12,6 +12,8 @@ relatedSlugs:
   - "guide/platycerium-grow-light-guide"
   - "soil/recommended-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
+  - "soil/sphagnum-moss-recommended"
+  - "review/platycerium-mounting-board-cork"
   - "species/platycerium-bifurcatum"
   - "species/platycerium-ridleyi"
   - "species/platycerium-willinckii"
@@ -19,6 +21,19 @@ baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    note: "ビカクシダの板付け・仕立て直しに使う長繊維の水苔。評価★4.1・レビュー35件、在庫あり（2026-09-17 Amazon直接確認）。tokyoplantsの水苔選びの考え方は「水苔おすすめ5選」で解説"
+    price: "参考価格帯は流通状況により変動（購入前にAmazon商品ページで要確認）"
+  - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
+    asin: "B0CG35V5CD"
+    note: "初めての板付けに使いやすい天然コルク板。評価★4.0・レビュー224件、在庫あり（2026-09-17 Amazon直接確認）。2026-09-08にも既存レビュー記事で価格確認済みの継続的な売れ筋商品"
+    price: "¥3,580"
+  - title: "福井金属工芸 石膏ボード用JフックS(シングル) 2個入 耐荷重7kg"
+    asin: "B01HRIGMJ0"
+    note: "板付け後に壁へ吊るす際の定番フック。評価★4.2・レビュー751件、在庫あり（2026-09-17 Amazon直接確認）・安全耐荷重7kgで賃貸住宅でも使いやすい"
+    price: "¥438前後"
 ---
 
 ## ビカクシダ属とは
@@ -186,6 +201,14 @@ baseProducts:
 **手順：** 板の中央に水苔を直径10〜15cmのドーム状に盛る。根鉢を崩してほぐした根を水苔の上に置き、貯水葉が板面に密着するよう位置を調整する。テグスで根鉢と水苔ごと板に固定し、貯水葉が動かないようにする。壁掛け用のフックを板の上部に取り付けて完成。
 
 **ポイント：** 貯水葉の向きを考えて固定することが重要。貯水葉が上向きに開く種（コロナリウムなど）は、水と有機物を受け止められるよう角度を調整する。テグスは貯水葉に直接かからないようにし、新しい貯水葉の成長を妨げないように配慮する。
+
+### 板付けに使う資材の選び方
+
+板付けの出来を左右するのは、株そのものよりも水苔と板の質であることが多い。水苔は繊維の長さで扱いやすさが変わるため、初めての板付けにはAAA以上の長繊維タイプの[水苔](https://www.amazon.co.jp/dp/B0CY2VJ3D3?tag=tokyoplants0f-22)が失敗しにくい。板は天然コルク板が通気性・保水性・見た目のバランスに優れ、[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22)のような凹凸のある天然素材だと根が活着しやすい。仕立てた板を壁に飾る段階では、石膏ボード用の[Jフック](https://www.amazon.co.jp/dp/B01HRIGMJ0?tag=tokyoplants0f-22)のような賃貸でも使えるピンフックがあると設置がスムーズになる。水苔の詳しい選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、板の比較は[板付け板・コルク4選](/review/platycerium-mounting-board-cork)で解説している。
+
+<!-- character-note character="kuro" type="tip" -->
+板付けの資材は「安いものでまず試す」より「繊維が長い水苔・凹凸のある天然コルク」を選んだほうが、根の活着が早く結果的に失敗が少ないよ。最初の一式にこそ品質を優先したい。
+<!-- /character-note -->
 
 ---
 

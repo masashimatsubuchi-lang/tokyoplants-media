@@ -14,12 +14,23 @@ relatedSlugs:
   - "species/genus-platycerium"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
+  - "soil/sphagnum-moss-recommended"
+  - "review/platycerium-mounting-board-cork"
   - "species/platycerium-bifurcatum"
   - "species/platycerium-ridleyi"
 baseProducts:
   - title: 観葉植物の商品一覧
     url: 'https://www.tokyoplants.com/categories/6382090'
     price: ''
+amazonProducts:
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    note: "ウィリンキーの板付け・仕立て直しに使う長繊維水苔。評価★4.1・レビュー35件、在庫あり（2026-09-17 Amazon直接確認）"
+    price: "参考価格帯は流通状況により変動（購入前にAmazon商品ページで要確認）"
+  - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
+    asin: "B0CG35V5CD"
+    note: "凹凸のある天然コルクで根が活着しやすい板付け材。評価★4.0・レビュー224件、在庫あり（2026-09-17 Amazon直接確認）"
+    price: "¥3,580"
 ---
 
 # ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方
@@ -149,7 +160,11 @@ baseProducts:
 - **ハンギングバスケット** — ワイヤーバスケットに水苔を詰めて植え付ける。群生株の管理にも向いている
 - **水苔単体の鉢植え** — 素焼き鉢にニュージーランド産の長繊維水苔を軽く詰め、株を植え付ける。板付けに抵抗がある場合の選択肢だが、鉢底の通気性確保が必須
 
-水苔は品質によって保水性と通気性が大きく変わる。ニュージーランド産AAグレード以上の長繊維水苔を使うと、根の生育が安定しやすい。
+水苔は品質によって保水性と通気性が大きく変わる。ニュージーランド産AAグレード以上の長繊維水苔を使うと、根の生育が安定しやすい。具体的には[ニュージーランド産の圧縮水苔AAAハイグレード](https://www.amazon.co.jp/dp/B0CY2VJ3D3?tag=tokyoplants0f-22)のような長繊維タイプが扱いやすく、板は凹凸のある天然素材で根が活着しやすい[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22)がウィリンキーの板付けにも向いている。水苔のランク・圧縮率の見方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、板の比較は[板付け板・コルク4選](/review/platycerium-mounting-board-cork)で詳しく解説している。
+
+<!-- character-note character="kuro" type="tip" -->
+水苔は繊維が長いAAA以上を選ぶと、板に盛ったときにまとまりやすく根が絡む方向も揃いやすいよ。ウィリンキーは過湿にやや弱いから、天然コルクのような通気性の高い板と組み合わせるのが相性がいい。
+<!-- /character-note -->
 
 ### 肥料
 

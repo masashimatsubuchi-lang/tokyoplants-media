@@ -12,9 +12,9 @@ relatedSlugs:
   - "guide/platycerium-grow-light-guide"
   - "guide/repotting-houseplants-complete-guide"
 amazonProducts:
-  - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
+  - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
     asin: "B0CG35V5CD"
-    price: "¥2,980前後（2026-09-08確認）"
+    price: "¥3,580前後（2026-09-17確認）"
   - title: "WinJapan コルク樹皮 中サイズ150×200 5枚（訳あり・B級品）"
     asin: "B0CG4GFVSH"
     price: "¥3,280前後（2026-09-08確認）"
@@ -183,9 +183,9 @@ amazonProducts:
 
 ## おすすめ商品4選
 
-### 1. WinJapan コルク樹皮 特大300×400mm
+### 1. WinJapan コルク樹皮 特大300×600mm
 
-初めての板付けに最適なフラットタイプのコルク板。天然コルクの凹凸が根の活着を促し、適度な通気性と保水性を確保。30×40cmは中〜大株にも対応できるサイズで、貯水葉が広がっても余裕があります。WinJapanはビカクシダ・エアプランツ用コルク素材の定番ブランド。
+初めての板付けに最適なフラットタイプのコルク板。天然コルクの凹凸が根の活着を促し、適度な通気性と保水性を確保。30×60cmは中〜大株にも対応できるサイズで、貯水葉が広がっても余裕があります。WinJapanはビカクシダ・エアプランツ用コルク素材の定番ブランド。
 
 **メリット**: 軽量・加工しやすい・活着しやすい・見た目が美しい
 **デメリット**: 大型株には複数枚必要になることも
@@ -194,7 +194,7 @@ amazonProducts:
 <a href="https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
 <img src="https://m.media-amazon.com/images/P/B0CG35V5CD.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">WinJapan コルク樹皮 特大300×400mm 1枚</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">WinJapan コルク樹皮 特大300×600mm 1枚</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

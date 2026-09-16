@@ -12,6 +12,7 @@ relatedSlugs:
   - "review/winter-humidity-control-humidifier-dehumidifier"
   - "research/misting-effects-on-houseplants"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/autumn-winter-humidity-drop-prep"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -108,7 +109,7 @@ baseProducts:
 - 週1回を目安に水を入れ替え、藻やコバエの発生を防ぐ
 - 部屋全体の乾燥には加湿器も併用し、腰水トレイは局所的な補助策と位置づける
 
-高湿度を好むアンスリウムやカラテア、シダ植物を育てている方は、加湿器を導入する前の第一歩として、まずは腰水トレイから試してみるのがおすすめです。
+高湿度を好むアンスリウムやカラテア、シダ植物を育てている方は、加湿器を導入する前の第一歩として、まずは腰水トレイから試してみるのがおすすめです。暖房で空気が乾き始める前の秋のうちに用意しておくと、湿度が下がってから慌てずに済みます。秋にやっておきたい準備は[秋から冬への湿度低下、今からできる準備](/guide/autumn-winter-humidity-drop-prep)でまとめています。
 
 ---
 

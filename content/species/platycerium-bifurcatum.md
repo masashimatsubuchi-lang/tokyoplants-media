@@ -11,12 +11,27 @@ relatedSlugs:
   - "species/genus-platycerium"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
+  - "soil/sphagnum-moss-recommended"
+  - "review/platycerium-mounting-board-cork"
   - "species/platycerium-willinckii"
   - "species/platycerium-ridleyi"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    note: "ビフルカツムの板付け・鉢植えどちらにも使える長繊維水苔。評価★4.1・レビュー35件、在庫あり（2026-09-17 Amazon直接確認）"
+    price: "参考価格帯は流通状況により変動（購入前にAmazon商品ページで要確認）"
+  - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
+    asin: "B0CG35V5CD"
+    note: "初めての板付けに扱いやすい天然コルク板。評価★4.0・レビュー224件、在庫あり（2026-09-17 Amazon直接確認）"
+    price: "¥3,580"
+  - title: "福井金属工芸 石膏ボード用JフックS(シングル) 2個入 耐荷重7kg"
+    asin: "B01HRIGMJ0"
+    note: "板付け後に壁へ吊るす定番フック。評価★4.2・レビュー751件、在庫あり（2026-09-17 Amazon直接確認）・安全耐荷重7kgで賃貸住宅でも使いやすい"
+    price: "¥438前後"
 ---
 
 # ビカクシダ・ビフルカツム｜初心者向きな定番種の育て方
@@ -137,7 +152,7 @@ baseProducts:
 
 ビフルカツムは着生植物であり、一般的な培養土は適さない。根が呼吸できる通気性の高い素材を使う。
 
-**水苔（ミズゴケ）：** 最も一般的な着生材。保水性と通気性のバランスが良く、板付け・鉢植えの両方に使える。AAA〜AAAAAグレードの長繊維水苔が扱いやすい。1〜2年で劣化するため定期的な交換が必要。
+**水苔（ミズゴケ）：** 最も一般的な着生材。保水性と通気性のバランスが良く、板付け・鉢植えの両方に使える。AAA〜AAAAAグレードの長繊維水苔が扱いやすい。1〜2年で劣化するため定期的な交換が必要。[ニュージーランド産の圧縮水苔AAAハイグレード](https://www.amazon.co.jp/dp/B0CY2VJ3D3?tag=tokyoplants0f-22)のような長繊維タイプなら初心者でもまとめやすい。ランク・圧縮率の見方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)で詳しく解説している。
 
 **ベラボン（ヤシチップ）：** 水苔より保水性が低く、より乾燥気味に管理したい場合に向く。水苔と混合して使うことも多い。
 
@@ -145,7 +160,7 @@ baseProducts:
 
 ### 板付け vs 鉢植え vs 苔玉
 
-**板付け：** コルク板・焼き杉板・ヘゴ板などに水苔を盛り、株を固定する方法。通気性が最も良く、ビカクシダ本来の着生形態に近い。壁掛けにすればスペースも取らない。ただし乾燥が速いため、夏場は水やり頻度が上がる。
+**板付け：** コルク板・焼き杉板・ヘゴ板などに水苔を盛り、株を固定する方法。通気性が最も良く、ビカクシダ本来の着生形態に近い。壁掛けにすればスペースも取らない。ただし乾燥が速いため、夏場は水やり頻度が上がる。板は凹凸のある[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22)のような天然素材だと根が活着しやすく、壁に掛ける際は石膏ボード用の[Jフック](https://www.amazon.co.jp/dp/B01HRIGMJ0?tag=tokyoplants0f-22)があると賃貸住宅でも設置しやすい。板の比較は[板付け板・コルク4選](/review/platycerium-mounting-board-cork)を参照。
 
 **鉢植え：** 素焼き鉢に水苔を詰めて植える方法。板付けより水持ちが良く、水やり頻度を抑えられる。管理のしやすさでは初心者に向いている。ただし鉢底の蒸れに注意が必要。
 

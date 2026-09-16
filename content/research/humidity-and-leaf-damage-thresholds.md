@@ -4,11 +4,13 @@ title: "湿度は何％が最適？葉傷みが増える境界を検証"
 description: "室内湿度と葉先枯れ・黄変の発生率を比較し、観葉植物管理における実用的な湿度レンジを整理しました。"
 date: "2026-02-17"
 category: "research"
+tags: ["湿度", "葉焼け", "葉先枯れ", "研究"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/mold-on-houseplant-soil"
   - "species/ficus-umbellata"
+  - "guide/autumn-winter-humidity-drop-prep"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -57,6 +59,8 @@ baseProducts:
 2. 35%以下が続く季節は加湿器を使う
 3. 60%超が続く日はサーキュレーターで循環
 4. 葉水は朝に実施し、夜は避ける
+
+暖房で湿度が下がり始める秋のうちに準備しておきたい具体的な行動は[秋から冬への湿度低下、今からできる準備](/guide/autumn-winter-humidity-drop-prep)にまとめています。
 
 ### 目標設定
 

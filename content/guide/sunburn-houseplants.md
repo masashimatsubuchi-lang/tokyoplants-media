@@ -8,6 +8,7 @@ tags: ["葉焼け", "夏", "直射日光", "トラブル", "回復", "夏の管�
 author: "tokyoplants 編集部"
 appCta: "置き場所を変えた日を書き残しておくと、葉焼けの原因を特定しやすくなります。"
 relatedSlugs:
+  - "guide/shade-net-for-sunburn-prevention"
   - "guide/summer-houseplant-care-guide"
   - "guide/air-conditioner-and-houseplants"
   - "guide/monstera-care"
@@ -149,7 +150,7 @@ baseProducts:
 
 窓際に置く場合は、レースカーテン越しの柔らかい光にすることで直射日光を遮れます。一般的なレースカーテンは光を30〜50%程度カットするため、強光に弱い植物には特に有効です。
 
-光が強い季節（5〜9月）は遮光ネットを追加するのも効果的です。
+光が強い季節（5〜9月）は遮光ネットを追加するのも効果的です。遮光率やUVカット率の具体的な選び方、ベランダ・室内それぞれに適した商品は「[観葉植物の遮光ネット・レースカーテンの選び方](/guide/shade-net-for-sunburn-prevention)」で詳しく解説しています。
 
 ### 環境変化は段階的に
 

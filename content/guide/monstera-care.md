@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1653404809389-f370ea4310dd?w=800&q=80"
 title: "モンステラの育て方完全ガイド"
 description: "初心者でも安心。モンステラの水やり、日当たり、植え替えのコツを詳しく解説します。"
 date: "2025-01-15"
+category: "guide"
 author: "tokyoplants 編集部"
 appCta: "はじめての一株は、続けられる仕組みがあると気が楽になります。"
 tags: ["モンステラ", "育て方", "完全ガイド", "初心者"]
@@ -12,6 +13,7 @@ relatedSlugs:
   - "review/moss-pole-comparison"
   - "guide/monstera-propagation-cutting-guide"
   - "guide/monstera-yellow-leaves"
+  - "guide/monstera-brown-spots-on-leaves"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -250,6 +252,8 @@ amazonProducts:
 - 給水サイクルの再設定
 - 月1回程度の鉢内フラッシング
 - 遮光調整
+
+葉の縁ではなく、葉の途中に斑点状の茶色い変色が出ている場合は、葉焼け・根腐れ・病気・害虫など原因が異なります。斑点の形と広がり方から原因を絞り込む方法は[モンステラの葉に茶色い斑点が出る原因と対処法](/guide/monstera-brown-spots-on-leaves)で詳しく解説しています。
 
 ### 新葉が開かない・奇形
 
