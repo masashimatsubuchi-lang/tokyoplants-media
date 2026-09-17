@@ -71,6 +71,30 @@ baseProducts:
 
 つまり、**スパティフィラムを食べたからといって腎不全になるわけではありません**が、**無害という意味でもありません**。いずれも受診の対象です。逆に、*Lilium*属・*Hemerocallis*属だと分かった場合は、症状の有無にかかわらず一刻も早く動物病院へ向かってください。
 
+この区別を、名前から判断するときの流れとして整理すると次のようになります。
+
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#92400e;text-align:center;font-size:14px">「〇〇リリー」を見分けるときの考え方</p>
+<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:360px;margin:0 auto;font-size:14px">その植物の属は <em>Lilium</em>属／<em>Hemerocallis</em>属か？</div>
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
+<span style="flex:1;min-width:140px;text-align:center">↙ はい（真のユリ）</span>
+<span style="flex:1;min-width:140px;text-align:center">↘ いいえ（名前だけリリー）</span>
+</div>
+<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
+<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
+<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">ユリ・デイリリー（ヘメロカリス）</p>
+<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">ASPCA・FDAが猫の<strong>急性腎障害</strong>を起こすと明記。葉・花・茎・花粉・球根のすべてが毒性で、花瓶の水も危険</p>
+<p style="margin:6px 0 0;font-size:12px;color:#b91c1c;font-weight:700">症状の有無にかかわらず、ただちに動物病院へ</p>
+</div>
+<div style="flex:1;min-width:220px;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fffbeb;text-align:center">
+<p style="margin:0;font-weight:700;color:#92400e;font-size:14px">スパティフィラム（ピースリリー）・カラー など</p>
+<p style="margin:4px 0 0;font-size:12px;color:#a16207">サトイモ科。シュウ酸カルシウムによる<strong>口腔の痛み・流涎・嘔吐・下痢</strong>が中心で、腎障害のタイプとは異なる</p>
+<p style="margin:6px 0 0;font-size:12px;color:#a16207;font-weight:700">無害という意味ではなく、受診の対象</p>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:12px;color:#78716c;text-align:center">アルストロメリア（ペルビアンリリー）も真のユリではありませんが、消化器症状を起こすことがあります。／属が分からないときは「真のユリかもしれない」前提で動物病院に相談してください。</p>
+</div>
+
 ### ソテツ（*Cycas revoluta*）
 
 ASPCAは、ソテツ（サゴパーム）を**サイカシン**を含む有毒植物として掲載し、嘔吐、黒色便、黄疸、多飲、出血性胃腸炎、血液凝固異常、肝障害、肝不全、そして死に至る可能性があると記載しています。ASPCAおよび複数の獣医療機関の解説では、**種子の毒性がとくに高く**、摂取例のうち高い割合が致死的だったとする報告にも言及されています。肝不全は数日以内に進行しうるとされています。
@@ -151,6 +175,10 @@ ASPCAの毒性植物データベースで「Non-Toxic to Cats（猫に対して�
 
 葉の模様や質感を楽しみたいなら[カラテア属](/species/genus-calathea)、垂らして飾りたいなら[ホヤ属](/species/genus-hoya)、扱いやすさ重視なら[ペペロミア属](/species/genus-peperomia)——このあたりを軸に組み立てると、見応えのあるグリーンインテリアを猫と両立できます。
 
+<!-- character-note character="lum" type="point" -->
+流通名は見た目や雰囲気でつけられることが多くて、「ピースリリー」のように科も属も違う植物に同じ愛称が使われることがあるんだ。上の表で学名を併記しているのはそのためだよ。ASPCAのデータベースは学名で引けるから、購入時に鉢のラベルの学名を控えておくと、あとから自分の手で照合できるよ。
+<!-- /character-note -->
+
 ### 「非毒性」の意味を誤解しないために
 
 ここは強調しておきたい点です。
@@ -162,7 +190,17 @@ ASPCAの毒性植物データベースで「Non-Toxic to Cats（猫に対して�
 
 ## 誤食を防ぐ置き方の工夫
 
-危険な種類を避けるだけでなく、「そもそも届かない」環境をつくることが決め手になります。
+危険な種類を避けるだけでなく、「そもそも届かない」環境をつくることが決め手になります。以下の7つを、確実性・導入のしやすさの観点で並べました。**どれか1つで完結するものではなく、組み合わせて使うことが前提**です。
+
+| 対策 | 確実性 | 導入コスト | 向いている家庭 |
+|------|--------|-----------|---------------|
+| **1. 部屋で分ける（ドアで区切る）** | ◎ 最も確実 | ほぼ不要（運用だけで済む） | 猫を入れない一室・玄関土間などを確保できる間取り。サトイモ科のコレクションを続けたい人 |
+| **2. ガラスキャビネット・温室** | ◎（扉にラッチを付ける前提） | 高め（設備の導入が必要） | 高湿度を好む種を育てたい人。猫対策と栽培環境の改善を同時に進めたい人 |
+| **3. 吊るす・壁掛け** | △ 過信は禁物（猫は家具を伝って到達する） | 低〜中（ハンギング金具など） | 周囲に足場となる家具がなく、垂れた蔓も猫の手が届かない壁面を確保できる家庭 |
+| **4. 猫草を用意する** | ○ 噛みたい欲求の受け皿になるが、観葉植物への興味は消せない | 低（種と鉢のみ） | 葉を噛む癖のある猫。ほかの対策との併用が前提 |
+| **5. 鉢の土を掘らせない** | ○ 掘る・散らかす・排泄は防げるが、植物本体の誤食は防げない | 低〜中（化粧石・ネット・培地の入れ替え） | 土をトイレのように使ってしまう猫がいる家庭。コバエも同時に抑えたい人 |
+| **6. 精油系の忌避剤・アロマを使わない** | —（対策ではなく禁止事項） | — | すべての家庭。猫は精油成分の代謝が苦手で、多くの精油が猫にとって有害とされる |
+| **7. 花瓶の水・落ち葉・剪定枝を放置しない** | ○ 見落とされがちな危険源を断てる | 不要（片づけの習慣） | 切り花を飾る家庭、フィカス属やサトイモ科を育てている家庭 |
 
 ### 1. 部屋で分ける（最も確実）
 
@@ -189,6 +227,10 @@ ASPCAの毒性植物データベースで「Non-Toxic to Cats（猫に対して�
 - **有機物の少ない無機系培地**に切り替えて、匂い・虫の発生を抑える
 
 といった対策が有効です。無機培地への切り替えは、コバエ対策としても効果的です（詳しくは「[観葉植物に虫がわかない育て方](/guide/no-bugs-houseplant-growing)」）。ただし、**どんな培地も猫の食べ物ではありません。** 化粧石や培地そのものを口にしないよう、あわせて管理してください。
+
+<!-- character-note character="kuro" type="tip" -->
+化粧石と無機系培地は、狙っている効果が別物なんだ。化粧石は「掘れない」ための物理的なフタ、無機系培地は有機物の分解由来の匂いそのものを減らす対策。この2つを重ねると「掘れない・匂わない」を同時に狙えるよ。化粧石は猫が咥えてしまわないよう、ある程度大きめの粒を選んでね。
+<!-- /character-note -->
 
 ### 6. 「猫よけスプレー」「アロマ」は使わない
 

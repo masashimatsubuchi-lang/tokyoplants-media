@@ -52,17 +52,15 @@ baseProducts:
 
 ## ハイドロカルチャーのメリット
 
-フィロデンドロンをハイドロカルチャーで育てることで得られるメリットをまとめます。
+フィロデンドロンをハイドロカルチャーで育てることで得られるメリットを、土栽培と比べる形でまとめます。
 
-**虫が発生しない**: 土を使わないため、土壌を住処とするキノコバエ（コバエ）やトビムシ、ダニの発生リスクがほぼゼロになります。観葉植物の虫問題で悩む方にとって、これは最大のメリットといえます。
-
-**水やり管理が楽になる**: 水位計を使えば水分量が一目でわかり、感覚に頼らない管理が可能です。旅行や出張中でも数日〜数週間の留守に対応できます。
-
-**根腐れリスクが大幅に低下**: 水位管理さえ守れば、過湿による根腐れがほぼ起きません。土栽培での最大の失敗原因を排除できます。
-
-**清潔な室内環境を維持**: 土の飛び散りがなく、テーブルや棚の上でも清潔に管理できます。インテリアとしての見栄えも向上します。
-
-**根の状態を観察できる**: 透明なガラス容器を使えば根の成長を直接観察でき、問題の早期発見につながります。
+| メリット | 土栽培との違い |
+|---------|--------------|
+| **虫が発生しない** | 土を使わないため、土壌を住処とするキノコバエ（コバエ）やトビムシ、ダニの発生リスクがほぼゼロになる。観葉植物の虫問題で悩む方にとって最大のメリット |
+| **水やり管理が楽になる** | 水位計を使えば水分量が一目でわかり、感覚に頼らない管理が可能。旅行や出張中でも数日〜数週間の留守に対応できる |
+| **根腐れリスクが大幅に低下** | 水位管理さえ守れば、過湿による根腐れがほぼ起きない。土栽培での最大の失敗原因を排除できる |
+| **清潔な室内環境を維持** | 土の飛び散りがなく、テーブルや棚の上でも清潔に管理できる。インテリアとしての見栄えも向上する |
+| **根の状態を観察できる** | 透明なガラス容器を使えば根の成長を直接観察でき、問題の早期発見につながる。土では鉢から抜かないと根を確認できない |
 
 ## フィロデンドロンに適した培地
 
@@ -100,7 +98,44 @@ LECA（軽量粘土焼成石、いわゆるハイドロボール）も定番の�
 
 ## 土からハイドロへの移行方法
 
-土で育てているフィロデンドロンをハイドロカルチャーに移行する手順を、ステップごとに詳しく解説します。
+土で育てているフィロデンドロンをハイドロカルチャーに移行する手順を、ステップごとに詳しく解説します。まず全体の流れを把握しておきましょう。
+
+<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
+<p style="margin:0 0 0.75rem;font-weight:700;color:#92400e;text-align:center;font-size:14px">土 → ハイドロ移行の6ステップ</p>
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;justify-content:center">
+<div style="flex:1;min-width:150px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.7rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-size:11px;color:#4d7c0f;font-weight:700">STEP 1</p>
+<p style="margin:3px 0 0;font-weight:700;color:#166534;font-size:13px">移行時期を選ぶ</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">春〜初夏（4〜6月）。真夏と冬は避ける</p>
+</div>
+<div style="flex:1;min-width:150px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.7rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-size:11px;color:#4d7c0f;font-weight:700">STEP 2</p>
+<p style="margin:3px 0 0;font-weight:700;color:#166534;font-size:13px">根洗い</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">常温水で2〜3回替えながら土を完全に落とす</p>
+</div>
+<div style="flex:1;min-width:150px;border:2px solid #d97706;border-radius:0.75rem;padding:0.7rem;background:#fffbeb;text-align:center">
+<p style="margin:0;font-size:11px;color:#a16207;font-weight:700">STEP 3</p>
+<p style="margin:3px 0 0;font-weight:700;color:#92400e;font-size:13px">傷んだ根の処理・乾燥</p>
+<p style="margin:4px 0 0;font-size:12px;color:#a16207">変色・腐敗した根を切除し、30分〜1時間乾かす</p>
+</div>
+<div style="flex:1;min-width:150px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.7rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-size:11px;color:#4d7c0f;font-weight:700">STEP 4</p>
+<p style="margin:3px 0 0;font-weight:700;color:#166534;font-size:13px">培地への植え付け</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">底に2〜3cm敷き、根を広げて周囲から充填</p>
+</div>
+<div style="flex:1;min-width:150px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.7rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-size:11px;color:#4d7c0f;font-weight:700">STEP 5</p>
+<p style="margin:3px 0 0;font-weight:700;color:#166534;font-size:13px">最初の水位設定</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">低め（容器高さの約1/5）から。2週間は低めを維持</p>
+</div>
+<div style="flex:1;min-width:150px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.7rem;background:#f0fdf4;text-align:center">
+<p style="margin:0;font-size:11px;color:#4d7c0f;font-weight:700">STEP 6</p>
+<p style="margin:3px 0 0;font-weight:700;color:#166534;font-size:13px">移行後2週間の観察</p>
+<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">葉・根元・新根をチェックし、活着を確認</p>
+</div>
+</div>
+<p style="margin:0.75rem 0 0;font-size:12px;color:#78716c;text-align:center">STEP 3の「乾かす」工程が失敗を分けるポイント。ここを飛ばすと切り口から腐敗しやすくなります。</p>
+</div>
 
 ### ステップ1：移行時期を選ぶ
 
@@ -161,9 +196,11 @@ LECA（軽量粘土焼成石、いわゆるハイドロボール）も定番の�
 
 ### 季節別の補水頻度目安
 
-- **春・夏（成長期、4〜9月）**: 5〜7日に1回が目安。気温が高く蒸発が速いため比較的頻繁な補水が必要。
-- **秋（移行期、10〜11月）**: 7〜14日に1回が目安。成長ペースが落ちるにつれ水の消費量も減る。
-- **冬（休眠期、12〜3月）**: 14〜21日に1回が目安。成長がほぼ止まる品種もあるため過湿に特に注意。
+| 季節 | 補水の目安 | 理由・注意点 |
+|------|----------|------------|
+| **春・夏**（成長期、4〜9月） | 5〜7日に1回 | 気温が高く蒸発が速いため、比較的頻繁な補水が必要 |
+| **秋**（移行期、10〜11月） | 7〜14日に1回 | 成長ペースが落ちるにつれ、水の消費量も減っていく |
+| **冬**（休眠期、12〜3月） | 14〜21日に1回 | 成長がほぼ止まる品種もあるため、過湿に特に注意 |
 
 これらはあくまで目安です。実際の補水タイミングは水位計や培地の状態を見て判断してください。
 
