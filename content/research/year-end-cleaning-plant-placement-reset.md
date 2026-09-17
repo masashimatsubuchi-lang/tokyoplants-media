@@ -19,9 +19,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 ---
 
 年末の大掃除は、部屋だけでなく観葉植物の置き場所・管理方法を見直す絶好のタイミングです。[3月の観葉植物リセット手順](/guide/march-houseplant-care-reset)が「冬管理から春管理への切り替え」だったのに対し、年末は「秋までの管理から本格的な冬管理への切り替え」というタイミングにあたります。この記事では、大掃除と合わせてやるべき観葉植物の見直し作業を順序立てて整理します。
@@ -87,6 +84,6 @@ baseProducts:
 
 ---
 
-→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939) / [Daily Botanical Towel｜リーフタオル](https://www.tokyoplants.com/items/135803882)
+→ 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事: [3月の観葉植物リセット手順](/guide/march-houseplant-care-reset)

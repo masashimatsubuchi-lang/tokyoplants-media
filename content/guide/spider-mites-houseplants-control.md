@@ -13,9 +13,6 @@ relatedSlugs:
   - "soil/indoor-houseplant-soil"
   - "review/misting-bottle-review"
 amazonProducts:
-  - title: "KINCHO園芸（旧:住友化学園芸） オルトランDX粒剤 200g｜浸透移行性殺虫剤"
-    asin: "B004MK7RW8"
-    price: "¥891前後"
   - title: "KINCHO園芸（旧:住友化学園芸） ベニカXファインスプレー 420ml"
     asin: "B003ULEF52"
 ---
