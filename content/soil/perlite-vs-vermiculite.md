@@ -56,7 +56,40 @@ baseProducts:
 
 ## 理由・仕組み：なぜ効果が正反対になるのか
 
-見た目が似ているのに効果が真逆になるのは、原料と加工方法がまったく異なるためです。それぞれの成り立ちを見ていきましょう。
+見た目が似ているのに効果が真逆になるのは、原料と加工方法がまったく異なるためです。違いは「粒の中にできる空間の形」に集約されます。
+
+<div style="margin:1.5rem 0;border:2px solid #cbd5e1;border-radius:1rem;padding:1rem;background:#f8fafc">
+<p style="margin:0 0 0.75rem;text-align:center;font-weight:700;color:#334155;font-size:14px">粒の構造の違い＝効果が正反対になる理由</p>
+<div style="display:flex;flex-wrap:wrap;gap:1rem">
+<div style="flex:1;min-width:240px;border:2px solid #0ea5e9;border-radius:0.75rem;padding:0.75rem;background:#fff">
+<p style="margin:0;text-align:center;font-weight:700;color:#0369a1;font-size:14px">パーライト｜気泡構造</p>
+<div style="text-align:center;margin:0.7rem 0">
+<span style="display:inline-block;width:16px;height:16px;border:2px solid #38bdf8;border-radius:50%;margin:3px"></span>
+<span style="display:inline-block;width:22px;height:22px;border:2px solid #38bdf8;border-radius:50%;margin:3px"></span>
+<span style="display:inline-block;width:14px;height:14px;border:2px solid #38bdf8;border-radius:50%;margin:3px"></span>
+<span style="display:inline-block;width:20px;height:20px;border:2px solid #38bdf8;border-radius:50%;margin:3px"></span>
+<span style="display:inline-block;width:16px;height:16px;border:2px solid #38bdf8;border-radius:50%;margin:3px"></span>
+<span style="display:inline-block;width:24px;height:24px;border:2px solid #38bdf8;border-radius:50%;margin:3px"></span>
+</div>
+<p style="margin:0;font-size:12px;color:#475569">高温で発泡してできた<strong>無数の気泡＝マクロポア（大きな空隙）</strong>。粒自体はガラス質でほとんど水を吸わず、空隙がそのまま水と空気の通り道になる。</p>
+<p style="margin:0.6rem 0 0;padding:0.4rem;border-radius:0.5rem;background:#e0f2fe;color:#0369a1;font-size:13px;font-weight:700;text-align:center">→ 排水性・通気性が上がる</p>
+</div>
+<div style="flex:1;min-width:240px;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff">
+<p style="margin:0;text-align:center;font-weight:700;color:#92400e;font-size:14px">バーミキュライト｜層状構造</p>
+<div style="margin:0.7rem 0;padding:0 0.5rem">
+<div style="height:7px;background:#f59e0b;border-radius:3px;margin:5px 0"></div>
+<div style="height:7px;background:#f59e0b;border-radius:3px;margin:5px 0"></div>
+<div style="height:7px;background:#f59e0b;border-radius:3px;margin:5px 0"></div>
+<div style="height:7px;background:#f59e0b;border-radius:3px;margin:5px 0"></div>
+<div style="height:7px;background:#f59e0b;border-radius:3px;margin:5px 0"></div>
+</div>
+<p style="margin:0;font-size:12px;color:#475569">加熱でアコーディオン状に開いた<strong>層と層の隙間＝ミクロポア（微細な空隙）</strong>。この隙間がスポンジのように水を抱え込み、層間の陽イオン交換能（CEC）が肥料成分も吸着する。</p>
+<p style="margin:0.6rem 0 0;padding:0.4rem;border-radius:0.5rem;background:#fef3c7;color:#92400e;font-size:13px;font-weight:700;text-align:center">→ 保水性・保肥性が上がる</p>
+</div>
+</div>
+</div>
+
+それぞれの成り立ちを、もう少し詳しく見ていきましょう。
 
 ### パーライトとは
 
@@ -114,11 +147,30 @@ baseProducts:
 
 実際の観葉植物の土づくりでは、パーライトとバーミキュライトを両方少量ずつ配合するのが最もバランスが良い方法です。
 
-```
-培養土（または赤玉土ベース）：70〜80%
-パーライト：10〜15%
-バーミキュライト：10〜15%
-```
+**標準配合（培養土70〜80%／パーライト10〜15%／バーミキュライト10〜15%）**
+
+<div style="display:flex;flex-wrap:wrap;height:24px;border-radius:0.375rem;overflow:hidden;margin:0.5rem 0">
+<div style="flex:75;min-width:40px;background:#78350f"></div>
+<div style="flex:12;min-width:20px;background:#bae6fd"></div>
+<div style="flex:13;min-width:20px;background:#f59e0b"></div>
+</div>
+
+<div style="display:flex;flex-wrap:wrap;gap:0.75rem;font-size:12px;color:#475569;margin-bottom:1rem">
+<span style="flex:1;min-width:110px"><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#78350f"></span> 培養土 70〜80%</span>
+<span style="flex:1;min-width:110px"><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#bae6fd"></span> パーライト 10〜15%</span>
+<span style="flex:1;min-width:110px"><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#f59e0b"></span> バーミキュライト 10〜15%</span>
+</div>
+
+育てている植物の好みに合わせて、この標準配合から前後に振るのが基本の考え方です。
+
+**用途別 配合早見表**
+
+| タイプ | 目安の配合 | 向いている植物 |
+|------|------|------|
+| 乾燥好みに寄せる | 培養土＋パーライト10〜20%（多肉植物・サボテンは20〜30%まで可） | サンスベリア、多肉植物・サボテン、ザミオクルカス、パキラ（乾燥気味に管理したい場合） |
+| 標準（バランス型） | 培養土70〜80%＋パーライト10〜15%＋バーミキュライト10〜15% | 一般的な観葉植物全般 |
+| 湿度好みに寄せる | 培養土＋バーミキュライト10〜20% | アンスリウム、カラテア、アロカシア |
+| 挿し木・種まき用 | バーミキュライト単体、またはパーライトと1:1 | 発根用の清潔な培地として（発根後は培養土へ植え替え） |
 
 パーライトで余分な水をすばやく排出しつつ、バーミキュライトで根の周りに適度な水分を残す。この2つを組み合わせることで、「水はけは良いのに乾きすぎない」という理想的な土質に近づきます。
 
@@ -151,29 +203,19 @@ baseProducts:
 
 ## よくある失敗例
 
-### 失敗1：どちらも「水はけを良くする資材」だと思い込む
+パーライト・バーミキュライトで起こりやすい5つの誤りを、原因と正しい対応の形でまとめました。
 
-最も多い誤解です。バーミキュライトを「水はけ改善のため」に入れてしまうと、逆に保水性が上がって過湿になり、根腐れを招くことがあります。水はけを改善したい場合はパーライトを選びましょう。
-
-### 失敗2：バーミキュライトを入れすぎる
-
-保水性が高い分、配合割合が30%を超えると土が常に湿った状態になりやすく、特に冬場は過湿による根腐れのリスクが高まります。基本は10〜20%以内に抑えるのが安全です。
+| やりがちな誤り | 起きること | 正しい対応 |
+|------|------|------|
+| **1.** どちらも「水はけを良くする資材」だと思い込む（最も多い誤解） | バーミキュライトを水はけ改善のつもりで入れると、逆に保水性が上がって過湿になり、根腐れを招くことがある | 水はけを改善したい場合はパーライトを選ぶ |
+| **2.** バーミキュライトを入れすぎる（30%超） | 保水性が高い分、土が常に湿った状態になりやすく、特に冬場は過湿による根腐れリスクが高まる | 基本は10〜20%以内に抑える |
+| **3.** パーライトを入れすぎる（30〜40%以上） | 水と一緒に肥料分も流れ出やすくなり、栄養不足で葉色が悪くなることがある | 液体肥料や緩効性肥料での補給を意識する |
+| **4.** 挿し木用のバーミキュライトに植えっぱなしにする | 発根用培地には栄養分がないため、成長が止まったり葉色が薄くなったりする | 発根が確認できたら必ず通常の培養土に植え替える |
+| **5.** 粒が細かすぎる製品を選ぶ | 100円ショップなどの安価な製品は粒が非常に細かく、土に混ぜるとすぐに他の土と同化して効果を実感しにくい | 観葉植物の鉢に混ぜる用途なら中粒サイズを選ぶ |
 
 <!-- character-note character="shadee" type="warning" -->
 「保水性を上げたい」という気持ちで多めに入れがちだけど、常に湿っている土は根にとって休む暇がない状態なんだ。乾湿のメリハリをつけるためにも、バーミキュライトは控えめから始めるくらいでちょうどいいよ。
 <!-- /character-note -->
-
-### 失敗3：パーライトを入れすぎて肥料切れを起こす
-
-パーライトを多く入れすぎると（30〜40%以上）、水と一緒に肥料分も流れ出やすくなり、栄養不足で葉色が悪くなることがあります。パーライトを多めに使う場合は、液体肥料や緩効性肥料での補給を意識しましょう。
-
-### 失敗4：挿し木用のバーミキュライトにそのまま植えっぱなしにする
-
-発根用培地として使ったバーミキュライトには栄養分がありません。発根後もそのまま育て続けると、成長が止まったり葉色が薄くなったりします。発根が確認できたら、必ず通常の培養土に植え替えてください。
-
-### 失敗5：粒が細かすぎるものを選んで土に埋もれてしまう
-
-100円ショップなどの安価な製品は粒が非常に細かいことがあり、土に混ぜるとすぐに他の土と同化して効果を実感しにくいことがあります。観葉植物の鉢に混ぜる用途なら、中粒サイズを選ぶと効果を体感しやすくなります。
 
 ---
 
