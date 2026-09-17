@@ -51,7 +51,7 @@ amazonProducts:
 - 株全体の水分・養分供給ルートが増える
 - 茎が物理的に固定され、成長点が上向きを維持しやすくなる
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 植物にとって「新しく水分・養分を取り込むルートが増える」のは、成長エネルギーの総量が底上げされるということなんだ。気根の活着は、鉢の根を増やさずに株全体の生育ポテンシャルを引き上げる、ちょっとした裏技のような効果があるんだよ。
 <!-- /character-note -->
 

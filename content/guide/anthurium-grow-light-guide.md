@@ -56,7 +56,7 @@ amazonProducts:
 
 <mark>**多くのベルベット系アンスリウムはPPFD 100〜200程度の柔らかい光が理想**です。強すぎる光は葉焼けの原因になるため、窓際の明るい間接光〜育成ライトの拡散光で十分です。</mark>
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 PPFD 100〜200というのは、観葉植物の中でもかなり控えめな数値なんだよ。ビカクシダの目安200〜350や、多肉植物が好む400〜600以上と比べると数字は低め——ベルベット系アンスリウムは、もともと薄暗い林床で育つ植物だってことがこの数字にも表れているね。
 <!-- /character-note -->
 
@@ -82,7 +82,7 @@ PPFD 100〜200というのは、観葉植物の中でもかなり控えめな数
 
 アンスリウムは赤・青のバランスが取れた白色光を好みます。6500K以上の青白い光は徒長を促しやすく、ベルベット系の発色には4000〜5000Kがより自然な状態を引き出せます。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 色温度は数字だけで選ばず、実際に点灯した状態で葉の色を見比べてみるのが一番確実だよ。光量を測りたいときは、Green Collectionの光量チェック機能でだいたいの明るさを確認しながら、色味は目視で判断するのがおすすめ。
 <!-- /character-note -->
 
@@ -107,7 +107,7 @@ PPFD 100〜200というのは、観葉植物の中でもかなり控えめな数
 | 10〜20W | 30〜50cm |
 | 20〜40W | 40〜70cm |
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 「もっと早く育ってほしい」と光源を近づけすぎるのが一番よくある失敗だよ。アンスリウムは強い光への耐性が低いから、距離を詰めるより照射時間を延ばす方が安全に光量を補える。
 <!-- /character-note -->
 
@@ -124,7 +124,7 @@ PPFD 100〜200というのは、観葉植物の中でもかなり控えめな数
 
 葉脈のシルバーの発色は、光量不足にならない範囲であれば十分な環境で鮮明になります。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 葉脈が白く見えるのは、その部分の組織に空気を含む層があって光を反射しやすいからなんだ。光が足りていると、この構造がよりくっきり際立って見えるようになるよ。
 <!-- /character-note -->
 

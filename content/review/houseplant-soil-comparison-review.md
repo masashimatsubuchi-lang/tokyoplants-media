@@ -84,7 +84,7 @@ amazonProducts:
 - **フィカス（ウンベラータなど）** -- 水を好む傾向があるため、専門メーカー品の標準配合で問題ありません。
 - **アロカシア** -- 通気性が重要。排水性の高い専門メーカー品に軽石を少し足すと安定します。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 同じ「観葉植物」でも原産地の環境はかなり違う。乾燥した岩場出身か、湿った林床出身かを知っておくと、土選びの理由が腑に落ちやすくなるよ。
 <!-- /character-note -->
 

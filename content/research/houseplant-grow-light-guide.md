@@ -80,7 +80,7 @@ amazonProducts:
 | ルクス（lx） | 人間の目が感じる明るさ | 植物には不正確 |
 | PPFD（μmol/m²/s） | 植物が光合成に使える光量 | 直接的な指標 |
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 ルクスは人間の目の感度に合わせた明るさで、青や赤の光を過小評価しがちなんだ。植物は主に青と赤の光で光合成するから、同じ「明るく見える」場所でもPPFDは全然違うことがあるよ。
 <!-- /character-note -->
 
@@ -136,7 +136,7 @@ amazonProducts:
 
 導入直後は**遠めから始めて徐々に近づける**ことで葉焼けを防げます。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 設置場所を決めたら、そこが実際どのくらいの明るさなのか一度チェックしてみて。アプリの光量チェック機能を使うと、窓際やライト下のPPFD目安が数値で分かるから、置き場所選びの判断材料になるよ。
 <!-- /character-note -->
 
@@ -159,7 +159,7 @@ amazonProducts:
 | 斑が薄れた | 光不足 | PPFD200以上の環境に移す |
 | 葉に白い焼け跡 | 光が強すぎる | ライトを遠ざける |
 
-<!-- character-note character="bloom" type="warning" -->
+<!-- character-note character="kuro" type="warning" -->
 徒長は「茎が伸びて葉が育っていない」状態だから、光を足してもすぐには元の姿に戻らないよ。徒長した部分はそのままに、これから出る新しい葉が締まって育つかどうかで改善を判断してね。
 <!-- /character-note -->
 

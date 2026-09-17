@@ -66,7 +66,7 @@ amazonProducts:
 | ミント | 200〜400 | ミント色の維持に光が必要 |
 | オブリクア | 150〜250 | 薄い葉に強光は注意 |
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 同じ「モンステラ」でも品種によって必要な光量にはかなり幅があるんだ。表の数字はあくまで目安だから、まずは低めの数値から試して、葉の反応を見ながら少しずつ光を強くしていくのが安全だよ。
 <!-- /character-note -->
 
@@ -107,7 +107,7 @@ amazonProducts:
 
 モンステラは葉面積が大きいため、**均一に照射できる位置**を選ぶことが重要です。一方向からだけだと影になる葉が出ます。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 葉が茂ってくると下の方の葉に光が届きにくくなるよ。定期的に鉢を回転させたり、下段用に別のライトを足したりすると、株全体でまんべんなく光を受けられるようになるんだ。
 <!-- /character-note -->
 
@@ -132,7 +132,7 @@ amazonProducts:
 
 PPFD 250〜350を確保することで、斑の発現が安定しやすくなります。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 斑入り品種の白い部分は、実は光合成をほとんどしていない「お休み中の組織」なんだ。緑の面積が少ない株ほど、限られた緑の部分で全体を支えないといけないから、光量への要求がシビアになるのも納得だよね。
 <!-- /character-note -->
 

@@ -59,7 +59,7 @@ amazonProducts:
 
 理想は「葉が焼けない範囲で、日中の明るさを長く確保する」ことです。日照が弱い住環境では育成ライト併用が有効ですが、光を強くするほど水分要求も上がるため、水やりとセットで調整します。
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 「明るい場所」は直射日光という意味じゃないよ。レースカーテン越しくらいの、やわらかい光が長く当たる場所がいちばん落ち着くみたい。
 <!-- /character-note -->
 
@@ -272,7 +272,7 @@ amazonProducts:
 
 **切れ込みが出ない**：切れ込みは株が成熟相へ移行して初めて安定します。光環境の改善と支柱誘引を行いながら、長期管理で株の成熟を待つのが基本方針です。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 切れ込みが出ない原因でいちばん多いのは、実は光量不足なんだ。置き場所を変える前に、いまの場所の明るさを一度測ってみると判断しやすいよ。Green Collectionアプリの光チェックを使うと、その場でだいたいの明るさが確認できるよ。
 <!-- /character-note -->
 

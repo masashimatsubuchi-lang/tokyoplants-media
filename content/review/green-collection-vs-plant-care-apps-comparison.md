@@ -84,7 +84,7 @@ Green Collectionは、観葉植物専門店tokyoplantsが開発したiPhone専�
 
 一方で、**Android版がない**ことと、海外での知名度・実績はPlantaやPlantInのような大規模アプリにまだ及ばないことは、公正に比較するうえで触れておくべき点です。
 
-<!-- character-note character="lum" type="warning" -->
+<!-- character-note character="kuro" type="warning" -->
 Androidを使っている家族や友達とお世話を共有したい場合は、今のところGreen Collectionだと難しいんだ。そこは正直に、対応OSの範囲で選んでもらえたら嬉しいな。
 <!-- /character-note -->
 
@@ -106,7 +106,7 @@ PlantInはMyPlantInが開発する植物識別・ケアアプリで、iOS・Andr
 
 評価は4.56/5、レビュー件数は約217,000件、月間ダウンロード数は約9万件とされ、比較した中では最もレビュー数の多いアプリです。価格は年額$19.99程度のプランが確認できましたが、他のプランも用意されているとの情報があり、正確な金額は公式ストアでの確認をおすすめします。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 判定できる種類の数だけで見るとPlantInの24,000種以上はすごい数字だけど、種類がわかった後にどれだけ細かくお世話を記録・追跡できるかは別の話なんだ。「名前を知りたい」のか「育てながら記録したい」のか、自分がアプリに求めるものを先に整理すると選びやすいよ。
 <!-- /character-note -->
 

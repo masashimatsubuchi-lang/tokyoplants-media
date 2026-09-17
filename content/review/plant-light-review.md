@@ -86,7 +86,7 @@ amazonProducts:
 
 モンステラ・タイコンステレーションやフィロデンドロン・ホワイトプリンセスなど、斑入り品種は光量が不足すると斑が薄くなったり、緑一色の葉（先祖返り）が出やすくなる。斑を安定して維持するには、通常種よりもやや強い光が必要とされる。[モンステラの育て方](/guide/monstera-care)や[アロカシアの育て方](/guide/alocasia-care-guide)の記事も参考にしてほしい。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 斑入り品種は緑の部分だけで光合成をまかなっているから、白い部分が多い株ほど「燃費が悪い」んだよ。斑が多いタイプを育てるなら、通常種より少し明るめの環境を用意してあげると安定しやすいよ。
 <!-- /character-note -->
 
@@ -109,7 +109,7 @@ amazonProducts:
 | 高光量種の成長促進（アガベ、ビカクシダ等） | 150〜300 |
 | 斑入り品種の斑維持 | 100〜200 |
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 PPFDの数字だけだとピンとこないかもしれないけど、スマホの照度計アプリでも「だいたいの傾向」はつかめるよ。同じ場所でも時間帯や天気でかなり変わるから、一度だけでなく数回測ってみるのがおすすめ。
 <!-- /character-note -->
 
@@ -125,7 +125,7 @@ PPFDの数字だけだとピンとこないかもしれないけど、スマホ�
 
 PPFDはライトからの距離に応じて急激に減衰する。メーカーが公称するPPFD値は特定の距離（多くは20〜30cm）で測定されたものであり、実際の設置距離が異なれば照射面でのPPFDも変わる。一般に、距離が2倍になるとPPFDは約4分の1になる（逆二乗の法則）。
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 「メーカー公称のPPFDが高いから安心」と距離を確認せずに設置すると、思ったより光が届いていないことがよくあるよ。購入前に自分の設置予定の距離を測って、その距離での目安値をイメージしておくと失敗しにくいんだ。
 <!-- /character-note -->
 

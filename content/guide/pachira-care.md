@@ -69,7 +69,7 @@ baseProducts:
 
 冬場は成長がほぼ止まるため、肥料は不要です。休眠期に肥料を与えると、根を傷める「肥料焼け」を起こすことがあるので注意してください。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 肥料をあげ始めるタイミングは、新芽の動きが再開したかどうかで判断するとわかりやすいよ。カレンダーの日付だけでなく、実際に新芽が動き出してから施肥を始めると失敗が減る。
 <!-- /character-note -->
 
@@ -86,7 +86,7 @@ baseProducts:
 
 大胆に切り戻しても復活する生命力の強さがパキラの魅力です。理想の高さで切れば、そこから新しい枝が分岐して、よりボリュームのある姿に仕上がります。剪定で出た枝は、挿し木で増やすことも可能です。具体的な手順は[パキラの増やし方｜挿し木・水挿しの時期と管理方法](/guide/pachira-propagation-guide)で解説しています。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 切った枝を挿し木に回すなら、切り口をその日のうちに土や水に挿すのがおすすめだよ。剪定と挿し木を同時に済ませれば、樹形を整えつつ株を増やせて一石二鳥。
 <!-- /character-note -->
 

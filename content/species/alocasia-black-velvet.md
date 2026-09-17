@@ -207,7 +207,7 @@ baseProducts:
 
 **対処:** 水やりはほぼ停止し、月に1回程度土を軽く湿らせる程度にとどめる。15℃以上を維持できる暖かい場所に置く。早ければ1〜2ヶ月、遅いと半年近くかかって新芽が出ることもある。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 葉が全部落ちた球茎だけの状態は、見た目には「終わった」ように見えるけど、実際は次の成長に向けてエネルギーを溜め込んでいる時間なんだ。半年待つこともあるくらいだから、Green Collectionアプリの育成ログにいつ休眠に入ったか残しておくと、「そろそろかな」という時期の見当がつけやすいよ。
 <!-- /character-note -->
 
@@ -239,7 +239,7 @@ baseProducts:
 
 **適期:** 5〜7月の成長期が最適。秋以降の株分けは活着率が下がる。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 子球茎は焦って早く切り離さず、自分の根が2〜3本以上出るまで待つのがコツだよ。根が少ない状態で独立させると、その後の成長が長く停滞してしまうことがある。
 <!-- /character-note -->
 

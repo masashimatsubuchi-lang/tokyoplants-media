@@ -42,7 +42,7 @@ baseProducts:
 
 鉢のサイズを変えなければ、根の張れるスペースが制限されるため、地上部の成長も自然と抑制されます。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 根と地上部は常に釣り合おうとする関係にあるんだ。片方だけ切って片方をそのままにすると、そのバランスを取り戻すために植物が余計なエネルギーを使ってしまうよ。
 <!-- /character-note -->
 
@@ -163,7 +163,7 @@ baseProducts:
 
 肥料を与えると成長が促進されます。サイズを維持したい場合は、通常の半分程度の頻度・量に抑えてください。
 
-<!-- character-note character="bloom" type="warning" -->
+<!-- character-note character="kuro" type="warning" -->
 肥料をゼロにするのはやりすぎ。栄養が足りないと新芽の展開自体が弱くなって、株全体の元気がなくなってしまうよ。「減らす」であって「断つ」ではないことを覚えておいてね。
 <!-- /character-note -->
 

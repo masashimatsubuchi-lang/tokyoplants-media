@@ -57,7 +57,7 @@ baseProducts:
 
 ホヤ属に共通する重要な特性として、**花托（花梗の末端部）は毎年同じ場所から花芽を出す**ことが知られています。花後に花梗ごと切除してしまうと翌年以降の開花が難しくなるため、終花後も花托は残しておくことが栽培の基本とされています。
 
-<!-- character-note character="bloom" type="warning" -->
+<!-- character-note character="kuro" type="warning" -->
 花が終わったあとの花柄を「見た目が気になるから」と切ってしまうのは、ホヤ栽培でいちばんもったいない失敗のひとつだよ。同じ花托から何年も花芽が出続けるから、地味に見えても残しておいてね。
 <!-- /character-note -->
 
@@ -169,7 +169,7 @@ baseProducts:
 
 原因の切り分けや再開花のより詳しい手順は、[ホヤの花が咲かない理由と再開花のコツ](/guide/hoya-not-flowering-causes)で解説しています。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 開花は「今年咲かなくても来年咲く」くらいの気長さで見守るのがコツだよ。株が若いうちは花よりも葉を育てることにエネルギーを使っているだけのことが多いんだ。
 <!-- /character-note -->
 

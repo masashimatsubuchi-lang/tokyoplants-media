@@ -257,7 +257,7 @@ baseProducts:
 
 回復中は新しい葉が出にくくなりますが、これは根の再生にエネルギーを使っているためです。焦らず待ってください。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 葉が動かない期間は「何も起きていない」ように見えるけど、実際は土の中で根がエネルギーを使って再生している真っ最中なんだ。地上部の変化がない時期こそ、根にとっては一番忙しいタイミングだよ。
 <!-- /character-note -->
 
@@ -267,7 +267,7 @@ baseProducts:
 - 既存の葉にハリが戻る
 - 水やり後の土の乾き方が正常になる（根が水を吸っている証拠）
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 一番わかりやすいサインは実は葉じゃなくて、土の乾くスピードだよ。新しい葉が出るより先に、水やり後の乾き方が早くなってくることが多いから、そこで根の回復を先取りして気づけるはず。
 <!-- /character-note -->
 

@@ -68,7 +68,7 @@ baseProducts:
 
 葉の表面には細かい網目状の葉脈がわずかに浮き上がり、そこに透明な微細な毛（トリコーム）が付着することで、紙やすりのようなザラザラした独特の質感を生み出している。触感で楽しめる点も、視覚的な模様と並ぶ本種の魅力のひとつだ。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 葉脈にそって生えている細かい毛が、あのザラザラ感の正体なんだ。見た目のインパクトだけじゃなく、触ってこそ違いがわかるアロカシアだよ。
 <!-- /character-note -->
 
@@ -82,7 +82,7 @@ baseProducts:
 
 <mark>**つまり「ジャックリン」は流通名（コレクター間の通称）であり、正式な学名は *Alocasia tandurusa* である。** 園芸店や通販サイトでは今もどちらの名前でも流通しているため、購入時にどちらの表記でも同じ植物を指している場合が多い点を知っておくとよい。</mark>
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 かわいい愛称が先に広まって、あとから正式な学名がついた植物なんだ。SNS発の名前が学術的な発見のきっかけになったなんて、ちょっと面白いよね。
 <!-- /character-note -->
 

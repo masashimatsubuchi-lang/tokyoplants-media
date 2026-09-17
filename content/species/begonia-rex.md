@@ -117,7 +117,7 @@ baseProducts:
 
 **目安**: 窓から2m以内の明るい場所。夏の直射日光は必ず遮光する。
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 レックスは「暗くても枯れないけど、暗いと色が沈む」タイプだよ。生存と発色は別物と考えて、模様をしっかり楽しみたいなら光量を少し多めに振っておくのがおすすめ。
 <!-- /character-note -->
 

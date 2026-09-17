@@ -55,7 +55,7 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 バータイプは照射範囲が広い分、中心部のPPFDはスポットより低くなることが多いです。**スペックシートではなく、植物からの距離（30cm時点）でのPPFDを確認しましょう。**
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 メーカー公式のPPFD値は「ライト直下・特定距離」の理想条件で測っていることが多いから、自分の設置環境とは数値が違って当然だよ。光量計がなければ、Green Collectionの光量チェック機能でおおよその明るさを確認しながら距離を調整するのも一つの手。
 <!-- /character-note -->
 
@@ -72,7 +72,7 @@ PPFDとは植物が実際に受け取る光の量（μmol/m²/s）です。
 
 演色性（Ra）が90以上のモデルは植物の本来の色が確認でき、病気や葉の状態を正確に判断できます。
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 演色性が低いライトの下だと、葉が黄色くなり始めていても光の色に埋もれて気づきにくいんだ。コレクション株が多い人ほど、Ra90以上を選ぶ価値は「見た目の美しさ」より「異変に早く気づけること」にあるよ。
 <!-- /character-note -->
 
@@ -172,7 +172,7 @@ Amazon以外の専門ショップで取り扱われる高品質モデルです�
 - 中光量植物（アロカシア・フィロデンドロン）: 25〜40cm
 - 低光量植物（ポトス・スキンダプサス）: 40〜60cm
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 バータイプは端の方が中心より光が弱くなりやすいから、この距離の目安はあくまで「棚の中央」の話。棚の両端に置いた株だけ育ちが悪い、というときは端の光量不足を疑ってみて。
 <!-- /character-note -->
 

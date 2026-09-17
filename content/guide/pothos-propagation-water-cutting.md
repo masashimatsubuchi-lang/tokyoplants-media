@@ -45,7 +45,7 @@ baseProducts:
 - **低温期に挑戦する**: 気温15℃を下回ると発根速度が大きく落ち、その間に腐敗リスクが高まる
 - **発根が浅いうちに土へ植える**: 給水が不安定になり、独立直後にしおれる
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 気根は茶色くカサカサした小さな突起で、見た目は地味だけど、ここが水に触れると白い根がぐんぐん伸びてくるよ。切る前に節をひとつずつ指でなぞって、突起があるか確かめてから位置を決めてね。
 <!-- /character-note -->
 
@@ -119,7 +119,7 @@ baseProducts:
 
 気温が下がる時期は発根速度が大きく落ち、腐敗リスクが積み上がります。5〜8月の暖かい時期まで待つのが確実です。
 
-<!-- character-note character="bloom" type="warning" -->
+<!-- character-note character="kuro" type="warning" -->
 冬に剪定して出たつるを「もったいないから」と水に挿すのはよくある失敗パターン。低温だと根が動く前に切り口が傷んじゃうから、どうしても試したいなら暖房の効いた部屋で、春まで気長に待つつもりで挑戦してね。
 <!-- /character-note -->
 

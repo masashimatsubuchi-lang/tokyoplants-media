@@ -72,7 +72,7 @@ amazonProducts:
 | Ruby | ピンク〜赤の斑 | 高い | やや低い | △ |
 | Schrijveriana | マーブル斑 | 中程度 | 中程度 | ○ |
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 斑入り品種（バーガンディ・ティネケ・ルビー）は緑一色のロブスタより光合成できる面積が少ないぶん、置き場所の明るさが発色と成長スピードの両方を左右するよ。
 <!-- /character-note -->
 

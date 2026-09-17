@@ -32,7 +32,7 @@ tokyoplants MEDIAは以下の組織体制で運営する。
 4. このフローに入ったこと自体をオーナーに明示する（黙って新規タスクを作り出さない）
 
 ## キャラクター注釈（CharacterNote）【2026-09-09導入・必須機能】
-Green Collection（観葉植物管理アプリ）のマスコットキャラクター5体（ラム・シャディ・クロ・ブルーム・サンディ）を、記事内の理解ナビゲーターとして登場させる仕組み。**新規記事には必ず2〜4箇所挿入する**（記事執筆部の標準作業フローに組み込み済み）。記法・担当テーマ・運用ルールの詳細は `.claude/agents/article-writer.md` の「キャラクター注釈（CharacterNote）の追加」を参照。実装（コンポーネント・キャラクター設定）は `src/components/CharacterNote.tsx` / `src/lib/characterNotes.ts`。背景・設計判断の経緯は永続メモリ `project_character_notes_feature.md` を参照。
+Green Collection（観葉植物管理アプリ）のマスコットキャラクターのうち**シャディとクロの2体**（2026-09-17改定。それ以前は5体を使い分けていたが、読者の混乱防止のため2体に限定）を、記事内の理解ナビゲーターとして登場させる仕組み。**新規記事には必ず2〜4箇所挿入する**（記事執筆部の標準作業フローに組み込み済み）。記法・担当テーマ・運用ルールの詳細は `.claude/agents/article-writer.md` の「キャラクター注釈（CharacterNote）の追加」を参照。実装（コンポーネント・キャラクター設定）は `src/components/CharacterNote.tsx` / `src/lib/characterNotes.ts`。背景・設計判断の経緯は永続メモリ `project_character_notes_feature.md` を参照。
 
 ## プロジェクト概要
 tokyoplants MEDIAの詳細（技術スタック・ブランドガイドライン・記事一覧・記事テンプレート等）は各部署のサブエージェント定義および永続メモリ（`/Users/masashimatsubuchi/.claude/projects/-Users-masashimatsubuchi-my-first-project/memory/MEMORY.md`）を参照。

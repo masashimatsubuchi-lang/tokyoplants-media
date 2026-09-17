@@ -258,7 +258,7 @@ amazonProducts:
 
 子株分けの適期は5〜7月の成長期。冬場の分離は活着率が下がるため避ける。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 子株を分離した日付を記録しておくと、新しい貯水葉が展開するまでの期間を比較でき、次回の判断材料になる。Green Collectionの育成ログを使うと、株ごとの成長ペースを振り返りやすいよ。
 <!-- /character-note -->
 
@@ -268,7 +268,7 @@ amazonProducts:
 
 胞子から前葉体が発生し、そこから小さな株が育つまで半年〜1年以上かかる。無菌操作や湿度管理など専門的な技術が求められるため、一般的な栽培者には子株分けのほうが実用的である。ただし、胞子培養は一度に大量の株を得られるため、品種保存や大量増殖を目的とする愛好家の間では広く行われている。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 胞子培養は子株分けと違って親株の遺伝子をそのまま複製するわけではない。胞子は有性生殖を経て生まれるため、親株と少し表情の違う個体が生まれることもある楽しみがある。
 <!-- /character-note -->
 

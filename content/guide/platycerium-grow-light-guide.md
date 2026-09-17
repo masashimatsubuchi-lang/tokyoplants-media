@@ -63,7 +63,7 @@ amazonProducts:
 
 一般的な室内管理では**PPFD 200〜350を目標**にするのが現実的です。
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 PPFDの数値だけだと難しく感じるかもしれないけど、目安はシンプルだよ。胞子葉が下向きに垂れて広がっていれば光は足りてるサイン、逆に上を向いて立ち上がってきたら「もっと光がほしい」というビカクシダからのメッセージなんだ。
 <!-- /character-note -->
 
@@ -93,7 +93,7 @@ PPFDの数値だけだと難しく感じるかもしれないけど、目安は�
 
 ビカクシダはライトが近すぎると**葉焼け（白化・黄変）**が起きます。導入直後は遠めに設置し、1〜2週間様子を見ながら調整します。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 導入直後は「近すぎるかな」と思うくらい離しておくのが安全だよ。葉焼けは一度出ると元に戻らないけど、光量不足なら少しずつ近づければ後から挽回できるから。
 <!-- /character-note -->
 
@@ -123,7 +123,7 @@ PPFDの数値だけだと難しく感じるかもしれないけど、目安は�
 ### リドレイ（Platycerium ridleyi）
 コレクター人気の高い上級種。PPFD 300〜500と高めの光量が必要で、育成ライトなしの室内管理は難易度が高くなります。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 リドレイは自生地では樹冠に近い明るい環境に着生することが多い品種だから、他のビカクシダより高光量を求めるのも納得の生態なんだよ。コレクション欲が湧いても、光環境が整うまでは無理に手を出さない方が安心。
 <!-- /character-note -->
 

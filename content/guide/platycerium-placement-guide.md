@@ -41,7 +41,7 @@ baseProducts:
 - **鉢植え**：棚や鉢スタンドの上に置き、鉢底の通気を確保する
 - **冬**：気温が10℃を下回る前に室内へ取り込む。窓際の冷気にも注意
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 「明るい半日陰」は日当たりの強さより向きで探すと迷いにくいよ。東〜北東向きの窓や軒下は、直射日光と柔らかい光のバランスが取りやすい方角なんだ。
 <!-- /character-note -->
 
@@ -123,7 +123,7 @@ baseProducts:
 
 室内は屋外に比べて光量・風通しともに不足しがちです。窓辺だけで光が足りているかどうかは、胞子葉が上向きに突っ張るように展開していないか、新葉の展開が遅くなっていないかを観察して判断しましょう。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 窓辺の明るさって、目の感覚だけだと意外と判断がつきにくいんだよね。Green Collectionの光量チェック機能みたいなもので数値化してみると、「思ったより暗かった」と気づけることが多いよ。
 <!-- /character-note -->
 
@@ -185,7 +185,7 @@ baseProducts:
 - **暖房の風を避ける**：エアコンやストーブの温風が直接当たる場所は乾燥しすぎて葉を傷める。適度に距離を取る
 - **加湿の検討**：冬は空気が乾燥しやすいため、加湿器で湿度を保つと胞子葉の状態が安定しやすい
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 窓際は日中は明るくて良い置き場所に見えるけど、夜になると外の冷気がガラス越しにダイレクトに伝わってくる場所でもあるんだ。日中の光と夜間の温度は、セットで考えてあげてね。
 <!-- /character-note -->
 

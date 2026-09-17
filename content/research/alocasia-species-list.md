@@ -61,7 +61,7 @@ baseProducts:
 | Kew POWO受理種数 | 91種＋交配種1件（計92学名、2026-09-09時点、詳細は後述） |
 | 出典 | [Kew Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2) |
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 「約80種」「90種前後」という表記を見かけることがあるけど、これは間違いというより、分類データベースが新種の記載や再分類で常に更新され続けているからなんだ。同じ属でも参照するタイミングによって数字が変わることがあるって覚えておくと混乱しにくいよ。
 <!-- /character-note -->
 
@@ -203,7 +203,7 @@ baseProducts:
 
 上記のうち、栽培に関する情報がほとんど公開されていない種（例：*Alocasia epilithica*、*Alocasia sakonakhonensis* など）については、生態や特徴について確度の高い情報が乏しいため、本記事では学名と命名者の掲載にとどめている。無理に特徴を創作することは、このリストの正確性という価値を損なうため避けた。
 
-<!-- character-note character="lum" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 表の中で「命名者」が2〜3人連名になっているものが多いのは、その種を発見・記載した研究チームがそのまま名前に残るからなんだ。特に2010年代以降に記載された種は共著論文が増えていて、命名者欄を見るだけでもいつ頃の発見か推測できるよ。
 <!-- /character-note -->
 

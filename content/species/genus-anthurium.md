@@ -54,7 +54,7 @@ baseProducts:
 
 仏炎苞の色は赤・ピンク・白・緑・紫など多様で、花ものタイプの観賞価値はこの仏炎苞に依存する。仏炎苞は数週間〜数ヶ月色を保つため、「花持ちの良い観葉植物」として人気がある。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 実は仏炎苞そのものは「花」じゃなくて葉が変化したものなんだ。だから切り花のように数日でしおれず、数週間〜数ヶ月も鮮やかな色を保てる。これがアンスリウムの花持ちの良さの正体だよ。
 <!-- /character-note -->
 
@@ -189,7 +189,7 @@ baseProducts:
 
 入門者には**花ものタイプ**から始め、栽培に慣れてから葉ものタイプに挑戦するルートが失敗が少ない。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 花ものタイプで「開花のサイクル」を体で覚えておくと、後で葉ものタイプに挑戦したときも生育リズムのイメージがつかみやすいよ。花が咲かないタイプでも、成長の波は共通しているんだ。
 <!-- /character-note -->
 

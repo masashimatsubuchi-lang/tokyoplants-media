@@ -145,7 +145,7 @@ baseProducts:
 
 ジュエルアロカシアは林床植物で、強い光に弱い。日光が直接当たると葉焼けし、葉色が褪せます。明るい間接光の場所に置きましょう。
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 ジュエルアロカシアの魅力である深い葉色や光沢は、光が強すぎても弱すぎても引き出せないんだ。「レースカーテン越しの窓際」くらいの、直射日光を避けつつ明るさは確保できる場所が一番安定するよ。
 <!-- /character-note -->
 
@@ -153,7 +153,7 @@ baseProducts:
 
 最低気温15℃以上を確保。10℃以下になると葉が落ちる・株が傷む可能性があります。冬は窓際から少し離した温かい場所へ移動させましょう。
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 冬の窓際は日中は明るくても、夜間はぐっと冷え込む場所なんだ。「明るいから」という理由だけで置きっぱなしにせず、日没後は部屋の中央寄りに動かしてあげると温度差のダメージを避けやすいよ。
 <!-- /character-note -->
 

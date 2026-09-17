@@ -75,7 +75,7 @@ baseProducts:
 
 葉緑素を持たない細胞が集まった部分はピンクや白に見え、正常な細胞の部分は緑に見えます。この分布が葉ごとにランダムに決まるため、毎回異なる斑模様が生まれます。なお、ピンク色は葉緑素の欠如に加え、アントシアニン（赤〜ピンク系の色素）が含まれることで発色します。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 キメラ斑は「模様」というより、遺伝的に違う2種類の細胞がたまたま同じ葉に同居している状態なんだ。だからこそ挿し木で増やしても、親株と全く同じ斑模様にはならないのが面白いところだよ。
 <!-- /character-note -->
 
@@ -107,7 +107,7 @@ baseProducts:
 
 南向きや東向きの窓際から1〜2m以内の場所が最適です。レースカーテン越しの柔らかな光が常に当たる環境を目指しましょう。明るさの目安として、本が楽に読める程度（2,000〜5,000ルクス）の環境が理想です。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 斑入り植物は「明るい日陰」だと物足りないことが多いよ。直射日光は避けつつ、できるだけ窓に近い明るい場所を選んであげると、斑の入った新葉が続きやすい。
 <!-- /character-note -->
 
@@ -123,7 +123,7 @@ baseProducts:
 
 このような症状が見られたら、置き場所を窓に近づけるか、植物育成ライトの導入を検討しましょう。
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 徒長は「もっと光が欲しい」というサインだよ。斑が消える前に節間が伸び始めることが多いから、そのタイミングで気づけると斑を守りやすい。
 <!-- /character-note -->
 

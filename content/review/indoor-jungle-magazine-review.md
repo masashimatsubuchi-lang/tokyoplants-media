@@ -47,7 +47,7 @@ baseProducts:
 
 アガベコレクターにとっては「タイタノタ辞典」として機能する内容で、品種同定・選び方の基準を学ぶ上でも参考になります。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 アガベは同じ品種でも育成環境によって株姿が大きく変わる。57品種のアーカイブのような資料は、見比べながら「自分の環境ではどう育つか」を想像する材料としても役立つ。
 <!-- /character-note -->
 
@@ -81,7 +81,7 @@ baseProducts:
 
 「パキプスとグラキリスを極めたい」というコレクターにとって、これほど深く掘り下げた日本語資料は他にほとんど存在しません。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 パキプスやグラキリスのような塊根植物は、実生からだと成熟まで何年もかかることが珍しくない。じっくり時間をかけて育てる楽しみ方を知りたい人には、こうした専門誌の情報が特に参考になる。
 <!-- /character-note -->
 
@@ -130,7 +130,7 @@ No.02から進化したビカクシダ特集の第二弾。単なる育て方に
 
 「ビカクシダを育てる」から「ビカクシダで表現する」という次のステージを覗ける一冊です。
 
-<!-- character-note character="lum" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 ビカクシダは板付けや仕立て方によって見た目の印象が大きく変わる植物。専門誌でさまざまな仕立て例を見ておくと、自分の株をどう飾るか考えるときのアイデアが広がる。
 <!-- /character-note -->
 
@@ -176,7 +176,7 @@ No.02から進化したビカクシダ特集の第二弾。単なる育て方に
 - 観葉植物の入門書・育て方の基礎を知りたい初心者
 - モンステラ・フィロデンドロン・アンスリウムなどアロイド系に特化した情報を求めている人（アロイド特集号は現状ない）
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 こうした専門誌で気になった品種に出会ったら、まずは品種名を控えておくと後で調べやすい。Green Collectionの品種図鑑を使えば、気になった株の記録もまとめて残しておける。
 <!-- /character-note -->
 

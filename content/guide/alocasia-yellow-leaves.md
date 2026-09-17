@@ -73,7 +73,7 @@ baseProducts:
 - 同時に新しい葉が健康に展開している
 - 1回に1枚ずつ黄変する（複数枚が同時に進行しない）
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 植物の葉に寿命があるのは自然な仕組みだよ。新しい葉に栄養を回すために、役目を終えた葉を手放しているだけだから、下葉が1枚ずつ黄色くなるのはむしろ株が元気に成長しているサインでもあるんだ。
 <!-- /character-note -->
 

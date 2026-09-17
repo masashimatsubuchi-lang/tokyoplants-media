@@ -12,6 +12,8 @@
  *   <!-- /character-note -->
  *
  * character には下記オブジェクトのキー（lum/shadee/kuro/bloom/sandy）、
+ * ⚠️ただし記事で使ってよいのは shadee と kuro の2体のみ（2026-09-17オーナー決定）。
+ *   lum/bloom/sandy の定義は互換性のため残しているが、新規使用は禁止。
  * type には point/tip/warning のいずれかを指定する。
  */
 
@@ -55,7 +57,7 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
     accentHex: "#2F5D4A",
     nameTextClass: "text-[#2F5D4A]",
     bubbleBgClass: "bg-[#2F5D4A]/10",
-    topics: "水やり・乾燥・水分管理（頻度の目安、乾かし気味/多湿の判断）",
+    topics: "水やり・乾燥・湿度・光・日照・置き場所・季節の環境変化（2026-09-17に旧sandyの領域を吸収）",
     personality: "控えめで観察力がある見守り役。押しつけがましくなく、寄り添うように促す。",
   },
   kuro: {
@@ -65,7 +67,7 @@ export const CHARACTERS: Record<CharacterId, CharacterInfo> = {
     accentHex: "#4A4038",
     nameTextClass: "text-[#4A4038]",
     bubbleBgClass: "bg-[#4A4038]/8",
-    topics: "土・根・植え替え・用土配合",
+    topics: "土・根・植え替え・用土配合・成長・開花・繁殖・植物の構造や仕組み（2026-09-17に旧bloom・旧lumの領域を吸収）",
     personality: "寡黙で頼れる職人気質。短く核心を突くひとことが多い。",
   },
   bloom: {

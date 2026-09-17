@@ -56,7 +56,7 @@ baseProducts:
 | 光 | 直射日光を避けた明るい場所 | 強光で蒸散が増え、発根前にしおれる |
 | 衛生 | アルコール消毒した刃物で斜めにカット | 病原菌が切り口から侵入 |
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 この中でいちばん見落とされやすいのが温度だよ。部位も水も完璧なのに根が動かないときは、日中の室温じゃなくて、夜に冷え込んでいないかを疑ってみて。
 <!-- /character-note -->
 
@@ -114,7 +114,7 @@ baseProducts:
 
 水も換え、置き場所も変え、土も変える、と一度に複数の条件を変更すると、何が効いたのか分からなくなります。原因を1つずつ切り分けて対処しましょう。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 切り分けのコツは「挿した日」と「何を変えたか」を残しておくこと。記憶だけだと、いつ置き場所を変えたか曖昧になりがちだよ。Green Collectionの育成ログに一言メモしておくと、次に増やすときの目安にもなるんだ。
 <!-- /character-note -->
 

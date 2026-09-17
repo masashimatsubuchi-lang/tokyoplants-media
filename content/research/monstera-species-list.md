@@ -69,7 +69,7 @@ baseProducts:
 | Kew POWO受理種数 | 73種（交配種の記載なし、2026-09-09時点） |
 | 出典 | [Kew Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:330206-2) |
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 tokyoplantsの属解説記事では「モンステラ属は約50種」と紹介しているけど、Kew POWOの受理種数はそれよりも多い73種なんだ。これは間違いというより、モンステラのように分類の見直しが続いている属では、参照するデータベースや年代によって数字がずれることがよくあるからだよ。アロカシア属（91種）やフィロデンドロン属（630種）と比べると、モンステラ属は今回整理した中で一番コンパクトな属といえるね。
 <!-- /character-note -->
 

@@ -55,7 +55,7 @@ baseProducts:
 
 葉焼けが起きると、葉に白〜茶色の焦げたような斑点が現れます。一度焼けた葉は元に戻りません。
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 「明るい方がよく育つはず」と窓の近くに寄せすぎると、夏だけ急に葉焼けすることがあるよ。季節によって太陽の高さや日差しの強さが変わるから、同じ置き場所でも夏だけレースカーテンを一枚増やすくらいの調整が必要になることもあるんだ。
 <!-- /character-note -->
 
@@ -71,7 +71,7 @@ baseProducts:
 
 夏場は特に窓からの距離を意識し、レースカーテン1枚では日差しが強すぎる場合はさらに内側に移動させるか、遮光ネットを活用してください。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 メタリックな葉は見た目にも光を反射しているのがわかりやすいから、葉がテカテカ照り返して見えるくらい日差しが強い場所は避けたほうがいいよ。反射が強すぎると感じたら、それはもう明るすぎるサインだと思って。
 <!-- /character-note -->
 

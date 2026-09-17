@@ -63,7 +63,7 @@ baseProducts:
 
 カーテンを使って風の流れを変えるのも有効です。レースカーテンを閉めると、直射日光のカットと冷気の拡散を同時に行えます。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 置き場所を決めるときは、エアコンの風だけじゃなく光量も一緒に考えるのがコツだよ。風を避けようとして部屋の奥に置きすぎると、今度は光が足りなくなることがあるから気をつけてね。
 <!-- /character-note -->
 

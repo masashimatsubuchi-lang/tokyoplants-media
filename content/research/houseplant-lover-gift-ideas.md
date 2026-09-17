@@ -38,7 +38,7 @@ baseProducts:
 
 観葉植物そのものを贈るのは、相手の環境（日当たり・スペース・ペットの有無）がわからない限りリスクが高いです。「置く場所がない」「枯らしてしまって申し訳ない」という声は意外と多いもの。
 
-<!-- character-note character="lum" type="warning" -->
+<!-- character-note character="kuro" type="warning" -->
 どうしても生体を贈りたい場合は、事前に置き場所の光環境を聞いておくのが安全策。アプリの光量チェック機能で「この場所ならどの品種が育てやすいか」を一緒に調べてから選ぶ方法もあるよ。
 <!-- /character-note -->
 
@@ -58,7 +58,7 @@ baseProducts:
 
 モンステラ・アンスリウム・アロカシア・ベゴニアなど、コレクターに人気の高い植物の葉形をそのままタオルにデザインした、ありそうでなかったアイテム。植物好きなら「あ、これアンスリウムだ！」と一目でわかるディテールへのこだわりが、贈った側のセンスを伝えてくれます。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 葉の形や葉脈の走り方は品種を見分ける一番の手がかり。相手が育てている植物と同じ柄を選べれば、それだけで「わかってる人からの贈り物」になるよ。
 <!-- /character-note -->
 
@@ -116,7 +116,7 @@ Daily Botanical Towelとオリジナル用土『 I'm original SOIL（tokyoplants
 
 日当たりの悪い部屋でも植物を育てられる育成ライト。本格的なものは自分ではなかなか買わないので、プレゼントとして最適です。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 育成ライトを贈るなら、相手の部屋の窓の向きも軽く聞いておくと親切だよ。北向きや窓から遠い場所で育てている人ほど、光量不足を補う道具の恩恵を大きく感じられるはず。
 <!-- /character-note -->
 

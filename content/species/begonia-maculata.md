@@ -87,7 +87,7 @@ baseProducts:
 
 <mark>**この構造は光の量に敏感で、適度な明るさがあるほどパピラが発達し、ドットが鮮明になります。** 逆に光量が不足すると細胞の構造が整わず、模様がぼんやりしたり消えかけたりすることがあります。</mark>ドットが薄くなってきたら、まず置き場所の明るさを見直すのが第一歩です。
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 ドットの濃さは、そのまま置き場所の明るさを映す「光のメーター」みたいなものだよ。新しく展開した葉のドットが前より薄いと感じたら、株の調子より先に光を疑ってみてね。
 <!-- /character-note -->
 
@@ -113,7 +113,7 @@ baseProducts:
 
 光不足のときはLEDライトによる補光も有効です。1日12〜14時間、植物から30〜50cm程度の距離で照射すると改善します。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 補光を始めても、すでに開いている葉のドットが濃くなることはないよ。判定するのは次に展開してくる新葉。1枚新しい葉が出るまでは距離も時間も変えずに様子を見てね。
 <!-- /character-note -->
 

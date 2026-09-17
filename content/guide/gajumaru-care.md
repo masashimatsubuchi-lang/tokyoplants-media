@@ -46,7 +46,7 @@ baseProducts:
 
 <mark>室内管理の場合は、レースカーテン越しの光が当たる窓際がベストポジション。日照不足が続くと枝が間延びし、葉が小さくなる（徒長）ので注意したい。</mark>
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 徒長のサインは葉の小ささだけじゃなく、新芽から次の新芽までの茎の間隔でもわかるよ。節と節の間がいつもより間延びしてきたら、光量を見直すタイミングだと思っていい。
 <!-- /character-note -->
 
@@ -87,7 +87,7 @@ baseProducts:
 
 丸坊主後は直射日光を避け、新芽が安定するまで半日陰で管理する。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 すべての枝葉を切り落としても新芽が出てくるのは、幹の内側に「休眠芽」が眠っているからなんだ。普段は表に出てこないこの芽が、丸坊主をきっかけに一斉に目を覚ますイメージだよ。
 <!-- /character-note -->
 
@@ -102,7 +102,7 @@ baseProducts:
 
 気根は地面（土）に届くと一気に太くなる。鉢のサイズに余裕がある場合は、気根を土に誘導してみるのもよい。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 気根は思いがけない方向にどんどん伸びていくことがあるよ。土に届く前に軽く向きを誘導してあげると、鉢の中でバランスよく根を張ってくれて、見た目も安定した株姿になる。
 <!-- /character-note -->
 

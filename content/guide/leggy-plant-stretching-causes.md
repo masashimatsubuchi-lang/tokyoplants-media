@@ -47,7 +47,7 @@ baseProducts:
 
 <mark>これらが複数当てはまる場合、原因はほぼ間違いなく光量不足です。</mark>水やりや肥料を見直しても徒長は改善しないため、まず光環境を疑うことが重要です。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 一度広がった節間は、あとから詰まることはないよ。光を直しても変わるのは「これから出る新芽」だけだから、今の姿を整えるには切り戻しが必要になるんだ。
 <!-- /character-note -->
 
@@ -68,7 +68,7 @@ baseProducts:
 
 「明るい部屋だから大丈夫」という感覚的な判断が、徒長の最大の落とし穴です。窓からの距離が1m離れるだけで照度は大きく下がります。方角別・距離別の実測データは[窓の方角で光量はどれだけ違う？](/research/light-intensity-by-window-direction)で確認できます。今の置き場所が窓から2m以上離れている、または北向きの奥まった場所である場合は、光量不足を強く疑いましょう。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 「明るい部屋」の感覚と実際の光量は、思っている以上にズレているよ。アプリの光チェックで今の置き場所を確認してみると、窓から少し離れるだけで光がどれだけ弱まるか実感できるはず。
 <!-- /character-note -->
 
@@ -90,7 +90,7 @@ baseProducts:
 
 剪定の基本的な道具・タイミングについては[観葉植物の剪定基本ガイド](/guide/houseplant-pruning-basics)も参考にしてください。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 切り取った茎は捨てずに挿し木にすると、徒長した1株が「仕立て直した親株」と「新しい子株」の2鉢になるよ。挿し木の方も明るい場所で管理しないと、また同じように伸びちゃうから注意してね。
 <!-- /character-note -->
 
@@ -112,7 +112,7 @@ baseProducts:
 
 徒長した株は薄く弱い葉になっていることが多く、いきなり直射日光や高照度の育成ライトに当てると葉焼けを起こします。数日〜1週間かけて、段階的に光量を上げていくのが安全です。
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 徒長した株の葉は薄くて弱っているから、いきなり窓際の直射に移すと一気に葉焼けするよ。最初はレースカーテン越しや窓から少し離れた位置から始めて、様子を見ながら近づけていくのが安全。
 <!-- /character-note -->
 

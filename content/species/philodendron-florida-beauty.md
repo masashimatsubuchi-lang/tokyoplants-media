@@ -102,7 +102,7 @@ baseProducts:
 
 斑のパターンは遺伝的に固定されておらず、同じ株から展開する葉であってもパターンが変化することがあります。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 斑の出方は葉ごとに変わるから、「前の葉と比べてどう変化したか」を記録しておくと面白いよ。Green Collectionアプリの育成ログに展開した葉の写真を残していくと、株ごとの斑の個性が時系列で見えてくる。
 <!-- /character-note -->
 
@@ -124,7 +124,7 @@ baseProducts:
 - 許容: やや薄暗い室内（ただし斑が薄くなりやすい）
 - NG: 直射日光の当たる窓際（葉焼けリスク）
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 斑入り品種の置き場所選びは、緑一色の株よりシビアに考えた方がいいよ。斑の部分は光合成できないぶん、株全体としては「普通の株より多めの光」を必要としていると考えるとわかりやすい。
 <!-- /character-note -->
 
@@ -157,7 +157,7 @@ baseProducts:
 
 支柱の高さは最低でも60cm、理想は90〜120cm以上を用意すると長期的に管理しやすいです。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 横に這わせるか上に誘引するかで、同じ株でもここまで葉の大きさと表情が変わるのは面白いところだよ。フロリダビューティーの本領は「登らせて初めて見える」姿だと思って、気長に誘引を続けてみて。
 <!-- /character-note -->
 
@@ -179,7 +179,7 @@ baseProducts:
 
 **対処法**: 置き場所を明るい間接光が当たる場所に変更し、全緑葉が出た茎は斑のある節の上でカットします。改善しない場合は育成ライトの導入を検討してください。
 
-<!-- character-note character="sandy" type="warning" -->
+<!-- character-note character="shadee" type="warning" -->
 リバージョンは一度に起きるわけじゃなくて、じわじわ進行することが多いから気づきにくいんだ。置き場所を変えていないのに最近の葉だけ斑が薄い、と感じたら、季節による日照時間の変化も疑ってみて。
 <!-- /character-note -->
 

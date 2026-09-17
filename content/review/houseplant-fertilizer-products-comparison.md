@@ -84,7 +84,7 @@ amazonProducts:
 
 「とりあえず1本、間違いのない液体肥料が欲しい」という人の第一候補になる製品です。原液のまま与えると根を傷めるため、必ずキャップの目盛りで規定倍率に希釈してください。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 液体肥料は「即効性がある＝どんどん成長する」わけではなく、あくまで植物が今まさに成長しようとしているタイミングを後押しする役割。休眠期に与えても吸収されず、根に負担をかけるだけになってしまうよ。
 <!-- /character-note -->
 
@@ -159,7 +159,7 @@ tokyoplantsの「HYDRO MINERAL」のようにオスモコート（緩効性肥�
 
 「置くだけ」で手軽な反面、効果が切れた古い錠剤を土に残したまま新しいものを追加してしまうと、成分が過剰になります。約2ヶ月を目安に、古い錠剤を取り除いてから交換しましょう。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 錠剤を置いた日付をメモしておくと交換忘れを防げるよ。水やりのついでに記録する習慣があると、施肥のタイミングも一緒に振り返りやすい。
 <!-- /character-note -->
 

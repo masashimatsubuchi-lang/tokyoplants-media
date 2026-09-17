@@ -159,7 +159,7 @@ baseProducts:
 
 モンステラは上に伸びる性質があるため、植え替え時に支柱を立てておくと樹形が安定します。ヘゴ棒やモスポールを根鉢の近くに差し込み、茎を麻紐でゆるく固定します。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 植え替えのタイミングで支柱を立てておくと、その後の新芽が支柱に向かって伸びやすくなるよ。根が落ち着いてから支柱を足すより、最初から立てておく方が誘引の手間が少なくて済むんだ。
 <!-- /character-note -->
 

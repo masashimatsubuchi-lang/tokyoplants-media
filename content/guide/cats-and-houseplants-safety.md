@@ -175,7 +175,7 @@ ASPCAの毒性植物データベースで「Non-Toxic to Cats（猫に対して�
 
 葉の模様や質感を楽しみたいなら[カラテア属](/species/genus-calathea)、垂らして飾りたいなら[ホヤ属](/species/genus-hoya)、扱いやすさ重視なら[ペペロミア属](/species/genus-peperomia)——このあたりを軸に組み立てると、見応えのあるグリーンインテリアを猫と両立できます。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 流通名は見た目や雰囲気でつけられることが多くて、「ピースリリー」のように科も属も違う植物に同じ愛称が使われることがあるんだ。上の表で学名を併記しているのはそのためだよ。ASPCAのデータベースは学名で引けるから、購入時に鉢のラベルの学名を控えておくと、あとから自分の手で照合できるよ。
 <!-- /character-note -->
 

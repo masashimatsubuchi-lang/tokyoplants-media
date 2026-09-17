@@ -174,7 +174,7 @@ amazonProducts:
 
 気温が15℃を下回ると、アロカシアは成長を止め、葉を落として休眠に入る場合があります。これは枯れたのではなく、球根（塊茎）に栄養を蓄えて春を待っている状態です。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 葉が全部落ちるとどうしても焦っちゃうけど、これは「成長を止めて球根にエネルギーを集中させる」というアロカシアなりの戦略なんだ。地上部を犠牲にしてでも根本を守る、球根植物らしい生き方だよ。
 <!-- /character-note -->
 
@@ -199,7 +199,7 @@ amazonProducts:
 
 3月〜4月に気温が上がり始めると、球根から新芽が出てきます。新芽が確認できたら、水やりの頻度を徐々に上げ、薄い液肥を与え始めてください。
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 新芽が出るタイミングは株によって数週間単位でバラつくよ。焦って早く水やりを増やすより、実際に新芽が動き出したのを確認してから切り替える方が、球根への負担が少なくて安全。
 <!-- /character-note -->
 

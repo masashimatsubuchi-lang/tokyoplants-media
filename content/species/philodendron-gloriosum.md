@@ -146,7 +146,7 @@ baseProducts:
 4. 密閉容器か袋で湿度を70〜80%に維持し、明るい日陰で管理
 5. 2〜4週間で発根。根が3〜5cm伸びたら通常の鉢に定植
 
-<!-- character-note character="bloom" type="tip" -->
+<!-- character-note character="kuro" type="tip" -->
 発根までの2〜4週間は変化が地味で不安になりやすいけど、焦らず湿度管理を続けるのが一番の近道。Green Collectionの育成ログに挿し木の開始日を記録しておくと、発根の目安時期がわかりやすいよ。
 <!-- /character-note -->
 

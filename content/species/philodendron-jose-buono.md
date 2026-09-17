@@ -78,7 +78,7 @@ baseProducts:
 
 直射日光は白い斑部分を焼いて茶変させるため避けてください。光が慢性的に不足すると、新葉に占める白い部分の割合が減少し、全体的に緑がかった葉が展開するようになります。
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 白い斑の部分は自分では光合成できないから、実質的にグリーンの部分だけで株全体を養っている状態。斑が多い株ほど、光を十分に確保してあげることが成長スピードに直結するよ。
 <!-- /character-note -->
 
@@ -128,7 +128,7 @@ baseProducts:
 
 **対処:** より明るい間接光の場所へ移動するか、育成ライトの照度・点灯時間を増やします。環境改善後の数枚の新葉から斑のパターンが回復することが多いです。
 
-<!-- character-note character="sandy" type="tip" -->
+<!-- character-note character="shadee" type="tip" -->
 一度展開してしまった葉の斑の割合は光を足しても変わらない。改善の効果を確認したいときは、既存の葉ではなくこれから出てくる新葉を観察してね。
 <!-- /character-note -->
 
@@ -179,7 +179,7 @@ baseProducts:
 
 グリーン6：白4程度が発根力と斑の維持を両立しやすい目安の割合です（5:5〜7:3の範囲で選ぶ）。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 挿し木の成功率は「どの節を選ぶか」でほぼ決まると言っていいくらい重要。切る前に茎の色の入り方をよく観察する時間をかける価値があるよ。
 <!-- /character-note -->
 

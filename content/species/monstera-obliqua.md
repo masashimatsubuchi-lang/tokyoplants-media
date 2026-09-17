@@ -78,7 +78,7 @@ baseProducts:
 
 いずれにしても、オブリクアの穴は偶然ではなく、進化の過程で強化された生存戦略の結果と考えられており、それがこの植物の最大の魅力でもある。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 穴が多い葉ほど「弱そう」に見えるかもしれないけど、実際は真逆だよ。風や食害への適応として穴が発達したという説を知っていると、見た目の印象がガラッと変わって面白いよ。
 <!-- /character-note -->
 

@@ -72,7 +72,7 @@ baseProducts:
 
 このとき、パキラは**エネルギー消費を抑えるために古い下葉を自ら落とします**。これは紅葉して落葉樹が葉を落とすのと似た、生理的な仕組みです。特に以下の条件に当てはまる場合は、心配しすぎる必要はありません。
 
-<!-- character-note character="bloom" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 葉を落とすのも植物の立派な成長戦略のひとつだよ。エネルギーを新芽や生きている葉に集中させるための、いわば「選択と集中」なんだ。
 <!-- /character-note -->
 

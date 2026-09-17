@@ -32,7 +32,7 @@ baseProducts:
 - **新芽が小さい・増えない状態で古い茎ばかり伸びている** → 根詰まりを疑う
 - **株全体がぐらつき、鉢ごと傾く** → 鉢の重量不足による重心バランスの問題
 
-<!-- character-note character="sandy" type="point" -->
+<!-- character-note character="shadee" type="point" -->
 モンステラが片側だけに倒れているときは、まず反対側から光が来ていないか確認してみて。窓に向かって伸びていく「徒長」のサインであることが多いよ。
 <!-- /character-note -->
 

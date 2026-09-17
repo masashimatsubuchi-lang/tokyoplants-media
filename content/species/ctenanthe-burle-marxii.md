@@ -60,7 +60,7 @@ baseProducts:
 
 ブルレマルクシー最大の特徴は、主脈から左右に向かって規則的に並ぶ淡いシルバーグリーンの帯模様だ。濃い緑の地色との対比がはっきりしており、この模様が魚の骨格（フィッシュボーン）を連想させることから「Fishbone Plant」の英名がついた。葉の裏面は赤紫〜マルーン色を帯び、表から見た涼しげな印象と裏面の濃厚な色合いの対比も観賞ポイントのひとつだ。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 表と裏でこんなに色の印象が違う葉って、意外と少ないんだ。ハンギングや棚の上など、裏面が見える位置に飾ると新しい魅力に気づけるかも。
 <!-- /character-note -->
 
@@ -68,7 +68,7 @@ baseProducts:
 
 種小名の *burle-marxii* は、リオデジャネイロのコパカバーナ海岸の遊歩道デザインなどで知られるブラジルの造園家ロベルト・バールマルクス（Roberto Burle Marx, 1909–1994）への献名だ。「burle-marxii」の名を持つ植物は他属にも複数存在し、フィロデンドロン（*Philodendron burle-marxii*）などが知られるが、クテナンテ属では本種にこの名がついている。学名は1982年にH.ケネディによって正式に記載された。
 
-<!-- character-note character="lum" type="point" -->
+<!-- character-note character="kuro" type="point" -->
 「burle-marxii」という名前がついた植物は他の科にもいくつかあるんだよ。同じ人物に捧げられた植物を集めてみるのも、コレクションの楽しみ方のひとつだね。
 <!-- /character-note -->
 
