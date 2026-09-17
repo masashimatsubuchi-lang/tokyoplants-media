@@ -4,7 +4,7 @@ const SHOP_PRODUCTS = [
   {
     title: "観葉植物の土\n『 I'm original SOIL 』",
     price: "¥1,200〜",
-    url: "https://www.tokyoplants.com/items/99620939?utm_source=media&utm_medium=article&utm_campaign=shop-banner",
+    url: "https://www.tokyoplants.com/items/99620939?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/413a54d2734d729bb0811e84196e55e0.jpg",
     tags: ["6種天然素材", "室内向け"],
     soldOut: false,
@@ -12,7 +12,7 @@ const SHOP_PRODUCTS = [
   {
     title: "HYDRO MINERAL 2L\n溶岩石×ゼオライト培地",
     price: "¥1,200",
-    url: "https://www.tokyoplants.com/items/142692278?utm_source=media&utm_medium=article&utm_campaign=shop-banner",
+    url: "https://www.tokyoplants.com/items/142692278?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/8c005d36fa6b24f95424f388eca16b7f.jpg",
     tags: ["ハイドロ対応", "肥料8〜9ヶ月"],
     soldOut: false,
@@ -20,7 +20,7 @@ const SHOP_PRODUCTS = [
   {
     title: "Daily Botanical Towel\nリーフタオル",
     price: "¥2,000",
-    url: "https://www.tokyoplants.com/items/135803882?utm_source=media&utm_medium=article&utm_campaign=shop-banner",
+    url: "https://www.tokyoplants.com/items/135803882?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/bbc1475ea0cca198e331fb00760bc15b.jpg",
     tags: ["全10種", "ギフト対応"],
     soldOut: false,
@@ -28,7 +28,7 @@ const SHOP_PRODUCTS = [
   {
     title: "MOCHI POT｜3号\n3Dプリント鉢",
     price: "¥2,800",
-    url: "https://www.tokyoplants.com/items/140571906?utm_source=media&utm_medium=article&utm_campaign=shop-banner",
+    url: "https://www.tokyoplants.com/items/140571906?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/1a71835fed9fdffb01911db4835fcd54.png",
     tags: ["Olive / Gray", "通気性メッシュ"],
     soldOut: false,
@@ -36,7 +36,7 @@ const SHOP_PRODUCTS = [
   {
     title: "Anthurium Warocqueanum\nアンスリウム・ワロク",
     price: "¥4,800",
-    url: "https://www.tokyoplants.com/items/94920117?utm_source=media&utm_medium=article&utm_campaign=shop-banner",
+    url: "https://www.tokyoplants.com/items/94920117?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/09e298133894a3196fd2ad64c82a988e.jpg",
     tags: ["Queen Anthurium", "SELECT STOCK"],
     soldOut: false,
@@ -107,7 +107,7 @@ export default function ShopBanner() {
           <h2 className="mt-1 text-lg font-extrabold tracking-tight text-gray-900">tokyoplants で購入する</h2>
         </div>
         <a
-          href="https://www.tokyoplants.com?utm_source=media&utm_medium=article&utm_campaign=shop-banner"
+          href="https://www.tokyoplants.com?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner"
           target="_blank"
           rel="noopener noreferrer"
           className="shrink-0 text-sm font-semibold text-teal-700 hover:text-teal-900 transition-colors"

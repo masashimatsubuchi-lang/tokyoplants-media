@@ -84,7 +84,7 @@ export default function InlineProductBanner({ products }: Props) {
   const { product, type: productType, meta } = primary;
   const isSoldOut = product.price === "SOLD OUT";
   const campaignMap: Record<string, string> = { soil: "original-soil", hydro: "hydro-mineral", towel: "botanical-towel" };
-  const productUrl = (() => { const u = new URL(product.url); u.searchParams.set("utm_source","media"); u.searchParams.set("utm_medium","article"); u.searchParams.set("utm_campaign", campaignMap[productType] ?? "other"); return u.toString(); })();
+  const productUrl = (() => { const u = new URL(product.url); u.searchParams.set("utm_source","media"); u.searchParams.set("utm_medium","article"); u.searchParams.set("utm_campaign", campaignMap[productType] ?? "other"); u.searchParams.set("utm_content", "inline"); return u.toString(); })();
 
   return (
     <div className="not-prose my-8 rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-50 to-white p-1">

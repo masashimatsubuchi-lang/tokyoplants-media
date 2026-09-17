@@ -37,6 +37,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     u.searchParams.set("utm_source", "media");
     u.searchParams.set("utm_medium", "article");
     u.searchParams.set("utm_campaign", campaign);
+    u.searchParams.set("utm_content", "bottom");
     return u.toString();
   };
 
@@ -67,7 +68,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           tokyoplants で購入する
         </h2>
         <a
-          href="https://www.tokyoplants.com?utm_source=media&utm_medium=article&utm_campaign=base-product-block"
+          href="https://www.tokyoplants.com?utm_source=media&utm_medium=article&utm_campaign=base-product-block&utm_content=bottom"
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm font-semibold text-emerald-700 hover:text-emerald-900 transition-colors"

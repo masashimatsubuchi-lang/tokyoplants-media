@@ -90,27 +90,53 @@ function splitContentMarkers(html: string): ContentSegment[] {
   return segments;
 }
 
-/** segments内で最初に </h2> を含む html セグメントを見つけ、その直後に banner セグメントを挿入する。
- * 見つからない場合は末尾に追加する（表示自体は保証しつつ、位置がずれる可能性を残す）。 */
-function insertBannerAfterFirstH2(segments: ContentSegment[]): ContentSegment[] {
+/** 最初のH2セクション（多くの記事では「結論」）の本文を読み終えた位置＝2つ目の <h2 の直前に
+ * banner セグメントを挿入する。以前は最初の </h2> 直後（見出しと本文の間）に入れていたが、
+ * 読者が結論本文を読む前に商品バナーが割り込む形になっていたため、2026-09-17に位置を変更。
+ * H2が1つしかない記事は最初の </h2> 直後にフォールバックし、H2が無ければ末尾に追加する。 */
+function insertBannerAfterFirstSection(segments: ContentSegment[]): ContentSegment[] {
   const result: ContentSegment[] = [];
+  let h2Count = 0;
   let inserted = false;
   for (const seg of segments) {
     if (!inserted && seg.type === "html") {
-      const match = /<\/h2>/i.exec(seg.html);
-      if (match) {
-        const idx = match.index + match[0].length;
-        result.push({ type: "html", html: seg.html.slice(0, idx) });
+      const re = /<h2[\s>]/gi;
+      let m: RegExpExecArray | null;
+      let splitAt = -1;
+      while ((m = re.exec(seg.html)) !== null) {
+        h2Count++;
+        if (h2Count === 2) { splitAt = m.index; break; }
+      }
+      if (splitAt >= 0) {
+        result.push({ type: "html", html: seg.html.slice(0, splitAt) });
         result.push({ type: "banner" });
-        result.push({ type: "html", html: seg.html.slice(idx) });
+        result.push({ type: "html", html: seg.html.slice(splitAt) });
         inserted = true;
         continue;
       }
     }
     result.push(seg);
   }
-  if (!inserted) result.push({ type: "banner" });
-  return result;
+  if (inserted) return result;
+  // フォールバック: H2が1つ以下 → 最初の </h2> 直後、それも無ければ末尾
+  const fallback: ContentSegment[] = [];
+  let done = false;
+  for (const seg of result) {
+    if (!done && seg.type === "html") {
+      const match = /<\/h2>/i.exec(seg.html);
+      if (match) {
+        const idx = match.index + match[0].length;
+        fallback.push({ type: "html", html: seg.html.slice(0, idx) });
+        fallback.push({ type: "banner" });
+        fallback.push({ type: "html", html: seg.html.slice(idx) });
+        done = true;
+        continue;
+      }
+    }
+    fallback.push(seg);
+  }
+  if (!done) fallback.push({ type: "banner" });
+  return fallback;
 }
 
 
@@ -147,7 +173,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const showInlineBanner = ["soil", "guide", "species", "research", "review"].includes(post.category) && hasInlineProduct(post.baseProducts);
   const showShopBanner = hasBaseProducts || !hasAmazonProducts;
   const noteSegments = splitContentMarkers(contentWithIds);
-  const contentSegments = showInlineBanner ? insertBannerAfterFirstH2(noteSegments) : noteSegments;
+  const contentSegments = showInlineBanner ? insertBannerAfterFirstSection(noteSegments) : noteSegments;
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
   ).slice(0, 3);
