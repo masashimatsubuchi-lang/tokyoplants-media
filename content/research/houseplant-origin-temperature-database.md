@@ -118,24 +118,24 @@ baseProducts:
 | *Amydrium medium* | アミドリウム・メディウム | 東南アジア原産 | 20〜28℃ | 60〜75% |
 | *Anthurium andraeanum* | アンスリウム | 中南米（コロンビア・エクアドル） | 20〜28℃ | 60〜70% |
 | *Anthurium besseae* | アンスリウム・ベッセアエ | エクアドル原産 | 20〜28℃ | 65〜80% |
-| *Anthurium clarinervium* | アンスリウム・クラリネルビウム | メキシコ | 20〜28℃ | 65〜75% |
+| *Anthurium clarinervium* | アンスリウム・クラリネルビウム | メキシコ | 20〜28℃ | 50〜70% |
 | *Anthurium crystallinum* | アンスリウム・クリスタリナム | コロンビア・ペルーなど中南米 | 20〜28℃ | 70〜80% |
 | *Anthurium dressleri* | アンスリウム・ドレスレリ | パナマ、コロンビア | 20〜28℃ | 60〜80% |
 | *Anthurium faustomirandae* | アンスリウム・ファウストミランダエ | メキシコ | 20〜28℃ | 60〜80% |
-| *Anthurium forgetii* | アンスリウム・フォルゲッティ | コロンビア原産 | 20〜28℃ | 65〜80% |
+| *Anthurium forgetii* | アンスリウム・フォルゲティ | コロンビア原産 | 20〜28℃ | 60〜70% |
 | *Anthurium hookeri* | アンスリウム・フーケリー | 中南米原産 | 18〜28℃ | 60〜75% |
-| *Anthurium luxurians* | アンスリウム・ルクスリアンス | コロンビア原産 | 20〜28℃ | 70〜85% |
-| *Anthurium magnificum* | アンスリウム・マグニフィカム | コロンビア原産 | 20〜28℃ | 70〜85% |
-| *Anthurium papillilaminum* | アンスリウム・パピリラミナム | コロンビア原産 | 20〜28℃ | 70〜85% |
-| *Anthurium pedatoradiatum* | アンスリウム・ペダトラディアツム | メキシコ原産 | 18〜28℃ | 60〜75% |
+| *Anthurium luxurians* | アンスリウム・ルクスリアンス | コロンビア原産 | 20〜28℃ | 70〜90% |
+| *Anthurium magnificum* | アンスリウム・マグニフィカム | コロンビア原産 | 20〜28℃ | 70〜80% |
+| *Anthurium papillilaminum* | アンスリウム・パピリラミナム | パナマ原産 | 20〜28℃ | 65〜80% |
+| *Anthurium pedatoradiatum* | アンスリウム・ペダトラジアタム | メキシコ原産 | 15〜26℃ | 60〜80% |
 | *Anthurium plowmanii* | アンスリウム・プロウマニー | 南米（ペルー、ボリビア、ブラジル） | 20〜28℃ | 50〜70% |
-| *Anthurium regale* | アンスリウム・レガレ | ペルー原産 | 20〜28℃ | 70〜85% |
+| *Anthurium regale* | アンスリウム・レガレ | ペルー原産 | 20〜28℃ | 60〜80% |
 | *Anthurium scherzerianum* | アンスリウム・セリゼリアナム（ベニウチワ） | コスタリカ原産 | 18〜27℃ | 55〜70% |
 | *Anthurium spp.* | アンスリウム（種類不明） | 中南米（種により異なる） | 20〜28℃ | 60%以上 |
-| *Anthurium superbum* | アンスリウム・スペルバム | エクアドル原産 | 20〜28℃ | 65〜80% |
-| *Anthurium veitchii* | アンスリウム・ベイチー | コロンビア原産 | 20〜28℃ | 70〜85% |
+| *Anthurium superbum* | アンスリウム・スーパーバム | エクアドル・ペルー原産 | 18〜30℃ | 60〜80% |
+| *Anthurium veitchii* | アンスリウム・ベイチー（ヴェイチー） | コロンビア原産 | 18〜30℃ | 60〜80% |
 | *Anthurium vittariifolium* | アンスリウム・ビッタリフォリウム | エクアドル原産 | 20〜28℃ | 65〜80% |
-| *Anthurium warocqueanum* | アンスリウム・ワロクアーナム | コロンビア | 22〜28℃ | 75〜85% |
+| *Anthurium warocqueanum* | アンスリウム・ワロクアーナム | コロンビア（雲霧林） | 18〜25℃ | 80%以上 |
 | *Anthurium wendlingeri* | アンスリウム・ウェンドリンゲリ | エクアドル | 20〜28℃ | 60〜80% |
 | *Asparagus aethiopicus 'Myersii'* | アスパラガス・マイヤーシー（フォックステールファーン） | 南アフリカ | 15〜25℃ | 40〜60% |
 | *Asparagus aethiopicus 'Sprengeri'* | アスパラガス・スプレンゲリー | 南アフリカ | 15〜25℃ | 40〜60% |
