@@ -8,7 +8,6 @@ tags: ["徒長", "育成ライト", "剪定", "光量", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/light-intensity-by-window-direction"
-  - "research/grow-light-distance-and-growth-response"
   - "research/houseplant-grow-light-guide"
   - "review/plant-light-review"
   - "guide/houseplant-pruning-basics"
@@ -66,7 +65,7 @@ baseProducts:
 
 ### STEP1: 今の置き場所の光量を客観視する
 
-「明るい部屋だから大丈夫」という感覚的な判断が、徒長の最大の落とし穴です。窓からの距離が1m離れるだけで照度は大きく下がります。方角別・距離別の実測データは[窓の方角で光量はどれだけ違う？](/research/light-intensity-by-window-direction)で確認できます。今の置き場所が窓から2m以上離れている、または北向きの奥まった場所である場合は、光量不足を強く疑いましょう。
+「明るい部屋だから大丈夫」という感覚的な判断が、徒長の最大の落とし穴です。窓からの距離が1m離れるだけで照度は大きく下がります。方角別・距離別の光量の目安は[窓の方角で光量はどれだけ違う？](/research/light-intensity-by-window-direction)で整理しています。今の置き場所が窓から2m以上離れている、または北向きの奥まった場所である場合は、光量不足を強く疑いましょう。
 
 <!-- character-note character="shadee" type="tip" -->
 「明るい部屋」の感覚と実際の光量は、思っている以上にズレているよ。アプリの光チェックで今の置き場所を確認してみると、窓から少し離れるだけで光がどれだけ弱まるか実感できるはず。
@@ -74,7 +73,7 @@ baseProducts:
 
 ### STEP2: 置き場所を変えるか、育成ライトを検討する
 
-日照条件の良い窓際に移動できるなら、まずは置き場所の変更から試します。窓際に十分なスペースがない、または冬場に日照時間が短くなる地域の場合は、育成ライトの導入が現実的な解決策です。距離と成長の関係については[育成ライトの距離と生育反応](/research/grow-light-distance-and-growth-response)、育成ライト自体の必要性や選び方は[観葉植物にライトは必要？](/research/houseplant-grow-light-guide)、実機のレビューは[植物育成ライトおすすめ5選](/review/plant-light-review)を参考にしてください。
+日照条件の良い窓際に移動できるなら、まずは置き場所の変更から試します。窓際に十分なスペースがない、または冬場に日照時間が短くなる地域の場合は、育成ライトの導入が現実的な解決策です。育成ライトの必要性・選び方・植物タイプ別の設置距離については[観葉植物にライトは必要？](/research/houseplant-grow-light-guide)、実機のレビューは[植物育成ライトおすすめ5選](/review/plant-light-review)を参考にしてください。
 
 ### STEP3: 徒長した茎を切り戻す
 

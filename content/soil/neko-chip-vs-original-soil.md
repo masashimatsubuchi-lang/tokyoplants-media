@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/hydroculture-medium-comparison"
   - "soil/lava-rock-for-houseplants"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
   - "soil/bugs-in-houseplant-soil"
   - "soil/mold-on-houseplant-soil"

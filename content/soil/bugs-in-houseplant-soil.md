@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/neko-chip-vs-original-soil"
   - "review/fungus-gnat-control-products-comparison"
   - "soil/worm-castings-for-houseplants"

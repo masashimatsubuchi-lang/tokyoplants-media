@@ -8,7 +8,7 @@ tags: ["軽い土", "軽量培養土", "ベランダ", "マンション", "大�
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/protoleaf-vs-original-soil"

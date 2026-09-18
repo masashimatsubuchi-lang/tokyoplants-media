@@ -10,7 +10,7 @@ relatedSlugs:
   - "species/chamaedorea-elegans"
   - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/houseplant-soil-hub-guide"
 baseProducts:

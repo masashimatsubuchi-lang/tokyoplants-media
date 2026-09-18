@@ -112,4 +112,4 @@ baseProducts:
 
 → 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
-→ 関連記事: [観葉植物のハダニ対策完全ガイド](/guide/spider-mites-houseplants-control)｜[観葉植物用の霧吹きおすすめ5選](/review/misting-bottle-review)｜[葉水は本当に効果がある？観葉植物への影響を検証](/research/misting-effects-on-houseplants)
+→ 関連記事: [観葉植物のハダニ対策完全ガイド](/guide/spider-mites-houseplants-control)｜[観葉植物用の霧吹きおすすめ5選](/review/misting-bottle-review)｜[葉水は本当に効果がある？観葉植物への効果と限界を整理](/research/misting-effects-on-houseplants)

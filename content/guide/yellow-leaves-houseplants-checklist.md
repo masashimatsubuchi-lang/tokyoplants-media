@@ -87,7 +87,7 @@ baseProducts:
 - 表面も内部も乾き切る期間が長い: 乾燥ストレス疑い
 
 季節ごとの目安は次の記事で調整してください。
-[季節で水やり頻度は何倍変わる？](https://media.tokyoplants.com/research/watering-frequency-by-season-indoor)
+[観葉植物の水やり頻度｜季節別の目安と年間の考え方](https://media.tokyoplants.com/research/watering-frequency-by-season-indoor)
 
 ### 3. 根を確認して優先度を決める
 
@@ -111,7 +111,7 @@ baseProducts:
 - 南西直射: 葉焼けリスクあり
 
 配置調整時は、1回で大きく動かさず段階移動が安全です。
-[窓方角と光量の比較データ](https://media.tokyoplants.com/research/light-intensity-by-window-direction)
+[窓の方角と光量の違い・置き場所の目安](https://media.tokyoplants.com/research/light-intensity-by-window-direction)
 
 ### 5. 肥料・害虫・温度の順で追加確認する
 

@@ -7,7 +7,7 @@ category: "soil"
 tags: ["パーライト", "バーミキュライト", "用土", "土の配合", "水はけ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/recommended-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:
@@ -232,6 +232,6 @@ baseProducts:
 
 土の配合についてさらに詳しく知りたい方は、以下の記事もあわせてご覧ください。
 
-- [観葉植物の基本の土の作り方](/soil/basic-soil-mix)
+- [観葉植物の土を自分で配合する方法｜基本の割合と植物別レシピ](/soil/how-to-mix-soil-for-houseplants)
 - [観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)
 - [観葉植物の水はけが悪いときの改善方法](/soil/improve-drainage-for-houseplants)

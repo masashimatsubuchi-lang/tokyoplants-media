@@ -362,7 +362,7 @@ amazonProducts:
 
 鉢が大きすぎると土が乾かず、根腐れを起こします。一度抜いて適切なサイズに植え直しましょう。
 
-→ 鉢サイズと根の関係は「[大きすぎる鉢がNGな理由](/research/pot-size-and-root-growth)」
+→ 大きすぎる鉢のリスクと対処は「[観葉植物の鉢の選び方](/guide/choosing-pot-size-for-repotting)」
 
 ### 失敗②: 植え替え直後に肥料を与えた
 
@@ -430,7 +430,7 @@ A. 避けた方が無難です。開花にエネルギーを使っている状�
 
 植え替えは観葉植物にとって「引っ越し」のようなもの。適切な時期に、適切な環境を整えてあげれば、植物はそれに応えてくれます。この春、植え替えに挑戦してみてください。
 
-→ 春の準備は「[春の植え替え前チェックリスト](/guide/spring-repotting-checklist-march-april)」で確認
+→ 春の準備は「[植え替え時期はいつ？月別カレンダー](/guide/best-time-to-repot-houseplants)」の「植え替え前日までの準備」で確認
 → 秋に植え替える場合は「[秋の植え替えガイド｜適期と冬越し前の注意点](/guide/autumn-repotting-guide)」で確認
 
 ## 関連記事
@@ -440,7 +440,7 @@ A. 避けた方が無難です。開花にエネルギーを使っている状�
 **時期・タイミング:**
 - [植え替え時期はいつ？月別カレンダー](/guide/best-time-to-repot-houseplants)
 - [冬の植え替えはNG？緊急時の判断基準](/guide/winter-emergency-repotting-guide)
-- [春の植え替え前チェックリスト](/guide/spring-repotting-checklist-march-april)
+- [春の観葉植物リセット完全ガイド｜3〜5月の管理手順](/guide/march-houseplant-care-reset)
 - [秋の植え替えガイド｜適期と冬越し前の注意点](/guide/autumn-repotting-guide)
 - [買ったらすぐ植え替える？判断基準](/guide/repotting-after-purchase)
 

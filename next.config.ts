@@ -41,6 +41,13 @@ const nextConfig: NextConfig = {
       { source: "/guide/houseplant-sunburn-causes-and-recovery", destination: "/guide/sunburn-houseplants", permanent: true },
       // 2026-09-09 「おすすめアイテム」ページ新設に伴う統合リダイレクト（内容重複によるカニバリ回避）
       { source: "/review/houseplant-tools-complete-guide", destination: "/items", permanent: true },
+      // 2026-09-18 薄い記事・未実施の検証記事の統合に伴う旧URLリダイレクト
+      { source: "/soil/basic-soil-mix", destination: "/soil/how-to-mix-soil-for-houseplants", permanent: true },
+      { source: "/research/pot-size-and-root-growth", destination: "/guide/choosing-pot-size-for-repotting", permanent: true },
+      { source: "/research/soil-drying-speed-by-pot-material", destination: "/guide/soil-not-drying-causes", permanent: true },
+      { source: "/research/grow-light-distance-and-growth-response", destination: "/research/houseplant-grow-light-guide", permanent: true },
+      { source: "/guide/spring-pest-prevention-houseplants", destination: "/guide/march-houseplant-care-reset", permanent: true },
+      { source: "/guide/spring-repotting-checklist-march-april", destination: "/guide/best-time-to-repot-houseplants", permanent: true },
     ];
   },
 };

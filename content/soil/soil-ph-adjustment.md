@@ -7,7 +7,7 @@ category: "soil"
 tags: ["用土", "酸性"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
   - "soil/peat-moss-for-houseplants"
   - "soil/kunzan-for-houseplants"

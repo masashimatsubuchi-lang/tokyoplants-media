@@ -8,7 +8,7 @@ tags: ["赤玉土", "土の配合", "用土", "植え替え", "水はけ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/protoleaf-vs-original-soil"

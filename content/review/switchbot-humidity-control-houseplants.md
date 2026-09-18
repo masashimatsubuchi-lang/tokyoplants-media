@@ -48,7 +48,7 @@ amazonProducts:
 2. **スマートプラグ+加湿器/除湿機で「自動化」する** — 湿度が閾値を超えたら自動でON/OFF
 3. **通知で「気づく」仕組みを作る** — 外出中・就寝中の異常値をスマホにプッシュ通知
 
-家電単体の性能を上げるより、この3つを連携させる方が、日々の管理の再現性が大きく上がります。目標湿度レンジは[湿度は何％が最適？](/research/humidity-and-leaf-damage-thresholds)で検証した **40〜55%** を基準に設定するのが実用的です。
+家電単体の性能を上げるより、この3つを連携させる方が、日々の管理の再現性が大きく上がります。目標湿度レンジは[観葉植物に適した湿度は何％？](/research/humidity-and-leaf-damage-thresholds)で整理している **40〜55%** を基準に設定するのが実用的です。
 
 ## なぜスマート化が必要なのか（理由・仕組み）
 
@@ -189,6 +189,6 @@ SwitchBot純正の加湿器はWi-Fi機能を内蔵しているため、プラグ
 
 → 関連記事
 - [冬の湿度管理と加湿器・除湿機の選び方](/review/winter-humidity-control-humidifier-dehumidifier)
-- [湿度は何％が最適？葉傷みが増える境界を検証](/research/humidity-and-leaf-damage-thresholds)
+- [観葉植物に適した湿度は何％？葉が傷む境界と対策](/research/humidity-and-leaf-damage-thresholds)
 - [観葉植物の便利グッズ完全ガイド](/review/houseplant-tools-complete-guide)
 - [根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)

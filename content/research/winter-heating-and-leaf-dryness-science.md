@@ -1,6 +1,6 @@
 ---
 image: "https://images.unsplash.com/photo-1647783323572-da0d17c11489?w=1200&q=80"
-title: "暖房の種類で違う？観葉植物の乾燥ダメージを検証"
+title: "暖房の種類で違う？観葉植物の乾燥ダメージの仕組みと対策"
 description: "エアコン・石油ファンヒーター・電気ストーブなど暖房器具の種類ごとに、観葉植物への乾燥ダメージのメカニズムがどう違うのかを解説。冬の置き場所と距離の目安がわかります。"
 date: "2026-09-02"
 category: "research"
@@ -23,7 +23,7 @@ baseProducts:
 
 冬になると観葉植物の葉先が茶色く枯れ込んだり、パリパリに乾いたりする相談が増えます。原因の多くは「暖房による乾燥」とひとくくりにされがちですが、実は**暖房器具の種類によって植物へのダメージの出方が異なります**。
 
-[湿度と葉傷みの関係](/research/humidity-and-leaf-damage-thresholds)では相対湿度と葉先枯れの発生率を整理しました。今回はその冬季特化版として、暖房器具ごとの乾燥メカニズムの違いと、置き場所・距離の目安を整理します。
+[湿度と葉傷みの関係](/research/humidity-and-leaf-damage-thresholds)では、相対湿度ごとに葉先枯れやカビが出やすくなる一般的な目安を整理しました。今回はその冬季特化版として、暖房器具ごとの乾燥メカニズムの違いと、置き場所・距離の目安を整理します。
 
 ## 結論（最初に答え）
 
@@ -101,4 +101,4 @@ baseProducts:
 
 → 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
-→ 関連記事: [湿度は何％が最適？葉傷みが増える境界を検証](/research/humidity-and-leaf-damage-thresholds)
+→ 関連記事: [観葉植物に適した湿度は何％？葉が傷む境界と対策](/research/humidity-and-leaf-damage-thresholds)

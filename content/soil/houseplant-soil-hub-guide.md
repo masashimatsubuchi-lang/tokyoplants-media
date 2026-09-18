@@ -16,7 +16,6 @@ tags:
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/houseplant-soil-selection-guide
-  - soil/basic-soil-mix
   - soil/recommended-soil-for-houseplants
   - soil/how-to-mix-soil-for-houseplants
   - soil/improve-drainage-for-houseplants
@@ -115,7 +114,6 @@ baseProducts:
 配合を自分で作る場合は、以下の基本レシピを出発点にしてください。
 
 - [観葉植物の土を自分で配合する方法](https://media.tokyoplants.com/soil/how-to-mix-soil-for-houseplants)
-- [基本の配合バランス解説](https://media.tokyoplants.com/soil/basic-soil-mix)
 
 ### 5. 植え替え時は「根の状態」で最終決定する
 

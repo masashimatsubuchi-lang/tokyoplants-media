@@ -38,7 +38,7 @@ amazonProducts:
 - **最高最低記録・アラームなど機能も欲しい** → 大画面・多機能タイプ（¥3,000前後）
 - **スマホで遠隔監視・自動記録までしたい** → [SwitchBotの温湿度計プラス](/review/switchbot-humidity-control-houseplants)を検討
 
-観葉植物にとって快適とされる湿度の目安（40〜55%）については[湿度は何％が最適？](/research/humidity-and-leaf-damage-thresholds)で検証しています。まずは温湿度計で現在地を知ることが、対策の第一歩です。
+観葉植物にとって快適とされる湿度の目安（40〜55%）については[観葉植物に適した湿度は何％？](/research/humidity-and-leaf-damage-thresholds)で整理しています。まずは温湿度計で現在地を知ることが、対策の第一歩です。
 
 ## なぜ温湿度計が観葉植物の管理に有効なのか
 

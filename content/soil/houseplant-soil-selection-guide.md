@@ -77,7 +77,7 @@ baseProducts:
 ### ステップ3：ベースの選択肢を3つから選ぶ
 
 1. **市販の完成培養土をそのまま使う**：コストと手間を抑えたい初心者向け。[観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)、成分の見方は[市販の観葉植物の土には何が入っている？](/soil/commercial-soil-ingredients)を参照。
-2. **完成培養土に資材を足してブレンドする**：置き場所や植物に合わせて微調整したい人向け。基本の配合は[観葉植物の基本の土の作り方](/soil/basic-soil-mix)、[観葉植物の土を自分で配合する方法](/soil/how-to-mix-soil-for-houseplants)を参照。
+2. **完成培養土に資材を足してブレンドする**：置き場所や植物に合わせて微調整したい人向け。基本の配合は[観葉植物の土を自分で配合する方法](/soil/how-to-mix-soil-for-houseplants)を参照。
 3. **土を使わずハイドロカルチャーで育てる**：虫・匂い・水やり管理を簡略化したい人向け。[ハイドロカルチャーの培地おすすめ比較](/soil/hydroculture-medium-comparison)を参照。土からの切り替えは[ハイドロカルチャーから土への植え替え方法](/guide/hydroculture-to-soil-transition)、逆方向は[土からハイドロカルチャーへの切り替え方法](/guide/soil-to-hydroculture-transition)、水やりを楽にしたい場合は[底面給水のやり方](/guide/bottom-watering-houseplants)も参考になります。
 
 ### ステップ4：素材ごとの違いを理解してブレンドを微調整する

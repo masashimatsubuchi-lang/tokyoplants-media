@@ -11,7 +11,7 @@ relatedSlugs:
   - "soil/bugs-in-houseplant-soil"
   - "soil/commercial-soil-ingredients"
   - "guide/repotting-houseplants-complete-guide"
-  - "guide/spring-pest-prevention-houseplants"
+  - "guide/march-houseplant-care-reset"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

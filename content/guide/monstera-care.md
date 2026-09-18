@@ -9,7 +9,7 @@ appCta: "はじめての一株は、続けられる仕組みがあると気が�
 tags: ["モンステラ", "育て方", "完全ガイド", "初心者"]
 relatedSlugs:
   - "species/monstera-deliciosa"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "review/moss-pole-comparison"
   - "guide/monstera-propagation-cutting-guide"
   - "guide/monstera-yellow-leaves"

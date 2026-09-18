@@ -7,7 +7,7 @@ category: "soil"
 tags: ["用土", "おすすめ", "室内", "虫対策", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/commercial-soil-ingredients"
   - "soil/when-to-replace-soil"
   - "guide/home-compost-beginners-guide"

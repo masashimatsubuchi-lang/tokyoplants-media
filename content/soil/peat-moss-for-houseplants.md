@@ -8,7 +8,7 @@ tags: ["ピートモス", "土の配合", "用土", "保水性", "酸性土壌"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
   - "soil/commercial-soil-ingredients"
 baseProducts:

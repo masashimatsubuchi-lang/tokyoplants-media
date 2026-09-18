@@ -11,7 +11,7 @@ relatedSlugs:
   - "soil/sphagnum-moss-recommended"
   - "soil/growing-houseplants-without-soil"
   - "soil/recommended-soil-for-houseplants"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
 amazonProducts:
   - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
     asin: "B000IAA00M"

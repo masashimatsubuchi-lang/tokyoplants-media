@@ -8,7 +8,7 @@ tags: ["秋", "植え替え", "9月", "冬越し"]
 author: "tokyoplants 編集部"
 appCta: "植え替えた日を記録しておくと、冬越し前の管理がぶれません。"
 relatedSlugs:
-  - "guide/spring-repotting-checklist-march-april"
+  - "guide/march-houseplant-care-reset"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/best-time-to-repot-houseplants"
   - "guide/winter-emergency-repotting-guide"
@@ -139,13 +139,13 @@ baseProducts:
 
 秋の植え替えは、来年の春を元気に迎えるための「仕込み」の作業です。適期を逃さず、休眠前に根を落ち着かせてあげましょう。
 
-→ 春に植え替える場合は「[春の植え替え前チェックリスト](/guide/spring-repotting-checklist-march-april)」も参考に
+→ 春に植え替える場合は「[観葉植物の植え替え時期はいつ？｜月別カレンダーで解説](/guide/best-time-to-repot-houseplants)」の「植え替え前日までの準備」も参考に
 → 植え替えの基本手順は「[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)」で確認
 
 ## 関連記事
 
 - [植え替え完全ガイド｜時期・手順・土・鉢の選び方](/guide/repotting-houseplants-complete-guide)
-- [春の植え替え前チェックリスト](/guide/spring-repotting-checklist-march-april)
+- [春の観葉植物リセット完全ガイド｜3〜5月の管理手順](/guide/march-houseplant-care-reset)
 - [植え替え時期はいつ？月別カレンダー](/guide/best-time-to-repot-houseplants)
 - [冬の植え替えはNG？緊急時の判断基準](/guide/winter-emergency-repotting-guide)
 - [大きくしない植え替え方法](/guide/repotting-without-upsizing)

@@ -20,9 +20,6 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 hideAmazonBlock: true
 amazonProducts:
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
@@ -106,7 +103,8 @@ amazonProducts:
 |------|----------------------|
 | 低光量種の維持（ポトス、サンスベリア等） | 30〜80 |
 | 中光量種の維持（モンステラ、フィロデンドロン等） | 80〜150 |
-| 高光量種の成長促進（アガベ、ビカクシダ等） | 150〜300 |
+| ビカクシダの成長促進 | 200〜350 |
+| 高光量種の成長促進（アガベ、サボテン、多肉植物等） | 400〜600以上 |
 | 斑入り品種の斑維持 | 100〜200 |
 
 <!-- character-note character="shadee" type="tip" -->

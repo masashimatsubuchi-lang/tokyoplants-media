@@ -13,7 +13,6 @@ tags:
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/recommended-soil-for-houseplants"
-  - "soil/basic-soil-mix"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:

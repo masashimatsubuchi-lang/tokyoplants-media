@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
-  - "research/pot-size-and-root-growth"
+  - "guide/choosing-pot-size-for-repotting"
   - "soil/recommended-soil-for-houseplants"
   - "research/houseplant-fertilizer-guide"
 baseProducts:
@@ -88,7 +88,7 @@ baseProducts:
 
 | 原因 | 見分け方 | 対処法 |
 |------|---------|--------|
-| 根詰まり | 長期間植え替えていない、鉢底から根がはみ出している | 一回り大きな鉢に植え替える。植え替えの目安は[鉢サイズと根張りの関係｜大きすぎる鉢がNGな理由](/research/pot-size-and-root-growth)も参考に |
+| 根詰まり | 長期間植え替えていない、鉢底から根がはみ出している | 一回り大きな鉢に植え替える。鉢のサイズの選び方は[観葉植物の鉢の選び方｜サイズ・素材・形状](/guide/choosing-pot-size-for-repotting)も参考に |
 | 根腐れ（過湿） | 土が常に湿っている、茎の根元が黒ずむ・柔らかくなる、土から異臭がする | 水やりを中止し鉢から取り出して根を確認。腐った根を除去し、排水性の高い土に植え替える |
 | 水切れ | 土が完全に乾燥しきっている、葉にハリがなくしなびている | 徐々に水を与えて様子を見る（一気に大量の水を与えると根が急変化に対応できないこともある） |
 | 環境の急激な変化 | 購入直後・置き場所を大きく変えた直後に発生 | 新しい環境に慣れるまで数週間は静観する |

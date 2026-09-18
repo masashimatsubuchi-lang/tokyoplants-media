@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/sphagnum-moss-recommended"
   - "soil/bellabon-for-houseplants"
   - "review/kokedama-kit-comparison"
-  - "soil/basic-soil-mix"
+  - "soil/how-to-mix-soil-for-houseplants"
   - "soil/akadama-ratio-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
