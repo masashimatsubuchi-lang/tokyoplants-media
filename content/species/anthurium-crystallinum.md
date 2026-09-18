@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1701193527116-7bef6b0ce8e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1744732062686-2664cf8c4a1f?w=1200&q=80"
 title: "アンスリウム・クリスタリナム｜銀葉脈が美しい葉ものアンスリウムの育て方"
 description: "アンスリウム・クリスタリナムの基本情報、銀色の葉脈の特徴、クラリネルビウムとの違い、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"

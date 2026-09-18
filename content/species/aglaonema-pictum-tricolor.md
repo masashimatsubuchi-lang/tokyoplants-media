@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1593482892290-f54927ae1bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1671594485190-79e9c47df33e?w=1200&q=80"
 title: "アグラオネマ・ピクタム・トリカラー｜迷彩模様が唯一無二の観葉植物図鑑"
 description: "アグラオネマ・ピクタム・トリカラー（Aglaonema pictum tricolor）の基本情報、軍服のような迷彩模様の仕組み、育て方・湿度管理・増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"

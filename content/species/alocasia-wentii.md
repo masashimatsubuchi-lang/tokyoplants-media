@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1686000241152-844ced0eeb81?w=1200&q=80"
 title: "アロカシア・ウェンティの育て方｜パープルの葉裏が美しい丈夫なアロカシア"
 description: "アロカシア・ウェンティの育て方を詳しく解説。紫色の葉裏が特徴的なニューギニア原産の中型アロカシア。光・湿度・水やり・冬越しのポイントを詳しく紹介します。"
 date: "2026-06-09"

@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1647631703000-b3ca2bcd45e4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1771814121521-7e77bbd5b4d7?w=1200&q=80"
 title: "ホヤ・ウェイエティー トリカラー斑入り｜Hoya wayetii 'Tricolor' 図鑑"
 description: "ホヤ・ウェイエティー トリカラー（Hoya wayetii 'Tricolor'）の特徴・育て方を解説。グリーン・クリーム・ピンクの三色斑が美しい希少ホヤの図鑑ページです。"
 date: "2026-06-09"

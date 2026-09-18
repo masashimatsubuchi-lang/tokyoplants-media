@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1763060819345-e47d742d2ebe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1604066463434-3e353f37f425?w=1200&q=80"
 title: "フィロデンドロン・フロリダビューティー｜斑入り交配種の育て方と斑の安定化"
 description: "フィロデンドロン・フロリダビューティー（Florida Beauty）の基本情報、クリーム〜黄白色の斑入り模様の特徴、Florida Ghostとの違い、育て方のポイントを図鑑形式で解説します。"
 date: "2026-06-09"

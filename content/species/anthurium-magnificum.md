@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1672997524867-b08795be6fb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1736954030305-ea6ce079e293?w=1200&q=80"
 title: "アンスリウム・マグニフィカム｜大型ベルベット葉の特徴と育て方"
 description: "アンスリウム・マグニフィカムの基本情報、ベルベット質の大型葉、四角い葉柄の識別法、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"

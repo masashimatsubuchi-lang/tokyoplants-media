@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1623910935955-ff2600772d24?w=800&q=80"
+image: "https://images.unsplash.com/uploads/14114005966624c90b007/60cc31c4?w=1200&q=80"
 title: "ステファニア属とは｜主な品種・育て方・特徴を解説"
 description: "ステファニア属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"

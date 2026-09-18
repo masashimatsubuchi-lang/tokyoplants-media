@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1509423350716-97f9360b4e09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://plus.unsplash.com/premium_photo-1701010002481-7e007a9f27c5?w=1200&q=80"
 title: "ステファニア・エレクタ｜丸い塊根と可愛い葉の塊根植物の育て方図鑑"
 description: "ステファニア・エレクタ（Stephania erecta）の基本情報、球形の塊根（コーデックス）と丸いハート形の葉の特徴、休眠管理・発芽・育て方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
