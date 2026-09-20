@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1673969608591-2403f690a989?w=800&q=80"
+image: "https://images.unsplash.com/photo-1598880940080-ff9a29891b85?w=1200&q=80"
 title: "ポトスの土おすすめと植え替え方法｜水はけ重視の用土選び"
 description: "ポトスに最適な土の条件、おすすめの用土、自分で配合する場合のレシピを紹介。植え替え手順と水耕栽培から土への移行方法も解説します。"
 date: "2026-02-16"

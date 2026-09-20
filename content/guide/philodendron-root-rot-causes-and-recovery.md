@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1619423089884-bc5b70bc4e2c?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1644820864412-2e08f6f7c975?w=1200&q=80"
 title: "フィロデンドロンの根腐れ｜原因と復活の手順"
 description: "フィロデンドロンの根腐れの原因と初期症状の見分け方、傷んだ根を切除して復活させる手順、再発を防ぐ用土・鉢・水やりの見直しポイントを解説します。"
 date: "2026-09-02"

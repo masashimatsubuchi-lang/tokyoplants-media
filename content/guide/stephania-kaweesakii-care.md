@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1648987708175-8f64138c9223?w=800&q=80"
+image: "https://images.unsplash.com/photo-1629730753643-d5e92f24a2de?w=1200&q=80"
 title: "ステファニア・カウィーサキの育て方｜水やり・休眠・塊根管理"
 description: "ステファニア・カウィーサキの育て方を解説。水やりの頻度、置き場所、用土の選び方、休眠期の管理方法、塊根を腐らせないためのポイントをまとめました。"
 date: "2026-02-20"

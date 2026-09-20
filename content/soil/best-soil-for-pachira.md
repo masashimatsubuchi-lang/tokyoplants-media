@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1639573955842-fdbb88f9ff1e?w=800&q=80"
+image: "https://images.unsplash.com/photo-1766243062910-bda898a2470c?w=1200&q=80"
 title: "パキラの土おすすめ5選【2026年】｜配合レシピと根腐れしない選び方"
 description: "パキラに合う土おすすめ5選を徹底比較。「パキラ 土 おすすめ」を探している方へ、排水性を最優先にした配合比率・市販土の選び方・根腐れしない植え替え手順を専門的に解説します。"
 date: "2026-02-16"

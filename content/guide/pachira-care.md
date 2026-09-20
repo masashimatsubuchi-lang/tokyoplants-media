@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1648147537615-5655fffb336c?w=800&q=80"
+image: "https://images.unsplash.com/photo-1777086184642-30452e69fc05?w=1200&q=80"
 title: "パキラの育て方｜初心者でも枯らさないコツ"
 description: "パキラの水やり頻度・置き場所・剪定・植え替えまで完全解説。初心者がやりがちな失敗と対策も紹介します。"
 date: "2026-02-18"

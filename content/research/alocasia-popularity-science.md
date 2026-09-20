@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1753362736527-a79c43fc6685?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1687682377416-52068eaef061?w=1200&q=80"
 title: "アロカシアはなぜここまで人気が再燃しているのか"
 description: "アロカシアのコレクター人気が続く理由を、葉の質感・希少性・新種発見という3つの観点から整理。断定的な推測を避け、確認できた情報をもとに解説します。"
 date: "2026-09-02"
