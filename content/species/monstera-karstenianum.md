@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1602555267355-76bc88a7141c?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1773003135643-c6d62704efef?w=1200&q=80"
 title: "モンステラ・カリステニアナム（モンステラペルー）の育て方"
 description: "モンステラ・カリステニアナム（通称モンステラペルー）の基本情報、学名をめぐる分類上の混乱、コルゲート状の葉の特徴、育て方、増やし方を詳しく解説します。"
 date: "2026-09-02"

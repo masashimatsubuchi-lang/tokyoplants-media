@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1611092204158-07c509e59b50?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1767110265494-367316073b74?w=1200&q=80"
 title: "モンステラ・シルティペカーナの特徴と育て方"
 description: "モンステラ・シルティペカーナの基本情報、幼葉と成葉の劇的な変化、アダンソニーとの違い、育て方とトラブル対策を図鑑形式で解説します。"
 date: "2026-09-02"

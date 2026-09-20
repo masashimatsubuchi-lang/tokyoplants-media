@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1676795607136-89edbea643a9?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1676795606720-8f2d51ef24d2?w=1200&q=80"
 title: "シェフレラ（カポック）の特徴と育て方"
 description: "シェフレラ・アルボリコラ（カポック）の基本情報、学名の分類変更、育て方とトラブル対策を図鑑形式で解説します。"
 date: "2026-09-02"

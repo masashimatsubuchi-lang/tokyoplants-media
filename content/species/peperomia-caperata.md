@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1780777424874-6dc072bfd1f0?w=1200&q=80"
 title: "ペペロミア・カペラタ｜しわしわ葉と穂状の花が可愛い小型種の育て方図鑑"
 description: "ペペロミア・カペラタ（Peperomia caperata）の基本情報、シワのある深緑の葉と白い穂状花序の特徴、小型で育てやすい管理方法・増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"

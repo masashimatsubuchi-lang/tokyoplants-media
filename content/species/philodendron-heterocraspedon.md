@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1785628094854-78b05b8ad9c9?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1727368540112-1449ae826e41?w=1200&q=80"
 title: "フィロデンドロン・ヘテロクラスペドン｜Philodendron heterocraspedon 図鑑"
 description: "フィロデンドロン・ヘテロクラスペドン（Philodendron heterocraspedon）の特徴・育て方を解説。深緑のベルベット葉と隆起した葉脈が美しい希少フィロデンドロンの図鑑ページです。"
 date: "2026-06-09"

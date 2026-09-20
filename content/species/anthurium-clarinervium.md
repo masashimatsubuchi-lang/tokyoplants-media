@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1676654936496-67e5bc9e7235?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1744732062398-1398585f0a30?w=1200&q=80"
 title: "アンスリウム・クラリネルビウム｜ハート型の銀葉脈が人気の品種"
 description: "アンスリウム・クラリネルビウムの基本情報、革質の厚い葉の特徴、メキシコ固有種の生態、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"

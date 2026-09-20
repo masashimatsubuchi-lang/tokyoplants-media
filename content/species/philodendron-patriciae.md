@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1787014369744-8ca1e58c2270?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1767635441824-dd9e64ed8f10?w=1200&q=80"
 title: "フィロデンドロン・パトリシエ｜大型波打ち葉が圧巻の着生種の育て方図鑑"
 description: "フィロデンドロン・パトリシエ（Philodendron patriciae）の基本情報、大きく波打つ独特の葉の特徴、コロンビア原産の着生種の育て方と仕立て方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"

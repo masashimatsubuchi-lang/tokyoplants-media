@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1714100878138-3332a92f702d?w=800&q=80"
+image: "https://images.unsplash.com/photo-1658043580802-2f1aabfca87a?w=1200&q=80"
 title: "ドラセナ・マルギナータの育て方｜品種特徴と分類の注意点"
 description: "ドラセナ・マルギナータ（Dracaena marginata）の基本情報、コンシンナ・トリカラーなど品種バリエーション、分類上の注意点、育て方とよくあるトラブルを詳しく解説します。"
 date: "2026-09-07"

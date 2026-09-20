@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1754277604163-0e599c972c7f?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1642380804993-3722712d15c0?w=1200&q=80"
 title: "シンゴニウム・ピンクスプラッシュの特徴と育て方"
 description: "シンゴニウム・ピンクスプラッシュの基本情報、ピンク斑ができる仕組み、育て方とトラブル対策を図鑑形式で解説します。"
 date: "2026-09-02"

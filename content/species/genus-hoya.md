@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1675864662838-4b8d620cb8c6?w=800&q=80"
+image: "https://images.unsplash.com/photo-1723416754565-b626b598dc6d?w=1200&q=80"
 title: "ホヤ属（サクララン）とは｜主な品種・育て方・特徴を解説"
 description: "ホヤ属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"

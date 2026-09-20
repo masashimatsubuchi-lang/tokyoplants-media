@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1781400868472-bc450dbcb6ef?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1630589947083-13749d8533a3?w=1200&q=80"
 title: "ハウォルシア属とは｜オブツーサなど品種一覧と徒長を防ぐ育て方"
 description: "ハウォルシア属の基本情報、オブツーサ・十二の巻など代表品種一覧、他の多肉植物と違う「直射日光NG」の育て方の理由、徒長を防ぐコツ、よくあるトラブルをまとめた図鑑ページです。"
 date: "2026-09-07"

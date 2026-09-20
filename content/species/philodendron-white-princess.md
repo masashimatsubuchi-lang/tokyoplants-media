@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1763060819480-3261238b402e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1688369627781-2b263f0c3833?w=1200&q=80"
 title: "フィロデンドロン・ホワイトプリンセス｜白斑品種の育て方とピンクプリンセスとの違い"
 description: "フィロデンドロン・ホワイトプリンセス（White Princess）の基本情報、白い斑の特徴、ピンクプリンセス・ホワイトナイトとの違い、育て方のポイントを図鑑形式で詳しく解説します。"
 date: "2026-09-02"

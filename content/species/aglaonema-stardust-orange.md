@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1729655855474-fee6907721d6?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1629099534513-bbc256e2b58a?w=1200&q=80"
 title: "アグラオネマ・スターダストオレンジ｜Aglaonema 'Stardust Orange' 図鑑"
 description: "アグラオネマ・スターダストオレンジ（Aglaonema 'Stardust Orange'）の特徴・育て方を解説。オレンジ〜レッドの斑点模様が星のように散るカラフルな観葉植物の図鑑ページです。"
 date: "2026-06-09"

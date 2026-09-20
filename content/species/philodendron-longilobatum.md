@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1780024397662-d7731f2801b0?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1678016733453-9da9c054920d?w=1200&q=80"
 title: "フィロデンドロン・ロンギロバタム ミント斑入り｜Philodendron longilobatum 図鑑"
 description: "フィロデンドロン・ロンギロバタム ミント斑入り（Philodendron longilobatum mint variegated）の特徴・育て方を解説。細長い葉と爽やかなミント色の斑が特徴の希少フィロデンドロンです。"
 date: "2026-06-09"

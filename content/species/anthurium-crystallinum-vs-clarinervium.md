@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1743947642623-bde4b86e8c40?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1774164247931-ee2af2f3a3ab?w=1200&q=80"
 title: "アンスリウム・クリスタリナムとクラリネルビウムの違い｜見分け方と選び方"
 description: "アンスリウム・クリスタリナムとクラリネルビウムの違いを徹底比較。葉の形・厚み・葉裏の色による見分け方、原産地の違いが生む難易度差、交配種「クリスタリネルビウム」まで詳しく解説します。"
 date: "2026-09-02"

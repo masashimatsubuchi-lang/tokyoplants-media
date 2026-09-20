@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1545239351-ef35f43d514b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1695219725015-deb8e6873b1d?w=1200&q=80"
 title: "モンステラ・アダンソニー斑入り｜モットルド・マーブルの育て方と斑の維持"
 description: "モンステラ・アダンソニー斑入り（Mottled/Marble variegated）の基本情報、白〜クリームの斑模様の種類、無地との違い、斑を維持する光管理と育て方を図鑑形式で解説します。"
 date: "2026-06-09"
