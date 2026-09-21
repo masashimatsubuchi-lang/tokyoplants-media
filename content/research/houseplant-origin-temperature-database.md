@@ -92,7 +92,7 @@ baseProducts:
 | *Alocasia 'Nebula'* | アロカシア・ネブラ | ボルネオ島原産種の交配園芸品種 | 20〜28℃ | 65〜80% |
 | *Alocasia 'Portodora'* | アロカシア・ポルトドラ | 東南アジア原産種の交配園芸品種 | 18〜28℃ | 55〜70% |
 | *Alocasia 'Regal Shield'* | アロカシア・リーガルシールド | 東南アジア原産種の交配園芸品種 | 20〜28℃ | 60〜75% |
-| *Alocasia 'Stingray'* | アロカシア・スティングレイ | 東南アジア原産種の交配園芸品種 | 20〜28℃ | 60〜75% |
+| *Alocasia 'Stingray'* | アロカシア・スティングレイ | *A. macrorrhizos*系の変異選抜園芸品種（原種は東南アジア） | 20〜28℃ | 60〜80% |
 | *Alocasia azlanii* | アロカシア・アズラニー | ボルネオ島原産 | 20〜28℃ | 65〜80% |
 | *Alocasia baginda 'Dragon Scale'* | アロカシア・ドラゴンスケール | ボルネオ島 | 20〜28℃ | 65〜75% |
 | *Alocasia baginda 'Silver Dragon'* | アロカシア・シルバードラゴン | ボルネオ島 | 20〜28℃ | 60〜70% |
@@ -377,7 +377,7 @@ baseProducts:
 | *Monstera deliciosa 'Thai Constellation'* | モンステラ・タイコンステレーション | 交配・組織培養選抜品種（原種はメキシコ〜中米） | 20〜28℃ | 50〜60% |
 | *Monstera deliciosa var. borsigiana* | モンステラ・デリシオサ・ボルシギアナ | メキシコ〜中央アメリカ | 18〜28℃ | 50〜60% |
 | *Monstera dubia* | モンステラ・ドゥビア | 中南米原産 | 20〜28℃ | 60〜75% |
-| *Monstera epipremnoides* | モンステラ・エピプレムノイデス | 中南米原産 | 18〜28℃ | 60〜75% |
+| *Monstera epipremnoides* | モンステラ・エピプレムノイデス（※園芸で「[エスケレト](/species/monstera-esqueleto)」として流通する株は長くこの名で呼ばれてきたが、野生種とは別の未記載種とする見解あり） | 中南米原産 | 18〜28℃ | 60〜75% |
 | *Monstera karstenianum* | モンステラ・ペルー | 中南米（ペルーなど） | 20〜28℃ | 55〜65% |
 | *Monstera lechleriana* | モンステラ・レクレリアナ | 中南米原産 | 18〜28℃ | 60〜75% |
 | *Monstera obliqua* | モンステラ・オブリクア | 中南米（パナマ〜ブラジル） | 20〜28℃ | 70〜85% |
