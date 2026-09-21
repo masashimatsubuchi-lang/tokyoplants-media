@@ -19,7 +19,12 @@ export default function CharacterNote({ character, type, html }: Props) {
   const typeLabel = NOTE_TYPE_LABELS[noteType];
 
   return (
-    <div className="not-prose my-6 flex items-start gap-2.5">
+    <div
+      className="not-prose my-6 flex items-start gap-2.5"
+      data-character-note=""
+      data-character={character}
+      data-note-type={noteType}
+    >
       {/* Avatar */}
       <div className="flex h-14 w-14 shrink-0 items-center justify-center">
         {/* eslint-disable-next-line @next/next/no-img-element */}

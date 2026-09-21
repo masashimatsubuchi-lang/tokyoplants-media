@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import AppPromoBanner from "@/components/AppPromoBanner";
 import "./globals.css";
+import ClickTracker from "@/components/ClickTracker";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -180,6 +181,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
         />
         <AppPromoBanner />
+        <ClickTracker />
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />
