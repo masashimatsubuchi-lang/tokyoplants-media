@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/platycerium-grow-light-guide"
   - "guide/monstera-care"
   - "guide/alocasia-care-guide"
+  - "review/bar-type-grow-light-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -44,6 +45,14 @@ BRIM(ブリム)は国内発の植物育成ライトブランドで、フルス�
 一方で、「BRIMの中でどれを選べばいいのか分からない」という声も多い。FLORA・SOL 24W・PANEL Aはいずれも植物育成ライトだが、設置方式もスペックも価格帯も異なり、向いている環境がそれぞれ違う。この記事では、BRIMブランドの3製品だけを対象に、実際の設置方法・光の性能・Amazonでの評価を踏まえて、ブランド内でどれを選ぶべきかを詳しく解説する。5製品を横断比較したい場合は、[植物育成ライトおすすめ5選【2026年】](/review/plant-light-review)も参考にしてほしい。
 
 ---
+
+> **育成ライト記事の読み分け**：目的に合う記事からどうぞ。
+
+| 記事 | 内容 |
+|---|---|
+| [総合](/review/plant-light-review) | 観葉植物・ビカクシダ向けの選び方と、タイプ横断のおすすめ5選 |
+| [バータイプ特化](/review/bar-type-grow-light-comparison) | 棚・複数株を照らすバー型だけを5機種比較 |
+| **BRIM専門（この記事）** | 国内ブランドBRIMの3機種（PANEL A・SOL 24W・FLORA）の選び分け |
 
 ## 結論：置き場所・株数・予算で選ぶBRIM3機種
 

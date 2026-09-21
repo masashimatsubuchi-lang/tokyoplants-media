@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/platycerium-grow-light-guide"
   - "research/houseplant-grow-light-guide"
   - "guide/monstera-grow-light-guide"
+  - "review/brim-grow-light-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -29,6 +30,14 @@ amazonProducts:
 植物育成ライトを選ぶとき「バータイプとスポットタイプ、どちらがいい？」と迷う方は多いです。結論からいうと、**複数の植物をまとめて照らしたい・棚やラックで管理したい場合はバータイプが圧倒的に向いています。**
 
 この記事では、バータイプ育成ライトの選び方とおすすめ5選を解説します。
+
+> **育成ライト記事の読み分け**：目的に合う記事からどうぞ。
+
+| 記事 | 内容 |
+|---|---|
+| [総合](/review/plant-light-review) | 観葉植物・ビカクシダ向けの選び方と、タイプ横断のおすすめ5選 |
+| **バータイプ特化（この記事）** | 棚・複数株を照らすバー型だけを5機種比較 |
+| [BRIM専門](/review/brim-grow-light-comparison) | 国内ブランドBRIMの3機種（PANEL A・SOL 24W・FLORA）の選び分け |
 
 ## バータイプとスポットタイプの違い
 

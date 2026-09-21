@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/monstera-care"
   - "guide/alocasia-care-guide"
   - "review/circulator-for-houseplants-review"
+  - "review/bar-type-grow-light-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -52,6 +53,14 @@ amazonProducts:
 室内で観葉植物を育てていると、「光が足りていないのでは」と感じる場面は少なくない。窓から離れた棚に置いた株が徒長する、新葉が小さくなる、斑入り品種の斑が薄れる——こうした症状の多くは光量不足に起因している。植物育成ライトはこの問題に対する有効な手段だが、製品ごとにスペックの表記方法が異なり、何を基準に選べばよいか分かりにくいのが現状である。この記事では、観葉植物の室内管理に必要な光の基礎知識を整理したうえで、タイプ別に5製品を比較レビューする。
 
 ---
+
+> **育成ライト記事の読み分け**：目的に合う記事からどうぞ。
+
+| 記事 | 内容 |
+|---|---|
+| **総合（この記事）** | 観葉植物・ビカクシダ向けの選び方と、タイプ横断のおすすめ5選 |
+| [バータイプ特化](/review/bar-type-grow-light-comparison) | 棚・複数株を照らすバー型だけを5機種比較 |
+| [BRIM専門](/review/brim-grow-light-comparison) | 国内ブランドBRIMの3機種（PANEL A・SOL 24W・FLORA）の選び分け |
 
 ## 結論
 
