@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "research/humidity-and-leaf-damage-thresholds"
   - "research/houseplant-origin-temperature-database"
+  - "research/chilling-injury-tropical-houseplants-science"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

@@ -18,6 +18,7 @@ relatedSlugs:
   - soil/hydroculture-medium-comparison
   - guide/bottom-watering-houseplants
   - soil/improve-drainage-for-houseplants
+  - soil/pumice-hyuga-soil-for-houseplants
   - soil/drainage-stones-guide
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』

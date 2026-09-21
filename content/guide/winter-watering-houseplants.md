@@ -12,6 +12,9 @@ relatedSlugs:
   - "soil/when-to-replace-soil"
   - "soil/mold-on-houseplant-soil"
   - "guide/autumn-winter-humidity-drop-prep"
+  - "guide/monstera-winter-care"
+  - "guide/anthurium-winter-care"
+  - "guide/hydroculture-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

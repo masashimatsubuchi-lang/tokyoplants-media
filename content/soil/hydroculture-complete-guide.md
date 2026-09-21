@@ -20,6 +20,7 @@ relatedSlugs:
   - "guide/no-bugs-houseplant-growing"
   - "guide/hydroculture-to-soil-transition"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/hydroculture-winter-care"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"

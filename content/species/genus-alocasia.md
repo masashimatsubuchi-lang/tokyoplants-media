@@ -27,6 +27,7 @@ relatedSlugs:
   - "guide/alocasia-summer-care"
   - "guide/jewel-alocasia-types-comparison"
   - "guide/cats-and-houseplants-safety"
+  - "species/alocasia-stingray"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/monstera-propagation-cutting-guide"
   - "guide/monstera-yellow-leaves"
   - "guide/monstera-brown-spots-on-leaves"
+  - "guide/monstera-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

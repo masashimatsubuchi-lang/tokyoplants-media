@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/monstera-repotting-guide"
   - "guide/monstera-hydroculture"
   - "soil/best-soil-for-monstera"
+  - "species/monstera-esqueleto"
 baseProducts:
   - title: "Monstera obliqua Peru｜モンステラ・オブリクア"
     url: "https://www.tokyoplants.com/items/136047583"

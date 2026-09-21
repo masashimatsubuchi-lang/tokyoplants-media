@@ -10,6 +10,7 @@ relatedSlugs:
   - "review/fungus-gnat-control-products-comparison"
   - "review/houseplant-pest-control-tools"
   - "guide/autumn-winter-humidity-drop-prep"
+  - "guide/bringing-plants-indoors-timing"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

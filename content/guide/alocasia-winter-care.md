@@ -11,6 +11,8 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "guide/alocasia-hydroculture"
   - "guide/winter-watering-houseplants"
+  - "species/alocasia-stingray"
+  - "guide/bringing-plants-indoors-timing"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
