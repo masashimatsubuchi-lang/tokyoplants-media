@@ -10,6 +10,8 @@ import ArticleCard from "./ArticleCard";
 import BaseProductBlock from "./BaseProductBlock";
 import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
 import CharacterNote from "./CharacterNote";
+import ArticleBlock from "./ArticleBlocks";
+import { BLOCK_NAMES, parseBlock, type BlockName, type ParsedBlock } from "@/lib/articleBlocks";
 import ComparisonSummary, { ComparisonOption } from "./ComparisonSummary";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
@@ -34,6 +36,7 @@ type ContentSegment =
   | { type: "html"; html: string }
   | { type: "note"; character: string; noteType: string; innerHtml: string }
   | { type: "banner"; placement?: "inline" | "contextual" }
+  | { type: "block"; block: ParsedBlock }
   | { type: "comparison"; title: string; left: ComparisonOption; right: ComparisonOption };
 
 function parseMarkerAttrs(raw: string): Record<string, string> {
@@ -68,8 +71,14 @@ function parseComparisonAttrs(raw: string): { title: string; left: ComparisonOpt
  * contentHtml に残る（character-noteの内側テキストは通常のMarkdown段落として <p> 化される）。
  */
 function splitContentMarkers(html: string): ContentSegment[] {
-  const pattern =
-    /<!--\s*character-note\s+character="([a-z]+)"\s+type="([a-z]+)"\s*-->([\s\S]*?)<!--\s*\/character-note\s*-->|<!--\s*comparison-summary\s+([\s\S]*?)-->|<!--\s*(product-banner)\s*-->/g;
+  const blockAlt = BLOCK_NAMES.join("|");
+  const pattern = new RegExp(
+    String.raw`<!--\s*character-note\s+character="([a-z]+)"\s+type="([a-z]+)"\s*-->([\s\S]*?)<!--\s*\/character-note\s*-->` +
+      String.raw`|<!--\s*comparison-summary\s+([\s\S]*?)-->` +
+      String.raw`|<!--\s*(product-banner)\s*-->` +
+      String.raw`|<!--\s*(${blockAlt})(\s+[^>]*?)?\s*-->([\s\S]*?)<!--\s*\/\6\s*-->`,
+    "g",
+  );
   const segments: ContentSegment[] = [];
   let lastIndex = 0;
   let match: RegExpExecArray | null;
@@ -82,6 +91,12 @@ function splitContentMarkers(html: string): ContentSegment[] {
     } else if (match[5] !== undefined) {
       // `<!-- product-banner -->`: 記事側で商品バナーの位置を明示指定する（文脈に合う場所に置く）
       segments.push({ type: "banner", placement: "contextual" });
+    } else if (match[6] !== undefined) {
+      // 視覚ブロック（key-facts / stats / steps / callout / cards / calendar）→ src/lib/articleBlocks.ts
+      segments.push({
+        type: "block",
+        block: parseBlock(match[6] as BlockName, parseMarkerAttrs(match[7] ?? ""), match[8] ?? ""),
+      });
     } else {
       segments.push({ type: "comparison", ...parseComparisonAttrs(match[4]) });
     }
@@ -280,6 +295,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 }
                 if (seg.type === "comparison") {
                   return <ComparisonSummary key={i} title={seg.title} left={seg.left} right={seg.right} />;
+                }
+                if (seg.type === "block") {
+                  return <ArticleBlock key={i} block={seg.block} />;
                 }
                 return (
                   <CharacterNote key={i} character={seg.character} type={seg.noteType} html={seg.innerHtml} />
