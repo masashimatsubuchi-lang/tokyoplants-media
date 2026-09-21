@@ -2,6 +2,8 @@ import { BaseProduct } from "@/lib/posts";
 
 interface Props {
   products: BaseProduct[];
+  /** utm_content に載せる設置位置。自動挿入は "inline"、本文の `<!-- product-banner -->` 指定は "contextual" */
+  placement?: "inline" | "contextual";
 }
 
 type ProductType = "soil" | "hydro" | "warocqueanum" | "regale" | "holygrail" | "towel";
@@ -77,14 +79,14 @@ export function hasInlineProduct(products?: BaseProduct[]): boolean {
   return products.some((p) => detectType(p) !== null);
 }
 
-export default function InlineProductBanner({ products }: Props) {
+export default function InlineProductBanner({ products, placement = "inline" }: Props) {
   const primary = pickPrimary(products);
   if (!primary) return null;
 
   const { product, type: productType, meta } = primary;
   const isSoldOut = product.price === "SOLD OUT";
   const campaignMap: Record<string, string> = { soil: "original-soil", hydro: "hydro-mineral", towel: "botanical-towel" };
-  const productUrl = (() => { const u = new URL(product.url); u.searchParams.set("utm_source","media"); u.searchParams.set("utm_medium","article"); u.searchParams.set("utm_campaign", campaignMap[productType] ?? "other"); u.searchParams.set("utm_content", "inline"); return u.toString(); })();
+  const productUrl = (() => { const u = new URL(product.url); u.searchParams.set("utm_source","media"); u.searchParams.set("utm_medium","article"); u.searchParams.set("utm_campaign", campaignMap[productType] ?? "other"); u.searchParams.set("utm_content", placement); return u.toString(); })();
 
   return (
     <div className="not-prose my-8 rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-50 to-white p-1">

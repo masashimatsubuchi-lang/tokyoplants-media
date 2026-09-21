@@ -33,7 +33,7 @@ function stripHtml(text: string): string {
 type ContentSegment =
   | { type: "html"; html: string }
   | { type: "note"; character: string; noteType: string; innerHtml: string }
-  | { type: "banner" }
+  | { type: "banner"; placement?: "inline" | "contextual" }
   | { type: "comparison"; title: string; left: ComparisonOption; right: ComparisonOption };
 
 function parseMarkerAttrs(raw: string): Record<string, string> {
@@ -69,7 +69,7 @@ function parseComparisonAttrs(raw: string): { title: string; left: ComparisonOpt
  */
 function splitContentMarkers(html: string): ContentSegment[] {
   const pattern =
-    /<!--\s*character-note\s+character="([a-z]+)"\s+type="([a-z]+)"\s*-->([\s\S]*?)<!--\s*\/character-note\s*-->|<!--\s*comparison-summary\s+([\s\S]*?)-->/g;
+    /<!--\s*character-note\s+character="([a-z]+)"\s+type="([a-z]+)"\s*-->([\s\S]*?)<!--\s*\/character-note\s*-->|<!--\s*comparison-summary\s+([\s\S]*?)-->|<!--\s*(product-banner)\s*-->/g;
   const segments: ContentSegment[] = [];
   let lastIndex = 0;
   let match: RegExpExecArray | null;
@@ -79,6 +79,9 @@ function splitContentMarkers(html: string): ContentSegment[] {
     }
     if (match[1] !== undefined) {
       segments.push({ type: "note", character: match[1], noteType: match[2], innerHtml: match[3] });
+    } else if (match[5] !== undefined) {
+      // `<!-- product-banner -->`: 記事側で商品バナーの位置を明示指定する（文脈に合う場所に置く）
+      segments.push({ type: "banner", placement: "contextual" });
     } else {
       segments.push({ type: "comparison", ...parseComparisonAttrs(match[4]) });
     }
@@ -95,6 +98,8 @@ function splitContentMarkers(html: string): ContentSegment[] {
  * 読者が結論本文を読む前に商品バナーが割り込む形になっていたため、2026-09-17に位置を変更。
  * H2が1つしかない記事は最初の </h2> 直後にフォールバックし、H2が無ければ末尾に追加する。 */
 function insertBannerAfterFirstSection(segments: ContentSegment[]): ContentSegment[] {
+  // 記事本文に `<!-- product-banner -->` がある場合は自動挿入しない（手動位置を優先）
+  if (segments.some((s) => s.type === "banner")) return segments;
   const result: ContentSegment[] = [];
   let h2Count = 0;
   let inserted = false;
@@ -269,7 +274,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   return seg.html ? <div key={i} dangerouslySetInnerHTML={{ __html: seg.html }} /> : null;
                 }
                 if (seg.type === "banner") {
-                  return post.baseProducts ? <InlineProductBanner key={i} products={post.baseProducts} /> : null;
+                  return post.baseProducts ? (
+                    <InlineProductBanner key={i} products={post.baseProducts} placement={seg.placement ?? "inline"} />
+                  ) : null;
                 }
                 if (seg.type === "comparison") {
                   return <ComparisonSummary key={i} title={seg.title} left={seg.left} right={seg.right} />;
