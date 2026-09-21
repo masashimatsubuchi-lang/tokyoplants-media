@@ -60,6 +60,9 @@ baseProducts:
 - タオル掲載対象 → モンステラ・アンスリウム・アロカシア関連記事のみ `https://www.tokyoplants.com/items/135803882`（¥2,000）。⚠️例外（2026-09-10）：プレゼント・ギフト・インテリアなど、タオルそのものに興味がある読者層が読む記事は、モチーフ植物との一致に関わらず掲載可。単に対象属への言及があるだけで用途・主題がタオルと無関係な一般記事は対象外のまま
 - ⚠️ HYDRO MINERAL 2L `https://www.tokyoplants.com/items/142692278`（¥1,480）は、**アロカシア専用記事、または水耕栽培・ハイドロカルチャーへの切り替え/比較が記事の主題である場合のみ** baseProductsに追加する。「植え替え」「水やり」「エアコン対策」等の一般記事でハイドロを選択肢の一つとして触れる程度なら追加しない。SOILとHYDRO MINERALを両方載せると`InlineProductBanner`（結論直下のPICK UPバナー）が自動的にHYDRO側を優先表示してしまうため、無関係な一般記事に載せると誤った商品訴求になる（詳細: [feedback_soil_vs_hydro_product_priority.md](/Users/masashimatsubuchi/.claude/projects/-Users-masashimatsubuchi-my-first-project/memory/feedback_soil_vs_hydro_product_priority.md)）
 
+## 商品バナーの手動配置マーカー（2026-09-22追加）
+商品バナー（InlineProductBanner）は通常「結論セクション本文の直後」に自動挿入されるが、記事本文に `<!-- product-banner -->` を1行で書くと**その位置に**バナーが出て自動挿入は止まる（utm_content=contextual で計測される）。EC意図の薄い記事（100均・研究・図鑑の雑学寄り等）で、土や植え替えに話が及ぶ段落の直前に置くと文脈が合う。使うのは1記事1箇所まで。
+
 ## ⚠️キャラクター注釈（CharacterNote）の追加【必須・2026-09-09導入】
 Green Collection（観葉植物管理アプリ）のマスコットキャラクターを、記事内の「読者理解を助けるナビゲーター」として登場させる仕組み。**キャラクター注釈が1つも存在しない新規記事は未完成とみなす。** 単なる装飾・かわいい感想ではなく、本文を補足する情報価値のあるコメントを書くこと。
 
