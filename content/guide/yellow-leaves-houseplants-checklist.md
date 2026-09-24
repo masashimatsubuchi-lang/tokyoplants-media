@@ -14,6 +14,7 @@ relatedSlugs:
   - "soil/houseplant-soil-hub-guide"
   - "guide/pachira-yellow-leaves-falling"
   - "guide/monstera-brown-spots-on-leaves"
+  - "guide/leaf-symptoms-diagnosis-chart"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

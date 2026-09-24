@@ -13,6 +13,7 @@ relatedSlugs:
   - "guide/fungus-gnat-prevention-rainy-season"
   - "soil/bugs-in-houseplant-soil"
   - "review/houseplant-pest-control-tools"
+  - "guide/buying-houseplants-online-in-winter"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

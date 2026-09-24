@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/bugs-in-houseplant-soil"
   - "soil/neko-chip-vs-original-soil"
   - "guide/no-bugs-houseplant-growing"
+  - "guide/houseplant-pests-identification-chart"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

@@ -12,6 +12,7 @@ relatedSlugs:
   - "research/humidity-and-leaf-damage-thresholds"
   - "soil/bugs-in-houseplant-soil"
   - "review/houseplant-pest-control-tools"
+  - "guide/houseplant-pests-identification-chart"
 amazonProducts:
   - title: "フマキラー カダンセーフ 1000ml"
     asin: "B076CR3NC4"

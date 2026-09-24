@@ -18,6 +18,7 @@ relatedSlugs:
   - "guide/monstera-care"
   - "guide/monstera-repotting-guide"
   - "soil/best-soil-for-monstera"
+  - "species/variegated-monstera-types-comparison"
 baseProducts:
   - title: モンステラの商品一覧
     url: 'https://www.tokyoplants.com/categories/6382102'

@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/scale-insects-houseplants-control"
   - "soil/indoor-houseplant-soil"
   - "review/misting-bottle-review"
+  - "guide/houseplant-pests-identification-chart"
 amazonProducts:
   - title: "KINCHO園芸（旧:住友化学園芸） ベニカXファインスプレー 420ml"
     asin: "B003ULEF52"
