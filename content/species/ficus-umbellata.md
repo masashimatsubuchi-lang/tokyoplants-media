@@ -22,6 +22,13 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+siblings:
+  - slug: "guide/umbellata-care"
+    role: "育て方の実務"
+  - slug: "species/ficus-umbellata"
+    role: "図鑑・品種情報"
+  - slug: "soil/best-soil-for-umbellata"
+    role: "土の選び方"
 ---
 
 # フィカス・ウンベラータ｜大きなハート型の葉が人気のインテリアグリーン

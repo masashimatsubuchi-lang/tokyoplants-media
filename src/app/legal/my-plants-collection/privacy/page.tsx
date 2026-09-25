@@ -12,7 +12,7 @@ export default function PrivacyPolicyPage() {
       <p className="mt-4 text-sm text-gray-500">
         制定日: 2026年7月14日
         <br />
-        最終改定日: 2026年8月17日
+        最終改定日: 2026年8月21日
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -101,11 +101,22 @@ export default function PrivacyPolicyPage() {
                     Apple社および決済管理事業者（第5項参照）
                   </td>
                 </tr>
+                <tr>
+                  <td className="border border-gray-200 px-3 py-2">
+                    位置情報（緯度・経度）
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    屋外で育てる植物の水やり間隔を天気に合わせて調整する設定を保存したとき、端末の位置情報から一度だけ取得
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    保存しません。取得のつど気象情報サービスへ送信（第4項参照）
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
           <p className="mt-2">
-            本アプリは、位置情報・連絡先・端末の識別子等、上記に記載のない情報を取得しません。
+            本アプリは、連絡先・端末の識別子等、上記に記載のない情報を取得しません。
           </p>
         </section>
 
@@ -180,8 +191,25 @@ export default function PrivacyPolicyPage() {
             </a>
             ）をご確認ください。
           </p>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-3. 天気に応じた水やり調整機能
+          </h3>
           <p className="mt-2">
-            これらの機能を利用しない場合、写真データが外部に送信されることはありません。
+            屋外で育てる植物について「天気に合わせて水やり間隔を調整する」設定を有効にした場合に限り、設定を保存する時点の位置情報（緯度・経度）が、気象情報サービス「OpenWeatherMap」（OpenWeather
+            Ltd.が提供）へ送信されます。これは、その場所の降雨予報を取得して水やりの間隔に反映するために必要な処理です。
+          </p>
+          <p className="mt-2">
+            位置情報の取得は設定を保存する時点の一度のみで、継続的な追跡は行いません。また、送信された位置情報を当方が保存・二次利用することはありません。OpenWeatherMap側での取り扱いについては、OpenWeatherのプライバシーポリシー（
+            <a
+              className="text-emerald-700 underline"
+              href="https://openweather.co.uk/privacy-policy"
+            >
+              https://openweather.co.uk/privacy-policy
+            </a>
+            ）をご確認ください。
+          </p>
+          <p className="mt-2">
+            これらの機能を利用しない場合、写真データや位置情報が外部に送信されることはありません。
           </p>
         </section>
 
@@ -211,10 +239,29 @@ export default function PrivacyPolicyPage() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            6. Cookie等のトラッキング技術について
+            6. Cookie等のトラッキング技術・利用状況の分析について
           </h2>
           <p className="mt-2">
             本アプリはネイティブアプリケーションであり、Cookieを使用しません。また、広告配信のためのトラッキングは行っていません。
+          </p>
+          <p className="mt-2">
+            アプリの改善のため、機能の利用状況の分析に Amplitude, Inc.
+            のサービスを利用しています。送信されるのは、アプリ内で行われた操作の種類（ログイン・植物の登録・お世話の記録・料金プラン画面の表示・購入など）と、その操作に付随する情報（利用したログイン方法、記録したお世話の種類、操作した画面の名称、選択したプランの種別）、ならびに端末とアプリの情報（アプリのバージョン、OSのバージョン、端末の種類、言語、IPアドレスから推定される国・地域、匿名の識別子）です。あわせて、ご契約中のプラン（Free／Pro）・登録されている植物の株数・通知の許可状態・ログインの有無を、利用状況を分類するための情報として送信します。
+          </p>
+          <p className="mt-2">
+            <strong>
+              ユーザーが入力・撮影した内容そのもの（植物のニックネーム・写真・メモ・購入金額・購入場所）、氏名、メールアドレス、ともだちに関する情報は送信されません。また、画面の録画（セッションリプレイ）は行っていません。
+            </strong>
+          </p>
+          <p className="mt-2">
+            Amplitudeでの取り扱いについては、Amplitudeのプライバシーポリシー（
+            <a
+              className="text-emerald-700 underline"
+              href="https://amplitude.com/privacy"
+            >
+              https://amplitude.com/privacy
+            </a>
+            ）をご確認ください。
           </p>
         </section>
 

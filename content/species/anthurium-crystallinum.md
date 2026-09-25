@@ -26,6 +26,11 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+siblings:
+  - slug: "guide/anthurium-crystallinum-care-guide"
+    role: "育て方の実務"
+  - slug: "species/anthurium-crystallinum"
+    role: "図鑑・品種情報"
 ---
 
 # アンスリウム・クリスタリナム｜銀葉脈が美しい葉ものアンスリウムの育て方

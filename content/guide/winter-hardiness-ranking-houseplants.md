@@ -22,6 +22,19 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+hubIndex:
+  title: "冬の管理に関する記事一覧"
+  groups:
+    - label: "冬の基本と置き場所"
+      match: "^guide/(winter-watering|winter-placement|winter-dont-do-list|bringing-plants-indoors|autumn-winter-humidity)"
+    - label: "冬のトラブルと対処"
+      match: "^guide/(winter-leaf-drop|winter-emergency|winter-heating-appliances)"
+    - label: "植物別の冬越し"
+      match: "^guide/(alocasia-winter|anthurium-winter|monstera-winter|platycerium-winter|caudex-plant-winter|hydroculture-winter)"
+    - label: "冬の道具・設備"
+      match: "^review/(winter-insulation|winter-humidity-control|heat-mat|greenhouse-heater|grow-tent)"
+    - label: "仕組みを知る"
+      match: "^research/(chilling-injury|winter-heating-and-leaf|winter-survival-map|caudex-plant-winter)"
 ---
 
 「うちの観葉植物、この冬は外に出しっぱなしで大丈夫？」「何種類も育てていて、どれから室内に入れるべきか分からない」。観葉植物の冬越しで最初につまずくのは、実は植え方や水やりのテクニックよりも「そもそもこの植物はどこまで寒さに耐えられるのか」という基本情報の不足です。この記事では、代表的な観葉植物の耐寒性を大まかにランキング化し、冬越し管理の基本原則を解説します。個別の植物ごとの詳しい冬越し方法は、記事内のリンク先も併せて参考にしてください。

@@ -21,6 +21,13 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/umbellata-care"
+    role: "育て方の実務"
+  - slug: "species/ficus-umbellata"
+    role: "図鑑・品種情報"
+  - slug: "soil/best-soil-for-umbellata"
+    role: "土の選び方"
 ---
 
 ウンベラータは大きなハート形の葉と白い幹が美しく、インテリアグリーンとして絶大な人気を誇ります。しかし「なんとなく観葉植物の土」を使っていると、あっという間に根腐れを起こしたり、逆に水切れで葉が落ちたりします。

@@ -43,6 +43,29 @@ export interface PostMeta {
   hideAmazonBlock?: boolean;
   /** 記事下のアプリCTAに出す、その記事の文脈に沿った一言。未設定の記事にはCTAを出さない */
   appCta?: string;
+  /**
+   * まとめ（ハブ）記事が、配下の記事を自動で一覧表示するための設定。
+   * 記事が増えても手でリンクを足す必要がないようにする。
+   */
+  hubIndex?: HubIndexConfig;
+  /**
+   * 同じ検索意図を奪い合いやすい姉妹記事。冒頭に「読み分け」ナビを出す。
+   * 自分自身を含めてもよい（現在地として太字表示される）。
+   */
+  siblings?: SiblingRef[];
+}
+
+export interface HubIndexConfig {
+  /** 見出し。未指定なら「この記事から探せる関連記事」 */
+  title?: string;
+  /** 表示するグループ。match は slug（"category/slug"）に対する正規表現 */
+  groups: { label: string; match: string; exclude?: string[] }[];
+}
+
+export interface SiblingRef {
+  slug: string;
+  /** その記事の役割（「育て方の実務」「品種の基本情報」など） */
+  role: string;
 }
 
 export interface Post extends PostMeta {
@@ -72,6 +95,8 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
       authorId: data.authorId,
       image: data.image,
       genus: data.genus,
+      hubIndex: data.hubIndex,
+      siblings: data.siblings,
       tags: data.tags,
       relatedSlugs: data.relatedSlugs,
       baseProducts: data.baseProducts,
@@ -115,6 +140,8 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
     authorId: data.authorId,
     image: data.image,
     genus: data.genus,
+    hubIndex: data.hubIndex,
+    siblings: data.siblings,
     tags: data.tags,
     relatedSlugs: data.relatedSlugs,
     baseProducts: data.baseProducts,
@@ -171,4 +198,31 @@ export function getSpeciesByGenus(genusSlug: string): PostMeta[] {
   const genusKey = genusSlug.replace("genus-", "");
   return getPostsByCategory("species")
     .filter((p) => !p.slug.startsWith("genus-") && p.genus === genusKey);
+}
+
+
+/**
+ * hubIndex の match（slug に対する正規表現）にあてはまる記事を返す。
+ * 記事を追加しただけでハブ側の一覧に載るようにするための関数。
+ */
+export function getPostsForHubIndex(
+  config: HubIndexConfig,
+  selfSlug: string,
+): { label: string; posts: PostMeta[] }[] {
+  const cats: CategorySlug[] = ["guide", "soil", "research", "review", "species"];
+  const all = cats.flatMap((c) => getPostsByCategory(c));
+  const used = new Set<string>([selfSlug]);
+  return config.groups.map((g) => {
+    const re = new RegExp(g.match);
+    const posts = all
+      .filter((p) => {
+        const key = `${p.category}/${p.slug}`;
+        if (used.has(key)) return false;
+        if (g.exclude?.includes(key)) return false;
+        return re.test(key);
+      })
+      .sort((a, b) => a.title.localeCompare(b.title, "ja"));
+    for (const p of posts) used.add(`${p.category}/${p.slug}`);
+    return { label: g.label, posts };
+  });
 }

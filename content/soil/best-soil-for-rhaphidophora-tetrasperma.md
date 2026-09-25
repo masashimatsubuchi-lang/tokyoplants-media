@@ -15,6 +15,13 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/rhaphidophora-tetrasperma-care"
+    role: "育て方の実務"
+  - slug: "species/rhaphidophora-tetrasperma"
+    role: "図鑑・品種情報"
+  - slug: "soil/best-soil-for-rhaphidophora-tetrasperma"
+    role: "土の選び方"
 ---
 
 「ミニモンステラの成長が早くて、すぐ根詰まりしてしまう」「土は何を使えばいいの？」——ラフィドフォラ・テトラスペルマ（通称ミニモンステラ）はモンステラに似た穴あき葉が魅力ですが、成長速度が非常に速いため、土選びと植え替えサイクルを誤ると根詰まりや葉の小型化を招きやすい植物です。

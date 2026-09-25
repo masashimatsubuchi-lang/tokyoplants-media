@@ -12,7 +12,7 @@ export default function PrivacyPolicyPageEn() {
       <p className="mt-4 text-sm text-gray-500">
         Effective date: July 14, 2026
         <br />
-        Last updated: August 17, 2026
+        Last updated: August 21, 2026
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -110,11 +110,24 @@ export default function PrivacyPolicyPageEn() {
                     Apple Inc. and our subscription-management provider (see Section 5)
                   </td>
                 </tr>
+                <tr>
+                  <td className="border border-gray-200 px-3 py-2">
+                    Location (latitude and longitude)
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    Retrieved once from your device when you save the setting to adjust the
+                    watering interval of an outdoor plant based on the weather
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    Not stored. Sent to a weather information service each time it is retrieved
+                    (see Section 4)
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
           <p className="mt-2">
-            The App does not collect location data, contacts, device identifiers, or any other
+            The App does not collect contacts, device identifiers, or any other
             information not listed above.
           </p>
         </section>
@@ -214,8 +227,32 @@ export default function PrivacyPolicyPageEn() {
             </a>
             ).
           </p>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-3. Weather-Based Watering Adjustment
+          </h3>
           <p className="mt-2">
-            If you do not use these features, no photo data is sent externally.
+            Only if you enable the &quot;adjust watering interval based on the weather&quot;
+            setting for a plant you keep outdoors, your location (latitude and longitude) at the
+            time you save that setting is sent to the weather information service
+            &quot;OpenWeatherMap&quot; (provided by OpenWeather Ltd.). This is necessary to
+            retrieve the rainfall forecast for that location and reflect it in the watering
+            interval.
+          </p>
+          <p className="mt-2">
+            Your location is retrieved only once, at the time you save the setting; we do not
+            continuously track it. We do not store or otherwise reuse the location data that is
+            sent. For information on how OpenWeatherMap handles data, please see OpenWeather&apos;s
+            Privacy Policy (
+            <a
+              className="text-emerald-700 underline"
+              href="https://openweather.co.uk/privacy-policy"
+            >
+              https://openweather.co.uk/privacy-policy
+            </a>
+            ).
+          </p>
+          <p className="mt-2">
+            If you do not use these features, no photo data or location data is sent externally.
           </p>
         </section>
 
@@ -246,11 +283,42 @@ export default function PrivacyPolicyPageEn() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            6. Cookies and Other Tracking Technologies
+            6. Cookies, Tracking Technologies, and Usage Analytics
           </h2>
           <p className="mt-2">
             The App is a native application and does not use cookies. We do not perform any
             tracking for advertising purposes.
+          </p>
+          <p className="mt-2">
+            To improve the App, we use services provided by Amplitude, Inc. to analyze how
+            features are used. The information sent consists of the type of action taken in the
+            App (signing in, registering a plant, recording care, viewing the subscription
+            screen, making a purchase, and similar actions), attributes accompanying that action
+            (the sign-in method used, the type of care recorded, the name of the screen used, and
+            the plan type selected), and device and app information (app version, OS version,
+            device model, language, country or region inferred from your IP address, and an
+            anonymous identifier). We also send your current plan (Free or Pro), the number of
+            plants you have registered, your notification permission status, and whether you are
+            signed in, in order to categorize usage.
+          </p>
+          <p className="mt-2">
+            <strong>
+              Content you enter or capture yourself — plant nicknames, photos, notes, purchase
+              amounts, and places of purchase — as well as your name, email address, and any
+              information about your friends, is not sent. We also do not perform screen
+              recording (session replay).
+            </strong>
+          </p>
+          <p className="mt-2">
+            For details on how Amplitude handles this information, please see Amplitude's privacy
+            policy (
+            <a
+              className="text-emerald-700 underline"
+              href="https://amplitude.com/privacy"
+            >
+              https://amplitude.com/privacy
+            </a>
+            ).
           </p>
         </section>
 

@@ -18,6 +18,13 @@ baseProducts:
   - title: "tokyoplants ステファニア一覧"
     url: "https://www.tokyoplants.com/categories/6382099"
     price: ""
+siblings:
+  - slug: "guide/stephania-kaweesakii-complete-guide"
+    role: "育て方の完全ガイド"
+  - slug: "guide/stephania-kaweesakii-care"
+    role: "水やり・休眠の実務"
+  - slug: "species/stephania-kaweesakii"
+    role: "図鑑・品種情報"
 ---
 
 # ステファニア・カウィーサキ完全ガイド｜育て方・塊根管理・休眠・よくある失敗まで

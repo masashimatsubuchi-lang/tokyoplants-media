@@ -17,6 +17,13 @@ baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"
     price: ""
+siblings:
+  - slug: "guide/stephania-kaweesakii-complete-guide"
+    role: "育て方の完全ガイド"
+  - slug: "guide/stephania-kaweesakii-care"
+    role: "水やり・休眠の実務"
+  - slug: "species/stephania-kaweesakii"
+    role: "図鑑・品種情報"
 ---
 
 # ステファニア・カウィーサキ｜丸い塊根と透明感のある葉の図鑑

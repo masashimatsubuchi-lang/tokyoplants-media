@@ -38,6 +38,17 @@ amazonProducts:
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     price: "¥2,448"
+hubIndex:
+  title: "ハイドロカルチャー関連の記事一覧"
+  groups:
+    - label: "基礎と比較"
+      match: "^soil/(hydroculture-vs-soil|hydroponics-vs-hydroculture|hydroculture-medium|semi-hydro|growing-houseplants-without-soil|soil-to-hydroculture)"
+    - label: "肥料・管理"
+      match: "^soil/hydroculture-fertilizer|^guide/hydroculture-winter-care"
+    - label: "植物別"
+      match: "^guide/[a-z-]+-hydroculture$"
+    - label: "道具"
+      match: "^review/(hydroculture-|hydroponic-kit)"
 ---
 
 # 観葉植物のハイドロカルチャー完全ガイド｜培地・水管理・植物別の育て方まで

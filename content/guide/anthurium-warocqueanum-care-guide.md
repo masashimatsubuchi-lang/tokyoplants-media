@@ -22,6 +22,13 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/anthurium-warocqueanum-care-guide"
+    role: "葉先枯れの対処"
+  - slug: "species/anthurium-warocqueanum"
+    role: "図鑑・品種情報"
+  - slug: "guide/anthurium-warocqueanum-humidity-setup"
+    role: "湿度環境の作り方"
 ---
 
 1mを超える剣状のベルベット葉に、白銀の葉脈が走る——アンスリウム・ワロクアーナムは、観葉植物の中でも別格の存在感を持つ希少種です。「Queen Anthurium」の異名のとおり、育てれば育てるほど圧倒的な姿になります。

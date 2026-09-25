@@ -13,6 +13,11 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/philodendron-birkin-care"
+    role: "育て方の実務"
+  - slug: "species/philodendron-birkin"
+    role: "図鑑・品種情報"
 ---
 
 白いストライプ模様が美しいフィロデンドロン・バーキンは、コンパクトな自立型で人気の斑入り品種です。しかし育てているうちに「新しく出てくる葉に白い模様が入らない」「気づいたら緑一色の葉ばかりになっていた」という悩みを抱える方は少なくありません。この記事では、バーキンの基本の育て方に加えて、斑が消える「先祖返り（リバージョン）」の原因と対策を中心に解説します。フィロデンドロン全般の育て方は[フィロデンドロン初心者におすすめの品種5選](/guide/philodendron-for-beginners)も参考にしてください。

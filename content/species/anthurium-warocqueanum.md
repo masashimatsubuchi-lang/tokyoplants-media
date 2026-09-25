@@ -27,6 +27,13 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+siblings:
+  - slug: "guide/anthurium-warocqueanum-care-guide"
+    role: "葉先枯れの対処"
+  - slug: "species/anthurium-warocqueanum"
+    role: "図鑑・品種情報"
+  - slug: "guide/anthurium-warocqueanum-humidity-setup"
+    role: "湿度環境の作り方"
 ---
 
 # アンスリウム・ワロクアーナム｜クイーンアンスリウムの特徴と育て方図鑑

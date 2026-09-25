@@ -30,6 +30,11 @@ baseProducts:
   - title: Daily Botanical Towel｜リーフタオル
     url: 'https://www.tokyoplants.com/items/135803882'
     price: '¥2,000'
+siblings:
+  - slug: "guide/anthurium-regale-care-guide"
+    role: "育て方の実務"
+  - slug: "species/anthurium-regale"
+    role: "図鑑・品種情報"
 ---
 
 # アンスリウム・レガレ｜横幅のある重厚なベルベット葉の特徴と育て方

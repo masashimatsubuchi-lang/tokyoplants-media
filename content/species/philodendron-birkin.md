@@ -17,6 +17,11 @@ baseProducts:
   - title: "tokyoplants Philodendron｜フィロデンドロン一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+siblings:
+  - slug: "guide/philodendron-birkin-care"
+    role: "育て方の実務"
+  - slug: "species/philodendron-birkin"
+    role: "図鑑・品種情報"
 ---
 
 # フィロデンドロン・バーキンの特徴と育て方

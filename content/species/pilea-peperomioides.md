@@ -17,6 +17,11 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+siblings:
+  - slug: "guide/pilea-peperomioides-care"
+    role: "育て方の実務"
+  - slug: "species/pilea-peperomioides"
+    role: "図鑑・品種情報"
 ---
 
 # ピレア・ペペロミオイデス｜コインのような丸葉が可愛いパンケーキプランツ図鑑

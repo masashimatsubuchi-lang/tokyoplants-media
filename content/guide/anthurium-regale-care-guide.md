@@ -27,6 +27,11 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+siblings:
+  - slug: "guide/anthurium-regale-care-guide"
+    role: "育て方の実務"
+  - slug: "species/anthurium-regale"
+    role: "図鑑・品種情報"
 ---
 
 横幅のある重厚なハート型の葉に、白銀の葉脈が放射状に走る——アンスリウム・レガレは「王にふさわしい」を意味する学名どおり、ベルベットアンスリウムの中でも圧倒的な存在感を持つ種です。

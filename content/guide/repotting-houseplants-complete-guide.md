@@ -33,6 +33,17 @@ amazonProducts:
     asin: "B092JRTWBX"
     note: "鉢底の穴をふさぐネット。土こぼれ・虫の侵入防止に"
     price: "¥300〜"
+hubIndex:
+  title: "植え替えに関する記事一覧"
+  groups:
+    - label: "時期・判断"
+      match: "^guide/(best-time-to-repot|repotting-signs|when-to-repot|zamioculcas-repotting-signs|repotting-after-purchase|winter-emergency-repotting)"
+    - label: "手順・道具"
+      match: "^guide/(how-to-trim-roots|repotting-tools|indoor-repotting|after-repotting)|^review/(repotting-mat|potting-trowel|pruning-shears)"
+    - label: "植物別の植え替え"
+      match: "^guide/[a-z-]+-repotting-guide$"
+    - label: "うまくいかないとき"
+      match: "^guide/(repotting-failure|plant-not-recovering|root-rot-causes)"
 ---
 
 観葉植物を育てていると「植え替え」は避けて通れません。しかし「いつやるの？」「やり方がわからない」「失敗したらどうしよう」と不安で後回しにしている方も多いはず。

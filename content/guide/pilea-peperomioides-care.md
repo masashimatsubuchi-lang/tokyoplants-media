@@ -16,6 +16,11 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/pilea-peperomioides-care"
+    role: "育て方の実務"
+  - slug: "species/pilea-peperomioides"
+    role: "図鑑・品種情報"
 ---
 
 # ピレア・ペペロミオイデスの育て方｜子株の増やし方

@@ -24,6 +24,11 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+siblings:
+  - slug: "guide/alocasia-holy-grail-care-guide"
+    role: "育て方の実務"
+  - slug: "species/alocasia-holy-grail"
+    role: "図鑑・品種情報"
 ---
 
 深みのある濃緑に隆起した葉脈、光の角度で表情が変わるメタリックな葉面——アロカシア・ホーリーグレイルは、ジュエルアロカシアの中でも「葉そのものが宝石」と称される希少種です。小型でも存在感は圧倒的で、一株あるだけでスペースが引き締まります。

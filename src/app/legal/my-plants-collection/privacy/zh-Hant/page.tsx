@@ -12,7 +12,7 @@ export default function PrivacyPolicyPageZhHant() {
       <p className="mt-4 text-sm text-gray-500">
         生效日期：2026年7月14日
         <br />
-        最後更新日期：2026年8月17日
+        最後更新日期：2026年8月21日
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -105,11 +105,22 @@ export default function PrivacyPolicyPageZhHant() {
                     Apple Inc. 及我方的訂閱管理服務商（詳見第5項）
                   </td>
                 </tr>
+                <tr>
+                  <td className="border border-gray-200 px-3 py-2">
+                    位置資訊（經緯度）
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    儲存「依天氣調整戶外植物澆水間隔」設定時，從裝置取得一次位置資訊
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    不會儲存。每次取得時傳送至氣象資訊服務（詳見第4項）
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
           <p className="mt-2">
-            本應用程式不會蒐集位置資訊、聯絡人、裝置識別碼，或任何上述未列出的資訊。
+            本應用程式不會蒐集聯絡人、裝置識別碼，或任何上述未列出的資訊。
           </p>
         </section>
 
@@ -196,7 +207,25 @@ export default function PrivacyPolicyPageZhHant() {
             </a>
             ）。
           </p>
-          <p className="mt-2">若您不使用這些功能，照片資料將不會傳送至外部。</p>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-3. 依天氣調整澆水功能
+          </h3>
+          <p className="mt-2">
+            僅於您為戶外栽培的植物啟用「依天氣調整澆水間隔」設定時，儲存該設定當下的位置資訊（經緯度）才會傳送至氣象資訊服務「OpenWeatherMap」（由
+            OpenWeather Ltd. 提供）。此為取得該地點降雨預報並反映於澆水間隔所需的處理。
+          </p>
+          <p className="mt-2">
+            位置資訊僅於儲存設定當下取得一次，我方不會持續追蹤。我方亦不會保存或另作他用所傳送的位置資訊。有關
+            OpenWeatherMap 如何處理資料，請參閱 OpenWeather 的隱私權政策（
+            <a
+              className="text-emerald-700 underline"
+              href="https://openweather.co.uk/privacy-policy"
+            >
+              https://openweather.co.uk/privacy-policy
+            </a>
+            ）。
+          </p>
+          <p className="mt-2">若您不使用這些功能，照片資料或位置資訊將不會傳送至外部。</p>
         </section>
 
         <section>
@@ -225,11 +254,32 @@ export default function PrivacyPolicyPageZhHant() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            6. Cookie 等追蹤技術
+            6. Cookie 等追蹤技術與使用狀況分析
           </h2>
           <p className="mt-2">
             本應用程式為原生應用程式，並不使用
             Cookie。我方亦不會為廣告投放目的進行任何追蹤。
+          </p>
+          <p className="mt-2">
+            為改善本應用程式，我方使用 Amplitude, Inc.
+            的服務分析功能的使用狀況。所傳送的資訊為應用程式內所進行操作的種類（登入、登錄植物、記錄照顧、顯示資費方案畫面、購買等），以及該操作的附隨資訊（所使用的登入方式、所記錄的照顧種類、所操作畫面的名稱、所選擇方案的種類），並包含裝置與應用程式的資訊（應用程式版本、作業系統版本、裝置種類、語言、依
+            IP
+            位址推定的國家與地區、匿名識別碼）。此外，為將使用狀況分類，我方亦會傳送您目前的方案（Free／Pro）、已登錄的植物數量、通知的許可狀態，以及是否已登入。
+          </p>
+          <p className="mt-2">
+            <strong>
+              使用者所輸入、拍攝的內容本身（植物的暱稱、照片、備註、購買金額、購買地點）、姓名、電子郵件地址，以及與好友相關的資訊，均不會被傳送。我方亦不會進行畫面錄製（工作階段重播）。
+            </strong>
+          </p>
+          <p className="mt-2">
+            關於 Amplitude 的處理方式，請參閱 Amplitude 的隱私權政策（
+            <a
+              className="text-emerald-700 underline"
+              href="https://amplitude.com/privacy"
+            >
+              https://amplitude.com/privacy
+            </a>
+            ）。
           </p>
         </section>
 

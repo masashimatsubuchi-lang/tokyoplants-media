@@ -21,6 +21,11 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/ficus-rubber-tree-care"
+    role: "育て方の実務"
+  - slug: "species/ficus-elastica"
+    role: "図鑑・品種情報"
 ---
 
 # ゴムの木（フィカス・エラスティカ）｜育て方と品種の選び方図鑑

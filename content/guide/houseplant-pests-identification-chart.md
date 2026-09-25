@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+hubIndex:
+  title: "害虫・虫対策の記事一覧"
+  groups:
+    - label: "害虫別の対策"
+      match: "^guide/(spider-mites|scale-insects|fungus-gnat|aphids|mealybug|thrips)"
+    - label: "土の中の虫"
+      match: "^soil/(bugs-in-houseplant-soil|white-particles)|^guide/types-of-soil-bugs"
+    - label: "予防"
+      match: "^guide/(bringing-plants-indoors-pest-check|quarantine-new-plant|no-bugs-houseplant)"
+    - label: "仕組み・道具"
+      match: "^research/fungus-gnat|^review/(fungus-gnat|houseplant-pest)"
 ---
 
 葉の裏に白い粉のようなものがついている。葉がベタベタする。触ったら小さな白い虫が舞った。観葉植物の害虫は種類によって見た目も症状も対処もまったく違うのに、「小さい虫」としか分からないまま手持ちの殺虫剤をかけて、効かずに広がってしまうケースがとても多い相談です。

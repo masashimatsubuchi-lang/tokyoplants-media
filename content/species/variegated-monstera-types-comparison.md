@@ -4,6 +4,7 @@ title: "斑入りモンステラの種類比較｜アルボ・タイコン・ミ
 description: "斑入りモンステラ7品種（アルボ・タイコンステレーション・ミント・イエローマリリン・ミラクル・オーレア・ボルシギアナミント）を斑の色・安定性・価格帯・難易度で比較。フルムーン・ハーフムーンなど斑のパターン解説と購入前チェックリスト付き。"
 date: "2026-09-22"
 category: "species"
+genus: "monstera"
 tags: ["モンステラ", "斑入り", "品種比較", "希少種", "バリエガータ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
@@ -27,6 +28,15 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+siblings:
+  - slug: "species/monstera-albo-variegata"
+    role: "アルボ単体"
+  - slug: "species/monstera-thai-constellation"
+    role: "タイコン単体"
+  - slug: "species/monstera-mint"
+    role: "ミント単体"
+  - slug: "species/variegated-monstera-types-comparison"
+    role: "7品種の比較"
 ---
 
 # 斑入りモンステラの種類比較｜アルボ・タイコン・ミント

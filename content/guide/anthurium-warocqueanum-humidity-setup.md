@@ -20,6 +20,13 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/anthurium-warocqueanum-care-guide"
+    role: "葉先枯れの対処"
+  - slug: "species/anthurium-warocqueanum"
+    role: "図鑑・品種情報"
+  - slug: "guide/anthurium-warocqueanum-humidity-setup"
+    role: "湿度環境の作り方"
 ---
 
 <mark>「ワロクアーナムの葉先が常に茶色くなる」——この悩みの原因のほとんどは**湿度不足**です。</mark>

@@ -28,6 +28,11 @@ baseProducts:
   - title: Alocasia 'Holy Grail'｜アロカシア・ホーリーグレイル
     url: 'https://www.tokyoplants.com/items/144787813'
     price: '¥8,000'
+siblings:
+  - slug: "guide/alocasia-holy-grail-care-guide"
+    role: "育て方の実務"
+  - slug: "species/alocasia-holy-grail"
+    role: "図鑑・品種情報"
 ---
 
 # アロカシア・ホーリーグレイル｜深色メタリック葉のジュエルアロカシア図鑑

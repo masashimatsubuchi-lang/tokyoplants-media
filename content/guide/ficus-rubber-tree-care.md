@@ -32,6 +32,11 @@ amazonProducts:
   - title: "ハイポネックス 錠剤肥料 観葉植物用 約70錠"
     asin: "B006LWGFBO"
     price: "¥600前後"
+siblings:
+  - slug: "guide/ficus-rubber-tree-care"
+    role: "育て方の実務"
+  - slug: "species/ficus-elastica"
+    role: "図鑑・品種情報"
 ---
 
 ゴムの木（*Ficus elastica*）は、クワ科フィカス属の常緑高木です。原産地は東南アジア〜インド北東部の熱帯雨林で、自然界では20〜30mに達します。観葉植物として日本に普及してから半世紀以上が経ち、丈夫さと葉の存在感から今もっとも安定した人気を誇る大型植物のひとつです。

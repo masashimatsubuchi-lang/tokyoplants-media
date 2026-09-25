@@ -19,6 +19,13 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+siblings:
+  - slug: "guide/stephania-kaweesakii-complete-guide"
+    role: "育て方の完全ガイド"
+  - slug: "guide/stephania-kaweesakii-care"
+    role: "水やり・休眠の実務"
+  - slug: "species/stephania-kaweesakii"
+    role: "図鑑・品種情報"
 ---
 
 ステファニア・カウィーサキは、丸い塊根から繊細なつると蓮のような丸葉を展開するコーデックス（塊根植物）です。見た目の可愛らしさで人気がありますが、一般的な観葉植物とは管理方法が大きく異なります。<mark>最大の失敗原因は「水のやりすぎによる塊根の腐り」。</mark>この記事では、カウィーサキを枯らさないための管理方法を優先度順に解説します。

@@ -14,6 +14,13 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/rhaphidophora-tetrasperma-care"
+    role: "育て方の実務"
+  - slug: "species/rhaphidophora-tetrasperma"
+    role: "図鑑・品種情報"
+  - slug: "soil/best-soil-for-rhaphidophora-tetrasperma"
+    role: "土の選び方"
 ---
 
 「ミニモンステラ」という名前で流通しているものの、実はモンステラ属ではなく別の属に分類される——それがラフィドフォラ・テトラスペルマ（*Rhaphidophora tetrasperma*）です。モンステラに似た切れ込み葉をコンパクトなサイズで楽しめる上に、成長速度が速く育てる実感を得やすいことから人気が高まっています。この記事では、テトラスペルマを枯らさず、かつ本来の切れ込みの深い葉姿に育てるための管理方法を解説します。モンステラ本種の育て方は[モンステラの育て方完全ガイド](/guide/monstera-care)、品種の詳細情報は[ラフィドフォラ・テトラスペルマの育て方図鑑](/species/rhaphidophora-tetrasperma)を参考にしてください。

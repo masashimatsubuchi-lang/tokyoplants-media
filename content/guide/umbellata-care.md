@@ -17,6 +17,13 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/umbellata-care"
+    role: "育て方の実務"
+  - slug: "species/ficus-umbellata"
+    role: "図鑑・品種情報"
+  - slug: "soil/best-soil-for-umbellata"
+    role: "土の選び方"
 ---
 
 # ウンベラータの育て方｜葉が落ちる原因と対策

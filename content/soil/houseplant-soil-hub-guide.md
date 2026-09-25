@@ -35,6 +35,19 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+hubIndex:
+  title: "観葉植物の土・用土の記事一覧"
+  groups:
+    - label: "植物別の土の選び方"
+      match: "^soil/best-soil-for-"
+    - label: "単一資材を知る"
+      match: "^soil/(akadama|kanuma|bellabon|zeolite|lava-rock|perlite|peat-moss|sphagnum|worm-castings|kunzan|pumice|drainage-stones|coffee-grounds)"
+    - label: "配合・置き換え・リサイクル"
+      match: "^soil/(aroid-mix|how-to-mix|recommended-soil|indoor-houseplant-soil|lightweight|organic-vs-inorganic|baiyoudo|cheap-vs|commercial-soil|protoleaf|soil-ph|soil-amount|how-to-dispose|reuse|repotting-soil|kokedama|mulching)"
+    - label: "ハイドロ・土を使わない栽培"
+      match: "^soil/(hydro|semi-hydro|growing-houseplants-without-soil)"
+    - label: "土のトラブル"
+      match: "^soil/(soil-smell|soil-turns-hard|mushroom|white-particles|bugs-in|how-to-check-soil-dryness)"
 ---
 
 <mark>観葉植物の管理で、もっとも差が出るのは「水やりの回数」ではなく「土の設計」です。</mark>葉が黄色くなる、成長が止まる、虫が出る、カビが出る、植え替え後に弱る。これらの不調は、それぞれ別問題に見えても、土の通気性・排水性・保水性・保肥性のバランスで説明できます。

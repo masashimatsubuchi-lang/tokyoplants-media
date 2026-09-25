@@ -25,6 +25,11 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+siblings:
+  - slug: "guide/anthurium-crystallinum-care-guide"
+    role: "育て方の実務"
+  - slug: "species/anthurium-crystallinum"
+    role: "図鑑・品種情報"
 ---
 
 ダークグリーンのビロード葉に、銀白色の葉脈が結晶のように浮かび上がる——アンスリウム・クリスタリナムは、ワロクアーナムやレガレと並んで「ベルベットアンスリウム」人気を牽引する定番種です。学名の由来どおり、光を受けて輝く葉脈の美しさは、育てるほどに存在感を増していきます。

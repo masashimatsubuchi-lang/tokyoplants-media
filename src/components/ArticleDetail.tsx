@@ -1,4 +1,4 @@
-import { Post, PostMeta, resolveRelatedPosts, getSameCategoryPosts, getSpeciesByGenus } from "@/lib/posts";
+import { Post, PostMeta, resolveRelatedPosts, getSameCategoryPosts, getSpeciesByGenus, getPostsForHubIndex } from "@/lib/posts";
 import { getCategoryBySlug } from "@/lib/categories";
 import ArticleJsonLd from "./ArticleJsonLd";
 import FaqJsonLd from "./FaqJsonLd";
@@ -11,6 +11,8 @@ import BaseProductBlock from "./BaseProductBlock";
 import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
 import CharacterNote from "./CharacterNote";
 import ArticleBlock from "./ArticleBlocks";
+import HubIndex from "./HubIndex";
+import SiblingNav from "./SiblingNav";
 import { BLOCK_NAMES, parseBlock, type BlockName, type ParsedBlock } from "@/lib/articleBlocks";
 import ComparisonSummary, { ComparisonOption } from "./ComparisonSummary";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
@@ -185,6 +187,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const sameCategoryPosts = getSameCategoryPosts(post.category, post.slug);
   const isGenusPage = post.slug.startsWith("genus-");
   const speciesPosts = isGenusPage ? getSpeciesByGenus(post.slug) : [];
+  const hubGroups = post.hubIndex ? getPostsForHubIndex(post.hubIndex, `${post.category}/${post.slug}`) : [];
+  const siblingMeta = post.siblings ? resolveRelatedPosts(post.siblings.map((s) => s.slug)) : [];
+  const siblingItems = (post.siblings ?? []).map((s) => ({
+    slug: s.slug,
+    role: s.role,
+    post: siblingMeta.find((m) => `${m.category}/${m.slug}` === s.slug) ?? null,
+  }));
   const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
   const faqs = extractFaqs(post.contentHtml);
   const howTo = extractHowTo(post.contentHtml);
@@ -282,6 +291,10 @@ export default function ArticleDetail({ post }: { post: Post }) {
               </nav>
             )}
 
+            {siblingItems.length > 0 && (
+              <SiblingNav items={siblingItems} currentSlug={`${post.category}/${post.slug}`} />
+            )}
+
             {/* Content */}
             <div className="prose prose-zinc mt-10 max-w-none prose-headings:scroll-mt-28 prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-700 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-700 prose-li:leading-[1.85]">
               {contentSegments.map((seg, i) => {
@@ -304,6 +317,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 );
               })}
             </div>
+
+            {hubGroups.length > 0 && <HubIndex title={post.hubIndex?.title} groups={hubGroups} />}
 
             <AuthorCard author={author} />
 

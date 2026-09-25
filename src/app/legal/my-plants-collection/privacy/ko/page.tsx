@@ -12,7 +12,7 @@ export default function PrivacyPolicyPageKo() {
       <p className="mt-4 text-sm text-gray-500">
         제정일: 2026년 7월 14일
         <br />
-        최종 개정일: 2026년 8월 17일
+        최종 개정일: 2026년 8월 21일
       </p>
 
       <div className="mt-8 space-y-6 text-gray-700 leading-relaxed">
@@ -116,11 +116,22 @@ export default function PrivacyPolicyPageKo() {
                     Apple社 및 결제 관리 사업자(제5항 참조)
                   </td>
                 </tr>
+                <tr>
+                  <td className="border border-gray-200 px-3 py-2">
+                    위치 정보(위도・경도)
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    실외에서 기르는 식물의 물주기 간격을 날씨에 맞춰 조정하는 설정을 저장할 때, 기기의 위치 정보에서 한 번만 취득
+                  </td>
+                  <td className="border border-gray-200 px-3 py-2">
+                    저장하지 않음. 취득할 때마다 기상 정보 서비스로 전송(제4항 참조)
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
           <p className="mt-2">
-            본 앱은 위치 정보・연락처・기기 식별자 등 위에 기재되지 않은
+            본 앱은 연락처・기기 식별자 등 위에 기재되지 않은
             정보는 수집하지 않습니다.
           </p>
         </section>
@@ -225,9 +236,33 @@ export default function PrivacyPolicyPageKo() {
             </a>
             )을 확인해 주십시오.
           </p>
+          <h3 className="mt-4 font-semibold text-gray-900">
+            4-3. 날씨에 맞춘 물주기 조정 기능
+          </h3>
           <p className="mt-2">
-            이러한 기능을 이용하지 않는 경우, 사진 데이터가 외부로 전송되는
-            일은 없습니다.
+            실외에서 기르는 식물에 대해 &quot;날씨에 맞춰 물주기 간격을
+            조정한다&quot; 설정을 활성화한 경우에 한해, 설정을 저장하는
+            시점의 위치 정보(위도・경도)가 기상 정보 서비스
+            &quot;OpenWeatherMap&quot;(OpenWeather Ltd.가 제공)로
+            전송됩니다. 이는 해당 위치의 강수 예보를 취득하여 물주기 간격에
+            반영하기 위해 필요한 처리입니다.
+          </p>
+          <p className="mt-2">
+            위치 정보의 취득은 설정을 저장하는 시점에 한 번만 이루어지며,
+            지속적인 추적은 하지 않습니다. 또한 전송된 위치 정보를 당사가
+            저장・재이용하는 일은 없습니다. OpenWeatherMap 측의 취급에
+            대해서는 OpenWeather의 개인정보처리방침(
+            <a
+              className="text-emerald-700 underline"
+              href="https://openweather.co.uk/privacy-policy"
+            >
+              https://openweather.co.uk/privacy-policy
+            </a>
+            )을 확인해 주십시오.
+          </p>
+          <p className="mt-2">
+            이러한 기능을 이용하지 않는 경우, 사진 데이터나 위치 정보가
+            외부로 전송되는 일은 없습니다.
           </p>
         </section>
 
@@ -258,11 +293,38 @@ export default function PrivacyPolicyPageKo() {
 
         <section>
           <h2 className="text-xl font-semibold text-gray-900">
-            6. 쿠키 등 추적 기술에 대하여
+            6. 쿠키 등 추적 기술 및 이용 상황 분석에 대하여
           </h2>
           <p className="mt-2">
             본 앱은 네이티브 애플리케이션으로, 쿠키를 사용하지 않습니다.
             또한 광고 게재를 위한 추적은 실시하지 않습니다.
+          </p>
+          <p className="mt-2">
+            앱의 개선을 위해 기능의 이용 상황 분석에 Amplitude, Inc.의 서비스를
+            이용하고 있습니다. 전송되는 정보는 앱 내에서 이루어진 조작의 종류(로그인・식물
+            등록・돌봄 기록・요금 플랜 화면 표시・구매 등)와 그 조작에 부수되는
+            정보(이용한 로그인 방법, 기록한 돌봄의 종류, 조작한 화면의 명칭, 선택한 플랜의
+            종별), 그리고 기기 및 앱의 정보(앱 버전, OS 버전, 기기 종류, 언어, IP
+            주소로부터 추정되는 국가・지역, 익명의 식별자)입니다. 아울러 이용 상황을
+            분류하기 위한 정보로서 계약 중인 플랜(Free／Pro)・등록된 식물의 수・알림 허용
+            상태・로그인 여부를 전송합니다.
+          </p>
+          <p className="mt-2">
+            <strong>
+              이용자가 입력・촬영한 내용 자체(식물의 별명・사진・메모・구매 금액・구매
+              장소), 성명, 이메일 주소, 친구에 관한 정보는 전송되지 않습니다. 또한 화면
+              녹화(세션 리플레이)는 실시하지 않습니다.
+            </strong>
+          </p>
+          <p className="mt-2">
+            Amplitude에서의 취급에 대해서는 Amplitude의 개인정보 처리방침(
+            <a
+              className="text-emerald-700 underline"
+              href="https://amplitude.com/privacy"
+            >
+              https://amplitude.com/privacy
+            </a>
+            )을 확인해 주십시오.
           </p>
         </section>
 

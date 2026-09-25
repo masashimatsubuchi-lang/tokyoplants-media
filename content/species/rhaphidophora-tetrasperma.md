@@ -17,6 +17,13 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+siblings:
+  - slug: "guide/rhaphidophora-tetrasperma-care"
+    role: "育て方の実務"
+  - slug: "species/rhaphidophora-tetrasperma"
+    role: "図鑑・品種情報"
+  - slug: "soil/best-soil-for-rhaphidophora-tetrasperma"
+    role: "土の選び方"
 ---
 
 # ラフィドフォラ・テトラスペルマ｜「ミニモンステラ」と呼ばれる速成長の穴あき葉植物図鑑

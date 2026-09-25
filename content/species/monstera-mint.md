@@ -23,6 +23,15 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+siblings:
+  - slug: "species/monstera-albo-variegata"
+    role: "アルボ単体"
+  - slug: "species/monstera-thai-constellation"
+    role: "タイコン単体"
+  - slug: "species/monstera-mint"
+    role: "ミント単体"
+  - slug: "species/variegated-monstera-types-comparison"
+    role: "7品種の比較"
 ---
 
 # モンステラ・ミント｜希少な斑入りモンステラの特徴と育て方
