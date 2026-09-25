@@ -14,6 +14,7 @@ relatedSlugs:
   - guide/choosing-pot-size-for-repotting
   - soil/repotting-soil-guide
   - guide/buying-houseplants-online-in-winter
+  - guide/gift-plant-first-care
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'

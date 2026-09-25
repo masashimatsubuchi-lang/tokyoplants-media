@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/caudex-plant-winter-care"
   - "research/caudex-plant-winter-dormancy-science"
   - "guide/cats-and-houseplants-safety"
+  - "species/yucca-elephantipes"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

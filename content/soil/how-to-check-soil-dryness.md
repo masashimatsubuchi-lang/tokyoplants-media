@@ -10,6 +10,7 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "guide/soil-not-drying-causes"
   - "review/watering-checker-comparison"
+  - "soil/mulching-materials-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

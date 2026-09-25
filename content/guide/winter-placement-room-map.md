@@ -16,6 +16,8 @@ relatedSlugs:
   - "research/year-end-cleaning-plant-placement-reset"
   - "guide/autumn-winter-humidity-drop-prep"
   - "guide/houseplant-annual-care-calendar"
+  - "guide/winter-heating-appliances-and-houseplants"
+  - "guide/winter-dont-do-list"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

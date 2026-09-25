@@ -17,6 +17,8 @@ relatedSlugs:
   - "research/birthday-gift-plant-lover"
   - "research/houseplant-lover-gift-ideas"
   - "review/daily-botanical-towel-review"
+  - "guide/gift-plant-first-care"
+  - "species/euphorbia-pulcherrima"
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"

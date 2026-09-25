@@ -11,6 +11,8 @@ relatedSlugs:
   - "guide/winter-hardiness-ranking-houseplants"
   - "research/houseplant-origin-temperature-database"
   - "guide/black-spots-wilting-leaves-checklist"
+  - "guide/winter-leaf-drop-diagnosis"
+  - "research/winter-survival-map-by-region-japan"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

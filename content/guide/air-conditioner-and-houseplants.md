@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/summer-houseplant-care-guide"
   - "guide/rainy-season-houseplant-care"
   - "soil/hydroculture-medium-comparison"
+  - "guide/winter-heating-appliances-and-houseplants"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
