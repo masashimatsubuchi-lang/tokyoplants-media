@@ -36,19 +36,26 @@ body {
 
 /* Prevent wide content from breaking mobile layout */
 /* 本文の表。記事の情報の大半が表に入っているため、可読性を優先して整える。
-   横スクロールは維持しつつ、ヘッダ行の固定色・行の交互塗り・セルの余白で
-   スマホでも「どこを読んでいるか」を見失わないようにする（2026-09-26）。*/
-.prose table {
-  display: block;
+   table 自身をスクロールさせると列が潰れるので、外側の .table-scroll で横スクロールし、
+   table には min-width を与えて各列に読める幅を確保する（2026-09-26）。*/
+.prose .table-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  max-width: 100%;
-  border-collapse: collapse;
-  font-size: 13.5px;
-  line-height: 1.65;
   margin: 1.5rem 0;
   border: 1px solid #e4e4e7;
   border-radius: 0.75rem;
+  background: #fff;
+}
+
+.prose .table-scroll table {
+  display: table;
+  width: 100%;
+  min-width: 34rem;
+  border-collapse: collapse;
+  font-size: 13.5px;
+  line-height: 1.65;
+  margin: 0;
+  border: 0;
 }
 
 .prose table thead th {
@@ -77,12 +84,13 @@ body {
   background: #fafafa;
 }
 
-/* 1列目は項目名であることが多いので少し強調する */
+/* 1列目は項目名であることが多いので少し強調し、折り返さない */
 .prose table tbody td:first-child {
   font-weight: 600;
   color: #27272a;
   white-space: nowrap;
 }
+
 
 .prose pre,
 .prose img,

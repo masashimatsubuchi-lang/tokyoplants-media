@@ -74,17 +74,25 @@ function Steps({ block }: { block: Extract<ParsedBlock, { kind: "steps" }> }) {
   return (
     <section className="not-prose my-8">
       <BlockTitle eyebrow="Steps" title={block.title} />
-      <ol className="relative ml-1 border-l-2 border-emerald-200 pl-6">
+      {/* 番号バッジは絶対配置にせず、flexの独立した列にする。
+          以前は負のleftとring-4で本文に3pxほど食い込み、狭い画面で
+          見出しの1文字目に重なっていた（2026-09-26 オーナー指摘）。 */}
+      <ol className="not-prose">
         {block.items.map((it, i) => (
-          <li key={i} className="relative pb-6 last:pb-0">
-            <span className="absolute -left-[2.05rem] top-0 flex h-8 w-8 items-center justify-center rounded-full bg-emerald-600 text-[13px] font-extrabold text-white ring-4 ring-white">
-              {i + 1}
-            </span>
-            {it.title && <div className="pt-1 text-[15px] font-bold leading-6 text-zinc-900">{it.title}</div>}
-            <div
-              className="mt-1 text-[14px] leading-[1.75] text-zinc-600 [&_strong]:font-bold [&_strong]:text-zinc-800 [&_a]:text-teal-700 [&_a]:underline"
-              dangerouslySetInnerHTML={{ __html: it.bodyHtml }}
-            />
+          <li key={i} className="flex gap-3">
+            <div className="flex w-8 shrink-0 flex-col items-center">
+              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-emerald-600 text-[13px] font-extrabold leading-none text-white">
+                {i + 1}
+              </span>
+              {i < block.items.length - 1 && <span className="w-0.5 flex-1 bg-emerald-200" />}
+            </div>
+            <div className="min-w-0 flex-1 pb-6">
+              {it.title && <div className="pt-1 text-[15px] font-bold leading-6 text-zinc-900">{it.title}</div>}
+              <div
+                className="mt-1 text-[14px] leading-[1.75] text-zinc-600 [&>p]:m-0 [&>p+p]:mt-2 [&_strong]:font-bold [&_strong]:text-zinc-800 [&_a]:text-teal-700 [&_a]:underline"
+                dangerouslySetInnerHTML={{ __html: it.bodyHtml }}
+              />
+            </div>
           </li>
         ))}
       </ol>

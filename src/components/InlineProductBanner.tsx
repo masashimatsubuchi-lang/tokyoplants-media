@@ -31,7 +31,7 @@ const PRODUCT_META: Record<ProductType, ProductMeta> = {
   soil: {
     heading: "この記事で使う用土",
     label: "I'm original SOIL（tokyoplantsプレミアム培養土）",
-    note: "この記事の配合に対応したオリジナル用土。6種天然素材・化学肥料不使用。",
+    note: "6種天然素材・化学肥料不使用。ジップ付きで使いたい分だけ出せる2L／10Lの2サイズ。",
     img: "/images/products/im-original-soil-main.jpg",
   },
   hydro: {

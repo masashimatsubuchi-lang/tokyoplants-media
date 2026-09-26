@@ -163,6 +163,19 @@ function insertBannerAfterFirstSection(segments: ContentSegment[]): ContentSegme
 }
 
 
+/**
+ * 本文の表をスクロール用の div で包む。
+ *
+ * 以前は table 自身に `display:block; overflow-x:auto` を当てていたが、
+ * それだと表が横スクロールせずコンテナ幅まで潰れ、狭い画面で
+ * 「ヤシガラ（ココ／チップ）＋／日向石」のように1セルが何行にも折り返していた
+ * （2026-09-26 オーナー指摘）。table は table のまま min-width を与え、
+ * 外側の div でスクロールさせる。
+ */
+function wrapTables(html: string): string {
+  return html.replace(/<table>([\s\S]*?)<\/table>/g, (m) => `<div class="table-scroll">${m}</div>`);
+}
+
 /** 最初の <h1>...</h1> を除去（frontmatter の title と重複するため） */
 function stripFirstH1(html: string): string {
   return html.replace(/<h1[^>]*>[\s\S]*?<\/h1>/, "");
@@ -195,7 +208,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
     role: s.role,
     post: siblingMeta.find((m) => `${m.category}/${m.slug}` === s.slug) ?? null,
   }));
-  const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
+  const { html: contentWithIds, toc } = withHeadingIds(wrapTables(stripFirstH1(post.contentHtml)));
   const faqs = extractFaqs(post.contentHtml);
   const howTo = extractHowTo(post.contentHtml);
   // 本文に `<!-- amazon-cards -->` がある記事は、そのブロックが同じ amazonProducts を
