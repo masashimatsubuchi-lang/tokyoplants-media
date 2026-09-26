@@ -97,6 +97,9 @@ baseProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1566149391802-0ed755b3f72b?w=1200&q=80" caption="底に敷く石は「排水」ではなく、根と溜まり水を離すための層" credit="Unsplash" -->
+<!-- /figure -->
+
 ## 穴なし鉢に適した培地の選び方
 
 培地の選択は、水やりの頻度よりも根本的に重要です。どれだけ水やりに気をつけても、培地の排水性・通気性が低ければ過湿は防げません。
@@ -161,6 +164,9 @@ baseProducts:
 | 多肉植物・サボテン | 極めて低い | × | 過湿に極めて弱く、根腐れリスクが高いため避けたい |
 
 ---
+
+<!-- figure src="https://images.unsplash.com/photo-1701271040533-59a76ac4e887?w=1200&q=80" caption="見た目で選んだ鉢ほど、穴がないことに後から気づく" credit="Unsplash" -->
+<!-- /figure -->
 
 ## 最も安全な使い方：インナーポット方式
 

@@ -198,6 +198,9 @@ amazonProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1580392728234-e7d8aa18c997?w=1200&q=80" caption="塊根から白い根が伸び始めたら、用土に植え付けるタイミング" credit="Unsplash" -->
+<!-- /figure -->
+
 ## 発根・実生からの育て方
 
 ### 種子（実生）からの発芽

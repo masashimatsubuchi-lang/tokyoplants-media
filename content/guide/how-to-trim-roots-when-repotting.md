@@ -76,6 +76,9 @@ baseProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1730902250461-3324a484e031?w=1200&q=80" caption="刃はアルコールで拭いてから。切り口からの雑菌侵入が失敗の最大要因" credit="Unsplash" -->
+<!-- /figure -->
+
 ## 根を切る前の準備と道具の消毒方法
 
 | 道具 | 用途 | 注意点 |
@@ -99,6 +102,9 @@ baseProducts:
 消毒を省略すると、健康な植物に病原菌を移してしまう可能性があります。面倒でも必ず実施してください。
 
 ---
+
+<!-- figure src="https://images.unsplash.com/photo-1777554886475-b1a16e47c573?w=1200&q=80" caption="白い根は残し、茶色くスカスカになった外側だけを落とす" credit="Unsplash" align="wide" -->
+<!-- /figure -->
 
 ## 根の切り方：状態別ガイド
 

@@ -64,6 +64,9 @@ amazonProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1633789242668-886f4098ea1c?w=1200&q=80" caption="幹の付け根が太い株ほど水を蓄える。土まで保水性が高いと過湿になる" credit="Unsplash" -->
+<!-- /figure -->
+
 ## パキラの特性と土の関係
 
 ### 幹に水分を蓄え、根は比較的少ない

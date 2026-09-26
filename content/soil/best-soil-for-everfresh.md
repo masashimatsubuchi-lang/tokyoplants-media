@@ -119,6 +119,9 @@ baseProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1701981319581-4a4c47bde8a9?w=1200&q=80" caption="細かい粒だけの土は水もちは良いが、乾くまでに時間がかかりすぎる" credit="Unsplash" -->
+<!-- /figure -->
+
 ## エバーフレッシュの土 配合レシピ
 
 自分で配合する場合は、適度な保水性を確保しながら通気性・排水性も担保した比率にします。[土の配合の基本を詳しく学ぶ](/soil/how-to-mix-soil-for-houseplants)

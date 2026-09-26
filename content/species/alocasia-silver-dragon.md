@@ -92,6 +92,9 @@ Silver Dragon は地色が明るい分、光の不足や環境の変化が葉色
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1743428634981-f8849a8a7824?w=1200&q=80" caption="アロカシア属に共通して、葉脈の間がくぼむ厚い葉は水切れのサインが出やすい" credit="Unsplash" -->
+<!-- /figure -->
+
 ## 育て方のポイント
 
 属としての基本管理は[アロカシアの育て方ガイド](/guide/alocasia-care-guide)にまとめている。ここでは Silver Dragon 固有のポイントを整理する。

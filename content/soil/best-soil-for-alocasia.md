@@ -52,6 +52,9 @@ baseProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1644759633460-0f0a264edcc5?w=1200&q=80" caption="葉の大きさに対して根は細い。水を抱え込む土では根のほうが先に傷む" credit="Unsplash" -->
+<!-- /figure -->
+
 ## アロカシアの特性と土の関係
 
 ### 球根（根茎）に水を蓄える
@@ -195,6 +198,9 @@ tokyoplants の HYDRO MINERAL は溶岩石75%＋島根県産ゼオライト25%�
 HYDRO MINERAL 単体での使用も可能です。鉢底に少量のゼオライトを敷き、その上に HYDRO MINERAL を充填します。底面給水とも相性が良く、水位計と組み合わせれば水やりのタイミングが視覚的にわかります。土から移行する際は根を丁寧に洗って土を完全に落としてください（土が残ると腐敗の原因になります）。根が新環境に慣れるまで2〜4週間かかることがあります。[ハイドロカルチャーへの移行方法はこちら](/guide/alocasia-hydroculture)
 
 ---
+
+<!-- figure src="https://images.unsplash.com/photo-1627830310052-11b94812a9ed?w=1200&q=80" caption="粗い樹皮チップを混ぜるだけで、鉢の中に水と空気の通り道ができる" credit="Unsplash" -->
+<!-- /figure -->
 
 ## アロカシアの植え替え手順
 

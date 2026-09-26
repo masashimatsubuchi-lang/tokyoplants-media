@@ -59,6 +59,9 @@ baseProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1777554886285-391eab7f4260?w=1200&q=80" caption="白い根がびっしり回った株は、しおれていても水を吸う力が残っている" credit="Unsplash" -->
+<!-- /figure -->
+
 ## 植え替え後に元気がなくなる5つの原因
 
 ### 原因1：植え替えストレス（最も多い）
@@ -115,6 +118,9 @@ baseProducts:
 | 土から異臭 | 根腐れ or 土の問題 | 緊急で土を確認。排水性の高い土に交換 |
 
 ---
+
+<!-- figure src="https://images.unsplash.com/photo-1632900931939-9a1028f7cef6?w=1200&q=80" caption="根鉢の様子は、ここまで抜かなくても鉢底の穴から確かめられる" credit="Unsplash" -->
+<!-- /figure -->
 
 ## 復活を早めるための管理方法
 

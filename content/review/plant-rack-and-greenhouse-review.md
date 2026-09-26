@@ -60,6 +60,9 @@ amazonProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1627382046740-15bf3a1a1fe7?w=1200&q=80" caption="棚は「置ける鉢数」より「窓からの距離」で選ぶと失敗しにくい" credit="Unsplash" align="wide" -->
+<!-- /figure -->
+
 ## タイプ別解説
 
 植物育成ラック・温室は大きく4つのタイプに分かれる。まず全体像を一覧で押さえてほしい。
@@ -176,6 +179,9 @@ BIBILAB（ビビラボ）が手がける植物愛好家向けの専用育成ラ�
 <!-- /amazon-cards -->
 
 ---
+
+<!-- figure src="https://images.unsplash.com/photo-1772795826879-211b42199a51?w=1200&q=80" caption="小鉢が増えてきたら、奥行きより段数を増やすほうが管理しやすい" credit="Unsplash" -->
+<!-- /figure -->
 
 ## 用途別おすすめまとめ
 

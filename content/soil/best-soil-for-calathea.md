@@ -45,6 +45,9 @@ baseProducts:
 
 ---
 
+<!-- figure src="https://images.unsplash.com/photo-1774543125211-cf4227b2ccad?w=1200&q=80" caption="葉が薄く大きい種ほど、土の乾きすぎがそのまま葉縁の傷みになる" credit="Unsplash" -->
+<!-- /figure -->
+
 ## カラテアの特性と土の関係
 
 ### 熱帯雨林の林床に自生する浅根性植物
@@ -149,6 +152,9 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 <!-- /callout -->
 
 ---
+
+<!-- figure src="https://images.unsplash.com/photo-1601489333662-97b194e8a356?w=1200&q=80" caption="葉を持って引き抜くと付け根から折れる。植え替えは株元を支えて持ち上げる" credit="Unsplash" -->
+<!-- /figure -->
 
 ## カラテアの植え替え手順
 

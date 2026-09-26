@@ -21,6 +21,15 @@ baseProducts:
 
 匂いの種類によって原因と対処法が異なります。この記事では、匂いのパターン別に原因を特定し、具体的な対策を解説します。
 
+<!-- key-facts title="30秒でわかる土の匂いの見分け方" -->
+- **ドブ・卵の腐った匂い**：★★★ 根腐れ。**今日中に**鉢から抜いて根を確認
+- **カビ臭（ジメジメ）**：★★☆ 過湿。水やりを控え、風通しを改善
+- **酸っぱい匂い**：★★☆ 嫌気性発酵。土の通気性を改善
+- **アンモニア臭**：★★☆ 未熟な有機肥料。表面の肥料を除去して水で流す
+- **雨上がりのような土の匂い**：**正常**。放線菌が出すジオスミンで問題なし
+- **やってはいけない**：消臭剤でごまかす／肥料を足す／水で洗い流そうとする
+<!-- /key-facts -->
+
 ---
 
 ## 結論：匂いの種類で原因がわかる
@@ -35,51 +44,43 @@ baseProducts:
 
 <mark>腐敗臭と卵の腐った匂いは根腐れが進行している可能性が高く、早急な対処が必要です。</mark>
 
-5つのパターンは、対処の方向性で見ると大きく3つのルートに分かれます。まずは自分の鉢がどのルートに当てはまるかを確認してから、該当するパターンの詳細に進んでください。
+5つのパターンは、対処の方向性で見ると大きく3つのルートに分かれます。鉢に鼻を近づけて、どのルートに当てはまるかを先に確認してください。
 
-<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
-<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:340px;margin:0 auto;font-size:14px">鉢に鼻を近づけて、どんな匂いがする？</div>
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:1rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
-<span style="flex:1;min-width:140px;text-align:center">↓ ジメジメ</span>
-<span style="flex:1;min-width:140px;text-align:center">↓ ドブ・卵</span>
-<span style="flex:1;min-width:140px;text-align:center">↓ 酸っぱい・ツンとする</span>
-</div>
-<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
-<div style="flex:1;min-width:200px;border:2px solid #0284c7;border-radius:0.75rem;padding:0.75rem;background:#f0f9ff;text-align:center">
-<p style="margin:0;font-weight:700;color:#075985;font-size:14px">過湿系ルート（★★☆）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#0c4a6e">カビ臭い＝土が乾く前に水を与えている状態。水やりを控え、風通しを改善する</p>
-<p style="margin:6px 0 0;font-size:12px;font-weight:700;color:#0284c7">→ パターン1へ</p>
-</div>
-<div style="flex:1;min-width:200px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">根腐れ緊急ルート（★★★）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">腐敗臭・卵の腐った匂い＝嫌気性バクテリアが繁殖中。今日中に鉢から抜いて根を確認する</p>
-<p style="margin:6px 0 0;font-size:12px;font-weight:700;color:#dc2626">→ パターン2・5へ</p>
-</div>
-<div style="flex:1;min-width:200px;border:2px solid #ca8a04;border-radius:0.75rem;padding:0.75rem;background:#fefce8;text-align:center">
-<p style="margin:0;font-weight:700;color:#854d0e;font-size:14px">有機物系ルート（★★☆）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#a16207">酸っぱい匂い・アンモニア臭＝有機物や肥料が原因。通気の改善と肥料の見直しで対応する</p>
-<p style="margin:6px 0 0;font-size:12px;font-weight:700;color:#ca8a04">→ パターン3・4へ</p>
-</div>
-</div>
-</div>
+<!-- cards cols="3" -->
+#### ジメジメ → 過湿系ルート（★★☆）
 
-<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
-<p style="margin:0 0 0.75rem;font-weight:700;color:#92400e;text-align:center">匂いの発生源はどこ？（鉢の断面イメージ）</p>
-<div style="border:2px dashed #d97706;border-radius:0.75rem;overflow:hidden">
-<div style="padding:0.75rem;background:#fef3c7;text-align:center">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">表層（土の表面）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78350f">カビ臭・アンモニア臭が出やすいゾーン</p>
-</div>
-<div style="padding:0.75rem;background:#fde68a;text-align:center;border-top:1px dashed #d97706">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">中層（土の中ほど）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78350f">通気不足による酸っぱい匂い（異常発酵）が起きやすいゾーン</p>
-</div>
-<div style="padding:0.75rem;background:#fcd34d;text-align:center;border-top:1px dashed #d97706">
-<p style="margin:0;font-weight:700;color:#78350f;font-size:13px">根の周辺（鉢底寄り）</p>
-<p style="margin:4px 0 0;font-size:12px;color:#78350f">腐敗臭・卵の腐った匂い（根腐れ・硫化水素）が起きやすい最重要ゾーン</p>
-</div>
-</div>
-</div>
+土が乾く前に水を与えている状態。水やりを控え、風通しを改善する。
+
+→ **パターン1**へ
+
+#### ドブ・卵 → 根腐れ緊急ルート（★★★）
+
+嫌気性バクテリアが繁殖中。今日中に鉢から抜いて根を確認する。
+
+→ **パターン2・5**へ
+
+#### 酸っぱい・ツンとする → 有機物系ルート（★★☆）
+
+有機物や肥料が原因。通気の改善と肥料の見直しで対応する。
+
+→ **パターン3・4**へ
+<!-- /cards -->
+
+### 匂いの発生源はどこにある？
+
+同じ鉢でも、匂いが出ている深さによって疑うべき原因が変わります。鉢の表面・側面・底穴の3か所で嗅ぎ分けると、原因の切り分けが一気に進みます。
+
+| 場所 | 出やすい匂い | 意味すること |
+|---|---|---|
+| **表層（土の表面）** | カビ臭・アンモニア臭 | 表面のカビ、または置き肥・有機肥料が原因 |
+| **中層（土の中ほど）** | 酸っぱい匂い | 土が詰まって通気性を失い、異常発酵している |
+| **根の周辺（鉢底寄り）** | 腐敗臭・卵の腐った匂い | 根腐れ・硫化水素。**最も緊急度が高いゾーン** |
+
+鉢底の匂いは、鉢を持ち上げて排水穴に鼻を近づけると確認できます。受け皿に溜まった水が臭う場合も、鉢底が酸欠になっているサインです。
+
+<!-- callout type="info" title="「土のいい匂い」は異常ではありません" -->
+雨上がりの土のような、湿った森を思わせる匂いがすることがあります。これは**ジオスミン**という物質で、土壌中の放線菌（ストレプトマイセス属など）が作り出す天然の揮発成分です。人間の鼻はこの匂いをごく微量でも感じ取れるため強く意識されますが、**健康な土でも普通に発生する匂い**で、植物にとって問題はありません。対処が必要なのは、ドブ・卵・酸っぱい・ツンとする、といった「不快さのある匂い」です。
+<!-- /callout -->
 
 ---
 
@@ -105,7 +106,7 @@ baseProducts:
 3. **土の表面を削る** — カビが生えている表面1〜2cmをスプーンで除去
 4. **受け皿の水を捨てる** — 水やり後30分以内に排水
 
-これで改善しない場合は、排水性の高い土に植え替えてください。
+これで改善しない場合は、排水性の高い土に植え替えてください。白いカビが目に見えている場合の詳しい対処は[観葉植物の土にカビが生える原因と対策](/soil/mold-on-houseplant-soil)で解説しています。
 
 ---
 
@@ -123,51 +124,19 @@ baseProducts:
 
 ### 対処法
 
-対処は「抜く → 切る → 乾かす → 植える → 控える」の5ステップで進めます。
+<!-- steps title="腐敗臭が出たときの対処5ステップ" -->
+1. **抜く**：鉢から植物を出し、根の状態を確認する。健康な根は白〜薄茶色で張りがある
+2. **切る**：黒く変色してブヨブヨした根を清潔なハサミですべて切除する。迷ったら残さず切る方が安全
+3. **乾かす**：風通しの良い日陰で30分〜1時間、切り口を乾かす。濡れたまま植えると切り口から再発する
+4. **植える**：排水性の高い清潔な土に植え替える。古い土は再利用しない
+5. **控える**：植え替え後1週間は水やりを控える。以降も土が完全に乾いてから与える
+<!-- /steps -->
 
-<div style="margin:1.5rem 0;border:2px solid #dc2626;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fef2f2,#fff)">
-<p style="margin:0 0 0.75rem;font-weight:700;color:#991b1b;text-align:center;font-size:14px">腐敗臭が出たときの対処5ステップ</p>
-<div style="display:flex;gap:0.75rem;flex-wrap:wrap;justify-content:center">
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.6rem;background:#fff;text-align:center">
-<p style="margin:0;font-size:11px;font-weight:700;color:#dc2626">STEP 1</p>
-<p style="margin:2px 0 0;font-weight:700;color:#991b1b;font-size:14px">抜く</p>
-<p style="margin:4px 0 0;font-size:12px;color:#7f1d1d">鉢から出して根の状態を確認</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.6rem;background:#fff;text-align:center">
-<p style="margin:0;font-size:11px;font-weight:700;color:#dc2626">STEP 2</p>
-<p style="margin:2px 0 0;font-weight:700;color:#991b1b;font-size:14px">切る</p>
-<p style="margin:4px 0 0;font-size:12px;color:#7f1d1d">黒くブヨブヨした根をすべて切除</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.6rem;background:#fff;text-align:center">
-<p style="margin:0;font-size:11px;font-weight:700;color:#dc2626">STEP 3</p>
-<p style="margin:2px 0 0;font-weight:700;color:#991b1b;font-size:14px">乾かす</p>
-<p style="margin:4px 0 0;font-size:12px;color:#7f1d1d">風通しの良い日陰で30分〜1時間</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.6rem;background:#fff;text-align:center">
-<p style="margin:0;font-size:11px;font-weight:700;color:#dc2626">STEP 4</p>
-<p style="margin:2px 0 0;font-weight:700;color:#991b1b;font-size:14px">植える</p>
-<p style="margin:4px 0 0;font-size:12px;color:#7f1d1d">排水性の高い清潔な土に植え替え</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.6rem;background:#fff;text-align:center">
-<p style="margin:0;font-size:11px;font-weight:700;color:#dc2626">STEP 5</p>
-<p style="margin:2px 0 0;font-weight:700;color:#991b1b;font-size:14px">控える</p>
-<p style="margin:4px 0 0;font-size:12px;color:#7f1d1d">植え替え後1週間は水やりを控える</p>
-</div>
-</div>
-</div>
+根の大部分が腐っている場合は復活が難しくなります。異臭を感じたら早急に対処してください。根の切り方や復活の見込みの判断は[根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)で詳しく解説しています。
 
-1. **鉢から植物を抜く** — 根の状態を確認する
-2. **腐った根を切除** — 黒く変色してブヨブヨした根をすべて切る
-3. **根を乾かす** — 30分〜1時間、風通しの良い日陰で根を乾燥させる
-4. **新しい土に植え替え** — 排水性の高い清潔な土を使う
-5. **水やりを控えめに** — 植え替え後1週間は水やりを控える
-
-根の大部分が腐っている場合は復活が難しくなります。異臭を感じたら早急に対処してください。
-
-<div style="margin:1.5rem 0;border-left:4px solid #d97706;border-radius:0.5rem;padding:0.9rem 1.1rem;background:#fffbeb">
-<p style="margin:0;font-weight:700;color:#92400e;font-size:13px">編集部より</p>
-<p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">土の匂いに関するご相談は、実際によくいただくもののひとつです。いただく内容を見ていると「気づいたときにはもう根が傷んでいた」というケースが少なくありません。匂いは、鉢の中で今なにが起きているかを教えてくれる数少ないサインです。「気のせいかもしれない」と流さず、少しでも違和感があれば早めに鉢から出して根を確認していただくことをおすすめしています。</p>
-</div>
+<!-- callout type="info" title="編集部より" -->
+土の匂いに関するご相談は、実際によくいただくもののひとつです。いただく内容を見ていると「気づいたときにはもう根が傷んでいた」というケースが少なくありません。匂いは、鉢の中で今なにが起きているかを教えてくれる数少ないサインです。「気のせいかもしれない」と流さず、少しでも違和感があれば早めに鉢から出して根を確認していただくことをおすすめしています。
+<!-- /callout -->
 
 ---
 
@@ -180,12 +149,15 @@ baseProducts:
 - 土が密に詰まりすぎて通気性がない
 - 有機質の割合が高すぎる
 - 未熟な堆肥を使用した
+- 赤玉土などの粒が経年で潰れ、団粒構造が失われた
 
 ### 対処法
 
 1. **土の表面をほぐす** — 割り箸などで土の表面を軽くつついて通気性を改善
 2. **風通しの良い場所に移す** — 土中に酸素が入るよう環境を変える
 3. **改善しなければ植え替え** — 排水性・通気性の高い土に交換
+
+粒が潰れて水はけが落ちている場合は、ほぐすだけでは戻りません。[水はけの悪い土を改善する方法](/soil/improve-drainage-for-houseplants)もあわせて確認してください。
 
 ---
 
@@ -205,7 +177,7 @@ baseProducts:
 2. **水で流す** — 鉢底から流れ出るまでたっぷり水やりして、過剰な成分を洗い流す
 3. **換気する** — 窓を開けて室内の空気を入れ替える
 
-次回からは完熟堆肥を使い、有機肥料は土の中に混ぜ込む（表面に置かない）ようにしてください。
+次回からは完熟堆肥を使い、有機肥料は土の中に混ぜ込む（表面に置かない）ようにしてください。油かすなどの有機肥料を表面に置くと、匂いだけでなくコバエやカビを呼び込む原因にもなります。室内では緩効性の化成肥料か、匂いの少ない固形肥料を選ぶほうが管理は楽です。
 
 ---
 
@@ -213,77 +185,44 @@ baseProducts:
 
 ### 原因
 
-嫌気性バクテリアが硫化水素を発生させています。根腐れの腐敗臭と同様、土中の酸素不足が原因です。
-
-このパターンは根腐れがかなり進行しているサインです。
+嫌気性バクテリアが硫化水素を発生させています。根腐れの腐敗臭と同様、土中の酸素不足が原因です。硫化水素は酸素がまったく届かない環境でしか発生しないため、**腐敗臭より一段階進行している**と考えてください。
 
 ### 対処法
 
-パターン2（腐敗臭）と同じ手順で対処してください。根の状態を確認し、植え替えが必要です。
+<!-- callout type="warning" title="対処はパターン2と同じ。ただし猶予がない" -->
+「抜く → 切る → 乾かす → 植える → 控える」の5ステップで、パターン2と同じ手順を踏んでください。違いは緊急度です。硫化水素臭が出ている鉢は鉢底が完全な酸欠状態にあり、根の大半がすでに機能していない可能性があります。**その日のうちに鉢から抜いて根を確認**し、生きている根が残っていればそこから立て直します。根がすべて黒く崩れる状態なら、茎を挿し木にして株を残す方が現実的な場合もあります。
+<!-- /callout -->
 
-<div style="margin:1.5rem 0;border:2px solid #dc2626;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fef2f2,#fff)">
-<p style="margin:0 0 0.75rem;font-weight:700;color:#991b1b;text-align:center;font-size:14px">硫化水素臭のときも対処は同じ5ステップ</p>
-<div style="display:flex;gap:0.6rem;flex-wrap:wrap;justify-content:center">
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.5rem;background:#fff;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">1. 抜く</p>
-<p style="margin:3px 0 0;font-size:12px;color:#7f1d1d">根を確認</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.5rem;background:#fff;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">2. 切る</p>
-<p style="margin:3px 0 0;font-size:12px;color:#7f1d1d">腐った根を切除</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.5rem;background:#fff;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">3. 乾かす</p>
-<p style="margin:3px 0 0;font-size:12px;color:#7f1d1d">日陰で30分〜1時間</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.5rem;background:#fff;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">4. 植える</p>
-<p style="margin:3px 0 0;font-size:12px;color:#7f1d1d">清潔な新しい土へ</p>
-</div>
-<div style="flex:1;min-width:104px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.5rem;background:#fff;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">5. 控える</p>
-<p style="margin:3px 0 0;font-size:12px;color:#7f1d1d">1週間は水やりを控える</p>
-</div>
-</div>
-</div>
+---
+
+## ハイドロカルチャー・底面給水の鉢が臭うとき
+
+土ではなく水が原因のこともあります。ハイドロカルチャーや底面給水の鉢で匂いが出た場合は、次の順に確認してください。
+
+- **水を替えていない**：1〜2ヶ月に1回は全量換水し、容器と培地をすすぐ
+- **水位が高すぎる**：容器高さの1/4以下が基本。常に満水だと根が酸欠になる
+- **枯れ葉や根の切れ端が沈んでいる**：有機物が水中で腐り、一気に匂いの原因になる
+- **肥料の入れすぎ**：残った塩類と有機物が結びついてぬめりが出る
+
+水が白く濁る・ぬめりが出るのは、換水のサインです。
 
 ---
 
 ## 匂いの原因を予防する方法
 
-匂いの予防策は、次の5つです。まず一覧で全体像を確認し、それぞれの詳細は下の解説で補ってください。
+| 予防策 | 目的 | 具体的にやること | タイミング |
+|--------|------|---|----------------|
+| ① 排水性の高い土を使う | 土が常に湿った状態になるのを防ぐ | パーライトや軽石を配合した土を選ぶ | 植え替えのたび |
+| ② 正しい水やりサイクルを守る | 過湿と土中の酸素不足を防ぐ | 土が乾いたら鉢底から流れ出るまでたっぷり。少量をこまめに与えない | 毎回の水やり |
+| ③ 風通しを確保する | 表面を乾かし、カビ・バクテリアの繁殖を抑える | サーキュレーターを弱風で回す／窓際に寄せる | 常時 |
+| ④ 完熟堆肥・緩効性肥料を使う | 未熟な有機物による異臭を防ぐ | 油かすを表面に置かない。室内は緩効性肥料が無難 | 施肥のたび |
+| ⑤ 受け皿の水を放置しない | 鉢底の酸素不足・嫌気性発酵を防ぐ | 水やり後30分以内に必ず捨てる | 毎回の水やり後 |
 
-| 予防策 | 目的 | 実行のタイミング |
-|--------|------|----------------|
-| ① 排水性の高い土を使う | 土が常に湿った状態になるのを防ぐ | 植え替えのたび（土選びの段階） |
-| ② 正しい水やりサイクルを守る | 過湿と土中の酸素不足を防ぐ | 毎回の水やり（土が乾いたらたっぷり） |
-| ③ 風通しを確保する | 土の表面を乾かし、カビ・バクテリアの繁殖を抑える | 常時（置き場所・サーキュレーター） |
-| ④ 完熟堆肥・緩効性肥料を使う | 未熟な有機物による異臭を防ぐ | 施肥のたび（肥料を選ぶ段階） |
-| ⑤ 受け皿の水を放置しない | 鉢底の酸素不足・嫌気性発酵を防ぐ | 水やり後30分以内 |
-
-### 1. 排水性の高い土を使う
-
-土が常に湿った状態にならないよう、パーライトや軽石を配合した排水性の高い土を選んでください。
-
-### 2. 正しい水やりサイクルを守る
-
-「土が乾いたら、鉢底から流れ出るまでたっぷり」が基本です。少量をこまめに与えるのはNGです。
+排水性を土から見直したい場合は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)で市販品を比較しています。有機質が控えめで無機質をバランス良く含む培養土に替えるだけで、匂いのトラブルは大幅に減ります。
 
 <!-- character-note character="shadee" type="tip" -->
 水やりのタイミングをアプリに記録しておくと、次に匂いが気になったときに「あげすぎていないか」を振り返りやすくなるよ。
 <!-- /character-note -->
-
-### 3. 風通しを確保する
-
-空気の流れがないと土の表面が乾かず、カビやバクテリアが繁殖しやすくなります。
-
-### 4. 完熟堆肥・緩効性肥料を使う
-
-未熟な有機物は異臭の原因になります。市販の完熟堆肥か、緩効性化成肥料を使ってください。
-
-### 5. 受け皿の水を放置しない
-
-受け皿に水が溜まった状態は、鉢底が酸素不足になり、嫌気性発酵の原因になります。
 
 ---
 
@@ -309,13 +248,18 @@ baseProducts:
 
 匂いの原因は土の深部にあることが多いです。表面だけ替えても解決しません。異臭が続く場合は、土を全交換してください。
 
+### 失敗5：季節を気にして植え替えを先延ばしにする
+
+「冬だから植え替えは春まで待とう」という判断は、通常の植え替えでは正しいものです。しかし**腐敗臭・硫化水素臭が出ている場合は例外**で、待つあいだに根が失われます。室温20℃以上を確保できる場所で、時期に関わらず作業してください。
+
 ---
 
 ## まとめ
 
 - 土の匂いの種類で原因を特定できる
+- 雨上がりのような土の匂い（ジオスミン）は正常。対処が必要なのは不快さのある匂い
 - カビ臭は過湿が原因。水やり頻度と風通しを見直す
-- 腐敗臭・硫化水素臭は根腐れのサイン。即座に植え替え
+- 腐敗臭・硫化水素臭は根腐れのサイン。時期に関わらず即座に植え替え
 - 酸っぱい匂いは嫌気性発酵。土の通気性を改善する
 - アンモニア臭は未熟な有機肥料が原因。肥料を除去する
 - 予防の基本は「排水性の高い土」「正しい水やり」「風通し」
