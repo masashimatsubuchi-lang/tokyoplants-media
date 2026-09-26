@@ -18,6 +18,7 @@ relatedSlugs:
 amazonProducts:
   - title: "ガラス花瓶 透明円筒 屋内屋外多シーンおしゃれインテリア 10X20CM"
     asin: "B0C7MR3C27"
+    image: "https://m.media-amazon.com/images/I/81NhZWIOieL._AC_SL200_.jpg"
     price: "¥1,798前後"
   - title: "東京堂(Tokyodo) 花瓶 スクエアワイド20×7"
     asin: "B08QHSFX1X"

@@ -15,14 +15,17 @@ relatedSlugs:
 amazonProducts:
   - title: "Glanz Design 園芸シート 防水 厚手 レザーマット（ブラウン）"
     asin: "B0D3TVCNPN"
+    image: "https://m.media-amazon.com/images/I/71mdf6m27ZL._AC_SL200_.jpg"
     note: "合成レザー(PU)、真鍮の留め具・50×75cm・四隅ボタンでトレー化可能。評価★4.1・レビュー44件（2026-09-07 Amazon直接確認・在庫あり・Amazon発送）"
     price: "¥3,650前後（参考価格）"
   - title: "【おしゃれに汚れ防止】園芸シート PUレザー（DREI）"
     asin: "B0FRXYF5NQ"
+    image: "https://m.media-amazon.com/images/I/61joVNXkyzL._AC_SL200_.jpg"
     note: "PUレザー・カーキ/ブラウン/ブラック/ダークグリーンの4色展開。評価★4.2・レビュー23件（2026-09-07 Amazon直接確認・在庫あり・Amazon発送）"
     price: "¥2,380前後（参考価格）"
   - title: "XiaZ園芸シート 極厚植え替えシート75×75cm"
     asin: "B0C9LN59ZR"
+    image: "https://m.media-amazon.com/images/I/6198ur80yAL._AC_SL200_.jpg"
     note: "600D防水オックスフォード生地・銅製ボタン・強化ハンドル付き。評価★4.3・レビュー241件（2026-09-07 Amazon直接確認・在庫あり・Amazon発送、園芸用シートカテゴリでベストセラー上位）"
     price: "¥999前後（参考価格）"
 ---

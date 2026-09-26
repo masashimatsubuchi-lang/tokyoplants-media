@@ -19,10 +19,12 @@ baseProducts:
 amazonProducts:
   - title: "SUStee(サスティー) 水やりチェッカー Mサイズ 5本セット White"
     asin: "B08PPML5TC"
+    image: "https://m.media-amazon.com/images/I/51-lyev8vgL._AC_SL200_.jpg"
     note: "色変化式スティック型・電池不要。GOOD DESIGN AWARD 2015受賞、LDK OF THE YEAR 2024選出の定番ブランド。3.5〜6号鉢向け"
     price: "¥2,480〜（参考価格）"
   - title: "SUStee(サスティー) 水やりチェッカー Lサイズ ホワイト 5本パック"
     asin: "B08PPNX8X2"
+    image: "https://m.media-amazon.com/images/I/41uLGMAJaPL._AC_SL200_.jpg"
     note: "同シリーズの大型鉢向けサイズ（7号以上目安）。棒が長く、深い鉢でも土の中心付近の水分を検知しやすい"
     price: "¥2,980〜（参考価格）"
   - title: "高儀(TAKAGI) 簡易土壌酸度計 水分測定機能付き"

@@ -18,18 +18,22 @@ baseProducts:
 amazonProducts:
   - title: "Alupssuc フェイクグリーン パキラ（幸福の木）高さ100cm 光触媒"
     asin: "B0F8V62Y44"
+    image: "https://m.media-amazon.com/images/I/61Ga8ZLX-zL._AC_SL200_.jpg"
     price: ""
   - title: "フェイクグリーン アイビー ガーランド 防水 鉄線付き"
     asin: "B09WY958YL"
+    image: "https://m.media-amazon.com/images/I/717al8Ee-7L._AC_SL200_.jpg"
     price: "¥950〜2,000前後"
   - title: "不二貿易 フェイクグリーン アロカシア 卓上セラミックポット"
     asin: "B0BTGSZBGQ"
     price: "¥2,961"
   - title: "Alupssuc フェイクグリーン 大型光触媒 高さ120cm"
     asin: "B0D4DGW4BQ"
+    image: "https://m.media-amazon.com/images/I/71XMvplMLlL._AC_SL200_.jpg"
     price: "¥4,999"
   - title: "Keeplush モンステラ 高さ120cm フェイクグリーン"
     asin: "B0F2Z2J1VQ"
+    image: "https://m.media-amazon.com/images/I/6160mV48a2L._AC_SL200_.jpg"
     price: "¥7,999"
 ---
 

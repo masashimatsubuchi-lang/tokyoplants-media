@@ -26,6 +26,7 @@ amazonProducts:
     price: "¥671前後（参考価格）"
   - title: "東京寿園 イオンの力で元気に育つ栄養剤（イオン交換樹脂栄養剤）"
     asin: "B0C6Q9827D"
+    image: "https://m.media-amazon.com/images/I/710MEhmZyEL._AC_SL200_.jpg"
     note: "培地の上に撒く粒状タイプ。根腐れ防止剤を兼ねる。評価★3.9・レビュー40件（2026-09-02 Amazon直接確認・在庫あり・Prime対象）"
     price: "¥872前後（参考価格）"
 ---

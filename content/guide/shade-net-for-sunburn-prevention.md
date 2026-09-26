@@ -27,6 +27,7 @@ amazonProducts:
     note: "反射率の高い白色ネット。光を抑えつつ明るさを保ちたい場合に"
   - title: "日本製 UVカット率90% レースカーテン「UVプロテクション」100×176cm2枚組"
     asin: "B071DBNQ4W"
+    image: "https://m.media-amazon.com/images/I/61kKjTkERpL._AC_SL200_.jpg"
     price: "¥2,980前後"
     note: "室内窓際向け。遮熱・ミラー加工付きで西日対策にも"
 ---

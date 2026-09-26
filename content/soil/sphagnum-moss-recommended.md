@@ -14,14 +14,19 @@ relatedSlugs:
 amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
     asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
   - title: "ニュージーランド産 圧縮水苔 AAA 約500g 大容量"
     asin: "B09CNKS2TF"
+    image: "https://m.media-amazon.com/images/I/71rwtkQd-GL._AC_SL200_.jpg"
   - title: "共和開発 チリ産水苔 AA 150g"
     asin: "B09KVC22B5"
+    image: "https://m.media-amazon.com/images/I/51pzw95PcjL._AC_SL200_.jpg"
   - title: "怪獣モス 圧縮水苔 150g（ビカクシダ板付け用）"
     asin: "B0DK6W7WXJ"
+    image: "https://m.media-amazon.com/images/I/81SOHxNpzBL._AC_SL200_.jpg"
   - title: "乾燥ミズゴケ（胡蝶蘭・蘭・観葉植物用）"
     asin: "B0D1K6DF1T"
+    image: "https://m.media-amazon.com/images/I/71umgPr+7lL._AC_SL200_.jpg"
 ---
 
 # 水苔おすすめ5選｜ランクと用途で選ぶのが正解

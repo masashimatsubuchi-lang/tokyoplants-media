@@ -8,12 +8,14 @@
  *   <!-- callout type="warning" title="…" --> 本文Markdown  <!-- /callout -->
  *   <!-- cards cols="3" -->                  #### カード見出し\n本文 ...  <!-- /cards -->
  *   <!-- calendar title="年間カレンダー" -->  | 作業 | 1 | 2 | … | 12 | のMarkdown表  <!-- /calendar -->
+ *   <!-- mix title="バランス型" -->           - 素材名 | 割合(数値) ...  <!-- /mix -->
+ *   <!-- amazon-cards title="..." -->        （中身は空。frontmatterのamazonProductsを描画） <!-- /amazon-cards -->
  *
  * 内側はremarkで既にHTML化されているので、ここでは <li> / <h4> / <table> を素朴に切り出す。
  * 入れ子のブロックには対応しない。
  */
 
-export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar"] as const;
+export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar", "mix", "amazon-cards"] as const;
 export type BlockName = (typeof BLOCK_NAMES)[number];
 
 export interface KeyFactItem {
@@ -33,6 +35,10 @@ export interface CardItem {
   title: string;
   bodyHtml: string;
 }
+export interface MixItem {
+  label: string;
+  ratio: number;
+}
 export interface CalendarRow {
   label: string;
   cells: string[]; // 12個。◎ ○ △ × - のいずれか（それ以外はそのまま表示）
@@ -44,7 +50,9 @@ export type ParsedBlock =
   | { kind: "steps"; title: string; items: StepItem[] }
   | { kind: "callout"; title: string; variant: "warning" | "tip" | "info"; bodyHtml: string }
   | { kind: "cards"; title: string; cols: 2 | 3; items: CardItem[] }
-  | { kind: "calendar"; title: string; months: string[]; rows: CalendarRow[]; legend: string };
+  | { kind: "calendar"; title: string; months: string[]; rows: CalendarRow[]; legend: string }
+  | { kind: "mix"; title: string; items: MixItem[] }
+  | { kind: "amazon-cards"; title: string; note: string };
 
 export function stripTags(html: string): string {
   return html.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").trim();
@@ -108,6 +116,19 @@ export function parseBlock(name: BlockName, attrs: Record<string, string>, inner
       }
       return { kind: "cards", title, cols, items };
     }
+    case "mix":
+      return {
+        kind: "mix",
+        title,
+        items: listItems(innerHtml)
+          .map((li) => {
+            const [label = "", ratio = ""] = stripTags(li).split("|").map((x) => x.trim());
+            return { label, ratio: Number(ratio.replace(/[^0-9.]/g, "")) || 0 };
+          })
+          .filter((x) => x.label && x.ratio > 0),
+      };
+    case "amazon-cards":
+      return { kind: "amazon-cards", title, note: attrs.note ?? "" };
     case "calendar": {
       const rows: CalendarRow[] = [];
       let months: string[] = [];

@@ -28,10 +28,12 @@ baseProducts:
 amazonProducts:
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
     asin: "B0BXPKS4S7"
+    image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SL200_.jpg"
     note: "Ra97高演色・自然光に近い光質。アンスリウムの葉色・ベルベット感を美しく引き出す"
     price: "¥14,000〜"
   - title: "BRIM FLORA クリップ式 植物育成ライト"
     asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
     note: "クリップ式・調光タイマー付き。アンスリウムへの補光入門に最適"
     price: "¥4,780〜"
 ---

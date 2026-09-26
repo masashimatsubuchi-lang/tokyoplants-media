@@ -30,12 +30,14 @@ baseProducts:
 amazonProducts:
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
+    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
     price: "¥2,500前後"
   - title: "KINCHO園芸（旧:住友化学園芸） GFベンレート水和剤 0.5g×10包"
     asin: "B0027WRLLK"
     price: "¥650前後"
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
+    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
     price: "¥2,448"
 ---
 

@@ -23,10 +23,12 @@ amazonProducts:
     price: "¥550"
   - title: "Charm(チャーム) ゼオライトの根腐れ防止剤 1L"
     asin: "B09LYBTSH8"
+    image: "https://m.media-amazon.com/images/I/51Kwv6p0jHL._AC_SL200_.jpg"
     note: "★4.0・85件のレビュー、在庫あり（2026-09-15確認）。アクア用品大手Charmの自社ブランド品"
     price: "¥730"
   - title: "東京寿園 ゼオライト 国産 天然 吸着 水質浄化 2L"
     asin: "B0CKF99LL6"
+    image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
     note: "★4.4・69件のレビュー、在庫あり（2026-09-15確認）。国産天然ゼオライトで水槽・ハイドロカルチャーにも対応"
     price: "¥1,670"
 ---

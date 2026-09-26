@@ -23,6 +23,7 @@ amazonProducts:
     price: "¥365前後"
   - title: "ニッサチェイン 用心鎖 ステンレス Φ4.0×450mm"
     asin: "B09Q5ZMWYJ"
+    image: "https://m.media-amazon.com/images/I/51v6PjtpXjL._AC_SL200_.jpg"
     price: "¥749前後"
   - title: "DRAW A LINE 002 突っ張り棒タイプB（平安伸銅工業）耐荷重2.5〜15kg"
     asin: "B06XKK694W"

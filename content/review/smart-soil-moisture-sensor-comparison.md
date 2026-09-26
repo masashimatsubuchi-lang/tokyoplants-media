@@ -14,10 +14,12 @@ relatedSlugs:
 amazonProducts:
   - title: "YAMRON 4-in-1 土壌水分計（水分・pH・温度・日照）"
     asin: "B0DF4TB93J"
+    image: "https://m.media-amazon.com/images/I/61UgGNX3GmL._AC_SL200_.jpg"
     note: "デジタル数値表示・大画面バックライトLCD。電池式でアプリ不要。評価★4.0・レビュー3,324件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
     price: "¥2,798前後（参考価格）"
   - title: "Mcbazel 土壌酸度計 5in1（水分・肥沃度・温度・照度・pH）"
     asin: "B0FRS7JXQP"
+    image: "https://m.media-amazon.com/images/I/710Lu+ZMUZL._AC_SL200_.jpg"
     note: "デュアルプローブ・デジタル表示・30秒自動オフ。電池式でアプリ不要。評価★4.0・レビュー298件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
     price: "¥2,659前後（参考価格）"
 ---

@@ -1,4 +1,5 @@
 import type { ParsedBlock } from "@/lib/articleBlocks";
+import type { AmazonProduct } from "@/lib/posts";
 
 /**
  * 記事本文に埋め込む視覚ブロック群（2026-09-22導入）。
@@ -205,7 +206,100 @@ function RowCells({ row }: { row: { label: string; cells: string[] } }) {
   );
 }
 
-export default function ArticleBlock({ block }: { block: ParsedBlock }) {
+
+/* ---------- mix: 配合レシピの帯グラフ ---------- */
+const MIX_COLORS = ["bg-stone-400", "bg-stone-600", "bg-amber-700", "bg-yellow-500", "bg-emerald-600", "bg-sky-600"];
+
+function Mix({ block }: { block: Extract<ParsedBlock, { kind: "mix" }> }) {
+  const total = block.items.reduce((n, i) => n + i.ratio, 0) || 1;
+  return (
+    <section className="not-prose my-6">
+      {block.title && (
+        <p className="mb-2 text-[13px] font-bold text-zinc-800">{block.title}</p>
+      )}
+      <div className="flex h-7 w-full overflow-hidden rounded-lg">
+        {block.items.map((it, i) => (
+          <div
+            key={i}
+            className={`${MIX_COLORS[i % MIX_COLORS.length]} flex items-center justify-center`}
+            style={{ flexGrow: it.ratio, flexBasis: 0 }}
+            title={`${it.label} ${Math.round((it.ratio / total) * 100)}%`}
+          >
+            <span className="text-[10px] font-bold text-white/90">{Math.round((it.ratio / total) * 100)}%</span>
+          </div>
+        ))}
+      </div>
+      <ul className="mt-2 flex flex-wrap gap-x-4 gap-y-1">
+        {block.items.map((it, i) => (
+          <li key={i} className="flex items-center gap-1.5 text-[12px] text-zinc-600">
+            <span className={`inline-block h-2.5 w-2.5 rounded-sm ${MIX_COLORS[i % MIX_COLORS.length]}`} />
+            {it.label}
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+
+/* ---------- amazon-cards: frontmatter の amazonProducts を本文中に表示 ---------- */
+function AmazonCards({
+  block,
+  products,
+}: {
+  block: Extract<ParsedBlock, { kind: "amazon-cards" }>;
+  products: AmazonProduct[];
+}) {
+  if (products.length === 0) return null;
+  const tag = "tokyoplants0f-22";
+  return (
+    <section className="not-prose my-8 rounded-2xl border border-amber-200 bg-amber-50/50 p-4 sm:p-5">
+      <div className="mb-3 flex items-baseline gap-2">
+        <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-amber-700">Amazon</span>
+        <span className="text-[15px] font-bold text-zinc-800">{block.title || "Amazonで買えるサイズ"}</span>
+      </div>
+      <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+        {products.map((p) => (
+          <a
+            key={p.asin ?? p.url}
+            href={p.asin ? `https://www.amazon.co.jp/dp/${p.asin}?tag=${tag}` : p.url}
+            target="_blank"
+            rel="sponsored noopener noreferrer"
+            className="flex items-center gap-3 rounded-xl border border-amber-200 bg-white p-3 transition-colors hover:border-amber-400 hover:bg-amber-50/60"
+          >
+            {(p.image || p.asin) && (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                // 画像は frontmatter の image を優先する。
+                // 従来の images/P/{ASIN} 形式は商品によって1x1の空画像しか返さないため、
+                // 商品ページから取得した images/I/{ID} を image に入れておくこと。
+                src={p.image || `https://m.media-amazon.com/images/P/${p.asin}.01._SL200_.jpg`}
+                alt=""
+                className="h-[72px] w-[72px] shrink-0 rounded-lg bg-white object-contain"
+                loading="lazy"
+              />
+            )}
+            <div className="min-w-0">
+              <p className="text-[13.5px] font-bold leading-snug text-zinc-800">{p.title}</p>
+              {p.price && <p className="mt-0.5 text-[13px] font-bold text-amber-800">{p.price}</p>}
+              {p.note && <p className="mt-0.5 text-[11.5px] leading-snug text-zinc-500">{p.note}</p>}
+            </div>
+          </a>
+        ))}
+      </div>
+      <p className="mt-2.5 text-[11px] text-zinc-500">
+        {block.note || "Amazonアソシエイトリンクを含みます。価格・在庫は変動します。"}
+      </p>
+    </section>
+  );
+}
+
+export default function ArticleBlock({
+  block,
+  amazonProducts = [],
+}: {
+  block: ParsedBlock;
+  amazonProducts?: AmazonProduct[];
+}) {
   switch (block.kind) {
     case "key-facts":
       return <KeyFacts block={block} />;
@@ -219,5 +313,9 @@ export default function ArticleBlock({ block }: { block: ParsedBlock }) {
       return <Cards block={block} />;
     case "calendar":
       return <Calendar block={block} />;
+    case "mix":
+      return <Mix block={block} />;
+    case "amazon-cards":
+      return <AmazonCards block={block} products={amazonProducts} />;
   }
 }

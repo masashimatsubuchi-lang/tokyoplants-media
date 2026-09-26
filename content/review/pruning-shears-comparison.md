@@ -17,6 +17,7 @@ baseProducts:
 amazonProducts:
   - title: "剪定バサミ（女性専用）【植物育成のプロW監修】"
     asin: "B0DM8NDFLN"
+    image: "https://m.media-amazon.com/images/I/71UcRLzlsrL._AC_SL200_.jpg"
     note: "軽量で握りやすい設計の超入門モデル。「女性専用」を謳っているが、力に自信がない人・初めて剪定バサミを買う人にも扱いやすい。1,000円以下で試せる最安クラス。評価★4.3・レビュー298件（2026-09-07 Amazon直接確認・在庫あり・Prime対象・過去1ヶ月で500点以上購入）"
     price: "¥999〜"
   - title: "千吉(Senkichi) ラチェット式 剪定鋏 SGP-22R"

@@ -14,10 +14,12 @@ relatedSlugs:
 amazonProducts:
   - title: "T4U 12cm 給水プランター 4個セット（Medium）"
     asin: "B0CWRL4LK3"
+    image: "https://m.media-amazon.com/images/I/71OUNyXdn-L._AC_SL200_.jpg"
     note: "給水ひも式・水位インジケーター付き。小〜中型の観葉植物・多肉植物向け。評価★4.1・レビュー2,643件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
     price: "¥2,399前後（参考価格）"
   - title: "T4U 16cm 給水プランター 4個セット（Large）"
     asin: "B0CWRKSHZP"
+    image: "https://m.media-amazon.com/images/I/715orur5GlL._AC_SL200_.jpg"
     note: "同シリーズの大型サイズ。成長した観葉植物向け。評価★4.1・レビュー2,643件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
     price: "¥3,199前後（参考価格）"
   - title: "アイメディア かしこい植木鉢 5号用（自動給水）"

@@ -25,6 +25,7 @@ amazonProducts:
     price: "¥560〜"
   - title: "コバエ取り 粘着シート 24枚入り"
     asin: "B0C1VSHDFW"
+    image: "https://m.media-amazon.com/images/I/619+P9QwMaL._AC_SL200_.jpg"
     note: "土挿しタイプ。コバエを物理的に捕獲"
     price: "¥500〜"
 ---

@@ -26,18 +26,23 @@ hideAmazonBlock: true
 amazonProducts:
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
     asin: "B0BXPKS4S7"
+    image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SL200_.jpg"
     note: "Amazon評価 4.7 / 電球型・高PPFD・演色性Ra97"
   - title: "BARREL NEO TSUKUYOMI LED 20W 植物育成ライト"
     asin: "B0BZM6X9GW"
+    image: "https://m.media-amazon.com/images/I/61jt+XByDeL._AC_SL200_.jpg"
     note: "Amazon評価 4.6 / 電球型・自然光に近い色温度4000-5000K・Ra97"
   - title: "BRIM PANEL A 植物育成パネルライト"
     asin: "B0CP4BVWMN"
+    image: "https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL200_.jpg"
     note: "Amazon評価 4.5 / パネル型・広範囲照射"
   - title: "BRIM SOL 24W 植物育成ライト"
     asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
     note: "Amazon評価 4.4 / 電球型（E26口金）・コスパ重視"
   - title: "BRIM FLORA クリップ式 植物育成ライト"
     asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
     note: "Amazon評価 4.4 / クリップ式・調光タイマー付き"
 ---
 

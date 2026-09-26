@@ -23,9 +23,11 @@ amazonProducts:
     note: "Amazon評価 4.2 / 1,224件（2026-02-20取得）"
   - title: "光触媒フェイクグリーン モンステラ（国内製造）"
     asin: "B07374RDJM"
+    image: "https://m.media-amazon.com/images/I/71sRJAMs-nL._AC_SL200_.jpg"
     note: "Amazon評価 4.0 / 526件（2026-02-20取得）"
   - title: "光触媒ミニ観葉 3個セット"
     asin: "B0B4ZV11SM"
+    image: "https://m.media-amazon.com/images/I/61VOiv2RcXL._AC_SL200_.jpg"
     note: "Amazon評価 4.2 / 188件（2026-02-20取得）"
 hideAmazonBlock: true
 ---

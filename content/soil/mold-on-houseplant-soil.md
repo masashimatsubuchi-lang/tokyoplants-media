@@ -25,6 +25,7 @@ amazonProducts:
     price: "¥600〜"
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
+    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
     note: "土に混ぜて水はけ改善・カビ予防に"
     price: "¥2,500〜"
 ---

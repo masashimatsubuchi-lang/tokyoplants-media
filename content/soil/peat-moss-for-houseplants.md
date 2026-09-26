@@ -18,8 +18,10 @@ baseProducts:
 amazonProducts:
   - title: "pH調整済みピートモス 5L（欧州産）"
     asin: "B07S1NQN53"
+    image: "https://m.media-amazon.com/images/I/711jqHYJUkL._AC_SL200_.jpg"
   - title: "バーミキュライト 18L 土壌改良用"
     asin: "B01DN24QPQ"
+    image: "https://m.media-amazon.com/images/I/71urJNZWRQL._AC_SL200_.jpg"
   - title: "ヤシガラチップ 大粒 10L（ピートモス代替素材）"
     asin: "B0CSSD9N5K"
 ---

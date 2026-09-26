@@ -17,6 +17,7 @@ amazonProducts:
     asin: "B09649Y5C1"
   - title: "フード・インク（DVD）"
     asin: "B07X4HYVQS"
+    image: "https://m.media-amazon.com/images/I/51uG5ELARsL._AC_SL200_.jpg"
 ---
 
 # 植物好きが見るべき映画・ドキュメンタリー5選｜日本語字幕・配信で観られる作品

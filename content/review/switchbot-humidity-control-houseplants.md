@@ -24,6 +24,7 @@ amazonProducts:
     price: "¥2,480〜"
   - title: "SwitchBot プラグミニ（電力計測モデル）"
     asin: "B09XMZQMBP"
+    image: "https://m.media-amazon.com/images/I/61ojHWVWnaL._AC_SL200_.jpg"
     note: "Amazon評価 ★3.6 / 3,575件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）。Wi-Fi+Bluetooth対応、消費電力モニター付き"
     price: "¥2,980〜"
   - title: "SwitchBot ハブミニ"
@@ -32,6 +33,7 @@ amazonProducts:
     price: "¥3,980〜"
   - title: "SwitchBot 気化式加湿器（4.5L）"
     asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
     note: "最大750ml/h・静音18dB・フィルター自動乾燥。Amazon評価 ★4.2 / 542件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）"
     price: "¥19,800〜"
 ---

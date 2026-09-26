@@ -32,6 +32,7 @@ amazonProducts:
     note: "大容量4段・保温保湿・冬越し向け"
   - title: "IKEA RUDSTA ルードスタ ガラスキャビネット"
     asin: "B08VHVGHXD"
+    image: "https://m.media-amazon.com/images/I/619k2xOwFBL._AC_SL200_.jpg"
     note: "ガラス密閉で高湿度維持・インテリア性抜群"
 ---
 

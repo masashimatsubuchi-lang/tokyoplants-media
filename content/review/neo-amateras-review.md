@@ -19,6 +19,7 @@ baseProducts:
 amazonProducts:
   - title: "【BARREL公式】植物育成LEDライト NEO AMATERAS-20W"
     asin: "B0BXPKS4S7"
+    image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SL200_.jpg"
     note: "Amazon評価 4.7（7件）/ PPFD406µmol/m²/s・Ra97・プライム対象"
     price: "¥14,000〜"
 ---

@@ -14,14 +14,17 @@ relatedSlugs:
 amazonProducts:
   - title: "Ailunate 試験管フラワーベース 木製フレーム（試験管5本）"
     asin: "B0CV9TCSQR"
+    image: "https://m.media-amazon.com/images/I/51B2HG8agqL._AC_SL200_.jpg"
     note: "卓上・壁掛け両対応の試験管型。試験管3本タイプも選択可。評価★4.2・レビュー47件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
     price: "¥1,478前後（参考価格）"
   - title: "Glasseam マッシュルームプランター繁殖花瓶 10個セット"
     asin: "B0C7QQDQH1"
+    image: "https://m.media-amazon.com/images/I/71Ql6d4lpwL._AC_SL200_.jpg"
     note: "キノコ型のミニガラス花瓶10個セット。複数の挿し穂をまとめて楽しみたい人向け。評価★4.8・レビュー626件（2026-09-05 Amazon直接確認・在庫あり）。海外セラーの発送のためPrime対象外・配送に数日かかります"
     price: "¥7,804前後（参考価格）"
   - title: "BlogBlog ガラスマッシュルーム花瓶（4色セット）"
     asin: "B0CP7L494P"
+    image: "https://m.media-amazon.com/images/I/61Vopx94i6L._AC_SL200_.jpg"
     note: "キノコ型ガラス花瓶4色セット。1個あたりの単価を抑えたい人向け。評価★4.8・レビュー76件（2026-09-05 Amazon直接確認・在庫あり）。Prime対象外"
     price: "¥3,516前後（参考価格）"
 ---

@@ -26,6 +26,7 @@ amazonProducts:
     note: "栃木県産・粒が崩れにくい。観葉植物の基本用土として定番（★4.2 / 556件）"
   - title: "日向土 小粒 18L（ひゅうが土）"
     asin: "B004OPG0X8"
+    image: "https://m.media-amazon.com/images/I/81Pusn29YzL._AC_SL200_.jpg"
     note: "水はけ強化に。パキラの根腐れを防ぐ定番素材"
   - title: "あかぎ園芸 パーライト Sサイズ 18L"
     asin: "B00GTC2U42"

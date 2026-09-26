@@ -26,10 +26,12 @@ baseProducts:
 amazonProducts:
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
     asin: "B0BXPKS4S7"
+    image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SL200_.jpg"
     note: "高PPFD・Ra97高演色。ビカクシダ本格栽培に最適なスポットライト"
     price: "¥14,000〜"
   - title: "HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）"
     asin: "B0DCFSQP9F"
+    image: "https://m.media-amazon.com/images/I/41v1Jnh-rqL._AC_SL200_.jpg"
     note: "バータイプ・ラック育成向け。複数株をまとめて照射。3年保証"
     price: "¥10,000〜"
 ---

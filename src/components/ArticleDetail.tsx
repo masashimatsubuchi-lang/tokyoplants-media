@@ -310,7 +310,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   return <ComparisonSummary key={i} title={seg.title} left={seg.left} right={seg.right} />;
                 }
                 if (seg.type === "block") {
-                  return <ArticleBlock key={i} block={seg.block} />;
+                  return <ArticleBlock key={i} block={seg.block} amazonProducts={post.amazonProducts ?? []} />;
                 }
                 return (
                   <CharacterNote key={i} character={seg.character} type={seg.noteType} html={seg.innerHtml} />

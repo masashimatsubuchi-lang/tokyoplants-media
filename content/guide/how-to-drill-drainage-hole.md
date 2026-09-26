@@ -20,9 +20,11 @@ amazonProducts:
     note: "Amazon評価 3.9（3,347件）／プラスチック・金属鉢向けの通常ドリルビット"
   - title: "ZOYUBS 陶器穴あけドリルセット（六角シャンクガラスドリルビット 3〜10mm 5本入）"
     asin: "B08GZGZ1PQ"
+    image: "https://m.media-amazon.com/images/I/51t+V2OsrvL._AC_SL200_.jpg"
     note: "Amazon評価 3.5（61件）／陶器・ガラス・タイル用のダイヤモンド系ドリルビット"
   - title: "ShopXJ ダイヤモンドホールソー（陶器に穴あけ）"
     asin: "B0CK87C1WH"
+    image: "https://m.media-amazon.com/images/I/514bt0BLtKL._AC_SL200_.jpg"
     note: "Amazon評価 4.3（71件）／陶器・磁器の大きめの穴あけに使えるホールソータイプ"
 ---
 

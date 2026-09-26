@@ -24,6 +24,7 @@ amazonProducts:
     price: "¥500前後（参考価格）"
   - title: "ひゅうが土販売 日向土 小粒 2L"
     asin: "B00I4QKGGA"
+    image: "https://m.media-amazon.com/images/I/41KqL6qkDJL._AC_SL200_.jpg"
     note: "宮崎県産の硬質日向石。崩れにくく再利用しやすい。評価★4.3・レビュー94件（確認済み）"
     price: "¥819前後（参考価格）"
 ---

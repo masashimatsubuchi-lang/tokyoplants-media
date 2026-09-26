@@ -21,12 +21,15 @@ hideAmazonBlock: true
 amazonProducts:
   - title: "BRIM FLORA クリップ式 植物育成ライト"
     asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
     note: "Amazon評価 4.4（909件）/ クリップ式・調光10段階・タイマー内蔵"
   - title: "BRIM SOL 24W 植物育成ライト"
     asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
     note: "Amazon評価 4.4（647件）/ 電球型（E26口金）・高PPFD・Ra96〜98.5"
   - title: "BRIM PANEL A 植物育成パネルライト"
     asin: "B0CP4BVWMN"
+    image: "https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL200_.jpg"
     note: "Amazon評価 4.5（325件）/ パネル型・IR/UV搭載・広範囲均一照射"
 ---
 

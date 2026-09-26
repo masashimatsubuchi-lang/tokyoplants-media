@@ -24,14 +24,17 @@ baseProducts:
 amazonProducts:
   - title: "BRIM FLORA クリップ式 植物育成ライト（調光タイマー付き）"
     asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
     note: "入門モデル。クリップ式で取り付け簡単・タイマーで自動管理"
     price: "¥4,780〜"
   - title: "BRIM SOL 24W 植物育成ライト"
     asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
     note: "クリップ式・24W高出力。モンステラ・アロカシアなど中光量植物に"
     price: "¥3,426〜"
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
     asin: "B0BXPKS4S7"
+    image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SL200_.jpg"
     note: "Ra97高演色・高PPFD。本格栽培・コレクター植物向けの最上位モデル"
     price: "¥14,000〜"
 ---

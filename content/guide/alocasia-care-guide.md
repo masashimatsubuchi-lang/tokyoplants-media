@@ -26,12 +26,14 @@ baseProducts:
 amazonProducts:
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
+    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
     price: "¥2,500前後"
   - title: "Levoit Classic200 超音波加湿器 4L｜静音・40時間連続"
     asin: "B083JVNMV2"
     price: "¥4,000前後"
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
+    image: "https://m.media-amazon.com/images/I/41-AFmQrrHL._AC_SL200_.jpg"
     price: "¥1,593前後"
 ---
 

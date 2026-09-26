@@ -22,9 +22,11 @@ baseProducts:
 amazonProducts:
   - title: "SwitchBot サーキュレーター Lite（静音・首振り・DCモーター）"
     asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
     note: "DCモーター搭載・30畳対応・Alexa/Google Home対応・静音22dB"
   - title: "上下左右首振り DCサーキュレーター"
     asin: "B0BZYJGZ31"
+    image: "https://m.media-amazon.com/images/I/71qpNZKtg3L._AC_SL200_.jpg"
     note: "Amazon評価 4.6 / 2,148件（2026-02-20取得）"
 ---
 

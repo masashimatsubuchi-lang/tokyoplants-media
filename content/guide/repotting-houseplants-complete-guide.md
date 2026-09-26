@@ -28,9 +28,11 @@ baseProducts:
 amazonProducts:
   - title: "ITANSE スリット鉢 6・7・8号 各1個 計3個セット（ブラック）"
     asin: "B08CXX4B4X"
+    image: "https://m.media-amazon.com/images/I/611ZZ6LnsdL._AC_SL200_.jpg"
     note: "排水性・通気性に優れたスリット入り。植え替え先の鉢として定番"
   - title: "鉢底ネット 丸型 20枚入り"
     asin: "B092JRTWBX"
+    image: "https://m.media-amazon.com/images/I/91E6dqM5abL._AC_SL200_.jpg"
     note: "鉢底の穴をふさぐネット。土こぼれ・虫の侵入防止に"
     price: "¥300〜"
 hubIndex:

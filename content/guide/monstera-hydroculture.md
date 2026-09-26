@@ -24,12 +24,15 @@ baseProducts:
 amazonProducts:
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"
+    image: "https://m.media-amazon.com/images/I/9196PXYbEdL._AC_SL200_.jpg"
     price: "¥1,100前後"
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
+    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
     price: "¥2,500前後"
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
+    image: "https://m.media-amazon.com/images/I/61AcOWOTsxL._AC_SL200_.jpg"
     price: "¥2,599前後"
 ---
 

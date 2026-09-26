@@ -30,6 +30,7 @@ baseProducts:
 amazonProducts:
   - title: "ゼオライト 根腐れ防止剤 中粒 2L"
     asin: "B0CZJKWQKB"
+    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
     note: "ハイドロ培地に混ぜて根腐れ防止・水質浄化"
     price: "¥2,500〜"
 ---

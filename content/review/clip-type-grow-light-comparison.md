@@ -19,14 +19,17 @@ baseProducts:
 amazonProducts:
   - title: "SANSI 小型1〜3鉢用 植物育成ライト LEDクリップ式 7W"
     asin: "B0GHQKG46C"
+    image: "https://m.media-amazon.com/images/I/712vwjueaSL._AC_SL200_.jpg"
     note: "1〜3鉢向けに設計されたコンパクトモデル。評価★4.6・レビュー25件・¥3,359（2026-09-03確認）"
     price: "¥3,359前後"
   - title: "BRIM(ブリム) FLORA 植物育成ライト クリップ式 12W 1ヘッド"
     asin: "B0FS1CLL8K"
+    image: "https://m.media-amazon.com/images/I/71U86HNJLsL._AC_SL200_.jpg"
     note: "国内ブランドの1ヘッドエントリーモデル。評価★4.3・レビュー922件・¥2,741（2026-09-03確認）"
     price: "¥2,741前後"
   - title: "BRIM(ブリム) クリップソケット E26 電球ソケット"
     asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
     note: "E26電球型ライトと組み合わせるクリップソケット。評価★4.3・レビュー297件・¥1,910（2026-09-03確認）"
     price: "¥1,910前後"
 ---

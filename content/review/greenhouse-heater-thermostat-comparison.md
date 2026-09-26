@@ -36,10 +36,12 @@ amazonProducts:
     price: "¥8,960（2026-09-26確認）"
   - title: "INKBIRD サーモスタット タイマー機能 加熱冷却両用 サーモコントローラー"
     asin: "B0GWPWQLDF"
+    image: "https://m.media-amazon.com/images/I/61qtT6NvFUL._AC_SL200_.jpg"
     note: "Amazon評価 4.2 / 14件・¥2,999（2026-09-26取得）。温度制御範囲-40〜100℃で10℃前後の低めの設定に対応。IP67防水プローブ付き・停電後の設定保持メモリーあり"
     price: "¥2,999（2026-09-26確認）"
   - title: "Inkbird 温度コントローラー ITC-308（2ステージアウトレット）"
     asin: "B08LVJCR8K"
+    image: "https://m.media-amazon.com/images/I/61eopKTN6jL._AC_SL200_.jpg"
     note: "Amazon評価 3.7 / 81件・¥4,699（2026-09-26取得）。加熱側と冷却側の2系統を別々に制御できる。最大出力1100W、温度校正・遅延始動保護つき"
     price: "¥4,699（2026-09-26確認）"
 ---

@@ -19,14 +19,17 @@ baseProducts:
 amazonProducts:
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
+    image: "https://m.media-amazon.com/images/I/61AcOWOTsxL._AC_SL200_.jpg"
     note: "定番の標準サイズ。ポリエステル繊維製で手で曲げて成形できる。評価★3.4・レビュー28件（2026-07-07確認）"
     price: "¥2,599前後"
   - title: "園芸支柱 120cm 太め モンステラ支柱 ココスティック"
     asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
     note: "極太タイプ。大株・重い葉を支えたい場合に。評価★4.3・レビュー131件（2026-07-07確認）"
     price: "¥1,349前後"
   - title: "YOUSHY園芸支柱 ココスティック 40cm×2本＋麻縄2m＋植物ラベル5本セット"
     asin: "B09DG9KRZ7"
+    image: "https://m.media-amazon.com/images/I/71zAmMtBNtL._AC_SL200_.jpg"
     note: "小型鉢・複数株向けの2本セット。麻縄で連結して高さを延長できる。評価★4.1・レビュー389件（2026-07-07確認）"
     price: "¥1,699前後"
 ---

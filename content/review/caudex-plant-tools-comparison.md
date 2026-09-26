@@ -21,10 +21,12 @@ amazonProducts:
     price: "¥453前後（参考価格）"
   - title: "BLACK PLASTIC POT【SHALLOW】シャロータイプ 黒 プラ鉢（塊根・コーデックス用）"
     asin: "B0C5M5HPC4"
+    image: "https://m.media-amazon.com/images/I/51e4vNJlBLL._AC_SL200_.jpg"
     note: "塊根植物向けに作られた浅型プラ鉢。評価★4.2・レビュー14件（2026-09-02 Amazon直接確認・在庫あり・Prime対象）"
     price: "¥780前後（参考価格）"
   - title: "SUStee(サスティー) 水やりチェッカー Mサイズ 5本セット White"
     asin: "B08PPML5TC"
+    image: "https://m.media-amazon.com/images/I/51-lyev8vgL._AC_SL200_.jpg"
     note: "色変化式スティック型・電池不要の定番水やりチェッカー。評価★4.2・レビュー5,096件（2026-09-02 Amazon直接確認・在庫あり・Prime対象）"
     price: "¥2,739前後（参考価格）"
 ---

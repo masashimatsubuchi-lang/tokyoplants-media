@@ -26,6 +26,7 @@ amazonProducts:
     note: "Amazon評価 4.2 / 1,378件（2026-02-20取得）"
   - title: "電動霧吹き 2L USB充電式"
     asin: "B0CRV32NCZ"
+    image: "https://m.media-amazon.com/images/I/41zbJqOLhsL._AC_SL200_.jpg"
 hideAmazonBlock: true
 ---
 

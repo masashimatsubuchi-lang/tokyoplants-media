@@ -21,10 +21,13 @@ amazonProducts:
     asin: "B07BG6W9S2"
   - title: "あかぎ園芸 パーライト 10L 軽量土壌改良材"
     asin: "B00I4O65L2"
+    image: "https://m.media-amazon.com/images/I/51sQsx-zkrL._AC_SL200_.jpg"
   - title: "あかぎ園芸 日向土 小粒 14L 超軽量"
     asin: "B00UBCG826"
+    image: "https://m.media-amazon.com/images/I/612bIbOg7TL._AC_SL200_.jpg"
   - title: "サカタのタネ スーパーミックスA 40L 軽量培養土"
     asin: "B07Y1B5XWJ"
+    image: "https://m.media-amazon.com/images/I/517exZmuwGL._AC_SL200_.jpg"
 ---
 
 「植え替えようとしたら鉢が重くて持ち上げられなかった」「ベランダに大鉢を並べたいけど床の耐荷重が心配」——そんな経験はありませんか？

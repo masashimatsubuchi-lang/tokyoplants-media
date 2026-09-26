@@ -22,6 +22,7 @@ amazonProducts:
     price: "¥3,064前後（参考価格）"
   - title: "HATUSOKU デジタル温湿度計 快適度顔表示付（シンプル・時計無し）ホワイト"
     asin: "B0CJ4BZBC2"
+    image: "https://m.media-amazon.com/images/I/612Rb+y8YyL._AC_SL200_.jpg"
     note: "顔マークで快適度がひと目でわかるシンプル設計。スタンド・マグネット・吊り下げの3WAY設置。評価★4.2・レビュー2,384件（2026-09-04 Amazon直接確認・在庫あり）"
     price: "¥999前後（参考価格）"
 ---

@@ -24,10 +24,12 @@ baseProducts:
 amazonProducts:
   - title: "iDOO 水耕栽培キット 水耕栽培セット 室内 植物育成LEDライト付き"
     asin: "B08ZCN278C"
+    image: "https://m.media-amazon.com/images/I/71HquesOKrL._AC_SL200_.jpg"
     note: "★4.0・レビュー6,429件、ベストセラー1位（育苗器カテゴリ）の定番モデル。同時に12株栽培可能、自動水循環システム搭載"
     price: "¥11,679〜"
   - title: "EastForce スマート水耕栽培キット 室内 水耕栽培 LEDライト 自動"
     asin: "B0FX4216W4"
+    image: "https://m.media-amazon.com/images/I/81IE9-Dn6tL._AC_SL200_.jpg"
     note: "★4.6・レビュー18件と件数は少なめだが評価は最高クラス。時計付きデジタルコントロールパネル搭載、最大20株栽培可能"
     price: "¥12,780〜"
   - title: "聖新陶芸 通年家庭菜園 簡単栽培キット バジル 香草ハーブ栽培（グリーンペット）"
@@ -36,6 +38,7 @@ amazonProducts:
     price: "¥1,226〜"
   - title: "iDOO 水耕栽培セット 水耕栽培キット 野菜栽培セット Wi-Fi アプリ対応"
     asin: "B0B3HFRDNX"
+    image: "https://m.media-amazon.com/images/I/71DdH3XfZ7L._AC_SL200_.jpg"
     note: "★4.2・レビュー174件。専用アプリで遠隔操作・状態確認ができる上位モデル、同時に12株栽培可能"
     price: "¥15,999〜"
 ---

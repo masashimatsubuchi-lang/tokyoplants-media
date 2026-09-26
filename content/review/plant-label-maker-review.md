@@ -22,10 +22,12 @@ amazonProducts:
     price: "¥5,500〜"
   - title: "ブラザー ピータッチキューブ PT-P300BT"
     asin: "B071RSC7ZH"
+    image: "https://m.media-amazon.com/images/I/61ROZ1lNLlL._AC_SL200_.jpg"
     note: "Bluetooth接続のラベルライター。テプラ用テープ（TZeテープ）は耐水・耐候タイプもあり屋外の鉢にも使いやすい。Amazon評価 ★4.3 / 5,250件（2026-07-06確認、在庫あり・Prime対応）"
     price: "¥5,480〜"
   - title: "植物ラベル 鉄製 T型 防錆 20本セット（ブラック）"
     asin: "B0B9GSGMG3"
+    image: "https://m.media-amazon.com/images/I/31Bla4pjouL._AC_SL200_.jpg"
     note: "サビ加工済みの鉄製プレート。プラスチックより高級感があり、屋外の鉢・花壇でも劣化しにくい。Amazon評価 ★4.3 / 25件（2026-07-06確認、在庫あり・Prime対応）"
     price: "¥2,999〜"
 ---

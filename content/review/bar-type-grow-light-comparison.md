@@ -20,10 +20,12 @@ baseProducts:
 amazonProducts:
   - title: "HaruDesign 植物育成LEDライト GL-T5 L530（18W×2本・全長53cm）"
     asin: "B0D362RR1R"
+    image: "https://m.media-amazon.com/images/I/41WnA-wmm2L._AC_SL200_.jpg"
     note: "コスパ重視の入門モデル。Samsung LM281B+Pro搭載・IP66防塵防水・連結拡張可。評価★4.6・レビュー65件（2026-09-08 Amazon直接確認・在庫あり）"
     price: "¥6,973前後"
   - title: "HaruDesign BAR LIGHT L610（Samsung LM281B+PRO）"
     asin: "B0DCFSQP9F"
+    image: "https://m.media-amazon.com/images/I/41v1Jnh-rqL._AC_SL200_.jpg"
     note: "国産・Samsung製LEDチップ使用。3年保証付き。評価★4.3・レビュー45件（2026-09-08 Amazon直接確認・在庫あり）"
     price: "¥5,587前後（2026-09-08確認）"
 ---

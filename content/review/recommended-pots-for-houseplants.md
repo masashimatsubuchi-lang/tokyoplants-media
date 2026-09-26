@@ -17,6 +17,7 @@ baseProducts:
 amazonProducts:
   - title: "ITANSE スリット鉢 6・7・8号セット"
     asin: "B08CXX4B4X"
+    image: "https://m.media-amazon.com/images/I/611ZZ6LnsdL._AC_SL200_.jpg"
     note: "通気性・排水性に優れたスリット入り。根詰まり・根腐れ防止の定番。Amazon評価4.0・64件（2026-09-10確認・在庫あり）"
     price: "¥3,480前後"
   - title: "プレステラ90 黒 10個セット"

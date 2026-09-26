@@ -14,15 +14,19 @@ relatedSlugs:
 amazonProducts:
   - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
     asin: "B0CG35V5CD"
+    image: "https://m.media-amazon.com/images/I/8135YWs3OAL._AC_SL200_.jpg"
     price: "¥3,580前後（2026-09-17確認）"
   - title: "WinJapan コルク樹皮 中サイズ150×200 5枚（訳あり・B級品）"
     asin: "B0CG4GFVSH"
+    image: "https://m.media-amazon.com/images/I/71v4NkQT8ZL._AC_SL200_.jpg"
     price: "¥3,280前後（2026-09-08確認）"
   - title: "ナチュラル ヘゴ板 13〜20cm×30〜40cm"
     asin: "B076F2LGHL"
+    image: "https://m.media-amazon.com/images/I/61px6B3vfjL._AC_SL200_.jpg"
     price: "¥1,500前後（⚠️2026-09-08時点で在庫切れ・再入荷未定を確認）"
   - title: "チャーム ビカクシダ コウモリラン 板付けセット"
     asin: "B0B2PHL6VM"
+    image: "https://m.media-amazon.com/images/I/61nTJDepXOL._AC_SL200_.jpg"
     price: "¥2,456前後（2026-09-08確認）"
 ---
 

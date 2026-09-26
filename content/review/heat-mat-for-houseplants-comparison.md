@@ -20,14 +20,17 @@ baseProducts:
 amazonProducts:
   - title: "【公式】BRIM(ブリム) 植物ヒートマット HMT-330"
     asin: "B0DFYXCL1H"
+    image: "https://m.media-amazon.com/images/I/81b5RN250PL._AC_SL200_.jpg"
     note: "★4.3・271件のレビュー、在庫あり（2026-09-15確認）。サーモスタット内蔵・デジタル温度表示・IP67防水。33×53cmで鉢を数個並べられるサイズ"
     price: "¥3,876"
   - title: "国華園 サーモ付きヒーターマットS（53×25.5cm）"
     asin: "B0BD4PZNMK"
+    image: "https://m.media-amazon.com/images/I/81yAof8EPyL._AC_SL200_.jpg"
     note: "★4.0・26件のレビュー、在庫あり（2026-09-15確認）。専用サーモスタット一体型で20〜42℃の範囲で設定可能"
     price: "¥6,380"
   - title: "国華園 植物育苗ヒーターマットL（122×53cm）"
     asin: "B081SNZJXM"
+    image: "https://m.media-amazon.com/images/I/61Q69pZZjbL._AC_SL200_.jpg"
     note: "★4.0・100件のレビュー、在庫あり（2026-09-15確認）。大型サイズで複数鉢をまとめて保温できる。サーモスタットは別売り"
     price: "¥5,800"
 ---

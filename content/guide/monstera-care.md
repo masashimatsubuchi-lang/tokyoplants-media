@@ -25,12 +25,15 @@ baseProducts:
 amazonProducts:
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
+    image: "https://m.media-amazon.com/images/I/41-AFmQrrHL._AC_SL200_.jpg"
     price: "¥1,593前後"
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
+    image: "https://m.media-amazon.com/images/I/61AcOWOTsxL._AC_SL200_.jpg"
     price: "¥2,599前後"
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
+    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
     price: "¥2,448"
 ---
 

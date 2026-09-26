@@ -13,6 +13,7 @@ relatedSlugs:
 amazonProducts:
   - title: "Bambu Lab A1 mini 3Dプリンター"
     asin: "B0CRYJBKQQ"
+    image: "https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL200_.jpg"
 ---
 
 # 3Dプリンターで観葉植物の鉢を自作する方法｜素材・データ・設定まで

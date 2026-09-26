@@ -23,6 +23,7 @@ amazonProducts:
     price: "¥650前後（参考価格）"
   - title: "苔玉（こけだま）の土5個セット"
     asin: "B01NAFYNN6"
+    image: "https://m.media-amazon.com/images/I/71bf18VUEuL._AC_SL200_.jpg"
     note: "けと土・赤玉土・富士砂・くん炭・緩効性肥料があらかじめブレンド済みの苔玉専用土5個セット。配合の手間を省きたい方に。評価★4.2・レビュー17件（2026-09-04 Amazon直接確認・在庫あり）。専門店による出品のためPrime対象外・送料別途がかかります"
     price: "¥550前後（参考価格）"
 ---

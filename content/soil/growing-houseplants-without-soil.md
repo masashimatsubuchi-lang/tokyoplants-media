@@ -19,6 +19,7 @@ baseProducts:
 amazonProducts:
   - title: "ハイドロボール（レカトン）10L 中粒"
     asin: "B0756BCTJK"
+    image: "https://m.media-amazon.com/images/I/91VyqehrXHL._AC_SL200_.jpg"
   - title: "水栽培ガラスベース MINI BULB VASE"
     asin: "B07STKQKKV"
   - title: "ハイポネックス キュート ハイドロ・水栽培用 150ml"

@@ -23,6 +23,7 @@ amazonProducts:
     price: "¥413前後（参考価格）"
   - title: "ハイポネックスジャパン 洋ランの土 14L"
     asin: "B07W51YKN9"
+    image: "https://m.media-amazon.com/images/I/81WFDqYe85L._AC_SL200_.jpg"
     note: "洋ラン栽培の定番肥料マグァンプ配合の大容量タイプ。大株や複数株をまとめて植え替える場合に。評価★4.1・レビュー57件（2026-09-03 Amazon直接確認・在庫あり・Prime対象）"
     price: "¥880前後（参考価格）"
 ---

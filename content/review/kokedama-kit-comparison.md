@@ -17,10 +17,12 @@ baseProducts:
 amazonProducts:
   - title: "苔玉キット 苗つき 紅長寿梅（べにちょうじゅばい）"
     asin: "B009XZJ48W"
+    image: "https://m.media-amazon.com/images/I/71lF7P+siTL._AC_SL200_.jpg"
     note: "紅長寿梅の苗・苔・専用土・糸・手袋・育て方としおりが一式そろった初心者向けキット。評価★4.1・レビュー34件（2026-09-04 Amazon直接確認・在庫あり）。専門店による出品のためPrime対象外・送料別途がかかります"
     price: "¥1,980前後（参考価格）"
   - title: "苔玉作成キット（苔玉（こけだま）を作りましょう！）"
     asin: "B009XZJ2UM"
+    image: "https://m.media-amazon.com/images/I/71oOG8UwnnL._AC_SL200_.jpg"
     note: "苗は付属せず、苔・専用土・糸・作り方のしおりのみが入った材料キット。手持ちの植物や好みの苗と組み合わせて作れる。評価★4.0・レビュー101件（2026-09-04 Amazon直接確認・在庫あり）。専門店による出品のためPrime対象外・送料別途がかかります"
     price: "¥660前後（参考価格）"
 ---

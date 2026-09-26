@@ -25,10 +25,12 @@ baseProducts:
 amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"
     asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
     note: "ウィリンキーの板付け・仕立て直しに使う長繊維水苔。評価★4.1・レビュー35件、在庫あり（2026-09-17 Amazon直接確認）"
     price: "参考価格帯は流通状況により変動（購入前にAmazon商品ページで要確認）"
   - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
     asin: "B0CG35V5CD"
+    image: "https://m.media-amazon.com/images/I/8135YWs3OAL._AC_SL200_.jpg"
     note: "凹凸のある天然コルクで根が活着しやすい板付け材。評価★4.0・レビュー224件、在庫あり（2026-09-17 Amazon直接確認）"
     price: "¥3,580"
 ---

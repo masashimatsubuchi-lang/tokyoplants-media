@@ -18,6 +18,7 @@ baseProducts:
 amazonProducts:
   - title: "SUStee 水やりチェッカー Mサイズ ホワイト 5本パック"
     asin: "B08PPML5TC"
+    image: "https://m.media-amazon.com/images/I/51-lyev8vgL._AC_SL200_.jpg"
     note: "色変化式・電池不要の定番。3.5〜6号鉢向け。複数の鉢にまとめて挿すなら5本パックが割安（★4.2・5,143件／2026-09-24時点）"
     price: "¥2,530"
   - title: "SUStee 水やりチェッカー Mサイズ ホワイト（1本）"

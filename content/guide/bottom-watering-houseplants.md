@@ -23,6 +23,7 @@ baseProducts:
 amazonProducts:
   - title: "T4U 13.5cm 自己給水プランター 水位計付き 3点セット"
     asin: "B07Q2VCPHQ"
+    image: "https://m.media-amazon.com/images/I/71GXJ4vhjVL._AC_SL200_.jpg"
     note: "底から水を吸い上げる底面給水専用鉢。水位計付きで水やり管理が楽に"
 ---
 

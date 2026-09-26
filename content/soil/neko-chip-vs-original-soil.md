@@ -21,12 +21,26 @@ baseProducts:
     price: "¥1,200〜"
 hideAmazonBlock: true
 amazonProducts:
-  - title: "ねこの道具屋 ねこチップ Mサイズ 5L"
-    asin: "B0D8YTWZQV"
-    note: "Amazon評価 4.6（106件）／まず試すのに使いやすい5Lサイズ"
-  - title: "ねこの道具屋 ねこチップ Mサイズ 10L"
+  - title: "ねこチップ ふわふわEX 5L"
+    asin: "B0H5R9NP5S"
+    image: "https://m.media-amazon.com/images/I/81bAAPeQ0KL._AC_SL200_.jpg"
+    price: "¥2,490"
+    note: "まず試すならこれ。粒が細かめでふんわり、小〜中鉢向き"
+  - title: "ねこチップ SSサイズ 10L"
+    asin: "B0DHD9119N"
+    image: "https://m.media-amazon.com/images/I/81bAAPeQ0KL._AC_SL200_.jpg"
+    price: "¥4,300"
+    note: "最も細かい粒。3〜4号の小鉢・多肉・実生に"
+  - title: "ねこチップ Sサイズ 10L"
+    asin: "B0H5RBGZ8C"
+    image: "https://m.media-amazon.com/images/I/61fUmL4V36L._AC_SL200_.jpg"
+    price: "¥4,300"
+    note: "中間の粒。5〜6号鉢の観葉植物に使いやすい"
+  - title: "ねこチップ Mサイズ 10L"
     asin: "B0D8YTS212"
-    note: "Amazon評価 4.6（106件）／複数鉢の植え替えや配合用に"
+    image: "https://m.media-amazon.com/images/I/81Qygn7JMmL._AC_SL200_.jpg"
+    price: "¥4,300"
+    note: "粗めの粒。7号以上の大鉢・着生植物・配合のベースに"
 ---
 
 # ねこチップとは｜メリット・デメリット・使い方を解説
@@ -36,6 +50,14 @@ amazonProducts:
 観葉植物を育てていると、一度はねこチップという名前を耳にしたことがあるのではないでしょうか。ヤシガラ由来のココチップと日向石（軽石の一種）を組み合わせた培地として、植物愛好家の間で広く知られる存在です。
 
 この記事では、ねこチップとはどういう培地なのかを基本から丁寧に解説します。特徴・メリット・デメリット・使い方・配合割合を整理した上で、tokyoplants が展開する有機配合土『I'm original SOIL（tokyoplantsプレミアム培養土）』との違いも比較します。「ねこチップ 違い」「ねこチップ 比較」「ねこチップ 代わり」と検索しているあなたが、自分の育て方・スタイルにぴったりの用土を選ぶための参考になれば幸いです。
+
+<!-- key-facts title="30秒でわかるねこチップ" -->
+- **正体**：ヤシガラのココチップ＋日向石を混ぜた**植え込み資材**。いわゆる「培養土」ではない
+- **得意**：水はけと通気性、軽さ、清潔な見た目。コバエが湧きにくい
+- **苦手**：**栄養がほぼ無い**ので肥料は必須。乾きが早く水切れしやすい
+- **粒サイズ**：SS（小鉢）／S（5〜6号）／M（大鉢・配合用）の3種と、ふわふわEX
+- **単体で使える？**：着生植物や多肉なら可。一般的な観葉植物は**配合推奨**
+<!-- /key-facts -->
 
 <!-- comparison-summary
   title="ねこチップ vs I'm original SOIL、どっちが向いている？"
@@ -73,23 +95,17 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 
 ねこチップはオンライン通販（Amazon・楽天・Yahoo!ショッピングなど）のほか、一部のホームセンターや観葉植物専門店でも入手可能です。まとめ買いをすると1Lあたりの単価は割安になります。
 
-流通量が最も多いのは製造元「ねこの道具屋」の正規品で、粒サイズ（SS・S・M・LLなど）と容量（2L・5L・10L）を組み合わせて選べます。Amazonでの評価は★4.6（106件）と高い水準です（2026年8月時点）。まずは1〜2鉢で試すなら5L、複数鉢の植え替えや他の用土との配合に使うなら10Lが目安になります。
+流通量が最も多いのは製造元「ねこの道具屋」の正規品です。**2026年9月時点のAmazonでの取り扱いは、粒サイズ違いの10L（SS・S・M）と、粒が細かくふんわりした「ふわふわEX」の5Lの4種類**。評価はいずれも★4.6（111件）です。まず試すなら5L、複数鉢の植え替えや他の用土との配合に使うなら10Lが目安になります。
 
-※以下にはAmazonアソシエイトリンクを含みます。
+<!-- stats title="サイズ選びの目安" -->
+- SS | 3〜4号の小鉢・多肉・実生 | 最も細かく、保水はいちばん高い
+- S | 5〜6号の観葉植物 | 迷ったらこの粒度
+- M | 7号以上・着生植物 | 粗く、配合のベースに向く
+- 5L | まず試す量 | 6号鉢1つ分＋α
+<!-- /stats -->
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D8YTWZQV?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0D8YTWZQV.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ねこチップ Mサイズ 5L（ねこの道具屋）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D8YTS212?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0D8YTS212.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ねこチップ Mサイズ 10L（ねこの道具屋）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+<!-- amazon-cards title="Amazonで買えるねこチップ（2026年9月時点）" note="Amazonアソシエイトリンクを含みます。★4.6（111件）／価格・在庫は変動するため、最新は商品ページでご確認ください。" -->
+<!-- /amazon-cards -->
 
 ---
 
@@ -155,6 +171,19 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 
 ねこチップを観葉植物に使う際の基本的な考え方と、おすすめの配合例を紹介します。
 
+<!-- steps title="ねこチップで植え替える手順" -->
+1. **乾いた状態でふるう**：袋の底に溜まった細かい粉を軽く落とす。粉が多いと目詰まりして水はけの利点が消える
+2. **配合を決めて混ぜる**：下のレシピを参考に、乾いたままボウルで均一に混ぜる。水を含ませてから混ぜると偏る
+3. **鉢底石は入れなくてよい**：ねこチップ自体が粗いので、鉢底石を足すと今度は乾きすぎる
+4. **株を入れ、隙間に流し込む**：棒で強く突かない。軽く鉢を叩いて自然に沈ませる
+5. **鉢底から流れるまで水をやる**：初回は粉を洗い流す意味もあるのでたっぷりと
+6. **肥料を忘れずに**：ねこチップには栄養がない。緩効性肥料を規定量置くか、翌週から液肥を始める
+<!-- /steps -->
+
+<!-- callout type="warning" title="いちばん多い失敗は「肥料を入れ忘れる」" -->
+ねこチップは見た目が土らしいので、培養土と同じつもりで植えてしまいがちです。**栄養はほぼゼロ**なので、肥料を入れないと2〜3ヶ月で葉色が抜け、新芽が小さくなります。植え替えたその日に肥料も決めてしまうのが確実です。
+<!-- /callout -->
+
 ### 単体使用 vs 配合使用
 
 ねこチップを単体（100%）で使うことは、ハイドロカルチャー的な管理（底面給水や水耕に近い栽培）を想定している場合に向いています。ただし、一般的な鉢植え管理では、単体使用だと乾燥・栄養不足のリスクが高まるため、他の用土との配合をおすすめします。
@@ -171,15 +200,12 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 - 赤玉土（小粒）：2
 - バーミキュライト：1
 
-<div style="margin:0.75rem 0 1.5rem">
-<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
-<div style="flex:4;background:#a8a29e"></div>
-<div style="flex:3;background:#78716c"></div>
-<div style="flex:2;background:#b45309"></div>
-<div style="flex:1;background:#eab308"></div>
-</div>
-<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ねこチップ 40%　■腐葉土 30%　■赤玉土 20%　■バーミキュライト 10%</p>
-</div>
+<!-- mix -->
+- ねこチップ | 40
+- 腐葉土 | 30
+- 赤玉土 | 20
+- バーミキュライト | 10
+<!-- /mix -->
 
 水はけと保水性のバランスが取れた配合。モンステラ、フィロデンドロン、ポトスなどの一般的な観葉植物に向いています。
 
@@ -188,14 +214,11 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 - 赤玉土：3
 - 腐葉土：2
 
-<div style="margin:0.75rem 0 1.5rem">
-<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
-<div style="flex:5;background:#a8a29e"></div>
-<div style="flex:3;background:#b45309"></div>
-<div style="flex:2;background:#78716c"></div>
-</div>
-<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ねこチップ 50%　■赤玉土 30%　■腐葉土 20%</p>
-</div>
+<!-- mix -->
+- ねこチップ | 50
+- 赤玉土 | 30
+- 腐葉土 | 20
+<!-- /mix -->
 
 排水性を重視したい植物（アロカシア・ビカクシダ・エアプランツなど）や、根腐れを繰り返してしまう方向けの配合です。追肥はやや多めに必要になります。
 
@@ -205,15 +228,12 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 - 赤玉土：2
 - バーミキュライト：1
 
-<div style="margin:0.75rem 0 1.5rem">
-<div style="display:flex;height:20px;border-radius:0.375rem;overflow:hidden">
-<div style="flex:3;background:#a8a29e"></div>
-<div style="flex:4;background:#78716c"></div>
-<div style="flex:2;background:#b45309"></div>
-<div style="flex:1;background:#eab308"></div>
-</div>
-<p style="margin:0.4rem 0 0;font-size:12px;color:#57534e">■ねこチップ 30%　■腐葉土 40%　■赤玉土 20%　■バーミキュライト 10%</p>
-</div>
+<!-- mix -->
+- ねこチップ | 30
+- 腐葉土 | 40
+- 赤玉土 | 20
+- バーミキュライト | 10
+<!-- /mix -->
 
 エアコンの風が当たりやすい部屋や、水やりの頻度を抑えたい方向けです。
 

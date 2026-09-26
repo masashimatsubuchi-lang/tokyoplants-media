@@ -18,10 +18,12 @@ baseProducts:
 amazonProducts:
   - title: "Goovilla 花台 鉢受プレート 移動できる 植木鉢台 キャスター付き 伸縮タイプ サイズ調節可 耐荷重200kg"
     asin: "B0F8HVGRB4"
+    image: "https://m.media-amazon.com/images/I/61FaoboEg9L._AC_SL200_.jpg"
     note: "円形・矩形どちらの鉢にも対応する伸縮式。耐荷重200kgと大型鉢向けの数値。評価★4.3・レビュー825件（2026-09-05確認）"
     price: "¥2,490（2026-09-05確認）"
   - title: "【インテリアコーディネーター監修】キャスター付き 植木鉢台 鉢受台 フラワースタンド（S, グレー）×3個セット"
     asin: "B0GZG57SFP"
+    image: "https://m.media-amazon.com/images/I/61otr06WeRL._AC_SL200_.jpg"
     note: "デザイン性重視のセット販売品。評価★4.2・レビュー170件（2026-09-05確認）"
     price: "¥5,040（3個セット／2026-09-05確認）"
   - title: "アイリスオーヤマ 鉢 キャスター台 木製鉢置台 MH-300"
@@ -30,6 +32,7 @@ amazonProducts:
     price: "¥2,192（2026-09-05確認）"
   - title: "植木鉢台 キャスター付き キャスター隠せる 花台（内径24.5cm）"
     asin: "B0CSK3N8QS"
+    image: "https://m.media-amazon.com/images/I/41BR6NRKL-L._AC_SL200_.jpg"
     note: "キャスターを台座内に隠せる設計で見た目がすっきり。360°回転。評価★4.4・レビュー116件（2026-09-05確認）"
     price: "¥1,899（2026-09-05確認）"
 ---

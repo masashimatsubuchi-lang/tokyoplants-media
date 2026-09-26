@@ -13,14 +13,19 @@ relatedSlugs:
 amazonProducts:
   - title: "Bambu Lab A1 mini 3Dプリンター"
     asin: "B0CRYJBKQQ"
+    image: "https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL200_.jpg"
   - title: "Bambu Lab A1 mini Combo（AMS Lite付き）"
     asin: "B0CRYZWJLG"
+    image: "https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL200_.jpg"
   - title: "Bambu Lab A1 3Dプリンター"
     asin: "B0D17TMWFB"
+    image: "https://m.media-amazon.com/images/I/71GDz14IZJL._AC_SL200_.jpg"
   - title: "Bambu Lab A1 Combo（AMS Lite付き）"
     asin: "B0D17V4SKM"
+    image: "https://m.media-amazon.com/images/I/71x5MOLyifL._AC_SL200_.jpg"
   - title: "Bambu Lab P1S Combo（AMS付き）"
     asin: "B0CHDM8VVZ"
+    image: "https://m.media-amazon.com/images/I/61q-W1AFDqL._AC_SL200_.jpg"
 ---
 
 # Bambu Lab 3Dプリンター5機種比較｜観葉植物の鉢作りに向く機種はどれか

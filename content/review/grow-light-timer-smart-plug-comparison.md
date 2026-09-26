@@ -42,6 +42,7 @@ amazonProducts:
     price: "¥1,409（2026-09-24確認）"
   - title: "SwitchBot スマートプラグ プラグミニ 2個入り（Bluetooth＋Wi-Fi・消費電力モニター）"
     asin: "B0H2H494MV"
+    image: "https://m.media-amazon.com/images/I/61ojHWVWnaL._AC_SL200_.jpg"
     note: "Amazon評価 4.2 / 602件・¥3,402（2026-09-24取得）。日の出/日の入り連動スケジュール対応。幅広プラグのためN極対応コンセントが必要"
     price: "¥3,402（2個入り・2026-09-24確認）"
 ---
