@@ -293,6 +293,29 @@ function AmazonCards({
   );
 }
 
+
+/* ---------- figure: 本文中の写真（キャプション付き） ---------- */
+function Figure({ block }: { block: Extract<ParsedBlock, { kind: "figure" }> }) {
+  if (!block.src) return null;
+  return (
+    <figure className={`not-prose my-8 ${block.align === "wide" ? "sm:-mx-6 lg:-mx-10" : ""}`}>
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img
+        src={block.src}
+        alt={block.caption}
+        className="w-full rounded-2xl object-cover"
+        loading="lazy"
+      />
+      {(block.caption || block.credit) && (
+        <figcaption className="mt-2 flex flex-wrap items-baseline gap-x-2 px-1 text-[12px] leading-snug text-zinc-500">
+          {block.caption && <span className="text-zinc-600">{block.caption}</span>}
+          {block.credit && <span className="ml-auto shrink-0 text-[11px] text-zinc-400">{block.credit}</span>}
+        </figcaption>
+      )}
+    </figure>
+  );
+}
+
 export default function ArticleBlock({
   block,
   amazonProducts = [],
@@ -317,5 +340,7 @@ export default function ArticleBlock({
       return <Mix block={block} />;
     case "amazon-cards":
       return <AmazonCards block={block} products={amazonProducts} />;
+    case "figure":
+      return <Figure block={block} />;
   }
 }

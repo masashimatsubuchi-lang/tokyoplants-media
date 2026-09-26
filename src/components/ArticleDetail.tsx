@@ -13,6 +13,7 @@ import CharacterNote from "./CharacterNote";
 import ArticleBlock from "./ArticleBlocks";
 import HubIndex from "./HubIndex";
 import SiblingNav from "./SiblingNav";
+import MobileToc from "./MobileToc";
 import { BLOCK_NAMES, parseBlock, type BlockName, type ParsedBlock } from "@/lib/articleBlocks";
 import ComparisonSummary, { ComparisonOption } from "./ComparisonSummary";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
@@ -295,6 +296,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 </div>
               </nav>
             )}
+
+            <MobileToc items={toc} />
 
             {siblingItems.length > 0 && (
               <SiblingNav items={siblingItems} currentSlug={`${post.category}/${post.slug}`} />

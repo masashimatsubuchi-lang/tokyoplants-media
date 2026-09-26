@@ -10,12 +10,13 @@
  *   <!-- calendar title="年間カレンダー" -->  | 作業 | 1 | 2 | … | 12 | のMarkdown表  <!-- /calendar -->
  *   <!-- mix title="バランス型" -->           - 素材名 | 割合(数値) ...  <!-- /mix -->
  *   <!-- amazon-cards title="..." -->        （中身は空。frontmatterのamazonProductsを描画） <!-- /amazon-cards -->
+ *   <!-- figure src="URL" caption="説明" credit="Unsplash / 撮影者" --><!-- /figure -->
  *
  * 内側はremarkで既にHTML化されているので、ここでは <li> / <h4> / <table> を素朴に切り出す。
  * 入れ子のブロックには対応しない。
  */
 
-export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar", "mix", "amazon-cards"] as const;
+export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar", "mix", "amazon-cards", "figure"] as const;
 export type BlockName = (typeof BLOCK_NAMES)[number];
 
 export interface KeyFactItem {
@@ -52,7 +53,8 @@ export type ParsedBlock =
   | { kind: "cards"; title: string; cols: 2 | 3; items: CardItem[] }
   | { kind: "calendar"; title: string; months: string[]; rows: CalendarRow[]; legend: string }
   | { kind: "mix"; title: string; items: MixItem[] }
-  | { kind: "amazon-cards"; title: string; note: string };
+  | { kind: "amazon-cards"; title: string; note: string }
+  | { kind: "figure"; src: string; caption: string; credit: string; align: "wide" | "normal" };
 
 export function stripTags(html: string): string {
   return html.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").trim();
@@ -129,6 +131,14 @@ export function parseBlock(name: BlockName, attrs: Record<string, string>, inner
       };
     case "amazon-cards":
       return { kind: "amazon-cards", title, note: attrs.note ?? "" };
+    case "figure":
+      return {
+        kind: "figure",
+        src: attrs.src ?? "",
+        caption: attrs.caption ?? "",
+        credit: attrs.credit ?? "",
+        align: attrs.align === "wide" ? "wide" : "normal",
+      };
     case "calendar": {
       const rows: CalendarRow[] = [];
       let months: string[] = [];
