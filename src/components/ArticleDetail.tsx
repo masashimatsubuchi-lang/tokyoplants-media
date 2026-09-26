@@ -197,7 +197,12 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const { html: contentWithIds, toc } = withHeadingIds(stripFirstH1(post.contentHtml));
   const faqs = extractFaqs(post.contentHtml);
   const howTo = extractHowTo(post.contentHtml);
-  const hasAmazonProducts = !post.hideAmazonBlock && post.amazonProducts && post.amazonProducts.length > 0;
+  // 本文に `<!-- amazon-cards -->` がある記事は、そのブロックが同じ amazonProducts を
+  // 表示するため、記事末尾の AmazonAffiliateBlock を自動で抑止する（二重表示の防止）。
+  // frontmatter の hideAmazonBlock を書き忘れても崩れないよう、実装側で担保する。
+  const hasInlineAmazonCards = /<!--\s*amazon-cards[\s>]/.test(post.contentHtml);
+  const hasAmazonProducts =
+    !post.hideAmazonBlock && !hasInlineAmazonCards && post.amazonProducts && post.amazonProducts.length > 0;
   const hasBaseProducts = post.baseProducts && post.baseProducts.length > 0;
   const showInlineBanner = ["soil", "guide", "species", "research", "review"].includes(post.category) && hasInlineProduct(post.baseProducts);
   const showShopBanner = hasBaseProducts || !hasAmazonProducts;
