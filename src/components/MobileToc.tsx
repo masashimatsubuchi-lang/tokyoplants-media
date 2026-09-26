@@ -24,9 +24,11 @@ export default function MobileToc({ items }: { items: TocEntry[] }): ReactNode {
   return (
     <details className="not-prose group my-6 rounded-2xl border border-zinc-200 bg-zinc-50/80 lg:hidden">
       <summary className="flex cursor-pointer list-none items-center gap-2 px-4 py-3">
-        <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-600">Contents</span>
-        <span className="text-[14px] font-bold text-zinc-800">この記事の内容</span>
-        <span className="ml-auto text-[12px] text-zinc-500">{headings.length}項目</span>
+        <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-600">
+          Contents
+        </span>
+        <span className="min-w-0 truncate text-[14px] font-bold text-zinc-800">この記事の内容</span>
+        <span className="ml-auto shrink-0 whitespace-nowrap text-[12px] text-zinc-500">{headings.length}項目</span>
         <svg
           className="h-4 w-4 shrink-0 text-zinc-400 transition-transform group-open:rotate-180"
           viewBox="0 0 20 20"

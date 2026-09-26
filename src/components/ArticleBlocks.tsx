@@ -11,9 +11,9 @@ import type { AmazonProduct } from "@/lib/posts";
 function BlockTitle({ eyebrow, title }: { eyebrow: string; title: string }) {
   if (!title) return null;
   return (
-    <div className="mb-3 flex items-baseline gap-2">
-      <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-600">{eyebrow}</span>
-      <span className="text-[15px] font-bold text-zinc-800">{title}</span>
+    <div className="mb-3 flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
+      <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-600">{eyebrow}</span>
+      <span className="min-w-0 text-[15px] font-bold text-zinc-800">{title}</span>
     </div>
   );
 }
@@ -40,9 +40,9 @@ function KeyFacts({ block }: { block: Extract<ParsedBlock, { kind: "key-facts" }
 
 function BlockTitleDark({ eyebrow, title }: { eyebrow: string; title: string }) {
   return (
-    <div className="mb-4 flex items-baseline gap-2">
-      <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-400">{eyebrow}</span>
-      <span className="text-[15px] font-bold text-white">{title}</span>
+    <div className="mb-4 flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
+      <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-400">{eyebrow}</span>
+      <span className="min-w-0 text-[15px] font-bold text-white">{title}</span>
     </div>
   );
 }
@@ -111,14 +111,16 @@ function Callout({ block }: { block: Extract<ParsedBlock, { kind: "callout" }> }
   const s = CALLOUT_STYLE[block.variant];
   return (
     <aside className={`not-prose my-6 rounded-xl border ${s.box} px-4 py-3.5 sm:px-5`}>
-      <div className="mb-1.5 flex items-center gap-2">
+      <div className="mb-1.5 flex flex-wrap items-center gap-x-2 gap-y-1">
         <span
-          className={`flex h-5 w-5 items-center justify-center rounded-full bg-white text-[11px] font-black ${s.eyebrow} ring-1 ring-current`}
+          className={`flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-white text-[11px] font-black ${s.eyebrow} ring-1 ring-current`}
         >
           {s.icon}
         </span>
-        <span className={`text-[11px] font-bold uppercase tracking-[0.15em] ${s.eyebrow}`}>{s.label}</span>
-        {block.title && <span className="text-[14px] font-bold text-zinc-800">{block.title}</span>}
+        <span className={`shrink-0 whitespace-nowrap text-[11px] font-bold uppercase tracking-[0.15em] ${s.eyebrow}`}>
+          {s.label}
+        </span>
+        {block.title && <span className="min-w-0 text-[14px] font-bold text-zinc-800">{block.title}</span>}
       </div>
       <div
         className="text-[14px] leading-[1.8] text-zinc-700 [&>p]:m-0 [&>p+p]:mt-2 [&_strong]:font-bold [&_strong]:text-zinc-900 [&_a]:text-teal-700 [&_a]:underline [&_ul]:mt-1 [&_ul]:list-disc [&_ul]:pl-5"
@@ -240,7 +242,7 @@ function Mix({ block }: { block: Extract<ParsedBlock, { kind: "mix" }> }) {
       <ul className="mt-2 flex flex-wrap gap-x-4 gap-y-1">
         {block.items.map((it, i) => (
           <li key={i} className="flex items-center gap-1.5 text-[12px] text-zinc-600">
-            <span className={`inline-block h-2.5 w-2.5 rounded-sm ${MIX_COLORS[i % MIX_COLORS.length]}`} />
+            <span className={`inline-block h-2.5 w-2.5 shrink-0 rounded-sm ${MIX_COLORS[i % MIX_COLORS.length]}`} />
             {it.label}
           </li>
         ))}

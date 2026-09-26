@@ -3,6 +3,10 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import remarkGfm from "remark-gfm";
+// CommonMarkの強調判定はCJKと相性が悪く、`札幌が**-6.4℃**` のように
+// `**` の直後が約物だと太字にならず `**` が本文に出てしまう（2026-09-27発見、124記事246箇所）。
+// 強調が誤ってネストされて別の語が太字になるケースもあったため、CJK対応の拡張を通す。
+import remarkCjkFriendly from "remark-cjk-friendly";
 import html from "remark-html";
 import { CategorySlug } from "./categories";
 
@@ -126,7 +130,7 @@ export async function getPostBySlug(category: CategorySlug, slug: string): Promi
   const fileContents = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(fileContents);
 
-  const processedContent = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
+  const processedContent = await remark().use(remarkGfm).use(remarkCjkFriendly).use(html, { sanitize: false }).process(content);
   const contentHtml = processedContent.toString();
 
   return {
