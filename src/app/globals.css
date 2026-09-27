@@ -1,9 +1,48 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* =========================================================================
+   Sage Editorial — カラートークン（2026-09-27 導入）
+   =========================================================================
+   これまでコンポーネントごとに emerald / teal / amber / zinc / stone などを
+   個別に使っており、メディア全体で色がばらついていた。
+   ここを唯一の出典（single source of truth）として、
+
+     sage  … ブランドのグリーン。見出し・番号・リンク・チェック・細罫線の
+             アクセントとして使う。広い面を塗るために使わない
+     ink   … 文字と背景のニュートラル。背景の大部分はこちら
+     warn  … 注意（意味を持つときだけ。装飾では使わない）
+     err   … エラー・禁止（意味を持つときだけ）
+     earth … 土・素材を表す差し色。図表の系列色などに限定
+
+   に集約する。Tailwind 既存パレット（emerald/teal/gray/zinc/amber…）は
+   下部の互換マッピングでこの3系統へ寄せているので、コンポーネント側の
+   クラス名を書き換えなくても配色が揃う。新規に書くコードでは
+   sage / ink / warn / err / earth を直接使うこと。
+   ========================================================================= */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* オーナー指定の基本パレット */
+  --tp-primary: #617565;
+  --tp-accent: #91a892;
+  --tp-dark: #1d2521;
+  --tp-text: #242a26;
+  --tp-text-secondary: #69716b;
+  --tp-background: #fafaf7;
+  --tp-surface: #f4f6f2;
+  --tp-surface-green: #eef2ec;
+  --tp-border: #d8ded5;
+  --tp-earth: #ad805c;
+  --tp-warning: #c28a3a;
+  --tp-warning-bg: #faf4e8;
+  --tp-error: #a9534c;
+  --tp-error-bg: #f8ecea;
+
+  /* 本文のマーカー。黄色の蛍光ペンはエディトリアルに合わないため淡いセージに */
+  --tp-mark: #cfddd0;
+
+  --background: var(--tp-background);
+  --foreground: var(--tp-text);
   color-scheme: light;
 }
 
@@ -12,6 +51,259 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+}
+
+@theme {
+  /* --- sage: ブランドグリーン（アクセント用） --- */
+  --color-sage-50: #f4f7f2;
+  --color-sage-100: #eef2ec;
+  --color-sage-200: #d8ded5;
+  --color-sage-300: #bcc8bd;
+  --color-sage-400: #91a892;
+  --color-sage-500: #78907a;
+  --color-sage-600: #617565;
+  --color-sage-700: #4f6053;
+  --color-sage-800: #3d4a41;
+  --color-sage-900: #2c352f;
+  --color-sage-950: #1d2521;
+
+  /* --- ink: 文字と背景のニュートラル（わずかに緑みのあるグレー） --- */
+  --color-ink-50: #fafaf7;
+  --color-ink-100: #f4f6f2;
+  --color-ink-200: #d8ded5;
+  --color-ink-300: #c3cac4;
+  --color-ink-400: #9aa29b;
+  --color-ink-500: #69716b;
+  --color-ink-600: #555c57;
+  --color-ink-700: #424843;
+  --color-ink-800: #333833;
+  --color-ink-900: #242a26;
+  --color-ink-950: #1d2521;
+
+  /* --- warn: 注意（意味を持つときだけ） --- */
+  --color-warn-50: #faf4e8;
+  --color-warn-100: #f5ead4;
+  --color-warn-200: #e9d6ae;
+  --color-warn-300: #dbbe83;
+  --color-warn-400: #cea45e;
+  --color-warn-500: #c28a3a;
+  --color-warn-600: #a87530;
+  --color-warn-700: #8a6027;
+  --color-warn-800: #6c4b20;
+  --color-warn-900: #533a19;
+
+  /* --- err: エラー・禁止（意味を持つときだけ） --- */
+  --color-err-50: #f8ecea;
+  --color-err-100: #f0d8d5;
+  --color-err-200: #e4bcb7;
+  --color-err-300: #d29a94;
+  --color-err-400: #bd736c;
+  --color-err-500: #a9534c;
+  --color-err-600: #954640;
+  --color-err-700: #7b3934;
+  --color-err-800: #612d29;
+  --color-err-900: #4b2320;
+
+  /* --- earth: 土・素材の差し色 --- */
+  --color-earth-100: #f0e6dc;
+  --color-earth-200: #e0cdb9;
+  --color-earth-300: #cbac8c;
+  --color-earth-400: #ad805c;
+  --color-earth-500: #96694a;
+  --color-earth-600: #7c563d;
+  --color-earth-700: #614431;
+
+  /* -----------------------------------------------------------------
+     既存クラスの互換マッピング。
+     コンポーネントに散らばった emerald / teal / gray / zinc / amber 等を
+     上の3系統へ寄せる。新しいコードでは使わないこと。
+     ----------------------------------------------------------------- */
+
+  /* グリーン系 → sage */
+  --color-emerald-50: var(--color-sage-50);
+  --color-emerald-100: var(--color-sage-100);
+  --color-emerald-200: var(--color-sage-200);
+  --color-emerald-300: var(--color-sage-300);
+  --color-emerald-400: var(--color-sage-400);
+  --color-emerald-500: var(--color-sage-500);
+  --color-emerald-600: var(--color-sage-600);
+  --color-emerald-700: var(--color-sage-700);
+  --color-emerald-800: var(--color-sage-800);
+  --color-emerald-900: var(--color-sage-900);
+  --color-emerald-950: var(--color-sage-950);
+
+  --color-teal-50: var(--color-sage-50);
+  --color-teal-100: var(--color-sage-100);
+  --color-teal-200: var(--color-sage-200);
+  --color-teal-300: var(--color-sage-300);
+  --color-teal-400: var(--color-sage-400);
+  --color-teal-500: var(--color-sage-500);
+  --color-teal-600: var(--color-sage-600);
+  --color-teal-700: var(--color-sage-700);
+  --color-teal-800: var(--color-sage-800);
+  --color-teal-900: var(--color-sage-900);
+  --color-teal-950: var(--color-sage-950);
+
+  --color-green-50: var(--color-sage-50);
+  --color-green-100: var(--color-sage-100);
+  --color-green-200: var(--color-sage-200);
+  --color-green-300: var(--color-sage-300);
+  --color-green-400: var(--color-sage-400);
+  --color-green-500: var(--color-sage-500);
+  --color-green-600: var(--color-sage-600);
+  --color-green-700: var(--color-sage-700);
+  --color-green-800: var(--color-sage-800);
+  --color-green-900: var(--color-sage-900);
+  --color-green-950: var(--color-sage-950);
+
+  --color-lime-50: var(--color-sage-50);
+  --color-lime-100: var(--color-sage-100);
+  --color-lime-200: var(--color-sage-200);
+  --color-lime-300: var(--color-sage-300);
+  --color-lime-400: var(--color-sage-400);
+  --color-lime-500: var(--color-sage-500);
+  --color-lime-600: var(--color-sage-600);
+  --color-lime-700: var(--color-sage-700);
+  --color-lime-800: var(--color-sage-800);
+  --color-lime-900: var(--color-sage-900);
+
+  --color-sky-50: var(--color-sage-50);
+  --color-sky-100: var(--color-sage-100);
+  --color-sky-200: var(--color-sage-200);
+  --color-sky-300: var(--color-sage-300);
+  --color-sky-400: var(--color-sage-400);
+  --color-sky-500: var(--color-sage-500);
+  --color-sky-600: var(--color-sage-600);
+  --color-sky-700: var(--color-sage-700);
+  --color-sky-800: var(--color-sage-800);
+  --color-sky-900: var(--color-sage-900);
+
+  /* グレー系 → ink */
+  --color-gray-50: var(--color-ink-50);
+  --color-gray-100: var(--color-ink-100);
+  --color-gray-200: var(--color-ink-200);
+  --color-gray-300: var(--color-ink-300);
+  --color-gray-400: var(--color-ink-400);
+  --color-gray-500: var(--color-ink-500);
+  --color-gray-600: var(--color-ink-600);
+  --color-gray-700: var(--color-ink-700);
+  --color-gray-800: var(--color-ink-800);
+  --color-gray-900: var(--color-ink-900);
+  --color-gray-950: var(--color-ink-950);
+
+  --color-zinc-50: var(--color-ink-50);
+  --color-zinc-100: var(--color-ink-100);
+  --color-zinc-200: var(--color-ink-200);
+  --color-zinc-300: var(--color-ink-300);
+  --color-zinc-400: var(--color-ink-400);
+  --color-zinc-500: var(--color-ink-500);
+  --color-zinc-600: var(--color-ink-600);
+  --color-zinc-700: var(--color-ink-700);
+  --color-zinc-800: var(--color-ink-800);
+  --color-zinc-900: var(--color-ink-900);
+  --color-zinc-950: var(--color-ink-950);
+
+  --color-slate-50: var(--color-ink-50);
+  --color-slate-100: var(--color-ink-100);
+  --color-slate-200: var(--color-ink-200);
+  --color-slate-300: var(--color-ink-300);
+  --color-slate-400: var(--color-ink-400);
+  --color-slate-500: var(--color-ink-500);
+  --color-slate-600: var(--color-ink-600);
+  --color-slate-700: var(--color-ink-700);
+  --color-slate-800: var(--color-ink-800);
+  --color-slate-900: var(--color-ink-900);
+
+  --color-neutral-50: var(--color-ink-50);
+  --color-neutral-100: var(--color-ink-100);
+  --color-neutral-200: var(--color-ink-200);
+  --color-neutral-300: var(--color-ink-300);
+  --color-neutral-400: var(--color-ink-400);
+  --color-neutral-500: var(--color-ink-500);
+  --color-neutral-600: var(--color-ink-600);
+  --color-neutral-700: var(--color-ink-700);
+  --color-neutral-800: var(--color-ink-800);
+  --color-neutral-900: var(--color-ink-900);
+
+  /* stone は「土」の意味で使われていた箇所があるので earth 寄りに残す */
+  --color-stone-50: var(--color-ink-50);
+  --color-stone-100: var(--color-earth-100);
+  --color-stone-200: var(--color-earth-200);
+  --color-stone-300: var(--color-earth-300);
+  --color-stone-400: var(--color-earth-400);
+  --color-stone-500: var(--color-earth-500);
+  --color-stone-600: var(--color-earth-600);
+  --color-stone-700: var(--color-earth-700);
+  --color-stone-800: var(--color-ink-800);
+  --color-stone-900: var(--color-ink-900);
+
+  /* 暖色系 → warn（意味を持つ用途に限定する前提の寄せ先） */
+  --color-amber-50: var(--color-warn-50);
+  --color-amber-100: var(--color-warn-100);
+  --color-amber-200: var(--color-warn-200);
+  --color-amber-300: var(--color-warn-300);
+  --color-amber-400: var(--color-warn-400);
+  --color-amber-500: var(--color-warn-500);
+  --color-amber-600: var(--color-warn-600);
+  --color-amber-700: var(--color-warn-700);
+  --color-amber-800: var(--color-warn-800);
+  --color-amber-900: var(--color-warn-900);
+
+  --color-yellow-50: var(--color-warn-50);
+  --color-yellow-100: var(--color-warn-100);
+  --color-yellow-200: var(--color-warn-200);
+  --color-yellow-300: var(--color-warn-300);
+  --color-yellow-400: var(--color-warn-400);
+  --color-yellow-500: var(--color-warn-500);
+  --color-yellow-600: var(--color-warn-600);
+  --color-yellow-700: var(--color-warn-700);
+  --color-yellow-800: var(--color-warn-800);
+  --color-yellow-900: var(--color-warn-900);
+
+  --color-orange-50: var(--color-warn-50);
+  --color-orange-100: var(--color-warn-100);
+  --color-orange-200: var(--color-warn-200);
+  --color-orange-300: var(--color-warn-300);
+  --color-orange-400: var(--color-warn-400);
+  --color-orange-500: var(--color-warn-500);
+  --color-orange-600: var(--color-warn-600);
+  --color-orange-700: var(--color-warn-700);
+  --color-orange-800: var(--color-warn-800);
+  --color-orange-900: var(--color-warn-900);
+
+  /* 赤系 → err */
+  --color-red-50: var(--color-err-50);
+  --color-red-100: var(--color-err-100);
+  --color-red-200: var(--color-err-200);
+  --color-red-300: var(--color-err-300);
+  --color-red-400: var(--color-err-400);
+  --color-red-500: var(--color-err-500);
+  --color-red-600: var(--color-err-600);
+  --color-red-700: var(--color-err-700);
+  --color-red-800: var(--color-err-800);
+  --color-red-900: var(--color-err-900);
+
+  --color-rose-50: var(--color-err-50);
+  --color-rose-100: var(--color-err-100);
+  --color-rose-200: var(--color-err-200);
+  --color-rose-300: var(--color-err-300);
+  --color-rose-400: var(--color-err-400);
+  --color-rose-500: var(--color-err-500);
+  --color-rose-600: var(--color-err-600);
+  --color-rose-700: var(--color-err-700);
+  --color-rose-800: var(--color-err-800);
+  --color-rose-900: var(--color-err-900);
+
+  --color-pink-50: var(--color-err-50);
+  --color-pink-100: var(--color-err-100);
+  --color-pink-200: var(--color-err-200);
+  --color-pink-300: var(--color-err-300);
+  --color-pink-400: var(--color-err-400);
+  --color-pink-500: var(--color-err-500);
+  --color-pink-600: var(--color-err-600);
+  --color-pink-700: var(--color-err-700);
+  --color-pink-800: var(--color-err-800);
+  --color-pink-900: var(--color-err-900);
 }
 
 html,
@@ -34,6 +326,30 @@ body {
   min-width: 0;
 }
 
+/* 本文（@tailwindcss/typography）の色をトークンへ束縛する。
+   prose-zinc などのカラーテーマはプラグインが元のパレット値を焼き込むため、
+   @theme でスケールを差し替えても見出し・罫線・リストマーカーには効かない。
+   ここで明示的に上書きして、本文も Sage Editorial に揃える（2026-09-27）。*/
+.prose {
+  --tw-prose-body: var(--color-ink-700);
+  --tw-prose-headings: var(--color-ink-900);
+  --tw-prose-lead: var(--color-ink-600);
+  --tw-prose-links: var(--color-sage-700);
+  --tw-prose-bold: var(--color-ink-900);
+  --tw-prose-counters: var(--color-ink-500);
+  /* リストの記号は数字・チェックと同じくブランドのアクセントとして使う */
+  --tw-prose-bullets: var(--color-sage-300);
+  --tw-prose-hr: var(--color-ink-200);
+  --tw-prose-quotes: var(--color-ink-800);
+  --tw-prose-quote-borders: var(--color-sage-300);
+  --tw-prose-captions: var(--color-ink-500);
+  --tw-prose-code: var(--color-ink-900);
+  --tw-prose-pre-code: var(--color-ink-100);
+  --tw-prose-pre-bg: var(--color-ink-950);
+  --tw-prose-th-borders: var(--color-ink-200);
+  --tw-prose-td-borders: var(--color-ink-200);
+}
+
 /* Prevent wide content from breaking mobile layout */
 /* 本文の表。記事の情報の大半が表に入っているため、可読性を優先して整える。
    table 自身をスクロールさせると列が潰れるので、外側の .table-scroll で横スクロールし、
@@ -42,7 +358,7 @@ body {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   margin: 1.5rem 0;
-  border: 1px solid #e4e4e7;
+  border: 1px solid var(--tp-border);
   border-radius: 0.75rem;
   background: #fff;
 }
@@ -59,20 +375,20 @@ body {
 }
 
 .prose table thead th {
-  background: #f4f4f5;
-  color: #3f3f46;
+  background: var(--tp-surface);
+  color: var(--tp-text-secondary);
   font-weight: 700;
   font-size: 12.5px;
   letter-spacing: 0.02em;
   white-space: nowrap;
   text-align: left;
   padding: 0.6rem 0.85rem;
-  border-bottom: 1px solid #e4e4e7;
+  border-bottom: 1px solid var(--tp-border);
 }
 
 .prose table tbody td {
   padding: 0.6rem 0.85rem;
-  border-bottom: 1px solid #f4f4f5;
+  border-bottom: 1px solid var(--tp-surface);
   vertical-align: top;
 }
 
@@ -81,13 +397,13 @@ body {
 }
 
 .prose table tbody tr:nth-child(even) {
-  background: #fafafa;
+  background: var(--tp-background);
 }
 
 /* 1列目は項目名であることが多いので少し強調し、折り返さない */
 .prose table tbody td:first-child {
   font-weight: 600;
-  color: #27272a;
+  color: var(--tp-text);
   white-space: nowrap;
 }
 
@@ -119,7 +435,7 @@ body {
 
 /* Highlighter marker effect */
 .prose mark {
-  background: linear-gradient(transparent 55%, #fde68a 55%);
+  background: linear-gradient(transparent 55%, var(--tp-mark) 55%);
   color: inherit;
   padding: 0 0.1em;
   -webkit-box-decoration-break: clone;

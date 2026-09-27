@@ -26,7 +26,7 @@ export async function GET(request: NextRequest) {
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
-          backgroundColor: "#0f1a10",
+          backgroundColor: "#1d2521",
           padding: "64px",
           fontFamily: "sans-serif",
         }}
@@ -40,7 +40,7 @@ export async function GET(request: NextRequest) {
             width: "400px",
             height: "400px",
             borderRadius: "0 0 0 100%",
-            backgroundColor: "#1a3320",
+            backgroundColor: "#2c352f",
             opacity: 0.5,
           }}
         />
@@ -55,8 +55,8 @@ export async function GET(request: NextRequest) {
           >
             <div
               style={{
-                backgroundColor: "#4a7c59",
-                color: "#ffffff",
+                backgroundColor: "#91a892",
+                color: "#1d2521",
                 fontSize: "22px",
                 fontWeight: 700,
                 padding: "8px 20px",
@@ -81,7 +81,7 @@ export async function GET(request: NextRequest) {
         >
           <div
             style={{
-              color: "#f0f7f1",
+              color: "#f4f6f2",
               fontSize: title.length > 30 ? "46px" : "56px",
               fontWeight: 800,
               lineHeight: 1.4,
@@ -99,7 +99,7 @@ export async function GET(request: NextRequest) {
             display: "flex",
             alignItems: "center",
             justifyContent: "space-between",
-            borderTop: "1px solid #2d4a35",
+            borderTop: "1px solid #3d4a41",
             paddingTop: "24px",
           }}
         >
@@ -116,7 +116,7 @@ export async function GET(request: NextRequest) {
                 width: "40px",
                 height: "40px",
                 borderRadius: "50%",
-                backgroundColor: "#4a7c59",
+                backgroundColor: "#91a892",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
@@ -124,7 +124,7 @@ export async function GET(request: NextRequest) {
             >
               <div
                 style={{
-                  color: "#ffffff",
+                  color: "#1d2521",
                   fontSize: "20px",
                   fontWeight: 800,
                 }}
@@ -134,7 +134,7 @@ export async function GET(request: NextRequest) {
             </div>
             <div
               style={{
-                color: "#a8c5b0",
+                color: "#bcc8bd",
                 fontSize: "26px",
                 fontWeight: 700,
                 letterSpacing: "0.02em",
@@ -145,7 +145,7 @@ export async function GET(request: NextRequest) {
           </div>
           <div
             style={{
-              color: "#4a7c59",
+              color: "#91a892",
               fontSize: "20px",
               fontWeight: 500,
             }}
