@@ -16,7 +16,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
 baseProducts:
   - title: "観葉植物の商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382098"
+    url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
