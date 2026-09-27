@@ -54,7 +54,7 @@ amazonProducts:
 |---|---|
 | [総合](/review/plant-light-review) | 観葉植物・ビカクシダ向けの選び方と、タイプ横断のおすすめ5選 |
 | **バータイプ特化（この記事）** | 棚・複数株を照らすバー型だけを5機種比較 |
-| [BRIM専門](/review/brim-grow-light-comparison) | 国内ブランドBRIMの4機種（PANEL A・PANEL Y・SOL UV・FLORA）の選び分け |
+| [BRIM専門](/review/brim-grow-light-comparison) | 国内ブランドBRIMの選び分け（主力3機種＋ラインナップ全体） |
 
 ## 結論：バータイプかスポットタイプか
 
