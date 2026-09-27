@@ -18,6 +18,7 @@ relatedSlugs:
   - "species/genus-alocasia"
   - "species/genus-platycerium"
   - "guide/repotting-after-purchase"
+  - "guide/tissue-culture-acclimatization"
 ---
 
 ## 東京で希少な観葉植物を買うには？

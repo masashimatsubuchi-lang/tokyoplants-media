@@ -16,6 +16,7 @@ relatedSlugs:
   - "research/houseplant-trivia-10-facts"
   - "research/tokyo-rare-houseplant-specialty-shops"
   - "species/genus-monstera"
+  - "research/tissue-culture-houseplants"
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
