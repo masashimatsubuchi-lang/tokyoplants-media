@@ -77,7 +77,6 @@ siblings:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1603436326446-74e2d65f3168?w=1200&q=80" caption="ビロード質の葉をもつアンスリウムは、直射より拡散した明るい光で艶が出る" credit="Unsplash" -->
 <!-- /figure -->
 
 ## 光の管理

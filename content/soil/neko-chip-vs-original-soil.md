@@ -167,7 +167,6 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1693414894875-07af73204a5a?w=1200&q=80" caption="粒がそろった用土ほど、水が抜けたあとに空気の隙間が残る" credit="Unsplash" align="wide" -->
 <!-- /figure -->
 
 ## ねこチップの使い方（配合割合）
@@ -250,7 +249,6 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1693385998902-656569d40b88?w=1200&q=80" caption="指で崩れるほど細かい粒が多い土は、鉢の中で目詰まりを起こしやすい" credit="Unsplash" -->
 <!-- /figure -->
 
 ## I'm original SOILとの違い（比較テーブル）
@@ -328,7 +326,6 @@ I'm original SOILは、tokyoplantsが自社で管理・販売している観葉�
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1712912828048-c2cde21a6885?w=1200&q=80" caption="同じ「土」でも、鉢のサイズと置き場所が変われば向き不向きは入れ替わる" credit="Unsplash" -->
 <!-- /figure -->
 
 ## どちらを選ぶべきか（シーン別まとめ）

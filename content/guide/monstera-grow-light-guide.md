@@ -62,7 +62,6 @@ amazonProducts:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1687784409160-fd09299153de?w=1200&q=80" caption="十分な光が当たった葉ほど切れ込みが深く、支柱を登るほど大きくなる" credit="Unsplash" align="wide" -->
 <!-- /figure -->
 
 ## 品種別の必要光量（PPFD目安）
@@ -123,7 +122,6 @@ amazonProducts:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1785306589673-a4b44c7e26ce?w=1200&q=80" caption="窓際でもレース越しが基本。夏の直射は短時間でも葉焼けにつながる" credit="Unsplash" -->
 <!-- /figure -->
 
 ## 直射日光 vs 育成ライト

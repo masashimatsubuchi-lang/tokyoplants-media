@@ -110,7 +110,6 @@ amazonProducts:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1668109882437-538af58781b3?w=1200&q=80" caption="茎1本1本の長さが、そのまま巻きやすさと崩れにくさになる" credit="Unsplash" -->
 <!-- /figure -->
 
 ## 用途別おすすめの選び方
@@ -183,7 +182,6 @@ amazonProducts:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1769871127975-30dbbc523c89?w=1200&q=80" caption="水を含ませたら軽く握って滴が落ちない程度に。これが「絞り加減」の目安" credit="Unsplash" align="wide" -->
 <!-- /figure -->
 
 ## 水苔の戻し方・使い方｜乾燥水苔を水で戻す手順

@@ -119,7 +119,6 @@ baseProducts:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1701981319581-4a4c47bde8a9?w=1200&q=80" caption="細かい粒だけの土は水もちは良いが、乾くまでに時間がかかりすぎる" credit="Unsplash" -->
 <!-- /figure -->
 
 ## エバーフレッシュの土 配合レシピ

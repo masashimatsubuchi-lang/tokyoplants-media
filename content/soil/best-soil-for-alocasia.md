@@ -52,7 +52,6 @@ baseProducts:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1644759633460-0f0a264edcc5?w=1200&q=80" caption="葉の大きさに対して根は細い。水を抱え込む土では根のほうが先に傷む" credit="Unsplash" -->
 <!-- /figure -->
 
 ## アロカシアの特性と土の関係
@@ -199,7 +198,6 @@ HYDRO MINERAL 単体での使用も可能です。鉢底に少量のゼオライ
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1627830310052-11b94812a9ed?w=1200&q=80" caption="粗い樹皮チップを混ぜるだけで、鉢の中に水と空気の通り道ができる" credit="Unsplash" -->
 <!-- /figure -->
 
 ## アロカシアの植え替え手順

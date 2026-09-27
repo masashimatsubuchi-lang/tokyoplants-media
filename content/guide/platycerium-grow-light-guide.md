@@ -94,7 +94,6 @@ PPFDの数値だけだと難しく感じるかもしれないけど、目安は�
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1783246949992-82686f129cdd?w=1200&q=80" caption="自生地では幹の側面に着生する。真上からの直射より、回り込む明るい光が合う" credit="Unsplash" -->
 <!-- /figure -->
 
 ## ライトの選び方（色温度とワット数）

@@ -121,7 +121,6 @@ siblings:
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1672062518782-706d6122c0e7?w=1200&q=80" caption="鉢の中で根を張る大型のフィカス。地上部が大きいほど、土は水もちより通気性が要る" credit="Unsplash" -->
 <!-- /figure -->
 
 ## ウンベラータの土 配合レシピ

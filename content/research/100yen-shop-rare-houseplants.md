@@ -141,7 +141,6 @@ TikTokやInstagramで「ダイソー 観葉植物 レア」が検索ワードと
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1683994851774-6e9642fb8a95?w=1200&q=80" caption="同じ棚に並んでいても、葉の張りと土の乾き方は株ごとに違う" credit="Unsplash" -->
 <!-- /figure -->
 
 ## 良い株の選び方チェックポイント
@@ -168,7 +167,6 @@ TikTokやInstagramで「ダイソー 観葉植物 レア」が検索ワードと
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1620862387428-80a54ba5c75c?w=1200&q=80" caption="小苗の植え替えは根を洗わず、ポットから抜いてそのまま据えるだけでいい" credit="Unsplash" -->
 <!-- /figure -->
 
 ## 持ち帰った後に必ずやること：土を替える

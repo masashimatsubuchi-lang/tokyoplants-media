@@ -158,7 +158,6 @@ PPFDは距離に応じて急激に減衰する。メーカー公称値は特定�
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1636908295924-c40a1f2e3400?w=1200&q=80" caption="ライトは部屋ではなく株の真上に。棚で使うなら段ごとに1本が基本" credit="Unsplash" align="wide" -->
 <!-- /figure -->
 
 ## タイプ別比較
@@ -263,7 +262,6 @@ BRIM製品（SOL 24W・FLORA・PANEL A）の選び分けは [BRIM(ブリム)植�
 
 ---
 
-<!-- figure src="https://images.unsplash.com/photo-1760493828138-63efd96b3f6a?w=1200&q=80" caption="人の目に明るい室内照明でも、植物が使える光量にはほとんど届かない" credit="Unsplash" -->
 <!-- /figure -->
 
 ## よくある失敗と対策

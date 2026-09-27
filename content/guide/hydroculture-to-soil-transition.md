@@ -46,7 +46,6 @@ baseProducts:
 
 焦って肥料を与えたり毎日水やりをしたりすると、ほぼ失敗します。そもそも自分の環境でどちらの管理が向くか迷っている段階なら、[ハイドロカルチャーと土の違い](/soil/hydroculture-vs-soil)で比較してから決めても遅くありません。
 
-<!-- figure src="https://images.unsplash.com/photo-1706736458477-067cc3ca2787?w=1200&q=80" caption="水中で伸びた根は白く細い。同じ根が土の中でそのまま働くわけではない" credit="Unsplash" align="wide" -->
 <!-- /figure -->
 
 ## なぜハイドロから土への植え替えで枯れるのか
@@ -92,7 +91,6 @@ baseProducts:
 6. **1〜2週間養生する**：明るい日陰に置き、直射日光と強風を避ける。葉の張りが戻ってから通常環境へ戻す
 <!-- /steps -->
 
-<!-- figure src="https://images.unsplash.com/photo-1643730530591-ea80de0a79e4?w=1200&q=80" caption="移行直後は根鉢を崩さず、周りに土を足す感覚で植えると失敗が少ない" credit="Unsplash" -->
 <!-- /figure -->
 
 ## 移行後の水やり管理スケジュール（週ごと）
