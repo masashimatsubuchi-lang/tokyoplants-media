@@ -2,14 +2,18 @@ import Link from "next/link";
 import Image from "next/image";
 import type { PostMeta } from "@/lib/posts";
 import { getCategoryBySlug } from "@/lib/categories";
-import ArticleCard from "./ArticleCard";
 
 /**
  * 記事末尾の回遊モジュール。
  *
  * モバイルでは縦積みのカードが延々と続いて、2〜3枚目より先がほぼ見られていなかった。
- * スマホは横スクロール（スナップ）にして一覧性を上げ、PCは従来どおりグリッドで出す。
+ * スマホは横スクロール（スナップ）にして一覧性を上げ、PCはグリッドで出す。
  * 2026-09-27 導入。
+ *
+ * ⚠️ カードは1回だけ描画し、レイアウトの切り替えはCSSで行うこと。
+ * 導入当初はモバイル用とPC用のカードを別々に出して `md:hidden` / `hidden md:grid` で
+ * 出し分けていたが、1,188ページ全部でカードが二重になり、ビルド出力が
+ * 375MB → 458MB に増えた（同日中に修正）。
  *
  * `rank` を true にすると順位バッジを出す（「よく読まれている記事」用）。
  */
@@ -39,6 +43,7 @@ export default function PostScroller({
       : "mt-12";
   // surface のときは、横スクロールがカード枠の外まで抜けるように内側だけ余白を持たせる
   const pad = tone === "surface" ? "px-5 md:px-0" : "";
+  const bleed = tone === "surface" ? "sm:-mx-5 sm:px-5" : "";
 
   return (
     <section className={wrapper}>
@@ -50,47 +55,38 @@ export default function PostScroller({
         {description && <p className="mt-1 text-[13px] leading-relaxed text-gray-500">{description}</p>}
       </div>
 
-      {/* モバイル: 横スクロール */}
       <div
-        className={`scrollbar-hide -mx-4 mt-4 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4 pb-1 md:hidden ${
-          tone === "surface" ? "sm:-mx-5 sm:px-5" : ""
-        }`}
+        className={`scrollbar-hide -mx-4 mt-4 flex snap-x snap-mandatory gap-3 overflow-x-auto px-4 pb-1 ${bleed}
+          md:mx-0 md:mt-5 md:grid ${gridCols} md:gap-6 md:overflow-visible md:px-0 md:pb-0`}
       >
         {posts.map((post, i) => (
-          <CompactCard key={`${post.category}-${post.slug}`} post={post} rank={rank ? i + 1 : undefined} />
-        ))}
-      </div>
-
-      {/* PC: 従来どおりグリッド */}
-      <div className={`mt-5 hidden gap-6 md:grid ${gridCols}`}>
-        {posts.map((post) => (
-          <ArticleCard key={`${post.category}-${post.slug}`} post={post} />
+          <Card key={`${post.category}-${post.slug}`} post={post} rank={rank ? i + 1 : undefined} />
         ))}
       </div>
     </section>
   );
 }
 
-function CompactCard({ post, rank }: { post: PostMeta; rank?: number }) {
+function Card({ post, rank }: { post: PostMeta; rank?: number }) {
   const category = getCategoryBySlug(post.category);
   return (
-    <article className="w-[64vw] max-w-[230px] shrink-0 snap-start">
+    <article className="w-[64vw] max-w-[230px] shrink-0 snap-start md:w-auto md:max-w-none md:shrink">
       <Link
         href={`/${post.category}/${post.slug}`}
-        className="flex h-full flex-col rounded-2xl border border-gray-100 bg-white p-2.5 transition-colors hover:border-teal-200"
+        className="group flex h-full flex-col rounded-2xl border border-gray-100 bg-white p-2.5 transition-all hover:border-teal-200 md:p-3 md:hover:-translate-y-0.5 md:hover:shadow-md"
       >
-        <div className="relative mb-2.5 aspect-[3/2] overflow-hidden rounded-xl bg-gray-100">
+        <div className="relative mb-2.5 aspect-[3/2] overflow-hidden rounded-xl bg-gray-100 md:mb-4">
           {post.image ? (
             <Image
               src={post.image}
               alt={post.title}
               fill
-              sizes="230px"
-              className="object-cover"
+              sizes="(max-width: 768px) 230px, 33vw"
+              className="object-cover transition-transform duration-500 md:group-hover:scale-105"
             />
           ) : (
             <div className="absolute inset-0 flex items-center justify-center">
-              <span className="text-2xl opacity-30">&#x1f331;</span>
+              <span className="text-2xl opacity-30 md:text-3xl">&#x1f331;</span>
             </div>
           )}
           {rank !== undefined && (
@@ -99,10 +95,17 @@ function CompactCard({ post, rank }: { post: PostMeta; rank?: number }) {
             </span>
           )}
         </div>
-        <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-teal-700">
+        <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-teal-700 md:text-[11px]">
           {category?.name}
         </span>
-        <h3 className="mt-1 text-[13.5px] font-bold leading-snug text-gray-900 line-clamp-3">{post.title}</h3>
+        <h3 className="mt-1 text-[13.5px] font-bold leading-snug text-gray-900 line-clamp-3 transition-colors group-hover:text-teal-700 md:mt-1.5 md:text-[17px] md:line-clamp-2">
+          {post.title}
+        </h3>
+        {/* 説明文と日付はPCだけ。モバイルの横スクロールでは高さを取りすぎる */}
+        <p className="mt-2 hidden text-[14px] leading-relaxed text-gray-600 line-clamp-2 md:block">
+          {post.description}
+        </p>
+        <time className="mt-3 hidden text-xs font-medium text-gray-500 md:block">{post.date}</time>
       </Link>
     </article>
   );
