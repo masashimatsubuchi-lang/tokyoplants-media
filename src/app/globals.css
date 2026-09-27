@@ -24,8 +24,15 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  /* 日本語の行末・行頭の扱い（2026-09-27 オーナー指摘で修正）。
+     以前は word-break: break-word を指定しており、これは仕様上
+     overflow-wrap: anywhere と同義でどこでも改行できてしまうため、
+     禁則処理が効かず「。」「、」が行頭に送られていた。
+     長いURLや英単語のはみ出しは overflow-wrap: break-word だけで防げる
+     （1行に収まらない語だけを分割する）ので、word-break は normal に戻す。 */
   overflow-wrap: break-word;
-  word-break: break-word;
+  word-break: normal;
+  line-break: strict;
 }
 
 /* Flex/grid children: allow shrinking below content size */

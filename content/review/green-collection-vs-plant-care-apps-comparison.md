@@ -19,12 +19,12 @@ relatedSlugs:
 この記事では、tokyoplantsが開発したiPhoneアプリ「Green Collection」と、海外で人気の高い「Planta」「Greg」「PlantIn」、日本の植物SNS「GreenSnap」の5つを比較します。**自社アプリを含む比較記事ですので、Green Collectionの弱点も隠さず書いています。** 各アプリの数値はApp Store・Google Playの掲載情報や公開情報を2026年9月時点で確認したもので、確認できなかった項目は「情報未確認」と明記しています。
 
 <!-- key-facts title="30秒でわかるアプリ選び" -->
-- **Androidを使っている** → Green Collectionは非対応。Planta・Greg・PlantInから選ぶ
-- **お世話を細かく記録したい** → 記録項目12種類の**Green Collection**
-- **実績と機能量で選びたい** → 利用者1,000万人規模の**Planta**
-- **鉢や置き場所まで最適化したい** → **Greg**
-- **名前を調べるのが主目的** → 識別種数が多い**PlantIn**
-- **無料で交流したい** → 日本語SNSの**GreenSnap**
+- **Android**：Green Collectionは非対応。Planta・Greg・PlantInから選ぶ
+- **記録したい**：記録項目12種類の**Green Collection**
+- **実績で選ぶ**：利用者1,000万人規模の**Planta**
+- **環境の最適化**：鉢や置き場所まで提案してくれる**Greg**
+- **名前を調べる**：識別種数が多い**PlantIn**
+- **交流したい**：日本語SNSの**GreenSnap**
 <!-- /key-facts -->
 
 ## 結論：3つの質問で答えが出ます

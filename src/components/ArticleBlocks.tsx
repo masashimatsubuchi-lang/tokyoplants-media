@@ -23,16 +23,33 @@ function KeyFacts({ block }: { block: Extract<ParsedBlock, { kind: "key-facts" }
   return (
     <section className="not-prose my-8 rounded-2xl bg-zinc-900 p-5 text-white sm:p-6">
       <BlockTitleDark eyebrow="At a glance" title={block.title || "この記事の要点"} />
-      <dl className="grid grid-cols-1 gap-x-6 gap-y-3 sm:grid-cols-2">
-        {block.items.map((it, i) => (
-          <div key={i} className="flex gap-3 border-l-2 border-emerald-400 pl-3">
-            <dt className="w-[5.5em] shrink-0 text-[12px] font-semibold leading-6 text-zinc-400">{it.label}</dt>
-            <dd
-              className="text-[14px] font-medium leading-6 text-zinc-50 [&_strong]:font-bold [&_strong]:text-emerald-300 [&_a]:underline"
-              dangerouslySetInnerHTML={{ __html: it.valueHtml }}
-            />
-          </div>
-        ))}
+      <dl className="grid grid-cols-1 gap-x-6 gap-y-3.5 sm:grid-cols-2">
+        {block.items.map((it, i) => {
+          // 短いラベルは横並び、長いラベルは値の上に積む。
+          // 固定幅(5.5em)の列に長い語を入れると2〜3文字ずつ折り返されて読めなくなる
+          // （2026-09-27 オーナー指摘。モバイルで顕著だった）。
+          const stacked = it.label.length > 6;
+          return (
+            <div
+              key={i}
+              className={`border-l-2 border-emerald-400 pl-3 ${stacked ? "flex flex-col gap-1" : "flex gap-3"}`}
+            >
+              <dt
+                className={
+                  stacked
+                    ? "text-[11.5px] font-bold leading-snug text-emerald-300"
+                    : "w-[5.5em] shrink-0 text-[12px] font-semibold leading-6 text-zinc-400"
+                }
+              >
+                {it.label}
+              </dt>
+              <dd
+                className="text-[14px] font-medium leading-[1.7] text-zinc-50 [&_strong]:font-bold [&_strong]:text-emerald-300 [&_a]:underline"
+                dangerouslySetInnerHTML={{ __html: it.valueHtml }}
+              />
+            </div>
+          );
+        })}
       </dl>
     </section>
   );

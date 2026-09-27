@@ -73,10 +73,14 @@ function listItems(html: string): string[] {
 
 /** 「**ラベル**：値」形式の <li> を label / value に分ける */
 function splitLabelValue(itemHtml: string): { label: string; valueHtml: string } {
+  // 「**ラベル**。値」のように太字のあとが句点で始まる書き方をされることがあり、
+  // そのままだと値が「。」から始まって不自然に見える（2026-09-27 オーナー指摘）。
+  // 区切りに使われうる文字はラベル側の終わりとみなして落とす。
+  const trimLead = (v: string) => v.replace(/^\s*[:：。、．，]\s*/, "").trim();
   const m = itemHtml.match(/^<strong>([\s\S]*?)<\/strong>\s*[:：]?\s*([\s\S]*)$/);
-  if (m) return { label: stripTags(m[1]), valueHtml: m[2].trim() };
+  if (m) return { label: stripTags(m[1]), valueHtml: trimLead(m[2]) };
   const idx = itemHtml.search(/[:：]/);
-  if (idx > 0) return { label: stripTags(itemHtml.slice(0, idx)), valueHtml: itemHtml.slice(idx + 1).trim() };
+  if (idx > 0) return { label: stripTags(itemHtml.slice(0, idx)), valueHtml: trimLead(itemHtml.slice(idx + 1)) };
   return { label: "", valueHtml: itemHtml };
 }
 
