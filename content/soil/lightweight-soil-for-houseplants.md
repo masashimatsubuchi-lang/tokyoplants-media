@@ -128,7 +128,7 @@ amazonProducts:
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B00I4O65L2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00I4O65L2.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/51sQsx-zkrL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">あかぎ園芸 パーライト 10L 軽量土壌改良材</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
@@ -147,7 +147,7 @@ amazonProducts:
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B00UBCG826?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00UBCG826.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/612bIbOg7TL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">あかぎ園芸 日向土 小粒 14L 超軽量</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
@@ -166,7 +166,7 @@ amazonProducts:
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B07Y1B5XWJ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07Y1B5XWJ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/517exZmuwGL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">サカタのタネ スーパーミックスA 40L 軽量培養土</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>

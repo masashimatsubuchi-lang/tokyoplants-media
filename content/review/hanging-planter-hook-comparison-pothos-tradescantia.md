@@ -82,7 +82,7 @@ baseProducts:
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B0928GVB1B?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0928GVB1B.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/41XehCTIbiL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">リッチェル(Richell) ハンギングボール プレーン 5号 グレー</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
@@ -99,7 +99,7 @@ baseProducts:
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B07KS26VTS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07KS26VTS.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/51SrcsXxQ-L._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">Gadgetman マクラメスタイル麻ローププラントハンガー 3種セット</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
@@ -116,7 +116,7 @@ baseProducts:
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B0D4QCLCL9?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0D4QCLCL9.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/610tVIjnsBL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">山崎実業(Yamazaki) tower ウォールハンギンググリーンフック</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>

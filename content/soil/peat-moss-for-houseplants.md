@@ -165,7 +165,7 @@ amazonProducts:
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B07S1NQN53?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07S1NQN53.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/711jqHYJUkL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">pH調整済みピートモス 5L（欧州産）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
@@ -246,7 +246,7 @@ pH調整なしでそのまま使えて環境にも優しいヤシガラは、ピ
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
 <a href="https://www.amazon.co.jp/dp/B01DN24QPQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B01DN24QPQ.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<img src="https://m.media-amazon.com/images/I/71urJNZWRQL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
 <p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">バーミキュライト 18L 土壌改良用</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
