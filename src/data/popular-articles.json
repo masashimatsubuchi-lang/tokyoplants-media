@@ -1,0 +1,130 @@
+{
+  "_note": "GA4「tokyoplants｜media」プロパティの表示回数から作成した人気記事リスト。記事末尾の『よく読まれている記事』で使う。更新手順は scripts/README-popular-articles.md を参照。",
+  "period": {
+    "start": "2026-08-29",
+    "end": "2026-09-25"
+  },
+  "generatedAt": "2026-09-27",
+  "items": [
+    {
+      "slug": "soil/neko-chip-vs-original-soil",
+      "views": 1090
+    },
+    {
+      "slug": "review/plant-light-review",
+      "views": 665
+    },
+    {
+      "slug": "research/100yen-shop-rare-houseplants",
+      "views": 659
+    },
+    {
+      "slug": "guide/platycerium-grow-light-guide",
+      "views": 423
+    },
+    {
+      "slug": "guide/monstera-hydroculture",
+      "views": 400
+    },
+    {
+      "slug": "soil/best-soil-for-alocasia",
+      "views": 351
+    },
+    {
+      "slug": "guide/no-drainage-hole-pot-guide",
+      "views": 346
+    },
+    {
+      "slug": "guide/hydroculture-to-soil-transition",
+      "views": 337
+    },
+    {
+      "slug": "soil/best-soil-for-everfresh",
+      "views": 253
+    },
+    {
+      "slug": "guide/plant-not-recovering-after-repotting",
+      "views": 238
+    },
+    {
+      "slug": "soil/best-soil-for-pachira",
+      "views": 230
+    },
+    {
+      "slug": "guide/monstera-grow-light-guide",
+      "views": 217
+    },
+    {
+      "slug": "soil/best-soil-for-umbellata",
+      "views": 212
+    },
+    {
+      "slug": "soil/best-soil-for-calathea",
+      "views": 185
+    },
+    {
+      "slug": "species/alocasia-silver-dragon",
+      "views": 181
+    },
+    {
+      "slug": "guide/how-to-trim-roots-when-repotting",
+      "views": 173
+    },
+    {
+      "slug": "guide/alocasia-care-guide",
+      "views": 169
+    },
+    {
+      "slug": "species/stephania-erecta",
+      "views": 169
+    },
+    {
+      "slug": "review/bar-type-grow-light-comparison",
+      "views": 164
+    },
+    {
+      "slug": "species/monstera-burle-marxii-flame",
+      "views": 158
+    },
+    {
+      "slug": "review/brim-grow-light-comparison",
+      "views": 157
+    },
+    {
+      "slug": "review/plant-rack-and-greenhouse-review",
+      "views": 157
+    },
+    {
+      "slug": "guide/anthurium-warocqueanum-care-guide",
+      "views": 155
+    },
+    {
+      "slug": "soil/sphagnum-moss-recommended",
+      "views": 140
+    },
+    {
+      "slug": "species/alocasia-venom",
+      "views": 138
+    },
+    {
+      "slug": "soil/bellabon-for-houseplants",
+      "views": 137
+    },
+    {
+      "slug": "review/moss-pole-comparison",
+      "views": 136
+    },
+    {
+      "slug": "soil/best-soil-for-gajumaru",
+      "views": 135
+    },
+    {
+      "slug": "guide/repotting-failure-patterns",
+      "views": 127
+    },
+    {
+      "slug": "soil/recommended-soil-for-houseplants",
+      "views": 127
+    }
+  ]
+}

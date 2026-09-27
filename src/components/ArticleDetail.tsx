@@ -5,8 +5,8 @@ import FaqJsonLd from "./FaqJsonLd";
 import { extractFaqs } from "@/lib/faq";
 import HowToJsonLd from "./HowToJsonLd";
 import { extractHowTo } from "@/lib/howto";
-import RelatedPosts from "./RelatedPosts";
-import ArticleCard from "./ArticleCard";
+import PostScroller from "./PostScroller";
+import { getPopularPosts } from "@/lib/popular";
 import BaseProductBlock from "./BaseProductBlock";
 import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
 import CharacterNote from "./CharacterNote";
@@ -225,6 +225,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
   ).slice(0, 3);
+  // よく読まれている記事。この記事自身と、ページ内で既に出しているものは外す。
+  // 同じカードが並ぶと回遊の選択肢が増えないため（2026-09-27）。
+  const shownKeys = [
+    `${post.category}/${post.slug}`,
+    ...[...nextReads, ...relatedPosts, ...sameCategoryPosts].map((p) => `${p.category}/${p.slug}`),
+  ];
+  const popularPosts = getPopularPosts(shownKeys, 6);
 
   return (
     <>
@@ -366,17 +373,12 @@ export default function ArticleDetail({ post }: { post: Post }) {
             )}
 
             {/* Next Reads */}
-            {nextReads.length > 0 && (
-              <section className="mt-12 rounded-2xl border border-teal-100 bg-teal-50/40 p-5 md:p-6">
-                <p className="text-[11px] font-semibold uppercase tracking-[0.2em] text-teal-700">Next Read</p>
-                <h2 className="mt-2 text-lg md:text-xl font-bold text-gray-900">読了後におすすめの記事</h2>
-                <div className="mt-5 grid gap-6 md:grid-cols-3">
-                  {nextReads.map((item) => (
-                    <ArticleCard key={`${item.category}-${item.slug}`} post={item} />
-                  ))}
-                </div>
-              </section>
-            )}
+            <PostScroller
+              posts={nextReads}
+              eyebrow="Next Read"
+              title="読了後におすすめの記事"
+              tone="surface"
+            />
 
             {/* Shop Banner */}
             {showShopBanner && <ShopBanner />}
@@ -405,10 +407,19 @@ export default function ArticleDetail({ post }: { post: Post }) {
             </div>
 
             {/* Related Posts */}
-            <RelatedPosts posts={relatedPosts} title="関連記事" />
+            <PostScroller posts={relatedPosts} title="関連記事" cols={2} />
+
+            {/* よく読まれている記事（サイト全体の人気。文脈で拾えなかった読者の受け皿） */}
+            <PostScroller
+              posts={popularPosts}
+              eyebrow="Popular"
+              title="よく読まれている記事"
+              description="tokyoplants MEDIAでいま読まれている記事です。"
+              rank
+            />
 
             {/* Same Category Posts */}
-            <RelatedPosts posts={sameCategoryPosts} title={`${category?.name}の他の記事`} />
+            <PostScroller posts={sameCategoryPosts} title={`${category?.name}の他の記事`} cols={2} />
           </div>
 
           {toc.length > 0 && (
