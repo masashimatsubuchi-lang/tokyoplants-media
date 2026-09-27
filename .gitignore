@@ -46,3 +46,9 @@ __pycache__/
 
 # Pillowを使う画像生成スクリプト用（scripts/*.py, ads/*.py）
 .venv/
+
+# 広告クリエイティブの生成物（ads/make-app-ads.py で再生成可能。mp4が25MBあるため追跡しない）
+ads/app/
+
+# Supabase CLI のローカル状態
+supabase/.temp/
