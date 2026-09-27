@@ -28,11 +28,11 @@ baseProducts:
     url: 'https://www.tokyoplants.com/items/135803882'
     price: '¥2,000'
 amazonProducts:
-  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
-    asin: "B0CZJKWQKB"
-    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
+  - title: "東京寿園 ゼオライト 国産 天然 2L（中粒）"
+    asin: "B0CKF99LL6"
+    image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
     note: "ハイドロ培地に混ぜて根腐れ防止・水質浄化"
-    price: "¥2,500〜"
+    price: "¥1,670"
 ---
 
 「アロカシアに土の虫が湧いた」「水やりのタイミングが難しくて根腐れさせてしまった」——アロカシアの育て方で躓く人の多くは、土ではなくハイドロカルチャーに切り替えることで悩みが一気に解消されます。

@@ -28,10 +28,10 @@ baseProducts:
     url: 'https://www.tokyoplants.com/items/142692278'
     price: '¥1,480'
 amazonProducts:
-  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
-    asin: "B0CZJKWQKB"
-    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
-    price: "¥2,500前後"
+  - title: "東京寿園 ゼオライト 国産 天然 2L（中粒）"
+    asin: "B0CKF99LL6"
+    image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
+    price: "¥1,670"
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"
     image: "https://m.media-amazon.com/images/I/9196PXYbEdL._AC_SL200_.jpg"

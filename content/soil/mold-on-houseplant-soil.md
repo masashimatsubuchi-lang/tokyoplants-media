@@ -19,15 +19,21 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "住友化学園芸 ベニカXガード粒剤 550g"
+  - title: "KINCHO園芸 ベニカXガード 殺虫殺菌剤 粒剤 550g"
     asin: "B085BBTW2Y"
-    note: "土に混ぜるだけで病害虫を長期予防"
-    price: "¥600〜"
-  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
-    asin: "B0CZJKWQKB"
-    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
+    image: "https://m.media-amazon.com/images/I/71HZELFB1ZL._AC_SL200_.jpg"
+    note: "土に混ぜるだけで病害虫を長期予防。★4.2・1,438件・在庫あり（2026-09-27にAmazon商品ページで確認）"
+    price: "¥1,291"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "30畳対応・無段階風量調整。土の表面を乾かす弱運転向き。★4.2・2,191件・在庫あり（2026-09-27に確認）"
+    price: "¥10,565"
+  - title: "東京寿園 ゼオライト 国産 天然 2L（中粒）"
+    asin: "B0CKF99LL6"
+    image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
     note: "土に混ぜて水はけ改善・カビ予防に"
-    price: "¥2,500〜"
+    price: "¥1,670"
 ---
 
 朝、観葉植物の鉢を見たら、土の表面に白いふわふわしたものが広がっている。これはカビです。見た目の不快感だけでなく、「植物が枯れるのでは？」と不安になる方も多いでしょう。
@@ -130,12 +136,8 @@ amazonProducts:
 
 窓を開けて換気する場合は、1日2回、各10分以上が目安です。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CZJKWQKB?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0CZJKWQKB.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">サーキュレーター（静音）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+機種の選び方は「[観葉植物向けサーキュレーター比較](/review/circulator-for-houseplants-review)」で静音性・風量・設置場所ごとに整理しています。
+
 
 ### 対策3：有機質の少ない土を使う
 
@@ -158,12 +160,6 @@ amazonProducts:
 
 ---
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B085BBTW2Y?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B085BBTW2Y.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ベニカXガード粒剤</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
 
 ## やってはいけないNG対策
 
@@ -196,6 +192,9 @@ amazonProducts:
 直射日光に当てればカビは死滅しますが、多くの観葉植物は直射日光で葉焼けを起こします。植物ごと日光に当てるのではなく、土だけを天日干しするか、土を交換してください。
 
 ---
+
+<!-- amazon-cards title="カビ対策に使えるもの" note="Amazonアソシエイトリンクを含みます。価格・評価・在庫は2026-09-27に商品ページで直接確認した数値です。" -->
+<!-- /amazon-cards -->
 
 ## まとめ
 

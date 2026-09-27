@@ -37,10 +37,10 @@ amazonProducts:
     asin: "B01EGYYQSC"
     image: "https://m.media-amazon.com/images/I/9196PXYbEdL._AC_SL200_.jpg"
     price: "¥1,100前後"
-  - title: "ゼオライト 根腐れ防止剤 中粒 2L"
-    asin: "B0CZJKWQKB"
-    image: "https://m.media-amazon.com/images/I/81qOO-z-ZVL._AC_SL200_.jpg"
-    price: "¥2,500前後"
+  - title: "東京寿園 ゼオライト 国産 天然 2L（中粒）"
+    asin: "B0CKF99LL6"
+    image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
+    price: "¥1,670"
 ---
 
 「ハイドロカルチャーを始めたいけど、どの培地を選べばいい？」「LECAと溶岩石の違いがわからない」——培地選びに悩む人は少なくありません。ハイドロカルチャー全般の基礎知識は[ハイドロカルチャー完全ガイド](/soil/hydroculture-complete-guide)でまとめて確認できます。
