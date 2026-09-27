@@ -20,8 +20,8 @@ amazonProducts:
   - title: "【BARREL公式】植物育成LEDライト NEO AMATERAS-20W"
     asin: "B0BXPKS4S7"
     image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SL200_.jpg"
-    note: "Amazon評価 4.7（7件）/ PPFD406µmol/m²/s・Ra97・プライム対象"
-    price: "¥14,000〜"
+    note: "PPFD 406µmol/m²/s（照射距離40cm・メーカー公表値）・Ra97の高演色。★4.7・在庫あり・Prime対象だが、レビューは8件と少なめ（2026-09-27にAmazon商品ページで確認）"
+    price: "¥14,000"
 ---
 
 # NEO AMATERAS LEDレビュー｜PPFD実測と使用感を徹底解説

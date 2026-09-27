@@ -19,17 +19,17 @@ amazonProducts:
     asin: "B01H2Z9PRO"
     image: "https://m.media-amazon.com/images/I/71n7BVR9XgL._AC_SL200_.jpg"
     note: "評価★4.2・レビュー588件（2026-07-16 Amazon直接確認・在庫あり・Prime対象）。ロングノズルのステンレス製で、室内の観葉植物向けとして最も定番のサイズ・形状"
-    price: "¥2,789〜"
+    price: "¥2,789"
   - title: "IMEEA じょうろ 1000ml 木製ハンドル ブラック"
     asin: "B0BGXVXGSV"
     image: "https://m.media-amazon.com/images/I/61fXCF4KFaL._AC_SL200_.jpg"
     note: "評価★4.5・レビュー239件（2026-07-16 Amazon直接確認・在庫あり・Prime対象）。木製ハンドルで北欧テイストのデザイン。1000ml容量で大きめの鉢にも対応"
-    price: "¥2,750〜"
+    price: "¥2,750"
   - title: "Cesun じょうろ ステンレス 小型 ピンクゴールド 450ml"
     asin: "B0868GR87Q"
     image: "https://m.media-amazon.com/images/I/51TcwdfiKML._AC_SL200_.jpg"
     note: "評価★4.1・レビュー55件（2026-07-16 Amazon直接確認・在庫あり[残りわずか]・Prime対象）。コンパクトで細い注ぎ口、小〜中型の鉢へピンポイントで水やりしやすい"
-    price: "¥2,350〜"
+    price: "¥2,350"
 ---
 
 100均のじょうろを使っていて、「水を注ぐたびに土が飛び散る」「注ぎ口が太くて狙った場所に水がかけられない」と感じたことはないでしょうか。観葉植物の水やりは毎日〜数日に一度の頻度で発生するケアだからこそ、じょうろの使い勝手は植物の管理のしやすさに直結します。この記事では、観葉植物に向いているじょうろの条件と、Amazonで評価の高い室内向けじょうろをタイプ別に比較します。

@@ -25,7 +25,7 @@ amazonProducts:
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"
     image: "https://m.media-amazon.com/images/I/9196PXYbEdL._AC_SL200_.jpg"
-    price: "¥1,100前後"
+    price: "¥1,150"
   - title: "東京寿園 ゼオライト 国産 天然 2L（中粒）"
     asin: "B0CKF99LL6"
     image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
@@ -33,7 +33,7 @@ amazonProducts:
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
     image: "https://m.media-amazon.com/images/I/61AcOWOTsxL._AC_SL200_.jpg"
-    price: "¥2,599前後"
+    price: "¥2,599"
 ---
 
 # モンステラをハイドロカルチャーで育てる方法｜水管理と培地の選び方

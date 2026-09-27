@@ -23,17 +23,17 @@ amazonProducts:
   - title: "loofen ルーフェン 生ごみ処理機（ホワイト）"
     asin: "B09ZXKCBL8"
     image: "https://m.media-amazon.com/images/I/51k2rxe-QlL._AC_SL200_.jpg"
-    price: "¥32,000〜"
+    price: "¥75,020"
   - title: "パナソニック 家庭用生ごみ処理機 MS-N53XD-S"
     asin: "B08G89DTF7"
-    price: "¥40,000〜"
+    price: "¥84,240"
   - title: "Reencle Prime 家庭用 生ごみ処理機（ブラック）"
     asin: "B0DG5Z2ZCN"
     image: "https://m.media-amazon.com/images/I/51eGcpcCdTL._AC_SL200_.jpg"
     price: "¥110,000"
   - title: "アイリスオーヤマ エcocコンポスト IC-130 ブラック"
     asin: "B00BOFZ1PE"
-    price: "¥5,706〜"
+    price: "¥5,770"
 ---
 
 電動生ごみ処理機の市場は、2020年以降に急速に拡大しました。コロナ禍でのサステナブル意識の高まりと、自治体助成金制度の整備が普及を後押しし、現在では数十種類のモデルが流通しています。しかし「乾燥式・バイオ式・ハイブリッド式」の違いを正確に理解している購入者は多くありません。

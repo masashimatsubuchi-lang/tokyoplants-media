@@ -19,21 +19,16 @@ amazonProducts:
   - title: "聖新陶芸 グリーンペット バジル栽培キット"
     asin: "B0CYC631GW"
     note: "土不要の給水システム付き。水やりのタイミングが目盛でわかる初心者向けキット"
-    price: "¥1,000〜"
-  - title: "窓際族 バジル 水耕栽培キット"
-    asin: "B00761OC6O"
-    image: "https://m.media-amazon.com/images/I/815ywHurnYL._AC_SL200_.jpg"
-    note: "窓辺に置けるコンパクトな水耕栽培セット。種・スポンジ・容器付き"
-    price: "¥1,500〜"
+    price: "¥1,293"
   - title: "BRIM FLORA クリップ式 植物育成ライト（調光タイマー付き）"
     asin: "B0CLD6QSDD"
     image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
     note: "日照不足のキッチンでハーブを育てる際の必需品。タイマー自動管理"
-    price: "¥4,780〜"
+    price: "¥4,780"
   - title: "ハイポネックス原液 800ml"
     asin: "B0027WPD7O"
     note: "ハーブの成長期に希釈して使う液体肥料の定番"
-    price: "¥700〜"
+    price: "¥503"
 ---
 
 バジルやミントをキッチンで育てて、料理にそのまま使えたら——そう思って始めたのに、すぐに枯れてしまった経験はありませんか？室内でハーブを長く育てるには、単なる「水やりのコツ」だけでなく、植物が光をどう使うか・土の酸度や通気性がなぜ重要か・いつどこを摘み取るべきかという植物学的な背景を理解することが近道です。
@@ -95,101 +90,6 @@ amazonProducts:
 実際の置き場所がどれくらいの明るさか自信がないときは、アプリの光量チェック機能で数値を確認してから育成ライトの距離を決めると失敗が減るよ。
 <!-- /character-note -->
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CLD6QSDD?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0CLD6QSDD.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BRIM FLORA クリップ式 植物育成ライト（調光タイマー付き）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
-
----
-
-## 季節別栽培カレンダー
-
-### 春（3〜5月）：定植・播種のベストシーズン
-
-バジルの発芽適温は **20〜25℃**。4月中旬以降、最低気温が15℃を安定して超えてからタネをまくか、苗を購入して定植します。室内ならゴールデンウィーク前後が目安。
-
-ミントは春に地下茎が動き出し、急速に芽吹きます。3〜4月にポットを仕立て直すか、株分けで更新するタイミングです。
-
-### 夏（6〜8月）：収穫最盛期・ボルティング注意
-
-バジルは夏が最も生育旺盛で、収穫のピーク。一方で花芽（ボルティング）が出やすくなります（後述）。高温乾燥が続く日は水やりを朝夕2回に増やしてください。
-
-ミントは35℃以上になると葉が黄化しやすいため、直射日光の当たりすぎに注意。夏場は半日陰に移すか、遮光ネットで対応します。
-
-### 秋（9〜11月）：種採り・冬準備
-
-バジルは最低気温が13℃を下回り始めると急激に弱り始めます。9月中に株全体を収穫して乾燥保存するか、花芽から種を採取して翌年に備えます。バジルは一年草であり、冬を越させることは難しいと割り切ることが重要です。
-
-ミントは秋に地上部が枯れても地下茎が生きています。霜が降りる前に根鉢ごと室内に取り込むか、地下茎を掘り起こしてポットに植え替えておきます。
-
-### 冬（12〜2月）：バジルは枯死、ミントは休眠
-
-バジルは冬を越せないため、室内であっても最低気温が15℃を割り込む環境では枯死します。加温した室内（20℃以上）+ 育成ライトがあれば冬でも栽培可能ですが、光量確保が前提条件です。
-
-ミントは冬季休眠し、地上部が枯れても根は生きています。春になれば再び萌芽するので、水やりを最小限に抑えながら屋外か玄関などの涼しい場所で管理します。
-
----
-
-## 土栽培の詳細：pH管理と用土配合
-
-### ハーブに適した pH は 5.5〜6.5
-
-土の pH（酸塩基度）は養分の溶解性に直結します。ハーブ類は一般的に **pH 5.5〜6.5（弱酸性〜中性）** を好み、この範囲を外れると窒素・リン・カリウムなどの吸収効率が著しく低下します。市販の培養土はおおよそ pH 6.0〜6.5 に調整されているため、そのまま使えることが多いですが、長期使用や水道水（pH 7.0〜8.0）のみで水やりを続けると徐々にアルカリ側に傾きます。pH が高い場合はピートモスや硫黄を少量混ぜて調整します。
-
-### 推奨用土配合（土栽培）
-
-```
-培養土（市販ハーブ用）  :  赤玉土（小粒）  :  パーライト
-        5             :       3          :      2
-```
-
-この配合のポイントは **通気性と水はけ**。バジルは過湿になると根腐れしやすいため、パーライトを加えて団粒構造を維持します。一方ミントはやや水持ちが良い方が好みなので、パーライトを1割に減らして腐葉土を足しても問題ありません。
-
-鉢は素焼き鉢かスリット鉢を使用し、鉢底石（軽石）を2〜3cm敷いて排水性を確保します。受け皿の水は **30分以内** に捨てる習慣をつけてください。根腐れの最大原因は「受け皿に溜まった水」です。
-
----
-
-## 水耕栽培の詳細：EC値・液肥・藻対策
-
-### EC値（電気伝導率）による液肥管理
-
-水耕栽培では養分は液体肥料（液肥）のみで供給します。液肥の濃度指標として **EC値（電気伝導率、mS/cm）** が使われます。
-
-| 生育ステージ | 推奨 EC 値 |
-|------------|-----------|
-| 発芽〜育苗期 | 0.5〜1.0 mS/cm |
-| 生育期（バジル・ミント） | 1.2〜1.8 mS/cm |
-| 収穫前・夏の高温期 | 1.0〜1.5 mS/cm（薄め） |
-
-EC メーターは1,000〜2,000円程度で入手でき、正確な管理に役立ちます。EC値が高すぎると根が肥料焼けし、低すぎると徒長や葉色の薄さが現れます。
-
-液肥はハイポネックス原液（6-10-5）を規定量の **半量〜2/3** に薄めて使うのが室内ハーブには適切です。過剰施肥は風味の低下を招きます。
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0027WPD7O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0027WPD7O.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス原液</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
-
-### 水替えと藻（アオコ）の発生防止
-
-水耕栽培で多いトラブルが **藻の繁殖** です。藻は光と養分があれば急増し、根に絡みついて酸素を奪います。対策は次の3点です。
-
-1. **容器を遮光する** — 透明な容器はアルミホイルや黒いテープで覆い、液肥に光が当たらないようにします
-2. **週1回の水替え** — 夏場は3〜4日に1回程度が理想。水を入れ替えるたびに容器内も軽く洗います
-3. **液温を上げすぎない** — 水温が25℃を超えると藻が急増し、溶存酸素も低下します。保冷剤を添えるか、日の当たらない涼しい場所に容器を置く工夫を
-
-### 水耕栽培キットから始める
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B00761OC6O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00761OC6O.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">窓際族 バジル 水耕栽培キット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
 
 種・スポンジ培地・容器がセットになった水耕栽培キットは、道具を揃える手間なくすぐに始められます。スポンジに種をまいて水に浸すだけなので、子供との食育にも向いています。
 

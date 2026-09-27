@@ -35,7 +35,7 @@ amazonProducts:
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"
     image: "https://m.media-amazon.com/images/I/9196PXYbEdL._AC_SL200_.jpg"
-    price: "¥1,100前後"
+    price: "¥1,150"
 ---
 
 「溶岩石って観葉植物に本当に使えるの？」「土と何が違うの？」——インテリアショップや専門店で溶岩石を見かけたことはあっても、実際の効果がよくわからない人は多いです。

@@ -29,7 +29,7 @@ amazonProducts:
     price: "¥2,448"
   - title: "KINCHO園芸（旧:住友化学園芸） GFベンレート水和剤 0.5g×10包"
     asin: "B0027WRLLK"
-    price: "¥650前後"
+    price: "¥591"
 ---
 
 # 観葉植物の梅雨対策｜根腐れを防ぐ水やり・培地・置き場所のすべて

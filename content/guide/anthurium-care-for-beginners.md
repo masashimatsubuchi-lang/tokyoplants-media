@@ -27,10 +27,12 @@ amazonProducts:
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
     image: "https://m.media-amazon.com/images/I/41-AFmQrrHL._AC_SL200_.jpg"
-    price: "¥1,593前後"
-  - title: "Levoit Classic200 超音波加湿器 4L｜静音・40時間連続"
-    asin: "B083JVNMV2"
-    price: "¥4,000前後"
+    price: "¥990"
+  - title: "Levoit Dual150 超音波加湿器 3L｜28dB静音・上から給水"
+    asin: "B09G9DM2ZT"
+    image: "https://m.media-amazon.com/images/I/41cveNCQMxL._AC_SL200_.jpg"
+    note: "上から給水できて手入れが楽。★4.1・643件・在庫あり（2026-09-27にAmazon商品ページで確認）"
+    price: "¥5,980"
 ---
 
 アンスリウムは、光沢のある葉と鮮やかな仏炎苞（ぶつえんほう）が魅力の熱帯植物です。丈夫で育てやすいイメージがありますが、水やりと用土の選び方を間違えると簡単に根腐れします。この記事では、初心者が最初に押さえるべきポイントを、優先度の高い順に解説します。

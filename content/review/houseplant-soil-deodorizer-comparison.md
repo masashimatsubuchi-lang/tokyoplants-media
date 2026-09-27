@@ -17,10 +17,10 @@ relatedSlugs:
 amazonProducts:
   - title: "自然応用科学 ゼオライト 1kg 土壌改良材"
     asin: "B0F36NRCZV"
-    price: "¥797前後"
+    price: "¥883"
   - title: "フローラ 植物性消臭液 ニオイノンノ 100cc"
     asin: "B0017S1ANA"
-    price: "¥2,400前後"
+    price: "¥2,403"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

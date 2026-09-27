@@ -27,7 +27,7 @@ amazonProducts:
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
     asin: "B0BXPKS4S7"
     image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SL200_.jpg"
-    note: "Amazon評価 4.7 / 電球型・高PPFD・演色性Ra97"
+    note: "PPFD 406µmol/m²/s（照射距離40cm・メーカー公表値）・Ra97の高演色。★4.7・在庫あり・Prime対象だが、レビューは8件と少なめ（2026-09-27にAmazon商品ページで確認）"
   - title: "BARREL NEO TSUKUYOMI LED 20W 植物育成ライト"
     asin: "B0BZM6X9GW"
     image: "https://m.media-amazon.com/images/I/61jt+XByDeL._AC_SL200_.jpg"

@@ -18,7 +18,7 @@ amazonProducts:
     asin: "B08NY6MKF7"
     image: "https://m.media-amazon.com/images/I/718cm2QNKnL._AC_SL200_.jpg"
     note: "栃木県産・型崩れしにくい赤玉土。粒が均一で微塵が少ない"
-    price: "¥1,280前後"
+    price: "¥1,580"
   - title: "パーライト（4-8mm・容量100L）"
     asin: "B015CHCZ4O"
     image: "https://m.media-amazon.com/images/I/51gdmS4b6VS._AC_SL200_.jpg"

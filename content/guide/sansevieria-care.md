@@ -29,7 +29,7 @@ amazonProducts:
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
     image: "https://m.media-amazon.com/images/I/41-AFmQrrHL._AC_SL200_.jpg"
-    price: "¥1,593前後"
+    price: "¥990"
 siblings:
   - slug: "guide/sansevieria-care"
     role: "育て方の実務"

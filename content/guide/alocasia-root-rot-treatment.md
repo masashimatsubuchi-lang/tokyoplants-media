@@ -28,7 +28,7 @@ amazonProducts:
     price: "¥1,670"
   - title: "KINCHO園芸 GFベンレート水和剤 0.5g×10包"
     asin: "B0027WRLLK"
-    price: "¥650前後"
+    price: "¥591"
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"

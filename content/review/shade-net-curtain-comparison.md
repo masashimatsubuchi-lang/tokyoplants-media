@@ -17,13 +17,13 @@ relatedSlugs:
 amazonProducts:
   - title: "山善(YAMAZEN) 涼風シェード BRGS-2020 200×200cm UVカット約70%"
     asin: "B012921PFA"
-    price: "¥1,665前後"
+    price: "¥1,565"
   - title: "ダイオ化成 遮光ネット ダイオネット1010 カラミ織 遮光率70% 2×2m"
     asin: "B00C0MFHSG"
-    price: "¥2,149前後"
+    price: "¥1,612"
   - title: "山善(YAMAZEN) 目隠し日よけメッシュシート AMMS-18045N 45×180cm 2枚組"
     asin: "B0GZ15FYLV"
-    price: "¥2,922前後"
+    price: "¥2,922"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

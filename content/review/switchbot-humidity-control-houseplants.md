@@ -21,21 +21,21 @@ amazonProducts:
   - title: "SwitchBot 温湿度計プラス"
     asin: "B09PYKJ6CS"
     note: "大画面・快適度表示（乾燥/快適/湿潤）・データ68日保存。Amazon評価 ★4.4 / 6,318件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）"
-    price: "¥2,480〜"
-  - title: "SwitchBot プラグミニ（電力計測モデル）"
-    asin: "B09XMZQMBP"
-    image: "https://m.media-amazon.com/images/I/61ojHWVWnaL._AC_SL200_.jpg"
-    note: "Amazon評価 ★3.6 / 3,575件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）。Wi-Fi+Bluetooth対応、消費電力モニター付き"
-    price: "¥2,980〜"
+    price: "¥2,680"
+  - title: "SwitchBot プラグミニ（消費電力モニター付き）"
+    asin: "B0DT6S7NZ8"
+    image: "https://m.media-amazon.com/images/I/611FcPBNKYL._AC_SL200_.jpg"
+    note: "Wi-Fi+Bluetooth対応、消費電力モニター付き。★4.2・613件・在庫あり（2026-09-27にAmazon商品ページで確認）。旧2個入りモデルは在庫切れのため単品版に変更"
+    price: "¥1,780"
   - title: "SwitchBot ハブミニ"
     asin: "B07TTH5TMW"
     note: "国内累計販売150万台超（公式発表）。Amazon評価 ★4.1 / 58,103件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）。赤外線家電の自動制御・Bluetooth機器の遠隔連携に必要"
-    price: "¥3,980〜"
+    price: "¥4,790"
   - title: "SwitchBot 気化式加湿器（4.5L）"
     asin: "B0CL4R54X4"
     image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
     note: "最大750ml/h・静音18dB・フィルター自動乾燥。Amazon評価 ★4.2 / 542件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）"
-    price: "¥19,800〜"
+    price: "¥16,830"
 ---
 
 「湿度計は置いているけど、結局見るのは水やりのついでだけ」「加湿器をつけっぱなしにして、逆にカビが出た」——観葉植物の湿度管理でよくある悩みです。数値を把握しても、実際に加湿器や除湿機を動かすのは人間の手作業のままだと、外出中や就寝中の変化に対応できません。
@@ -138,9 +138,9 @@ SwitchBotアプリ（iOS/Android）をインストールし、Bluetoothで温湿
 
 ### 2) SwitchBot プラグミニ｜加湿器・除湿機を「自動で動かす」要
 
-コンセントに挿すだけで、既存の加湿器・除湿機（電源スイッチがボタン式のもの）をスマート化できます。消費電力モニター機能もあり、「加湿器が実際に稼働しているか」を電力値で確認できるのも便利です。Amazon.co.jpでは3,500件を超えるレビューが蓄積されており、実売数の多さがうかがえます。
+コンセントに挿すだけで、既存の加湿器・除湿機（電源スイッチがボタン式のもの）をスマート化できます。消費電力モニター機能もあり、「加湿器が実際に稼働しているか」を電力値で確認できるのも便利です。2026-09-27時点のAmazon.co.jpでの評価は★4.2・613件。従来の2個入りモデルは在庫切れのため、ここでは単品版を挙げています。
 
-→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B09XMZQMBP?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0DT6S7NZ8?tag=tokyoplants0f-22)
 
 ### 3) SwitchBot ハブミニ｜外出先からの監視と赤外線家電の自動化に
 
