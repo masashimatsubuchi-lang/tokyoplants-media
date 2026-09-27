@@ -26,9 +26,6 @@ amazonProducts:
     asin: "B0CKF99LL6"
     image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
     price: "¥1,670"
-  - title: "KINCHO園芸 GFベンレート水和剤 0.5g×10包"
-    asin: "B0027WRLLK"
-    price: "¥591"
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
@@ -131,7 +128,7 @@ amazonProducts:
 
 - **シナモンパウダー**：天然の抗菌・防カビ成分があり、切り口に振りかけるだけで手軽。
 - **木酢液（希釈）**：500〜1000倍に薄めた木酢液に根を5〜10分浸す。
-- **ベンレート（殺菌剤）**：病気が進行している場合は農薬系殺菌剤が有効。ただし用法・用量を守ること。
+- **殺菌剤について**：家庭向けの園芸殺菌剤は「花き類・観葉植物」に適用がないものが多く、適用外の使用になります。使うなら必ずラベルの適用表で対象作物を確認してください。根腐れは酸欠による物理的な問題なので、腐った根を取り切って乾かすほうが確実です。
 
 ### ステップ4：根を乾燥させる
 

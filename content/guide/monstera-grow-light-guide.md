@@ -62,8 +62,6 @@ amazonProducts:
 
 ---
 
-<!-- /figure -->
-
 ## 品種別の必要光量（PPFD目安）
 
 | 品種 | 必要PPFD | 備考 |
@@ -121,8 +119,6 @@ amazonProducts:
 <!-- /character-note -->
 
 ---
-
-<!-- /figure -->
 
 ## 直射日光 vs 育成ライト
 

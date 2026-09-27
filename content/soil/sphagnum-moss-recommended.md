@@ -110,8 +110,6 @@ amazonProducts:
 
 ---
 
-<!-- /figure -->
-
 ## 用途別おすすめの選び方
 
 | 用途 | 選ぶランク・産地 | ポイント |
@@ -181,8 +179,6 @@ amazonProducts:
 → [乾燥ミズゴケ（胡蝶蘭・蘭・観葉植物用） をAmazonで見る](https://www.amazon.co.jp/dp/B0D1K6DF1T?tag=tokyoplants0f-22)
 
 ---
-
-<!-- /figure -->
 
 ## 水苔の戻し方・使い方｜乾燥水苔を水で戻す手順
 

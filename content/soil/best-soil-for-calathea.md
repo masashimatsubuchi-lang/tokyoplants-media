@@ -45,8 +45,6 @@ baseProducts:
 
 ---
 
-<!-- /figure -->
-
 ## カラテアの特性と土の関係
 
 ### 熱帯雨林の林床に自生する浅根性植物
@@ -151,8 +149,6 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 <!-- /callout -->
 
 ---
-
-<!-- /figure -->
 
 ## カラテアの植え替え手順
 

@@ -12,16 +12,16 @@ relatedSlugs:
   - "guide/houseplant-care-during-travel"
   - "soil/recommended-soil-for-houseplants"
 amazonProducts:
-  - title: "YAMRON 4-in-1 土壌水分計（水分・pH・温度・日照）"
-    asin: "B0DF4TB93J"
+  - title: "5-in-1 土壌水分計（水分・pH・温度・日照・肥沃度）"
+    asin: "B0DWWTYLMM"
     image: "https://m.media-amazon.com/images/I/61UgGNX3GmL._AC_SL200_.jpg"
-    note: "デジタル数値表示・大画面バックライトLCD。電池式でアプリ不要。評価★4.0・レビュー3,324件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
-    price: "¥2,798前後（参考価格）"
+    note: "デジタル数値表示・バックライトLCD。電池式でアプリ不要。★3.9・レビュー350件・在庫あり（2026-09-27にAmazon商品ページで確認）。従来掲載していたYAMRON 4-in-1は再入荷予定なしの在庫切れのため差し替え"
+    price: "¥2,998"
   - title: "Mcbazel 土壌酸度計 5in1（水分・肥沃度・温度・照度・pH）"
     asin: "B0FRS7JXQP"
     image: "https://m.media-amazon.com/images/I/710Lu+ZMUZL._AC_SL200_.jpg"
-    note: "デュアルプローブ・デジタル表示・30秒自動オフ。電池式でアプリ不要。評価★4.0・レビュー298件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
-    price: "¥2,659前後（参考価格）"
+    note: "デュアルプローブで5項目を同時測定。30秒自動オフの省電力設計。★4.0・レビュー308件・在庫あり（2026-09-27にAmazon商品ページで確認）"
+    price: "¥2,659"
 ---
 
 「水やりチェッカーの色は見たけど、実際どれくらい湿っているのか数値で知りたい」——そんなニーズに応えるのが、数値でピンポイントに確認できるデジタル土壌センサーです。Bluetooth・アプリ連携でスマホからグラフ管理できるタイプも登場していますが、2026年9月時点のAmazon.co.jpでは、観葉植物向けにレビュー実績が十分でBluetooth/アプリ連携を謳う製品はまだ選択肢が非常に限られているのが実情です。この記事では、実際に入手しやすく評価実績も豊富な「デジタル数値表示型」のセンサーを中心に、Bluetooth・アプリ連携型の現状もあわせて解説します。
@@ -52,7 +52,6 @@ amazonProducts:
 
 | タイプ | 測定項目 | メリット | 注意点 |
 |--------|----------|----------|--------|
-| 4-in-1デジタルメーター | 水分・pH・温度・照度 | 電池式でアプリ不要、すぐ使える、レビュー実績が豊富 | Bluetooth非対応でスマホ連携はできない |
 | 5-in-1デジタルメーター | 水分・pH・温度・照度・肥沃度 | 4-in-1より詳しく生育環境を把握できる | センサー部がやや大きくなる傾向 |
 | Bluetooth・アプリ連携型 | 機種により異なる | スマホでグラフ管理・遠隔確認ができる | 2026年9月時点、観葉植物向けでレビュー実績十分な製品がAmazon.co.jpに少ない |
 
@@ -60,27 +59,19 @@ amazonProducts:
 
 以下は執筆時点でAmazon.co.jpに出品が確認できたデジタル土壌センサーの例です。価格・在庫・レビュー状況は変動するため、購入前に必ず商品ページで最新情報をご確認ください。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0DF4TB93J?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0DF4TB93J.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">YAMRON 4-in-1 土壌水分計</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
 
-### YAMRON 4-in-1 土壌水分計｜レビュー3,000件超の実績で選ぶなら
+### 5-in-1 デジタル土壌水分計｜まず1台試すなら
 
-水分・pH・温度・日照の4項目を大画面バックライトLCDで確認できるデジタルメーターです。電池式でペアリングなどの手間がなく、土に挿してすぐ使えます。3,324件という圧倒的なレビュー数に裏打ちされた実績があり、まず1台試したい方におすすめです。
+水分・pH・温度・日照・肥沃度の5項目を、大画面バックライトLCDで確認できるデジタルメーターです。電池式でペアリングなどの手間がなく、土に挿してすぐ使えます。★3.9・レビュー350件（2026-09-27時点）。
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0FRS7JXQP?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0FRS7JXQP.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Mcbazel 土壌酸度計 5in1</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+> 以前この位置で紹介していた「YAMRON 4-in-1」は、2026-09-27時点で再入荷予定のない在庫切れになっていたため、同等機能の現行品に差し替えました。
 
 ### Mcbazel 土壌酸度計 5in1｜肥沃度まで詳しく知りたい人向け
 
 水分・肥沃度・温度・照度・pHの5項目をデュアルプローブで測定できるタイプです。30秒で自動オフする省電力設計で、電池の消耗を抑えられます。肥料の効き具合まで含めて土壌状態を把握したい方に向いています。
+
+<!-- amazon-cards title="Amazonで買えるデジタル土壌センサー" note="Amazonアソシエイトリンクを含みます。価格・評価・在庫は2026-09-27に商品ページで直接確認した数値です。" -->
+<!-- /amazon-cards -->
 
 ## 使い方・設置の注意点
 
