@@ -12,7 +12,7 @@ function BlockTitle({ eyebrow, title }: { eyebrow: string; title: string }) {
   if (!title) return null;
   return (
     <div className="mb-3 flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
-      <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-sage-600">{eyebrow}</span>
+      <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-600">{eyebrow}</span>
       <span className="min-w-0 text-[15px] font-bold text-zinc-800">{title}</span>
     </div>
   );
@@ -21,14 +21,14 @@ function BlockTitle({ eyebrow, title }: { eyebrow: string; title: string }) {
 /* ---------- key-facts: 記事冒頭の「30秒でわかる」要約グリッド ---------- */
 function KeyFacts({ block }: { block: Extract<ParsedBlock, { kind: "key-facts" }> }) {
   return (
-    <section className="not-prose my-8 rounded-2xl bg-ink-950 p-5 text-white sm:p-6">
+    <section className="not-prose my-8 rounded-2xl bg-zinc-900 p-5 text-white sm:p-6">
       <BlockTitleDark eyebrow="At a glance" title={block.title || "この記事の要点"} />
       <dl className="grid grid-cols-1 gap-x-6 gap-y-3 sm:grid-cols-2">
         {block.items.map((it, i) => (
-          <div key={i} className="flex gap-3 border-l-2 border-sage-400 pl-3">
-            <dt className="w-[5.5em] shrink-0 text-[12px] font-semibold leading-6 text-ink-400">{it.label}</dt>
+          <div key={i} className="flex gap-3 border-l-2 border-emerald-400 pl-3">
+            <dt className="w-[5.5em] shrink-0 text-[12px] font-semibold leading-6 text-zinc-400">{it.label}</dt>
             <dd
-              className="text-[14px] font-medium leading-6 text-ink-50 [&_strong]:font-bold [&_strong]:text-sage-300 [&_a]:underline"
+              className="text-[14px] font-medium leading-6 text-zinc-50 [&_strong]:font-bold [&_strong]:text-emerald-300 [&_a]:underline"
               dangerouslySetInnerHTML={{ __html: it.valueHtml }}
             />
           </div>
@@ -41,7 +41,7 @@ function KeyFacts({ block }: { block: Extract<ParsedBlock, { kind: "key-facts" }
 function BlockTitleDark({ eyebrow, title }: { eyebrow: string; title: string }) {
   return (
     <div className="mb-4 flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
-      <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-sage-400">{eyebrow}</span>
+      <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-400">{eyebrow}</span>
       <span className="min-w-0 text-[15px] font-bold text-white">{title}</span>
     </div>
   );
@@ -56,8 +56,8 @@ function Stats({ block }: { block: Extract<ParsedBlock, { kind: "stats" }> }) {
       <BlockTitle eyebrow="Numbers" title={block.title} />
       <div className={`grid ${cols} gap-2 sm:gap-3`}>
         {block.items.map((it, i) => (
-          <div key={i} className="rounded-xl border border-ink-200 bg-ink-50 px-3 py-4 text-center">
-            <div className="text-[26px] font-extrabold leading-none tracking-tight text-sage-700 sm:text-[30px]">
+          <div key={i} className="rounded-xl border border-emerald-100 bg-emerald-50/60 px-3 py-4 text-center">
+            <div className="text-[26px] font-extrabold leading-none tracking-tight text-emerald-700 sm:text-[30px]">
               {it.value}
             </div>
             <div className="mt-2 text-[12px] font-bold leading-tight text-zinc-800">{it.label}</div>
@@ -81,10 +81,10 @@ function Steps({ block }: { block: Extract<ParsedBlock, { kind: "steps" }> }) {
         {block.items.map((it, i) => (
           <li key={i} className="flex gap-3">
             <div className="flex w-8 shrink-0 flex-col items-center">
-              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-sage-600 text-[13px] font-extrabold leading-none text-white">
+              <span className="flex h-8 w-8 items-center justify-center rounded-full bg-emerald-600 text-[13px] font-extrabold leading-none text-white">
                 {i + 1}
               </span>
-              {i < block.items.length - 1 && <span className="w-0.5 flex-1 bg-sage-200" />}
+              {i < block.items.length - 1 && <span className="w-0.5 flex-1 bg-emerald-200" />}
             </div>
             <div className="min-w-0 flex-1 pb-6">
               {it.title && <div className="pt-1 text-[15px] font-bold leading-6 text-zinc-900">{it.title}</div>}
@@ -102,10 +102,9 @@ function Steps({ block }: { block: Extract<ParsedBlock, { kind: "steps" }> }) {
 
 /* ---------- callout: 注意・コツ・補足 ---------- */
 const CALLOUT_STYLE = {
-  // 暖色は意味を持つ「注意」にだけ使う。コツはブランドのセージ、補足はニュートラル。
-  warning: { box: "border-warn-200 bg-warn-50", eyebrow: "text-warn-700", label: "注意", icon: "!" },
-  tip: { box: "border-sage-200 bg-sage-50", eyebrow: "text-sage-700", label: "コツ", icon: "★" },
-  info: { box: "border-ink-200 bg-ink-100", eyebrow: "text-ink-500", label: "補足", icon: "i" },
+  warning: { box: "border-rose-200 bg-rose-50", eyebrow: "text-rose-600", label: "注意", icon: "!" },
+  tip: { box: "border-amber-200 bg-amber-50", eyebrow: "text-amber-700", label: "コツ", icon: "★" },
+  info: { box: "border-sky-200 bg-sky-50", eyebrow: "text-sky-700", label: "補足", icon: "i" },
 } as const;
 
 function Callout({ block }: { block: Extract<ParsedBlock, { kind: "callout" }> }) {
@@ -156,10 +155,10 @@ function Cards({ block }: { block: Extract<ParsedBlock, { kind: "cards" }> }) {
 
 /* ---------- calendar: 12ヶ月ヒートストリップ ---------- */
 const CAL_LEVEL: Record<string, { cls: string; title: string }> = {
-  "◎": { cls: "bg-sage-600", title: "最適・多め" },
-  "○": { cls: "bg-sage-400", title: "通常" },
-  "△": { cls: "bg-sage-200", title: "控えめ" },
-  "×": { cls: "bg-ink-200", title: "不要・避ける" },
+  "◎": { cls: "bg-emerald-600", title: "最適・多め" },
+  "○": { cls: "bg-emerald-400", title: "通常" },
+  "△": { cls: "bg-emerald-200", title: "控えめ" },
+  "×": { cls: "bg-zinc-200", title: "不要・避ける" },
   "-": { cls: "bg-transparent", title: "" },
   "": { cls: "bg-transparent", title: "" },
 };
@@ -219,9 +218,7 @@ function RowCells({ row }: { row: { label: string; cells: string[] } }) {
 
 
 /* ---------- mix: 配合レシピの帯グラフ ---------- */
-// 資材の系列色。原色を並べると図表だけ浮くので、土（earth）→緑（sage）→無機（ink）の
-// 範囲に収める。白文字を乗せるため、いずれも中明度以下にしている。
-const MIX_COLORS = ["bg-earth-400", "bg-sage-600", "bg-ink-500", "bg-earth-600", "bg-sage-800", "bg-ink-700"];
+const MIX_COLORS = ["bg-stone-400", "bg-stone-600", "bg-amber-700", "bg-yellow-500", "bg-emerald-600", "bg-sky-600"];
 
 function Mix({ block }: { block: Extract<ParsedBlock, { kind: "mix" }> }) {
   const total = block.items.reduce((n, i) => n + i.ratio, 0) || 1;
@@ -265,9 +262,9 @@ function AmazonCards({
   if (products.length === 0) return null;
   const tag = "tokyoplants0f-22";
   return (
-    <section className="not-prose my-8 rounded-2xl border border-ink-200 bg-ink-50 p-4 sm:p-5">
+    <section className="not-prose my-8 rounded-2xl border border-amber-200 bg-amber-50/50 p-4 sm:p-5">
       <div className="mb-3 flex items-baseline gap-2">
-        <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-earth-600">Amazon</span>
+        <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-amber-700">Amazon</span>
         <span className="text-[15px] font-bold text-zinc-800">{block.title || "Amazonで買えるサイズ"}</span>
       </div>
       <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
@@ -277,7 +274,7 @@ function AmazonCards({
             href={p.asin ? `https://www.amazon.co.jp/dp/${p.asin}?tag=${tag}` : p.url}
             target="_blank"
             rel="sponsored noopener noreferrer"
-            className="flex items-center gap-3 rounded-xl border border-ink-200 bg-white p-3 transition-colors hover:border-earth-300 hover:bg-earth-100/40"
+            className="flex items-center gap-3 rounded-xl border border-amber-200 bg-white p-3 transition-colors hover:border-amber-400 hover:bg-amber-50/60"
           >
             {(p.image || p.asin) && (
               // eslint-disable-next-line @next/next/no-img-element
@@ -293,7 +290,7 @@ function AmazonCards({
             )}
             <div className="min-w-0">
               <p className="text-[13.5px] font-bold leading-snug text-zinc-800">{p.title}</p>
-              {p.price && <p className="mt-0.5 text-[13px] font-bold text-earth-600">{p.price}</p>}
+              {p.price && <p className="mt-0.5 text-[13px] font-bold text-amber-800">{p.price}</p>}
               {p.note && <p className="mt-0.5 text-[11.5px] leading-snug text-zinc-500">{p.note}</p>}
             </div>
           </a>

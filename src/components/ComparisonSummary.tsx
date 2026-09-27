@@ -18,26 +18,20 @@ interface Accent {
   check: string;
 }
 
-/**
- * 2つの選択肢は「どちらが正解か」ではなく「どちらが自分に合うか」を示すもの。
- * 以前は左=アンバー／右=グリーンで、右が推奨に見えてしまっていた（2026-09-27修正）。
- * 面はニュートラルと淡いセージに留め、ラベル・チェックは両者とも同じ色にして
- * 優劣の印象が出ないようにしている。
- */
 const ACCENTS: { left: Accent; right: Accent } = {
   left: {
-    bg: "bg-ink-50",
-    ring: "ring-ink-200",
-    label: "text-ink-900",
-    tagline: "text-ink-500",
-    check: "text-sage-600",
+    bg: "bg-amber-50",
+    ring: "ring-amber-200",
+    label: "text-amber-800",
+    tagline: "text-amber-600",
+    check: "text-amber-500",
   },
   right: {
-    bg: "bg-sage-50",
-    ring: "ring-sage-200",
-    label: "text-ink-900",
-    tagline: "text-ink-500",
-    check: "text-sage-600",
+    bg: "bg-emerald-50",
+    ring: "ring-emerald-200",
+    label: "text-emerald-800",
+    tagline: "text-emerald-600",
+    check: "text-emerald-500",
   },
 };
 

@@ -56,10 +56,10 @@ function ItemCard({ item }: { item: RecommendedItem }) {
   return (
     <div
       className={`flex w-72 shrink-0 snap-start flex-col overflow-hidden rounded-2xl border ${
-        isOwn ? "border-sage-200 bg-white" : "border-earth-200 bg-white"
+        isOwn ? "border-emerald-200 bg-white" : "border-amber-200 bg-white"
       }`}
     >
-      <div className={`relative h-44 w-full ${isOwn ? "bg-sage-50" : "bg-earth-100/50"}`}>
+      <div className={`relative h-44 w-full ${isOwn ? "bg-emerald-50" : "bg-amber-50"}`}>
         {imageUrl ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
@@ -73,7 +73,7 @@ function ItemCard({ item }: { item: RecommendedItem }) {
         )}
         <span
           className={`absolute left-3 top-3 rounded-full px-2 py-0.5 text-[10px] font-bold text-white ${
-            isOwn ? "bg-sage-600" : "bg-earth-400"
+            isOwn ? "bg-emerald-600" : "bg-amber-500"
           }`}
         >
           {isOwn ? "tokyoplants公式" : "Amazon"}
@@ -99,7 +99,7 @@ function ItemCard({ item }: { item: RecommendedItem }) {
           target="_blank"
           rel={isOwn ? "noopener noreferrer" : "sponsored noopener noreferrer"}
           className={`mt-auto pt-4 inline-flex items-center justify-center rounded-full px-4 py-2 text-xs font-bold text-white transition-colors ${
-            isOwn ? "bg-sage-700 hover:bg-sage-800" : "bg-earth-500 hover:bg-earth-600"
+            isOwn ? "bg-emerald-700 hover:bg-emerald-800" : "bg-amber-600 hover:bg-amber-700"
           }`}
         >
           {isOwn ? "tokyoplantsで見る →" : "Amazonで見る →"}

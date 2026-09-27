@@ -40,14 +40,14 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
   const associateTag = process.env.AMAZON_ASSOCIATE_TAG || "tokyoplants0f-22";
 
   return (
-    <section className="mt-8 rounded-2xl border border-ink-200 bg-ink-50 p-6 md:p-7">
+    <section className="mt-8 rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50/70 via-white to-amber-50/40 p-6 md:p-7">
       <div className="flex items-center justify-between gap-4">
         <h2 className="text-xl font-extrabold tracking-tight text-gray-900">Amazonで関連商品を見る</h2>
         <a
           href="https://www.amazon.co.jp"
           target="_blank"
           rel="sponsored noopener noreferrer"
-          className="text-sm font-semibold text-earth-600 hover:text-earth-700 transition-colors"
+          className="text-sm font-semibold text-amber-700 hover:text-amber-900 transition-colors"
         >
           Amazonへ →
         </a>
@@ -70,9 +70,9 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
               href={href}
               target="_blank"
               rel="sponsored noopener noreferrer"
-              className="group flex items-center gap-4 rounded-xl border border-ink-200 bg-white p-4 transition-all hover:-translate-y-0.5 hover:border-earth-300 hover:shadow-md"
+              className="group flex items-center gap-4 rounded-xl border border-amber-200 bg-white p-4 transition-all hover:-translate-y-0.5 hover:border-amber-400 hover:shadow-md"
             >
-              <div className="h-20 w-20 shrink-0 overflow-hidden rounded-xl border border-ink-200 bg-white flex items-center justify-center">
+              <div className="h-20 w-20 shrink-0 overflow-hidden rounded-xl border border-amber-100 bg-amber-50 flex items-center justify-center">
                 {imageUrl ? (
                   <img
                     src={imageUrl}
@@ -81,7 +81,7 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
                     loading="lazy"
                   />
                 ) : (
-                  <span className="text-sm font-semibold text-earth-600">Amazon</span>
+                  <span className="text-sm font-semibold text-amber-800">Amazon</span>
                 )}
               </div>
 
