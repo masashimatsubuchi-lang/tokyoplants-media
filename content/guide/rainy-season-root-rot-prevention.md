@@ -26,7 +26,7 @@ amazonProducts:
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
-    price: "¥2,448"
+    price: "¥2,880"
 ---
 
 # 観葉植物の梅雨対策｜根腐れを防ぐ水やり・培地・置き場所のすべて

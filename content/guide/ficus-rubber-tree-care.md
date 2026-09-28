@@ -24,7 +24,7 @@ amazonProducts:
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
-    price: "¥2,448"
+    price: "¥2,880"
   - title: "住友化学園芸 オルトランDX粒剤 200g"
     asin: "B004MK7RW8"
     price: "¥891"

@@ -21,7 +21,7 @@ amazonProducts:
   - title: "花ごころ きれいな鉢底石 2L"
     asin: "B07K1PBN1J"
     note: "軽石タイプの定番。人工軽石＋炭＋ゼオライト配合で清潔・軽量。評価★4.0・レビュー1,610件超（確認済み）"
-    price: "¥500前後（参考価格）"
+    price: "¥410"
   - title: "ひゅうが土販売 日向土 小粒 2L"
     asin: "B00I4QKGGA"
     image: "https://m.media-amazon.com/images/I/41KqL6qkDJL._AC_SL200_.jpg"

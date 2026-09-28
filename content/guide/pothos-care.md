@@ -23,7 +23,7 @@ amazonProducts:
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
-    price: "¥2,448"
+    price: "¥2,880"
   - title: "Charming Club モスポール 110cm｜つる性植物の支柱"
     asin: "B0BYYQTM98"
     image: "https://m.media-amazon.com/images/I/61AcOWOTsxL._AC_SL200_.jpg"

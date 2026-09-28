@@ -25,7 +25,7 @@ amazonProducts:
   - title: "ITANSE スリット鉢 7号 3個セット"
     asin: "B08CXB5KTH"
     image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
-    price: "¥2,448"
+    price: "¥2,880"
   - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
     asin: "B07ZTM6H4H"
     image: "https://m.media-amazon.com/images/I/41-AFmQrrHL._AC_SL200_.jpg"
