@@ -1,7 +1,7 @@
 ---
 image: "https://images.unsplash.com/photo-1766139443607-ea1782ce245a?w=1200&q=80"
 title: "アロカシア属 全種一覧｜Kew POWO準拠の学名データベース"
-description: "アロカシア（Alocasia）属の学名一覧を、英国キュー王立植物園が運営するKew Plants of the World Online（POWO）の分類情報に基づいて整理。学名・シノニム・受理種の違いから、ドラゴンスケール・アマゾニカなど流通名と学名の対応表まで、一次情報だけで構成したリファレンス記事です。"
+description: "アロカシア属の学名一覧をKew POWO（キュー王立植物園）準拠で整理。受理種91種の全リスト、登録済みの交配種6件、ドラゴンスケール・アマゾニカなど流通名と学名の対応表をまとめたリファレンスです。"
 date: "2026-09-09"
 category: "research"
 tags: ["アロカシア", "分類", "原種", "図鑑"]
@@ -24,6 +24,8 @@ relatedSlugs:
   - "species/alocasia-amazonica"
   - "species/alocasia-nobillis"
   - "species/alocasia-chantrieri"
+  - "species/alocasia-maharani"
+  - "species/alocasia-holy-grail"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"
@@ -35,19 +37,33 @@ baseProducts:
 
 # アロカシア属 全種一覧｜Kew POWO準拠の学名データベース
 
-「アロカシア・ドラゴンスケール」「アロカシア・アマゾニカ」——観葉植物店やSNSで見かけるアロカシアの名前は、実はそのほとんどが正式な学名（種）ではなく、流通名・園芸品種名・交配種名です。では、アロカシア属として学術的に認められている「種」は本当は何種あり、どんな学名を持っているのでしょうか。
+「アロカシア・ドラゴンスケール」「アロカシア・アマゾニカ」——観葉植物店やSNSで見かけるアロカシアの名前は、そのほとんどが正式な学名（種）ではなく、流通名・園芸品種名・交配種名です。では、アロカシア属として学術的に認められている「種」は何種あり、どんな学名を持っているのでしょうか。
 
-本記事は、英国キュー王立植物園（Royal Botanic Gardens, Kew）が運営する植物分類データベース **Kew Plants of the World Online（POWO）** の情報をもとに、アロカシア属の学名を整理したリファレンス記事です。<mark>独自の調査や実測は行っておらず、Kew POWOという世界的に権威のある一次情報を日本語で正確に整理することを目的としています。</mark>「アロカシアの正式な種を調べたいときは、まずこのページを見ればいい」という状態を目指しました。
+本記事は、英国キュー王立植物園（Royal Botanic Gardens, Kew）が運営する植物分類データベース **Kew Plants of the World Online（POWO）** の情報をもとに、アロカシア属の学名を整理したリファレンスです。<mark>独自の調査や実測は行っておらず、世界的に権威のある一次情報を日本語で正確に整理することを目的としています。</mark>
+
+<!-- key-facts title="30秒でわかるアロカシア属の学名" -->
+- **受理種**：91種（Kew POWO、2026-09-09時点）
+- **交配種**：nothospecies（学名に×が付く分類群）が6件、受理種とは別枠で登録
+- **流通名**：ドラゴンスケール等の多くは学名ではなく品種名
+- **調べ方**：流通名 → 原種の学名 → その原種の栽培情報、の順にたどる
+- **更新性**：新種記載で数は毎年変わる。数字には必ず日付を添える
+- **出典**：Kew POWO／IPNI／WCVP（GBIF経由）
+<!-- /key-facts -->
 
 > **出典**: Kew Plants of the World Online「*Alocasia* (Schott) G.Don」[https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2)（アクセス日: 2026-09-09）
 
 ## 結論
 
-1. Kew POWOでは、アロカシア属（*Alocasia*）に**91種の受理種（Accepted Species）**が登録されている（2026-09-09時点）。加えて交配種（ハイブリッド）が1件掲載されており、合計92の学名が確認できる（詳細は後述）。
+1. Kew POWOでは、アロカシア属（*Alocasia*）に**91種の受理種（Accepted Species）**が登録されている（2026-09-09時点）。これとは別に、交配種（nothospecies）が6件登録されている。
 2. 「学名」「シノニム（異名）」「受理種」「品種（カルチバー）」は別の概念であり、観葉植物店で見る名前の多くは学名ではなく品種名・流通名にあたる。
 3. ドラゴンスケール・アマゾニカ・ブラックベルベットなど人気の流通名は、それぞれ特定の受理種の**品種**または**交配種**であり、独立した学名を持たないものも多い。
+4. 属の受理種数は資料によって「約80種」「90種前後」と揺れるが、これは誤りというより**集計時点と、交配種を数に含めるかどうかの違い**である。
 
----
+<!-- stats title="数字で見るアロカシア属" -->
+- 91 | POWOの受理種数 | 2026-09-09時点。新種記載で毎年動く
+- 6 | 登録されている交配種 | ×chantrieri など。受理種の数には含まれない
+- 10 | tokyoplantsに図鑑がある原種 | 残りの81種はほぼ流通していない
+<!-- /stats -->
 
 ## アロカシア属の基本情報
 
@@ -58,207 +74,229 @@ baseProducts:
 | 目 | オモダカ目（Alismatales） |
 | 初出文献 | R.Sweet, *Sweet's Hort. Brit.*, ed. 3.: 631（1839年） |
 | 原産地 | 熱帯・亜熱帯アジア〜東オーストラリア（Tropical & Subtropical Asia to E. Australia） |
-| Kew POWO受理種数 | 91種＋交配種1件（計92学名、2026-09-09時点、詳細は後述） |
+| Kew POWO受理種数 | 91種（2026-09-09時点）＋交配種6件 |
 | 出典 | [Kew Plants of the World Online](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2) |
 
 <!-- character-note character="kuro" type="point" -->
-「約80種」「90種前後」という表記を見かけることがあるけど、これは間違いというより、分類データベースが新種の記載や再分類で常に更新され続けているからなんだ。同じ属でも参照するタイミングによって数字が変わることがあるって覚えておくと混乱しにくいよ。
+「約80種」「90種前後」という表記を見かけることがあるけど、これは間違いというより、分類データベースが新種の記載や再分類で常に更新され続けているからなんだ。同じ属でも参照するタイミングによって数字が変わる、と覚えておくと混乱しにくいよ。
 <!-- /character-note -->
 
----
+## 学名・分類の基礎知識——4つの言葉を区別する
 
-## 学名・分類の基礎知識——「学名」「シノニム」「受理種」「品種」の違い
+観葉植物のラベルや通販サイトに書かれた名前には、いくつかの異なる階層がある。この違いを理解しておくと、後半の一覧表がぐっと読みやすくなる。
 
-観葉植物のラベルや通販サイトに書かれた名前には、実はいくつかの異なる階層がある。この違いを理解しておくと、次のセクションの一覧表がぐっと読みやすくなる。
+<!-- cards cols="2" -->
+#### 学名（Scientific Name）
+国際藻類・菌類・植物命名規約（ICN）に基づく世界共通のラテン語名。**属名＋種小名＋命名者**で表記する（例: *Alocasia longiloba* Miq.）。命名者まで含めるのは、同じ種小名が別の人によって別の植物に使われた場合を区別するため。
 
-- **学名（Scientific Name）**：国際藻類・菌類・植物命名規約（ICN）に基づいて付けられる、世界共通のラテン語形式の名前。属名＋種小名＋命名者（例：*Alocasia longiloba* Miq.）の組み合わせで表記される。
-- **受理種（Accepted Species）**：分類学的な検証を経て、現時点で「独立した種として有効」と判断されている学名。Kew POWOでは種ごとに「Accepted」「Synonym」のステータスが明記されている。
-- **シノニム（Synonym／異名）**：かつて独立種として発表されたが、その後の研究で別の種と同一と判断され、統合された学名。たとえば本記事のノビリス（*Alocasia sanderiana* var. *nobilis* André）は、*Alocasia sanderiana* のシノニムとしてPOWO上で扱われている。
-- **品種・カルチバー（Cultivar）**：受理種の中から選抜・交配によって作られた栽培品種。学名ではなく「'Dragon Scale'」のようにクォーテーションで囲んだ名前（カルチバー名）で表記され、独立した学名は持たない。
-- **交配種（Hybrid）**：異なる2つの種を掛け合わせて作られたもの。「*Alocasia* × *amazonica*」のように「×」記号で示されることが多いが、交配の経緯が不明確なまま流通名だけが広まっているケースも少なくない。
+#### 受理種（Accepted Species）
+分類学的な検証を経て「独立した種として有効」と判断されている学名。POWOでは種ごとにAccepted／Synonymのステータスが明記されている。**本記事の91種はこれ。**
 
-観葉植物店で「アロカシア・ドラゴンスケール」と表示されていても、これは学名ではなく「*Alocasia baginda* という受理種の、'Dragon Scale' という品種」という意味になる。この構造を知っているかどうかで、学名リストの読み方が変わってくる。
+#### シノニム（Synonym／異名）
+かつて独立種として発表されたが、後の研究で別の種と同一と判断され統合された学名。古い書籍やラベルに残っていることが多く、**「検索しても情報が出てこない学名」の正体**はたいていこれ。
 
----
+#### 品種・交配種（Cultivar / Hybrid）
+受理種から選抜された栽培品種は `'Dragon Scale'` のようにクォーテーションで囲み、独立した学名を持たない。異なる2種の掛け合わせは *Alocasia* × *amazonica* のように「×」を付けて示す。
+<!-- /cards -->
 
-## Kew POWO受理種の全リスト
+つまり、店頭の「アロカシア・ドラゴンスケール」という表示は、「*Alocasia baginda* という受理種の、'Dragon Scale' という品種」という意味になる。この構造を知っているかどうかで、学名リストの読み方が変わってくる。
 
-まず、tokyoplantsで育て方の詳しい図鑑記事を公開している受理種を紹介する。栽培・観賞の対象として実際に流通している主要な原種は、91種の受理種のうちのごく一部にすぎない。
+## 流通名から学名を引く早見表
 
-| 学名 | 命名者 | tokyoplants記事 |
-|------|--------|-----------------|
-| *Alocasia longiloba* | Miq. | [育て方図鑑](/species/alocasia-longiloba) |
-| *Alocasia cuprea* | (K.Koch & C.D.Bouché) K.Koch | [育て方図鑑（レッドシークレット）](/species/alocasia-cuprea) |
-| *Alocasia wentii* | Engl. & K.Krause | [育て方図鑑](/species/alocasia-wentii) |
-| *Alocasia zebrina* | G.W.Johnson & R.Hogg | [育て方図鑑](/species/alocasia-zebrina) |
-| *Alocasia sanderiana* | W.Bull | [育て方図鑑（クリスプラント）](/species/alocasia-sanderiana) |
-| *Alocasia melo* | A.Hay, P.C.Boyce & K.M.Wong | [育て方図鑑](/species/alocasia-melo) |
-| *Alocasia azlanii* | K.M.Wong & P.C.Boyce | [育て方図鑑（アズラニー）](/species/alocasia-azlanii) |
-| *Alocasia reginula* | A.Hay | [育て方図鑑（品種名 Black Velvet）](/species/alocasia-black-velvet) |
-| *Alocasia baginda* | Kurniawan & P.C.Boyce | [育て方図鑑（品種名 Dragon Scale）](/species/alocasia-dragon-scale)・[育て方図鑑（品種名 Silver Dragon）](/species/alocasia-silver-dragon) |
-| *Alocasia micholitziana* | Sander | [育て方図鑑（品種名 Frydek）](/species/alocasia-frydek) |
+日本で入手できるアロカシアを、流通名から原種（学名）へたどれるようにまとめた。**「学名の確定度」の列**は、その流通名にどこまで確かな学術的裏づけがあるかを示している。確定度が「不明」の品種は、栽培情報を調べるときに原種から逆引きできないため、実際に育てている人の情報に頼ることになる。
 
-上記10行はいずれも91種の受理種のうちの1種であり、それぞれ品種名（カルチバー名）付きで流通している。残りの81種の多くは、学術的な記載はあるものの一般の観葉植物市場にはほとんど流通しておらず、情報も限られる。無理に特徴を創作することは避け、以下では学名と命名者のみを一覧化する。
+| 流通名 | 対応する学名 | 分類上の位置づけ | 学名の確定度 | tokyoplants図鑑 |
+|--------|-------------|-----------------|---------------|-----------------|
+| ドラゴンスケール | *Alocasia baginda* 'Dragon Scale' | 受理種*A. baginda*（8番）の品種 | 確定 | [図鑑](/species/alocasia-dragon-scale) |
+| シルバードラゴン | *Alocasia baginda* 'Silver Dragon' | 同じ*A. baginda*の別品種 | 確定 | [図鑑](/species/alocasia-silver-dragon) |
+| ブラックベルベット | *Alocasia reginula* 'Black Velvet' | 受理種*A. reginula*（71番）そのものの通称 | 確定 | [図鑑](/species/alocasia-black-velvet) |
+| フライデック | *Alocasia micholitziana* 'Frydek' | 受理種*A. micholitziana*（51番）の品種 | 確定 | [図鑑](/species/alocasia-frydek) |
+| レッドシークレット | *Alocasia cuprea* | 受理種そのものの流通名 | 確定 | [図鑑](/species/alocasia-cuprea) |
+| ゼブリナ | *Alocasia zebrina* | 受理種そのもの（91番） | 確定 | [図鑑](/species/alocasia-zebrina) |
+| メロ | *Alocasia melo* | 受理種そのもの（50番） | 確定 | [図鑑](/species/alocasia-melo) |
+| アズラニー | *Alocasia azlanii* | 受理種そのもの（7番） | 確定 | [図鑑](/species/alocasia-azlanii) |
+| クリスプラント | *Alocasia sanderiana* | 受理種そのもの（78番） | 確定 | [図鑑](/species/alocasia-sanderiana) |
+| ロンギロバ | *Alocasia longiloba* | 受理種そのもの（46番） | 確定 | [図鑑](/species/alocasia-longiloba) |
+| ウェンティ | *Alocasia wentii* | 受理種そのもの（88番） | 確定 | [図鑑](/species/alocasia-wentii) |
+| ノビリス | *Alocasia sanderiana* 'Nobilis' | 1895年にAndréが*A. sanderiana* var. *nobilis*として記載した変種に由来する選抜品種 | 確定（独立種ではない） | [図鑑](/species/alocasia-nobillis) |
+| チャントリエリ | *Alocasia* × *chantrieri* André | POWOに登録済みの交配種（1887年、フランス） | 確定（交配種） | [図鑑](/species/alocasia-chantrieri) |
+| アマゾニカ（'Polly'含む） | *Alocasia* × *amazonica* | 交配種 | 交配親は未確定（*A. longiloba* × *A. sanderiana* が有力説） | [図鑑](/species/alocasia-amazonica) |
+| マハラニ（グレイドラゴン） | 学名なし（園芸品種名 'Maharani'） | 交配種とされる | 交配親は未確認（*A. reginula* × *A. melo* 説あり） | [図鑑](/species/alocasia-maharani) |
+| ドラゴンブレス | 学名なし（'Dragon Breath'） | 複数の交配・選抜を経たカルチバー | 不明 | [図鑑](/species/alocasia-dragon-breath) |
+| ホーリーグレイル | 学名なし（'Holy Grail'） | ハイブリッド品種 | 不明（交配親は非公表） | [図鑑](/species/alocasia-holy-grail) |
+| ニンジャ トリカラー | 学名なし（'Ninja Tricolor'） | 斑入りカルチバー | 不明 | [図鑑](/species/alocasia-ninja-tricolor) |
+| ハートバルーン ピンク斑入り | 学名なし | 斑入りカルチバー | 不明 | [図鑑](/species/alocasia-heart-balloon) |
+| ヴェノム | 学名なし（'Venom'） | 交配種とされる | 不明（交配親は非公表） | [図鑑](/species/alocasia-venom) |
 
-### Kew POWO掲載の全92学名（受理種91種＋交配種1件）
-
-*Alocasia* (Schott) G.Don に属する学名として、Kew POWOで2026年9月9日時点に確認できたものは以下の通り。91種の受理種に加え、交配種（nothospecies）である*Alocasia* × *okinawensis*（59番、学名の前の「×」は交配種を示す記号）を1件含む。上記10種を含め、アルファベット順に掲載する。
-
-| No. | 学名 | 命名者 |
-|-----|------|--------|
-| 1 | *Alocasia acuminata* | Schott |
-| 2 | *Alocasia aequiloba* | N.E.Br. |
-| 3 | *Alocasia alba* | Schott |
-| 4 | *Alocasia arifolia* | Hallier f. |
-| 5 | *Alocasia atropurpurea* | Engl. |
-| 6 | *Alocasia augustiana* | L.Linden & Rodigas |
-| 7 | *Alocasia azlanii* | K.M.Wong & P.C.Boyce |
-| 8 | *Alocasia baginda* | Kurniawan & P.C.Boyce |
-| 9 | *Alocasia balgooyi* | A.Hay |
-| 10 | *Alocasia beccarii* | Engl. |
-| 11 | *Alocasia boa* | A.Hay |
-| 12 | *Alocasia boyceana* | A.Hay |
-| 13 | *Alocasia brancifolia* | (Schott) A.Hay |
-| 14 | *Alocasia brisbanensis* | (F.M.Bailey) Domin |
-| 15 | *Alocasia cadieri* | Chantrier |
-| 16 | *Alocasia celebica* | Engl. ex Koord. |
-| 17 | *Alocasia chaii* | P.C.Boyce |
-| 18 | *Alocasia clypeolata* | A.Hay |
-| 19 | *Alocasia cucullata* | (Lour.) G.Don |
-| 20 | *Alocasia culionensis* | Engl. |
-| 21 | *Alocasia cuprea* | (K.Koch & C.D.Bouché) K.Koch |
-| 22 | *Alocasia decipiens* | Schott |
-| 23 | *Alocasia decumbens* | Buchet |
-| 24 | *Alocasia devansayana* | (L.Linden & Rodigas) Engl. |
-| 25 | *Alocasia epilithica* | Serebryanyi, K.Z.Hein & Naive |
-| 26 | *Alocasia evrardii* | Gagnep. ex V.D.Nguyen |
-| 27 | *Alocasia fallax* | Schott |
-| 28 | *Alocasia farisii* | Zulhazman, Norziel. & P.C.Boyce |
-| 29 | *Alocasia flabellifera* | A.Hay |
-| 30 | *Alocasia flemingiana* | Yuzammi & A.Hay |
-| 31 | *Alocasia fornicata* | (Kunth) Schott |
-| 32 | *Alocasia grata* | Prain ex Engl. & Krause |
-| 33 | *Alocasia hainanica* | N.E.Br. |
-| 34 | *Alocasia hararganjensis* | H.Ara & M.A.Hassan |
-| 35 | *Alocasia heterophylla* | (C.Presl) Merr. |
-| 36 | *Alocasia hollrungii* | Engl. |
-| 37 | *Alocasia hypoleuca* | P.C.Boyce |
-| 38 | *Alocasia indica* | (Lour.) Spach |
-| 39 | *Alocasia infernalis* | P.C.Boyce |
-| 40 | *Alocasia inornata* | Hallier f. |
-| 41 | *Alocasia jiewhoei* | V.D.Nguyen |
-| 42 | *Alocasia kerinciensis* | A.Hay |
-| 43 | *Alocasia lancifolia* | Engl. |
-| 44 | *Alocasia lauterbachiana* | (Engl.) A.Hay |
-| 45 | *Alocasia lecomtei* | Engl. |
-| 46 | **Alocasia longiloba** | Miq.（[育て方図鑑あり](/species/alocasia-longiloba)） |
-| 47 | *Alocasia macrorrhizos* | (L.) G.Don |
-| 48 | *Alocasia maquilingensis* | Merr. |
-| 49 | *Alocasia megawatiae* | Yuzammi & A.Hay |
-| 50 | **Alocasia melo** | A.Hay, P.C.Boyce & K.M.Wong（[育て方図鑑あり](/species/alocasia-melo)） |
-| 51 | **Alocasia micholitziana** | Sander（[育て方図鑑あり（Frydek）](/species/alocasia-frydek)） |
-| 52 | *Alocasia minuscula* | A.Hay |
-| 53 | *Alocasia monticola* | A.Hay |
-| 54 | *Alocasia navicularis* | (K.Koch & C.D.Bouché) K.Koch & C.D.Bouché |
-| 55 | *Alocasia nebula* | A.Hay |
-| 56 | *Alocasia nicolsonii* | A.Hay |
-| 57 | *Alocasia nycteris* | Medecilo, G.C.Yao & Madulid |
-| 58 | *Alocasia odora* | (G.Lodd.) Spach |
-| 59 | *Alocasia × okinawensis*（交配種） | Tawada |
-| 60 | *Alocasia pangeran* | A.Hay |
-| 61 | *Alocasia peltata* | M.Hotta |
-| 62 | *Alocasia perakensis* | Hemsl. |
-| 63 | *Alocasia portei* | Schott |
-| 64 | *Alocasia princeps* | W.Bull |
-| 65 | *Alocasia principiculus* | A.Hay |
-| 66 | *Alocasia puber* | (Hassk.) Schott |
-| 67 | *Alocasia puncakborneensis* | S.Y.Wong & P.C.Boyce |
-| 68 | *Alocasia puteri* | A.Hay |
-| 69 | *Alocasia pyrospatha* | A.Hay |
-| 70 | *Alocasia ramosii* | A.Hay |
-| 71 | *Alocasia reginae* | N.E.Br. |
-| 72 | **Alocasia reginula** | A.Hay（[育て方図鑑あり（Black Velvet）](/species/alocasia-black-velvet)） |
-| 73 | *Alocasia reversa* | N.E.Br. |
-| 74 | *Alocasia ridleyi* | A.Hay |
-| 75 | *Alocasia robusta* | M.Hotta |
-| 76 | *Alocasia rosea* | Asih & Yuzammi |
-| 77 | *Alocasia sakonakhonensis* | Chatan & Promprom |
-| 78 | *Alocasia salarkhanii* | H.Ara & M.A.Hassan |
-| 79 | **Alocasia sanderiana** | W.Bull（[育て方図鑑あり](/species/alocasia-sanderiana)） |
-| 80 | *Alocasia sarawakensis* | M.Hotta |
-| 81 | *Alocasia scabriuscula* | N.E.Br. |
-| 82 | *Alocasia scalprum* | A.Hay |
-| 83 | *Alocasia simonsiana* | A.Hay |
-| 84 | *Alocasia sinuata* | N.E.Br. |
-| 85 | *Alocasia suhirmaniana* | Yuzammi & A.Hay |
-| 86 | *Alocasia tandurusa* | Pram. & A.Hay |
-| 87 | *Alocasia venusta* | A.Hay |
-| 88 | *Alocasia vietnamensis* | V.D.Nguyen & de Kok |
-| 89 | **Alocasia wentii** | Engl. & K.Krause（[育て方図鑑あり](/species/alocasia-wentii)） |
-| 90 | *Alocasia wongii* | A.Hay |
-| 91 | *Alocasia yunqiana* | Z.X.Ma, Yifan Li & J.T.Yin |
-| 92 | **Alocasia zebrina** | G.W.Johnson & R.Hogg（[育て方図鑑あり](/species/alocasia-zebrina)） |
-
-*Alocasia azlanii*（7番）・*Alocasia baginda*（8番）・*Alocasia cuprea*（21番）・*Alocasia reginula*（72番）は上記の「主要な受理種」の表と重複するが、アルファベット順の全体像を崩さないよう、こちらの表にもそのまま含めている。
-
-上記のうち、栽培に関する情報がほとんど公開されていない種（例：*Alocasia epilithica*、*Alocasia sakonakhonensis* など）については、生態や特徴について確度の高い情報が乏しいため、本記事では学名と命名者の掲載にとどめている。無理に特徴を創作することは、このリストの正確性という価値を損なうため避けた。
-
-<!-- character-note character="kuro" type="tip" -->
-表の中で「命名者」が2〜3人連名になっているものが多いのは、その種を発見・記載した研究チームがそのまま名前に残るからなんだ。特に2010年代以降に記載された種は共著論文が増えていて、命名者欄を見るだけでもいつ頃の発見か推測できるよ。
-<!-- /character-note -->
-
-### 「91種」と「92学名」——数字が一致しない理由
-
-Kew POWOのアロカシア属ページ自体に「Includes 91 Accepted Species（91の受理種を含む）」と明記されている一方、実際にページに掲載されている学名を数えると92件になる。この1件の差は、59番の*Alocasia* × *okinawensis*が原因である。学名の前に付く「×」は**交配種（nothospecies）**であることを示す記号で、2つの異なる種を掛け合わせて生まれた分類群を意味する。POWOは交配種を受理種と同じ一覧ページに掲載する一方、「Accepted Species」の集計数にはカウントしていない。つまり、**91種の受理種＋1件の交配種＝92の学名**という内訳が正しい。<mark>「91種」と紹介する情報は交配種を除いた数字、「92種」と紹介する情報は交配種を含めて数えた数字であり、どちらも間違いではなく、何を「種」としてカウントするかの違いにすぎない。</mark>分類情報は今後も更新されうるため、最新の数を確認したい場合は必ず出典元のPOWOページを直接参照してほしい。
-
----
-
-## 流通名・園芸品種と学名の対応表
-
-観葉植物店やSNSで見かける「ドラゴンスケール」「アマゾニカ」といった名前の多くは、上記の受理種のいずれかの**品種（カルチバー）**、あるいは複数の種を掛け合わせた**交配種**である。tokyoplantsの図鑑記事の中で、学名との対応関係が本文に明記されているものを整理した。
-
-### 対応関係が明確なもの
-
-| 流通名 | 対応する学名 | 分類上の位置づけ | tokyoplants記事 |
-|--------|-------------|-----------------|-----------------|
-| ドラゴンスケール | *Alocasia baginda* 'Dragon Scale' | 受理種*A. baginda*（8番）の品種 | [育て方図鑑](/species/alocasia-dragon-scale) |
-| シルバードラゴン | *Alocasia baginda* 'Silver Dragon' | 受理種*A. baginda*（8番）の品種（Dragon Scaleと同種の別品種） | [育て方図鑑](/species/alocasia-silver-dragon) |
-| ブラックベルベット | *Alocasia reginula* 'Black Velvet' | 受理種*A. reginula*（72番）そのものの通称・品種名 | [育て方図鑑](/species/alocasia-black-velvet) |
-| フライデック | *Alocasia micholitziana* 'Frydek' | 受理種*A. micholitziana*（51番）の品種 | [育て方図鑑](/species/alocasia-frydek) |
-| ノビリス | *Alocasia sanderiana* 'Nobilis'（旧 *A. sanderiana* var. *nobilis* André） | 受理種サンデリアーナのシノニム由来の選抜品種（独立種ではない） | [育て方図鑑](/species/alocasia-nobillis) |
-| レッドシークレット | *Alocasia cuprea* | 受理種そのものの流通名（品種というより通称） | [育て方図鑑](/species/alocasia-cuprea) |
-| アマゾニカ（'Polly'含む） | *Alocasia* × *amazonica* | 交配種（*A. longiloba* × *A. sanderiana* が有力説だが交配記録は未確定） | [育て方図鑑](/species/alocasia-amazonica) |
-| チャントリエリ | *Alocasia* × *chantrieri* | 交配種（*A. cuprea* × *A. sanderiana*、19世紀にフランスで作出） | [育て方図鑑](/species/alocasia-chantrieri) |
-| マハラニ（グレイドラゴン） | 学名なし（園芸品種名 'Maharani'） | 交配種（*A. reginula* × *A. melo* とされるが公式記録は未確認） | [育て方図鑑](/species/alocasia-maharani) |
+<mark>確定度が「不明」のものについて、推測で学名や交配親を当てはめることはしていない。</mark>学術的な系統が不明でも観賞価値や栽培のノウハウが失われるわけではないが、「〇〇という原種の子孫」という説明を見かけたら、根拠となる交配記録や記載論文があるかを確認する姿勢が役に立つ。
 
 <!-- character-note character="kuro" type="point" -->
-流通名だけで判断せず、対応する学名（原種）まで分かると、根や用土の管理方法を調べるときにも役立つよ。同じ「ジュエルアロカシア」でも、原種がreginulaなのかbagindaなのかで、根の量や過湿への耐性が変わってくるからなんだ。
+流通名だけで判断せず対応する学名（原種）まで分かると、根や用土の管理方法を調べるときに役立つよ。同じ「ジュエルアロカシア」でも、原種がreginulaなのかbagindaなのかで根の量や過湿への耐性が変わってくるからなんだ。
 <!-- /character-note -->
 
-### 学名・交配親が特定されていないもの（購入時の注意点）
+## Kew POWO 受理種91種の全リスト
 
-一方で、コレクター向けに流通している以下の品種は、tokyoplantsの図鑑記事を確認した限り、正式な交配記録・原種の情報が公表されていない。<mark>推測で学名や交配親を当てはめることはせず、「不明」として扱うのが誠実な情報整理だと考えている。</mark>
+*Alocasia* (Schott) G.Don の受理種として、Kew POWOで2026年9月9日時点に確認できたものをアルファベット順に掲載する。**「tokyoplants図鑑」列にリンクがある10種が、日本で実際に栽培・流通している主な原種**で、残りの81種は学術的な記載はあっても一般の観葉植物市場にはほとんど出てこない。
 
-| 流通名 | 分類上の位置づけ | 備考 |
-|--------|-----------------|------|
-| ドラゴンブレス（Dragon Breath） | カルチバー（複数の交配・選抜過程を経たとされる） | 公式な学名が確定していないとtokyoplants記事内でも明記 |
-| ホーリーグレイル（Holy Grail） | ハイブリッド品種 | 「東南アジア原産のアロカシア属から生まれた」とされるのみで、具体的な交配親は非公表 |
-| ニンジャ トリカラー（Ninja Tricolor） | 斑入りカルチバー | 交配親・原種の情報なし |
-| ハートバルーン ピンク斑入り（Heart Balloon Pink Variegated） | 斑入りカルチバー | 交配親・原種の情報なし |
-| ヴェノム（Venom） | 交配種 | 「交配種」とのみ記載され、具体的な交配親は非公表 |
 
-これらは学術的な系統が不明であっても、観賞価値や栽培のノウハウが失われるわけではない。ただし「〇〇という原種の子孫」といった説明を見かけた場合は、根拠となる一次情報（交配記録や記載論文）があるかどうかを確認する姿勢が大切になる。
+| No. | 学名 | 命名者 | tokyoplants図鑑 |
+|-----|------|--------|-----------------|
+| 1 | *Alocasia acuminata* | Schott | — |
+| 2 | *Alocasia aequiloba* | N.E.Br. | — |
+| 3 | *Alocasia alba* | Schott | — |
+| 4 | *Alocasia arifolia* | Hallier f. | — |
+| 5 | *Alocasia atropurpurea* | Engl. | — |
+| 6 | *Alocasia augustiana* | L.Linden & Rodigas | — |
+| 7 | *Alocasia azlanii* | K.M.Wong & P.C.Boyce | [図鑑](/species/alocasia-azlanii) |
+| 8 | *Alocasia baginda* | Kurniawan & P.C.Boyce | [ドラゴンスケール](/species/alocasia-dragon-scale)・[シルバードラゴン](/species/alocasia-silver-dragon) |
+| 9 | *Alocasia balgooyi* | A.Hay | — |
+| 10 | *Alocasia beccarii* | Engl. | — |
+| 11 | *Alocasia boa* | A.Hay | — |
+| 12 | *Alocasia boyceana* | A.Hay | — |
+| 13 | *Alocasia brancifolia* | (Schott) A.Hay | — |
+| 14 | *Alocasia brisbanensis* | (F.M.Bailey) Domin | — |
+| 15 | *Alocasia cadieri* | Chantrier | — |
+| 16 | *Alocasia celebica* | Engl. ex Koord. | — |
+| 17 | *Alocasia chaii* | P.C.Boyce | — |
+| 18 | *Alocasia clypeolata* | A.Hay | — |
+| 19 | *Alocasia cucullata* | (Lour.) G.Don | — |
+| 20 | *Alocasia culionensis* | Engl. | — |
+| 21 | *Alocasia cuprea* | (K.Koch & C.D.Bouché) K.Koch | [図鑑（レッドシークレット）](/species/alocasia-cuprea) |
+| 22 | *Alocasia decipiens* | Schott | — |
+| 23 | *Alocasia decumbens* | Buchet | — |
+| 24 | *Alocasia devansayana* | (L.Linden & Rodigas) Engl. | — |
+| 25 | *Alocasia epilithica* | Serebryanyi, K.Z.Hein & Naive | — |
+| 26 | *Alocasia evrardii* | Gagnep. ex V.D.Nguyen | — |
+| 27 | *Alocasia fallax* | Schott | — |
+| 28 | *Alocasia farisii* | Zulhazman, Norziel. & P.C.Boyce | — |
+| 29 | *Alocasia flabellifera* | A.Hay | — |
+| 30 | *Alocasia flemingiana* | Yuzammi & A.Hay | — |
+| 31 | *Alocasia fornicata* | (Kunth) Schott | — |
+| 32 | *Alocasia grata* | Prain ex Engl. & Krause | — |
+| 33 | *Alocasia hainanica* | N.E.Br. | — |
+| 34 | *Alocasia hararganjensis* | H.Ara & M.A.Hassan | — |
+| 35 | *Alocasia heterophylla* | (C.Presl) Merr. | — |
+| 36 | *Alocasia hollrungii* | Engl. | — |
+| 37 | *Alocasia hypoleuca* | P.C.Boyce | — |
+| 38 | *Alocasia indica* | (Lour.) Spach | — |
+| 39 | *Alocasia infernalis* | P.C.Boyce | — |
+| 40 | *Alocasia inornata* | Hallier f. | — |
+| 41 | *Alocasia jiewhoei* | V.D.Nguyen | — |
+| 42 | *Alocasia kerinciensis* | A.Hay | — |
+| 43 | *Alocasia lancifolia* | Engl. | — |
+| 44 | *Alocasia lauterbachiana* | (Engl.) A.Hay | — |
+| 45 | *Alocasia lecomtei* | Engl. | — |
+| 46 | *Alocasia longiloba* | Miq. | [図鑑](/species/alocasia-longiloba) |
+| 47 | *Alocasia macrorrhizos* | (L.) G.Don | — |
+| 48 | *Alocasia maquilingensis* | Merr. | — |
+| 49 | *Alocasia megawatiae* | Yuzammi & A.Hay | — |
+| 50 | *Alocasia melo* | A.Hay, P.C.Boyce & K.M.Wong | [図鑑](/species/alocasia-melo) |
+| 51 | *Alocasia micholitziana* | Sander | [図鑑（フライデック）](/species/alocasia-frydek) |
+| 52 | *Alocasia minuscula* | A.Hay | — |
+| 53 | *Alocasia monticola* | A.Hay | — |
+| 54 | *Alocasia navicularis* | (K.Koch & C.D.Bouché) K.Koch & C.D.Bouché | — |
+| 55 | *Alocasia nebula* | A.Hay | — |
+| 56 | *Alocasia nicolsonii* | A.Hay | — |
+| 57 | *Alocasia nycteris* | Medecilo, G.C.Yao & Madulid | — |
+| 58 | *Alocasia odora* | (G.Lodd.) Spach | — |
+| 59 | *Alocasia pangeran* | A.Hay | — |
+| 60 | *Alocasia peltata* | M.Hotta | — |
+| 61 | *Alocasia perakensis* | Hemsl. | — |
+| 62 | *Alocasia portei* | Schott | — |
+| 63 | *Alocasia princeps* | W.Bull | — |
+| 64 | *Alocasia principiculus* | A.Hay | — |
+| 65 | *Alocasia puber* | (Hassk.) Schott | — |
+| 66 | *Alocasia puncakborneensis* | S.Y.Wong & P.C.Boyce | — |
+| 67 | *Alocasia puteri* | A.Hay | — |
+| 68 | *Alocasia pyrospatha* | A.Hay | — |
+| 69 | *Alocasia ramosii* | A.Hay | — |
+| 70 | *Alocasia reginae* | N.E.Br. | — |
+| 71 | *Alocasia reginula* | A.Hay | [図鑑（ブラックベルベット）](/species/alocasia-black-velvet) |
+| 72 | *Alocasia reversa* | N.E.Br. | — |
+| 73 | *Alocasia ridleyi* | A.Hay | — |
+| 74 | *Alocasia robusta* | M.Hotta | — |
+| 75 | *Alocasia rosea* | Asih & Yuzammi | — |
+| 76 | *Alocasia sakonakhonensis* | Chatan & Promprom | — |
+| 77 | *Alocasia salarkhanii* | H.Ara & M.A.Hassan | — |
+| 78 | *Alocasia sanderiana* | W.Bull | [図鑑（クリスプラント）](/species/alocasia-sanderiana) |
+| 79 | *Alocasia sarawakensis* | M.Hotta | — |
+| 80 | *Alocasia scabriuscula* | N.E.Br. | — |
+| 81 | *Alocasia scalprum* | A.Hay | — |
+| 82 | *Alocasia simonsiana* | A.Hay | — |
+| 83 | *Alocasia sinuata* | N.E.Br. | — |
+| 84 | *Alocasia suhirmaniana* | Yuzammi & A.Hay | — |
+| 85 | *Alocasia tandurusa* | Pram. & A.Hay | — |
+| 86 | *Alocasia venusta* | A.Hay | — |
+| 87 | *Alocasia vietnamensis* | V.D.Nguyen & de Kok | — |
+| 88 | *Alocasia wentii* | Engl. & K.Krause | [図鑑](/species/alocasia-wentii) |
+| 89 | *Alocasia wongii* | A.Hay | — |
+| 90 | *Alocasia yunqiana* | Z.X.Ma, Yifan Li & J.T.Yin | — |
+| 91 | *Alocasia zebrina* | G.W.Johnson & R.Hogg | [図鑑](/species/alocasia-zebrina) |
 
----
+栽培に関する情報がほとんど公開されていない種（例：*Alocasia epilithica*、*Alocasia sakonakhonensis* など）については、生態や特徴について確度の高い情報が乏しいため、学名と命名者の掲載にとどめている。無理に特徴を創作することは、このリストの正確性という価値を損なうため避けた。
+
+<!-- character-note character="kuro" type="tip" -->
+命名者が2〜3人連名になっているものが多いのは、その種を発見・記載した研究チームがそのまま名前に残るからなんだ。2010年代以降に記載された種ほど共著が増えるので、命名者欄を見るだけでもいつ頃の発見か見当がつくよ。
+<!-- /character-note -->
+
+### POWOに登録されている交配種（nothospecies）6件
+
+学名の前に付く「×」は**交配種（nothospecies）**を示す記号で、2つの異なる種の掛け合わせから生まれた分類群を意味する。POWOはこれらを受理種の集計（91種）には含めないが、分類群としては登録している。以下はPOWOの分類バックボーンであるWCVP（World Checklist of Vascular Plants）で2026-09-28に確認したもの。
+
+| 学名 | 命名者 | 初出文献 |
+|------|--------|----------|
+| *Alocasia* × *sedenii* | Veitch | Gard. Chron. 1869: 587（1869年） |
+| *Alocasia* × *chantrieri* | André | Rev. Hort. (Paris) 59: 465（1887年） |
+| *Alocasia* × *bachii* | Rodigas | Ill. Hort. 37: 77（1890年） |
+| *Alocasia* × *mortfontanensis* | André | Rev. Hort. (Paris) 63: 174（1891年） |
+| *Alocasia* × *conspicua* | André | Rev. Hort. (Paris) 63: 175（1891年） |
+| *Alocasia* × *okinawensis* | Tawada | Biol. Mag. 2(3): 28（1965年） |
+
+1880〜90年代のフランス・ベルギーの園芸誌（*Revue Horticole*、*Illustration Horticole*）に集中しているのは、当時のヨーロッパで熱帯観葉植物の交配が流行した名残である。この時期に作られたチャントリエリが現在も流通しているのは、140年近く栽培され続けてきたということになる。
+
+なお、日本で最も普及している *Alocasia* × *amazonica*（アマゾニカ／'Polly'）は、この6件には含まれていない。
+
+<!-- callout type="info" title="「91種」「92種」「約80種」——数字が食い違う理由" -->
+アロカシア属の種数は資料によって幅がある。どれかが間違っているというより、**次の3つのどれを採用したかの違い**であることがほとんどだ。
+
+1. **集計した日付が違う**：分類データベースは新種記載や再分類で更新され続ける。実際、2026年7月に *Alocasia crispa* と *Alocasia kolakaensis* の2種が Taiwania 誌で新種記載され（IPNIで確認）、2026-09-28時点のWCVPでは受理種に加わっている。上記の91種リストは2026-09-09のPOWOのスナップショットである。
+2. **交配種を数に含めたかどうか**：上記6件のnothospeciesを足すか足さないかで数が変わる。
+3. **参照したデータベースが違う**：POWO／WCVP／GBIFのバックボーン／各国の植物誌で、種の統合・分割の判断が一致しないことがある。
+
+数字を引用するときは、**必ず「どのデータベースの、いつ時点か」をセットで書く**のが安全だ。
+<!-- /callout -->
+
+## 学名がわかると、栽培の何が変わるか
+
+学名を調べるのは分類マニアの遊びに見えるかもしれないが、実際の栽培では次の3つで効いてくる。
+
+<!-- steps title="学名からたどる栽培情報の調べ方" -->
+1. **流通名から原種を特定する**：上の早見表で、手元の株の流通名がどの受理種の品種かを確認する。ドラゴンスケールとシルバードラゴンのように、見た目が全く違っても同じ原種（*A. baginda*）ということがある。
+2. **原種の自生環境を調べる**：POWOの各種ページには分布域が載っている。低地の熱帯雨林の種なのか、標高のある山地の種なのかで、必要な温度と湿度の下限が変わる。
+3. **同じ原種の品種の情報を流用する**：情報の少ない品種でも、同じ原種の別品種なら根の量・過湿への耐性・休眠の入りやすさがほぼ共通する。シルバードラゴンの情報が見つからないときに、ドラゴンスケールの管理を参考にできるのはこのためだ。
+<!-- /steps -->
+
+逆に、学名の確定度が「不明」の品種（ドラゴンブレス、ホーリーグレイルなど）では、この逆引きが使えない。購入前に「アロカシア属全体の共通ルール」——[アロカシアの育て方完全ガイド](/guide/alocasia-care-guide)で解説している高湿度・明るい間接光・15℃以上の温度——を守れる環境かどうかで判断することになる。
+
+<!-- character-note character="shadee" type="tip" -->
+原種の自生地が山地か低地かで、同じアロカシアでも耐えられる寒さがけっこう変わるんだ。気になる株の置き場所を決める前に、冬の夜にその場所が何℃まで下がるかを一度測っておくと安心だよ。
+<!-- /character-note -->
 
 ## まとめ
 
-1. Kew POWOによると、アロカシア属の受理種（Accepted Species）は2026-09-09時点で91種。交配種（*Alocasia* × *okinawensis*）を含めると計92の学名が確認できる。
+1. Kew POWOによると、アロカシア属の受理種は2026-09-09時点で91種。これとは別に交配種（nothospecies）が6件登録されている。
 2. 「学名」「シノニム」「受理種」「品種（カルチバー）」は別の概念であり、観葉植物店で目にする多くの名前は学名ではなく品種名・流通名にあたる。
 3. ドラゴンスケール・ブラックベルベット・フライデックなどは対応する原種が明確な一方、ドラゴンブレスやホーリーグレイルのように交配親が非公表のまま流通している品種も少なくない。
+4. 種数は参照するデータベースと時点で変わる。数字を引用するときは日付と出典をセットで残す。
 
 ---
 
-**出典**: Kew Plants of the World Online「*Alocasia* (Schott) G.Don」[https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2)（アクセス日: 2026-09-09）。分類情報は今後の研究によって更新される可能性があるため、最新の情報は必ず出典元でご確認ください。
+**出典**:
+
+- Kew Plants of the World Online「*Alocasia* (Schott) G.Don」[https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1078078-2)（受理種91種の一覧、アクセス日: 2026-09-09）
+- World Checklist of Vascular Plants (WCVP)（交配種6件の学名・初出文献、GBIF経由で2026-09-28に確認）
+- International Plant Names Index (IPNI)（各学名の発表年・発表誌の確認）
+
+分類情報は今後の研究によって更新される可能性があるため、最新の情報は必ず出典元でご確認ください。
 
 アロカシア属の全体的な育て方の基本は[アロカシアの育て方完全ガイド](/guide/alocasia-care-guide)、代表品種の比較は[ジュエルアロカシア品種比較ガイド](/guide/jewel-alocasia-types-comparison)、属全体の特徴は[アロカシア属とは｜主な品種・育て方・特徴を解説](/species/genus-alocasia)で詳しく解説している。
