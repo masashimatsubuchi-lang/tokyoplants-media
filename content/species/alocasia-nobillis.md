@@ -1,7 +1,7 @@
 ---
 image: "https://images.unsplash.com/photo-1651472803958-7ec80c6eb003?w=1200&q=80"
-title: "アロカシア・ノビリス｜Alocasia sanderiana 'Nobilis' 図鑑"
-description: "アロカシア・ノビリス（流通名。学名上はAlocasia sanderiana 'Nobilis'）の特徴・育て方を解説。光沢のある濃緑葉と波打つ葉縁が特徴のサンデリアーナ選抜品種の図鑑ページです。"
+title: "アロカシア・ノビリス｜特徴と育て方"
+description: "波打つ葉縁と深い光沢が特徴のアロカシア。新葉がピンクで展開するPink K選別株との違い、湿度と水やりの要点、子株の分け方をまとめました。"
 date: "2026-06-09"
 category: "species"
 genus: "alocasia"

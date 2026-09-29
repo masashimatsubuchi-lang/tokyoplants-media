@@ -1,7 +1,7 @@
 ---
 image: "https://images.unsplash.com/photo-1612339490298-26de583dd107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "ねこチップとは｜メリット・デメリット・使い方を解説"
-description: "ねこチップとは何か、メリット・デメリット、配合割合、水やり頻度まで徹底解説。ヤシガラ（ココチップ）と日向石を組み合わせた培地の特徴とtokyoplants I'm original SOILとの違いも比較し、あなたの観葉植物に合う土選びをサポートします。"
+title: "ねこチップとは｜メリット・デメリット・使い方"
+description: "ねこチップはヤシガラと日向石を混ぜた植え込み資材で、培養土ではありません。水はけと清潔さが強みで栄養はほぼゼロ。配合の目安と肥料の足し方を解説します。"
 date: "2026-06-05"
 category: "soil"
 tags: ["用土比較"]

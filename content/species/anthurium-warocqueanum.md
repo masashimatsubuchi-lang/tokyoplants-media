@@ -1,7 +1,7 @@
 ---
 image: "/images/products/anthurium-warocqueanum-mature.jpg"
-title: "アンスリウム・ワロクアーナム｜クイーンアンスリウムの特徴と育て方図鑑"
-description: "アンスリウム・ワロクアーナム（Queen Anthurium）の基本情報、1m超の剣状葉の特徴、高湿度管理・用土・温度管理の詳細ガイド、よくあるトラブルと対処を解説します。"
+title: "アンスリウム・ワロクアーナム｜特徴と育て方"
+description: "クイーンアンスリウムと呼ばれる細長いベルベット葉の希少種。葉が1m近くまで伸びる性質と、湿度・光・用土の要件、入手時の見分け方をまとめました。"
 date: "2026-06-09"
 category: "species"
 tags: ["アンスリウム", "コレクター"]
