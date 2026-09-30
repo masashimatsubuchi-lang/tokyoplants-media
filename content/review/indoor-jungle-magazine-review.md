@@ -149,7 +149,7 @@ No.02から進化したビカクシダ特集の第二弾。単なる育て方に
 
 **No.08「ジャパニーズビザールプランツの新世界」**：日本固有・日本で育てられたビザールプランツに焦点を当てた号。日本の育種・コレクション文化を世界規模の視点から再評価する内容です。
 
-最新号は [Amazon.co.jp で「INDOOR JUNGLE」と検索](https://www.amazon.co.jp/s?k=INDOOR+JUNGLE+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB&i=stripbooks) してご確認ください。
+最新号は [Amazon.co.jp で「INDOOR JUNGLE」と検索](https://www.amazon.co.jp/s?k=INDOOR+JUNGLE+%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AB&i=stripbooks&tag=tokyoplants0f-22) してご確認ください。
 
 | 号数 | 特集テーマ |
 |------|-----------|

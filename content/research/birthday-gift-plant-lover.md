@@ -87,10 +87,10 @@ amazonProducts:
 | 予算 | ギフト | こんな相手・シーンに | 外すリスク | 購入先 |
 |---|---|---|---|---|
 | ¥1,200〜 | ② 観葉植物の専門土 | 植物を丁寧に育てている人／植え替えシーズン前後 | 低（消えもの） | [I'm original SOIL](https://www.tokyoplants.com/items/99620939) |
-| ¥1,380〜 | ③ ガラスの霧吹き | 葉水を日課にしている人 | 低 | [Amazonでみる](https://www.amazon.co.jp/dp/B0BGJHWB6N) |
-| ¥1,870〜 | ⑤ 植物の本・図鑑 | 特定の属にハマっている人／知識欲がある人 | 中（既読の可能性） | [Amazonでみる](https://www.amazon.co.jp/dp/B0CGZHXX35) |
+| ¥1,380〜 | ③ ガラスの霧吹き | 葉水を日課にしている人 | 低 | [Amazonでみる](https://www.amazon.co.jp/dp/B0BGJHWB6N?tag=tokyoplants0f-22) |
+| ¥1,870〜 | ⑤ 植物の本・図鑑 | 特定の属にハマっている人／知識欲がある人 | 中（既読の可能性） | [Amazonでみる](https://www.amazon.co.jp/dp/B0CGZHXX35?tag=tokyoplants0f-22) |
 | ¥2,000 | ① Daily Botanical Towel | 友人・同僚など気を遣わせたくない相手／**迷ったとき** | **最も低い** | [tokyoplantsでみる](https://www.tokyoplants.com/items/135803882) |
-| ¥3,400〜 | ④ おしゃれなジョウロ | 毎日の水やりを楽しんでいる人 | 中（既に持っている可能性） | [Amazonでみる](https://www.amazon.co.jp/dp/B000UPVBQM) |
+| ¥3,400〜 | ④ おしゃれなジョウロ | 毎日の水やりを楽しんでいる人 | 中（既に持っている可能性） | [Amazonでみる](https://www.amazon.co.jp/dp/B000UPVBQM?tag=tokyoplants0f-22) |
 | ¥2,000〜8,000 | ⑥ おしゃれな鉢・プランター | 相手の部屋と株のサイズを把握している場合 | 高（サイズ・好みが合わないと使えない） | 園芸店・Amazon |
 | ¥3,000〜 | ⑦ 希少な観葉植物 | 次に育てたい品種まで知っている、かなり親しい相手 | 高（上の4条件次第） | [All plants](https://www.tokyoplants.com/categories/6382090) |
 | ¥18,000〜 | ⑧ Leather Botanical Collection | 節目の誕生日（30歳・40歳など）／長年お世話になった方 | 低 | [SISHICRAFT × tokyoplants](https://www.tokyoplants.com/categories/7318231) |
