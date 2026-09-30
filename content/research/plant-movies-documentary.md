@@ -15,6 +15,8 @@ amazonProducts:
     asin: "B082VBSKB2"
   - title: "ジェレミー・クラークソン 農家になる Season1"
     asin: "B09649Y5C1"
+    image: "https://m.media-amazon.com/images/S/pv-target-images/b8816b597f0d6525d34c2946a30462a19976a098a8f4cdef91e8f7bc69316e43._BR-6_AC_SX200_FMpng_.png"
+    note: "Prime Videoの配信作品（2026-10-01時点で視聴可能）"
   - title: "フード・インク（DVD）"
     asin: "B07X4HYVQS"
     image: "https://m.media-amazon.com/images/I/51uG5ELARsL._AC_SL200_.jpg"

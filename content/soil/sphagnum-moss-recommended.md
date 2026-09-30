@@ -15,18 +15,22 @@ amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
     asin: "B0CY2VJ3D3"
     image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
-  - title: "ニュージーランド産 圧縮水苔 AAA 約500g 大容量"
-    asin: "B09CNKS2TF"
-    image: "https://m.media-amazon.com/images/I/71rwtkQd-GL._AC_SL200_.jpg"
+  - title: "日清ガーデンメイト 超圧縮水苔 No.500（NZ産AAA・500g／復元40L）"
+    asin: "B000FXC3T8"
+    image: "https://m.media-amazon.com/images/I/71DAj0MPg9L._AC_SL200_.jpg"
+    price: "¥2,442"
+    note: "ニュージーランド産AAAランク・繊維が長い。★4.2・965件・在庫あり（2026-10-01にAmazon商品ページで確認）"
   - title: "共和開発 チリ産水苔 AA 150g"
     asin: "B09KVC22B5"
     image: "https://m.media-amazon.com/images/I/51pzw95PcjL._AC_SL200_.jpg"
   - title: "怪獣モス 圧縮水苔 150g（ビカクシダ板付け用）"
     asin: "B0DK6W7WXJ"
     image: "https://m.media-amazon.com/images/I/81SOHxNpzBL._AC_SL200_.jpg"
-  - title: "乾燥ミズゴケ（胡蝶蘭・蘭・観葉植物用）"
-    asin: "B0D1K6DF1T"
-    image: "https://m.media-amazon.com/images/I/71umgPr+7lL._AC_SL200_.jpg"
+  - title: "日清ガーデンメイト 超圧縮水苔 No.150（150g／復元12L）"
+    asin: "B000FXH5PK"
+    image: "https://m.media-amazon.com/images/I/71DAj0MPg9L._AC_SL200_.jpg"
+    price: "¥888"
+    note: "まず試す少量タイプ。★4.2・965件・在庫あり（2026-10-01にAmazon商品ページで確認）"
 ---
 
 # 水苔おすすめ5選｜ランクと用途で選ぶのが正解
@@ -149,7 +153,7 @@ amazonProducts:
 **メリット**: コスパが高い・長期保管しやすい・ストックがあると安心
 **デメリット**: 一度に使い切れない場合は保管スペースが必要
 
-→ [ニュージーランド産 圧縮水苔 AAA 約500g 大容量 をAmazonで見る](https://www.amazon.co.jp/dp/B09CNKS2TF?tag=tokyoplants0f-22)
+→ [日清ガーデンメイト 超圧縮水苔 No.500（NZ産AAA・500g） をAmazonで見る](https://www.amazon.co.jp/dp/B000FXC3T8?tag=tokyoplants0f-22)
 
 ### 3. チリ産 水苔 AA 150g コスパ重視
 
@@ -169,14 +173,14 @@ amazonProducts:
 
 → [怪獣モス 圧縮水苔 150g（ビカクシダ板付け用） をAmazonで見る](https://www.amazon.co.jp/dp/B0DK6W7WXJ?tag=tokyoplants0f-22)
 
-### 5. 乾燥水苔 100g（洋ラン・着生植物用）
+### 5. 超圧縮水苔 No.150（洋ラン・着生植物用）
 
-洋ランや小型の着生植物に最適な小容量タイプ。初めて水苔を試す方や、胡蝶蘭の植え替えを1〜2株行いたい方向けのエントリーモデルです。100gは使い切りやすく、余って劣化させるリスクも低くなります。
+洋ランや小型の着生植物に最適な小容量タイプ。初めて水苔を試す方や、胡蝶蘭の植え替えを1〜2株行いたい方向けのエントリーモデルです。150g（戻すと約12L）は使い切りやすく、余って劣化させるリスクも低くなります。
 
-**メリット**: 少量で試せる・価格が低い・胡蝶蘭1〜2株の植え替えにちょうど良い
+**メリット**: 少量で試せる・¥888と価格が低い・胡蝶蘭1〜2株の植え替えにちょうど良い
 **デメリット**: ビカクシダ板付けには量が少ない場合がある
 
-→ [乾燥ミズゴケ（胡蝶蘭・蘭・観葉植物用） をAmazonで見る](https://www.amazon.co.jp/dp/B0D1K6DF1T?tag=tokyoplants0f-22)
+→ [日清ガーデンメイト 超圧縮水苔 No.150 をAmazonで見る](https://www.amazon.co.jp/dp/B000FXH5PK?tag=tokyoplants0f-22)
 
 ---
 

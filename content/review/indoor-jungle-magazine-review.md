@@ -51,27 +51,9 @@ baseProducts:
 アガベは同じ品種でも育成環境によって株姿が大きく変わる。57品種のアーカイブのような資料は、見比べながら「自分の環境ではどう育つか」を想像する材料としても役立つ。
 <!-- /character-note -->
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CHCV7P4W?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0CHCV7P4W.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Indoor Jungle No.01 アガベ タイタノタ</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
-
----
-
-## No.02｜ビカクシダ現象
-
-ビカクシダ（プラティケリウム）ブームの実態と深さを掘り下げた特集号。コレクターたちが何に価値を見出しているのか、選抜個体・作品制作・着生スタイルなど多角的な視点から構成されています。
-
-ビカクシダに魅了されはじめたばかりの人にとっても、「コレクターの世界観」を知る入門として最適です。
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CSF5T2DB?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0CSF5T2DB.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Indoor Jungle No.02 ビカクシダ現象</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+<!-- callout type="info" title="No.02 の入手について" -->
+No.02 は 2026-10-01 時点でAmazonでの取り扱いが終了しています（「この本は現在お取り扱いできません」と表示されます）。バックナンバーは在庫が戻ることもあるため、最新の状況は記事末尾の検索リンクから確認してください。
+<!-- /callout -->
 
 ---
 

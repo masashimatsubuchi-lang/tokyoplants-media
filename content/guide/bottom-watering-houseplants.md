@@ -21,10 +21,11 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
 amazonProducts:
-  - title: "T4U 13.5cm 自己給水プランター 水位計付き 3点セット"
-    asin: "B07Q2VCPHQ"
-    image: "https://m.media-amazon.com/images/I/71GXJ4vhjVL._AC_SL200_.jpg"
-    note: "底から水を吸い上げる底面給水専用鉢。水位計付きで水やり管理が楽に"
+  - title: "T4U 12cm 給水プランター 水位計付き 4個セット"
+    asin: "B0CWRL4LK3"
+    image: "https://m.media-amazon.com/images/I/71OUNyXdn-L._AC_SL200_.jpg"
+    price: "¥2,399"
+    note: "底から水を吸い上げる底面給水専用鉢。水位計付きで水やり管理が楽に（★4.1・2,672件・在庫あり／2026-10-01にAmazon商品ページで確認）"
 ---
 
 「旅行中に植物を枯らしてしまった」「水やりのタイミングがわからない」——観葉植物の水やり失敗で悩んでいる人に、底面給水という選択肢があります。
@@ -107,9 +108,9 @@ amazonProducts:
 - 植物
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B07Q2VCPHQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71GXJ4vhjVL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">T4U 13.5cm 自己給水プランター 水位計付き 3点セット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0CWRL4LK3?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71OUNyXdn-L._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">T4U 12cm 給水プランター 水位計付き 4個セット</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 

@@ -16,9 +16,11 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "pH調整済みピートモス 5L（欧州産）"
-    asin: "B07S1NQN53"
-    image: "https://m.media-amazon.com/images/I/711jqHYJUkL._AC_SL200_.jpg"
+  - title: "コーナン LIFELEX ピートモス 20L（pH調整済み）"
+    asin: "B0CVQBNC41"
+    image: "https://m.media-amazon.com/images/I/61qWN15obGL._AC_SL200_.jpg"
+    price: "¥1,480"
+    note: "pH約6.5〜7.0に調整済み（苦土石灰）・水はじき防止加工済。★4.3・26件・在庫あり（2026-10-01にAmazon商品ページで確認）"
   - title: "バーミキュライト 18L 土壌改良用"
     asin: "B01DN24QPQ"
     image: "https://m.media-amazon.com/images/I/71urJNZWRQL._AC_SL200_.jpg"
@@ -164,10 +166,10 @@ amazonProducts:
 </div>
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07S1NQN53?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/711jqHYJUkL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0CVQBNC41?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/61qWN15obGL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">pH調整済みピートモス 5L（欧州産）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">コーナン LIFELEX ピートモス 20L（pH調整済み）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
