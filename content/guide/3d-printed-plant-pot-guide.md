@@ -11,9 +11,16 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
 amazonProducts:
-  - title: "Bambu Lab A1 mini 3Dプリンター"
-    asin: "B0CRYJBKQQ"
-    image: "https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL200_.jpg"
+  - title: "Bambu Lab PLA ベーシック フィラメント 1.75mm 1kg"
+    asin: "B0CGR29R63"
+    image: "https://m.media-amazon.com/images/I/61s0sgWex3L._AC_SL200_.jpg"
+    price: "¥2,700"
+    note: "鉢の試作・室内用の定番。★4.5・368件・在庫あり・Prime対象（2026-10-01にAmazon商品ページで確認）"
+  - title: "Bambu Lab PETG ベーシック フィラメント 1.75mm 1kg"
+    asin: "B0GS51W67J"
+    image: "https://m.media-amazon.com/images/I/81qevmT6R+L._AC_SL200_.jpg"
+    price: "¥2,200"
+    note: "耐水性が要る鉢に。室内の観葉植物鉢を長く使うならこちら。★4.0・19件・在庫あり・Prime対象（2026-10-01にAmazon商品ページで確認）"
 ---
 
 # 3Dプリンターで観葉植物の鉢を自作する方法｜素材・データ・設定まで
@@ -134,12 +141,11 @@ Fusion 360（個人利用無料）や Tinkercad（ブラウザ版、完全無料
 
 ## おすすめ機種：Bambu Lab A1 mini
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CRYJBKQQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Bambu Lab A1 mini 3Dプリンター</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+→ [Bambu Lab A1 mini を公式ストアで見る](https://jp.store.bambulab.com/products/a1-mini)
+
+<!-- callout type="warning" title="購入先についての注意（2026-10-01 追記）" -->
+A1 mini は **2026-10-01 時点で Amazon.co.jp での取り扱いがありません**。Bambu Lab 公式ストアでは引き続き販売されています。Amazon で買える Bambu Lab のプリンター本体は P2S / P2S Combo のみで、フィラメントなどの消耗品は Amazon でも購入できます。
+<!-- /callout -->
 
 鉢作りの入門機として A1 mini をすすめる理由は3点です。
 
@@ -188,3 +194,6 @@ PLAは冷却時に収縮するため、大きな底面を持つ鉢では反り�
 - **入門機は Bambu Lab A1 mini** が初期設定不要で始めやすい
 
 機種の詳細な比較（サイズ・AMS対応・密閉チャンバーの違い）は関連記事もあわせてご覧ください。
+
+<!-- amazon-cards title="鉢づくりに使うフィラメント（2026-10-01時点）" note="Amazonアソシエイトリンクを含みます。価格・在庫は変動します。評価・レビュー件数は2026-10-01にAmazon商品ページで直接確認した数値です。" -->
+<!-- /amazon-cards -->

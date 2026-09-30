@@ -11,21 +11,26 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/recommended-soil-for-houseplants"
 amazonProducts:
-  - title: "Bambu Lab A1 mini 3Dプリンター"
-    asin: "B0CRYJBKQQ"
-    image: "https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL200_.jpg"
-  - title: "Bambu Lab A1 mini Combo（AMS Lite付き）"
-    asin: "B0CRYZWJLG"
-    image: "https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL200_.jpg"
-  - title: "Bambu Lab A1 3Dプリンター"
-    asin: "B0D17TMWFB"
-    image: "https://m.media-amazon.com/images/I/71GDz14IZJL._AC_SL200_.jpg"
-  - title: "Bambu Lab A1 Combo（AMS Lite付き）"
-    asin: "B0D17V4SKM"
-    image: "https://m.media-amazon.com/images/I/71x5MOLyifL._AC_SL200_.jpg"
-  - title: "Bambu Lab P1S Combo（AMS付き）"
-    asin: "B0CHDM8VVZ"
-    image: "https://m.media-amazon.com/images/I/61q-W1AFDqL._AC_SL200_.jpg"
+  - title: "Bambu Lab P2S 3Dプリンター（CoreXY・256×256×256mm）"
+    asin: "B0FT7ZLSSC"
+    image: "https://m.media-amazon.com/images/I/51YwpEjF6kL._AC_SL200_.jpg"
+    price: "¥142,000"
+    note: "2026-10-01時点でAmazonで買えるBambu Labのプリンター本体。★4.6・18件・在庫あり・Prime対象（Amazon商品ページで確認）"
+  - title: "Bambu Lab P2S Combo（AMS 2 Pro付き）"
+    asin: "B0FT818HCH"
+    image: "https://m.media-amazon.com/images/I/61kdrxsik1L._AC_SL200_.jpg"
+    price: "¥159,840"
+    note: "多色造形をするならこちら。★4.5・172件・在庫あり・Prime対象（2026-10-01にAmazon商品ページで確認）"
+  - title: "Bambu Lab PLA ベーシック フィラメント 1.75mm 1kg"
+    asin: "B0CGR29R63"
+    image: "https://m.media-amazon.com/images/I/61s0sgWex3L._AC_SL200_.jpg"
+    price: "¥2,700"
+    note: "鉢の試作や室内用に。★4.5・368件・在庫あり・Prime対象（2026-10-01にAmazon商品ページで確認）"
+  - title: "Bambu Lab PETG ベーシック フィラメント 1.75mm 1kg"
+    asin: "B0GS51W67J"
+    image: "https://m.media-amazon.com/images/I/81qevmT6R+L._AC_SL200_.jpg"
+    price: "¥2,200"
+    note: "耐水性が要る鉢向け。★4.0・19件・在庫あり・Prime対象（2026-10-01にAmazon商品ページで確認）"
 ---
 
 # Bambu Lab 3Dプリンター5機種比較｜観葉植物の鉢作りに向く機種はどれか
@@ -42,6 +47,10 @@ amazonProducts:
 | 多色・グラデーションの鉢を作りたい | A1 mini Combo |
 | 号数の大きい鉢（8号以上）を作りたい | A1 または A1 Combo |
 | PETG・ASA など高品質素材で長期使用したい | P1S Combo |
+
+<!-- callout type="warning" title="購入先についての注意（2026-10-01 追記）" -->
+本記事で比較している A1 mini・A1・P1S の各機種は、**2026-10-01 時点で Amazon.co.jp での取り扱いがありません**（Amazon で購入できる Bambu Lab のプリンター本体は P2S / P2S Combo のみ）。いずれも Bambu Lab 公式ストアでは引き続き販売されているため、各機種の項目には公式ストアへのリンクを掲載しています。フィラメントや AMS などの消耗品・周辺機器は Amazon でも購入できます。
+<!-- /callout -->
 
 ## Bambu Lab を鉢作りに選ぶ理由
 
@@ -94,12 +103,7 @@ AMS Lite（A1 mini・A1 Combo 対応）は最大4色、AMS（P1S・X1C 対応）
 
 ### 1. Bambu Lab A1 mini
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CRYJBKQQ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Bambu Lab A1 mini 3Dプリンター</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+→ [A1 mini を Bambu Lab 公式ストアで見る](https://jp.store.bambulab.com/products/a1-mini)（2026-10-01時点でAmazonでの取り扱いなし）
 
 **造形サイズ**: 180 × 180 × 180 mm
 **最大速度**: 500 mm/s
@@ -114,12 +118,7 @@ AMS Lite（A1 mini・A1 Combo 対応）は最大4色、AMS（P1S・X1C 対応）
 
 ### 2. Bambu Lab A1 mini Combo
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CRYZWJLG?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71X5s5izhsL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Bambu Lab A1 mini Combo（AMS Lite付き）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+→ [A1 mini Combo を Bambu Lab 公式ストアで見る](https://jp.store.bambulab.com/products/a1-mini)（2026-10-01時点でAmazonでの取り扱いなし）
 
 **造形サイズ**: 180 × 180 × 180 mm
 **最大速度**: 500 mm/s
@@ -134,12 +133,7 @@ A1 mini に AMS Lite をセットにしたモデルです。4色のフィラメ�
 
 ### 3. Bambu Lab A1
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D17TMWFB?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71GDz14IZJL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Bambu Lab A1 3Dプリンター</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+→ [A1 を Bambu Lab 公式ストアで見る](https://jp.store.bambulab.com/products/a1)（2026-10-01時点でAmazonでの取り扱いなし）
 
 **造形サイズ**: 256 × 256 × 256 mm
 **最大速度**: 500 mm/s
@@ -154,12 +148,7 @@ A1 mini との価格差はおよそ1〜2万円ですが、印刷できる鉢の�
 
 ### 4. Bambu Lab A1 Combo
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D17V4SKM?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/71x5MOLyifL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Bambu Lab A1 Combo（AMS Lite付き）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+→ [A1 Combo を Bambu Lab 公式ストアで見る](https://jp.store.bambulab.com/products/a1)（2026-10-01時点でAmazonでの取り扱いなし）
 
 **造形サイズ**: 256 × 256 × 256 mm
 **最大速度**: 500 mm/s
@@ -178,12 +167,7 @@ A1 に AMS Lite をセットにしたモデルです。大きな造形サイズ�
 
 ### 5. Bambu Lab P1S Combo
 
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CHDM8VVZ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/61q-W1AFDqL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Bambu Lab P1S Combo（AMS付き）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
+→ [P1S Combo を Bambu Lab 公式ストアで見る](https://jp.store.bambulab.com/products/p1s)（2026-10-01時点でAmazonでの取り扱いなし）
 
 **造形サイズ**: 256 × 256 × 256 mm
 **最大速度**: 500 mm/s
@@ -205,3 +189,6 @@ AMS（Automatic Material System）によるフィラメント管理は、残量�
 - **高耐久素材・長期使用・屋外鉢** → **P1S Combo**
 
 Bambu Lab の機種はどれを選んでも印刷品質・速度・使いやすさで高い水準を保っています。まずは作りたい鉢のサイズと素材の方向性を決めてから機種を選ぶと、後悔が少なくなります。自作鉢の制作手順については関連記事もあわせてご覧ください。
+
+<!-- amazon-cards title="Amazonで買えるBambu Lab製品（2026-10-01時点）" note="Amazonアソシエイトリンクを含みます。価格・在庫は変動します。評価・レビュー件数は2026-10-01にAmazon商品ページで直接確認した数値です。" -->
+<!-- /amazon-cards -->
