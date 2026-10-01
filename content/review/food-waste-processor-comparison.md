@@ -19,7 +19,7 @@ amazonProducts:
   - title: "島産業 パリパリキュー PPC-11（ホワイト）"
     asin: "B087F3CCG5"
     image: "https://m.media-amazon.com/images/I/51m45ehPRnL._AC_SL200_.jpg"
-    price: "¥49,500"
+    price: "¥35,800"
   - title: "loofen ルーフェン 生ごみ処理機（ホワイト）"
     asin: "B09ZXKCBL8"
     image: "https://m.media-amazon.com/images/I/51k2rxe-QlL._AC_SL200_.jpg"
@@ -282,7 +282,7 @@ amazonProducts:
 
 | 機種 | 処理方式 | 容量/日 | 電気代/月 | 騒音 | 本体価格 | 助成金 |
 |------|---------|---------|----------|------|---------|--------|
-| パリパリキュー | 乾燥式 | 2kg/回 | 高 | 中 | ¥49,500 | ○ |
+| パリパリキュー | 乾燥式 | 2kg/回 | 高 | 中 | ¥35,800 | ○ |
 | loofen | 乾燥循環式 | 2kg/回 | 中 | 低 | ¥32,000〜 | ○ |
 | パナソニック | 温風+触媒 | 1.8kg/回 | 中 | 中 | ¥40,000〜 | ○ |
 | Reencle Prime | バイオ+乾燥 | 500g/日 | 最低 | 最低 | ¥110,000 | 要確認 |

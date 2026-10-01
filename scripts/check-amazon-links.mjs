@@ -152,7 +152,9 @@ function judge(asin, html, url, known) {
   if (landed !== asin) issues.push(`REDIRECT→${landed}`);
   if (Number.isFinite(star) && star < MIN_STAR) issues.push(`LOW_STAR(${star})`);
   if (Number.isFinite(reviews) && reviews < MIN_REVIEWS) issues.push(`FEW_REVIEW(${reviews})`);
-  if (known.price && price) {
+  // カートが無い商品は「買える価格」が存在せず、ページに残った別要素の数字を
+  // 拾ってしまうので価格比較はしない（NO_BUYBOX の指摘だけで十分）
+  if (known.price && price && !issues.includes("NO_BUYBOX")) {
     const a = Number(known.price.replace(/[^\d]/g, ""));
     const b = Number(price.replace(/[^\d]/g, ""));
     if (a && b && Math.abs(a - b) / b >= 0.1) issues.push(`PRICE_DIFF(記事${known.price}→実${price})`);
