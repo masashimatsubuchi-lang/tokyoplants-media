@@ -52,3 +52,7 @@ ads/app/
 
 # Supabase CLI のローカル状態
 supabase/.temp/
+
+# サービスアカウントの秘密鍵（本来は ~/.config/tokyoplants/ に置くが、誤配置の保険）
+*service-account*.json
+gsc-*.json
