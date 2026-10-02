@@ -106,15 +106,46 @@ async function query(token, period) {
   return (await res.json()).rows ?? [];
 }
 
+/**
+ * ページ次元の正規化。
+ * 本文見出しに `#section-N` のIDを振っているため、Googleがジャンプリンク（サイトリンク）
+ * として `/soil/foo#section-3` のようなURLを個別に記録する。GSCはこれを別ページとして
+ * 返すので、素のまま集計するとページ単位の表示回数が何倍にも膨らむ
+ * （例: ベラボン記事は実際603回の表示が、アンカー7本ぶん重複して見えていた）。
+ * クエリ次元には影響しない。
+ */
+function foldAnchors(rows) {
+  const pageIdx = dimensions.indexOf("page");
+  if (pageIdx === -1) return rows;
+  // ⚠️ アンカー行を「足して」はいけない。1件の検索結果にジャンプリンクが付くと、
+  // 正規URLとアンカーURLの両方に同じ表示が記録されるため、合算すると水増しになる
+  // （ねこチップ記事は実際33,783ではなく10,505）。正規URLの行だけを採り、
+  // 正規行が無いときだけアンカー行の最大値で代用する。
+  const m = new Map();
+  for (const r of rows) {
+    const raw = r.keys[pageIdx];
+    const isAnchor = raw.includes("#");
+    const keys = [...r.keys];
+    keys[pageIdx] = raw.split("#")[0];
+    const id = keys.join("\u0000");
+    const prev = m.get(id);
+    const cand = { ...r, keys, _anchor: isAnchor };
+    if (!prev) m.set(id, cand);
+    else if (prev._anchor && !isAnchor) m.set(id, cand); // 正規行を優先
+    else if (prev._anchor && isAnchor && r.impressions > prev.impressions) m.set(id, cand);
+  }
+  return [...m.values()].sort((a, b) => b.clicks - a.clicks || b.impressions - a.impressions);
+}
+
 const token = await getAccessToken();
 const cur = range(0, days);
-const rows = await query(token, cur);
+const rows = foldAnchors(await query(token, cur));
 console.log(`${SITE}  ${cur.startDate} 〜 ${cur.endDate}（${days}日間）  ${rows.length}件\n`);
 
 let prev = new Map();
 if (compare) {
   const p = range(days, days);
-  for (const r of await query(token, p)) prev.set(r.keys.join(" / "), r);
+  for (const r of foldAnchors(await query(token, p))) prev.set(r.keys.join(" / "), r);
   console.log(`比較対象: ${p.startDate} 〜 ${p.endDate}\n`);
 }
 
