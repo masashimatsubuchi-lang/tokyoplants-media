@@ -11,6 +11,7 @@ relatedSlugs:
   - "research/what-is-tree-nation"
   - "research/why-plant-shops-do-reforestation"
   - "review/leather-botanical-collection"
+  - "research/tokyo-to-forest-2026-09-report"
 ---
 
 東京の部屋の片隅で、モンステラの新しい葉が開く。その小さな出来事の裏側で、地球のどこかの森が少しだけ元気になっていたら——tokyoplantsは、そんな循環をつくる新しい取り組み「tokyo to forest」を始めました。

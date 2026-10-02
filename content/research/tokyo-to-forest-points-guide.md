@@ -10,6 +10,7 @@ relatedSlugs:
   - "research/tokyo-to-forest-tree-nation"
   - "research/what-is-tree-nation"
   - "research/why-plant-shops-do-reforestation"
+  - "research/tokyo-to-forest-2026-09-report"
 ---
 
 「tokyoplants ポイント」「1% for trees の使い方」で検索してこのページにたどり着いた方は、おそらくすでにtokyoplantsで植物やアイテムを購入したことがある方だと思います。この記事では、tokyoplantsのメンバーシップ制度「tokyo to forest」について、ポイントの貯め方・使い方に絞って、できるだけ具体的に整理しました。
