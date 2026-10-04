@@ -8,7 +8,7 @@ category: "soil"
 tags: ["プロトリーフ", "培養土", "観葉植物の土", "室内向け", "用土の選び方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/lightweight-soil-for-houseplants"
   - "soil/akadama-ratio-for-houseplants"
   - "soil/worm-castings-for-houseplants"
@@ -256,6 +256,6 @@ A. どちらも観葉植物向けに設計された用土なので、混ぜる�
 - 水はけが良いぶん「乾いたらたっぷり」の水やりと、株に合った鉢サイズの選択がこの土を活かすコツ
 - tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は、天然素材を発酵させて有機質のメリットを取り込む逆方向の設計。どちらが上ではなく、**育てる植物と暮らし方に合うほうを選ぶ**のが正解（2026年6月30日発売の観葉植物専門誌『INDOOR JUNGLE No.10』でも紹介されました）
 
-用土選びの選択肢をもっと幅広く見比べたい方は「[観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)」、鉢の重さが気になる方は「[観葉植物に軽い土おすすめ5選](/soil/lightweight-soil-for-houseplants)」もご覧ください。
+用土選びの選択肢をもっと幅広く見比べたい方は「[観葉植物の土おすすめ7選](/soil/repotting-soil-guide)」、鉢の重さが気になる方は「[観葉植物に軽い土おすすめ5選](/soil/lightweight-soil-for-houseplants)」もご覧ください。
 
 [I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)

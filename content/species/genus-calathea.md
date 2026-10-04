@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/calathea-orbifolia"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/best-soil-for-calathea"
   - "guide/root-rot-causes-and-recovery"
   - "guide/cats-and-houseplants-safety"

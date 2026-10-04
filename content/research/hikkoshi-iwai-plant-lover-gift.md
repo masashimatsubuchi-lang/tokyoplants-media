@@ -14,7 +14,7 @@ relatedSlugs:
   - "research/houseplant-lover-gift-ideas"
   - "research/fathers-day-gift-plant-lover"
   - "review/daily-botanical-towel-review"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"

@@ -9,7 +9,7 @@ tags: ["サンスベリア", "品種", "初心者", "育て方"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/air-purifying-plants"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/sansevieria-care"
   - "soil/improve-drainage-for-houseplants"

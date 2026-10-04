@@ -11,7 +11,7 @@ relatedSlugs:
   - "species/genus-calathea"
   - "species/calathea-orbifolia"
   - "soil/best-soil-for-calathea"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/cats-and-houseplants-safety"

@@ -7,7 +7,7 @@ category: "soil"
 tags: ["用土比較"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/hydroculture-medium-comparison"
   - "soil/lava-rock-for-houseplants"
   - "soil/how-to-mix-soil-for-houseplants"

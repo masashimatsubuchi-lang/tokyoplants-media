@@ -7,7 +7,6 @@ category: "soil"
 tags: ["ガジュマル", "用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "guide/gajumaru-care"
   - "guide/repotting-houseplants-complete-guide"
@@ -99,7 +98,7 @@ baseProducts:
 - レシピは次章を参照
 <!-- /cards -->
 
-排水性と清潔さを重視した設計は、旺盛な根を持つガジュマルの特性と相性が良いです。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+排水性と清潔さを重視した設計は、旺盛な根を持つガジュマルの特性と相性が良いです。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 <!-- callout type="warning" title="ガジュマルに避けるべき土" -->
 - **花用・野菜用の培養土**：保水性が高すぎて根腐れしやすい

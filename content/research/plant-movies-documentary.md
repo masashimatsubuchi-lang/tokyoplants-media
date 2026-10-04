@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/plant-books-recommended"
   - "guide/monstera-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 amazonProducts:
   - title: "ビッグ・リトル・ファーム 理想の暮らしのつくり方（Blu-ray）"
     asin: "B082VBSKB2"

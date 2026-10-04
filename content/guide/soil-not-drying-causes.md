@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/root-rot-mechanism-science"
   - "guide/rainy-season-root-rot-prevention"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-check-soil-dryness"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
@@ -131,7 +131,7 @@ baseProducts:
 - **鉢底の状態**：鉢底穴が詰まっていないか、鉢底石が機能しているか確認する
 - **根の状態**：茶色く傷んだ根があれば清潔なハサミで切除してから植え替える
 
-用土選びの基本的な考え方は[観葉植物の土おすすめ7選｜室内でも虫が湧きにくい用土の選び方](/soil/recommended-soil-for-houseplants)でも詳しく解説しています。
+用土選びの基本的な考え方は[観葉植物の土おすすめ7選｜選び方と植え替え用土](/soil/repotting-soil-guide)でも詳しく解説しています。
 
 ---
 

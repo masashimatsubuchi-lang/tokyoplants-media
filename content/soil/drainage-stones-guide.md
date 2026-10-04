@@ -9,7 +9,6 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
-  - "soil/recommended-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "review/drainage-net-comparison"

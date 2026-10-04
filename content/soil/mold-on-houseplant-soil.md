@@ -7,7 +7,7 @@ category: "soil"
 tags: ["カビ", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/indoor-houseplant-soil"
   - "soil/when-to-replace-soil"
   - "soil/neko-chip-vs-original-soil"

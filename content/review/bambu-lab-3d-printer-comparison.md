@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/3d-printed-plant-pot-guide"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 amazonProducts:
   - title: "Bambu Lab P2S 3Dプリンター（CoreXY・256×256×256mm）"
     asin: "B0FT7ZLSSC"

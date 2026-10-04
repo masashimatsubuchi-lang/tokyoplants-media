@@ -7,7 +7,7 @@ category: "review"
 tags: ["土", "比較", "レビュー", "おすすめ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/commercial-soil-ingredients"
   - "soil/cheap-vs-quality-soil"
 baseProducts:

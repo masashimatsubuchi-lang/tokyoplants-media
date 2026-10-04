@@ -15,7 +15,7 @@ relatedSlugs:
   - "species/alocasia-amazonica"
   - "species/alocasia-frydek"
   - "guide/alocasia-care-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/alocasia-repotting-guide"
   - "guide/alocasia-hydroculture"
 baseProducts:
@@ -132,7 +132,7 @@ baseProducts:
 
 ### 用土と植え替え
 
-水はけの良い配合が前提で、赤玉土（小粒）4：バーク3：パーライト3が扱いやすい。市販の[観葉植物用の培養土](/soil/recommended-soil-for-houseplants)を使う場合は、パーライトや軽石を2〜3割足して排水性を補う。
+水はけの良い配合が前提で、赤玉土（小粒）4：バーク3：パーライト3が扱いやすい。市販の[観葉植物用の培養土](/soil/repotting-soil-guide)を使う場合は、パーライトや軽石を2〜3割足して排水性を補う。
 
 中型種なので1〜2年に1回、5〜6月の植え替えが目安になる。塊茎の上部が土面と同じ高さに来るよう浅めに植えるのがコツで、手順は[アロカシアの植え替えガイド](/guide/alocasia-repotting-guide)にまとめている。根腐れを繰り返す場合は、無機培地に切り替える[ハイドロカルチャーでの管理](/guide/alocasia-hydroculture)も選択肢になる。
 

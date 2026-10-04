@@ -11,7 +11,7 @@ relatedSlugs:
   - "species/begonia-rex"
   - "species/begonia-maculata"
   - "species/begonia-pavonina"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "soil/perlite-vs-vermiculite"
   - "guide/repotting-houseplants-complete-guide"
@@ -124,7 +124,7 @@ baseProducts:
 - ピートモスは「pH調整済み」表示の製品を選ぶ
 <!-- /cards -->
 
-市販品の実売価格を横並びで比べたい場合は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)に7製品をまとめています。
+市販品の実売価格を横並びで比べたい場合は[観葉植物におすすめの土](/soil/repotting-soil-guide)に7製品をまとめています。
 
 **避けるべき土：**
 

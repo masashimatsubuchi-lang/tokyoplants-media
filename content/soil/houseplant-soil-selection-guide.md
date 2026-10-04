@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/houseplant-soil-hub-guide"
   - "research/100yen-shop-rare-houseplants"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/hydroculture-medium-comparison"
   - "soil/perlite-vs-vermiculite"
   - "soil/akadama-ratio-for-houseplants"
@@ -35,7 +35,7 @@ baseProducts:
 | 過湿・根腐れが心配／水やり頻度が高くなりがち | 排水重視ブレンド（硬質赤玉土＋パーライト＋鉢底石） | [硬質赤玉土と普通赤玉土の違い](/soil/akadama-hard-vs-regular)・[鉢底石は必要？](/soil/drainage-stones-guide) |
 | そもそも土を使いたくない／虫や匂いが気になる | ハイドロカルチャー（LECA・溶岩石・ゼオライト） | [ハイドロカルチャーの培地おすすめ比較](/soil/hydroculture-medium-comparison) |
 | カラテアなど酸性土を好む植物を育てている | 鹿沼土をブレンドに追加 | [鹿沼土を観葉植物に使うメリット・デメリット](/soil/kanuma-soil-for-houseplants) |
-| コストを抑えて始めたい・とりあえず1袋欲しい | 市販の完成培養土をベースに使う | [観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)・[100均と専門店の土の違い](/soil/cheap-vs-quality-soil) |
+| コストを抑えて始めたい・とりあえず1袋欲しい | 市販の完成培養土をベースに使う | [観葉植物の土おすすめ7選](/soil/repotting-soil-guide)・[100均と専門店の土の違い](/soil/cheap-vs-quality-soil) |
 | 見た目や軽さを重視したい（インテリア寄せ） | ねこチップ（ココチップ＋日向石）をブレンド | [ねこチップとは｜メリット・デメリット](/soil/neko-chip-vs-original-soil) |
 
 「植物名」で検索してもこの3条件を満たす答えには一足飛びにたどり着けません。まずは自分の環境を言語化することが、遠回りのようで一番の近道です。
@@ -76,7 +76,7 @@ baseProducts:
 
 ### ステップ3：ベースの選択肢を3つから選ぶ
 
-1. **市販の完成培養土をそのまま使う**：コストと手間を抑えたい初心者向け。[観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)、成分の見方は[市販の観葉植物の土には何が入っている？](/soil/commercial-soil-ingredients)を参照。
+1. **市販の完成培養土をそのまま使う**：コストと手間を抑えたい初心者向け。[観葉植物の土おすすめ7選](/soil/repotting-soil-guide)、成分の見方は[市販の観葉植物の土には何が入っている？](/soil/commercial-soil-ingredients)を参照。
 2. **完成培養土に資材を足してブレンドする**：置き場所や植物に合わせて微調整したい人向け。基本の配合は[観葉植物の土を自分で配合する方法](/soil/how-to-mix-soil-for-houseplants)を参照。
 3. **土を使わずハイドロカルチャーで育てる**：虫・匂い・水やり管理を簡略化したい人向け。[ハイドロカルチャーの培地おすすめ比較](/soil/hydroculture-medium-comparison)を参照。土からの切り替えは[ハイドロカルチャーから土への植え替え方法](/guide/hydroculture-to-soil-transition)、逆方向は[土からハイドロカルチャーへの切り替え方法](/guide/soil-to-hydroculture-transition)、水やりを楽にしたい場合は[底面給水のやり方](/guide/bottom-watering-houseplants)も参考になります。
 
@@ -130,4 +130,4 @@ baseProducts:
 
 土からブレンドを始めるなら、通気性と排水性を両立したtokyoplantsのオリジナル用土『[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)』がベースとして使いやすくおすすめです。ハイドロカルチャーで管理をシンプルにしたい場合は、溶岩石とゼオライトを配合した『[HYDRO MINERAL 2L](https://www.tokyoplants.com/items/142692278)』も検討してください。
 
-→ 関連記事：[観葉植物の土 完全ガイド](/soil/houseplant-soil-hub-guide)｜[観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)｜[ハイドロカルチャーの培地おすすめ比較](/soil/hydroculture-medium-comparison)
+→ 関連記事：[観葉植物の土 完全ガイド](/soil/houseplant-soil-hub-guide)｜[観葉植物の土おすすめ7選](/soil/repotting-soil-guide)｜[ハイドロカルチャーの培地おすすめ比較](/soil/hydroculture-medium-comparison)

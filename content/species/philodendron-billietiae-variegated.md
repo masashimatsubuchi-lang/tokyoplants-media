@@ -14,7 +14,7 @@ relatedSlugs:
   - "species/philodendron-billietiae"
   - "species/philodendron-florida-beauty"
   - "species/philodendron-pink-princess"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"

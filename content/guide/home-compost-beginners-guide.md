@@ -7,7 +7,7 @@ category: "guide"
 tags: ["コンポスト", "堆肥", "生ごみ", "ガーデニング", "SDGs", "家庭菜園"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:

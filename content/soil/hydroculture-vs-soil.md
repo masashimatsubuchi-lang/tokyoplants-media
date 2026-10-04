@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/hydroculture-complete-guide"
   - "soil/hydroponics-vs-hydroculture"
   - "soil/hydroculture-medium-comparison"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/indoor-houseplant-soil"
   - "soil/improve-drainage-for-houseplants"
   - "guide/alocasia-hydroculture"

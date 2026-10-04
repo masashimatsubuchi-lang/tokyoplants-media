@@ -10,7 +10,7 @@ relatedSlugs:
   - "species/schefflera-arboricola"
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
@@ -69,7 +69,7 @@ baseProducts:
 - 化学肥料・農薬不使用
 - 価格：¥1,200〜
 
-[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 ### 避けるべき土
 

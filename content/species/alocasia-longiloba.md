@@ -14,7 +14,7 @@ relatedSlugs:
   - "species/alocasia-sanderiana"
   - "guide/alocasia-care-guide"
   - "guide/alocasia-repotting-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -167,7 +167,7 @@ baseProducts:
 
 ### 用土
 
-水はけと適度な保水性を両立した配合が適しています。市販の[観葉植物の土](/soil/recommended-soil-for-houseplants)に赤玉土小粒10% + パーライト10%をブレンドすると排水性が高まります。アロカシア専用に考えるなら、バークチップ（小〜中粒）20%を加えると通気性がさらに向上します。ピートモス主体の保水性が高すぎる配合は根腐れリスクを高めるため、避けることを推奨します。鉢は素焼き鉢（テラコッタ）が通気性の面で優れています。
+水はけと適度な保水性を両立した配合が適しています。市販の[観葉植物の土](/soil/repotting-soil-guide)に赤玉土小粒10% + パーライト10%をブレンドすると排水性が高まります。アロカシア専用に考えるなら、バークチップ（小〜中粒）20%を加えると通気性がさらに向上します。ピートモス主体の保水性が高すぎる配合は根腐れリスクを高めるため、避けることを推奨します。鉢は素焼き鉢（テラコッタ）が通気性の面で優れています。
 
 大型種は葉が増えるほど株が重くなり、鉢内が乾く前に倒れやすくなります。深鉢よりも**やや幅のある安定した鉢**を選ぶと、支柱なしで樹形を保ちやすくなります。
 

@@ -8,7 +8,7 @@ tags: ["ドラセナ", "幸福の木", "品種", "キジカクシ科", "観葉�
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/yellow-leaves-houseplants-checklist"
 baseProducts:

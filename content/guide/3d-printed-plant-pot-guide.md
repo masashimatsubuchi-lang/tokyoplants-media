@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/bambu-lab-3d-printer-comparison"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 amazonProducts:
   - title: "Bambu Lab PLA ベーシック フィラメント 1.75mm 1kg"
     asin: "B0CGR29R63"

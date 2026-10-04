@@ -7,7 +7,6 @@ category: "soil"
 tags: ["スパティフィラム", "用土", "配合", "植え替え", "サトイモ科"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/best-soil-for-anthurium"
   - "guide/repotting-houseplants-complete-guide"
@@ -63,7 +62,7 @@ baseProducts:
 - 「サトイモ科向け」の中でも排水性に極端に振り切っていない
 - 肥料分が強すぎない（塩類蓄積を避けるため）
 
-tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**はココチップ・日向石・発酵樹皮・ミミズ堆肥・ピートモス・パーライトをバランス良く配合しており、スパティフィラムが求める「適度な保水性」と「根腐れを防ぐ通気性」を両立しやすい設計です。同じサトイモ科のアンスリウムの土選びは[アンスリウムの土おすすめ](/soil/best-soil-for-anthurium)でも解説しています。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**はココチップ・日向石・発酵樹皮・ミミズ堆肥・ピートモス・パーライトをバランス良く配合しており、スパティフィラムが求める「適度な保水性」と「根腐れを防ぐ通気性」を両立しやすい設計です。同じサトイモ科のアンスリウムの土選びは[アンスリウムの土おすすめ](/soil/best-soil-for-anthurium)でも解説しています。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 **避けるべき土：**
 - アロカシアやビカクシダ向けの極端な排水性重視の配合

@@ -8,7 +8,7 @@ tags: ["鉢", "スリット鉢", "植え替え", "レビュー", "観葉植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"

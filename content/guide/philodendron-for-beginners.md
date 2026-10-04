@@ -10,7 +10,7 @@ relatedSlugs:
   - "species/philodendron-prince-of-orange"
   - "guide/anthurium-care-for-beginners"
   - "guide/alocasia-care-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/philodendron-propagation-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"

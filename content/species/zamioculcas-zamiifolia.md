@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/zamioculcas-care-guide"
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:

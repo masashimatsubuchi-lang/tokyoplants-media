@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/akadama-ratio-for-houseplants"
   - "soil/lava-rock-for-houseplants"
   - "soil/perlite-vs-vermiculite"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/drainage-stones-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
@@ -122,7 +122,7 @@ amazonProducts:
 <!-- callout type="tip" title="手元の観葉植物用の土しかないとき" -->
 専用土を買いに行けない場合は、**観葉植物用の培養土5に対して軽石（小粒）3＋パーライト2**を足すと、多肉植物にも使える排水性まで引き上げられます。ポイントは、足す素材を「粗いもの」にすること。細かい砂を足すと逆に粒の隙間が埋まって水はけが悪化します。
 
-なお、tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/recommended-soil-for-houseplants)は日向石1.5〜2cmの粗粒を主体にしつつ、ミミズ堆肥・ピートモスを含む有機寄りの設計で、サトイモ科（モンステラ・アンスリウム等）に最適化した用土です。多肉植物・サボテンの「無機質・排水最優先」という設計思想とは方向性が異なるため、この記事ではおすすめしていません。
+なお、tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/repotting-soil-guide)は日向石1.5〜2cmの粗粒を主体にしつつ、ミミズ堆肥・ピートモスを含む有機寄りの設計で、サトイモ科（モンステラ・アンスリウム等）に最適化した用土です。多肉植物・サボテンの「無機質・排水最優先」という設計思想とは方向性が異なるため、この記事ではおすすめしていません。
 <!-- /callout -->
 
 **避けるべき土：**

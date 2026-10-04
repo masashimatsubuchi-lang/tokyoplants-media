@@ -7,7 +7,7 @@ category: "soil"
 tags: ["用土", "配合"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/commercial-soil-ingredients"
   - "soil/when-to-replace-soil"
   - "guide/home-compost-beginners-guide"

@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 appCta: "アロカシアは水やりの間隔を掴むまでが山場。記録を続けると、その部屋に合った周期が見えてきます。"
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/alocasia-yellow-leaves"
   - "species/alocasia-sanderiana"
@@ -315,7 +315,7 @@ ASPCA（米国動物虐待防止協会）はアロカシア属を**犬・猫・�
 - バーク堆肥 | 2
 <!-- /mix -->
 
-日向石を多めに配合し、排水性を確保しています。赤玉土は「硬質」と明記されたものを選んでください。安価な赤玉土は1年ほどで粒が潰れて泥状になり、せっかく確保した排水性が失われます。市販の観葉植物の土を使う場合は、軽石またはパーライトを3割追加してください。品種別の配合や市販土の選び分けは[アロカシアの土おすすめと配合レシピ](/soil/best-soil-for-alocasia)、配合の基本的な考え方は[観葉植物の土の配合方法](/soil/how-to-mix-soil-for-houseplants)、市販品の比較は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)で解説しています。
+日向石を多めに配合し、排水性を確保しています。赤玉土は「硬質」と明記されたものを選んでください。安価な赤玉土は1年ほどで粒が潰れて泥状になり、せっかく確保した排水性が失われます。市販の観葉植物の土を使う場合は、軽石またはパーライトを3割追加してください。品種別の配合や市販土の選び分けは[アロカシアの土おすすめと配合レシピ](/soil/best-soil-for-alocasia)、配合の基本的な考え方は[観葉植物の土の配合方法](/soil/how-to-mix-soil-for-houseplants)、市販品の比較は[観葉植物におすすめの土](/soil/repotting-soil-guide)で解説しています。
 
 ハイドロカルチャーや底面給水での管理を検討している場合は、[アロカシアをハイドロカルチャーで育てる方法](/guide/alocasia-hydroculture)も参考にしてください。溶岩石×ゼオライトの培地との相性は非常に良く、根腐れリスクを大幅に下げられます。
 

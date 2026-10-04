@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/plant-movies-documentary"
   - "guide/monstera-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "species/monstera-deliciosa"
 amazonProducts:
   - title: "NHK趣味の園芸 観葉植物 パーフェクトブック"

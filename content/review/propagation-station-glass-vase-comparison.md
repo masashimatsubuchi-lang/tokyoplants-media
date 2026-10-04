@@ -10,7 +10,7 @@ relatedSlugs:
   - "review/hydroculture-glass-container-comparison"
   - "guide/houseplant-pruning-basics"
   - "species/tradescantia-zebrina"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 amazonProducts:
   - title: "Ailunate 試験管フラワーベース 木製フレーム（試験管5本）"
     asin: "B0CV9TCSQR"
@@ -105,7 +105,7 @@ amazonProducts:
 
 ### 発根後は早めに鉢上げする
 
-水中の根は土中の根と構造が異なるため、水挿しのまま長期間放置すると、土に植え替えた際に根が土の環境に適応するまで時間がかかることがあります。根が2〜3cm程度に育ったら、早めに土に植え替えましょう。植え替え後の用土選びは[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)を参考にしてください。
+水中の根は土中の根と構造が異なるため、水挿しのまま長期間放置すると、土に植え替えた際に根が土の環境に適応するまで時間がかかることがあります。根が2〜3cm程度に育ったら、早めに土に植え替えましょう。植え替え後の用土選びは[観葉植物におすすめの土](/soil/repotting-soil-guide)を参考にしてください。
 
 ## よくある失敗例
 

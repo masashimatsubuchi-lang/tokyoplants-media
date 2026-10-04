@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 genus: "nephrolepis"
 relatedSlugs:
   - "species/platycerium-bifurcatum"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/sphagnum-moss-recommended"
   - "guide/pebble-tray-humidity-guide"
   - "guide/cats-and-houseplants-safety"

@@ -13,7 +13,6 @@ relatedSlugs:
   - "guide/anthurium-warocqueanum-care-guide"
   - "guide/anthurium-regale-care-guide"
   - "guide/anthurium-summer-rainy-season-care"
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/aroid-mix-guide"
   - "guide/root-rot-causes-and-recovery"
@@ -113,7 +112,7 @@ baseProducts:
 | ココチップ・日向石ベースで自作する | 葉ものタイプを育てている／鉢数が多い | 素材を4種類そろえる必要がある |
 | 洋ラン用バーク土を流用する | 着生環境を強く再現したい | 保水性が足りず、夏は水切れしやすい |
 
-tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は、6種の天然素材のうちココチップ・日向石・発酵樹皮といった粗粒系が7割を占める配合です（**2L ¥1,200／10L ¥4,800**、ジップ付き）。着生植物であるアンスリウムが必要とする通気性と、室内管理での清潔さを両立できる設計で、開封してそのまま使えます。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は、6種の天然素材のうちココチップ・日向石・発酵樹皮といった粗粒系が7割を占める配合です（**2L ¥1,200／10L ¥4,800**、ジップ付き）。着生植物であるアンスリウムが必要とする通気性と、室内管理での清潔さを両立できる設計で、開封してそのまま使えます。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 **避けるべき土：**
 

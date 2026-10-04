@@ -7,7 +7,6 @@ category: "soil"
 tags: ["用土", "植え替え", "おすすめ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
@@ -92,7 +91,7 @@ baseProducts:
 - 開封してそのまま使える
 - 価格：¥1,200〜
 
-ドラセナが苦手とするフッ化物リスクが低く、弱酸性の配合で葉先の枯れを抑えやすい設計です。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+ドラセナが苦手とするフッ化物リスクが低く、弱酸性の配合で葉先の枯れを抑えやすい設計です。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 ### 2位：赤玉土ベースの自作配合（上級者向け）
 

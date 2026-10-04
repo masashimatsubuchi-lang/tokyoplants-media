@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/recommended-pots-for-houseplants"
   - "review/houseplant-pest-control-tools"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "review/plant-light-review"
   - "review/plant-label-maker-review"
   - "review/circulator-for-houseplants-review"
@@ -125,7 +125,7 @@ amazonProducts:
 - **保水性**：根が必要な水分を一定期間保持する（ピートモス・ヤシ殻炭）
 - **通気性**：根圏の酸素供給を確保する（赤玉土・スリット鉢との併用）
 
-tokyoplants が自社開発した「[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/recommended-soil-for-houseplants)」は、この三要素を室内栽培向けに最適化した配合です。市販土に混ぜて使うことも、単独で使うこともできます。
+tokyoplants が自社開発した「[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/repotting-soil-guide)」は、この三要素を室内栽培向けに最適化した配合です。市販土に混ぜて使うことも、単独で使うこともできます。
 
 ### 土の配合で変わる水やり頻度
 
@@ -338,4 +338,4 @@ NEO AMATERAS LED 20W はRa97・高PPFDを両立した国内最高水準の育成
 
 道具は一度に全部揃える必要はありません。まず「根腐れを防ぐ鉢と土」から始め、植物の状態を見ながら少しずつ環境を整えていくことが、長期的に植物を健康に育てる最も確実なアプローチです。
 
-土選びについては **[観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)** も参考にしてください。
+土選びについては **[観葉植物の土おすすめ7選](/soil/repotting-soil-guide)** も参考にしてください。

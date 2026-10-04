@@ -8,7 +8,7 @@ tags: ["ステファニア", "品種", "塊根植物", "コーデックス"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "species/stephania-kaweesakii"
   - "species/stephania-erecta"

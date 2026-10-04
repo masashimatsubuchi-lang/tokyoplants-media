@@ -13,7 +13,7 @@ relatedSlugs:
   - "species/philodendron-gloriosum"
   - "species/philodendron-el-choco-red"
   - "guide/philodendron-for-beginners"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -126,7 +126,7 @@ baseProducts:
 - 観葉植物用土 | 2
 <!-- /mix -->
 
-着生植物なので、鉢の中身は「土」というより**根が絡む足場**に近い構成になります。市販の[観葉植物用土](/soil/recommended-soil-for-houseplants)のみでは水はけが不十分なため、必ずバークや軽石を足して改良してください。
+着生植物なので、鉢の中身は「土」というより**根が絡む足場**に近い構成になります。市販の[観葉植物用土](/soil/repotting-soil-guide)のみでは水はけが不十分なため、必ずバークや軽石を足して改良してください。
 
 <!-- character-note character="kuro" type="point" -->
 アンデスの高地は涼しくて土が乾くのに時間がかかる分、逆に「水はけの良さ」が生命線になっているよ。標高が高い＝涼しい＝蒸発が遅い、という自生地の条件を思い出すと、なぜここまで排水性にこだわるのか納得できるはず。

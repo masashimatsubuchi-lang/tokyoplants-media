@@ -9,7 +9,6 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/genus-calathea"
   - "soil/best-soil-for-calathea"
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "species/maranta-leuconeura"
@@ -65,7 +64,7 @@ baseProducts:
 - 腐葉土やピートモスなど保水性のある有機質も含まれている
 - 「水はけが良すぎる」タイプは避ける（サボテン・多肉植物用は不向き）
 
-tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は、ココチップ・日向石・発酵樹皮など天然素材をブレンドし、通気性を保ちながら適度な保水力も両立させた設計です。マランタのように「乾燥にも過湿にも弱い」植物には、極端な配合の専用土よりバランス型の用土の方が扱いやすい傾向があります。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は、ココチップ・日向石・発酵樹皮など天然素材をブレンドし、通気性を保ちながら適度な保水力も両立させた設計です。マランタのように「乾燥にも過湿にも弱い」植物には、極端な配合の専用土よりバランス型の用土の方が扱いやすい傾向があります。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 **避けるべき土：**
 - サボテン・多肉植物専用土（排水性が高すぎる）

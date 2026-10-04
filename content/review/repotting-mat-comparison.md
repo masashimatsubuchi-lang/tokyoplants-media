@@ -10,7 +10,7 @@ relatedSlugs:
   - "guide/indoor-repotting-clean-tips"
   - "guide/repotting-tools-checklist"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "review/leather-botanical-collection"
 amazonProducts:
   - title: "Glanz Design 園芸シート 防水 厚手 レザーマット（ブラウン）"
@@ -103,5 +103,5 @@ Glanz Designと同じくPUレザー素材で四隅をトレー化できる仕様
 - [観葉植物の植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)
 - [植え替え前に揃えたい道具チェックリスト](/guide/repotting-tools-checklist)
 - [室内での植え替えを汚さず行うコツ](/guide/indoor-repotting-clean-tips)
-- [観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)
+- [観葉植物におすすめの土](/soil/repotting-soil-guide)
 - [SISHICRAFT × tokyoplants Leather Botanical Collection](/review/leather-botanical-collection)

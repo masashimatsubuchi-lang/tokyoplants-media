@@ -13,7 +13,7 @@ relatedSlugs:
   - "species/anthurium-magnificum"
   - "species/anthurium-veitchii"
   - "guide/anthurium-care-for-beginners"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "アンスリウムの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382097"

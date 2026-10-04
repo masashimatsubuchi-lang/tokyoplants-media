@@ -15,7 +15,7 @@ relatedSlugs:
   - "species/monstera-electro-light"
   - "species/monstera-yellow-marilyn"
   - "guide/monstera-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/monstera-repotting-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"

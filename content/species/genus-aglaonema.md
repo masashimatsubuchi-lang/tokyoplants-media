@@ -8,7 +8,7 @@ tags: ["アグラオネマ", "品種", "サトイモ科"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "species/aglaonema-pictum-tricolor"
   - "guide/repotting-houseplants-complete-guide"

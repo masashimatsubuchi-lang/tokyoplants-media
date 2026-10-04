@@ -8,7 +8,7 @@ tags: ["ストレリチア", "極楽鳥花", "ニコライ", "レギネ", "観�
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:

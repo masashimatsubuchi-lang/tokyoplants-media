@@ -9,7 +9,6 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/how-to-trim-roots-when-repotting"
   - "soil/repotting-soil-guide"
-  - "soil/recommended-soil-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

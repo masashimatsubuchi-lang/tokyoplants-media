@@ -10,7 +10,6 @@ appCta: "前回の植え替えがいつだったか、すぐに思い出せま�
 relatedSlugs:
   - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
   - "guide/plant-not-recovering-after-repotting"
   - "guide/houseplant-annual-care-calendar"
 baseProducts:

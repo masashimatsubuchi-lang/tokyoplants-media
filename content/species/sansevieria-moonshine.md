@@ -12,7 +12,7 @@ relatedSlugs:
   - "species/sansevieria"
   - "research/dracaena-sansevieria-taxonomy-science"
   - "guide/sansevieria-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:

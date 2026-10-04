@@ -7,7 +7,6 @@ category: "soil"
 tags: ["シュロチク", "カンノンチク", "用土", "植え替え", "おすすめ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
@@ -111,7 +110,7 @@ baseProducts:
 - 有機質が多すぎる土（虫・カビの原因）
 - アルカリ性に傾いた土（シュロチクは弱酸性を好む）
 
-tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は、ココチップ・日向石・蘭の発酵樹皮を中心とした6種の天然素材の配合で、地下茎が動きやすい通気性があります（**2L ¥1,200／10L ¥4,800**、ジップ付き）。シュロチクは長期間同じ鉢で育てることが多いため、土の劣化が遅く清潔さが長持ちする点がメリットになります。**腐葉土を1割ほど足す**と、シュロチクがやや好む保水性に寄せられます。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は、ココチップ・日向石・蘭の発酵樹皮を中心とした6種の天然素材の配合で、地下茎が動きやすい通気性があります（**2L ¥1,200／10L ¥4,800**、ジップ付き）。シュロチクは長期間同じ鉢で育てることが多いため、土の劣化が遅く清潔さが長持ちする点がメリットになります。**腐葉土を1割ほど足す**と、シュロチクがやや好む保水性に寄せられます。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 ---
 

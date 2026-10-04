@@ -7,7 +7,6 @@ category: "soil"
 tags: ["アロカシア", "用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/bellabon-for-houseplants"
   - "guide/alocasia-care-guide"
@@ -103,7 +102,7 @@ baseProducts:
 - パーライトや赤玉土を追加混合して排水性を補う
 <!-- /cards -->
 
-I'm original SOIL はアロカシア専用として開発されたものではありませんが、排水性と清潔さを重視した設計はアロカシアの特性と相性抜群です。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+I'm original SOIL はアロカシア専用として開発されたものではありませんが、排水性と清潔さを重視した設計はアロカシアの特性と相性抜群です。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 <!-- callout type="warning" title="アロカシアに使ってはいけない土" -->
 - **花用の培養土**：保水性が高すぎる

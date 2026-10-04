@@ -11,7 +11,7 @@ relatedSlugs:
   - "guide/cats-and-houseplants-safety"
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -69,7 +69,7 @@ baseProducts:
 - 化学肥料・農薬不使用
 - 価格：¥1,200〜
 
-[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 ### 避けるべき土
 

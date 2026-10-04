@@ -12,7 +12,7 @@ relatedSlugs:
   - "species/hoya-kerrii"
   - "species/hoya-pubicalyx"
   - "guide/hoya-not-flowering-causes"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "soil/perlite-vs-vermiculite"
   - "guide/bottom-watering-houseplants"
@@ -123,7 +123,7 @@ amazonProducts:
 | プロトリーフ サボテン・多肉植物の土 | 2L・¥407 | 約¥204 | 3〜4号鉢を1〜2鉢だけ植え替える |
 
 <!-- callout type="tip" title="観葉植物用の用土を使うなら、粗粒系の製品を選ぶ" -->
-「観葉植物の土」と名の付く製品でも、中身が粗粒系なら転用できます。tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/recommended-soil-for-houseplants)は6種の天然素材のうちヤシ繊維チップ・日向石・発酵樹皮といった粗粒系が7割を占め、着生植物の根が好む空気の層をつくりやすい配合です（**2L ¥1,200／10L ¥4,800**）。
+「観葉植物の土」と名の付く製品でも、中身が粗粒系なら転用できます。tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/repotting-soil-guide)は6種の天然素材のうちヤシ繊維チップ・日向石・発酵樹皮といった粗粒系が7割を占め、着生植物の根が好む空気の層をつくりやすい配合です（**2L ¥1,200／10L ¥4,800**）。
 
 ホヤに使う場合は、**そのまま使うより日向石か軽石（小粒）を2割足す**とさらに乾きが早くなり、開花を狙う管理に寄せられます。逆に、ピートモス主体で細かい一般的な培養土は、何を足しても粒の隙間が埋まってしまうため転用に向きません。
 <!-- /callout -->

@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/neko-chip-vs-original-soil"
   - "soil/best-soil-for-alocasia"
   - "soil/best-soil-for-philodendron"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/bugs-in-houseplant-soil"
   - "soil/mold-on-houseplant-soil"
   - "guide/repotting-houseplants-complete-guide"
@@ -260,7 +260,7 @@ SNSや観葉植物コミュニティでは「ベラボンに変えたら鉢が�
   rightItems="モンステラなど大きく育つ株を転倒の心配なく植えたい|配合の手間を省いて植え替えを早く終えたい|肥料管理が後回しになりがち|細い根の植物もまとめて同じ土で管理したい"
 -->
 
-I'm original SOILは、水はけ・保水性・通気性・保肥力のバランスを追求して6種の天然素材をブレンドした培養土です。元肥が配合されているため植え替え直後の追肥を気にする必要がなく、適度な重量があるため大型株でも鉢がグラつきません。細い根から太い根まで対応できる粒度設計になっている点も、単一素材のベラボンとの違いです。市販土全体の選び方は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)で比較しています。
+I'm original SOILは、水はけ・保水性・通気性・保肥力のバランスを追求して6種の天然素材をブレンドした培養土です。元肥が配合されているため植え替え直後の追肥を気にする必要がなく、適度な重量があるため大型株でも鉢がグラつきません。細い根から太い根まで対応できる粒度設計になっている点も、単一素材のベラボンとの違いです。市販土全体の選び方は[観葉植物におすすめの土](/soil/repotting-soil-guide)で比較しています。
 
 <!-- character-note character="kuro" type="point" -->
 資材選びに「絶対の正解」はなくて、軽さを取るか安定感を取るかは植える植物と置き場所次第だよ。迷ったら、まず育てたい植物の根の太さと株の大きさから逆算して考えるとブレにくいよ。

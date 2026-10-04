@@ -12,7 +12,7 @@ relatedSlugs:
   - "research/light-intensity-by-window-direction"
   - "guide/cats-and-houseplants-safety"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

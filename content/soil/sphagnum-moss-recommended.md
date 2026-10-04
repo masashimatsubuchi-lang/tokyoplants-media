@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/growing-houseplants-without-soil"
   - "soil/hydroculture-medium-comparison"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
     asin: "B0CY2VJ3D3"
@@ -243,4 +243,4 @@ A. 初心者には麻紐がおすすめです。扱いやすく、自然に分�
 
 水苔は正しく戻してから使うことで保水性と通気性が最大限に発揮されます。使用後は劣化サインを見逃さず、定期的に交換することが植物を健やかに育てるコツです。
 
-なお水苔はビカクシダや胡蝶蘭のような着生植物のための専用培地であり、鉢に入れる一般的な培養土とは根本的に別物です。ポトスやモンステラなど土を好む観葉植物には、水苔ではなく[通気性と保水性のバランスを取った鉢植え用の土](/soil/recommended-soil-for-houseplants)を選びましょう。
+なお水苔はビカクシダや胡蝶蘭のような着生植物のための専用培地であり、鉢に入れる一般的な培養土とは根本的に別物です。ポトスやモンステラなど土を好む観葉植物には、水苔ではなく[通気性と保水性のバランスを取った鉢植え用の土](/soil/repotting-soil-guide)を選びましょう。

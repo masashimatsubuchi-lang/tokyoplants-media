@@ -7,7 +7,7 @@ category: "soil"
 tags: ["用土", "虫対策", "コバエ", "室内", "害虫対策"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/commercial-soil-ingredients"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/neko-chip-vs-original-soil"

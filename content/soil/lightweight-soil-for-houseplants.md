@@ -7,7 +7,7 @@ category: "soil"
 tags: ["軽い土", "軽量培養土", "ベランダ", "マンション", "大型鉢"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"

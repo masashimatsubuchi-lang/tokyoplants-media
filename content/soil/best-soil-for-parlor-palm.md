@@ -8,7 +8,6 @@ tags: ["テーブルヤシ", "用土", "配合", "初心者", "植え替え"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/chamaedorea-elegans"
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
@@ -61,7 +60,7 @@ baseProducts:
 - 「観葉植物の土」として販売されているもので問題ない
 - 極端に保水性の高い花用培養土は避ける
 
-tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**はココチップ・日向石・パーライトなどをバランス良く配合しており、テーブルヤシが求める排水性と、室内でも清潔に使える設計を両立しています。初めての植え替えでも配合を考える必要がなく、そのまま使える手軽さも初心者向けの一鉢に適しています。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**はココチップ・日向石・パーライトなどをバランス良く配合しており、テーブルヤシが求める排水性と、室内でも清潔に使える設計を両立しています。初めての植え替えでも配合を考える必要がなく、そのまま使える手軽さも初心者向けの一鉢に適しています。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 **避けるべき土：**
 - 花用の培養土（保水性が高すぎる）

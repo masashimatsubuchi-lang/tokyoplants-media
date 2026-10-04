@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/monstera-care"
   - "guide/monstera-repotting-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/houseplant-soil-hub-guide"
 baseProducts:
@@ -122,7 +122,7 @@ baseProducts:
 市販の土をビニール袋の中で混ぜるとき、少し霧吹きで湿らせてから混ぜると粉が舞いにくくて作業しやすいよ。乾いたまま混ぜると、軽い素材ほど均一に混ざりにくいんだ。
 <!-- /character-note -->
 
-配合済みの用土を買うなら、tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/recommended-soil-for-houseplants)は6種の天然素材のうち粗粒系のヤシ繊維チップ・日向石・発酵樹皮が7割を占め、サトイモ科が求める通気性と排水性をそのまま満たします。化学肥料・農薬は不使用。**2L ¥1,200／10L ¥4,800**、ジップ付きで使いたい分だけ出せます。
+配合済みの用土を買うなら、tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](/soil/repotting-soil-guide)は6種の天然素材のうち粗粒系のヤシ繊維チップ・日向石・発酵樹皮が7割を占め、サトイモ科が求める通気性と排水性をそのまま満たします。化学肥料・農薬は不使用。**2L ¥1,200／10L ¥4,800**、ジップ付きで使いたい分だけ出せます。
 
 ---
 

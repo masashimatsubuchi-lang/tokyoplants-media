@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/alocasia-care-guide"
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "species/alocasia-melo"
   - "species/alocasia-azlanii"
   - "species/alocasia-black-velvet"

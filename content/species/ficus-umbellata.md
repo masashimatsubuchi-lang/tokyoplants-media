@@ -8,7 +8,7 @@ tags: ["ウンベラータ", "フィカス", "インテリア", "育て方"]
 author: "tokyoplants 編集部"
 genus: "ficus"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "species/ficus-elastica"
   - "species/ficus-lyrata"

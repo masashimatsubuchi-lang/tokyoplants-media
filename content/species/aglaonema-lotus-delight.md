@@ -12,7 +12,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/aglaonema-pictum-tricolor"
   - "species/aglaonema-stardust-orange"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:

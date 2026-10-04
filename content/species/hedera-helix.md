@@ -8,7 +8,7 @@ tags: ["アイビー", "ヘデラ", "つる性"]
 author: "tokyoplants 編集部"
 genus: "hedera"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/houseplant-pruning-basics"
   - "guide/no-water-plant-interior"
   - "guide/cats-and-houseplants-safety"

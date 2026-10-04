@@ -7,7 +7,7 @@ category: "soil"
 tags: ["くん炭", "土壌改良", "pH調整"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/soil-ph-adjustment"
   - "soil/akadama-ratio-for-houseplants"

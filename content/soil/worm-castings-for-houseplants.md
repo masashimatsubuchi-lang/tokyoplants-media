@@ -8,7 +8,7 @@ tags: ["ミミズ堆肥", "バーミコンポスト", "有機質", "培養土", 
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/protoleaf-vs-original-soil"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/indoor-houseplant-soil"
   - "soil/how-to-mix-soil-for-houseplants"
   - "soil/bugs-in-houseplant-soil"
@@ -110,7 +110,7 @@ A. 植え替え時に培養土全体の1〜2割程度を配合するか、生育
 A. おすすめしません。ミミズ堆肥は粒が細かく、単体で使うと土が締まって通気性が不足しやすいためです。赤玉土やパーライトなど排水性の良い素材と組み合わせて使いましょう。
 
 **Q. どんな植物に向いていますか？**
-A. 特にモンステラやアンスリウムなどのサトイモ科の植物は、乾燥しすぎず根が呼吸できる環境を好むため、ミミズ堆肥による保水性と通気性のバランスとの相性が良いとされています。おすすめの土の選び方は「[観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)」でも紹介しています。
+A. 特にモンステラやアンスリウムなどのサトイモ科の植物は、乾燥しすぎず根が呼吸できる環境を好むため、ミミズ堆肥による保水性と通気性のバランスとの相性が良いとされています。おすすめの土の選び方は「[観葉植物の土おすすめ7選](/soil/repotting-soil-guide)」でも紹介しています。
 
 ---
 

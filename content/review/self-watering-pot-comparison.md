@@ -10,7 +10,7 @@ relatedSlugs:
   - "guide/houseplant-care-during-travel"
   - "guide/bottom-watering-houseplants"
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 amazonProducts:
   - title: "T4U 12cm 給水プランター 4個セット（Medium）"
     asin: "B0CWRL4LK3"

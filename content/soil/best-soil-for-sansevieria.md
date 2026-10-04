@@ -7,7 +7,6 @@ category: "soil"
 tags: ["サンスベリア", "用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
@@ -84,7 +83,7 @@ baseProducts:
 - 開封してそのまま使えるので初心者にも安心
 - 価格：¥1,200〜
 
-サンスベリア専用土として設計されているわけではありませんが、排水性と清潔さを重視した配合はサンスベリアの乾燥を好む特性と非常に相性が良いです。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+サンスベリア専用土として設計されているわけではありませんが、排水性と清潔さを重視した配合はサンスベリアの乾燥を好む特性と非常に相性が良いです。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 ### 2位：多肉植物・サボテン用土（手軽さ重視）
 

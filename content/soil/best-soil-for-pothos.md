@@ -8,7 +8,6 @@ category: "soil"
 tags: ["ポトス", "用土", "植え替え", "おすすめ", "初心者"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/kunzan-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
@@ -219,5 +218,5 @@ tokyoplantsの『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
 → 関連記事
 - [ポトス（エピプレムナム）｜品種・育て方・飾り方](/species/pothos-epipremnum-aureum)
 - [ポトスの育て方｜置き場所・水やり・増やし方](/guide/pothos-care)
-- [観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)
+- [観葉植物の土おすすめ7選](/soil/repotting-soil-guide)
 - [観葉植物の植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)

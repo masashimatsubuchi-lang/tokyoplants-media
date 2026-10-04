@@ -9,7 +9,6 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/umbellata-care"
   - "guide/umbellata-repotting-guide"
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "species/ficus-umbellata"
   - "guide/repotting-houseplants-complete-guide"
@@ -111,7 +110,7 @@ siblings:
 - ピートモス・腐葉土の割合が高い製品は根腐れリスクが上がる
 <!-- /cards -->
 
-[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 <!-- callout type="warning" title="ウンベラータに使ってはいけない土" -->
 - **花用の培養土**：保水性が高すぎる

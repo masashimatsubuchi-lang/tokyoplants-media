@@ -7,7 +7,6 @@ category: "soil"
 tags: ["フィロデンドロン", "用土", "植え替え", "おすすめ", "着生植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/bellabon-for-houseplants"
   - "guide/philodendron-for-beginners"
@@ -107,7 +106,7 @@ baseProducts:
 - レシピは次章を参照
 <!-- /cards -->
 
-I'm original SOIL は、ヤシガラ繊維や日向石を足してカスタマイズするのもおすすめです。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+I'm original SOIL は、ヤシガラ繊維や日向石を足してカスタマイズするのもおすすめです。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 <!-- callout type="warning" title="フィロデンドロンに避けるべき土" -->
 - **花用・野菜用の培養土**：保水性が高すぎて根が呼吸できない

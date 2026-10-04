@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/mold-on-houseplant-soil"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -218,7 +218,7 @@ baseProducts:
 | ④ 完熟堆肥・緩効性肥料を使う | 未熟な有機物による異臭を防ぐ | 油かすを表面に置かない。室内は緩効性肥料が無難 | 施肥のたび |
 | ⑤ 受け皿の水を放置しない | 鉢底の酸素不足・嫌気性発酵を防ぐ | 水やり後30分以内に必ず捨てる | 毎回の水やり後 |
 
-排水性を土から見直したい場合は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)で市販品を比較しています。有機質が控えめで無機質をバランス良く含む培養土に替えるだけで、匂いのトラブルは大幅に減ります。
+排水性を土から見直したい場合は[観葉植物におすすめの土](/soil/repotting-soil-guide)で市販品を比較しています。有機質が控えめで無機質をバランス良く含む培養土に替えるだけで、匂いのトラブルは大幅に減ります。
 
 <!-- character-note character="shadee" type="tip" -->
 水やりのタイミングをアプリに記録しておくと、次に匂いが気になったときに「あげすぎていないか」を振り返りやすくなるよ。

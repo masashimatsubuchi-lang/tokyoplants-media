@@ -10,7 +10,7 @@ relatedSlugs:
   - "review/watering-checker-comparison"
   - "guide/root-rot-causes-and-recovery"
   - "guide/houseplant-care-during-travel"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 amazonProducts:
   - title: "5-in-1 土壌水分計（水分・pH・温度・日照・肥沃度）"
     asin: "B0DWWTYLMM"

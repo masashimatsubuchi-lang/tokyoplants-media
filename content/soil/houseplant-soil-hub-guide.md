@@ -16,7 +16,6 @@ tags:
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/houseplant-soil-selection-guide
-  - soil/recommended-soil-for-houseplants
   - soil/how-to-mix-soil-for-houseplants
   - soil/improve-drainage-for-houseplants
   - soil/repotting-soil-guide
@@ -112,7 +111,7 @@ hubIndex:
 
 初心者は完成品の観葉植物用土をベースにすると失敗が減ります。比較の観点と候補は以下の記事で整理しています。
 
-- [観葉植物の土おすすめ7選](https://media.tokyoplants.com/soil/recommended-soil-for-houseplants)
+- [観葉植物の土おすすめ7選](https://media.tokyoplants.com/soil/repotting-soil-guide)
 - [市販培養土の成分をどう読むか](https://media.tokyoplants.com/soil/commercial-soil-ingredients)
 - [安い土と品質の違い](https://media.tokyoplants.com/soil/cheap-vs-quality-soil)
 

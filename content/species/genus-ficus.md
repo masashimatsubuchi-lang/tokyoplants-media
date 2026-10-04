@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/ficus-umbellata"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "species/ficus-elastica"
   - "species/ficus-lyrata"
   - "species/ficus-pumila"

@@ -7,7 +7,6 @@ category: "soil"
 tags: ["用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
@@ -108,7 +107,7 @@ baseProducts:
 - 花の土などの一般培養土は保水性が高すぎる
 <!-- /cards -->
 
-[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 <!-- callout type="warning" title="エバーフレッシュに使ってはいけない土" -->
 - **花用の培養土**：保水性が高すぎる

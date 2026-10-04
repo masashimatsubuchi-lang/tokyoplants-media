@@ -11,7 +11,7 @@ relatedSlugs:
   - "species/peperomia-argyreia"
   - "species/peperomia-caperata"
   - "species/peperomia-obtusifolia"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/indoor-houseplant-soil"
   - "soil/perlite-vs-vermiculite"
   - "guide/bottom-watering-houseplants"
@@ -120,7 +120,7 @@ baseProducts:
 - 素材の保管スペースが必要
 <!-- /cards -->
 
-市販品の実売価格を横並びで比べたい場合は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)に7製品をまとめています。
+市販品の実売価格を横並びで比べたい場合は[観葉植物におすすめの土](/soil/repotting-soil-guide)に7製品をまとめています。
 
 <!-- callout type="tip" title="手元の観葉植物用の土しかないとき" -->
 一般的な「観葉植物の土」を使うなら、**観葉植物の土7：パーライト3**まで足してください。ペペロミアの場合、排水性だけでなく「軽さ」も狙いなので、軽石より**パーライトのほうが目的に合っています**。足す素材が細かいと粒の隙間が埋まって逆効果になるため、粗粒タイプを選んでください。

@@ -10,7 +10,7 @@ genus: "peperomia"
 relatedSlugs:
   - "species/peperomia-argyreia"
   - "species/peperomia-caperata"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"

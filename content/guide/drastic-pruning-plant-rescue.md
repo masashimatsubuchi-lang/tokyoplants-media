@@ -14,7 +14,7 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/pachira-care"
   - "guide/gajumaru-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "review/pruning-shears-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
@@ -160,7 +160,7 @@ SNSで「幹をぶった切ったら復活した」という投稿が驚かれ�
 
 原則、**強剪定と植え替えは同時に行わない**のがセオリーです（二重のストレスになるため）。ただし根腐れが原因で弱った株は例外で、腐った根を残したまま切っても回復しません。この場合は根の処置と用土交換を先に済ませ、同じタイミングで幹を切ります。
 
-古い土は排水性が落ちて根が呼吸できなくなっていることが多いため、リフレッシュには排水性の高い用土を選んでください（[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)）。
+古い土は排水性が落ちて根が呼吸できなくなっていることが多いため、リフレッシュには排水性の高い用土を選んでください（[観葉植物におすすめの土](/soil/repotting-soil-guide)）。
 
 ### 復活までの目安期間
 

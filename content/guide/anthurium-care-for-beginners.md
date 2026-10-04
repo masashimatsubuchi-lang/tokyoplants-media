@@ -7,7 +7,7 @@ category: "guide"
 tags: ["アンスリウム", "育て方", "初心者", "サトイモ科", "用土"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/anthurium-grow-light-guide"
   - "species/monstera-deliciosa"

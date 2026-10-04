@@ -7,7 +7,7 @@ category: "soil"
 tags: ["用土", "比較"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/commercial-soil-ingredients"
   - "soil/indoor-houseplant-soil"
   - "guide/repotting-houseplants-complete-guide"

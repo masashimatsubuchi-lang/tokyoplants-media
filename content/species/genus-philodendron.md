@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "species/philodendron-gloriosum"
   - "species/philodendron-melanochrysum"
   - "species/philodendron-micans"

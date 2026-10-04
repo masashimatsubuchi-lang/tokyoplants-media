@@ -18,7 +18,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/pebble-tray-humidity-guide"
   - "research/tokyo-rare-houseplant-specialty-shops"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 siblings:
   - slug: "research/tissue-culture-houseplants"
     role: "仕組みを知る"
@@ -261,7 +261,7 @@ baseProducts:
 
 <!-- product-banner -->
 
-なお、tokyoplantsのEC店舗では組織培養株・フラスコ苗の取り扱いはありません。以下は**鉢上げ段階で使う用土**としての紹介です。観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は日向石の粒径が1.5〜2cmと大きめで、根が十分に張った株の通気性を確保する設計です。**順化中の培地としては粒が粗すぎるため使えません**が、根が回って鉢上げする段階からは相性がよくなります。用土全般の考え方は[観葉植物の土の選び方](/soil/recommended-soil-for-houseplants)を参照してください。
+なお、tokyoplantsのEC店舗では組織培養株・フラスコ苗の取り扱いはありません。以下は**鉢上げ段階で使う用土**としての紹介です。観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は日向石の粒径が1.5〜2cmと大きめで、根が十分に張った株の通気性を確保する設計です。**順化中の培地としては粒が粗すぎるため使えません**が、根が回って鉢上げする段階からは相性がよくなります。用土全般の考え方は[観葉植物の土の選び方](/soil/repotting-soil-guide)を参照してください。
 
 ---
 

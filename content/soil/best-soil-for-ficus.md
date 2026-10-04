@@ -7,7 +7,7 @@ category: "soil"
 tags: ["フィカス", "ゴムの木", "用土", "植え替え", "おすすめ"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/best-soil-for-umbellata"
   - "species/ficus-elastica"
   - "species/ficus-lyrata"
@@ -91,7 +91,7 @@ baseProducts:
 - 弱酸性に調整済みでフィカスのpH要求に対応
 - 価格：¥1,200〜
 
-フィカス専用として開発されているわけではありませんが、排水性と清潔さを重視した設計はフィカス属全般の特性と相性が良いです。[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+フィカス専用として開発されているわけではありませんが、排水性と清潔さを重視した設計はフィカス属全般の特性と相性が良いです。[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 ### 2位：赤玉土ベースの自作配合（上級者・こだわり派向け）
 

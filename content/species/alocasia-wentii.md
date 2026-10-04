@@ -13,7 +13,7 @@ relatedSlugs:
   - "species/alocasia-amazonica"
   - "guide/alocasia-care-guide"
   - "guide/winter-watering-houseplants"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

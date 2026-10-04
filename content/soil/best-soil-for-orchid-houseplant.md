@@ -10,7 +10,7 @@ relatedSlugs:
   - "soil/best-soil-for-platycerium"
   - "soil/sphagnum-moss-recommended"
   - "soil/growing-houseplants-without-soil"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"
 amazonProducts:
   - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"

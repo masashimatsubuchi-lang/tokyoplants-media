@@ -9,7 +9,6 @@ tags: ["用土", "植え替え", "根詰まり"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"
-  - "soil/recommended-soil-for-houseplants"
   - "soil/reusing-houseplant-soil"
   - "soil/how-to-dispose-houseplant-soil"
   - "guide/repotting-houseplants-complete-guide"
@@ -160,7 +159,7 @@ baseProducts:
 鉢底石を敷き、新しい用土で植え付けます。
 根の隙間にも土が入るよう、割り箸などで軽くつつきます。
 
-新しい土は排水性と通気性を優先して選びます。tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)は、天然ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に6種の素材を配合した、通気性重視の観葉植物用培養土です。市販の土の比較や自分で配合する場合の考え方は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)を参照してください。
+新しい土は排水性と通気性を優先して選びます。tokyoplantsの[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)は、天然ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に6種の素材を配合した、通気性重視の観葉植物用培養土です。市販の土の比較や自分で配合する場合の考え方は[観葉植物におすすめの土](/soil/repotting-soil-guide)を参照してください。
 
 ### 5. たっぷり水やり
 植え付け後はたっぷり水を与え、鉢底から流れ出るまで。

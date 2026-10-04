@@ -12,7 +12,6 @@ tags:
 author: tokyoplants 編集部
 relatedSlugs:
   - soil/repotting-soil-guide
-  - soil/recommended-soil-for-houseplants
   - soil/drainage-stones-guide
 baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』

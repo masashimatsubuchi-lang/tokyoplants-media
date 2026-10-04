@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/scindapsus-pictus"
   - "guide/pothos-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
 baseProducts:
@@ -66,7 +66,7 @@ baseProducts:
 - 化学肥料・農薬不使用
 - 価格：¥1,200〜
 
-[観葉植物におすすめの土をもっと見る](/soil/recommended-soil-for-houseplants)
+[観葉植物におすすめの土をもっと見る](/soil/repotting-soil-guide)
 
 ### 避けるべき土
 

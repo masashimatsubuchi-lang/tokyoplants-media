@@ -12,7 +12,7 @@ relatedSlugs:
   - "species/genus-sansevieria"
   - "species/sansevieria-moonshine"
   - "species/sansevieria-cylindrica"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/houseplant-fertilizer-calendar"

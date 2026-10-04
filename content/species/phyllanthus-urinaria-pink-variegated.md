@@ -10,7 +10,7 @@ tags:
   - フィランサス
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/improve-drainage-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
@@ -169,7 +169,7 @@ baseProducts:
 - ヤシガラ繊維（細目） | 10
 <!-- /mix -->
 
-微塵が多い培養土はふるってから使うと、水の抜けが安定します。自分で配合するのが難しければ、はじめから排水性を確保した観葉植物用の配合済み培養土を選び、そこにパーライトを1〜2割足すだけでも十分に扱いやすくなります（[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)）。
+微塵が多い培養土はふるってから使うと、水の抜けが安定します。自分で配合するのが難しければ、はじめから排水性を確保した観葉植物用の配合済み培養土を選び、そこにパーライトを1〜2割足すだけでも十分に扱いやすくなります（[観葉植物におすすめの土](/soil/repotting-soil-guide)）。
 
 <!-- character-note character="kuro" type="tip" -->
 細根の植物は、水やりの腕より**土の設計**で決まる。粒が大きすぎる土は水も肥料も素通りしてしまうから、小粒〜細目でそろえて、そのぶん鉢を小さめにするのがコツだよ。

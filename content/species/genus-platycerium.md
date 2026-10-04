@@ -10,7 +10,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/platycerium-placement-guide"
   - "guide/platycerium-grow-light-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "soil/sphagnum-moss-recommended"
   - "review/platycerium-mounting-board-cork"

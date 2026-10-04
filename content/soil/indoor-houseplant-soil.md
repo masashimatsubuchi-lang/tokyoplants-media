@@ -7,7 +7,7 @@ category: "soil"
 tags: ["用土", "室内", "虫対策", "清潔"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/bugs-in-houseplant-soil"
   - "soil/commercial-soil-ingredients"
   - "soil/worm-castings-for-houseplants"

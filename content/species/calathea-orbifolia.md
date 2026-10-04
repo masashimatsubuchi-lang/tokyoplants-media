@@ -15,7 +15,7 @@ relatedSlugs:
   - "research/prayer-plant-nyctinasty-science"
   - "soil/best-soil-for-calathea"
   - "guide/houseplant-pruning-basics"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

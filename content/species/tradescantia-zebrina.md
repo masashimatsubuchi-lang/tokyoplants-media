@@ -10,7 +10,7 @@ genus: "tradescantia"
 relatedSlugs:
   - "species/syngonium-podophyllum"
   - "species/pothos-epipremnum-aureum"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/houseplant-pruning-basics"
   - "review/propagation-station-glass-vase-comparison"
 baseProducts:

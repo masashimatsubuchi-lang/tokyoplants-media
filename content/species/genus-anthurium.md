@@ -12,7 +12,7 @@ author: tokyoplants 編集部
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "species/anthurium-warocqueanum"
   - "species/anthurium-crystallinum"
   - "species/anthurium-clarinervium"

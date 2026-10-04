@@ -8,7 +8,7 @@ tags: ["コンポスト", "生ごみ処理機", "電動", "堆肥", "SDGs", "家
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/home-compost-beginners-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/improve-drainage-for-houseplants"
 baseProducts:

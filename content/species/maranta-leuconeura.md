@@ -10,7 +10,7 @@ relatedSlugs:
   - "species/genus-calathea"
   - "research/prayer-plant-nyctinasty-science"
   - "guide/repotting-houseplants-complete-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/cats-and-houseplants-safety"
 baseProducts:

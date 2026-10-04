@@ -13,7 +13,7 @@ relatedSlugs:
   - "species/pothos-epipremnum-aureum"
   - "species/rhaphidophora-tetrasperma"
   - "guide/pothos-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/hydroculture-complete-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"

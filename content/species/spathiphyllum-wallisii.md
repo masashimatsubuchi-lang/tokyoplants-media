@@ -11,7 +11,7 @@ relatedSlugs:
   - "research/air-purifying-plants"
   - "research/houseplant-fertilizer-guide"
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "species/genus-calathea"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"

@@ -40,7 +40,7 @@ baseProducts:
 
 成功の条件は「ハイドロ根の機能差を前提に段階的に切り替えること」です。いきなり重い市販培養土へ植えると、根が吸水に追いつかず弱ります。次の3点が必須です。
 
-- **通気性・排水性の高い軽い配合土を使う**（[おすすめの土の選び方](/soil/recommended-soil-for-houseplants)／[自分で配合する場合](/soil/how-to-mix-soil-for-houseplants)）
+- **通気性・排水性の高い軽い配合土を使う**（[おすすめの土の選び方](/soil/repotting-soil-guide)／[自分で配合する場合](/soil/how-to-mix-soil-for-houseplants)）
 - **植え替え直後は半日陰で養生し、過湿を絶対に避ける**
 - **2〜4週間は新根の発生を待つ管理に徹する**
 

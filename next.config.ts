@@ -39,6 +39,10 @@ const nextConfig: NextConfig = {
       { source: "/guide/root-rot-recovery-complete-guide", destination: "/guide/root-rot-causes-and-recovery", permanent: true },
       { source: "/guide/summer-houseplant-care", destination: "/guide/summer-houseplant-care-guide", permanent: true },
       { source: "/guide/houseplant-sunburn-causes-and-recovery", destination: "/guide/sunburn-houseplants", permanent: true },
+      // 2026-10-04 soil記事のカニバリ統合。「観葉植物の土 おすすめ」系クエリで
+      // repotting-soil-guide が上位を取る一方、商品リストを持つこちらは11位台で
+      // 機能していなかったため、比較表を統合先へ移して1本にまとめた
+      { source: "/soil/recommended-soil-for-houseplants", destination: "/soil/repotting-soil-guide", permanent: true },
       // 2026-09-09 「おすすめアイテム」ページ新設に伴う統合リダイレクト（内容重複によるカニバリ回避）
       { source: "/review/houseplant-tools-complete-guide", destination: "/items", permanent: true },
       // 2026-09-18 薄い記事・未実施の検証記事の統合に伴う旧URLリダイレクト

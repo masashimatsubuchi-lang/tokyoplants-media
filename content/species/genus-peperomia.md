@@ -8,7 +8,7 @@ tags: ["ペペロミア", "品種"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "species/peperomia-argyreia"
   - "species/peperomia-caperata"

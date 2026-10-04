@@ -15,7 +15,7 @@ relatedSlugs:
   - "species/alocasia-ninja-tricolor"
   - "species/alocasia-silver-dragon"
   - "guide/alocasia-care-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/alocasia-repotting-guide"
   - "guide/alocasia-hydroculture"
 baseProducts:

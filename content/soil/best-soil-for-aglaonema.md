@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/genus-aglaonema"
   - "species/aglaonema-pictum-tricolor"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
@@ -106,7 +106,7 @@ baseProducts:
 - 素材の保管スペースが必要
 <!-- /cards -->
 
-市販品の実売価格を横並びで比べたい場合は[観葉植物におすすめの土](/soil/recommended-soil-for-houseplants)に7製品をまとめています。
+市販品の実売価格を横並びで比べたい場合は[観葉植物におすすめの土](/soil/repotting-soil-guide)に7製品をまとめています。
 
 **避けるべき土：**
 

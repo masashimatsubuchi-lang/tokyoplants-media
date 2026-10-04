@@ -10,7 +10,7 @@ relatedSlugs:
   - "review/leather-botanical-collection"
   - "research/houseplant-lover-gift-ideas"
   - "guide/monstera-care"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"

@@ -11,7 +11,7 @@ relatedSlugs:
   - "species/begonia-maculata"
   - "species/begonia-rex"
   - "species/begonia-snow-capped"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -118,7 +118,7 @@ baseProducts:
 - くん炭 | 1
 <!-- /mix -->
 
-保水の主役はピートモス、通気の主役はパーライトとバーク、くん炭はpH調整と抗菌の役割です。市販のベゴニア専用土もよい選択肢で、[観葉植物用の培養土](/soil/recommended-soil-for-houseplants)を使う場合はパーライトを2〜3割足して通気性を補います。pHは5.5〜6.5の弱酸性を維持します。
+保水の主役はピートモス、通気の主役はパーライトとバーク、くん炭はpH調整と抗菌の役割です。市販のベゴニア専用土もよい選択肢で、[観葉植物用の培養土](/soil/repotting-soil-guide)を使う場合はパーライトを2〜3割足して通気性を補います。pHは5.5〜6.5の弱酸性を維持します。
 
 ### 肥料
 

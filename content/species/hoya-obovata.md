@@ -15,7 +15,7 @@ relatedSlugs:
   - "species/hoya-kerrii"
   - "species/hoya-pubicalyx"
   - "guide/hoya-not-flowering-causes"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
 baseProducts:
   - title: "All plants｜観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

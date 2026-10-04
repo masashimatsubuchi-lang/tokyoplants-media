@@ -8,7 +8,7 @@ tags: ["パーライト", "バーミキュライト", "用土", "土の配合", 
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/how-to-mix-soil-for-houseplants"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/improve-drainage-for-houseplants"
   - "soil/kanuma-soil-for-houseplants"
   - "soil/pumice-hyuga-soil-for-houseplants"
@@ -279,7 +279,7 @@ amazonProducts:
 土の配合についてさらに詳しく知りたい方は、以下の記事もどうぞ。
 
 - [観葉植物の土を自分で配合する方法｜基本の割合と植物別レシピ](/soil/how-to-mix-soil-for-houseplants)
-- [観葉植物の土おすすめ7選](/soil/recommended-soil-for-houseplants)
+- [観葉植物の土おすすめ7選](/soil/repotting-soil-guide)
 - [観葉植物の水はけが悪いときの改善方法](/soil/improve-drainage-for-houseplants)
 - [軽石・日向土の使い方](/soil/pumice-hyuga-soil-for-houseplants)
 - [鹿沼土を観葉植物に使うメリット・デメリット](/soil/kanuma-soil-for-houseplants)

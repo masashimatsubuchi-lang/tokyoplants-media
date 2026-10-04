@@ -15,7 +15,7 @@ relatedSlugs:
   - "species/begonia-maculata"
   - "species/begonia-rex"
   - "species/begonia-ginny-galaxy"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
 baseProducts:
   - title: "ベゴニア / Begonia｜tokyoplants"

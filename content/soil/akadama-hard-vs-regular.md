@@ -8,7 +8,7 @@ tags: ["赤玉土", "用土", "排水性"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/commercial-soil-ingredients"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "soil/reusing-houseplant-soil"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/how-to-trim-roots-when-repotting"

@@ -8,7 +8,6 @@ tags: ["排水性", "根腐れ", "用土", "植え替え"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "soil/repotting-soil-guide"
-  - "soil/recommended-soil-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
   - "guide/no-drainage-hole-pot-guide"
 baseProducts:

@@ -17,7 +17,7 @@ relatedSlugs:
   - "species/alocasia-silver-dragon"
   - "species/alocasia-heart-balloon"
   - "guide/alocasia-care-guide"
-  - "soil/recommended-soil-for-houseplants"
+  - "soil/repotting-soil-guide"
   - "guide/alocasia-repotting-guide"
 baseProducts:
   - title: "アロカシアの商品一覧"
