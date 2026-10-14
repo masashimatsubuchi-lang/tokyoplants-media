@@ -76,7 +76,23 @@ export interface Post extends PostMeta {
   contentHtml: string;
 }
 
+/**
+ * カテゴリ別の記事メタのキャッシュ。
+ *
+ * ⚠️ これを外すとVercelのビルドが落ちる（2026-10-15）。
+ * タグ一覧ページは `getAllTags()` + タグ数ぶんの `getPostsByTag()` を呼ぶため、
+ * 1ページ描画するだけで全記事スキャンが681回・gray-matterのパースが38万回走っていた。
+ * ローカルは11ワーカーで通っていたが、Vercelのビルドは1ワーカーで、
+ * `/tags` と `/tag/[tag]` が「60秒を超えた」として3回リトライのうえ失敗していた。
+ *
+ * content配下はビルド時にもランタイムにも書き換わらないので、プロセス内で使い回してよい。
+ */
+const postsByCategoryCache = new Map<CategorySlug, PostMeta[]>();
+
 export function getPostsByCategory(category: CategorySlug): PostMeta[] {
+  const cached = postsByCategoryCache.get(category);
+  if (cached) return cached;
+
   const dir = path.join(contentDirectory, category);
   if (!fs.existsSync(dir)) return [];
 
@@ -110,12 +126,21 @@ export function getPostsByCategory(category: CategorySlug): PostMeta[] {
     } satisfies PostMeta;
   });
 
-  return posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+  const sorted = posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+  postsByCategoryCache.set(category, sorted);
+  return sorted;
 }
 
+const ALL_CATEGORIES: CategorySlug[] = ["guide", "soil", "research", "review", "species"];
+
+let allPostsCache: PostMeta[] | null = null;
+
 export function getAllPosts(): PostMeta[] {
-  const categories: CategorySlug[] = ["guide", "soil", "research", "review", "species"];
-  return categories.flatMap((c) => getPostsByCategory(c)).sort((a, b) => (a.date > b.date ? -1 : 1));
+  if (allPostsCache) return allPostsCache;
+  allPostsCache = ALL_CATEGORIES.flatMap((c) => getPostsByCategory(c)).sort((a, b) =>
+    a.date > b.date ? -1 : 1
+  );
+  return allPostsCache;
 }
 
 /** authorId未指定の記事はDEFAULT_AUTHOR_SLUGの記事として扱う（src/lib/authors.ts参照） */
@@ -181,17 +206,32 @@ export function getSameCategoryPosts(category: CategorySlug, excludeSlug: string
 /**
  * タグから記事一覧を取得
  */
+/** タグ→記事の索引。タグ一覧ページがタグ数ぶん全記事を走査しないよう一度だけ作る */
+let postsByTagCache: Map<string, PostMeta[]> | null = null;
+
+function getPostsByTagIndex(): Map<string, PostMeta[]> {
+  if (postsByTagCache) return postsByTagCache;
+  const index = new Map<string, PostMeta[]>();
+  for (const post of getAllPosts()) {
+    for (const tag of post.tags ?? []) {
+      const bucket = index.get(tag);
+      if (bucket) bucket.push(post);
+      else index.set(tag, [post]);
+    }
+  }
+  postsByTagCache = index;
+  return index;
+}
+
 export function getPostsByTag(tag: string): PostMeta[] {
-  return getAllPosts().filter((p) => p.tags?.includes(tag));
+  return getPostsByTagIndex().get(tag) ?? [];
 }
 
 /**
  * 全記事からユニークなタグ一覧を取得
  */
 export function getAllTags(): string[] {
-  const tags = new Set<string>();
-  getAllPosts().forEach((p) => p.tags?.forEach((t) => tags.add(t)));
-  return Array.from(tags).sort();
+  return Array.from(getPostsByTagIndex().keys()).sort();
 }
 
 /**
@@ -213,8 +253,7 @@ export function getPostsForHubIndex(
   config: HubIndexConfig,
   selfSlug: string,
 ): { label: string; posts: PostMeta[] }[] {
-  const cats: CategorySlug[] = ["guide", "soil", "research", "review", "species"];
-  const all = cats.flatMap((c) => getPostsByCategory(c));
+  const all = ALL_CATEGORIES.flatMap((c) => getPostsByCategory(c));
   const used = new Set<string>([selfSlug]);
   return config.groups.map((g) => {
     const re = new RegExp(g.match);
