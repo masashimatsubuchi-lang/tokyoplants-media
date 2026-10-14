@@ -14,6 +14,9 @@ relatedSlugs:
   - "species/stephania-erecta"
   - "guide/stephania-kaweesakii-care"
   - "guide/stephania-kaweesakii-complete-guide"
+  - "species/stephania-cephalantha"
+  - "species/stephania-suberosa"
+  - "guide/stephania-dormancy-and-sprouting"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"
@@ -79,7 +82,7 @@ baseProducts:
 
 ### ピエレイ（*S. pierrei*）
 
-塊根がやや扁平で、表面が比較的滑らか。葉がエレクタよりも大きく、深い緑色になる。タイ原産で、現地では薬用としても利用される。流通名の混乱が多く、エレクタとの誤同定が見られる。
+**分類学上はエレクタと同一種**である。*Stephania erecta* Craib（1922年記載）は、より早く記載された *Stephania pierrei* Diels（1910年記載）のシノニム（異名）として扱われており、GBIFでもエレクタは pierrei に統合されている。園芸流通では「エレクタ」と「ピエレイ」が別物のように扱われることがあるが、これは流通上の慣習であり、学名を根拠にした別種の区別ではない。塊根の形や葉の大きさの違いは、産地差・個体差として捉えるのが実態に近い。
 
 ### ヴェノーサ（*S. venosa*）
 
@@ -175,7 +178,7 @@ baseProducts:
 |---|---|---|---|
 | エレクタ | なめらか | 小〜中 | 速い |
 | スベローサ | コルク質 | 中 | 中程度 |
-| ピエレイ | なめらか | 中〜大 | 中程度 |
+| ピエレイ（＝エレクタ） | なめらか | 中〜大 | 中程度 |
 | ヴェノーサ | なめらか | 中 | 遅い |
 | ロツンダ | なめらか〜やや粗 | 大 | 中程度 |
 

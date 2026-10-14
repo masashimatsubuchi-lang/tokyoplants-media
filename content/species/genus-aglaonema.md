@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1683769252800-57c99245048a?w=800&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/365c19e2d86dd78c3fb80e0edd3bb6ca.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "アグラオネマ属とは｜主な品種・育て方・特徴を解説"
 description: "アグラオネマ属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"
@@ -12,13 +12,18 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "species/aglaonema-pictum-tricolor"
   - "guide/repotting-houseplants-complete-guide"
+  - "guide/aglaonema-care-guide"
+  - "species/aglaonema-pictum"
+siblings:
+  - slug: "guide/aglaonema-care-guide"
+    role: "育て方の実務"
+  - slug: "species/genus-aglaonema"
+    role: "図鑑・品種一覧"
 baseProducts:
   - title: "アグラオネマの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
+
 ---
 
 ## アグラオネマ属とは
