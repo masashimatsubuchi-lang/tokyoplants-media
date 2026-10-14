@@ -6,7 +6,15 @@ date: "2026-09-03"
 category: "guide"
 tags: ["モスポール", "支柱", "気根", "誘引", "モンステラ", "フィロデンドロン"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "review/moss-pole-guide"
+    role: "基礎と仕組み"
+  - slug: "guide/moss-pole-usage-guide"
+    role: "設置のやり方"
+  - slug: "review/moss-pole-comparison"
+    role: "製品の比較"
 relatedSlugs:
+  - "review/moss-pole-guide"
   - "review/moss-pole-comparison"
   - "guide/monstera-care"
   - "guide/rhaphidophora-tetrasperma-care"
@@ -20,7 +28,7 @@ baseProducts:
 
 # モスポール（支柱）の使い方｜いつ・どう設置する
 
-モスポールを使うべきタイミングは「株が倒れそうになってから」ではありません。<mark>気根がまだ短いうちに設置するほど活着がスムーズに進み、結果として葉のサイズアップ効果も出やすくなります。</mark>この記事では、モスポールをどのタイミングで設置すべきか、そして育てている株の状態別にどう対応すべきかを中心に解説します。製品ごとのサイズ・価格・レビュー比較は[モスポールおすすめ比較](/review/moss-pole-comparison)にまとめているので、購入前の製品選びはそちらを参考にしてください。
+モスポールを使うべきタイミングは「株が倒れそうになってから」ではありません。<mark>気根がまだ短いうちに設置するほど活着がスムーズに進み、結果として葉のサイズアップ効果も出やすくなります。</mark>この記事では、モスポールをどのタイミングで設置すべきか、そして育てている株の状態別にどう対応すべきかを中心に解説します。そもそもモスポールとは何か、なぜ気根が活着すると葉が大きくなるのかという仕組みは[モスポールとは｜効果とヘゴ棒との違い](/review/moss-pole-guide)に、製品ごとのサイズ・価格・レビュー比較は[モスポールおすすめ比較](/review/moss-pole-comparison)にまとめています。
 
 ## 結論（最初に答え）
 

@@ -3,13 +3,26 @@ image: "https://images.unsplash.com/photo-1475783006851-1d68dd683eff?w=1200&q=80
 title: "観葉植物の育成ライト｜選び方と照射時間の目安"
 description: "育成ライトが必要かの判断から、PPFDでの選び方、置く距離と照射時間、電気代の目安までをまとめました。窓際に移すだけで足りるケースも整理しています。"
 date: "2026-06-08"
-updated: "2026-09-27"
+updated: "2026-10-14"
 category: "research"
 tags:
   - 育成ライト
   - LED
   - 室内栽培
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "research/houseplant-grow-light-guide"
+    role: "基礎と総論"
+  - slug: "guide/normal-led-vs-grow-light"
+    role: "LEDとの違い"
+  - slug: "guide/grow-light-hours-per-day"
+    role: "点灯時間"
+  - slug: "guide/sunlight-replacement-light"
+    role: "日光の代わり"
+  - slug: "review/cheap-grow-light-check"
+    role: "安い製品"
+  - slug: "review/plant-light-review"
+    role: "製品の比較"
 relatedSlugs:
   - "review/plant-light-review"
   - "review/clip-type-grow-light-comparison"
@@ -18,6 +31,10 @@ relatedSlugs:
   - "research/light-intensity-by-window-direction"
   - "guide/leggy-plant-stretching-causes"
   - "research/grow-light-electricity-cost"
+  - "guide/normal-led-vs-grow-light"
+  - "guide/grow-light-hours-per-day"
+  - "guide/sunlight-replacement-light"
+  - "review/cheap-grow-light-check"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -248,9 +265,6 @@ amazonProducts:
 月200〜300円は許容範囲という方が多い一方で、**そもそも窓際に移せるなら、それが最も安い解決策**です。ライトを買う前に「この株を窓から1m以内に動かせないか」を一度検討してください。
 
 移せないからライトを使う、という順番で考えると、無駄な買い物を避けられます。方角別の実際の光量は[窓の向き別の光量](/research/light-intensity-by-window-direction)で確認できます。
-<!-- /callout -->
-
-複数灯を運用する場合や、より細かい試算は[植物育成ライトの電気代](/research/grow-light-electricity-cost)にまとめています（同記事は30円/kWhで試算しているため、本記事の数値とわずかに差があります）。
 
 ---
 
@@ -306,3 +320,5 @@ amazonProducts:
 - 光の症状は**今ある葉では判定しない**。次の新葉を見る
 
 具体的なおすすめ製品の比較は[植物育成ライト おすすめ5選レビュー](/review/plant-light-review)で詳しく解説しています。
+
+個別の疑問には専用の記事を用意しています。手持ちの照明で代用できるかは[普通のLEDで植物は育つ？育成ライトとの違い](/guide/normal-led-vs-grow-light)、点灯時間の決め方は[植物育成ライトは1日何時間つければいい？](/guide/grow-light-hours-per-day)、そもそもどこまでの光量を目指すのかは[日光の代わりになるライトの条件と光の強さ](/guide/sunlight-replacement-light)、予算を抑えたい場合は[安い植物育成ライトは使える？100均・ニトリ・無印](/review/cheap-grow-light-check)をご覧ください。

@@ -6,7 +6,13 @@ date: "2026-09-07"
 category: "guide"
 tags: ["トラブル", "黒い斑点", "しおれ", "低温障害", "育て方"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "guide/black-leaves-causes"
+    role: "黒変の原因全般"
+  - slug: "guide/black-spots-wilting-leaves-checklist"
+    role: "斑点としおれ"
 relatedSlugs:
+  - "guide/black-leaves-causes"
   - "guide/yellow-leaves-houseplants-checklist"
   - "guide/root-rot-causes-and-recovery"
   - "guide/plant-not-recovering-after-repotting"

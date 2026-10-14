@@ -6,7 +6,13 @@ date: "2026-02-17"
 category: "guide"
 tags: ["植え替え", "剪定", "根"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "guide/keep-houseplants-small"
+    role: "サイズ維持の全体"
+  - slug: "guide/repotting-without-upsizing"
+    role: "植え替えの手順"
 relatedSlugs:
+  - "guide/keep-houseplants-small"
   - "guide/how-to-trim-roots-when-repotting"
   - "soil/repotting-soil-guide"
 baseProducts:
@@ -17,7 +23,7 @@ baseProducts:
 
 「観葉植物を育てているけど、これ以上大きくなったら置き場所がない」「今のサイズが気に入っているから維持したい」——こうした悩みを持つ方は多いです。
 
-通常の植え替えは一回り大きい鉢に移しますが、サイズを維持したい場合は「根を切り詰めて同じ鉢に戻す」方法で対応できます。この記事では、植物を健康に保ちながらサイズをコントロールする具体的な手順を解説します。
+通常の植え替えは一回り大きい鉢に移しますが、サイズを維持したい場合は「根を切り詰めて同じ鉢に戻す」方法で対応できます。この記事では、植物を健康に保ちながらサイズをコントロールする具体的な手順を解説します。剪定・肥料・鉢の選び方までを含めた「大きくしないための管理全体」は[大きくしたくない観葉植物の育て方](/guide/keep-houseplants-small)にまとめています。
 
 ---
 

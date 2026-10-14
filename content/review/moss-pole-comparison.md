@@ -7,7 +7,16 @@ updated: "2026-09-27"
 category: "review"
 tags: ["モスポール", "観葉植物", "モンステラ", "気根", "誘引", "支柱", "着生植物"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "review/moss-pole-guide"
+    role: "基礎と仕組み"
+  - slug: "guide/moss-pole-usage-guide"
+    role: "設置のやり方"
+  - slug: "review/moss-pole-comparison"
+    role: "製品の比較"
 relatedSlugs:
+  - "review/moss-pole-guide"
+  - "guide/moss-pole-usage-guide"
   - "guide/monstera-care"
   - "guide/monstera-hydroculture"
   - "guide/repotting-houseplants-complete-guide"
@@ -35,7 +44,7 @@ amazonProducts:
     price: "¥2,599"
 ---
 
-モンステラやフィロデンドロンが大きくなってくると、株が横に倒れてきたり、気根が宙をさまよって見た目が乱れてきます。「支柱を立てたほうがいいのはわかるけれど、モスポールとヘゴ棒のどちらを選べばいいのか」——この記事はその判断から、サイズ選び・設置・その後の管理までを一本で解決します。
+モンステラやフィロデンドロンが大きくなってくると、株が横に倒れてきたり、気根が宙をさまよって見た目が乱れてきます。「支柱を立てたほうがいいのはわかるけれど、モスポールとヘゴ棒のどちらを選べばいいのか」——この記事はその判断から、サイズ選び・設置・その後の管理までを一本で解決します。モスポールの仕組みや素材ごとの違いをもう少し基礎から知りたい場合は[モスポールとは｜効果とヘゴ棒との違い](/review/moss-pole-guide)を先に読んでください。
 
 <!-- key-facts title="30秒でわかるモスポール選び" -->
 - **役割**：倒伏防止＋**気根を活着させて新葉を大きくする**ための支柱
