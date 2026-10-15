@@ -83,9 +83,7 @@ function ButtonLink({
       <a
         href={appStoreUrl(channel)}
         onClick={() => {
-          // gtag形式だとGTMがパラメータを捨てる。理由は ClickTracker.tsx の send を参照
-          window.dataLayer = window.dataLayer || [];
-          window.dataLayer.push({ event: "app_store_click", channel, in_app: String(inApp) });
+          window.gtag?.("event", "app_store_click", { channel, inApp });
           // 既定動作は止めない。アプリ内ブラウザのときだけ、開けたかどうかを見張る。
           // App Storeが開けば画面は hidden になるので、visible のままなら失敗とみなす。
           if (!inApp) return;

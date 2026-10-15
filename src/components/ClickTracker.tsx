@@ -3,12 +3,12 @@
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
 
-// EC・Amazon・Green Collection への導線クリックと、キャラクター注釈の表示を計測する。
+// EC・Amazon・Green Collection への導線クリックと、キャラクター注釈の表示を
+// GTM／サーバーサイドタグに依存せず、直接 gtag.js（layout.tsx で読み込む G-xxxx）へ送る。
 //
-// ⚠️ 2026-09-22 に「gtag直送にしてsGTMから独立させた」と記録していたが、これは誤りだった。
-// layout.tsx の gtag は dataLayer.push そのもので、GTMと同じ dataLayer を共有している。
-// 送信は今も GTM → サーバーサイドタグ（server-side-tagging-….run.app）を通る。
-// イベント名が届くので正常に見えていただけで、パラメータは落ちていた（下の send を参照）。
+// 背景: 2026-09-14 以降、sGTM エンドポイントの 503 で GTM 経由の click / scroll などの
+// 拡張計測イベントだけが一律に欠損し、EC クリック率が判定不能になった。
+// page_view は直接 gtag 経由で無傷だったため、KPI に使うイベントも同じ経路に載せる。
 //
 // イベント名と主なパラメータ:
 //   ec_click            { placement, link_path, article_slug }   tokyoplants.com（media以外）への遷移
@@ -21,23 +21,13 @@ import { usePathname } from "next/navigation";
 
 const CHARACTER_NOTE_SELECTOR = "[data-character-note]";
 
-/**
- * ⚠️ ここで `gtag()` を呼んではいけない（2026-10-15）。
- *
- * layout.tsx の gtag は `function gtag(){dataLayer.push(arguments)}` でしかなく、
- * GTMコンテナ（GTM-W4B3BGPL）と同じ dataLayer を共有している。gtag形式で積むと
- * パラメータが arguments[2] の入れ子に入り、GTMのGA4イベントタグがそれを読まずに
- * 捨てるため、**イベント名だけが届いてパラメータが全部消える**。
- *
- * 実際の送信内容（修正前）:
- *   /g/collect?…&en=ec_click&ep.event_name=ec_click&ep.x-fb-ck-fbp=…
- *   → placement / link_path / article_slug がどこにも無い
- *
- * イベント数は正しく取れていたので正常に見えてしまい、長く気づけなかった。
- * フラットに積めばGTMのデータレイヤー変数（{{DLV - placement}} など）で素直に読める。
- */
 function send(name: string, params: Record<string, string>) {
   if (typeof window === "undefined") return;
+  if (typeof window.gtag === "function") {
+    window.gtag("event", name, params);
+    return;
+  }
+  // gtag がまだ無い（読み込み前・ブロック時）場合は dataLayer に積んでおく
   window.dataLayer = window.dataLayer || [];
   window.dataLayer.push({ event: name, ...params });
 }
