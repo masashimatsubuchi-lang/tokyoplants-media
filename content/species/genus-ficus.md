@@ -16,6 +16,8 @@ relatedSlugs:
   - "guide/umbellata-care"
   - "guide/umbellata-repotting-guide"
   - "guide/root-rot-causes-and-recovery"
+  - "species/ficus-audrey"
+  - "soil/best-soil-for-ficus"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
@@ -86,7 +88,7 @@ baseProducts:
 
 ### ベンガレンシス（ベンガルゴム）（*F. benghalensis*）
 
-楕円形の厚い葉に白い葉脈が浮き出る。インドの国樹で、自然環境では気根を張り巡らす巨大な樹木になる。室内では落ち着いた存在感のある大型観葉植物として人気。
+楕円形の厚い葉に白い葉脈が浮き出る。インドの国樹で、自然環境では気根を張り巡らす巨大な樹木になる。室内では落ち着いた存在感のある大型観葉植物として人気。なお、近年流通が増えた「フィカス・オードリー」は本種から選抜された栽培品種（*F. benghalensis* 'Audrey'）で、管理の勘所は[フィカス・オードリーの育て方](/species/ficus-audrey)にまとめている。
 
 ### ベンジャミン（*F. benjamina*）
 
@@ -126,7 +128,7 @@ baseProducts:
 
 ### 土
 
-排水性と保水性のバランスが取れた観葉植物用土が適する。大型種は重めの土（赤玉土多め）で安定性を確保する。
+排水性と保水性のバランスが取れた観葉植物用土が適する。大型種は重めの土（赤玉土多め）で安定性を確保する。ゴムの木・ウンベラータ・ベンガレンシスなど種類別の配合比と市販品の選び分けは[フィカスの土おすすめと配合レシピ](/soil/best-soil-for-ficus)で解説している。
 
 ### 肥料
 

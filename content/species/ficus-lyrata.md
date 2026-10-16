@@ -13,6 +13,7 @@ relatedSlugs:
   - "species/ficus-umbellata"
   - "species/genus-ficus"
   - "species/ficus-elastica"
+  - "species/ficus-audrey"
   - "guide/umbellata-care"
   - "guide/umbellata-repotting-guide"
   - "guide/root-rot-causes-and-recovery"
@@ -75,6 +76,8 @@ baseProducts:
 | インテリアの雰囲気 | 力強さ・ボタニカル | 柔らかさ・ナチュラル | モダン・スタイリッシュ |
 
 リラータは3種の中で最も環境変化に敏感だが、その「大判葉の力強さ」という個性は他の2種では代替できない。「部屋の主役となる大型観葉植物が1本欲しい」という場合に、リラータ特有の価値がある。
+
+大判葉の存在感は欲しいが落葉しやすさが不安、という場合は、ベンガルゴムの栽培品種である[フィカス・オードリー](/species/ficus-audrey)も選択肢になる。葉の形は波打たない楕円形で、環境変化への耐性はリラータより高めとされる。
 
 ---
 

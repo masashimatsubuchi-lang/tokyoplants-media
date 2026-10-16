@@ -15,6 +15,9 @@ relatedSlugs:
   - "soil/best-soil-for-alocasia"
   - "soil/best-soil-for-umbellata"
   - "species/cojoba-arborea-everfresh"
+  - "soil/when-to-replace-soil"
+  - "soil/reusing-houseplant-soil"
+  - "soil/soil-amount-for-planters"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -189,7 +192,7 @@ baseProducts:
 | 4月・8〜9月 | ○ OK | 真夏は午後の作業を避ける |
 | 11〜3月 | × NG | 15℃以下では根の回復が極端に遅い |
 
-次のサインが出たら植え替えどきです：鉢底から根が出ている／水やりしても土の表面に水が染み込まない／1〜2年以上植え替えていない／成長期なのに就眠の動きが弱く葉の展開がない。
+次のサインが出たら植え替えどきです：鉢底から根が出ている／水やりしても土の表面に水が染み込まない／1〜2年以上植え替えていない／成長期なのに就眠の動きが弱く葉の展開がない。土そのものの劣化を見るポイントや、全交換と表土交換（増し土）の使い分けは[観葉植物の土の入れ替え時期と方法](/soil/when-to-replace-soil)にまとめています。
 
 <!-- steps title="植え替えの手順" -->
 1. **土を乾かす**：2〜3日前から水やりを止める。細根は濡れた状態での作業でダメージを受けやすい
@@ -202,6 +205,8 @@ baseProducts:
 <!-- /steps -->
 
 [植え替えの完全ガイドはこちら](/guide/repotting-houseplants-complete-guide)
+
+鉢の号数から必要な土の量をざっくり出しておくと、買い足しや余りを減らせます。目安は[観葉植物の鉢に必要な土の量](/soil/soil-amount-for-planters)にまとめました。落とした古い土を捨てずに使いたい場合は、[観葉植物の土は再利用できる？](/soil/reusing-houseplant-soil)で再生できる条件とNGケースを確認してください。
 
 ---
 

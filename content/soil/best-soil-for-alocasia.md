@@ -16,6 +16,9 @@ relatedSlugs:
   - "soil/houseplant-soil-hub-guide"
   - "soil/best-soil-for-everfresh"
   - "soil/best-soil-for-umbellata"
+  - "soil/when-to-replace-soil"
+  - "soil/reusing-houseplant-soil"
+  - "soil/soil-amount-for-planters"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -205,7 +208,7 @@ HYDRO MINERAL 単体での使用も可能です。鉢底に少量のゼオライ
 | 4月・7〜8月 | ○ OK | 高温期は午後を避ける |
 | 11〜3月 | × NG | 休眠期。根腐れリスクが急増する |
 
-次のサインが出たら植え替えどきです：鉢底から根がはみ出す／水やりしても水が浸透しない／2年以上植え替えていない／土の表面から根が浮き出る／成長期なのに葉が増えない。
+次のサインが出たら植え替えどきです：鉢底から根がはみ出す／水やりしても水が浸透しない／2年以上植え替えていない／土の表面から根が浮き出る／成長期なのに葉が増えない。サインの見分け方と、全交換・表土だけ替える（増し土）の使い分けは[観葉植物の土の入れ替え時期と方法](/soil/when-to-replace-soil)で詳しく整理しています。
 
 <!-- callout type="tip" title="鉢選びも「排水性」の一部" -->
 同じ土でも鉢が変われば乾き方は変わります。アロカシアには**素焼き鉢（テラコッタ）やスリット鉢**のように側面・底から空気と水が抜ける鉢が向きます。逆に、排水穴のない鉢カバーに入れっぱなしにすると鉢底に水が溜まり、どれだけ良い土を使っても根腐れします。受け皿に溜まった水は必ず捨ててください。
@@ -223,6 +226,8 @@ HYDRO MINERAL 単体での使用も可能です。鉢底に少量のゼオライ
 <!-- /steps -->
 
 [植え替えの完全ガイドはこちら](/guide/repotting-houseplants-complete-guide)
+
+落とした古い土をどうするかは、条件によって判断が分かれます。再生できるケース・再利用してはいけないケースの線引きは[観葉植物の土は再利用できる？](/soil/reusing-houseplant-soil)にまとめています。また、買う量で迷ったときは鉢の号数別の必要量を一覧にした[観葉植物の鉢に必要な土の量](/soil/soil-amount-for-planters)が目安になります。
 
 ---
 

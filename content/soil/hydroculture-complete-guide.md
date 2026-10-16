@@ -21,6 +21,7 @@ relatedSlugs:
   - "guide/hydroculture-to-soil-transition"
   - "guide/root-rot-causes-and-recovery"
   - "guide/hydroculture-winter-care"
+  - "species/spathiphyllum-wallisii"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -499,6 +500,8 @@ HYDRO MINERALは、tokyoplantsが開発した**ハイドロカルチャー専用
 - **難易度**：★★☆
 - **理由**：冬の休眠だけ知っておけばよい
 <!-- /cards -->
+
+土栽培での管理と比べて検討したい場合は、[スパティフィラム（ピースリリー）の育て方完全ガイド](/species/spathiphyllum-wallisii)と[アロカシアの育て方完全ガイド](/guide/alocasia-care-guide)もあわせて確認してください。
 
 ---
 

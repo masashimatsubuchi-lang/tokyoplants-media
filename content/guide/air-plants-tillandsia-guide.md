@@ -10,6 +10,7 @@ relatedSlugs:
   - "research/houseplant-grow-light-guide"
   - "guide/monstera-care"
   - "review/plant-light-review"
+  - "species/tillandsia-xerographica"
 amazonProducts:
   - title: "エアプランツ おまかせ5種類セット（チランジア）"
     asin: "B0CQ754CWP"
@@ -206,6 +207,10 @@ CAM植物のチランジアは逆の戦略をとります。**夜間に気孔を
 - 壁やハンガーに吊るす場合は、束を薄く広げて空気が通るようにする
 - 直射日光が苦手なMesicタイプ寄りの特性があり、明るい日陰が最適
 - 夏の高温多湿では特に腐れやすいため、エアコンの風（直風は避け、間接的な風）で乾燥を促す
+
+### チランジア キセログラフィカ
+
+幅広で肉厚な銀白色の葉が渦を巻くように広がる大型種で、「エアプランツの王様」と呼ばれます。Xericタイプの中でも乾燥耐性が高い一方、渦の中心に水が残りやすく、ソーキング後の水切りと乾燥がカプトメデューサ以上に重要になります。自生環境と管理の詳細は[チランジア・キセログラフィカの育て方](/species/tillandsia-xerographica)で解説しています。
 
 ### 入門セット（複数品種）
 

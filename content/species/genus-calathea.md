@@ -13,6 +13,7 @@ relatedSlugs:
   - "soil/best-soil-for-calathea"
   - "guide/root-rot-causes-and-recovery"
   - "guide/cats-and-houseplants-safety"
+  - "species/calathea-white-fusion"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -52,8 +53,11 @@ baseProducts:
 | メダリオン | *C. veitchiana* 'Medallion' | 葉面にメダリオン状の模様・流通量が多い | 初〜中級 |
 | ビューラックス（ホワイトスター） | *C. majestica* 'White Star' | 緑葉にクリーム〜ピンクの細い縞 | 中〜上級 |
 | オルナータ | *C. ornata* | 濃緑葉に白〜ピンクのピンストライプ模様 | 中〜上級 |
+| [ホワイトフュージョン](/species/calathea-white-fusion) | *C. lietzei* 'White Fusion' | 白・クリーム・緑が入り混じる大理石模様の斑入り | 上級 |
 
 <mark>初心者にはランキフォリア・フレディ・ルフィバルバが比較的育てやすい。オービフォリアは葉が大きく存在感があり人気が高いが、水道水の塩素に敏感なため、汲み置き水や浄水の使用が推奨される。</mark>
+
+逆に最も難易度が高いのが斑入りの[カラテア・ホワイトフュージョン](/species/calathea-white-fusion)で、白い部分に葉緑素がほとんど含まれず光合成を担えないため、緑の面積が少ない株ほど環境の揺らぎに弱くなる。
 
 ---
 

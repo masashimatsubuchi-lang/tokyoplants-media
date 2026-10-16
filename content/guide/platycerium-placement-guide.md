@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/platycerium-watering-guide"
   - "species/genus-platycerium"
   - "species/platycerium-bifurcatum"
+  - "species/platycerium-ridleyi"
   - "review/platycerium-mounting-board-cork"
 baseProducts:
   - title: "観葉植物の商品一覧"
@@ -190,7 +191,7 @@ baseProducts:
 | ウィリンキー | 10℃程度 | 10℃を下回る予報が出たら確実に取り込む |
 | リドレイ／エレファントティス | 15℃以上が必要 | 最低気温が15℃を切り始める9月下旬〜10月上旬 |
 
-※品種ごとの詳細は **[ビカクシダ属図鑑ページ](/species/genus-platycerium)**、ビフルカツムの管理は **[ビカクシダ・ビフルカツム](/species/platycerium-bifurcatum)** を参照してください。
+※品種ごとの詳細は **[ビカクシダ属図鑑ページ](/species/genus-platycerium)**、ビフルカツムの管理は **[ビカクシダ・ビフルカツム](/species/platycerium-bifurcatum)**、15℃を下回らせたくないリドレイの管理は **[ビカクシダ・リドレイ](/species/platycerium-ridleyi)** を参照してください。
 
 ### 夏の暑さ対策
 

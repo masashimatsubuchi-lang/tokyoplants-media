@@ -13,6 +13,9 @@ relatedSlugs:
   - "soil/how-to-mix-soil-for-houseplants"
   - "guide/alocasia-yellow-leaves"
   - "species/alocasia-sanderiana"
+  - "species/alocasia-amazonica"
+  - "species/alocasia-dragon-scale"
+  - "species/alocasia-frydek"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -292,7 +295,7 @@ ASPCA（米国動物虐待防止協会）はアロカシア属を**犬・猫・�
 - 注意：葉柄が長く倒れやすい。鉢は重めを選ぶ
 <!-- /cards -->
 
-ベルベット質の葉を持つ小型種（ブラックベルベット・シルバードラゴン・アズラニーなど）は「ジュエルアロカシア」と総称され、通常種より根が細く過湿への耐性が低いグループです。違いは[ジュエルアロカシアの品種比較](/guide/jewel-alocasia-types-comparison)で整理しています。各品種の詳細は図鑑記事（例：[アロカシア・サンデリアーナ](/species/alocasia-sanderiana)）もあわせてご覧ください。
+ベルベット質の葉を持つ小型種（ブラックベルベット・シルバードラゴン・アズラニーなど）は「ジュエルアロカシア」と総称され、通常種より根が細く過湿への耐性が低いグループです。違いは[ジュエルアロカシアの品種比較](/guide/jewel-alocasia-types-comparison)で整理しています。上で取り上げた品種の詳細は、[アロカシア・アマゾニカの育て方](/species/alocasia-amazonica)、[アロカシア・ドラゴンスケールの育て方](/species/alocasia-dragon-scale)、[アロカシア・サンデリアーナの育て方](/species/alocasia-sanderiana)の各図鑑記事で解説しています。緑地に白い葉脈が走るベルベット系を探している場合は[アロカシア・フライデックの育て方](/species/alocasia-frydek)もあわせてご覧ください。
 
 ---
 

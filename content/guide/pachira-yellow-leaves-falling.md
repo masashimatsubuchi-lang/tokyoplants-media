@@ -214,7 +214,7 @@ baseProducts:
 
 ---
 
-パキラの育て方全般（水やり・置き場所・剪定・植え替え）は[パキラの育て方｜初心者でも枯らさないコツ](/guide/pachira-care)で解説しています。土の選び方は[パキラの土おすすめ5選【2026年】](/soil/best-soil-for-pachira)、根腐れの詳しい復活手順は[観葉植物が根腐れする原因と復活方法](/guide/root-rot-causes-and-recovery)をあわせてご覧ください。
+パキラの育て方全般（水やり・置き場所・剪定・植え替え）は[パキラの育て方｜初心者でも枯らさないコツ](/guide/pachira-care)で解説しています。土の選び方は[パキラの土おすすめ5選【2026年】](/soil/best-soil-for-pachira)、根腐れの詳しい復活手順は[観葉植物が根腐れする原因と復活方法](/guide/root-rot-causes-and-recovery)をあわせてご覧ください。同じ部屋の他の鉢でも黄変が起きているなら、種類を問わず水やり・光・根・肥料・害虫の5軸で原因を切り分ける[観葉植物の葉が黄色い原因チェック](/guide/yellow-leaves-houseplants-checklist)が役立ちます。
 
 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』は排水性・通気性・清潔さを重視した配合で、パキラの根腐れ予防にも役立ちます。
 

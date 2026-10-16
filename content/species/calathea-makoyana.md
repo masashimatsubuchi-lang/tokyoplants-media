@@ -11,6 +11,7 @@ relatedSlugs:
   - "species/genus-calathea"
   - "species/calathea-orbifolia"
   - "species/calathea-lancifolia"
+  - "species/calathea-white-fusion"
   - "soil/best-soil-for-calathea"
   - "guide/pebble-tray-humidity-guide"
   - "guide/cats-and-houseplants-safety"
@@ -59,7 +60,7 @@ baseProducts:
 
 ## 代表種との違い
 
-カラテア属には模様や丈夫さの異なる多数の品種が流通している。マコヤナは、丸く大きな葉に銀緑色の縞模様が入る[カラテア・オービフォリア](/species/calathea-orbifolia)や、細長い葉に斑点模様が入る[カラテア・ランキフォリア](/species/calathea-lancifolia)と比べても、模様の密度・複雑さが際立って高いのが特徴である。その反面、乾燥や水質の変化に対する感受性もやや高く、カラテア属の中では中級者向けとされることが多い。属全体の代表品種比較は[カラテア属とは｜人気品種・育て方](/species/genus-calathea)でまとめて解説している。
+カラテア属には模様や丈夫さの異なる多数の品種が流通している。マコヤナは、丸く大きな葉に銀緑色の縞模様が入る[カラテア・オービフォリア](/species/calathea-orbifolia)や、細長い葉に斑点模様が入る[カラテア・ランキフォリア](/species/calathea-lancifolia)と比べても、模様の密度・複雑さが際立って高いのが特徴である。その反面、乾燥や水質の変化に対する感受性もやや高く、カラテア属の中では中級者向けとされることが多い。さらに難易度が上がるのが、白・クリーム・緑の大理石模様が入る斑入り品種の[カラテア・ホワイトフュージョン](/species/calathea-white-fusion)で、白い部分に葉緑素がほとんどないぶん株全体の光合成量が落ち、マコヤナ以上に環境を安定させる必要がある。属全体の代表品種比較は[カラテア属とは｜人気品種・育て方](/species/genus-calathea)でまとめて解説している。
 
 ## 育て方
 

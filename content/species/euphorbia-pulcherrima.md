@@ -8,6 +8,7 @@ tags: ["ポインセチア", "トウダイグサ科", "冬の管理", "クリス
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "research/christmas-gift-houseplant-lover"
+  - "research/christmas-tree-alternative-houseplants"
   - "guide/winter-watering-houseplants"
   - "guide/winter-placement-room-map"
   - "guide/cats-and-houseplants-safety"
@@ -241,4 +242,4 @@ baseProducts:
 2. **冬の管理は温度がすべて。** 日中15〜21℃・夜間13℃前後、10℃を割らせない。昼は窓辺、夜は部屋の中央へ、という一日単位の移動が効きます。
 3. **翌年赤くするには10月からの短日処理。** 毎晩14時間の完全な暗黒を8〜10週間。少しの光漏れでも色づきは止まります。
 
-同じユーフォルビア属では[ミルクブッシュ（*Euphorbia tirucalli*）](/species/euphorbia-tirucalli)が乳液を持つ点で共通しますが、管理は乾燥寄りで大きく異なります。冬の贈り物として植物を選ぶ際の考え方は[観葉植物好きへのクリスマスギフト](/research/christmas-gift-houseplant-lover)を参照してください。tokyoplantsの[観葉植物の商品一覧](https://www.tokyoplants.com/categories/6382090)もあわせてご覧ください。
+同じユーフォルビア属では[ミルクブッシュ（*Euphorbia tirucalli*）](/species/euphorbia-tirucalli)が乳液を持つ点で共通しますが、管理は乾燥寄りで大きく異なります。冬の贈り物として植物を選ぶ際の考え方は[観葉植物好きへのクリスマスギフト](/research/christmas-gift-houseplant-lover)、ポインセチアと合わせて部屋全体をクリスマス仕様にしたい場合は[クリスマスツリー代わりの観葉植物ランキング](/research/christmas-tree-alternative-houseplants)を参照してください。tokyoplantsの[観葉植物の商品一覧](https://www.tokyoplants.com/categories/6382090)もあわせてご覧ください。

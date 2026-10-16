@@ -11,6 +11,7 @@ relatedSlugs:
   - "species/genus-calathea"
   - "species/calathea-makoyana"
   - "species/calathea-lancifolia"
+  - "species/calathea-white-fusion"
   - "species/maranta-leuconeura"
   - "research/prayer-plant-nyctinasty-science"
   - "soil/best-soil-for-calathea"
@@ -111,6 +112,7 @@ baseProducts:
 | [マコヤナ](/species/calathea-makoyana) | 楕円で葉が薄く、細かい羽状模様が透ける | 中（草丈60cm） | ★★★☆☆ | 葉が薄い分、乾燥のダメージが早く出る |
 | ロゼオピクタ | 楕円・艶あり。ピンク〜赤のラインが入る | 中（草丈50cm） | ★★★☆☆ | 品種が非常に多い。発色は光量次第 |
 | [ランキフォリア](/species/calathea-lancifolia) | 細長い披針形・葉縁が波打つ・暗緑の斑点 | 中（草丈70cm） | ★★☆☆☆ | カラテアの中では乾燥に強く入門向き |
+| [ホワイトフュージョン](/species/calathea-white-fusion) | 白・クリーム・緑の大理石模様（斑入り） | 小〜中 | ★★★★☆ | 白い部分が光合成を担えず、環境の揺らぎに弱い |
 
 <!-- callout type="tip" title="最初の一株にオービフォリアを選ぶなら" -->
 オービフォリアは「カラテア入門種」として紹介されがちですが、葉が大きい＝蒸散量が多いぶん、**乾燥した部屋では他のカラテアより早く症状が出ます**。加湿の当てがない環境なら、まず[ランキフォリア](/species/calathea-lancifolia)で感覚をつかんでから迎えるほうが失敗しません。属全体の性格は[カラテア属の解説](/species/genus-calathea)にまとめています。

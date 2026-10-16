@@ -22,6 +22,8 @@ relatedSlugs:
   - "research/temperature-and-houseplant-growth"
   - "research/humidity-and-leaf-damage-thresholds"
   - "research/houseplant-grow-light-guide"
+  - "research/philodendron-species-list"
+  - "research/anthurium-species-list"
 baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -624,6 +626,8 @@ baseProducts:
 - [ストレリチア属とは｜主な品種・育て方・特徴を解説](/species/genus-strelitzia)
 
 温度管理・湿度管理そのものについてさらに詳しく知りたい場合は、[観葉植物と気温の関係](/research/temperature-and-houseplant-growth)、[湿度不足による葉のダメージのしきい値](/research/humidity-and-leaf-damage-thresholds)もあわせて参考にしてほしい。
+
+また、本記事の一覧には交配品種（*Philodendron* 'Birkin' など）も含まれているため、「この名前は学名なのか品種名なのか」を切り分けたい場面が出てくる。属ごとにKew POWOの受理種を整理した[フィロデンドロン属 全種一覧](/research/philodendron-species-list)、[アンスリウム属 全種一覧](/research/anthurium-species-list)、[アロカシア属 全種一覧](/research/alocasia-species-list)、[モンステラ属 全種一覧](/research/monstera-species-list)では、流通名と学名の対応関係を確認できる。
 
 ---
 

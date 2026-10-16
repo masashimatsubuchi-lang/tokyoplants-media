@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "research/houseplant-grow-light-guide"
   - "guide/sunlight-replacement-light"
+  - "species/aspidistra-elatior"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -82,7 +83,9 @@ baseProducts:
 |----------|--------------|-------------------|
 | 強い光を好む | サンスベリア、多くのフィカス、アガベ、サボテン | 南〜東向きの窓辺。夏はレース越し |
 | 明るい間接光を好む | モンステラ、ポトス、アンスリウム、フィロデンドロン | 東〜南向きの窓から1m以内、レース越し |
-| 低光量でも維持できる | ハラン、アグラオネマ、ザミオクルカス | 北向きの窓辺でも可。ただし成長は遅くなる |
+| 低光量でも維持できる | [ハラン](/species/aspidistra-elatior)、アグラオネマ、[ザミオクルカス](/species/zamioculcas-zamiifolia) | 北向きの窓辺でも可。ただし成長は遅くなる |
+
+低光量グループの中でも耐陰性が際立つのがハラン（アスピディストラ）で、林床への適応によって窓から離れた場所でも長期間維持できます。その仕組みと他の耐陰性植物との違いは[ハラン（アスピディストラ）の育て方｜耐陰性最強クラスの理由](/species/aspidistra-elatior)で解説しています。
 
 育成ライトで補光する場合に必要な光量の目安（PPFD）は、[観葉植物にライトは必要？](/research/houseplant-grow-light-guide)で詳しく解説しています。
 

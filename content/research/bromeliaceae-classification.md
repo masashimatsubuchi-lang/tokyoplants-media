@@ -146,6 +146,8 @@ baseProducts:
 - 食用のパイナップル（*A. comosus*）を含む
 <!-- /cards -->
 
+受理種数が最も多い *Tillandsia* のうち、日本で大型種の代表として流通するのが *Tillandsia xerographica* です。中米の乾燥林に自生する種で、育て方は[チランジア・キセログラフィカの育て方](/species/tillandsia-xerographica)にまとめています。
+
 ### 乾燥地・高地に適応したグループ
 
 | 属 | 亜科 | 受理種数 | 特徴 |

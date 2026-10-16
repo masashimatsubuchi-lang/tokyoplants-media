@@ -13,6 +13,7 @@ relatedSlugs:
   - "species/genus-alocasia"
   - "guide/alocasia-care-guide"
   - "guide/alocasia-root-rot-treatment"
+  - "species/alocasia-frydek"
 baseProducts:
   - title: "tokyoplants Alocasia｜アロカシア一覧"
     url: "https://www.tokyoplants.com/categories/6382096"
@@ -82,6 +83,8 @@ baseProducts:
 <mark>最も判別しやすいポイントは葉の大きさと色の濃淡だ。ブラックベルベットより明らかに大きく、メロより明らかに暗い色をしていれば、マハラニである可能性が高い。</mark>ただし流通名の混同や実生選抜のばらつきにより、個体差が大きい点には注意したい。
 
 [ブラックベルベットの詳しい育て方はこちら](/species/alocasia-black-velvet)
+
+同じベルベット質の葉を持つジュエルアロカシアでは、濃い緑の葉に白い葉脈が走る[アロカシア・フライデック](/species/alocasia-frydek)も定番だ。マハラニのようなグレー系の落ち着いた色調ではなく、葉脈のコントラストで見せるタイプで、流通量が多く入手しやすい点も異なる。
 
 ---
 

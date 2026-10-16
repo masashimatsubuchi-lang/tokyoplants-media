@@ -10,6 +10,7 @@ relatedSlugs:
   - "guide/monstera-care"
   - "guide/monstera-brown-spots-on-leaves"
   - "guide/monstera-hydroculture"
+  - "guide/yellow-leaves-houseplants-checklist"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -191,7 +192,7 @@ baseProducts:
 - **下葉が1枚だけゆっくり黄変**：自然な世代交代。心配不要
 - **新葉や複数枚が同時に、または急速に黄変**：過湿・水切れ・光量・肥料・低温・害虫のいずれかを順番に確認
 
-判断に迷ったら鉢から抜いて根を直接確認する習慣をつけましょう。モンステラの葉に茶色い斑点が出ている場合は原因が異なることもあるため、[モンステラの葉に茶色い斑点が出る原因と対処法](/guide/monstera-brown-spots-on-leaves)もあわせて確認してください。日々の育て方全般を見直したい場合は[モンステラの育て方完全ガイド](/guide/monstera-care)、土の虫や過湿が気になる場合は[モンステラをハイドロカルチャーで育てる方法](/guide/monstera-hydroculture)も参考になります。
+判断に迷ったら鉢から抜いて根を直接確認する習慣をつけましょう。モンステラの葉に茶色い斑点が出ている場合は原因が異なることもあるため、[モンステラの葉に茶色い斑点が出る原因と対処法](/guide/monstera-brown-spots-on-leaves)もあわせて確認してください。日々の育て方全般を見直したい場合は[モンステラの育て方完全ガイド](/guide/monstera-care)、土の虫や過湿が気になる場合は[モンステラをハイドロカルチャーで育てる方法](/guide/monstera-hydroculture)も参考になります。モンステラ以外の鉢でも同時に黄変が出ているなら、植物を問わず水やり・光・根・肥料・害虫の5軸で切り分ける[観葉植物の葉が黄色い原因チェック](/guide/yellow-leaves-houseplants-checklist)のほうが原因にたどり着きやすいです。
 
 ---
 

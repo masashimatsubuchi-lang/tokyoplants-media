@@ -14,6 +14,7 @@ relatedSlugs:
   - "review/houseplant-pest-control-tools"
   - "review/fungus-gnat-control-products-comparison"
   - "guide/root-rot-causes-and-recovery"
+  - "review/circulator-for-houseplants-review"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -120,7 +121,7 @@ tokyoplants の **HYDRO MINERAL**はこの配合を採用しており、さら�
 
 ### 通気性を確保する
 
-エアコンの直風は避けつつも、部屋全体の空気が循環していることが大切です。サーキュレーターを弱めに運転して空気を動かすだけで、多湿による虫の発生リスクが下がります。
+エアコンの直風は避けつつも、部屋全体の空気が循環していることが大切です。サーキュレーターを弱めに運転して空気を動かすだけで、多湿による虫の発生リスクが下がります。弱運転でも使いやすい静音モデルの選び方は[観葉植物向けサーキュレーター比較](/review/circulator-for-houseplants-review)にまとめています。
 
 ### 受け皿に水をためない
 

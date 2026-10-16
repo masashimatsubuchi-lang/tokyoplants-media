@@ -19,6 +19,7 @@ relatedSlugs:
   - "review/daily-botanical-towel-review"
   - "guide/gift-plant-first-care"
   - "species/euphorbia-pulcherrima"
+  - "research/christmas-tree-alternative-houseplants"
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
@@ -149,3 +150,5 @@ baseProducts:
 観葉植物好きへのクリスマスプレゼントは、植物そのものより「植物と暮らすためのアイテム」を選ぶのが失敗しないコツです。もし生きた植物を贈るなら、冬ならではの防寒梱包に対応しているかを必ず確認しましょう。
 
 Daily Botanical Towelは、¥2,000で贈れるボタニカルデザインのタオル。枯れる心配がなく、植物好きのインテリアになじみ、毎日使うたびに思い出してもらえる贈り物です。クリスマスギフトに迷ったら、まずこれを選べば間違いありません。
+
+贈る側・迎える側のどちらでも、部屋の飾り付け自体を観葉植物で済ませたい場合は[クリスマスツリー代わりの観葉植物ランキング](/research/christmas-tree-alternative-houseplants)もあわせて参考にしてください。樹形・高さの選び方から、電飾やオーナメントで葉を傷めないコツまで整理しています。

@@ -11,6 +11,8 @@ relatedSlugs:
   - "species/genus-dracaena"
   - "research/houseplant-lover-gift-ideas"
   - "research/birthday-gift-plant-lover"
+  - "research/christmas-tree-alternative-houseplants"
+  - "soil/best-soil-for-dracaena"
 baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
@@ -147,3 +149,5 @@ baseProducts:
 - **品種：** マッサンゲアナ・ワーネッキーなど斑の入り方で選べる
 
 丈夫さと縁起の良さを兼ね備えたドラセナ・フラグランスは、初めての観葉植物としても、大切な人への贈り物としてもおすすめできる一鉢だ。
+
+なお、まっすぐ伸びる幹とボリュームのある葉という樹形から、本種は[クリスマスツリー代わりの観葉植物ランキング](/research/christmas-tree-alternative-houseplants)でも上位に挙げている。電飾やオーナメントで葉を傷めない飾り方はそちらを参照してほしい。用土の選び方は[ドラセナの土おすすめと配合レシピ](/soil/best-soil-for-dracaena)にまとめている。

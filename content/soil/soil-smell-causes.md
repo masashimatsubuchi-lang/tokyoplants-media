@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
   - "soil/repotting-soil-guide"
+  - "review/houseplant-soil-deodorizer-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -230,7 +231,7 @@ baseProducts:
 
 ### 失敗1：消臭剤や芳香剤で匂いを誤魔化す
 
-根本原因を放置すると、根腐れが進行して植物が枯れます。匂いは問題のサインなので、原因を特定して対処してください。
+根本原因を放置すると、根腐れが進行して植物が枯れます。匂いは問題のサインなので、原因を特定して対処してください。原因への対処を済ませたうえで補助的に資材を使いたい場合は、どのタイプが何に効くかを整理した[観葉植物の土の消臭グッズおすすめ比較](/review/houseplant-soil-deodorizer-comparison)を参考にしてください。
 
 ### 失敗2：匂いがしたらすぐに肥料を追加する
 

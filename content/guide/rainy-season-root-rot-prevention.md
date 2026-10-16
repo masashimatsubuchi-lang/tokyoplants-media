@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "soil/lava-rock-for-houseplants"
   - "soil/improve-drainage-for-houseplants"
+  - "review/circulator-for-houseplants-review"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -127,7 +128,7 @@ amazonProducts:
 
 雨が続くと窓を閉め切ることが多く、室内の空気が停滞します。空気が動かない環境は湿度が上がりやすく、土の乾燥も遅くなります。サーキュレーターや扇風機を使って室内の空気を循環させましょう。
 
-ポイントは「植物に直接当てない」こと。強い風が葉に当たり続けると葉が傷みます。床や壁に向けて空気を循環させるイメージで、部屋全体の空気を動かすことを意識してください。1台あるだけで土の乾燥速度が変わり、根腐れリスクが下がります。
+ポイントは「植物に直接当てない」こと。強い風が葉に当たり続けると葉が傷みます。床や壁に向けて空気を循環させるイメージで、部屋全体の空気を動かすことを意識してください。1台あるだけで土の乾燥速度が変わり、根腐れリスクが下がります。風量・静音性・首振り・電気代といった機種選びの観点は[観葉植物向けサーキュレーター比較](/review/circulator-for-houseplants-review)で整理しています。
 
 ### 避けるべき置き場所
 

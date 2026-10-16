@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/genus-dracaena"
   - "guide/leaf-tip-browning-causes"
   - "guide/root-rot-causes-and-recovery"
+  - "soil/best-soil-for-dracaena"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -63,7 +64,7 @@ baseProducts:
 
 ### 初期段階
 
-水やり頻度を見直し、鉢の排水性を改善します。用土が古くなっている場合は、排水性の高い土への植え替えも検討してください。
+水やり頻度を見直し、鉢の排水性を改善します。用土が古くなっている場合は、排水性の高い土への植え替えも検討してください。植え替え先の用土は、コンシンネ・コンパクタなど種類別の条件を整理した[ドラセナの土おすすめと配合レシピ](/soil/best-soil-for-dracaena)から選ぶと失敗しにくくなります。
 
 ### 中期以降
 

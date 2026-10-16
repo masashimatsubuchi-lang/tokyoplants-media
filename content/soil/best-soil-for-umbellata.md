@@ -16,6 +16,7 @@ relatedSlugs:
   - "soil/houseplant-soil-hub-guide"
   - "soil/best-soil-for-alocasia"
   - "soil/best-soil-for-everfresh"
+  - "soil/best-soil-for-ficus"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -276,3 +277,5 @@ siblings:
 - 植え替え後は1〜2週間、半日陰で養生させる
 
 ウンベラータは土選びさえ正しければ、ぐんぐん大きくなる植物です。「なんとなく」の土選びをやめて、排水性と保水性を兼ね備えた用土で大きなハート形の葉を楽しんでください。
+
+なお、ウンベラータはクワ科フィカス属の一種です。ゴムの木（エラスティカ）やベンガレンシスなど他のフィカスも一緒に育てている場合は、属全体で共通する土の条件と配合を整理した[フィカスの土おすすめと配合レシピ](/soil/best-soil-for-ficus)もあわせて参考にしてください。

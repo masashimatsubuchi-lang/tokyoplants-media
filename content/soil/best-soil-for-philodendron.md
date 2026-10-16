@@ -12,6 +12,10 @@ relatedSlugs:
   - "guide/philodendron-for-beginners"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/kunzan-for-houseplants"
+  - "guide/moss-pole-usage-guide"
+  - "soil/when-to-replace-soil"
+  - "soil/reusing-houseplant-soil"
+  - "soil/soil-amount-for-planters"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -71,7 +75,7 @@ baseProducts:
 どちらも共通して「通気性◎」が大前提です。
 
 <!-- callout type="tip" title="蔓性はコケ柱（モスポール）で土の負担が減る" -->
-蔓性のフィロデンドロンは、支柱に**気根を這わせると葉が一気に大型化**します。気根が支柱から水分を取れるようになると鉢の土に依存しなくなるため、結果として土を乾かし気味に管理でき、根腐れのリスクも下がります。「葉が大きくならない」と土ばかり疑う前に、支柱を立てているか確認してみてください。
+蔓性のフィロデンドロンは、支柱に**気根を這わせると葉が一気に大型化**します。気根が支柱から水分を取れるようになると鉢の土に依存しなくなるため、結果として土を乾かし気味に管理でき、根腐れのリスクも下がります。「葉が大きくならない」と土ばかり疑う前に、支柱を立てているか確認してみてください。設置の時期と気根の誘導手順は[モスポール（支柱）の使い方](/guide/moss-pole-usage-guide)で解説しています。
 <!-- /callout -->
 
 ### ベルベット系品種は特に通気重視
@@ -216,7 +220,7 @@ I'm original SOIL は、ヤシガラ繊維や日向石を足してカスタマ�
 | 4月・7〜9月 | ○ OK | 真夏は直射と高温を避ける |
 | 11〜3月 | × NG | 休眠期。根の回復が遅い |
 
-**植え替えのサイン**：鉢底から根が出ている／水やりしても水が浸透しない／新葉の展開が2〜3ヶ月止まっている／蔓性品種で1〜2年以上植え替えていない。
+**植え替えのサイン**：鉢底から根が出ている／水やりしても水が浸透しない／新葉の展開が2〜3ヶ月止まっている／蔓性品種で1〜2年以上植え替えていない。土の劣化そのものを見分ける基準と、全交換・表土交換（増し土）の使い分けは[観葉植物の土の入れ替え時期と方法](/soil/when-to-replace-soil)で解説しています。
 
 <!-- steps title="フィロデンドロンの植え替え" -->
 1. **土を乾かす**：3〜5日前から水やりを止める。乾いた土の方が根を傷めずにほぐせる
@@ -228,7 +232,7 @@ I'm original SOIL は、ヤシガラ繊維や日向石を足してカスタマ�
 7. **半日陰で1〜2週間養生**：直射日光を避け、肥料は与えない
 <!-- /steps -->
 
-植え替え作業の基本は[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)、土の交換時期の考え方は[植え替え用土の選び方](/soil/repotting-soil-guide)も参考にしてください。
+植え替え作業の基本は[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)、土の交換時期の考え方は[植え替え用土の選び方](/soil/repotting-soil-guide)も参考にしてください。鉢の号数から用土の必要量を見積もるときは[観葉植物の鉢に必要な土の量](/soil/soil-amount-for-planters)、落とした古い土の扱いは[観葉植物の土は再利用できる？](/soil/reusing-houseplant-soil)が参考になります。
 
 ---
 

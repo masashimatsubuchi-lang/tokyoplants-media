@@ -19,6 +19,7 @@ relatedSlugs:
   - guide/root-rot-causes-and-recovery
   - soil/improve-drainage-for-houseplants
   - soil/white-particles-in-soil
+  - review/houseplant-soil-deodorizer-comparison
 baseProducts:
   - title: HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地
     url: 'https://www.tokyoplants.com/items/142692278'
@@ -71,6 +72,8 @@ amazonProducts:
 | pHの安定 | 緩衝作用をもつ | 土の酸性化が緩やか | ——（家庭では測らないと分からない） |
 
 いちばん右の列が、この記事でいちばん覚えて帰ってほしい情報です。**ゼオライトは消耗品**で、吸着能力には上限があります。上の「サイン」が出たら、量を増やすのではなく交換する場面だと考えてください。
+
+土の匂いを抑える目的でゼオライトを検討している場合は、スプレータイプの消臭液との使い分けを整理した[観葉植物の土の消臭グッズおすすめ比較](/review/houseplant-soil-deodorizer-comparison)もあわせて確認してください。匂いの種類によって、資材で対応できるものと植え替えが必須のものが分かれます。
 
 ---
 

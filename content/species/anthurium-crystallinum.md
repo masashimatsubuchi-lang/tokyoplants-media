@@ -19,6 +19,7 @@ relatedSlugs:
   - "species/velvet-anthurium-types-comparison"
   - "guide/anthurium-care-for-beginners"
   - "guide/anthurium-summer-rainy-season-care"
+  - "research/anthurium-species-list"
 baseProducts:
   - title: "アンスリウムの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382097"
@@ -91,7 +92,7 @@ siblings:
 
 クリスタリナムは葉脈の美しさを次世代に伝えやすく、アンスリウム交配において最も重要な親株のひとつである。クラリネルビウム × クリスタリナムのハイブリッドは「クリスタリネルビウム」とも呼ばれ、両親の長所——クラリネルビウムの葉の厚みとクリスタリナムの葉脈の輝き——を受け継いだ個体が人気を集めている。
 
-マグニフィカムやフォルゲティとの交配種も多数流通しており、これらの「名なし交配種」の中にもコレクターが垂涎する優れた個体が存在する。純粋な原種個体を求めるなら、購入時に出自の確認が重要となる。
+マグニフィカムやフォルゲティとの交配種も多数流通しており、これらの「名なし交配種」の中にもコレクターが垂涎する優れた個体が存在する。純粋な原種個体を求めるなら、購入時に出自の確認が重要となる。手元のラベルが受理種の学名なのか交配品種名なのかを確かめたいときは、Kew POWO準拠で整理した[アンスリウム属 全種一覧](/research/anthurium-species-list)で照合できる。
 
 ---
 

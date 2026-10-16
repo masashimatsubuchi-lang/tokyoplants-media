@@ -26,6 +26,9 @@ relatedSlugs:
   - "species/alocasia-chantrieri"
   - "species/alocasia-maharani"
   - "species/alocasia-holy-grail"
+  - "research/philodendron-species-list"
+  - "research/anthurium-species-list"
+  - "research/monstera-species-list"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"
@@ -300,3 +303,5 @@ baseProducts:
 分類情報は今後の研究によって更新される可能性があるため、最新の情報は必ず出典元でご確認ください。
 
 アロカシア属の全体的な育て方の基本は[アロカシアの育て方完全ガイド](/guide/alocasia-care-guide)、代表品種の比較は[ジュエルアロカシア品種比較ガイド](/guide/jewel-alocasia-types-comparison)、属全体の特徴は[アロカシア属とは｜主な品種・育て方・特徴を解説](/species/genus-alocasia)で詳しく解説している。
+
+同じ Kew POWO を出典に整理した他のサトイモ科の属については、[フィロデンドロン属 全種一覧](/research/philodendron-species-list)・[アンスリウム属 全種一覧](/research/anthurium-species-list)・[モンステラ属 全種一覧](/research/monstera-species-list)でそれぞれまとめている。属によって受理種数も交配種の扱いも異なるため、読み比べると「学名の確定度」という考え方がつかみやすい。

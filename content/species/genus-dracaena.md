@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/yellow-leaves-houseplants-checklist"
+  - "soil/best-soil-for-dracaena"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -75,7 +76,7 @@ baseProducts:
 
 ### 土
 
-排水性と通気性を重視した培養土が適する。市販の観葉植物用培養土に、パーライトや鹿沼土を2〜3割程度混合すると根腐れを防ぎやすい。ドラセナは根が繊細で過湿に弱いため、水はけの悪い土は根腐れの直接原因になる。
+排水性と通気性を重視した培養土が適する。市販の観葉植物用培養土に、パーライトや鹿沼土を2〜3割程度混合すると根腐れを防ぎやすい。ドラセナは根が繊細で過湿に弱いため、水はけの悪い土は根腐れの直接原因になる。コンシンネ・コンパクタなど種類別の配合比や市販品の選び分けは[ドラセナの土おすすめと配合レシピ](/soil/best-soil-for-dracaena)で詳しく解説している。
 
 ### 肥料
 

@@ -17,6 +17,8 @@ relatedSlugs:
   - "species/genus-sansevieria"
   - "guide/no-bugs-houseplant-growing"
   - "species/chlorophytum-comosum"
+  - "species/euphorbia-tirucalli"
+  - "species/spathiphyllum-wallisii"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -102,6 +104,8 @@ baseProducts:
 **属が分からないときは「真のユリかもしれない」前提で動物病院に相談してください。**
 <!-- /callout -->
 
+スパティフィラムの毒性の詳しい中身と、猫がいる家庭での置き方については[スパティフィラム（ピースリリー）の育て方完全ガイド](/species/spathiphyllum-wallisii)でも触れています。
+
 ### ソテツ（*Cycas revoluta*）
 
 ASPCAはソテツ（サゴパーム）を「Toxic to Dogs, Toxic to Cats, Toxic to Horses」として掲載し、有毒成分に**サイカシン**、臨床症状として「嘔吐、黒色便（メレナ）、黄疸、多飲、出血性胃腸炎、あざ（出血傾向）、血液凝固異常、肝障害、肝不全、死」を明記しています。複数の獣医療機関の解説では、**種子の毒性がとくに高い**ことにも言及されています。
@@ -158,6 +162,8 @@ ASPCAの毒性植物データベースで猫に有毒とされている、日本
 ゴムの木やガジュマルなどフィカス属は、tokyoplants MEDIAの[フィカス・エラスティカの図鑑ページ](/species/ficus-elastica)でも、白い樹液（ラテックス）がペットの消化管刺激・流涎・嘔吐を招く可能性があるとして注意を促しています。**剪定後の枝や床に垂れた樹液を放置しない**ことが実務的なポイントです。
 
 なお、[サンスベリア](/species/genus-sansevieria)や[ドラセナ](/species/genus-dracaena)は「丈夫で初心者向け」として紹介されることが多い植物ですが、猫との同居という観点では有毒側に分類される点に注意してください。
+
+樹液そのものの刺激が強い植物としては、ASPCAが「Pencil Cactus」の名称で犬・猫・馬に有毒と分類している[ミルクブッシュ（ユーフォルビア・ティルカリ）](/species/euphorbia-tirucalli)があります。サトイモ科のシュウ酸カルシウムとは別の仕組みの毒性で、人が扱う際にも手袋が必要なレベルです。
 
 ## ASPCAが非毒性としている植物
 

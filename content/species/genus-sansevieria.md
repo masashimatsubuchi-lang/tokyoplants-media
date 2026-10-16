@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
+  - "species/aspidistra-elatior"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -62,7 +63,7 @@ baseProducts:
 
 ### 光
 
-サンスベリアは耐陰性が強く、日光の少ない室内でも枯れることは少ない。しかし光量が多いほど葉色が鮮やかになり、根の活力も高まる。<mark>明るい間接光〜カーテン越しの弱い直射光が理想で、完全な暗所は避けること。</mark>
+サンスベリアは耐陰性が強く、日光の少ない室内でも枯れることは少ない。しかし光量が多いほど葉色が鮮やかになり、根の活力も高まる。<mark>明るい間接光〜カーテン越しの弱い直射光が理想で、完全な暗所は避けること。</mark>より光の届きにくい場所に置きたい場合は、森林の林床に適応した[ハラン（アスピディストラ）](/species/aspidistra-elatior)のほうが適応しやすい。ただしハランは葉に水を蓄える構造を持たないため、乾燥への強さはサンスベリアに及ばない。
 
 窓のない部屋でも育つが、葉が徐々に弱くなり、株がゆっくり衰退する。照明（育成ライト）を補助的に使うと状態を維持しやすい。
 
