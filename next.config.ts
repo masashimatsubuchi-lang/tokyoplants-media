@@ -39,6 +39,13 @@ const nextConfig: NextConfig = {
       { source: "/guide/root-rot-recovery-complete-guide", destination: "/guide/root-rot-causes-and-recovery", permanent: true },
       { source: "/guide/summer-houseplant-care", destination: "/guide/summer-houseplant-care-guide", permanent: true },
       { source: "/guide/houseplant-sunburn-causes-and-recovery", destination: "/guide/sunburn-houseplants", permanent: true },
+      // 2026-10-17 Search Consoleで404として検出されていたURL。綴り違い・旧命名で
+      // 外部から参照されており、本来の記事に寄せる（いずれも表示1回・クリック0の軽微なもの）
+      { source: "/guide/how-to_trim-roots-when-repotting", destination: "/guide/how-to-trim-roots-when-repotting", permanent: true },
+      { source: "/guide/monstera-light", destination: "/guide/monstera-grow-light-guide", permanent: true },
+      { source: "/guide/plant-not-repotting", destination: "/guide/plant-not-recovering-after-repotting", permanent: true },
+      // 公開前に消したテスト記事。実体は無いがGoogleが拾っているのでカテゴリ一覧へ逃がす
+      { source: "/soil/new-article", destination: "/soil", permanent: true },
       // 2026-10-04 soil記事のカニバリ統合。「観葉植物の土 おすすめ」系クエリで
       // repotting-soil-guide が上位を取る一方、商品リストを持つこちらは11位台で
       // 機能していなかったため、比較表を統合先へ移して1本にまとめた
