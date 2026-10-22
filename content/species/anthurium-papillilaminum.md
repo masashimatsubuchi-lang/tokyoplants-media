@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:
   - "species/anthurium-crystallinum"
-  - "species/anthurium-warocqueanum"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "species/velvet-anthurium-types-comparison"
   - "species/genus-anthurium"
   - "species/anthurium-clarinervium"

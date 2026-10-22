@@ -8,9 +8,7 @@ tags: ["アンスリウム", "梅雨", "夏", "育て方", "ワロクアーナ�
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/anthurium-warocqueanum-care-guide"
-  - "guide/anthurium-warocqueanum-humidity-setup"
   - "guide/rainy-season-houseplant-care"
-  - "species/anthurium-warocqueanum"
 baseProducts:
   - title: "Anthurium Warocqueanum｜アンスリウム・ワロクアーナム"
     url: "https://www.tokyoplants.com/items/94920117"

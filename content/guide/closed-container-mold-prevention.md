@@ -13,7 +13,7 @@ relatedSlugs:
   - "research/terrarium-plants-10"
   - "soil/mold-on-houseplant-soil"
   - "soil/soil-smell-causes"
-  - "guide/anthurium-warocqueanum-humidity-setup"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "soil/mushroom-on-houseplant-soil"
 ---
 

@@ -15,13 +15,10 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "review/plant-light-review"
   - "research/houseplant-grow-light-guide"
-  - "species/anthurium-warocqueanum"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "species/anthurium-regale"
   - "species/anthurium-crystallinum"
   - "species/velvet-anthurium-types-comparison"
-  - "guide/anthurium-warocqueanum-care-guide"
-  - "guide/anthurium-regale-care-guide"
-  - "guide/anthurium-crystallinum-care-guide"
 baseProducts:
   - title: "Anthurium Warocqueanum"
     url: "https://www.tokyoplants.com/categories/6382097"
@@ -83,7 +80,7 @@ amazonProducts:
 |---|---|---|
 | [ルクスリアンス](/species/anthurium-luxurians) | 80〜150 | 低光量に比較的強く、光が少なめでも成長できる |
 | [クリスタリナム](/species/anthurium-crystallinum)・[クラリネルビウム](/species/anthurium-clarinervium)・[フォルゲティ](/species/anthurium-forgetii) | 100〜200 | 標準的な葉ものアンスリウム。育成ライト入門向き |
-| [ワロクアーナム](/species/anthurium-warocqueanum)・[ベイチー](/species/anthurium-veitchii) | 100〜200 | 葉が大きく柔らかい。上から均一に当てるのが重要 |
+| [ワロクアーナム](/guide/anthurium-warocqueanum-care-guide)・[ベイチー](/species/anthurium-veitchii) | 100〜200 | 葉が大きく柔らかい。上から均一に当てるのが重要 |
 | [レガレ](/species/anthurium-regale)・[マグニフィカム](/species/anthurium-magnificum) | 100〜200（マグニフィカムは〜250も可） | 大型ベルベット葉・拡散光を好む |
 | [パピリラミナム](/species/anthurium-papillilaminum)・[ペダトラジアタム](/species/anthurium-pedatoradiatum) | 100〜250 | やや強めの光でも可。ペダトラジアタムは裂け込みの発達に150以上が必要 |
 
@@ -203,11 +200,11 @@ PPFD 100〜200というのは、観葉植物の中でもかなり控えめな数
 
 ### レガレ（*Anthurium regale*）
 
-横に広い大型ベルベット葉が特徴。ワロクアーナムと同じくPPFD 100〜200の拡散光が理想です。葉面が広いぶん光源との距離のムラが出やすいので、パネル型で面を作るか、電球型なら距離を多めに取って拡散させます。詳細は[アンスリウム・レガレの育て方](/guide/anthurium-regale-care-guide)へ。
+横に広い大型ベルベット葉が特徴。ワロクアーナムと同じくPPFD 100〜200の拡散光が理想です。葉面が広いぶん光源との距離のムラが出やすいので、パネル型で面を作るか、電球型なら距離を多めに取って拡散させます。詳細は[アンスリウム・レガレの育て方](/species/anthurium-regale)へ。
 
 ### クリスタリナム・クラリネルビウム
 
-白い葉脈が美しい人気品種。PPFD 100〜200で十分育ちます。比較的扱いやすく、育成ライト導入の最初の1株として向いています。[アンスリウム・クリスタリナムの育て方](/guide/anthurium-crystallinum-care-guide)もあわせてどうぞ。
+白い葉脈が美しい人気品種。PPFD 100〜200で十分育ちます。比較的扱いやすく、育成ライト導入の最初の1株として向いています。[アンスリウム・クリスタリナムの育て方](/species/anthurium-crystallinum)もあわせてどうぞ。
 
 ### ペダトラジアタム
 

@@ -11,7 +11,6 @@ relatedSlugs:
   - "species/anthurium-crystallinum"
   - "species/anthurium-clarinervium"
   - "species/velvet-anthurium-types-comparison"
-  - "guide/anthurium-crystallinum-care-guide"
   - "guide/anthurium-care-for-beginners"
 baseProducts:
   - title: "アンスリウムの商品一覧"
@@ -66,7 +65,7 @@ baseProducts:
 
 <mark>「加湿器なしで葉ものアンスリウムを育てたい」という場合、選ぶべきはクラリネルビウムである。</mark>クリスタリナムは一般的な室内湿度（40〜50%）では葉先の枯れ込みが慢性化しやすく、加湿器やガラスキャビネットの導入がほぼ前提になる。
 
-それぞれの詳しい育て方は[アンスリウム・クリスタリナムの育て方](/species/anthurium-crystallinum)、[アンスリウム・クラリネルビウムの育て方](/species/anthurium-clarinervium)、および[アンスリウム・クリスタリナムの育て方｜銀葉脈を美しく保つ湿度と光](/guide/anthurium-crystallinum-care-guide)で個別に詳しく解説している。
+それぞれの詳しい育て方は[アンスリウム・クリスタリナムの育て方](/species/anthurium-crystallinum)、[アンスリウム・クラリネルビウムの育て方](/species/anthurium-clarinervium)、および[アンスリウム・クリスタリナムの育て方｜銀葉脈を美しく保つ湿度と光](/species/anthurium-crystallinum)で個別に詳しく解説している。
 
 ## 交配種「クリスタリネルビウム」
 

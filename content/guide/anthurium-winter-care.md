@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 appCta: "アンスリウムの冬は湿度と温度の両方が動く時期。水やりの記録と株の変化を並べて見ると、乾燥と過湿の切り分けがしやすくなります。"
 relatedSlugs:
   - "guide/anthurium-care-for-beginners"
-  - "guide/anthurium-warocqueanum-humidity-setup"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "review/winter-humidity-control-humidifier-dehumidifier"
   - "research/winter-heating-and-leaf-dryness-science"
 baseProducts:
@@ -96,7 +96,7 @@ baseProducts:
 | クリスタリナム | 70〜80% | 15℃以上 | 加湿器かガラスキャビネットでの底上げがほぼ必須 |
 | ワロクアーナム | 80%以上 | 15℃以上（推奨18℃以上） | 60%以下で葉先の枯れ込みが止まらない。冬はキャビネット管理が現実的 |
 
-クリスタリナム以上の高湿度が必要な種を、暖房の効いた一般的な部屋で冬越しさせるのは難易度が高いです。ガラスキャビネットや衣装ケースを使った加湿環境の作り方は[ワロクアーナムの湿度環境の作り方](/guide/anthurium-warocqueanum-humidity-setup)を参照してください。
+クリスタリナム以上の高湿度が必要な種を、暖房の効いた一般的な部屋で冬越しさせるのは難易度が高いです。ガラスキャビネットや衣装ケースを使った加湿環境の作り方は[ワロクアーナムの湿度環境の作り方](/guide/anthurium-warocqueanum-care-guide)を参照してください。
 
 <!-- character-note character="shadee" type="warning" -->
 ビロード葉への葉水は、湿度は上がるけれど、夜に葉の上に水滴が残るとそこが冷えて黒いシミになることがあるんだ。冬に葉水をするなら日中の暖かい時間だけ、夕方までに乾く量にとどめてね。湿度を安定させたいなら、葉水より加湿器のほうが確実だよ。

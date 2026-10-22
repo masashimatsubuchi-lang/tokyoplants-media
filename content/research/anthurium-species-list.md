@@ -12,24 +12,20 @@ relatedSlugs:
   - "guide/anthurium-root-rot-causes-and-recovery"
   - "guide/anthurium-summer-rainy-season-care"
   - "guide/anthurium-grow-light-guide"
-  - "guide/anthurium-crystallinum-care-guide"
-  - "guide/anthurium-regale-care-guide"
+  - "species/anthurium-crystallinum"
+  - "species/anthurium-regale"
   - "guide/anthurium-regale-vs-warocqueanum"
   - "guide/anthurium-warocqueanum-care-guide"
-  - "guide/anthurium-warocqueanum-humidity-setup"
   - "species/anthurium-carlablackiae"
   - "species/anthurium-clarinervium"
-  - "species/anthurium-crystallinum"
   - "species/anthurium-crystallinum-vs-clarinervium"
   - "species/anthurium-forgetii"
   - "species/anthurium-luxurians"
   - "species/anthurium-magnificum"
   - "species/anthurium-papillilaminum"
   - "species/anthurium-pedatoradiatum"
-  - "species/anthurium-regale"
   - "species/anthurium-superbum"
   - "species/anthurium-veitchii"
-  - "species/anthurium-warocqueanum"
   - "species/velvet-anthurium-types-comparison"
 baseProducts:
   - title: "アンスリウムの商品一覧"
@@ -107,7 +103,7 @@ baseProducts:
 | *Anthurium regale* | Linden | [育て方図鑑](/species/anthurium-regale) |
 | *Anthurium superbum* | Madison | [育て方図鑑](/species/anthurium-superbum)（近縁種として*A. hookeri*に言及） |
 | *Anthurium veitchii* | Mast. | [育て方図鑑](/species/anthurium-veitchii) |
-| *Anthurium warocqueanum* | T.Moore | [育て方図鑑](/species/anthurium-warocqueanum) |
+| *Anthurium warocqueanum* | T.Moore | [育て方図鑑](/guide/anthurium-warocqueanum-care-guide) |
 
 上記12種で、tokyoplantsが公開している図鑑記事13本のうち12本の主題種をカバーする（crystallinumとclarinervium両種を扱う比較記事1本を含む）。属全体の解説である[アンスリウム属とは｜主な品種・育て方・特徴を解説](/species/genus-anthurium)や、複数の葉ものアンスリウムを横断的に比較する[ベルベット系アンスリウム品種比較](/species/velvet-anthurium-types-comparison)は、特定の1種に対応する記事ではないためこの表には含めていない。
 
@@ -1657,7 +1653,7 @@ baseProducts:
 | 1418 | *Anthurium walujewii* | Regel |
 | 1419 | *Anthurium waramirezii* | Croat |
 | 1420 | *Anthurium warintsense* | Croat |
-| 1421 | ***Anthurium warocqueanum*** | T.Moore（[育て方図鑑あり](/species/anthurium-warocqueanum)） |
+| 1421 | ***Anthurium warocqueanum*** | T.Moore（[育て方図鑑あり](/guide/anthurium-warocqueanum-care-guide)） |
 | 1422 | *Anthurium watermaliense* | L.H.Bailey & Nash |
 | 1423 | *Anthurium wattii* | Croat & D.C.Bay |
 | 1424 | *Anthurium weberbaueri* | Engl. |
@@ -1741,7 +1737,7 @@ Kew POWOのアンスリウム属ページ自体には「Includes 1459 Accepted S
 |--------|-------------|-----------------|-----------------|
 | クリスタリナム | *Anthurium crystallinum* | 受理種そのもの | [育て方図鑑](/species/anthurium-crystallinum) |
 | クラリネルビウム | *Anthurium clarinervium* | 受理種そのもの | [育て方図鑑](/species/anthurium-clarinervium) |
-| ワロクアーナム（クイーン・アンスリウム） | *Anthurium warocqueanum* | 受理種そのもの | [育て方図鑑](/species/anthurium-warocqueanum) |
+| ワロクアーナム（クイーン・アンスリウム） | *Anthurium warocqueanum* | 受理種そのもの | [育て方図鑑](/guide/anthurium-warocqueanum-care-guide) |
 | ヴェイチー（キング・アンスリウム） | *Anthurium veitchii* | 受理種そのもの | [育て方図鑑](/species/anthurium-veitchii) |
 | レガレ | *Anthurium regale* | 受理種そのもの | [育て方図鑑](/species/anthurium-regale) |
 | マグニフィカム | *Anthurium magnificum* | 受理種そのもの | [育て方図鑑](/species/anthurium-magnificum) |

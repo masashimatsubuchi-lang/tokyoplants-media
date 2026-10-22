@@ -39,6 +39,14 @@ const nextConfig: NextConfig = {
       { source: "/guide/root-rot-recovery-complete-guide", destination: "/guide/root-rot-causes-and-recovery", permanent: true },
       { source: "/guide/summer-houseplant-care", destination: "/guide/summer-houseplant-care-guide", permanent: true },
       { source: "/guide/houseplant-sunburn-causes-and-recovery", destination: "/guide/sunburn-houseplants", permanent: true },
+      // 2026-10-22 アンスリウムのguide/species重複を統合。同じ植物に2記事あり、
+      // 「アンスリウムレガレ」(species 5.5位) と「アンスリウム レガレ」(guide 9.9位)
+      // のようにスペースの有無だけが違うクエリで別々に出ていた。
+      // 統合先は実績で決めた（対称性より流入を失わないことを優先）
+      { source: "/species/anthurium-warocqueanum", destination: "/guide/anthurium-warocqueanum-care-guide", permanent: true },
+      { source: "/guide/anthurium-warocqueanum-humidity-setup", destination: "/guide/anthurium-warocqueanum-care-guide", permanent: true },
+      { source: "/guide/anthurium-regale-care-guide", destination: "/species/anthurium-regale", permanent: true },
+      { source: "/guide/anthurium-crystallinum-care-guide", destination: "/species/anthurium-crystallinum", permanent: true },
       // 2026-10-17 Search Consoleで404として検出されていたURL。綴り違い・旧命名で
       // 外部から参照されており、本来の記事に寄せる（いずれも表示1回・クリック0の軽微なもの）
       { source: "/guide/how-to_trim-roots-when-repotting", destination: "/guide/how-to-trim-roots-when-repotting", permanent: true },

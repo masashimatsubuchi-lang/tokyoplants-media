@@ -8,7 +8,7 @@ tags: ["アンスリウム", "コレクター"]
 author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:
-  - "species/anthurium-warocqueanum"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "species/velvet-anthurium-types-comparison"
   - "species/genus-anthurium"
   - "guide/anthurium-care-for-beginners"

@@ -11,7 +11,7 @@ relatedSlugs:
   - "species/genus-anthurium"
   - "species/anthurium-crystallinum"
   - "guide/root-rot-causes-and-recovery"
-  - "species/anthurium-warocqueanum"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "species/anthurium-carlablackiae"
   - "species/velvet-anthurium-types-comparison"
   - "guide/anthurium-care-for-beginners"

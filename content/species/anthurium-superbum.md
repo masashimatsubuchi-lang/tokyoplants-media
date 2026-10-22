@@ -9,7 +9,7 @@ author: "tokyoplants 編集部"
 genus: "anthurium"
 relatedSlugs:
   - "species/anthurium-veitchii"
-  - "species/anthurium-warocqueanum"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "species/anthurium-regale"
   - "guide/anthurium-care-for-beginners"
   - "soil/repotting-soil-guide"

@@ -14,15 +14,14 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "guide/root-rot-causes-and-recovery"
   - "soil/repotting-soil-guide"
-  - "species/anthurium-warocqueanum"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "species/anthurium-crystallinum"
   - "species/anthurium-clarinervium"
   - "species/anthurium-magnificum"
   - "species/anthurium-veitchii"
   - "species/velvet-anthurium-types-comparison"
   - "guide/anthurium-summer-rainy-season-care"
-  - "guide/anthurium-regale-care-guide"
-  - "guide/anthurium-warocqueanum-care-guide"
+  - "species/anthurium-regale"
 baseProducts:
   - title: アンスリウムの商品一覧
     url: 'https://www.tokyoplants.com/categories/6382097'
@@ -136,7 +135,7 @@ baseProducts:
 | [ベイチー](/species/anthurium-veitchii) | 12℃以上 | 18〜30℃ | 60〜80% | ★★☆ |
 | [クリスタリナム](/species/anthurium-crystallinum) | 15℃以上 | 20〜28℃ | 70〜80% | ★★☆ |
 | [マグニフィカム](/species/anthurium-magnificum) | 15℃以上 | 20〜28℃ | 70%以上（理想75〜85%） | ★★★ |
-| [ワロクアーナム](/species/anthurium-warocqueanum) | 15℃以上（推奨18℃） | 18〜26℃ | **80%以上** | ★★★ |
+| [ワロクアーナム](/guide/anthurium-warocqueanum-care-guide) | 15℃以上（推奨18℃） | 18〜26℃ | **80%以上** | ★★★ |
 
 <mark>葉ものに挑戦するなら、**クラリネルビウムから始めるのが最も失敗が少ない**。</mark>厚い革質の葉を持ち、一般的な室内湿度（50〜70%）で形を保てる唯一に近い葉もの種だからだ。ここで「新葉が出るリズム」と「葉先の枯れ込みが出る湿度の境目」を体感してから、クリスタリナム以上へ進むと設備の判断を誤らない。
 

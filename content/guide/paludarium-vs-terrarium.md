@@ -11,7 +11,7 @@ relatedSlugs:
   - "soil/paludarium-substrate-guide"
   - "guide/closed-container-mold-prevention"
   - "research/terrarium-plants-10"
-  - "guide/anthurium-warocqueanum-humidity-setup"
+  - "guide/anthurium-warocqueanum-care-guide"
   - "research/humidity-and-leaf-damage-thresholds"
   - "soil/hydroculture-medium-comparison"
   - "species/fittonia-albivenis"

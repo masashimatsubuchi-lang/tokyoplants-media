@@ -9,10 +9,7 @@ tags: ["アンスリウム", "レガレ", "ワロクアーナム", "比較", "�
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "species/anthurium-regale"
-  - "species/anthurium-warocqueanum"
-  - "guide/anthurium-regale-care-guide"
   - "guide/anthurium-warocqueanum-care-guide"
-  - "guide/anthurium-warocqueanum-humidity-setup"
   - "guide/anthurium-grow-light-guide"
   - "species/velvet-anthurium-types-comparison"
   - "guide/repotting-after-purchase"
@@ -78,7 +75,7 @@ baseProducts:
 
 ## 育成環境の比較表（用土・鉢・光・温度・成長速度）
 
-葉形と湿度以外の項目は、購入前に見落とされがちですが、「自分の部屋で維持できるか」を左右します。数値は各種の図鑑記事（[レガレ](/species/anthurium-regale)・[ワロクアーナム](/species/anthurium-warocqueanum)）と揃えています。
+葉形と湿度以外の項目は、購入前に見落とされがちですが、「自分の部屋で維持できるか」を左右します。数値は各種の図鑑記事（[レガレ](/species/anthurium-regale)・[ワロクアーナム](/guide/anthurium-warocqueanum-care-guide)）と揃えています。
 
 | 項目 | レガレ | ワロクアーナム |
 |---|---|---|
@@ -165,7 +162,7 @@ baseProducts:
 **グロウテント＋本格加湿（湿度80%以上）**
 → どちらも最高の姿を見せる。ワロクアーナムの垂れ下がる大葉が真価を発揮。
 
-ワロクアーナム向けの具体的な設備構成は[ワロクアーナムの湿度環境の作り方](/guide/anthurium-warocqueanum-humidity-setup)を参照してください。
+ワロクアーナム向けの具体的な設備構成は[ワロクアーナムの湿度環境の作り方](/guide/anthurium-warocqueanum-care-guide)を参照してください。
 
 ---
 
