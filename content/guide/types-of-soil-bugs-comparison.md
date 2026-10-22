@@ -89,5 +89,5 @@ baseProducts:
 
 → 関連記事
 - [観葉植物の土に虫が湧く原因と対策｜虫が湧きにくい土の選び方](/soil/bugs-in-houseplant-soil)
-- [ねこチップとは｜メリット・デメリット・使い方を解説](/soil/neko-chip-vs-original-soil)
+- [ねこチップとは｜中身・値段・デメリット](/soil/neko-chip-vs-original-soil)
 - [観葉植物に虫がわかない育て方｜無機培地で清潔に管理するコツ](/guide/no-bugs-houseplant-growing)

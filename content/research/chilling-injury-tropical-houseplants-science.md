@@ -133,7 +133,7 @@ Prasad ら（1994）はトウモロコシの実生を使った研究で、低温
 | 10℃未満 | 多くの熱帯種で低温障害のリスクが高まる | 置き場所を変える。断水気味にする。数日〜1週間は症状の出方を観察 |
 | 5℃前後 | 多くの種で障害が確定的になる。耐寒性の高い種のみ耐える | 保温手段（ヒートマット等）か暖かい部屋への移動が必要 |
 
-種ごとの下限温度は[観葉植物の冬越しと耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)、原産地ごとの適温は[観葉植物417種の原産地・適温・湿度一覧](/research/houseplant-origin-temperature-database)を参照してください。
+種ごとの下限温度は[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)、原産地ごとの適温は[観葉植物417種の原産地・適温・湿度一覧](/research/houseplant-origin-temperature-database)を参照してください。
 
 ### 用土側でできること
 

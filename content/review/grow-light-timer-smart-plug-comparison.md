@@ -205,7 +205,7 @@ amazonProducts:
 
 ### 失敗2：タイマーを入れて満足し、ライトの位置を放置する
 
-タイマーは「時間」の問題は解決しますが、「光の強さ」の問題は解決しません。株が徒長している場合、原因は点灯時間より距離であることがほとんどです。ライトの種類ごとの適正距離は「[植物育成ライト バータイプ おすすめ5選](/review/bar-type-grow-light-comparison)」「[BRIM植物育成ライト徹底比較](/review/brim-grow-light-comparison)」で扱っています。
+タイマーは「時間」の問題は解決しますが、「光の強さ」の問題は解決しません。株が徒長している場合、原因は点灯時間より距離であることがほとんどです。ライトの種類ごとの適正距離は「[植物育成ライト バータイプ おすすめ5選](/review/bar-type-grow-light-comparison)」「[BRIM(ブリム)植物育成ライト3機種を比較](/review/brim-grow-light-comparison)」で扱っています。
 
 ### 失敗3：15分単位のダイヤル式で細かい分割点灯を組もうとする
 
@@ -230,9 +230,9 @@ amazonProducts:
 光の環境を整えたら、次に効いてくるのは土です。光が増えると水の吸い上げも増えるため、水はけの悪い用土だと乾湿のリズムが崩れます。I'm original SOIL（tokyoplantsプレミアム培養土）は室内管理を前提に水はけと保水のバランスを取った配合なので、育成ライトを併用する株の植え替えにも使いやすい構成です。
 
 **関連記事**
-- [植物育成ライト おすすめ5選【2026年】](/review/plant-light-review)
+- [植物育成ライト おすすめ5選](/review/plant-light-review)
 - [植物育成ライト バータイプ おすすめ5選](/review/bar-type-grow-light-comparison)
-- [BRIM(ブリム)植物育成ライト徹底比較](/review/brim-grow-light-comparison)
+- [BRIM(ブリム)植物育成ライト3機種を比較](/review/brim-grow-light-comparison)
 - [クリップ式LED栽培ライト比較｜1鉢だけ育てたい人向け](/review/clip-type-grow-light-comparison)
 - [育成ライトの電気代は月いくら？20Wで180円の目安](/research/grow-light-electricity-cost)
 - [観葉植物にライトは必要？選び方・設置方法・照射時間を解説](/research/houseplant-grow-light-guide)

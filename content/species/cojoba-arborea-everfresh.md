@@ -231,4 +231,4 @@ baseProducts:
 - [エバーフレッシュの土おすすめと配合レシピ｜繊細な根に合う用土の選び方](/soil/best-soil-for-everfresh)
 - [観葉植物の冬の水やり完全ガイド](/guide/winter-watering-houseplants)
 - [カラテア・マランタの葉が閉じる『就眠運動』のしくみ](/research/prayer-plant-nyctinasty-science)
-- [観葉植物の冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)
+- [観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)

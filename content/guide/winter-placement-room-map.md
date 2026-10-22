@@ -26,7 +26,7 @@ baseProducts:
 
 冬の観葉植物は「明るい窓際に置けば安心」と思われがちですが、実際には窓際こそ夜に最も冷える場所です。日中は暖かく光も入るのに、朝になると葉先が黒ずんでいる。あるいは暖房の近くに移したら今度は葉がカサカサに乾く。冬の不調の多くは、植物の問題ではなく「部屋のどこに置いたか」の問題です。
 
-この記事では、部屋を6つの場所に分けて昼と夜の温度傾向を整理し、耐寒性のグループごとに「どこに置くべきか」を地図のように選べるようにしました。植物ごとの最低温度は「[冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」、暖房の乾燥の仕組みは「[暖房の種類と乾燥ダメージ](/research/winter-heating-and-leaf-dryness-science)」に揃えています。
+この記事では、部屋を6つの場所に分けて昼と夜の温度傾向を整理し、耐寒性のグループごとに「どこに置くべきか」を地図のように選べるようにしました。植物ごとの最低温度は「[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」、暖房の乾燥の仕組みは「[暖房の種類と乾燥ダメージ](/research/winter-heating-and-leaf-dryness-science)」に揃えています。
 
 <!-- key-facts title="30秒でわかる冬の置き場所" -->
 - **判断軸**：昼の明るさではなく**夜の最低温度**
@@ -104,7 +104,7 @@ baseProducts:
 
 ## 耐寒性グループ別の配置
 
-「[冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」の3グループを、上の6か所に割り当てたものです。最低温度の目安より2〜3℃高い温度を目標にして選びます。
+「[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」の3グループを、上の6か所に割り当てたものです。最低温度の目安より2〜3℃高い温度を目標にして選びます。
 
 | グループ | 代表例 | 最低温度の目安 | 第一候補の場所 | 避ける場所 |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ baseProducts:
 冬は根の動きが鈍り、水はけの悪い土では根腐れが起きやすくなります。I'm original SOIL（tokyoplantsプレミアム培養土）は室内の低温期でも水が滞留しにくい配合で、春の植え替え時に切り替えると翌冬の管理が楽になります。
 
 **関連記事**
-- [観葉植物の冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)
+- [観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)
 - [窓の方角で光量はどれだけ違う？](/research/light-intensity-by-window-direction)
 - [観葉植物を室内に入れる時期｜最低気温の目安](/guide/bringing-plants-indoors-timing)
 - [暖房の種類で違う？観葉植物の乾燥ダメージの仕組みと対策](/research/winter-heating-and-leaf-dryness-science)

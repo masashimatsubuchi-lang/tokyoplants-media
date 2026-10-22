@@ -57,7 +57,7 @@ amazonProducts:
 | 置き場所の自由度 | 高い（デスク・出窓など狭い場所にも） | 棚やラックなど専用スペースが前提になりやすい |
 | 向いている人 | 1〜2鉢だけ明るくしたい人 | 複数鉢・コレクション棚を管理したい人 |
 
-複数鉢を本格的に管理したい場合は、[バータイプ育成ライトおすすめ5選](/review/bar-type-grow-light-comparison)や[BRIM植物育成ライト徹底比較](/review/brim-grow-light-comparison)で紹介しているパネル型・バー型が向いています。この記事は、あくまで「1〜2鉢だけ」を対象にしたコンパクトな選択肢に絞って解説します。
+複数鉢を本格的に管理したい場合は、[バータイプ育成ライトおすすめ5選](/review/bar-type-grow-light-comparison)や[BRIM(ブリム)植物育成ライト3機種を比較](/review/brim-grow-light-comparison)で紹介しているパネル型・バー型が向いています。この記事は、あくまで「1〜2鉢だけ」を対象にしたコンパクトな選択肢に絞って解説します。
 
 ## クリップ式ライトの選び方
 
@@ -107,7 +107,7 @@ amazonProducts:
 
 ### BRIM FLORA クリップ式 12W 1ヘッド｜レビュー922件の実績で選ぶなら
 
-[BRIM植物育成ライト徹底比較](/review/brim-grow-light-comparison)で紹介している26W・1〜3ヘッド選択式モデルとは別に展開されている、12W・1ヘッド固定の下位モデルです。ワット数を抑えた分価格も手頃で、922件という圧倒的なレビュー数に裏打ちされた実績があります。1〜2鉢だけをコンパクトに照らしたい方、まず1台試してみたい方に向いています。
+[BRIM(ブリム)植物育成ライト3機種を比較](/review/brim-grow-light-comparison)で紹介している26W・1〜3ヘッド選択式モデルとは別に展開されている、12W・1ヘッド固定の下位モデルです。ワット数を抑えた分価格も手頃で、922件という圧倒的なレビュー数に裏打ちされた実績があります。1〜2鉢だけをコンパクトに照らしたい方、まず1台試してみたい方に向いています。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0C2JTFF2Y?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
@@ -146,4 +146,4 @@ amazonProducts:
 
 → 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
-→ 関連記事: [植物育成ライトおすすめ5選](/review/plant-light-review) / [BRIM植物育成ライト徹底比較](/review/brim-grow-light-comparison) / [バータイプ育成ライトおすすめ5選](/review/bar-type-grow-light-comparison)
+→ 関連記事: [植物育成ライトおすすめ5選](/review/plant-light-review) / [BRIM(ブリム)植物育成ライト3機種を比較](/review/brim-grow-light-comparison) / [バータイプ育成ライトおすすめ5選](/review/bar-type-grow-light-comparison)

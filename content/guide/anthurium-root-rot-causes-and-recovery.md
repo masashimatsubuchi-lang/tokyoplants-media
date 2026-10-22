@@ -115,5 +115,5 @@ baseProducts:
 
 → 関連記事
 - [アンスリウムの育て方｜初心者が失敗しない水やり・置き場所・用土](/guide/anthurium-care-for-beginners)
-- [アンスリウム・ワロクアーナム｜葉先が枯れる原因は湿度70%未満](/guide/anthurium-warocqueanum-care-guide)
+- [アンスリウム ワロクアーナムの育て方](/guide/anthurium-warocqueanum-care-guide)
 - [観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)

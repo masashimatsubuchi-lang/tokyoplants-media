@@ -126,7 +126,7 @@ NGかどうかは気分ではなく数字で決まります。次の4つを覚�
 - 15分 | 受け皿の水を捨てるまで | 水やり後に鉢底から流れ切る時間
 <!-- /stats -->
 
-種類ごとの下限温度は「[冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」で3グループに整理しています。最低温度は「ここまで下げてよい」ではなく「これ以下は危険」のラインなので、目安より2〜3℃高い温度を目標にしてください。
+種類ごとの下限温度は「[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」で3グループに整理しています。最低温度は「ここまで下げてよい」ではなく「これ以下は危険」のラインなので、目安より2〜3℃高い温度を目標にしてください。
 
 <!-- character-note character="shadee" type="tip" -->
 「冬は何もしない」が基本だけど、ひとつだけ増やすといいのが観察。週に1回、葉の裏と鉢の重さを確認する日を決めておくと、10個のNGはほとんど自然に避けられるよ。
@@ -196,5 +196,5 @@ NGを知っていても、次のかたちで再発することがあります。
 - [冬に葉が落ちる原因｜症状別の診断チャート](/guide/winter-leaf-drop-diagnosis)
 - [観葉植物の冬の置き場所｜部屋の温度マップで選ぶ](/guide/winter-placement-room-map)
 - [暖房器具別｜観葉植物を冬に枯らさない置き方](/guide/winter-heating-appliances-and-houseplants)
-- [観葉植物の冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)
+- [観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)
 - [冬の緊急植え替えガイド](/guide/winter-emergency-repotting-guide)

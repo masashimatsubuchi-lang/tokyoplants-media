@@ -114,4 +114,4 @@ amazonProducts:
 → 関連記事
 - [苔玉の作り方と土の配合｜秋のギフトにも](/soil/kokedama-soil-guide)
 - [水苔おすすめ5選｜ランク・圧縮率の選び方](/soil/sphagnum-moss-recommended)
-- [ベラボンとは｜メリット・デメリット](/soil/bellabon-for-houseplants)
+- [ベラボンとは｜ヤシ繊維の土壌改良材](/soil/bellabon-for-houseplants)

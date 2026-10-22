@@ -70,7 +70,7 @@ baseProducts:
 - 暖房を切った夜間・早朝に急激に冷え込む環境ではないか
 - 症状が出ている葉が、株全体のうち窓に近い側に偏っていないか
 
-該当する場合は、まず室温10℃以上（できれば15℃以上）を確保できる場所に移動し、水やりの頻度も同時に落としてください。低温期は根の吸水力も落ちているため、水を増やして回復させようとするのは逆効果です。種類ごとの耐寒性の目安は「[観葉植物の冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」を参考にしてください。
+該当する場合は、まず室温10℃以上（できれば15℃以上）を確保できる場所に移動し、水やりの頻度も同時に落としてください。低温期は根の吸水力も落ちているため、水を増やして回復させようとするのは逆効果です。種類ごとの耐寒性の目安は「[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)」を参考にしてください。
 
 ### 症状B：はっきりした輪郭の黒い斑点が点在する
 
@@ -129,4 +129,4 @@ baseProducts:
 
 → 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
-→ 関連記事: [観葉植物の葉が黄色い原因チェック](/guide/yellow-leaves-houseplants-checklist)｜[観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)｜[観葉植物の冬越し完全ガイド｜耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)
+→ 関連記事: [観葉植物の葉が黄色い原因チェック](/guide/yellow-leaves-houseplants-checklist)｜[観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)｜[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)
