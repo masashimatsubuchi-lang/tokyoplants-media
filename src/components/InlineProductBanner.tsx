@@ -18,8 +18,12 @@ interface ProductMeta {
 const PRODUCT_META: Record<ProductType, ProductMeta> = {
   towel: {
     heading: "tokyoplants のおすすめギフト",
-    label: "Daily Botanical Towel｜リーフタオル",
-    note: "ボタニカルデザインのマイクロファイバー素材。吸水性・速乾性に優れ、植物好きへのギフトに。",
+    label: "Daily Botanical Towel｜リーフタオル（全8種）",
+    // 文言はEC商品ページで実測した仕様のみ（サイズ・素材・ラッピング）。
+    // ⚠️ サムネイルは h-14 w-14 の object-cover なので、8種を並べた一覧画像を
+    // ここに入れると中央が切り取られて何も読めない。単品写真のままにすること。
+    // 8種の見せ方は記事本文側の figure で行う。
+    note: "モンステラ・アンスリウム・アロカシアの葉を写した全8種。約30×20cmのマイクロファイバーで、ループ付き・鍋敷きにもなる厚み。ギフトラッピング対応。",
     img: "/images/products/botanical-towel-main.jpg",
   },
   holygrail: {
