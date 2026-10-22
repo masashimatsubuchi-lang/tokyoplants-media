@@ -6,7 +6,13 @@ date: "2026-09-15"
 category: "soil"
 tags: ["アロイドミックス", "用土", "サトイモ科", "配合レシピ", "着生植物"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "soil/aroid-mix-guide"
+    role: "自作レシピ"
+  - slug: "soil/aroid-soil-products-comparison"
+    role: "市販品の比較"
 relatedSlugs:
+  - "soil/aroid-soil-products-comparison"
   - "soil/best-soil-for-philodendron"
   - "soil/best-soil-for-anthurium"
   - "soil/best-soil-for-alocasia"
