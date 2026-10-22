@@ -54,22 +54,52 @@ function buildIdf(all) {
 }
 function weight(t) { return IDF.get(t) ?? 0; }
 
-// 記事の「主語」＝タイトル内で最も希少な語（植物名・固有テーマ）。
-// 主語が違えば、文型がどれだけ似ていても別クエリなのでカニバらない。
+/**
+ * 記事の「主語」＝何について書かれた記事か。主語が違えば、文型がどれだけ
+ * 似ていても別クエリなのでカニバらない（「モンステラの育て方」と
+ * 「ポトスの育て方」は競合しない）。
+ *
+ * ⚠️ 以前はタイトル内で最もIDFの高い n-gram を主語に採っていたが、
+ * これは日本語では機能しなかった（2026-10-22に発覚）。2〜4文字の n-gram を
+ * 総当たりで作るため、最も希少なのは「横幅のあ」「レガレの」「美しい葉」
+ * のような無意味な断片になり、主語が一致せずペアが比較前に捨てられていた。
+ * 実際、species/anthurium-regale と guide/anthurium-regale-care-guide という
+ * 明らかなカニバリを、しきい値0.1まで下げても検出できていなかった。
+ *
+ * slug は `anthurium-regale` `best-soil-for-anthurium` のように対象が
+ * ローマ字で入っており、n-gram のような崩れ方をしない。こちらを主語に使う。
+ */
+// slug に出てくるが「対象」ではない語。植物名だけを主語として残したいので、
+// 症状・作業・用途といった話題語はここで落とす。
+// ⚠️ ここが薄いと、別の植物の同テーマ記事（anthurium-root-rot と
+// philodendron-root-rot のような組）を「同じ主語」と誤認して誤検出する。
+// 新しい型の記事が増えたら、その型を表す語をここに足すこと。
+const SLUG_STOP = new Set([
+  // 構造・定型
+  "best", "soil", "for", "guide", "care", "how", "the", "and", "with", "your",
+  "houseplant", "houseplants", "plant", "plants", "genus", "types", "vs",
+  "comparison", "review", "complete", "basics", "tips", "list", "science", "species",
+  // 症状・トラブル
+  "root", "rot", "causes", "recovery", "yellow", "leaves", "leaf", "spots",
+  "wilting", "checklist", "problems", "drooping", "brown", "black", "pests",
+  "diseases", "damage", "dying",
+  // 作業・テーマ
+  "propagation", "cutting", "cuttings", "water", "watering", "hydroculture",
+  "repotting", "pruning", "fertilizer", "winter", "summer", "light", "humidity",
+  "placement", "mounting", "varieties", "catalog", "price",
+  // 用途・季節
+  "gift", "lover", "ideas", "day", "christmas", "birthday", "mothers", "fathers",
+]);
 function subjectOf(p) {
-  let best = null, bw = -1;
-  for (const t of p.titleTok) {
-    if (!IDF.has(t)) continue;
-    const w = IDF.get(t);
-    // 同じ語の部分文字列より長い方を主語に採る
-    if (w > bw || (w === bw && best && t.length > best.length)) { bw = w; best = t; }
-  }
-  return best;
+  const name = p.slug.split("/")[1] ?? "";
+  const parts = name.split("-").filter((w) => w.length >= 4 && !SLUG_STOP.has(w));
+  return parts.length ? new Set(parts) : null;
 }
 function sharesSubject(a, b) {
   const sa = a.subject, sb = b.subject;
-  if (!sa || !sb) return true;
-  return sa.includes(sb) || sb.includes(sa) || a.titleTok.has(sb) || b.titleTok.has(sa);
+  if (!sa || !sb) return true; // 判定材料が無いときは落とさない
+  for (const w of sa) if (sb.has(w)) return true;
+  return false;
 }
 
 function similarity(a, b) {
