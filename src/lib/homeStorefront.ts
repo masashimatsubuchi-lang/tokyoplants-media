@@ -114,20 +114,20 @@ export const OWN_COLLECTION: OwnProduct[] = [
     alt: "SISHICRAFT 斑入りモンステラのレザー作品",
     href: ecUrl("/items/143263775", "collection-sishicraft"),
     // 鉢植えとキーホルダーは別の商品ページ。切り替えるとリンク先も変わる。
-    // 色の丸は商品写真の斑の色（鉢植え＝白、キーホルダー＝黄色）から取った
+    // 色の丸は商品写真の葉の緑と斑の色（鉢植え＝緑／白、キーホルダー＝緑／黄色）を斜めに塗り分ける
     variantStyle: "color",
     variants: [
       {
-        name: "鉢植え（白い斑）",
-        color: "#f0f2ea",
+        name: "鉢植え（緑／白）",
+        color: "linear-gradient(135deg, #1f5c34 50%, #f0f2ea 50%)",
         price: "¥18,000",
         image: "/images/home/sishicraft-monstera.jpg",
         alt: "SISHICRAFT 斑入りモンステラのレザー作品",
         href: ecUrl("/items/143263775", "collection-sishicraft"),
       },
       {
-        name: "キーホルダー（黄色の斑）",
-        color: "#efe48e",
+        name: "キーホルダー（緑／黄色）",
+        color: "linear-gradient(135deg, #1f6a2e 50%, #efe48e 50%)",
         price: "¥8,000",
         image: "/images/home/sishicraft-keyholder.jpg",
         alt: "SISHICRAFT 斑入りモンステラのレザーキーホルダー",
