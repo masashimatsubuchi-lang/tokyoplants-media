@@ -3,7 +3,7 @@ import path from "node:path";
 import Link from "next/link";
 import { getAllPosts, getPostsByCategory, getAllTags, getPostsByTag } from "@/lib/posts";
 import { categories } from "@/lib/categories";
-import { OWN_COLLECTION, OwnProduct, RANKING_LIMIT, RANKING_PERIOD, READER_RANKING } from "@/lib/homeStorefront";
+import { OWN_COLLECTION, OwnProduct, RANKING_LIMIT, READER_RANKING } from "@/lib/homeStorefront";
 import ArticleCard from "@/components/ArticleCard";
 import CategoryTabs from "@/components/CategoryTabs";
 import AppShowcase from "./AppShowcase";
@@ -28,15 +28,12 @@ const EDITORS_PICK = [
   "guide/monstera-hydroculture",
 ];
 
-/** 2段組みの見出し。前半を黒、後半をグレーにするApple Storeの書き方。補足の小さな文は付けない */
+/** 区画の見出し。タイトル（大・黒）とサブタイトル（小・グレー）を分け、PCは同じ行に間を空けて並べる */
 function SectionTitle({ id, strong, rest }: { id: string; strong: string; rest: string }) {
   return (
-    <h2
-      id={id}
-      className="text-[28px] font-semibold leading-[1.2] tracking-[-0.02em] [word-break:auto-phrase] md:text-[40px] md:leading-[1.15]"
-    >
-      {strong}
-      <span className="text-[#86868b]">{rest}</span>
+    <h2 id={id} className="flex flex-wrap items-baseline gap-x-5 gap-y-1.5">
+      <span className="text-[30px] font-semibold leading-[1.15] tracking-[-0.02em] md:text-[40px]">{strong}</span>
+      <span className="text-[17px] font-semibold leading-snug text-[#86868b] [word-break:auto-phrase] md:text-[22px]">{rest}</span>
     </h2>
   );
 }
@@ -89,7 +86,7 @@ export default function StoreHome() {
       <section id="collection" aria-labelledby="collection-heading" className="scroll-mt-16 bg-[#f5f5f7] pb-16 pt-12 md:pb-24 md:pt-16">
         <div className="store-gutter">
           <div className="mx-auto max-w-[1180px]">
-            <SectionTitle id="collection-heading" strong="オリジナル。" rest="専門店がつくったもの。" />
+            <SectionTitle id="collection-heading" strong="オリジナル" rest="観葉植物専門店がつくったもの。" />
           </div>
         </div>
         <div className="store-shelf store-collection scrollbar-hide mt-8 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-4 pt-1 md:mx-auto md:mt-10 md:grid md:max-w-[1180px] md:grid-cols-2 md:gap-5 md:overflow-visible xl:grid-cols-4">
@@ -103,7 +100,7 @@ export default function StoreHome() {
       <section id="ranking" aria-labelledby="ranking-heading" className="scroll-mt-16 bg-[#f5f5f7] pb-16 md:pb-24">
         <div className="store-gutter">
           <div className="mx-auto max-w-[1180px]">
-            <SectionTitle id="ranking-heading" strong="人気ランキング。" rest="読者が選んだ道具。" />
+            <SectionTitle id="ranking-heading" strong="人気ランキング" rest="読者が選んだ道具。" />
           </div>
         </div>
         <div className="mt-8 md:mt-10">
@@ -113,11 +110,10 @@ export default function StoreHome() {
             ))}
           </ShelfScroller>
         </div>
-        {/* 利益相反とランキングの根拠の開示。Amazonアソシエイトの表記は規約上必須 */}
-        <div className="store-gutter mt-10">
-          <p className="mx-auto max-w-[1180px] text-[11px] leading-relaxed text-[#86868b]">
-            オリジナル商品はtokyoplantsが販売しています。ランキングはtokyoplants経由のAmazon注文数の順（{RANKING_PERIOD}
-            ）で、当サイトの選定基準を満たす商品に限っています。Amazonのアソシエイトとして、tokyoplantsは適格販売により収入を得ています。
+        {/* Amazonアソシエイトの表記は規約上必須。オーナー指示で、この一文だけにしている */}
+        <div className="store-gutter mt-8">
+          <p className="mx-auto max-w-[1180px] text-[11px] text-[#86868b]">
+            Amazonのアソシエイトとして、tokyoplantsは適格販売により収入を得ています。
           </p>
         </div>
       </section>
@@ -129,7 +125,7 @@ export default function StoreHome() {
         <div className="store-gutter">
           <div className="mx-auto max-w-[1180px]">
             <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
-              <SectionTitle id="reading-heading" strong="読みもの。" rest="植物を知り、育てる。" />
+              <SectionTitle id="reading-heading" strong="読みもの" rest="植物を知り、育てる。" />
               <form action="/search" method="get" role="search" className="w-full md:w-[320px]">
                 <label htmlFor="home-search" className="sr-only">
                   記事を検索
