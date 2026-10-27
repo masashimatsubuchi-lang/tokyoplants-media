@@ -1,8 +1,9 @@
 ---
 image: "https://baseec-img-mng.akamaized.net/images/item/origin/74a4e0d36321784871da1f5289b368e3.jpg?imformat=generic&q=90&im=Resize,width=1280,type=normal"
-title: "アンスリウム・ヴェイチー｜キングアンスリウムの特徴と育て方図鑑"
-description: "アンスリウム・ヴェイチー（King Anthurium）の基本情報、独特の波打つリブ葉の特徴、ワロクアーナムとの違い、育て方のポイントを図鑑形式で解説します。"
+title: "アンスリウム・ヴェイチー｜2mの波打つ葉と育て方"
+description: "葉長1.5〜2mに達するヴェイチー（ベイチー）の波状リブがなぜできるのか、リブを深く出す光量、ワロクアーナムとの違いと育て方を図鑑形式で解説します。"
 date: "2026-06-09"
+updated: "2026-10-27"
 category: "species"
 tags: ["アンスリウム", "コレクター"]
 author: "tokyoplants 編集部"
@@ -25,7 +26,7 @@ baseProducts:
     price: "¥1,200〜"
 ---
 
-# アンスリウム・ヴェイチー｜キングアンスリウムの特徴と育て方図鑑
+# アンスリウム・ヴェイチー｜2mの波打つ葉と育て方
 
 アンスリウム・ヴェイチー（*Anthurium veitchii*）は、コロンビア固有種のサトイモ科の着生植物だ。「King Anthurium（キングアンスリウム）」の異名を持つ通り、成熟した葉が**1.5〜2mを超える**ことも珍しくなく、アンスリウム属の中でも最大級の葉長を誇る。
 

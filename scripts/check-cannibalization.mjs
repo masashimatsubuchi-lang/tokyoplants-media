@@ -86,7 +86,7 @@ const SLUG_STOP = new Set([
   // 作業・テーマ
   "propagation", "cutting", "cuttings", "water", "watering", "hydroculture",
   "repotting", "pruning", "fertilizer", "winter", "summer", "light", "humidity",
-  "placement", "mounting", "varieties", "catalog", "price",
+  "placement", "mounting", "varieties", "catalog", "price", "grow", "mix",
   // 用途・季節
   "gift", "lover", "ideas", "day", "christmas", "birthday", "mothers", "fathers",
 ]);

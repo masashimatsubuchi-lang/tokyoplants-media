@@ -114,6 +114,6 @@ baseProducts:
 - [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
-- [アンスリウムの育て方｜初心者が失敗しない水やり・置き場所・用土](/guide/anthurium-care-for-beginners)
+- [アンスリウムの育て方｜水やり・置き場所・用土の基本](/guide/anthurium-care-for-beginners)
 - [アンスリウム ワロクアーナムの育て方](/guide/anthurium-warocqueanum-care-guide)
 - [観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)
