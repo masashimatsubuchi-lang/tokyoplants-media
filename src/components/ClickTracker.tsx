@@ -12,7 +12,7 @@ import { usePathname } from "next/navigation";
 //
 // イベント名と主なパラメータ:
 //   ec_click            { placement, link_path, article_slug }   tokyoplants.com（media以外）への遷移
-//   amazon_click        { asin, article_slug }                    amazon.co.jp への遷移
+//   amazon_click        { asin, placement, article_slug }         amazon.co.jp への遷移
 //   gc_lp_click         { channel, article_slug }                 /app への内部遷移（?ch= がチャネル）
 //   character_note_view { character, note_type, article_slug }   注釈が画面に50%以上入った時に1回
 //
@@ -62,7 +62,8 @@ function handleClick(e: MouseEvent) {
   // Amazon
   if (host.endsWith("amazon.co.jp") || host.endsWith("amzn.to") || host.endsWith("amzn.asia")) {
     const asin = url.pathname.match(/\/dp\/([A-Z0-9]{10})/)?.[1] || "";
-    send("amazon_click", { asin, article_slug: articleSlug() });
+    // placement はトップページの棚など、リンク側が data-placement で名乗った掲載場所
+    send("amazon_click", { asin, placement: anchor.dataset.placement || "text", article_slug: articleSlug() });
     return;
   }
 

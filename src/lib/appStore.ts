@@ -8,6 +8,7 @@
 //   media_banner   メディアのヘッダー帯バナー
 //   media_article  記事下のCTA
 //   media_footer   メディアのフッター
+//   media_home     メディアのトップページのアプリ紹介欄
 //   header         メディアのヘッダーのAppボタン
 //   invite         ともだち招待の着地ページ
 //   shop_top_banner ショップ(tokyoplants.com)のTOPバナー経由

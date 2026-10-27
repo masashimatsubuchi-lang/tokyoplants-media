@@ -1,5 +1,5 @@
-import StorefrontHome from "@/components/StorefrontHome";
+import StoreHome from "@/components/home/StoreHome";
 
 export default function Home() {
-  return <StorefrontHome />;
+  return <StoreHome />;
 }

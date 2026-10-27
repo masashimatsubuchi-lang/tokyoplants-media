@@ -141,3 +141,42 @@ body {
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+
+/* ---------- トップページ（商品発見型）---------- */
+/* Apple Storeと同じ書体系。SF Proは配布できないため読み込まず、
+   端末に入っているものを指定する（Apple製品ではSF Pro＋ヒラギノで表示される）。 */
+.font-store {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro JP", "SF Pro Display", "SF Pro Text",
+    "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Helvetica Neue", Helvetica, Arial,
+    "Noto Sans JP", "Yu Gothic", YuGothic, Meiryo, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "palt" 1;
+  color: #1d1d1f;
+}
+/* 見出しの左端と、横スクロールの1枚目の左端を揃えるための余白。
+   コンテンツ幅1180pxの外側にはみ出した分だけ広がる。 */
+.store-gutter {
+  padding-inline: max(1.25rem, calc((100% - 1180px) / 2 + 1.25rem));
+}
+.store-shelf {
+  padding-inline: max(1.25rem, calc((100% - 1180px) / 2 + 1.25rem));
+  scroll-padding-inline: max(1.25rem, calc((100% - 1180px) / 2 + 1.25rem));
+}
+/* Safariは横スクロール要素の右paddingをスクロール範囲に含めないため、末尾に余白を足す */
+.store-shelf::after {
+  content: "";
+  flex: 0 0 1px;
+}
+/* 自社商品はPCでは格子状に並べる。横スクロール用の末尾の余白は格子では余計な1マスになるので消す。
+   また padding の % は親（画面幅）基準なので、幅を絞った格子では固定値にして見出しと左端を揃える。 */
+@media (min-width: 768px) {
+  .store-collection::after {
+    display: none;
+  }
+  .store-shelf.store-collection {
+    padding-left: 20px;
+    padding-right: 20px;
+    scroll-padding-left: 20px;
+    scroll-padding-right: 20px;
+  }
+}
