@@ -34,8 +34,6 @@ export interface OwnProduct {
   /** ECの商品ページから抜粋した一言 */
   catchCopy: string;
   variants: ProductVariant[];
-  /** 在庫・発送の状態。一時的な告知なので、状況が変わったら消す */
-  status?: string;
   /** 柄の数を色の点で示す（タオル） */
   swatches?: { name: string; color: string }[];
   href: string;
@@ -52,7 +50,6 @@ export const OWN_COLLECTION: OwnProduct[] = [
       { label: "2L", price: "¥1,200", image: "/images/home/soil-2l.jpg", alt: "I'm original SOIL 2Lのパッケージ" },
       { label: "10L", price: "¥4,800", image: "/images/home/soil-10l.jpg", alt: "I'm original SOIL 10Lのパッケージ" },
     ],
-    status: "予約受付中・11月1日から順次発送",
     href: ecUrl("/items/99620939", "collection-soil"),
     article: { href: "/soil/houseplant-soil-hub-guide", label: "土の選び方を読む" },
   },
@@ -107,7 +104,6 @@ export const OWN_COLLECTION: OwnProduct[] = [
         alt: "SISHICRAFT 斑入りモンステラのレザー作品",
       },
     ],
-    status: "現在売り切れ・再入荷通知を受付中",
     href: ecUrl("/items/143263775", "collection-sishicraft"),
     article: { href: "/review/leather-botanical-collection", label: "作品の話を読む" },
   },

@@ -45,8 +45,8 @@ export default function CollectionCard({
               key={v.image}
               src={v.image}
               alt={v.alt}
-              width={1000}
-              height={1000}
+              width={800}
+              height={800}
               sizes="(min-width: 1200px) 300px, (min-width: 768px) 45vw, 80vw"
               priority={priority && i === 0}
               loading={priority && i === 0 ? undefined : "lazy"}
@@ -57,7 +57,7 @@ export default function CollectionCard({
           ))}
         </div>
 
-        {/* 選択肢・価格・状態の行はどのカードにも同じ高さで置き、横に並べたとき価格の位置を揃える */}
+        {/* 選択肢の行はどのカードにも同じ高さで置き、横に並べたとき価格の位置を揃える */}
         <div className="mt-auto pt-4">
           <div className="mb-3 flex h-8 items-center">
             {product.variants.length > 1 && (
@@ -107,9 +107,6 @@ export default function CollectionCard({
             <span className="ml-1 text-[12px] font-normal text-[#6e6e73]">
               税込
             </span>
-          </p>
-          <p className="mt-1 min-h-[1.5em] text-[12px] text-[#6e6e73]">
-            {product.status}
           </p>
           <Link
             href={product.article.href}
