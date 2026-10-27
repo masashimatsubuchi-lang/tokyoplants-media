@@ -3,6 +3,7 @@ image: /images/products/platycerium-willinckii-header.jpg
 title: ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方
 description: ビカクシダ・ウィリンキーの基本情報、細長く垂れ下がる胞子葉の特徴、板付けでの育て方、トラブル対策、増やし方を専門的に解説します。
 date: '2026-06-09'
+updated: '2026-10-27'
 category: species
 tags:
   - ビカクシダ
@@ -26,13 +27,13 @@ amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"
     asin: "B0CY2VJ3D3"
     image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
-    note: "ウィリンキーの板付け・仕立て直しに使う長繊維水苔。評価★4.1・レビュー35件、在庫あり（2026-09-17 Amazon直接確認）"
-    price: "参考価格帯は流通状況により変動（購入前にAmazon商品ページで要確認）"
-  - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
+    note: "ウィリンキーの板付け・仕立て直しに使う長繊維水苔。★4.3・35件・残り18点・出荷元Amazon（2026-10-27 商品ページ確認）"
+    price: "¥2,180"
+  - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
     asin: "B0CG35V5CD"
     image: "https://m.media-amazon.com/images/I/8135YWs3OAL._AC_SL200_.jpg"
-    note: "凹凸のある天然コルクで根が活着しやすい板付け材。評価★4.0・レビュー224件、在庫あり（2026-09-17 Amazon直接確認）"
-    price: "¥3,580"
+    note: "凹凸のある天然コルクで根が活着しやすい板付け材。★4.0・229件・残り7点・出荷元Amazon（2026-10-27 商品ページ確認）"
+    price: "¥2,980"
 ---
 
 # ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方

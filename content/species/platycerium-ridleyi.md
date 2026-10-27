@@ -3,7 +3,7 @@ image: /images/products/platycerium-ridleyi-header.jpg
 title: ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方
 description: ビカクシダ・リドレイの基本情報、キャベツ状の貯水葉や直立する胞子葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。
 date: '2026-06-09'
-updated: '2026-10-26'
+updated: '2026-10-27'
 category: species
 tags:
   - ビカクシダ
@@ -27,13 +27,13 @@ amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"
     asin: "B0CY2VJ3D3"
     image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
-    note: "リドレイの板付けに使う長繊維水苔。根元を最小限に覆う程度に使うのが基本。評価★4.1・レビュー35件、在庫あり（2026-09-17 Amazon直接確認）"
-    price: "参考価格帯は流通状況により変動（購入前にAmazon商品ページで要確認）"
-  - title: "WinJapan コルク樹皮 特大300×600mm 1枚"
+    note: "リドレイの板付けに使う長繊維水苔。根元を最小限に覆う程度に使うのが基本。★4.3・35件・残り18点・出荷元Amazon（2026-10-27 商品ページ確認）"
+    price: "¥2,180"
+  - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
     asin: "B0CG35V5CD"
     image: "https://m.media-amazon.com/images/I/8135YWs3OAL._AC_SL200_.jpg"
-    note: "通気性重視のリドレイ管理に向く天然コルク板。評価★4.0・レビュー224件、在庫あり（2026-09-17 Amazon直接確認）"
-    price: "¥3,580"
+    note: "通気性重視のリドレイ管理に向く天然コルク板。★4.0・229件・残り7点・出荷元Amazon（2026-10-27 商品ページ確認）"
+    price: "¥2,980"
 ---
 
 # ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方
