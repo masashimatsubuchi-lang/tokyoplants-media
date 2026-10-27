@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1613498717076-c0d2d82ecf2d?w=800&q=80"
 title: "サンスベリア属とは｜トリファスキアタ・ムーンシャインなど人気品種と育て方"
 description: "サンスベリア属の基本情報と人気品種一覧。ローレンティー・ムーンシャイン・バナナ・スタッキーなどの育て方、増やし方、葉が倒れる・腐る原因と対処法をまとめた図鑑ページです。"
 date: "2026-06-28"
+updated: "2026-10-27"
 category: "species"
 tags: ["サンスベリア", "品種", "キジカクシ科", "耐陰性", "多肉質", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -14,9 +15,9 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "species/aspidistra-elatior"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "tokyoplants All plants｜希少植物一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 ## サンスベリア属とは
