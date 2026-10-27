@@ -134,7 +134,7 @@ export default function StorefrontHome() {
           <p className="text-[11px] font-semibold uppercase tracking-[0.27em] text-[#37664f]">
             TOKYOPLANTS JOURNAL & STORE
           </p>
-          <h1 className="mt-5 max-w-5xl text-[clamp(2.6rem,6.6vw,5.7rem)] font-semibold leading-[1.13] tracking-[-0.055em] text-[#181b19]">
+          <h1 className="mt-5 max-w-4xl text-[clamp(2.35rem,4.2vw,4.2rem)] font-semibold leading-[1.15] tracking-[-0.055em] text-[#181b19]">
             植物のある暮らしに、<br className="hidden sm:block" />
             いい選択を。
           </h1>
@@ -178,14 +178,14 @@ export default function StorefrontHome() {
             </Link>
           </div>
 
-          <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-4">
+          <div className="-mx-5 flex snap-x snap-mandatory gap-4 overflow-x-auto px-5 pb-5 scrollbar-hide sm:mx-0 sm:grid sm:grid-cols-2 sm:gap-5 sm:overflow-visible sm:px-0 xl:grid-cols-4">
             {featuredProducts.map((tile) => {
               const item = RECOMMENDED_OWN_ITEMS[tile.index];
               if (!item) return null;
               return (
                 <article
                   key={tile.key}
-                  className="group flex min-h-[445px] flex-col overflow-hidden rounded-[26px] transition-transform duration-300 hover:-translate-y-1"
+                  className="group flex w-[83vw] max-w-[370px] shrink-0 snap-start flex-col overflow-hidden rounded-[26px] transition-transform duration-300 hover:-translate-y-1 sm:min-h-[445px] sm:w-auto sm:max-w-none"
                   style={{ backgroundColor: tile.background }}
                 >
                   <div className="px-7 pb-3 pt-8">
@@ -199,7 +199,7 @@ export default function StorefrontHome() {
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label={item.title + " の商品ページを見る"}
-                    className="relative mx-5 mt-1 block min-h-[205px] flex-1 overflow-hidden rounded-[18px] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#22614c]"
+                    className="relative mx-5 mt-1 block min-h-[235px] flex-1 overflow-hidden rounded-[18px] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#22614c]"
                   >
                     {item.image ? (
                       <Image
@@ -207,7 +207,7 @@ export default function StorefrontHome() {
                         alt={item.title}
                         fill
                         sizes="(max-width: 640px) 85vw, (max-width: 1280px) 42vw, 23vw"
-                        className={tile.imageCover ? "object-cover transition-transform duration-700 group-hover:scale-[1.035]" : "object-contain p-3 transition-transform duration-700 group-hover:scale-[1.055]"}
+                        className="object-contain p-1 drop-shadow-[0_14px_18px_rgba(30,44,34,0.10)] transition-transform duration-700 group-hover:scale-[1.055]"
                         priority={tile.index < 2}
                       />
                     ) : null}
@@ -287,13 +287,18 @@ export default function StorefrontHome() {
             </Link>
           </div>
           <Link href="/app?ch=media_home_feature" className="relative block h-[310px] overflow-hidden rounded-[26px] bg-[#d6e3da] sm:h-[390px]">
-            <Image
-              src="/images/app/screen-collection.png"
-              alt="Green Collectionアプリの植物コレクション画面"
-              fill
-              sizes="(max-width: 1024px) 90vw, 48vw"
-              className="object-contain p-7 transition-transform duration-700 hover:scale-[1.035]"
-            />
+            <video
+              autoPlay
+              muted
+              loop
+              playsInline
+              preload="metadata"
+              poster="/videos/hero-falling-poster.jpg"
+              aria-label="Green Collectionのアイコンが上から降ってくるアニメーション"
+              className="h-full w-full object-cover"
+            >
+              <source src="/videos/hero-falling.mp4" type="video/mp4" />
+            </video>
           </Link>
         </div>
       </section>
