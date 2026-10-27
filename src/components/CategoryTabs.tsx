@@ -53,9 +53,10 @@ export default function CategoryTabs({ tabs }: { tabs: CategoryTabData[] }) {
       {active.posts.length === 0 ? (
         <p className="mt-10 text-sm text-gray-400">まだ記事がありません。</p>
       ) : (
-        <div className="mt-6 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory px-4 -mx-4 md:mx-0 md:px-0">
+        // スマホは横スクロール、PCは格子。PCで横スクロールにすると見出し幅の右端で途中から切れて見えるため
+        <div className="mt-6 flex gap-5 overflow-x-auto scrollbar-hide snap-x snap-mandatory px-4 -mx-4 md:mx-0 md:grid md:grid-cols-3 md:overflow-visible md:px-0 xl:grid-cols-4">
           {active.posts.map((post) => (
-            <div key={`${post.category}-${post.slug}`} className="w-[280px] shrink-0 snap-start md:w-[300px]">
+            <div key={`${post.category}-${post.slug}`} className="w-[280px] shrink-0 snap-start md:w-auto">
               <ArticleCard post={post} />
             </div>
           ))}

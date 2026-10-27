@@ -9,7 +9,7 @@
 //   media_article  記事下のCTA
 //   media_footer   メディアのフッター
 //   media_home     メディアのトップページのアプリ紹介欄
-//   header         メディアのヘッダーのAppボタン
+//   header         メディアのヘッダーのAppボタン（2026-10-28 オーナー判断で廃止。過去データの読み替え用に残す）
 //   invite         ともだち招待の着地ページ
 //   shop_top_banner ショップ(tokyoplants.com)のTOPバナー経由
 //                   （URLは utm_source=shop&utm_medium=banner&utm_campaign=app_promo も併記。

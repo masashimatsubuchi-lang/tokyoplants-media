@@ -38,11 +38,10 @@ function SectionTitle({ id, strong, rest }: { id: string; strong: string; rest: 
   );
 }
 
-/** 柄の見本は、画像ファイルを置いたものだけ出す（届いていない柄でカードが壊れないように） */
+/** 柄・容量の切り替えは、画像ファイルを置いたものだけ出す（届いていない柄でカードが壊れないように） */
 function withExistingVariants(product: OwnProduct): OwnProduct {
   if (!product.variants) return product;
-  const exists = (src: string) => fs.existsSync(path.join(process.cwd(), "public", src));
-  const variants = product.variants.filter((v) => exists(v.image) && exists(v.thumb));
+  const variants = product.variants.filter((v) => fs.existsSync(path.join(process.cwd(), "public", v.image)));
   return { ...product, variants };
 }
 

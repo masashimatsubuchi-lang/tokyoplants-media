@@ -21,9 +21,11 @@ export function ecUrl(path: string, placement: string): string {
 export interface ProductVariant {
   name: string;
   image: string;
-  /** 見本ボタン用の小さな画像（96px） */
-  thumb: string;
+  /** 色の丸に塗る色（CSSのbackground）。2色の柄は斜めに塗り分ける */
+  color?: string;
   alt: string;
+  /** 容量ごとに価格が違う場合の価格 */
+  price?: string;
 }
 
 export interface OwnProduct {
@@ -36,21 +38,24 @@ export interface OwnProduct {
   price: string;
   image: string;
   alt: string;
-  /** 柄違いの見本。先頭が代表の柄。画像ファイルが無いものはページ側で表示しない */
+  /** 柄違い・容量違い。先頭が代表。画像ファイルが無いものはページ側で表示しない */
   variants?: ProductVariant[];
+  /** color: 色の丸をタップして写真を切り替える ／ size: 容量の切り替えボタン */
+  variantStyle?: "color" | "size";
   href: string;
 }
 
-/** タオルの柄。並びはECの「種類」の8項目と同じ。代表はモンステラ・ホワイト（オーナー指定） */
-const TOWEL_PATTERNS: [string, string][] = [
-  ["モンステラ・デリシオーサ｜斑入り", "monstera-variegata"],
-  ["モンステラ・デリシオーサ｜緑", "monstera-green"],
-  ["アンスリウム・ワロクアーナム｜緑", "warocqueanum-green"],
-  ["アンスリウム・ワロクアーナム｜深緑", "warocqueanum-deepgreen"],
-  ["アンスリウム・キング オブ スペード｜緑", "king-of-spades-green"],
-  ["アンスリウム・キング オブ スペード｜黒", "king-of-spades-black"],
-  ["アロカシア｜緑", "alocasia-green"],
-  ["アロカシア｜ピンク", "alocasia-pink"],
+/** タオルの柄。並びはECの「種類」の8項目と同じ。代表はモンステラ・ホワイト（オーナー指定）。
+ *  色は商品写真の地の色から取った目安で、2色の柄は丸を斜めに塗り分ける */
+const TOWEL_PATTERNS: [string, string, string][] = [
+  ["モンステラ・デリシオーサ｜斑入り", "monstera-variegata", "linear-gradient(135deg, #2f6b4f 50%, #efe6c2 50%)"],
+  ["モンステラ・デリシオーサ｜緑", "monstera-green", "linear-gradient(135deg, #3a6e4a 50%, #ffffff 50%)"],
+  ["アンスリウム・ワロクアーナム｜緑", "warocqueanum-green", "#6fa35f"],
+  ["アンスリウム・ワロクアーナム｜深緑", "warocqueanum-deepgreen", "#2c5a38"],
+  ["アンスリウム・キング オブ スペード｜緑", "king-of-spades-green", "#3f7d64"],
+  ["アンスリウム・キング オブ スペード｜黒", "king-of-spades-black", "#1f2e52"],
+  ["アロカシア｜緑", "alocasia-green", "linear-gradient(135deg, #b8dba4 50%, #2f6a3d 50%)"],
+  ["アロカシア｜ピンク", "alocasia-pink", "linear-gradient(135deg, #f5d2d9 50%, #5cc24e 50%)"],
 ];
 
 export const OWN_COLLECTION: OwnProduct[] = [
@@ -59,10 +64,15 @@ export const OWN_COLLECTION: OwnProduct[] = [
     kind: "tokyoplantsプレミアム培養土",
     name: "I'm original SOIL",
     catchCopy: "特別な植物には、特別な土を。",
-    // 2L ¥1,200 / 10L ¥4,800。写真はオーナー指定どおり2Lを主役にする
-    price: "¥1,200から",
+    // 写真はオーナー指定どおり2Lを主役にし、10Lに切り替えられる
+    price: "¥1,200",
     image: "/images/home/soil-2l.jpg",
     alt: "I'm original SOIL 2Lのパッケージ",
+    variantStyle: "size",
+    variants: [
+      { name: "2L", price: "¥1,200", image: "/images/home/soil-2l.jpg", alt: "I'm original SOIL 2Lのパッケージ" },
+      { name: "10L", price: "¥4,800", image: "/images/home/soil-10l.jpg", alt: "I'm original SOIL 10Lのパッケージ" },
+    ],
     href: ecUrl("/items/99620939", "collection-soil"),
   },
   {
@@ -83,10 +93,11 @@ export const OWN_COLLECTION: OwnProduct[] = [
     price: "¥2,000",
     image: "/images/home/towel-monstera-variegata.jpg",
     alt: "Daily Botanical Towel モンステラ・デリシオーサ 斑入り",
-    variants: TOWEL_PATTERNS.map(([name, file]) => ({
+    variantStyle: "color",
+    variants: TOWEL_PATTERNS.map(([name, file, color]) => ({
       name,
       image: `/images/home/towel-${file}.jpg`,
-      thumb: `/images/home/towel-${file}-thumb.jpg`,
+      color,
       alt: `Daily Botanical Towel ${name.replace("｜", " ")}`,
     })),
     href: ecUrl("/items/135803882", "collection-towel"),
