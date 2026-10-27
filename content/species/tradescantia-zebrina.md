@@ -67,13 +67,15 @@ baseProducts:
 
 ## 近縁種との比較
 
-| 種名 | 葉色 | 葉裏 | 成長速度 | 難易度 |
+| 種名・品種名 | 葉色 | 葉裏 | 成長速度 | 難易度 |
 |------|------|------|---------|--------|
 | *Tradescantia zebrina* | シルバー＋深紫縞 | 赤紫一色 | 非常に速い | ★☆☆☆☆ |
 | *Tradescantia pallida*（ムラサキゴテン） | 全体が深紫 | 深紫 | 速い | ★☆☆☆☆ |
 | *Tradescantia fluminensis* | 緑一色〜白縞 | 緑〜白 | 非常に速い | ★☆☆☆☆ |
 | *Tradescantia sillamontana* | シルバーグレー（毛状） | 同色 | 中程度 | ★★☆☆☆ |
-| *Tradescantia nanouk* | ピンク＋緑＋白縞 | 紫がかり | 速い | ★★☆☆☆ |
+| *Tradescantia albiflora* 'Nanouk'（ナヌーク） | ピンク＋緑＋白縞 | 紫がかり | 速い | ★★☆☆☆ |
+
+※ナヌークは独立種ではなく、オランダで選抜された園芸品種です。米国の植物特許（PP29,711）では *T. albiflora* 'Nanouk' として登録されています（*T. albiflora* は現在、*T. fluminensis* の異名として扱われるのが一般的です）。
 
 ## 育て方
 

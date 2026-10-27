@@ -99,7 +99,7 @@ baseProducts:
 
 ### STEP5: 道具と切り口の衛生を確認する
 
-ハサミやカッターを消毒せずに使い回すと、前の株についていた病原菌が切り口から侵入することがあります。アルコール消毒した清潔な刃物を使い、切り口は雑菌が侵入しにくいよう斜めにカットして表面積を確保します。発根促進剤を使う場合の選び方は[発根促進剤（ルートン等）おすすめ比較](/review/rooting-hormone-powder-comparison)で解説しています。
+ハサミやカッターを消毒せずに使い回すと、前の株についていた病原菌が切り口から侵入することがあります。アルコール消毒した清潔な刃物を使い、切り口は雑菌が侵入しにくいよう斜めにカットして表面積を確保します。発根促進剤を使う場合の選び方は[発根促進剤（ルートン・オキシベロン・メネデール）の違い](/review/rooting-hormone-powder-comparison)で解説しています。
 
 ## よくある失敗例
 
@@ -140,4 +140,4 @@ baseProducts:
 
 → 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
-→ 関連記事: [モンステラの増やし方完全ガイド](/guide/monstera-propagation-cutting-guide) / [ポトスの増やし方](/guide/pothos-propagation-water-cutting) / [パキラの増やし方](/guide/pachira-propagation-guide) / [フィロデンドロンの増やし方](/guide/philodendron-propagation-guide) / [観葉植物の根腐れは復活できる？](/guide/root-rot-causes-and-recovery) / [発根促進剤（ルートン等）おすすめ比較](/review/rooting-hormone-powder-comparison)
+→ 関連記事: [モンステラの増やし方完全ガイド](/guide/monstera-propagation-cutting-guide) / [ポトスの増やし方](/guide/pothos-propagation-water-cutting) / [パキラの増やし方](/guide/pachira-propagation-guide) / [フィロデンドロンの増やし方](/guide/philodendron-propagation-guide) / [観葉植物の根腐れは復活できる？](/guide/root-rot-causes-and-recovery) / [発根促進剤の違い](/review/rooting-hormone-powder-comparison)
