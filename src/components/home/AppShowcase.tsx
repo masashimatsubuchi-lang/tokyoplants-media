@@ -36,7 +36,7 @@ export default function AppShowcase() {
   }, []);
 
   return (
-    <section id="app" aria-labelledby="app-heading" className="scroll-mt-16 bg-[#f6f4ef] py-16 md:py-24">
+    <section id="app" aria-labelledby="app-heading" className="scroll-mt-16 bg-[#f6f4ef] py-12 md:py-14">
       <div className="store-gutter">
         {/* スマホは /app と同じく「紹介文 → 動画 → ボタン」の順。PCは左に文章とボタン、右に動画 */}
         <div className="mx-auto grid max-w-[1180px] gap-8 md:grid-cols-[1fr_auto] md:grid-rows-[auto_auto] md:gap-x-16 lg:gap-x-24">
@@ -47,13 +47,13 @@ export default function AppShowcase() {
             </div>
             <h2
               id="app-heading"
-              className="mt-5 text-[28px] font-bold leading-[1.4] tracking-tight text-[#16352A] [word-break:auto-phrase] md:text-[38px]"
+              className="mt-4 text-[28px] font-bold leading-[1.4] tracking-tight text-[#16352A] [word-break:auto-phrase] md:text-[34px]"
             >
               植物のお世話が、
               <br />
               コレクションになる。
             </h2>
-            <p className="mt-5 text-[15px] leading-[1.9] text-[#4b4b50] [word-break:auto-phrase] md:text-[16px]">
+            <p className="mt-4 text-[15px] leading-[1.9] text-[#4b4b50] [word-break:auto-phrase] md:text-[16px]">
               開くたびに、育てている植物が降ってくる。
               <br />
               観葉植物の専門店がつくった、育てる楽しさが続くアプリ。
@@ -72,9 +72,9 @@ export default function AppShowcase() {
           </div>
 
           {/* 端末の枠は /app の HeroVideo と同じ比率（角丸・黒縁・フレーム） */}
-          <div className="row-start-2 mx-auto w-[190px] rounded-[33px] bg-[#55525A] p-[2px] shadow-[0_24px_50px_rgba(22,53,42,0.22)] sm:w-[220px] md:col-start-2 md:row-span-2 md:row-start-1 md:w-[250px] md:self-center md:rounded-[41px]">
-            <div className="rounded-[31px] bg-[#101014] p-[4px] md:rounded-[39px]">
-              <div className="relative aspect-[440/956] overflow-hidden rounded-[27px] bg-[#f6f3ec] md:rounded-[35px]">
+          <div className="row-start-2 mx-auto w-[190px] rounded-[33px] bg-[#55525A] p-[2px] shadow-[0_24px_50px_rgba(22,53,42,0.22)] sm:w-[220px] md:col-start-2 md:row-span-2 md:row-start-1 md:w-[200px] md:self-center md:rounded-[35px]">
+            <div className="rounded-[31px] bg-[#101014] p-[4px] md:rounded-[33px]">
+              <div className="relative aspect-[440/956] overflow-hidden rounded-[27px] bg-[#f6f3ec] md:rounded-[29px]">
                 <video
                   ref={videoRef}
                   muted

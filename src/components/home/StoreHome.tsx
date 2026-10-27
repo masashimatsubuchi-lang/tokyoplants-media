@@ -175,14 +175,19 @@ export default function StoreHome() {
           </div>
         )}
 
+        {/* 記事の棚は「よく読まれている記事」と同じく画面の右端まで流すため、幅を絞った枠の外に置く */}
+        <div className="mt-14">
+          <div className="store-gutter">
+            <h3 className="mx-auto max-w-[1180px] text-[19px] font-semibold md:text-[21px]">カテゴリの新着</h3>
+          </div>
+          <div className="mt-5">
+            <CategoryTabs tabs={categoryTabs} />
+          </div>
+        </div>
+
         <div className="store-gutter mt-14">
           <div className="mx-auto max-w-[1180px]">
-            <h3 className="text-[19px] font-semibold md:text-[21px]">カテゴリの新着</h3>
-            <div className="mt-6">
-              <CategoryTabs tabs={categoryTabs} />
-            </div>
-
-            <h3 className="mt-14 text-[19px] font-semibold md:text-[21px]">タグから探す</h3>
+            <h3 className="text-[19px] font-semibold md:text-[21px]">タグから探す</h3>
             <div className="mt-4 flex flex-wrap gap-2">
               {popularTags.map(({ tag }) => (
                 <Link
