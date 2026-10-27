@@ -68,15 +68,12 @@ export default function StoreHome() {
       {/* 導入。タイトルは控えめにし、すぐ下の商品写真をファーストビューに入れる */}
       <section className="bg-[#f5f5f7] pt-10 md:pt-16">
         <div className="store-gutter">
-          <div className="mx-auto flex max-w-[1180px] flex-col gap-3 md:flex-row md:items-end md:justify-between">
+          <div className="mx-auto max-w-[1180px]">
             <h1 className="text-[30px] font-semibold leading-[1.2] tracking-[-0.015em] md:text-[44px]">
               植物と暮らす、
               <br className="md:hidden" />
               土と道具と読みもの。
             </h1>
-            <p className="max-w-[420px] text-[14px] leading-relaxed text-[#6e6e73] [word-break:auto-phrase] md:pb-1.5 md:text-right">
-              観葉植物の専門店 tokyoplants がつくったものと、育て方の記事。
-            </p>
           </div>
         </div>
       </section>
