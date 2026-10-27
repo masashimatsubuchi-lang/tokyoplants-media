@@ -1,8 +1,9 @@
 ---
 image: "https://baseec-img-mng.akamaized.net/images/item/origin/f2a46a2635ccc1166e5bada34ad2144c.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
-title: "アグラオネマ・ピクタム｜原種の基本"
+title: "アグラオネマ・ピクタム｜タイの園芸品種とは別物、スマトラ島だけの原種"
 description: "Aglaonema pictum の図鑑。スマトラ原産の原種としての特徴、迷彩斑の仕組み、トリカラーなど選抜品種との関係、高湿度を要する育て方を解説します。"
 date: "2026-10-14"
+updated: "2026-10-27"
 category: "species"
 tags: ["アグラオネマ", "ピクタム", "サトイモ科", "原種"]
 author: "tokyoplants 編集部"
@@ -19,7 +20,7 @@ baseProducts:
     price: ""
 ---
 
-# アグラオネマ・ピクタム｜原種の基本
+# アグラオネマ・ピクタム｜タイの園芸品種とは別物、スマトラ島だけの原種
 
 アグラオネマというと、赤やピンクに染まるタイ生まれの園芸品種を思い浮かべる人が多いかもしれません。*Aglaonema pictum* は、そのどれとも系統が違います。**スマトラ島の熱帯雨林に自生する原種**で、迷彩柄に見える葉は品種改良の成果ではなく、もともとこの種が持っている形質です。この記事では、園芸品種ではなく「種としてのピクタム」を軸に、基本情報と育て方を整理します。
 
