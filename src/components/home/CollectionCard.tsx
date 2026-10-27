@@ -8,8 +8,9 @@ import type { OwnProduct } from "@/lib/homeStorefront";
 // 写真を下半分に大きく置く。カードのどこを押してもECの商品ページへ行く。
 //
 // 種類違いのある商品は、写真の下で切り替えられる。
-//   color: 色の丸をタップすると、その色の写真に切り替わる（タオル）
-//   size:  ボタンで写真と価格（とリンク先）が切り替わる（SOILの2L／10L、SISHICRAFTの鉢植え／キーホルダー）
+//   color: 色の丸をタップすると、その色の写真に切り替わる（タオル、SISHICRAFTの鉢植え／キーホルダー）
+//   size:  容量のボタンで写真と価格が切り替わる（SOILの2L／10L）
+// どちらも、別の商品ページに分かれている種類は切り替えるとリンク先も変わる。
 // 切り替えのボタンは全面リンクの上に重ねて押せるようにしている。
 export default function CollectionCard({
   product,
@@ -79,7 +80,7 @@ export default function CollectionCard({
                       type="button"
                       onClick={() => setActive(i)}
                       aria-pressed={i === active}
-                      className={`rounded-full px-4 py-1 text-[12px] font-semibold transition-colors ${
+                      className={`rounded-full px-4 py-1 text-[12px] font-semibold transition-colors focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#16352A] ${
                         i === active
                           ? "bg-white text-[#1d1d1f] shadow-sm"
                           : "text-[#6e6e73] hover:text-[#1d1d1f]"
@@ -107,14 +108,14 @@ export default function CollectionCard({
                     aria-label={v.name}
                     title={v.name}
                     // 選択中の色は外側に細い輪をつける（Apple Storeの色選びと同じ見せ方）
-                    className={`flex h-[22px] w-[22px] shrink-0 items-center justify-center rounded-full transition ${
+                    className={`flex h-[22px] w-[22px] shrink-0 items-center justify-center rounded-full transition focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#16352A] ${
                       i === active
                         ? "ring-[1.5px] ring-[#1d1d1f] ring-offset-2"
                         : "hover:ring-1 hover:ring-black/25 hover:ring-offset-2"
                     }`}
                   >
                     <span
-                      className="h-full w-full rounded-full ring-1 ring-inset ring-black/10"
+                      className="h-full w-full rounded-full ring-1 ring-inset ring-black/15"
                       style={{ background: v.color }}
                     />
                   </button>
