@@ -1,8 +1,9 @@
 ---
 image: /images/products/alocasia-holy-grail-care-guide-header.jpg
-title: アロカシア・ホーリーグレイルの育て方｜深色葉を美しく保つ管理術
+title: "アロカシア・ホーリーグレイルの育て方｜冬も15℃以上、湿度は60〜80%"
 description: アロカシア・ホーリーグレイルの育て方を徹底解説。深みのある濃色葉と隆起した葉脈を最大限に活かすための光・湿度・水やり・用土管理を具体的に解説します。
 date: '2026-06-03'
+updated: "2026-10-27"
 category: guide
 tags:
   - アロカシア

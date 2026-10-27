@@ -1,8 +1,9 @@
 ---
 image: "https://baseec-img-mng.akamaized.net/images/item/origin/b01f1e24ce03e1fa37b7c6d946cee50f.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
-title: "ジュエルオーキッドとは｜宝石の葉をもつラン"
+title: "ジュエルオーキッドは分類名ではない｜葉が光る地生ランの総称、入門はルディシア"
 description: "葉脈が金や銀に輝くジュエルオーキッドの正体を解説します。ルディシアやマコデスなど主要な属の違い、育てやすさの順位、室内で管理するための基本条件までまとめました。"
 date: "2026-10-05"
+updated: "2026-10-27"
 category: "species"
 tags: ["ジュエルオーキッド", "ルディシア", "マコデス", "ラン科", "テラリウム"]
 author: "tokyoplants 編集部"

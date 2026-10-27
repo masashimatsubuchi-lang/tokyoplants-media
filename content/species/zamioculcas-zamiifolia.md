@@ -1,8 +1,9 @@
 ---
 image: "https://plus.unsplash.com/premium_photo-1743947642524-f1cddd6cb625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "ザミオクルカスの育て方図鑑｜ZZ plantの特徴と管理の基本"
+title: "ZZプラント（ザミオクルカス）が弱る原因の大半は水のやりすぎ｜乾いて数日待つ"
 description: "ザミオクルカス（ZZ plant）の特徴、根茎が水を蓄える仕組み、レイヴン等の品種、置き場所、水やり、植え替え、増やし方、トラブル対策を図鑑形式で解説します。"
 date: "2026-06-09"
+updated: "2026-10-27"
 category: "species"
 tags: ["育て方"]
 author: "tokyoplants 編集部"
@@ -20,7 +21,7 @@ baseProducts:
     price: ""
 ---
 
-# ザミオクルカスの育て方図鑑｜ZZ plantの特徴と管理の基本
+# ZZプラント（ザミオクルカス）が弱る原因の大半は水のやりすぎ｜乾いて数日待つ
 
 ザミオクルカス（*Zamioculcas zamiifolia*）は、ケニア・タンザニアからジンバブエ・南アフリカにかけての東〜南部アフリカに広く自生するサトイモ科の多年草である。英語圏では「ZZ plant」として広く知られ、**厚く光沢のある複葉と、地下に発達する塊根（根茎）**が最大の特徴だ。
 

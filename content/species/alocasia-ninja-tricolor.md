@@ -1,8 +1,9 @@
 ---
 image: "https://images.unsplash.com/photo-1764042684608-06113cfffe45?w=1200&q=80"
-title: "アロカシア・ニンジャ トリカラー｜Alocasia 'Ninja Tricolor' 図鑑"
-description: "アロカシア・ニンジャ トリカラー（Alocasia 'Ninja Tricolor'）の特徴・育て方を解説。グリーン・ホワイト・ピンクの三色斑が入る希少なトリカラー品種です。"
+title: "アロカシア・ニンジャ トリカラー｜流通はごくわずか、三色の配分は葉ごとに変わる"
+description: "アロカシア・ニンジャ トリカラーは流通量が極めて少なく、難易度は上級。草丈は成株で30〜60cm程度。三色の配分は葉ごとに変わり、ピンクは20℃以上の明るい環境で濃く出る。"
 date: "2026-06-09"
+updated: "2026-10-27"
 category: "species"
 genus: "alocasia"
 tags:

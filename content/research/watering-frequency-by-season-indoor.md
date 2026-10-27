@@ -1,8 +1,9 @@
 ---
 image: "https://images.pexels.com/photos/7219680/pexels-photo-7219680.jpeg?auto=compress&cs=tinysrgb&w=1200"
-title: "観葉植物の水やり頻度｜季節別の目安と年間の考え方"
+title: "観葉植物の水やり頻度｜夏は乾いたらすぐ、冬は乾いてから数日待つ"
 description: "観葉植物の水やり頻度が季節でどう変わるのかを、蒸散・成長期と休眠期・室温の関係から整理。春夏秋冬の頻度目安と判断ポイントを一覧表にまとめ、季節ごとの詳しいガイドへ案内します。頻度固定ではなく土の状態で判断する方法と、季節の変わり目に失敗しやすいポイントも解説。"
 date: "2026-02-17"
+updated: "2026-10-27"
 category: "research"
 tags: ["水やり", "季節", "年間管理", "根腐れ"]
 author: "tokyoplants 編集部"

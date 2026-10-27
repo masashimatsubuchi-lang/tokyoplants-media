@@ -1,8 +1,9 @@
 ---
 image: "https://images.unsplash.com/photo-1632320209874-21a30dac3216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
-title: "アロカシア・シルバードラゴン｜特徴と育て方"
+title: "アロカシア・シルバードラゴンは過湿と乾燥で枯れる｜湿度60%が境目"
 description: "銀白色の葉に浮かぶ鱗のような葉脈が特徴の小型アロカシア。乾燥と過湿の両方に弱く、水やりの間隔がいちばんの難所です。用土・湿度・冬越し・増やし方を解説します。"
 date: "2026-06-09"
+updated: "2026-10-27"
 category: "species"
 tags: ["アロカシア", "小型種", "コレクター"]
 author: "tokyoplants 編集部"
@@ -32,7 +33,7 @@ baseProducts:
     price: "¥2,000"
 ---
 
-# アロカシア・シルバードラゴン｜特徴と育て方
+# アロカシア・シルバードラゴンは過湿と乾燥で枯れる｜湿度60%が境目
 
 銀白色の地色に深い緑の葉脈が網目状に走り、まるで鱗をまとった龍のような葉面。同じ *Alocasia baginda* の品種でありながら、緑を基調とする [Dragon Scale](/species/alocasia-dragon-scale) とは対照的な「銀」の世界観を持つ小型種だ。本記事では基本情報から培地の選び方、球茎の休眠、増やし方まで図鑑形式で解説する。
 

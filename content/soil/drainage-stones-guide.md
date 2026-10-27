@@ -1,8 +1,9 @@
 ---
 image: "https://plus.unsplash.com/premium_photo-1675373033451-23abc8318d5d?w=800&q=80"
-title: "観葉植物に鉢底石は必要？｜役割・量とAmazon人気商品"
+title: "観葉植物に鉢底石は必要？プラ鉢は入れる、スリット鉢なら省略できる"
 description: "観葉植物の鉢底石は本当に必要なのか。鉢底石の役割、適切な量、おすすめ素材、代用品まで解説し、Amazonで人気の鉢底石商品も比較して紹介します。鉢底石ありなしの違いと、正しい使い方がわかります。"
 date: "2026-02-16"
+updated: "2026-10-27"
 category: "soil"
 tags: ["排水性", "植え替え", "用土", "鉢底石", "Amazon", "おすすめ"]
 author: "tokyoplants 編集部"

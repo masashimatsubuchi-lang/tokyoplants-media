@@ -1,8 +1,9 @@
 ---
 image: "https://images.pexels.com/photos/9413694/pexels-photo-9413694.jpeg?auto=compress&cs=tinysrgb&w=1200"
-title: "観葉植物に適した湿度は何％？葉が傷む境界と対策"
+title: "観葉植物の湿度は何％？家庭なら40〜55%、35%を切ると葉先が傷みやすい"
 description: "観葉植物に適した室内湿度の目安を、園芸の一般的な知見をもとに整理。葉先枯れが出やすい乾燥の境界、カビが増える高湿度の境界、家庭で無理なく維持できる湿度レンジと対策を解説します。"
 date: "2026-02-17"
+updated: "2026-10-27"
 category: "research"
 tags: ["湿度", "葉焼け", "葉先枯れ", "研究"]
 author: "tokyoplants 編集部"

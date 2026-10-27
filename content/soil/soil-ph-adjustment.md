@@ -1,8 +1,9 @@
 ---
 image: "https://images.unsplash.com/photo-1520412099551-62b6bafeb5bb?w=800&q=80"
-title: "観葉植物の土のpH調整方法｜酸性・アルカリ性の測定と改善"
+title: "観葉植物の土のpHは5.5〜7.0｜酸性なら苦土石灰、アルカリ性なら鹿沼土"
 description: "観葉植物の土のpH値の測定方法と調整方法を解説。植物別の適正pH、酸性に傾いた土・アルカリ性に傾いた土それぞれの改善策がわかります。"
 date: "2026-02-18"
+updated: "2026-10-27"
 category: "soil"
 tags: ["用土", "酸性"]
 author: "tokyoplants 編集部"

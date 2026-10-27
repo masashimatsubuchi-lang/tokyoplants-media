@@ -1,8 +1,9 @@
 ---
 image: "https://plus.unsplash.com/premium_photo-1675342786681-e33a19414cfd?w=800&q=80"
-title: "ペペロミア・アルギレイア｜スイカ柄葉の育て方"
+title: "ペペロミア・アルギレイアは迷ったら水やりしない｜スイカペペの冬は12℃以上"
 description: "ペペロミア・アルギレイア（スイカペペ）の基本情報、スイカ柄の仕組み、ケイパレータとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
+updated: "2026-10-27"
 category: "species"
 tags: ["ペペロミア"]
 author: "tokyoplants 編集部"

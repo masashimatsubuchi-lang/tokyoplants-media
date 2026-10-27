@@ -1,8 +1,9 @@
 ---
 image: "https://images.unsplash.com/photo-1595154038281-4beb9195415b?w=1200&q=80"
-title: "Tissue culture（組織培養）とは｜フラスコ苗の選び方"
-description: "SNSやショップで見かける「Tissue culture」「TC株」「フラスコ苗」とは何か。無菌培養で植物を増やす仕組み、メリットと限界、キメラ型の斑が再現できない理由、そして買うときに確認すべきポイントを整理しました。"
+title: "Tissue culture（組織培養）とは？アルボの斑は再現できない"
+description: "Tissue culture（TC株）とは、無菌のフラスコ内で植物の一部から増やす組織培養のクローン苗。キメラ斑が再現できない理由と、買うなら順化済みを選ぶべき理由を整理しました。"
 date: "2026-09-27"
+updated: "2026-10-27"
 category: "research"
 tags:
   - 組織培養
@@ -29,7 +30,7 @@ baseProducts:
     price: "¥1,200〜"
 ---
 
-# Tissue culture（組織培養）とは｜フラスコ苗の選び方
+# Tissue culture（組織培養）とは？アルボの斑は再現できない
 
 透明なフラスコや瓶にゼリー状の培地が入り、その中で小さな植物が何本も育っている——SNSやフリマアプリ、専門店のオンラインストアで「Tissue culture」「TC株」「フラスコ苗」という言葉を見かけて、これは何なのか、買っていいものなのか、と手が止まった人は少なくないはずです。
 
