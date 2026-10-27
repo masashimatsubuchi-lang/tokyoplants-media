@@ -65,7 +65,7 @@ const curatedAsins = [
   "B0C9LN59ZR", // repotting mat
   "B08PPML5TC", // watering checker
   "B0BGXVXGSV", // watering can
-  "B0CSCX75Z5", // pot
+  "B08CXX4B4X", // pot; existing image provided
   "B0C5M5HPC4", // caudex pot
 ];
 
