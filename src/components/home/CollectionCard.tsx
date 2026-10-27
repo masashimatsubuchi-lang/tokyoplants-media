@@ -9,7 +9,7 @@ import type { OwnProduct } from "@/lib/homeStorefront";
 //
 // 種類違いのある商品は、写真の下で切り替えられる。
 //   color: 色の丸をタップすると、その色の写真に切り替わる（タオル）
-//   size:  容量のボタンで写真と価格が切り替わる（SOILの2L／10L）
+//   size:  ボタンで写真と価格（とリンク先）が切り替わる（SOILの2L／10L、SISHICRAFTの鉢植え／キーホルダー）
 // 切り替えのボタンは全面リンクの上に重ねて押せるようにしている。
 export default function CollectionCard({
   product,
@@ -24,11 +24,12 @@ export default function CollectionCard({
   const image = variant?.image ?? product.image;
   const alt = variant?.alt ?? product.alt;
   const price = variant?.price ?? product.price;
+  const href = variant?.href ?? product.href;
 
   return (
     <article className="group relative flex w-[82%] shrink-0 snap-start flex-col overflow-hidden rounded-[28px] bg-white shadow-[0_2px_12px_rgba(0,0,0,0.05)] transition-shadow duration-300 hover:shadow-[0_12px_36px_rgba(0,0,0,0.10)] sm:w-[58%] md:w-auto">
       <a
-        href={product.href}
+        href={href}
         target="_blank"
         rel="noopener noreferrer"
         aria-label={`${product.name}をtokyoplantsのショップで見る`}

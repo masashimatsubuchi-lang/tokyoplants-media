@@ -26,6 +26,8 @@ export interface ProductVariant {
   alt: string;
   /** 容量ごとに価格が違う場合の価格 */
   price?: string;
+  /** 別の商品ページに分かれている場合のリンク先（SISHICRAFTの鉢植え／キーホルダー） */
+  href?: string;
 }
 
 export interface OwnProduct {
@@ -40,7 +42,7 @@ export interface OwnProduct {
   alt: string;
   /** 柄違い・容量違い。先頭が代表。画像ファイルが無いものはページ側で表示しない */
   variants?: ProductVariant[];
-  /** color: 色の丸をタップして写真を切り替える ／ size: 容量の切り替えボタン */
+  /** color: 色の丸をタップして写真を切り替える ／ size: 容量・種類の切り替えボタン */
   variantStyle?: "color" | "size";
   href: string;
 }
@@ -111,6 +113,24 @@ export const OWN_COLLECTION: OwnProduct[] = [
     image: "/images/home/sishicraft-monstera.jpg",
     alt: "SISHICRAFT 斑入りモンステラのレザー作品",
     href: ecUrl("/items/143263775", "collection-sishicraft"),
+    // 鉢植えとキーホルダーは別の商品ページ。切り替えるとリンク先も変わる
+    variantStyle: "size",
+    variants: [
+      {
+        name: "鉢植え",
+        price: "¥18,000",
+        image: "/images/home/sishicraft-monstera.jpg",
+        alt: "SISHICRAFT 斑入りモンステラのレザー作品",
+        href: ecUrl("/items/143263775", "collection-sishicraft"),
+      },
+      {
+        name: "キーホルダー",
+        price: "¥8,000",
+        image: "/images/home/sishicraft-keyholder.jpg",
+        alt: "SISHICRAFT 斑入りモンステラのレザーキーホルダー",
+        href: ecUrl("/items/146918176", "collection-sishicraft-keyholder"),
+      },
+    ],
   },
 ];
 
