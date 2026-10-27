@@ -99,7 +99,7 @@ export default function StoreHome() {
       <section id="ranking" aria-labelledby="ranking-heading" className="scroll-mt-16 bg-[#f5f5f7] pb-16 md:pb-24">
         <div className="store-gutter">
           <div className="mx-auto max-w-[1180px]">
-            <SectionTitle id="ranking-heading" strong="人気ランキング" rest="読者が選んだ道具。" />
+            <SectionTitle id="ranking-heading" strong="人気ランキング" rest="よく読まれている記事の道具。" />
           </div>
         </div>
         <div className="mt-8 md:mt-10">
