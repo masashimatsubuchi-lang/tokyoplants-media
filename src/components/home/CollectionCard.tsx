@@ -51,7 +51,7 @@ export default function CollectionCard({ product, priority = false }: { product:
             />
           </div>
           {variants.length > 1 && (
-            <div className="pointer-events-auto relative z-10 mt-2 flex justify-center gap-1.5" role="group" aria-label={`柄を見る（全${variants.length}種）`}>
+            <div className="pointer-events-auto relative z-10 mt-2 flex justify-center gap-1" role="group" aria-label={`柄を見る（全${variants.length}種）`}>
               {variants.map((v, i) => (
                 <button
                   key={v.image}
@@ -62,11 +62,11 @@ export default function CollectionCard({ product, priority = false }: { product:
                   aria-pressed={i === active}
                   aria-label={v.name}
                   title={v.name}
-                  className={`h-8 w-8 overflow-hidden rounded-full bg-white ring-1 transition ${
+                  className={`h-[26px] w-[26px] shrink-0 overflow-hidden rounded-full bg-white ring-1 transition ${
                     i === active ? "ring-2 ring-[#1d1d1f]" : "ring-black/10 hover:ring-black/30"
                   }`}
                 >
-                  <Image src={v.image} alt="" width={64} height={64} loading="lazy" className="h-full w-full scale-125 object-contain" />
+                  <Image src={v.thumb} alt="" width={64} height={64} loading="lazy" className="h-full w-full scale-125 object-contain" />
                 </button>
               ))}
             </div>

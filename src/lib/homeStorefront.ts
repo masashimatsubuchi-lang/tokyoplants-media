@@ -21,6 +21,8 @@ export function ecUrl(path: string, placement: string): string {
 export interface ProductVariant {
   name: string;
   image: string;
+  /** 見本ボタン用の小さな画像（96px） */
+  thumb: string;
   alt: string;
 }
 
@@ -84,6 +86,7 @@ export const OWN_COLLECTION: OwnProduct[] = [
     variants: TOWEL_PATTERNS.map(([name, file]) => ({
       name,
       image: `/images/home/towel-${file}.jpg`,
+      thumb: `/images/home/towel-${file}-thumb.jpg`,
       alt: `Daily Botanical Towel ${name.replace("｜", " ")}`,
     })),
     href: ecUrl("/items/135803882", "collection-towel"),
