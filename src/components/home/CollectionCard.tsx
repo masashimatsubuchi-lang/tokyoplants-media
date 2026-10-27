@@ -1,25 +1,26 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { useState } from "react";
 import type { OwnProduct } from "@/lib/homeStorefront";
 
-// 自社商品のカード。写真が主役なので、文字は種類・名前・一言・価格に絞る。
-// カード全体はECへのリンク。記事リンクとサイズ切り替えだけは、その上に重ねて押せるようにしている
-// （aタグの入れ子を避けるため、全面リンクを下に敷き、中身は pointer-events-none にしている）。
-export default function CollectionCard({
-  product,
-  priority = false,
-}: {
-  product: OwnProduct;
-  priority?: boolean;
-}) {
+// 自社商品のカード。Apple Storeの商品カードにならい、文字は種類・名前・一言・価格だけにして
+// 写真を下半分に大きく置く。カードのどこを押してもECの商品ページへ行く。
+//
+// 柄が複数ある商品（タオル）は、写真の下の小さな見本で他の柄を見られる。
+// PCは見本に乗せている間だけ、スマホはタップでその柄を表示し、
+// PCでカードから外れたら代表の柄（variants[0]）に戻す。
+// 見本のボタンは全面リンクの上に重ねて押せるようにしている。
+export default function CollectionCard({ product, priority = false }: { product: OwnProduct; priority?: boolean }) {
+  const variants = product.variants ?? [];
   const [active, setActive] = useState(0);
-  const variant = product.variants[active];
+  const shown = variants[active] ?? { image: product.image, alt: product.alt, name: product.name };
 
   return (
-    <article className="group relative flex w-[80%] shrink-0 snap-start flex-col rounded-[28px] bg-white px-5 pb-6 pt-7 shadow-[0_2px_10px_rgba(0,0,0,0.04)] transition-shadow duration-300 hover:shadow-[0_10px_34px_rgba(0,0,0,0.10)] sm:w-[58%] md:w-auto md:px-6">
+    <article
+      onMouseLeave={() => setActive(0)}
+      className="group relative flex w-[82%] shrink-0 snap-start flex-col overflow-hidden rounded-[28px] bg-white shadow-[0_2px_12px_rgba(0,0,0,0.05)] transition-shadow duration-300 hover:shadow-[0_12px_36px_rgba(0,0,0,0.10)] sm:w-[58%] md:w-auto"
+    >
       <a
         href={product.href}
         target="_blank"
@@ -28,92 +29,48 @@ export default function CollectionCard({
         className="absolute inset-0 z-0 rounded-[28px] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#16352A]"
       />
       <div className="pointer-events-none relative flex flex-1 flex-col">
-        <p className="text-[12px] font-semibold text-[#2c6e52]">
-          {product.kind}
-        </p>
-        <h3 className="mt-1.5 text-[22px] font-semibold leading-[1.2] tracking-[-0.01em]">
-          {product.name}
-        </h3>
-        <p className="mt-2 text-[14px] leading-relaxed text-[#6e6e73] [word-break:auto-phrase]">
-          {product.catchCopy}
-        </p>
-
-        {/* 写真。白背景の商品写真を白いカードに直接置き、輪郭だけが浮かぶように見せる */}
-        <div className="relative -mx-1 mt-3 aspect-square md:mx-auto md:w-full md:max-w-[360px]">
-          {product.variants.map((v, i) => (
-            <Image
-              key={v.image}
-              src={v.image}
-              alt={v.alt}
-              width={800}
-              height={800}
-              sizes="(min-width: 1200px) 300px, (min-width: 768px) 45vw, 80vw"
-              priority={priority && i === 0}
-              loading={priority && i === 0 ? undefined : "lazy"}
-              className={`absolute inset-0 h-full w-full object-contain transition duration-500 group-hover:scale-[1.03] ${
-                i === active ? "opacity-100" : "opacity-0"
-              }`}
-            />
-          ))}
+        <div className="px-6 pt-7 md:px-7 md:pt-8">
+          <p className="text-[12px] font-semibold text-[#2c6e52]">{product.kind}</p>
+          <h3 className="mt-2 text-[26px] font-semibold leading-[1.15] tracking-[-0.02em] xl:text-[24px]">{product.name}</h3>
+          <p className="mt-3 text-balance text-[14px] font-semibold leading-snug [word-break:auto-phrase]">{product.catchCopy}</p>
+          <p className="mt-2 text-[14px] text-[#1d1d1f]">{product.price}</p>
         </div>
 
-        {/* 選択肢の行はどのカードにも同じ高さで置き、横に並べたとき価格の位置を揃える */}
-        <div className="mt-auto pt-4">
-          <div className="mb-3 flex h-8 items-center">
-            {product.variants.length > 1 && (
-              <div
-                className="pointer-events-auto relative z-10 inline-flex rounded-full bg-[#f5f5f7] p-1"
-                role="group"
-                aria-label="容量"
-              >
-                {product.variants.map((v, i) => (
-                  <button
-                    key={v.label}
-                    type="button"
-                    onClick={() => setActive(i)}
-                    aria-pressed={i === active}
-                    className={`rounded-full px-3.5 py-1 text-[12px] font-semibold transition-colors ${
-                      i === active
-                        ? "bg-white text-[#1d1d1f] shadow-sm"
-                        : "text-[#6e6e73] hover:text-[#1d1d1f]"
-                    }`}
-                  >
-                    {v.label}
-                  </button>
-                ))}
-              </div>
-            )}
-            {product.swatches && (
-              <div
-                className="flex flex-wrap items-center gap-1.5"
-                aria-label={`全${product.swatches.length}種`}
-              >
-                {product.swatches.map((s) => (
-                  <span
-                    key={s.name}
-                    title={s.name}
-                    className="h-3 w-3 rounded-full ring-1 ring-black/10"
-                    style={{ backgroundColor: s.color }}
-                  />
-                ))}
-                <span className="ml-1 whitespace-nowrap text-[12px] text-[#6e6e73]">
-                  全{product.swatches.length}種
-                </span>
-              </div>
-            )}
+        {/* 写真はカードの下端に寄せ、文字の行数が違っても4枚の写真の位置が揃うようにする */}
+        <div className="mt-auto px-3 pb-4 pt-6">
+          <div className="relative mx-auto aspect-square w-full max-w-[380px]">
+            <Image
+              key={shown.image}
+              src={shown.image}
+              alt={shown.alt}
+              width={800}
+              height={800}
+              sizes="(min-width: 1280px) 270px, (min-width: 768px) 45vw, 82vw"
+              priority={priority && active === 0}
+              className="h-full w-full object-contain transition-transform duration-500 group-hover:scale-[1.03]"
+            />
           </div>
-          <p className="text-[15px] font-semibold">
-            {variant.price}
-            <span className="ml-1 text-[12px] font-normal text-[#6e6e73]">
-              税込
-            </span>
-          </p>
-          <Link
-            href={product.article.href}
-            className="pointer-events-auto relative z-10 mt-3 inline-block text-[13px] font-medium text-[#2c6e52] hover:underline"
-          >
-            {product.article.label} ›
-          </Link>
+          {variants.length > 1 && (
+            <div className="pointer-events-auto relative z-10 mt-2 flex justify-center gap-1.5" role="group" aria-label={`柄を見る（全${variants.length}種）`}>
+              {variants.map((v, i) => (
+                <button
+                  key={v.image}
+                  type="button"
+                  onMouseEnter={() => setActive(i)}
+                  onFocus={() => setActive(i)}
+                  onClick={() => setActive(i)}
+                  aria-pressed={i === active}
+                  aria-label={v.name}
+                  title={v.name}
+                  className={`h-8 w-8 overflow-hidden rounded-full bg-white ring-1 transition ${
+                    i === active ? "ring-2 ring-[#1d1d1f]" : "ring-black/10 hover:ring-black/30"
+                  }`}
+                >
+                  <Image src={v.image} alt="" width={64} height={64} loading="lazy" className="h-full w-full scale-125 object-contain" />
+                </button>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </article>
