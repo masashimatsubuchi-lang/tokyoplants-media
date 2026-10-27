@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1788437063440-a6623dac36ac?w=1200&q=80
 title: "観葉植物417種の原産地・適温・湿度一覧｜Green Collection図鑑"
 description: "tokyoplants運営元が開発する観葉植物管理アプリ「Green Collection」の植物図鑑データベースから、観葉植物417種の原産地・適正温度・適正湿度を学名順に一覧化。栽培管理の目安として横断的に比較できるリファレンス記事です。"
 date: "2026-09-09"
+updated: "2026-10-27"
 category: "research"
 tags: ["観葉植物", "原産地", "耐寒温度", "データベース", "Green Collection"]
 author: "tokyoplants 編集部"
@@ -304,7 +305,7 @@ baseProducts:
 | *Goeppertia ornata* | カラテア・オルナータ | コロンビア・ベネズエラ | 18〜28℃ | 60〜75% |
 | *Goeppertia rufibarba* | カラテア・ルフィバルバ | ブラジル | 18〜28℃ | 55〜70% |
 | *Goeppertia spp.* | ゲッペルティア（種類不明） | 中南米熱帯地域（種により異なる） | 20〜28℃ | 60%以上 |
-| *Goeppertia veitchiana 'Medallion'* | カラテア・メダリオン | ブラジル原産種の園芸品種 | 18〜28℃ | 60〜75% |
+| *Goeppertia* 'Medallion' | カラテア・メダリオン | 園芸品種（所属は *G. veitchiana*〔エクアドル〕とする資料と *G. roseopicta* とする資料がある） | 18〜28℃ | 60〜75% |
 | *Goeppertia warscewiczii* | カラテア・ワルセヴィッチー | コスタリカ・ニカラグア | 18〜28℃ | 60〜75% |
 | *Goeppertia zebrina* | カラテア・ゼブリナ | ブラジル | 18〜28℃ | 60〜75% |
 | *Gynura aurantiaca* | ビロードサンシチ(ギヌラ) | インドネシア(ジャワ島) | 18〜28℃ | 50〜70% |

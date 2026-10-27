@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1764701263833-eb7a07bbf1f2?w=1200&q=80
 title: "カラテア属とは｜人気品種・育て方・葉が丸まる原因と対処法"
 description: "カラテア属の基本情報、人気品種一覧（オービフォリア・マコヤナ・ゼブリナ等）、育て方の共通ポイント、葉が丸まる・枯れる原因と対処法をまとめた図鑑ページです。"
 date: "2026-06-28"
+updated: "2026-10-27"
 category: "species"
 tags: ["カラテア", "品種", "クズウコン科", "葉模様", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -50,7 +51,7 @@ baseProducts:
 | ルフィバルバ | *C. rufibarba* | 細葉・葉裏が赤紫・葉縁が波打つ | 初〜中級 |
 | ロゼオピクタ | *C. roseopicta* | 葉面にピンク〜白のリング模様・葉裏は紫 | 中〜上級 |
 | フレディ | *C. freddie* | 明るい緑地に濃緑の縦縞・比較的丈夫 | 初級 |
-| メダリオン | *C. veitchiana* 'Medallion' | 葉面にメダリオン状の模様・流通量が多い | 初〜中級 |
+| メダリオン | *C.* 'Medallion'（*veitchiana* または *roseopicta* の品種とされる） | 葉面にメダリオン状の模様・流通量が多い | 初〜中級 |
 | ビューラックス（ホワイトスター） | *C. majestica* 'White Star' | 緑葉にクリーム〜ピンクの細い縞 | 中〜上級 |
 | オルナータ | *C. ornata* | 濃緑葉に白〜ピンクのピンストライプ模様 | 中〜上級 |
 | [ホワイトフュージョン](/species/calathea-white-fusion) | *C. lietzei* 'White Fusion' | 白・クリーム・緑が入り混じる大理石模様の斑入り | 上級 |

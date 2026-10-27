@@ -47,6 +47,9 @@ const nextConfig: NextConfig = {
       { source: "/guide/anthurium-warocqueanum-humidity-setup", destination: "/guide/anthurium-warocqueanum-care-guide", permanent: true },
       { source: "/guide/anthurium-regale-care-guide", destination: "/species/anthurium-regale", permanent: true },
       { source: "/guide/anthurium-crystallinum-care-guide", destination: "/species/anthurium-crystallinum", permanent: true },
+      // 2026-10-27 「観葉植物 葉が黒くなる」で2記事が7位台を取り合っていたため統合。
+      // 90日の表示が3倍・内部リンクの多い古いURLを残し、本文は新しい記事を土台にした
+      { source: "/guide/black-leaves-causes", destination: "/guide/black-spots-wilting-leaves-checklist", permanent: true },
       // 2026-10-17 Search Consoleで404として検出されていたURL。綴り違い・旧命名で
       // 外部から参照されており、本来の記事に寄せる（いずれも表示1回・クリック0の軽微なもの）
       { source: "/guide/how-to_trim-roots-when-repotting", destination: "/guide/how-to-trim-roots-when-repotting", permanent: true },
