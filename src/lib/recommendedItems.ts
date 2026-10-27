@@ -159,11 +159,12 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         relatedSlugs: ["review/houseplant-fertilizer-products-comparison"],
       },
       {
-        title: "住友化学園芸 ルートン 植物成長調整剤 15g",
+        // ルートンは農薬登録の適用表に観葉植物の行がない（2026-10-27確認）ため差し替えた
+        title: "バイエルクロップサイエンス オキシベロン液剤 500ml",
         source: "amazon",
-        asin: "B00288GPJC",
-        price: "¥400〜600程度",
-        reason: "切り口に軽くまぶすだけで発根率が上がる、挿し木の発根促進剤の定番。",
+        asin: "B00X5YI8RA",
+        price: "¥3,331前後",
+        reason: "適用表に「花き類・観葉植物」の行がある発根促進剤。切り口を浸して使う液剤タイプ。",
         relatedSlugs: ["review/rooting-hormone-powder-comparison"],
       },
       {
