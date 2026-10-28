@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
+import { trackEvent as send } from "@/lib/track";
 
 // EC・Amazon・Green Collection への導線クリックと、キャラクター注釈の表示を
 // GTM／サーバーサイドタグに依存せず、直接 gtag.js（layout.tsx で読み込む G-xxxx）へ送る。
@@ -15,22 +16,12 @@ import { usePathname } from "next/navigation";
 //   amazon_click        { asin, placement, article_slug }         amazon.co.jp への遷移
 //   gc_lp_click         { channel, article_slug }                 /app への内部遷移（?ch= がチャネル）
 //   character_note_view { character, note_type, article_slug }   注釈が画面に50%以上入った時に1回
+//   home_variant_select { placement }                             トップの自社商品カードで色・容量を選んだ時（CollectionCard が送る）
 //
 // placement は各コンポーネントが URL に付ける utm_content（inline / bottom / shop-banner）を
 // そのまま使う。付いていないリンク（本文中のテキストリンク等）は "text"。
 
 const CHARACTER_NOTE_SELECTOR = "[data-character-note]";
-
-function send(name: string, params: Record<string, string>) {
-  if (typeof window === "undefined") return;
-  if (typeof window.gtag === "function") {
-    window.gtag("event", name, params);
-    return;
-  }
-  // gtag がまだ無い（読み込み前・ブロック時）場合は dataLayer に積んでおく
-  window.dataLayer = window.dataLayer || [];
-  window.dataLayer.push({ event: name, ...params });
-}
 
 function articleSlug(): string {
   return window.location.pathname.replace(/\/$/, "") || "/";

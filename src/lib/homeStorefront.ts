@@ -6,6 +6,8 @@
  * - 外部商品はトップでは人気ランキングだけを出す（編集部おすすめは /items）
  */
 
+import homeRanking from "@/data/home-ranking.json";
+
 const EC = "https://www.tokyoplants.com";
 
 /** ECリンクに付ける計測パラメータ。utm_content は ClickTracker の ec_click の placement になる */
@@ -139,44 +141,21 @@ export const OWN_COLLECTION: OwnProduct[] = [
 
 /* ---------- 人気ランキング（Amazon） ---------- */
 
+/**
+ * よく読まれている記事で紹介している商品のランキング（2026-10-28 オーナーと決定）。
+ * 「その商品を amazonProducts に載せている記事の、直近28日の閲覧数（GA4）の合計」で並べる。
+ * データは scripts/update-popular.mjs が src/data/home-ranking.json に書き出す（月1回を目安に実行）。
+ * 載せる商品・除外する商品とその理由もスクリプト側にまとめてある。
+ * 価格は頻繁に変わるので持たない（2026-10-28 オーナー判断）。
+ */
 export interface RankingItem {
   asin: string;
   title: string;
-  price: string;
   image: string;
   /** 並び順の根拠：この商品を紹介している記事の閲覧数の合計（表示はしない） */
   views: number;
 }
 
-/**
- * よく読まれている記事で紹介している商品のランキング（2026-10-28 オーナーと決定）。
- * 注文数やクリック数は記録が少なく15位まで意味のある順位を作れないため、
- * 「その商品を amazonProducts に載せている記事の、直近28日の閲覧数（GA4）の合計」で並べる。
- *
- * 除外するもの
- * - 当サイトのAmazon選定基準（★3.2以上・レビュー10件以上・出荷元Amazon・在庫あり）を満たさない商品
- *   （BARREL NEO AMATERAS／NEO TSUKUYOMI、HaruDesign L610／GL-T5、ITANSE スリット鉢、GOODGOODS、BIBIPLANTS、怪獣モス など）
- * - I'm original SOIL・HYDRO MINERAL の代わりになる培養土・無機培地
- *   （花ごころ・プロトリーフ・KINCHOの土、ねこチップ、ゼオライト、ハイドロボール、洋らんバーク、パーライト等）
- * - 同じ商品の容量違いは1つにまとめる（日清の水苔 No.500／No.150 など）
- * 閲覧数は 2026-09-30〜10-27、価格・評価は 2026-10-28 に商品ページで確認。定期的に作り直すこと。
- */
 export const RANKING_LIMIT = 15;
 
-export const READER_RANKING: RankingItem[] = [
-  { asin: "B0CLD6QSDD", title: "BRIM FLORA 植物育成ライト 3ヘッド", price: "¥4,780", image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL500_.jpg", views: 1586 },
-  { asin: "B0B3M47RQJ", title: "BRIM SOL 植物育成ライト 24W", price: "¥3,426", image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL500_.jpg", views: 1251 },
-  { asin: "B0CP4BVWMN", title: "BRIM PANEL A 植物育成ライト 45W", price: "¥7,386", image: "https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL500_.jpg", views: 1135 },
-  { asin: "B0CY2VJ3D3", title: "ジャパン蘭土 圧縮水苔AAA 150g", price: "¥2,180", image: "https://m.media-amazon.com/images/I/61XVL+zGwUL._AC_SL500_.jpg", views: 722 },
-  { asin: "B0BYYQTM98", title: "Charming Club モスポール 110cm", price: "¥2,599", image: "https://m.media-amazon.com/images/I/61AcOWOTsxL._AC_SL500_.jpg", views: 526 },
-  { asin: "B0F1K913VB", title: "園芸支柱 ココスティック 120cm 太め", price: "¥1,499", image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL500_.jpg", views: 341 },
-  { asin: "B0D7C1LT7M", title: "BRIM PANEL Y 植物育成ライト 100W", price: "¥9,764", image: "https://m.media-amazon.com/images/I/619wbqYTqKL._AC_SL500_.jpg", views: 279 },
-  { asin: "B07ZTM6H4H", title: "ハイポネックス 専用液肥 観葉植物用 450ml", price: "¥990", image: "https://m.media-amazon.com/images/I/317m+X7Za-L._AC_SL500_.jpg", views: 250 },
-  { asin: "B0CG35V5CD", title: "コルク樹皮 300×400mm（着生用）", price: "¥2,980", image: "https://m.media-amazon.com/images/I/51DbJvUJERL._AC_SL500_.jpg", views: 197 },
-  { asin: "B0764P7D64", title: "SUStee 水やりチェッカー Mサイズ", price: "¥458", image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL500_.jpg", views: 186 },
-  { asin: "B07H9VRZ17", title: "ドウシシャ ルミナス ノワール ラック 4段", price: "¥9,720", image: "https://m.media-amazon.com/images/I/81eB9ZsSuoL._AC_SL500_.jpg", views: 158 },
-  { asin: "B009HI1YBU", title: "タカショー ビニール温室 3段", price: "¥4,259", image: "https://m.media-amazon.com/images/I/71Hyz9Qw1YL._AC_SL500_.jpg", views: 158 },
-  { asin: "B000FXC3T8", title: "日清ガーデンメイト 超圧縮水苔 No.500", price: "¥2,442", image: "https://m.media-amazon.com/images/I/71DAj0MPg9L._AC_SL500_.jpg", views: 128 },
-  { asin: "B09KVC22B5", title: "チリ産水苔 AA 150g", price: "¥1,187", image: "https://m.media-amazon.com/images/I/51pzw95PcjL._AC_SL500_.jpg", views: 128 },
-  { asin: "B09DG9KRZ7", title: "YOUSHY ココスティック 40cm×2本セット", price: "¥1,699", image: "https://m.media-amazon.com/images/I/71zAmMtBNtL._AC_SL500_.jpg", views: 119 },
-];
+export const READER_RANKING: RankingItem[] = homeRanking.items;

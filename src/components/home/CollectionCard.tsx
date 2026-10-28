@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useState } from "react";
 import type { OwnProduct } from "@/lib/homeStorefront";
+import { trackEvent } from "@/lib/track";
 
 // 自社商品のカード。Apple Storeの商品カードにならい、文字は種類・名前・一言・価格だけにして
 // 写真を下半分に大きく置く。カードのどこを押してもECの商品ページへ行く。
@@ -26,6 +27,13 @@ export default function CollectionCard({
   const alt = variant?.alt ?? product.alt;
   const price = variant?.price ?? product.price;
   const href = variant?.href ?? product.href;
+
+  // どの色・容量が見られているかを計測する。GA4に登録済みのカスタムディメンション placement に
+  // 「collection-{商品}:{種類名}」の形で載せる（新しいディメンションの登録は管理者権限が要るため）
+  const select = (i: number) => {
+    setActive(i);
+    if (i !== active) trackEvent("home_variant_select", { placement: `collection-${product.id}:${variants[i].name}` });
+  };
 
   return (
     <article className="group relative flex w-[82%] shrink-0 snap-start flex-col overflow-hidden rounded-[28px] bg-white shadow-[0_2px_12px_rgba(0,0,0,0.05)] transition-shadow duration-300 hover:shadow-[0_12px_36px_rgba(0,0,0,0.10)] sm:w-[58%] md:w-auto">
@@ -78,7 +86,7 @@ export default function CollectionCard({
                     <button
                       key={v.name}
                       type="button"
-                      onClick={() => setActive(i)}
+                      onClick={() => select(i)}
                       aria-pressed={i === active}
                       className={`rounded-full px-4 py-1 text-[12px] font-semibold transition-colors focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#16352A] ${
                         i === active
@@ -103,12 +111,13 @@ export default function CollectionCard({
                   <button
                     key={v.name}
                     type="button"
-                    onClick={() => setActive(i)}
+                    onClick={() => select(i)}
                     aria-pressed={i === active}
                     aria-label={v.name}
                     title={v.name}
-                    // 選択中の色は外側に細い輪をつける（Apple Storeの色選びと同じ見せ方）
-                    className={`flex h-[22px] w-[22px] shrink-0 items-center justify-center rounded-full transition focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#16352A] ${
+                    // 選択中の色は外側に細い輪をつける（Apple Storeの色選びと同じ見せ方）。
+                    // 丸は22pxのまま、before で上下左右に押せる範囲を足して指で押しやすくする（丸どうしの隙間で左右に分け合う）
+                    className={`relative flex h-[22px] w-[22px] shrink-0 items-center justify-center rounded-full transition before:absolute before:-inset-x-[4px] before:-inset-y-[11px] before:content-[''] focus:outline-none focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#16352A] ${
                       i === active
                         ? "ring-[1.5px] ring-[#1d1d1f] ring-offset-2"
                         : "hover:ring-1 hover:ring-black/25 hover:ring-offset-2"

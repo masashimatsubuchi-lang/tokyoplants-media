@@ -1,0 +1,100 @@
+{
+  "_note": "トップの人気ランキング。その商品を紹介している記事の閲覧数（GA4）の合計で並べる。scripts/update-popular.mjs で作り直す。",
+  "period": {
+    "start": "2026-09-30",
+    "end": "2026-10-27"
+  },
+  "generatedAt": "2026-10-28",
+  "items": [
+    {
+      "asin": "B0CLD6QSDD",
+      "title": "BRIM FLORA 植物育成ライト 3ヘッド",
+      "image": "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL500_.jpg",
+      "views": 1612
+    },
+    {
+      "asin": "B0B3M47RQJ",
+      "title": "BRIM SOL 植物育成ライト 24W",
+      "image": "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL500_.jpg",
+      "views": 1271
+    },
+    {
+      "asin": "B0CP4BVWMN",
+      "title": "BRIM PANEL A 植物育成ライト 45W",
+      "image": "https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL500_.jpg",
+      "views": 1153
+    },
+    {
+      "asin": "B0CY2VJ3D3",
+      "title": "ジャパン蘭土 圧縮水苔AAA 150g",
+      "image": "https://m.media-amazon.com/images/I/61XVL+zGwUL._AC_SL500_.jpg",
+      "views": 725
+    },
+    {
+      "asin": "B0BYYQTM98",
+      "title": "Charming Club モスポール 110cm",
+      "image": "https://m.media-amazon.com/images/I/61AcOWOTsxL._AC_SL500_.jpg",
+      "views": 531
+    },
+    {
+      "asin": "B0F1K913VB",
+      "title": "園芸支柱 ココスティック 120cm 太め",
+      "image": "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL500_.jpg",
+      "views": 341
+    },
+    {
+      "asin": "B0D7C1LT7M",
+      "title": "BRIM PANEL Y 植物育成ライト 100W",
+      "image": "https://m.media-amazon.com/images/I/619wbqYTqKL._AC_SL500_.jpg",
+      "views": 285
+    },
+    {
+      "asin": "B07ZTM6H4H",
+      "title": "ハイポネックス 専用液肥 観葉植物用 450ml",
+      "image": "https://m.media-amazon.com/images/I/317m+X7Za-L._AC_SL500_.jpg",
+      "views": 252
+    },
+    {
+      "asin": "B0CG35V5CD",
+      "title": "コルク樹皮 300×400mm（着生用）",
+      "image": "https://m.media-amazon.com/images/I/51DbJvUJERL._AC_SL500_.jpg",
+      "views": 197
+    },
+    {
+      "asin": "B0764P7D64",
+      "title": "SUStee 水やりチェッカー Mサイズ",
+      "image": "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL500_.jpg",
+      "views": 190
+    },
+    {
+      "asin": "B07H9VRZ17",
+      "title": "ドウシシャ ルミナス ノワール ラック 4段",
+      "image": "https://m.media-amazon.com/images/I/81eB9ZsSuoL._AC_SL500_.jpg",
+      "views": 162
+    },
+    {
+      "asin": "B009HI1YBU",
+      "title": "タカショー ビニール温室 3段",
+      "image": "https://m.media-amazon.com/images/I/71Hyz9Qw1YL._AC_SL500_.jpg",
+      "views": 162
+    },
+    {
+      "asin": "B000FXC3T8",
+      "title": "日清ガーデンメイト 超圧縮水苔 No.500",
+      "image": "https://m.media-amazon.com/images/I/71DAj0MPg9L._AC_SL500_.jpg",
+      "views": 128
+    },
+    {
+      "asin": "B09KVC22B5",
+      "title": "チリ産水苔 AA 150g",
+      "image": "https://m.media-amazon.com/images/I/51pzw95PcjL._AC_SL500_.jpg",
+      "views": 128
+    },
+    {
+      "asin": "B09DG9KRZ7",
+      "title": "YOUSHY ココスティック 40cm×2本セット",
+      "image": "https://m.media-amazon.com/images/I/71zAmMtBNtL._AC_SL500_.jpg",
+      "views": 119
+    }
+  ]
+}

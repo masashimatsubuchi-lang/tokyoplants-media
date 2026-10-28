@@ -1,8 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
 import Link from "next/link";
-import { getAllPosts, getPostsByCategory, getAllTags, getPostsByTag } from "@/lib/posts";
+import { getPostsByCategory, getAllTags, getPostsByTag } from "@/lib/posts";
 import { categories } from "@/lib/categories";
+import { getPopularPosts } from "@/lib/popular";
 import { OWN_COLLECTION, OwnProduct, RANKING_LIMIT, READER_RANKING } from "@/lib/homeStorefront";
 import ArticleCard from "@/components/ArticleCard";
 import CategoryTabs from "@/components/CategoryTabs";
@@ -15,18 +16,6 @@ import ShelfScroller from "./ShelfScroller";
 // 自社商品 → 人気ランキング → アプリ → 読みもの の順に並べる。
 // 記事への内部リンク（よく読まれている記事・カテゴリの新着・タグ）は旧トップと同程度の本数を残している。
 
-// 直近28日間のGA4実績（PV上位）に基づく選出。2026-08-31更新（旧トップから引き継ぎ）
-const EDITORS_PICK = [
-  "soil/neko-chip-vs-original-soil",
-  "review/plant-light-review",
-  "guide/hydroculture-to-soil-transition",
-  "guide/platycerium-grow-light-guide",
-  "species/alocasia-silver-dragon",
-  "guide/no-drainage-hole-pot-guide",
-  "soil/best-soil-for-pachira",
-  "guide/anthurium-warocqueanum-care-guide",
-  "guide/monstera-hydroculture",
-];
 
 /** 区画の見出し。タイトル（大・黒）とサブタイトル（小・グレー）を分け、PCは同じ行に間を空けて並べる */
 function SectionTitle({ id, strong, rest }: { id: string; strong: string; rest: string }) {
@@ -46,13 +35,11 @@ function withExistingVariants(product: OwnProduct): OwnProduct {
 }
 
 export default function StoreHome() {
-  const allPosts = getAllPosts();
   const collection = OWN_COLLECTION.map(withExistingVariants);
   const ranking = READER_RANKING.slice(0, RANKING_LIMIT);
-  const editorsPick = EDITORS_PICK.map((key) => allPosts.find((p) => `${p.category}/${p.slug}` === key)).filter(
-    (p) => p !== undefined,
-  );
-  const pickedSlugs = new Set(EDITORS_PICK.map((k) => k.split("/")[1]));
+  // よく読まれている記事は記事末尾と同じ GA4 の閲覧数リスト（scripts/update-popular.mjs で月1回作り直す）
+  const editorsPick = getPopularPosts([], 9);
+  const pickedSlugs = new Set(editorsPick.map((p) => p.slug));
   const categoryTabs = (["soil", "guide", "species", "research", "review"] as const).map((slug) => {
     const category = categories.find((c) => c.slug === slug)!;
     const inCategory = getPostsByCategory(slug);
@@ -70,9 +57,9 @@ export default function StoreHome() {
         <div className="store-gutter">
           <div className="mx-auto max-w-[1180px]">
             <h1 className="text-[30px] font-semibold leading-[1.2] tracking-[-0.015em] md:text-[44px]">
-              植物と暮らす、
+              観葉植物の専門店が
               <br className="md:hidden" />
-              土と道具と読みもの。
+              つくった、土と道具。
             </h1>
           </div>
         </div>
@@ -82,7 +69,7 @@ export default function StoreHome() {
       <section id="collection" aria-labelledby="collection-heading" className="scroll-mt-16 bg-[#f5f5f7] pb-16 pt-12 md:pb-24 md:pt-16">
         <div className="store-gutter">
           <div className="mx-auto max-w-[1180px]">
-            <SectionTitle id="collection-heading" strong="オリジナル" rest="観葉植物専門店がつくったもの。" />
+            <SectionTitle id="collection-heading" strong="オリジナル" rest="土から、暮らしの道具まで。" />
           </div>
         </div>
         <div className="store-shelf store-collection scrollbar-hide mt-8 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-4 pt-1 md:mx-auto md:mt-10 md:grid md:max-w-[1180px] md:grid-cols-2 md:gap-5 md:overflow-visible xl:grid-cols-4">

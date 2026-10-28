@@ -9,7 +9,9 @@ const DISMISS_KEY = "app-promo-banner-dismissed";
 export default function AppPromoBanner() {
   const [visible, setVisible] = useState(false);
   // アプリのLP（/app）では同じApp Store導線が主役なので、このバナーは邪魔にしかならない。
-  const onAppLanding = usePathname() === "/app";
+  // トップ（/）もページ中ほどにアプリの紹介欄（AppShowcase）があり二重になるので出さない（2026-10-28）。
+  const pathname = usePathname();
+  const hidden = pathname === "/app" || pathname === "/";
 
   useEffect(() => {
     try {
@@ -21,7 +23,7 @@ export default function AppPromoBanner() {
     }
   }, []);
 
-  if (!visible || onAppLanding) return null;
+  if (!visible || hidden) return null;
 
   const dismiss = () => {
     setVisible(false);
