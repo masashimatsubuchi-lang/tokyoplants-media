@@ -42,7 +42,7 @@ export default function AppShowcase() {
         <div className="mx-auto grid max-w-[1180px] gap-8 md:grid-cols-[1fr_auto] md:grid-rows-[auto_auto] md:gap-x-16 lg:gap-x-24">
           <div className="text-center md:col-start-1 md:row-start-1 md:self-end md:text-left">
             <div className="flex items-center justify-center gap-2.5 md:justify-start">
-              <Image src="/images/app/app-icon.png" alt="" aria-hidden width={40} height={40} className="rounded-[10px]" />
+              <Image src="/images/app/app-icon-192.png" alt="" aria-hidden width={40} height={40} className="rounded-[10px]" />
               <p className="text-[13px] font-semibold tracking-[0.16em] text-[#6E6C63]">GREEN COLLECTION</p>
             </div>
             <h2

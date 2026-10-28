@@ -293,7 +293,7 @@ export default function AppLandingPage() {
       <section className="mx-auto flex max-w-2xl flex-col items-center px-5 pt-7 pb-14 text-center sm:pt-12">
         <div className="flex items-center gap-2.5">
           <Image
-            src="/images/app/app-icon.png"
+            src="/images/app/app-icon-192.png"
             alt=""
             aria-hidden
             width={40}

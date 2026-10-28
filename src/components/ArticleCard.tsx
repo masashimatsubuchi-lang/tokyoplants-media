@@ -3,8 +3,28 @@ import Image from "next/image";
 import { PostMeta } from "@/lib/posts";
 import { getCategoryBySlug } from "@/lib/categories";
 
-export default function ArticleCard({ post }: { post: PostMeta }) {
+/**
+ * Unsplash の画像は URL の w で配信される幅が決まる。記事の image は w=1200 前後が多いが、
+ * 幅の狭いカードでは大きすぎるので、表示幅に合った w に付け替える（画質 q はそのまま）。
+ * 大きくはしない。Unsplash 以外の画像はそのまま返す。
+ */
+function resizeUnsplash(src: string, width: number): string {
+  try {
+    const u = new URL(src);
+    if (u.hostname !== "images.unsplash.com" && u.hostname !== "plus.unsplash.com") return src;
+    const current = Number(u.searchParams.get("w"));
+    if (current && current <= width) return src;
+    u.searchParams.set("w", String(width));
+    return u.toString();
+  } catch {
+    return src;
+  }
+}
+
+// imageWidth: カードが常に狭い場所（トップの横スクロールの棚など）で、取り寄せる画像の幅を絞るときに渡す
+export default function ArticleCard({ post, imageWidth }: { post: PostMeta; imageWidth?: number }) {
   const category = getCategoryBySlug(post.category);
+  const image = post.image && imageWidth ? resizeUnsplash(post.image, imageWidth) : post.image;
 
   return (
     <article className="group h-full">
@@ -13,9 +33,9 @@ export default function ArticleCard({ post }: { post: PostMeta }) {
         className="block h-full rounded-2xl border border-gray-100 bg-white p-3 transition-all hover:-translate-y-0.5 hover:border-teal-200 hover:shadow-md"
       >
         <div className="aspect-[3/2] rounded-xl bg-gray-100 mb-4 overflow-hidden relative">
-          {post.image ? (
+          {image ? (
             <Image
-              src={post.image}
+              src={image}
               alt={post.title}
               fill
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"

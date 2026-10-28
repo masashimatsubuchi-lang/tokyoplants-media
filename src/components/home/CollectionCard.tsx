@@ -1,9 +1,39 @@
 "use client";
 
-import Image from "next/image";
 import { useState } from "react";
+import homeImages from "@/data/home-images.json";
 import type { OwnProduct } from "@/lib/homeStorefront";
 import { trackEvent } from "@/lib/track";
+
+type ImageInfo = { w: number; h: number; avif: boolean; small: { src: string; w: number; h: number; avif: boolean } };
+const IMAGES: Record<string, ImageInfo | undefined> = homeImages;
+
+// 写真の枠（正方形）の幅。カードの幅から左右の余白を引いたもの
+const BOX_SIZES = ["(min-width: 1280px) 250px", "(min-width: 768px) calc(50vw - 54px)", "calc(82vw - 24px)"];
+
+/**
+ * 写真を軽く出すための picture の中身。scripts/encode-home-images.sh が作った AVIF と小さいサイズ
+ * （src/data/home-images.json）があれば使い、無ければ元の JPEG だけを出す。
+ * 3倍密度のスマホは元の大きさ、PC・2倍密度の画面は小さいサイズを選ぶ。
+ * 縦長の写真は枠より細く表示されるので、sizes も縦横比のぶん細くしてブラウザに伝える。
+ */
+function pictureSources(src: string) {
+  const info = IMAGES[src];
+  if (!info) return null;
+  const r = Math.min(1, info.w / info.h);
+  const sizes = BOX_SIZES.map((s) => {
+    const [, media, width] = s.match(/^(\(.*\) )?(.*)$/)!;
+    return `${media ?? ""}calc(${width.replace(/^calc/, "")} * ${r.toFixed(3)})`;
+  }).join(", ");
+  const avif = (jpg: string) => jpg.replace(/\.jpg$/, ".avif");
+  const set = (toPath: (jpg: string) => string, useSmall: boolean, useLarge: boolean) =>
+    [useSmall && `${toPath(info.small.src)} ${info.small.w}w`, useLarge && `${toPath(src)} ${info.w}w`].filter(Boolean).join(", ");
+  return {
+    sizes,
+    avifSrcSet: info.avif || info.small.avif ? set(avif, info.small.avif, info.avif) : null,
+    jpgSrcSet: set((p) => p, true, true),
+  };
+}
 
 // 自社商品のカード。Apple Storeの商品カードにならい、文字は種類・名前・一言・価格だけにして
 // 写真を下半分に大きく置く。カードのどこを押してもECの商品ページへ行く。
@@ -27,6 +57,7 @@ export default function CollectionCard({
   const alt = variant?.alt ?? product.alt;
   const price = variant?.price ?? product.price;
   const href = variant?.href ?? product.href;
+  const sources = pictureSources(image);
 
   // どの色・容量が見られているかを計測する。GA4に登録済みのカスタムディメンション placement に
   // 「collection-{商品}:{種類名}」の形で載せる（新しいディメンションの登録は管理者権限が要るため）
@@ -61,16 +92,21 @@ export default function CollectionCard({
         {/* 写真はカードの下端に寄せ、文字の行数が違っても4枚の写真の位置が揃うようにする */}
         <div className="mt-auto px-3 pb-5 pt-6">
           <div className="relative mx-auto aspect-square w-full max-w-[380px]">
-            <Image
-              key={image}
-              src={image}
-              alt={alt}
-              width={800}
-              height={800}
-              sizes="(min-width: 1280px) 270px, (min-width: 768px) 45vw, 82vw"
-              priority={priority && active === 0}
-              className="h-full w-full origin-bottom object-contain object-bottom transition-transform duration-500 group-hover:scale-[1.03]"
-            />
+            {/* next/image は使わない（images.unoptimized のため srcset を組まない）。AVIF に対応しないブラウザは JPEG を読む */}
+            <picture key={image}>
+              {sources?.avifSrcSet && <source type="image/avif" srcSet={sources.avifSrcSet} sizes={sources.sizes} />}
+              <img
+                src={image}
+                srcSet={sources?.jpgSrcSet}
+                sizes={sources?.sizes}
+                alt={alt}
+                width={800}
+                height={800}
+                fetchPriority={priority && active === 0 ? "high" : undefined}
+                decoding="async"
+                className="h-full w-full origin-bottom object-contain object-bottom transition-transform duration-500 group-hover:scale-[1.03]"
+              />
+            </picture>
           </div>
 
           {/* 切り替えの行は、ボタンの無いカードにも同じ高さで空けておく（写真の位置を4枚で揃えるため） */}

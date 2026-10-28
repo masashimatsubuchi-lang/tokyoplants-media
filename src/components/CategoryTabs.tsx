@@ -63,7 +63,7 @@ export default function CategoryTabs({ tabs }: { tabs: CategoryTabData[] }) {
           <ShelfScroller key={active.slug} label={`${active.name}の新着`}>
             {active.posts.map((post) => (
               <div key={`${post.category}-${post.slug}`} className="w-[78%] shrink-0 snap-start sm:w-[300px]">
-                <ArticleCard post={post} />
+                <ArticleCard post={post} imageWidth={900} />
               </div>
             ))}
           </ShelfScroller>

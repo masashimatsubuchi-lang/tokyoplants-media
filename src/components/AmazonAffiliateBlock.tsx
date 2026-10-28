@@ -1,4 +1,5 @@
 import { AmazonProduct } from "@/lib/posts";
+import { amazonNote } from "@/lib/amazonDisplay";
 
 function addAssociateTag(url: string, associateTag?: string): string {
   if (!associateTag) return url;
@@ -87,7 +88,10 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
 
               <div className="min-w-0 flex-1">
                 <p className="text-[16px] font-semibold leading-snug text-gray-900 line-clamp-2">{product.title}</p>
-                {product.note && <p className="mt-1 text-xs text-gray-500 line-clamp-2">{product.note}</p>}
+                {/* 説明文の中の価格は表示の段階で外している（SHOW_AMAZON_PRICES） */}
+                {amazonNote(product.note) && (
+                  <p className="mt-1 text-xs text-gray-500 line-clamp-2">{amazonNote(product.note)}</p>
+                )}
               </div>
             </a>
           );

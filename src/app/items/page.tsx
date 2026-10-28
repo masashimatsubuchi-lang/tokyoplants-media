@@ -6,6 +6,7 @@ import {
   RecommendedItem,
 } from "@/lib/recommendedItems";
 import { resolveRelatedPosts } from "@/lib/posts";
+import { amazonPrice } from "@/lib/amazonDisplay";
 
 const PAGE_TITLE = "tokyoplantsのおすすめアイテム｜記事で紹介した道具まとめ";
 const PAGE_DESCRIPTION =
@@ -49,6 +50,7 @@ function firstRelatedTitle(slugs: string[]): { title: string; href: string } | n
 
 function ItemCard({ item }: { item: RecommendedItem }) {
   const isOwn = item.source === "tokyoplants";
+  const price = isOwn ? item.price : amazonPrice(item.price);
   const href = isOwn ? getTokyoplantsUrl(item.url!) : getAmazonUrl(item.asin!);
   const imageUrl = item.image ?? (isOwn ? undefined : getAmazonImageUrl(item.asin!));
   const related = firstRelatedTitle(item.relatedSlugs);
@@ -82,7 +84,8 @@ function ItemCard({ item }: { item: RecommendedItem }) {
 
       <div className="flex flex-1 flex-col p-4">
         <p className="text-[15px] font-bold leading-snug text-gray-900">{item.title}</p>
-        {item.price && <p className="mt-0.5 text-sm font-bold text-gray-700">{item.price}</p>}
+        {/* Amazon商品の価格は表示しない（SHOW_AMAZON_PRICES）。自社商品は出す */}
+        {price && <p className="mt-0.5 text-sm font-bold text-gray-700">{price}</p>}
         <p className="mt-2 text-[13px] leading-relaxed text-gray-600">{item.reason}</p>
 
         {related && (

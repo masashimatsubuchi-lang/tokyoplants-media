@@ -151,7 +151,8 @@ export default function StoreHome() {
               <ShelfScroller label="よく読まれている記事">
                 {editorsPick.map((post) => (
                   <div key={`${post.category}-${post.slug}`} className="w-[78%] shrink-0 snap-start sm:w-[300px]">
-                    <ArticleCard post={post} />
+                    {/* 棚のカードは幅300px前後なので、3倍密度の画面でも足りる900pxで取り寄せる */}
+                    <ArticleCard post={post} imageWidth={900} />
                   </div>
                 ))}
               </ShelfScroller>

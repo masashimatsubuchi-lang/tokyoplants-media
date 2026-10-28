@@ -1,5 +1,6 @@
 import type { ParsedBlock } from "@/lib/articleBlocks";
 import type { AmazonProduct } from "@/lib/posts";
+import { amazonNote, amazonPrice } from "@/lib/amazonDisplay";
 
 /**
  * 記事本文に埋め込む視覚ブロック群（2026-09-22導入）。
@@ -307,8 +308,9 @@ function AmazonCards({
             )}
             <div className="min-w-0">
               <p className="text-[13.5px] font-bold leading-snug text-zinc-800">{p.title}</p>
-              {p.price && <p className="mt-0.5 text-[13px] font-bold text-amber-800">{p.price}</p>}
-              {p.note && <p className="mt-0.5 text-[11.5px] leading-snug text-zinc-500">{p.note}</p>}
+              {/* 価格は表示の段階で外している（SHOW_AMAZON_PRICES、データは frontmatter に残す） */}
+              {amazonPrice(p.price) && <p className="mt-0.5 text-[13px] font-bold text-amber-800">{amazonPrice(p.price)}</p>}
+              {amazonNote(p.note) && <p className="mt-0.5 text-[11.5px] leading-snug text-zinc-500">{amazonNote(p.note)}</p>}
             </div>
           </a>
         ))}

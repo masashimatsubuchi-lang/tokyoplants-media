@@ -1,0 +1,15 @@
+{
+  "/images/home/hydro-mineral.jpg": { "w": 500, "h": 800, "avif": true, "small": { "src": "/images/home/hydro-mineral-560.jpg", "w": 350, "h": 560, "avif": true } },
+  "/images/home/sishicraft-keyholder.jpg": { "w": 591, "h": 800, "avif": true, "small": { "src": "/images/home/sishicraft-keyholder-560.jpg", "w": 413, "h": 560, "avif": true } },
+  "/images/home/sishicraft-monstera.jpg": { "w": 674, "h": 800, "avif": true, "small": { "src": "/images/home/sishicraft-monstera-560.jpg", "w": 471, "h": 560, "avif": true } },
+  "/images/home/soil-10l.jpg": { "w": 610, "h": 800, "avif": true, "small": { "src": "/images/home/soil-10l-560.jpg", "w": 427, "h": 560, "avif": true } },
+  "/images/home/soil-2l.jpg": { "w": 599, "h": 792, "avif": true, "small": { "src": "/images/home/soil-2l-560.jpg", "w": 423, "h": 560, "avif": true } },
+  "/images/home/towel-alocasia-green.jpg": { "w": 625, "h": 800, "avif": true, "small": { "src": "/images/home/towel-alocasia-green-560.jpg", "w": 437, "h": 560, "avif": true } },
+  "/images/home/towel-alocasia-pink.jpg": { "w": 494, "h": 800, "avif": true, "small": { "src": "/images/home/towel-alocasia-pink-560.jpg", "w": 345, "h": 560, "avif": true } },
+  "/images/home/towel-king-of-spades-black.jpg": { "w": 676, "h": 800, "avif": true, "small": { "src": "/images/home/towel-king-of-spades-black-560.jpg", "w": 473, "h": 560, "avif": true } },
+  "/images/home/towel-king-of-spades-green.jpg": { "w": 692, "h": 800, "avif": true, "small": { "src": "/images/home/towel-king-of-spades-green-560.jpg", "w": 484, "h": 560, "avif": true } },
+  "/images/home/towel-monstera-green.jpg": { "w": 614, "h": 800, "avif": true, "small": { "src": "/images/home/towel-monstera-green-560.jpg", "w": 429, "h": 560, "avif": true } },
+  "/images/home/towel-monstera-variegata.jpg": { "w": 675, "h": 800, "avif": true, "small": { "src": "/images/home/towel-monstera-variegata-560.jpg", "w": 472, "h": 560, "avif": true } },
+  "/images/home/towel-warocqueanum-deepgreen.jpg": { "w": 473, "h": 800, "avif": true, "small": { "src": "/images/home/towel-warocqueanum-deepgreen-560.jpg", "w": 331, "h": 560, "avif": true } },
+  "/images/home/towel-warocqueanum-green.jpg": { "w": 454, "h": 800, "avif": true, "small": { "src": "/images/home/towel-warocqueanum-green-560.jpg", "w": 317, "h": 560, "avif": true } }
+}

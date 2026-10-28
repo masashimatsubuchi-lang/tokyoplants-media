@@ -9,7 +9,7 @@ export default function ArticleAppCta({ message }: { message: string }) {
       <div className="flex items-center justify-between gap-4">
         <div className="flex min-w-0 flex-1 items-center gap-3">
           <Image
-            src="/images/app/app-icon.png"
+            src="/images/app/app-icon-192.png"
             alt="Green Collection アプリアイコン"
             width={48}
             height={48}
