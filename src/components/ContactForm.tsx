@@ -2,6 +2,7 @@
 
 import { useRef, useState } from "react";
 import HCaptcha from "@hcaptcha/react-hcaptcha";
+import { trackEvent } from "@/lib/track";
 
 const WEB3FORMS_ACCESS_KEY =
   process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || "a50a61a7-9a62-4d94-acb6-fc91e98cb596";
@@ -42,6 +43,9 @@ export default function ContactForm() {
       });
       const result = await res.json();
       if (result.success) {
+        // 問い合わせ件数を GA4 で数えるため（2026-10-28）。種別は登録済みディメンション placement に載せる。
+        // 名前・メールアドレス・本文は送らない
+        trackEvent("contact_submit", { placement: String(formData.get("inquiry_type") ?? "") });
         setStatus("success");
         form.reset();
       } else {

@@ -17,6 +17,7 @@ import { trackEvent as send } from "@/lib/track";
 //   gc_lp_click         { channel, article_slug }                 /app への内部遷移（?ch= がチャネル）
 //   character_note_view { character, note_type, article_slug }   注釈が画面に50%以上入った時に1回
 //   home_variant_select { placement }                             トップの自社商品カードで色・容量を選んだ時（CollectionCard が送る）
+//   contact_submit      { placement }                             問い合わせフォームの送信成功（ContactForm が送る。placement＝種別）
 //
 // placement は各コンポーネントが URL に付ける utm_content（inline / bottom / shop-banner）を
 // そのまま使う。付いていないリンク（本文中のテキストリンク等）は "text"。
