@@ -1,25 +1,38 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
+import HCaptcha from "@hcaptcha/react-hcaptcha";
 
 const WEB3FORMS_ACCESS_KEY =
   process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY || "a50a61a7-9a62-4d94-acb6-fc91e98cb596";
 
 const INQUIRY_TYPES = ["記事掲載・タイアップのご相談", "法人・パートナーシップに関するお問い合わせ", "その他"];
 
-type Status = "idle" | "sending" | "success" | "error";
+// Web3Forms の無料プラン用の hCaptcha サイトキー（公式ドキュメント記載の共用キー）。
+// 2026-10-28、確認なしの送信が Web3Forms 側ですべて迷惑判定（ダッシュボードの Spam）になり、
+// メールが届かなかったため追加。Web3Forms のフォーム設定で Block Spam を hCaptcha にしておくこと。
+const HCAPTCHA_SITEKEY = "50b2fe65-b00b-4b9e-ad62-3ba471098be2";
+
+type Status = "idle" | "sending" | "success" | "error" | "captcha";
 
 export default function ContactForm() {
   const [status, setStatus] = useState<Status>("idle");
+  const [captchaToken, setCaptchaToken] = useState("");
+  const captchaRef = useRef<HCaptcha>(null);
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
+    if (!captchaToken) {
+      setStatus("captcha");
+      return;
+    }
     setStatus("sending");
 
     const form = e.currentTarget;
     const formData = new FormData(form);
     formData.append("access_key", WEB3FORMS_ACCESS_KEY);
     formData.append("subject", "【tokyoplants media】お問い合わせ");
+    formData.set("h-captcha-response", captchaToken);
 
     try {
       const res = await fetch("https://api.web3forms.com/submit", {
@@ -37,6 +50,9 @@ export default function ContactForm() {
     } catch {
       setStatus("error");
     }
+    // 確認は1回の送信ごとに使い切りなので、失敗したときに備えてやり直せる状態に戻す
+    setCaptchaToken("");
+    captchaRef.current?.resetCaptcha();
   }
 
   if (status === "success") {
@@ -125,6 +141,24 @@ export default function ContactForm() {
           className="mt-1.5 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:border-teal-500 focus:outline-none focus:ring-1 focus:ring-teal-500"
         />
       </div>
+
+      <div className="min-h-[78px]">
+        <HCaptcha
+          ref={captchaRef}
+          sitekey={HCAPTCHA_SITEKEY}
+          reCaptchaCompat={false}
+          languageOverride="ja"
+          onVerify={(token) => {
+            setCaptchaToken(token);
+            if (status === "captcha") setStatus("idle");
+          }}
+          onExpire={() => setCaptchaToken("")}
+        />
+      </div>
+
+      {status === "captcha" && (
+        <p className="text-sm text-red-600">送信する前に「私はロボットではありません」にチェックを入れてください。</p>
+      )}
 
       {status === "error" && (
         <p className="text-sm text-red-600">
