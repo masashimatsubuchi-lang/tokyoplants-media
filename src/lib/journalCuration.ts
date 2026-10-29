@@ -3,7 +3,7 @@
  * 仕様 Q42・Q77・Q100: 育て方・植物図鑑・用土比較の3つの軸で、EC で買った人・買おうとしている人に役立つ記事を選ぶ。
  * 記事の候補は AI が提案し、掲載は人が承認する。
  *
- * 2026-10-29 の初版は Claude の提案（オーナー未承認）。選び方:
+ * 2026-10-29 に Claude が提案し、2026-10-30 にオーナーが承認（土の枠はオーナー指示で自社の培養土をすすめる記事に入れ替え）。選び方:
  *  - 育て方: ショップで今販売している属（アンスリウム・アロカシア）の基本と、通販で買ったあとの不安に答える記事
  *  - 植物図鑑: ショップで今販売している品種の図鑑記事
  *  - 用土比較: 自社の培養土と、アロイド系の用土選びの記事
@@ -21,7 +21,8 @@ export interface JournalSection {
   shopLink?: { label: string; url: string };
 }
 
-export const JOURNAL_APPROVED = false;
+// 2026-10-30 オーナー承認（育て方5・植物図鑑6・観葉植物の土6）。掲載記事を変えるときは再承認を受ける
+export const JOURNAL_APPROVED = true;
 
 export const JOURNAL_SECTIONS: JournalSection[] = [
   {
