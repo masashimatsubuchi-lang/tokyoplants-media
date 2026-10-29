@@ -17,6 +17,8 @@ export interface JournalSection {
   description: string;
   /** "category/slug" 形式 */
   slugs: string[];
+  /** 記事一覧の下に出すショップの商品への導線 */
+  shopLink?: { label: string; url: string };
 }
 
 export const JOURNAL_APPROVED = false;
@@ -52,14 +54,21 @@ export const JOURNAL_SECTIONS: JournalSection[] = [
   {
     id: "soil",
     overline: "SOIL & CARE",
-    title: "用土の選び方",
-    description: "希少植物の根を守る土の考え方と、市販の用土の比べ方。",
+    title: "観葉植物の土",
+    description: "希少植物のために配合した I'm original SOIL（tokyoplantsプレミアム培養土）と、市販の土との違い。",
+    // 2026-10-30 オーナー指示: 自社の培養土をおすすめしている土の記事を載せる（自社の土への言及が多い記事を選んだ）。
+    // アロカシアの土の記事は HYDRO MINERAL 優先の属なので外した
     slugs: [
-      "soil/best-soil-for-anthurium",
-      "soil/best-soil-for-alocasia",
-      "soil/aroid-mix-guide",
-      "soil/aroid-soil-products-comparison",
+      "soil/repotting-soil-guide",
       "soil/neko-chip-vs-original-soil",
+      "soil/aroid-soil-products-comparison",
+      "soil/protoleaf-vs-original-soil",
+      "soil/organic-vs-inorganic-soil-guide",
+      "soil/best-soil-for-anthurium",
     ],
+    shopLink: {
+      label: "I'm original SOIL（tokyoplantsプレミアム培養土）を見る",
+      url: "https://www.tokyoplants.com/items/99620939?utm_source=media&utm_medium=journal&utm_campaign=shop_renewal&utm_content=journal-soil",
+    },
   },
 ];

@@ -58,6 +58,14 @@ export default function JournalPage() {
                 <ArticleCard key={`${post.category}/${post.slug}`} post={post} imageWidth={600} />
               ))}
             </div>
+            {section.shopLink && (
+              <a
+                href={section.shopLink.url}
+                className="mt-6 inline-flex items-center rounded-full border border-[#22614c] px-5 py-2.5 text-sm font-bold text-[#22614c] hover:bg-[#22614c] hover:text-white transition-colors"
+              >
+                {section.shopLink.label} →
+              </a>
+            )}
           </section>
         );
       })}
