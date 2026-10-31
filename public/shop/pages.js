@@ -79,6 +79,39 @@
   var CSS = [
     '.tp-pg{max-width:980px;margin:0 auto;font-family:var(--tp-font);color:var(--tp-ink,#1d1d1f);text-align:left}',
     '.tp-pg *{box-sizing:border-box}',
+    '.tp-tw-sub{display:block;font-size:.72em;margin-top:4px;color:var(--tp-green,#22614c)}',
+    '.tp-tw-free{display:inline-block;margin-left:8px;padding:2px 8px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff;font:600 12px/1.6 var(--tp-font);vertical-align:middle}',
+    '.tp-tw{margin:14px 0 22px;padding:16px;background:var(--tp-tint,#eef2ee);border-radius:14px;font-family:var(--tp-font);color:var(--tp-ink,#1d1d1f)}',
+    '.tp-tw-h{display:block;font:700 15px/1.4 var(--tp-font)}',
+    '.tp-tw-lead{margin:4px 0 12px;font:400 13px/1.6 var(--tp-font);color:var(--tp-muted,#6e6e73)}',
+    '.tp-tw-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}',
+    '.tp-tw-card{position:relative;display:block;padding:12px;background:#fff;border:1.5px solid transparent;border-radius:10px;color:var(--tp-green,#22614c);text-decoration:none}',
+    '.tp-tw-card span{display:block;font:600 13px/1.4 var(--tp-font)}',
+    '.tp-tw-card em{display:block;margin:2px 0 4px;font:700 17px/1.3 var(--tp-font);font-style:normal}',
+    '.tp-tw-card small{display:block;font:400 12px/1.5 var(--tp-font);color:var(--tp-muted,#6e6e73)}',
+    '.tp-tw-card.is-cur{border-color:var(--tp-green,#22614c)}',
+    '.tp-tw-card i{position:absolute;top:10px;right:10px;font:600 10px/1 var(--tp-font);font-style:normal;padding:4px 6px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff}',
+    '.tp-tw-fact{margin:12px 0 0;font:400 12px/1.6 var(--tp-font);color:var(--tp-muted,#6e6e73)}',
+    '.tp-tw-pick{margin:4px 0 20px;padding:14px;border:1.5px solid var(--tp-line,#e3e3e0);border-radius:14px;font-family:var(--tp-font)}',
+    '.tp-tw-hint{margin:0 0 8px;font:600 12px/1.6 var(--tp-font);color:#c0392b;text-align:center}',
+    '.tp-tw-hint:empty{display:none}',
+    '.tp-tw-pick-h{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font:600 14px/1.4 var(--tp-font)}',
+    '.tp-tw-cnt{font:700 14px/1.4 var(--tp-font);color:var(--tp-green,#22614c);white-space:nowrap}',
+    '.tp-tw-msg{margin:4px 0 12px;font:400 12px/1.6 var(--tp-font);color:#c0392b}',
+    '.tp-tw-msg.is-done{color:var(--tp-green,#22614c)}',
+    '.tp-tw-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}',
+    '.tp-tw-pat{display:flex;flex-direction:column;gap:6px;padding:8px;border:1.5px solid var(--tp-line,#e3e3e0);border-radius:12px;background:#fff}',
+    '.tp-tw-pat.is-on{border-color:var(--tp-green,#22614c)}',
+    '.tp-tw-pat.is-out{opacity:.45}',
+    '.tp-tw-pat img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:8px;background:#f3f1ec}',
+    '.tp-tw-nm{font:600 12px/1.4 var(--tp-font);color:var(--tp-ink,#1d1d1f)}',
+    '.tp-tw-nm small{display:block;font-weight:400;color:var(--tp-muted,#6e6e73)}',
+    '.tp-tw-step{display:flex;align-items:center;justify-content:space-between}',
+    '.tp-tw-step button{width:36px;height:36px;border-radius:50%;border:1.5px solid var(--tp-green,#22614c);background:#fff;color:var(--tp-green,#22614c);font:600 18px/1 var(--tp-font);cursor:pointer}',
+    '.tp-tw-step button:disabled{opacity:.3;cursor:default}',
+    '.tp-tw-step output{font:700 16px/1 var(--tp-font)}',
+    '.tp-tw-out{font:600 12px/36px var(--tp-font);color:var(--tp-muted,#6e6e73)}',
+    '@media (min-width:768px){.tp-tw-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}',
     '.tp-pg-ic{width:26px;height:26px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;flex:0 0 auto}',
     '.tp-pg-h{display:flex;flex-direction:column;gap:6px;margin:56px 0 20px;scroll-margin-top:90px}',
     '.tp-pg-en{font:700 28px/1.1 var(--tp-font);letter-spacing:.01em;color:var(--tp-green,#22614c)}',
@@ -417,6 +450,154 @@
     wrap.appendChild(box);
   }
 
+  // ---- タオルのまとめ買い（2026-11-01。単品 135803882 と 3枚・6枚・全8種セット） ----
+  // 比較（価格・お得額・送料）を価格の下に出し、セットの柄は写真の一覧から −／＋ で選ぶ。
+  // 選んだ柄は BASE の注文オプション「1枚目の柄」〜「n枚目の柄」にそのまま入れる（注文データの形は変えない）
+  var TOWEL = { '135803882': 1, '164675173': 3, '164675181': 6, '164675194': 8 };
+  var TOWEL_SETS = [
+    { id: '135803882', n: 1, label: '1枚', price: 2000, note: '送料500円' },
+    { id: '164675173', n: 3, label: '3枚', price: 5000, note: '1,000円お得・送料500円' },
+    { id: '164675181', n: 6, label: '6枚', price: 10000, note: '2,000円お得・送料無料' },
+    { id: '164675194', n: 8, label: '全8種', price: 12800, note: '3,200円お得・送料無料' }
+  ];
+  var TOWEL_PAT = [
+    ['モンステラ・デリシオーサ｜緑', 'monstera-green'],
+    ['モンステラ・デリシオーサ｜斑入り', 'monstera-variegata'],
+    ['アンスリウム・ワロクアーナム｜緑', 'warocqueanum-green'],
+    ['アンスリウム・ワロクアーナム｜深緑', 'warocqueanum-deepgreen'],
+    ['アンスリウム・キング オブ スペード｜緑', 'king-of-spades-green'],
+    ['アンスリウム・キング オブ スペード｜黒', 'king-of-spades-black'],
+    ['アロカシア｜緑', 'alocasia-green'],
+    ['アロカシア｜ピンク', 'alocasia-pink']
+  ];
+  // 2025-11〜2026-10 の当店のタオル注文 322件のうち、2枚以上は 209件（65%）
+  var TOWEL_FACT = 'タオルをご注文の方の約3人に2人が、2枚以上をまとめて購入しています（2025年11月〜2026年10月・当店のご注文）';
+
+  function towelPage() {
+    var id = (path.match(/^\/items\/(\d+)/) || [])[1];
+    if (!TOWEL[id]) return;
+    var detail = document.querySelector('.item-detail-inner');
+    if (!detail || detail.dataset.tpTowel) return;
+    detail.dataset.tpTowel = '1';
+    var n = TOWEL[id];
+    var cur = TOWEL_SETS.filter(function (s) { return s.id === id; })[0];
+
+    // 見出し: 「Daily Botanical Towel」と「3枚セット」を2段に（スマホで「セッ／ト」と切れないように）
+    var h1 = detail.querySelector('h1');
+    if (h1 && n > 1) {
+      var m = h1.textContent.match(/^(Daily Botanical Towel)\s+(.+)$/);
+      if (m) h1.innerHTML = esc(m[1]) + '<span class="tp-tw-sub">' + esc(m[2]) + '</span>';
+    }
+
+    // 価格: 1万円以上は送料無料をはっきり出し、BASE 標準の「送料は¥800です」を言い換える
+    var price = detail.querySelector('.price');
+    if (price && cur.price >= 10000) {
+      var tag = document.createElement('span');
+      tag.className = 'tp-tw-free';
+      tag.textContent = '送料無料';
+      (price.querySelector('.default') || price).appendChild(tag);
+      Array.prototype.forEach.call(detail.querySelectorAll('.attention'), function (p) {
+        if (/送料は¥/.test(p.textContent)) p.textContent = '※ ¥10,000以上のご注文のため、国内送料は無料です。';
+        else if (/¥10,000以上のご注文で国内送料が無料/.test(p.textContent)) p.style.display = 'none';
+      });
+    }
+
+    // 比較: 単品・各セットを並べ、表示中のものに印を付ける（テーマの .tp-sets があれば置き換える）
+    var cmp = document.createElement('div');
+    cmp.className = 'tp-tw';
+    cmp.innerHTML = '<b class="tp-tw-h">まとめ買いがお得</b>' +
+      '<p class="tp-tw-lead">自分用に1枚、贈り物に2枚。キッチン・洗面所・洗い替えに。</p>' +
+      '<div class="tp-tw-cards">' + TOWEL_SETS.map(function (s) {
+        var body = '<span>' + s.label + '</span><em>¥' + s.price.toLocaleString() + '</em><small>' + s.note + '</small>';
+        return s.id === id ? '<div class="tp-tw-card is-cur" aria-current="page">' + body + '<i>表示中</i></div>'
+          : '<a class="tp-tw-card" href="' + base + '/items/' + s.id + '">' + body + '</a>';
+      }).join('') + '</div>' +
+      '<p class="tp-tw-fact">' + TOWEL_FACT + '</p>';
+    var old = detail.querySelector('.tp-sets');
+    if (old) old.parentNode.replaceChild(cmp, old);
+    else if (price) price.parentNode.insertBefore(cmp, price.nextSibling);
+
+    if (n === 3 || n === 6) towelPicker(detail, n);
+  }
+
+  function towelPicker(detail, n) {
+    var form = detail.querySelector('form.x_purchaseForm, #purchase_form');
+    if (!form) return;
+    var els = Array.prototype.filter.call(form.querySelectorAll('.itemOptionElement'), function (e) {
+      var l = e.querySelector('.itemOption__name');
+      return l && /^\s*\d+枚目の柄/.test(l.textContent);
+    });
+    var sels = els.map(function (e) { return e.querySelector('select'); });
+    if (sels.length !== n || sels.some(function (s) { return !s; })) return; // 想定と違う形なら BASE の選択欄のまま
+    var choice = function (sel, name) {
+      return Array.prototype.filter.call(sel.options, function (o) { return o.value && o.text.trim().indexOf(name) === 0; })[0];
+    };
+    var count = TOWEL_PAT.map(function () { return 0; });
+    sels.forEach(function (s) { // 戻るボタンで戻ったときなど、選択済みの値を読み込む
+      var t = s.options[s.selectedIndex] && s.options[s.selectedIndex].value ? s.options[s.selectedIndex].text.trim() : '';
+      TOWEL_PAT.forEach(function (p, i) { if (t && t.indexOf(p[0]) === 0) count[i]++; });
+    });
+
+    var box = document.createElement('div');
+    box.className = 'tp-tw-pick';
+    box.innerHTML = '<div class="tp-tw-pick-h"><b>柄を選ぶ（合計' + n + '枚）</b><span class="tp-tw-cnt"></span></div>' +
+      '<p class="tp-tw-msg"></p><div class="tp-tw-grid">' + TOWEL_PAT.map(function (p, i) {
+        var ok = !!choice(sels[0], p[0]);
+        var nm = p[0].replace('アンスリウム・', '').replace('・デリシオーサ', '').split('｜');
+        return '<div class="tp-tw-pat' + (ok ? '' : ' is-out') + '" data-i="' + i + '">' +
+          '<img src="' + MEDIA + '/images/home/towel-' + p[1] + '-560.jpg" alt="' + esc(p[0]) + '" loading="lazy">' +
+          '<span class="tp-tw-nm">' + esc(nm[0]) + '<small>' + esc(nm[1]) + '</small></span>' +
+          (ok ? '<span class="tp-tw-step"><button type="button" data-d="-1" aria-label="' + esc(p[0]) + 'を1枚減らす">−</button><output>0</output>' +
+            '<button type="button" data-d="1" aria-label="' + esc(p[0]) + 'を1枚増やす">＋</button></span>' : '<span class="tp-tw-out">品切れ</span>') +
+          '</div>';
+      }).join('') + '</div>';
+    els[0].parentNode.insertBefore(box, els[0]);
+    els.forEach(function (e) { e.style.display = 'none'; });
+    // ラッピングなど他のオプションは、柄の一覧の下へ
+    Array.prototype.forEach.call(form.querySelectorAll('.itemOptionElement'), function (e) {
+      if (els.indexOf(e) < 0 && e.compareDocumentPosition(box) & Node.DOCUMENT_POSITION_FOLLOWING) box.parentNode.insertBefore(e, els[els.length - 1].nextSibling);
+    });
+
+    function total() { return count.reduce(function (a, b) { return a + b; }, 0); }
+    function sync() {
+      var list = [];
+      count.forEach(function (c, i) { for (var k = 0; k < c; k++) list.push(TOWEL_PAT[i][0]); });
+      sels.forEach(function (s, k) {
+        var o = list[k] ? choice(s, list[k]) : null;
+        s.value = o ? o.value : '';
+        s.dispatchEvent(new Event('change', { bubbles: true }));
+      });
+      var t = total();
+      box.querySelector('.tp-tw-cnt').textContent = '選択済み ' + t + '／' + n + '枚';
+      var msg = box.querySelector('.tp-tw-msg');
+      msg.textContent = t < n ? 'あと' + (n - t) + '枚選んでください。同じ柄を何枚でも選べます。' : '選べました。';
+      msg.classList.toggle('is-done', t === n);
+      hint.textContent = t < n ? '柄をあと' + (n - t) + '枚選ぶと、カートに入れられます。' : '';
+      Array.prototype.forEach.call(box.querySelectorAll('.tp-tw-pat'), function (el) {
+        var i = +el.dataset.i, out = el.querySelector('output');
+        if (!out) return;
+        out.textContent = count[i];
+        el.classList.toggle('is-on', count[i] > 0);
+        el.querySelector('[data-d="-1"]').disabled = count[i] === 0;
+        el.querySelector('[data-d="1"]').disabled = t >= n;
+      });
+    }
+    box.addEventListener('click', function (e) {
+      var b = e.target.closest('button[data-d]');
+      if (!b) return;
+      var i = +b.closest('.tp-tw-pat').dataset.i, d = +b.dataset.d;
+      if (d > 0 && total() >= n) return;
+      count[i] = Math.max(0, count[i] + d);
+      sync();
+    });
+    // BASE は必須の柄が埋まるまで「カートに入れる」を押せなくする。灰色の理由が分かるよう、ボタンの上に残りの枚数を出す
+    var cartBtn = form.querySelector('.purchaseButton__btn--addToCart');
+    var hint = document.createElement('p');
+    hint.className = 'tp-tw-hint';
+    if (cartBtn) cartBtn.parentNode.insertBefore(hint, cartBtn);
+    sync();
+  }
+
   function run() {
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
@@ -427,6 +608,7 @@
     if (/^\/about\/?$/.test(path)) aboutPage();
     if (/^\/membership\/?$/.test(path)) membershipPage();
     if (/^\/community\/?$/.test(path)) communityPage();
+    towelPage();
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run);
   else run();
