@@ -93,6 +93,9 @@
     '.tp-tw-card i{position:absolute;top:10px;right:10px;font:600 10px/1 var(--tp-font);font-style:normal;padding:4px 6px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff}',
     '.tp-tw-fact{margin:12px 0 0;font:400 12px/1.6 var(--tp-font);color:var(--tp-muted,#6e6e73)}',
     '.tp-tw-pick{margin:4px 0 20px;padding:14px;border:1.5px solid var(--tp-line,#e3e3e0);border-radius:14px;font-family:var(--tp-font)}',
+    '.tp-tw-gift{margin:12px 0 0;padding:12px 14px;border-radius:12px;background:var(--tp-tint,#eef2ee);font:400 12.5px/1.7 var(--tp-font);color:var(--tp-ink,#1d1d1f)}',
+    '.tp-tw-gift b{display:block;font-weight:700;margin-bottom:2px}',
+    '.tp-tw-gift a{display:inline-block!important;width:auto!important;margin-top:6px!important;padding:0!important;border:0!important;background:none!important;color:var(--tp-green,#22614c)!important;font:600 12.5px/1.7 var(--tp-font)!important;text-decoration:underline!important;text-underline-offset:3px}',
     '.tp-tw-hint{margin:0 0 8px;font:600 12px/1.6 var(--tp-font);color:#c0392b;text-align:center}',
     '.tp-tw-hint:empty{display:none}',
     '.tp-tw-pick-h{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font:600 14px/1.4 var(--tp-font)}',
@@ -518,15 +521,16 @@
 
     if (n === 3 || n === 6) towelPicker(detail, n);
 
-    // 「包む柄・分け方」の入力欄は、ラッピングの選択のすぐ下に（BASE の一覧順では上に出てしまう）
-    var optEl = function (re) {
-      return Array.prototype.filter.call(detail.querySelectorAll('.itemOptionElement'), function (e) {
-        var l = e.querySelector('.itemOption__name');
-        return l && re.test(l.textContent);
-      })[0];
-    };
-    var wrapEl = optEl(/ギフトラッピング（セット）/), memoEl = optEl(/包む柄・分け方/);
-    if (wrapEl && memoEl) wrapEl.parentNode.insertBefore(memoEl, wrapEl.nextSibling);
+    // ラッピングは全タオル共通で「ギフトバッグを袋の数だけ＋分け方は備考欄」（2026-11-01 オーナー決定）
+    var buy = detail.querySelector('.purchaseButton__btn--addToCart');
+    if (buy) {
+      var gift = document.createElement('div');
+      gift.className = 'tp-tw-gift';
+      gift.innerHTML = '<b>ギフトにする方へ</b>ギフトバッグ（1袋¥300）を袋の数だけカートに入れてください。全部まとめて1袋なら1つでOK。分けたいときは、購入画面の備考欄に分け方をご記入ください。' +
+        '<a href="' + base + '/items/164551101">ギフトバッグを見る</a>';
+      buy.parentNode.insertBefore(gift, buy.nextSibling);
+    }
+
   }
 
   function towelPicker(detail, n) {
