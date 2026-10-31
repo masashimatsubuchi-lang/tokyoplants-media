@@ -138,6 +138,8 @@
     '#membership[data-tp] .about-point,#membership[data-tp] .reward-list{background:#fff!important;border-radius:18px;padding:24px!important;box-shadow:0 1px 6px rgba(0,0,0,.05);font-family:var(--tp-font)}',
     '#membership[data-tp] .heading-point,#membership[data-tp] .reward-list .title{font:700 17px/1.5 var(--tp-font)!important;color:var(--tp-green,#22614c)!important;margin:0 0 10px!important}',
     '#membership[data-tp] .reward-list .bar{display:none}',
+    // 管理画面でメンバーシップの画像を設定していると、BASE はページ見出しを白にする（画像の上に重ねる前提）。明るい背景では読めないので文字色を戻す
+    'body.membership-img-exist .page-title-wrap h2.page-title.page-title{color:var(--tp-ink,#1d1d1f)!important;text-shadow:none!important}',
     '#membership[data-tp] .register{border-radius:18px;overflow:hidden}',
     '.tp-pg-empty{background:#fff;border-radius:20px;padding:28px 24px;box-shadow:0 1px 6px rgba(0,0,0,.05);font:400 14px/1.9 var(--tp-font)}',
     '.tp-pg-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}',
