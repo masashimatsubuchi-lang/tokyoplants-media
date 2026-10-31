@@ -517,6 +517,16 @@
     else if (price) price.parentNode.insertBefore(cmp, price.nextSibling);
 
     if (n === 3 || n === 6) towelPicker(detail, n);
+
+    // 「包む柄・分け方」の入力欄は、ラッピングの選択のすぐ下に（BASE の一覧順では上に出てしまう）
+    var optEl = function (re) {
+      return Array.prototype.filter.call(detail.querySelectorAll('.itemOptionElement'), function (e) {
+        var l = e.querySelector('.itemOption__name');
+        return l && re.test(l.textContent);
+      })[0];
+    };
+    var wrapEl = optEl(/ギフトラッピング（セット）/), memoEl = optEl(/包む柄・分け方/);
+    if (wrapEl && memoEl) wrapEl.parentNode.insertBefore(memoEl, wrapEl.nextSibling);
   }
 
   function towelPicker(detail, n) {
