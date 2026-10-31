@@ -608,7 +608,11 @@
     if (/^\/about\/?$/.test(path)) aboutPage();
     if (/^\/membership\/?$/.test(path)) membershipPage();
     if (/^\/community\/?$/.test(path)) communityPage();
-    towelPage();
+    // テーマ（item.html）が購入欄を並べ替え・選択欄をボタン化し終えてから動かす（先に動くと二重表示・選択画面なしになる）
+    (function wait(t) {
+      if (document.querySelector('.item-detail-inner .tp-choice, .item-detail-inner .tp-sets') || t > 40) towelPage();
+      else setTimeout(function () { wait(t + 1); }, 100);
+    })(0);
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run);
   else run();
