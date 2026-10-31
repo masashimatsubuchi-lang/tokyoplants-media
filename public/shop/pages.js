@@ -521,6 +521,14 @@
 
     if (n === 3 || n === 6) towelPicker(detail, n);
 
+    // 「数量」がタオルの枚数かセット数か分かるように言い換える
+    var amount = detail.querySelector('select[name="amount"]');
+    var amountBox = amount && amount.closest('.itemOptionElement, .amount, div');
+    var amountLabel = amountBox && Array.prototype.filter.call(amountBox.parentNode.querySelectorAll('*'), function (e) {
+      return e.childElementCount === 0 && e.textContent.trim() === '数量';
+    })[0];
+    if (amountLabel) amountLabel.textContent = n > 1 ? 'セット数（1セット＝' + (n === 8 ? '全8種・8枚' : n + '枚') + '）' : '枚数';
+
     // ラッピングは全タオル共通で「ギフトバッグを袋の数だけ＋分け方は備考欄」（2026-11-01 オーナー決定）
     var buy = detail.querySelector('.purchaseButton__btn--addToCart');
     if (buy) {
