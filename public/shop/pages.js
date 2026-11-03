@@ -658,13 +658,14 @@
     else return;
     // 表と重なる説明文の節（サイズ・素材・ギフトラッピング）は折りたたみの中へ移す
     if (traits && acc) {
+      var first = acc.firstChild; // 元の順（サイズ→素材→ギフト）のまま、配送などの前に並べる
       traits.querySelectorAll('h2').forEach(function (h) {
         if (!/サイズ|素材|ギフト/.test(h.textContent)) return;
         var body = h.nextElementSibling;
         var d = document.createElement('details');
         d.innerHTML = '<summary>' + esc(h.textContent) + '</summary>';
         if (body && body.tagName === 'DIV') d.appendChild(body);
-        acc.insertBefore(d, acc.firstChild);
+        acc.insertBefore(d, first);
         h.remove();
       });
     }
