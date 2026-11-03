@@ -671,7 +671,28 @@
     }
   }
 
+  // TOP の PICK UP の先頭に新商品のソックスを足す（2026-11-03 オーナー依頼。テーマは文字数の上限に近いのでここで足す）
+  // 写真はオーナー提供の商品画像（BASE の1枚目）。PC は5枚を1列に並べる
+  function pickSocks() {
+    var pick = document.querySelector('.tp-pick');
+    if (!pick || pick.querySelector('.tp-card--socks')) return;
+    var css = document.createElement('style');
+    css.textContent = '.tp-card--socks{--card-bg:linear-gradient(180deg,#efece7 0%,#ddd8d0 100%)}' +
+      '.tp-card--socks .tp-card-new{display:inline-block;margin-right:6px;padding:1px 7px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff;font-size:10px;letter-spacing:.06em;vertical-align:1px}' +
+      '@media (min-width:1181px){.tp-wrap .tp-pick{grid-template-columns:repeat(5,1fr);gap:16px}.tp-pick .tp-card-name{font-size:22px}.tp-pick .tp-card-body{padding:26px 22px 0}}';
+    document.head.appendChild(css);
+    var card = document.createElement('article');
+    card.className = 'tp-card tp-card--socks';
+    card.innerHTML =
+      '<a class="tp-card-link" href="' + base + '/items/164953353" aria-label="Daily Botanical Socksを見る"></a>' +
+      '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>オリジナルソックス</span>' +
+      '<span class="tp-card-name">Daily Botanical Socks</span><span class="tp-card-copy">月曜日、足もとにモンステラ。</span><span class="tp-card-price">¥2,000</span></div>' +
+      '<div class="tp-card-photo"><img src="https://baseec-img-mng.akamaized.net/images/item/origin/1b550b392d943efbec3dbf2fcbc2d7ff.png?imformat=generic&amp;imwidth=800" alt="Daily Botanical Socks をローファーに合わせた足もと" loading="lazy"></div>';
+    pick.insertBefore(card, pick.firstChild);
+  }
+
   function run() {
+    if (path === '/') pickSocks();
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
