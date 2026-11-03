@@ -619,36 +619,7 @@
     sync();
   }
 
-  // TOP の新着植物だけ、背景を切り抜いた写真にする（2026-11-03 オーナー決定。商品ページは元の写真のまま）
-  // 切り抜きは出品のときに作り、media の /shop/new/<商品ID>.jpg と一覧 index.json に置く。無い株は元の写真のまま
-  function newArrivals() {
-    var items = document.querySelectorAll('.tp-new-item');
-    if (!items.length) return;
-    var css = document.createElement('style');
-    css.textContent = [
-      // 長い学名（交配名）で列の幅がそろわなくならないように
-      '.tp-new-item{min-width:0}.tp-new-name{overflow-wrap:anywhere}',
-      '.tp-new-item img{border-radius:22px;transition:transform .35s ease}',
-      '.tp-new-item:hover img{transform:translateY(-4px)}',
-      '.tp-new-item.is-cut img{object-fit:contain;background:#edf2ee}',
-      '@media (prefers-reduced-motion:reduce){.tp-new-item img{transition:none}.tp-new-item:hover img{transform:none}}'
-    ].join('');
-    document.head.appendChild(css);
-    fetch(MEDIA + '/shop/new/index.json', { cache: 'no-cache' }).then(function (r) { return r.ok ? r.json() : {}; }).then(function (list) {
-      items.forEach(function (a) {
-        var id = ((a.getAttribute('href') || '').match(/\/items\/(\d+)/) || [])[1];
-        var v = id && list[id];
-        var img = a.querySelector('img');
-        if (!v || !img) return;
-        var pic = new Image();
-        pic.onload = function () { img.src = pic.src; img.removeAttribute('srcset'); a.classList.add('is-cut'); };
-        pic.src = MEDIA + '/shop/new/' + id + '.jpg?v=' + v;
-      });
-    }).catch(function () {});
-  }
-
   function run() {
-    if (path === '/') newArrivals();
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
