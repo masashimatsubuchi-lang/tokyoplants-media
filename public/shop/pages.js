@@ -686,7 +686,7 @@
     card.innerHTML =
       '<a class="tp-card-link" href="' + base + '/items/164953353" aria-label="Daily Botanical Socksを見る"></a>' +
       '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>オリジナルソックス</span>' +
-      '<span class="tp-card-name">Daily Botanical Socks</span><span class="tp-card-copy">月曜日、足もとにモンステラ。</span><span class="tp-card-price">¥2,000</span></div>' +
+      '<span class="tp-card-name">Daily Botanical Socks</span><span class="tp-card-copy">ちょっと気分が上がる、特別な靴下。</span><span class="tp-card-price">¥2,000</span></div>' +
       '<div class="tp-card-photo"><img src="https://baseec-img-mng.akamaized.net/images/item/origin/1b550b392d943efbec3dbf2fcbc2d7ff.png?imformat=generic&amp;imwidth=800" alt="Daily Botanical Socks をローファーに合わせた足もと" loading="lazy"></div>';
     pick.insertBefore(card, pick.firstChild);
   }
