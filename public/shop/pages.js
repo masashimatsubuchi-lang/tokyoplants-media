@@ -619,6 +619,57 @@
     sync();
   }
 
+  // Daily Botanical Socks（2026-11-03 新商品）: 見出しの2段目・ポイント・サイズ表・仕様表
+  // 事実の出典はオーナーの商品説明と写真。素材の混率は未確認なので書かない
+  var SOCKS = { '164953353': 1 };
+  function socksPage() {
+    var id = (path.match(/^\/items\/(\d+)/) || [])[1];
+    var detail = document.querySelector('.item-detail-inner');
+    if (!SOCKS[id] || !detail || detail.dataset.tpSocks) return;
+    detail.dataset.tpSocks = '1';
+    // 見出し: テーマは「｜」より前だけを出すので、商品名の2つ目（MONSTERA MONDAY - …）を小さく添える
+    var h1 = detail.querySelector('h1');
+    var sub = (document.title.split(/[｜|]/)[1] || '').trim();
+    if (h1 && sub) h1.innerHTML = esc(h1.textContent.trim()) + '<span class="tp-tw-sub">' + esc(sub) + '</span>';
+
+    var ins = document.createElement('div');
+    ins.className = 'tp-ins';
+    ins.innerHTML =
+      '<section><h2>3つのポイント</h2><div class="tp-ins-points">' +
+        '<div><b>ふたつそろうと、MONSTERA MONDAY</b><span>後ろ側に、左「MONSTERA」・右「MONDAY」。前側にはハート形のモンステラの葉。</span></div>' +
+        '<div><b>なめらかなコーマコットン</b><span>短い繊維を取り除いた糸で、毛羽が少なく肌ざわりがなめらか。</span></div>' +
+        '<div><b>贈り物にも</b><span>オリジナルの紙製パッケージ入り。ギフトバッグ（1袋¥300）でも包めます。</span></div>' +
+      '</div></section>' +
+      '<section><h2>サイズ</h2><table class="tp-ins-table"><thead><tr><th></th><th>S/M</th><th>M/L</th></tr></thead><tbody>' +
+        '<tr><th>足のサイズ</th><td>22〜25cm</td><td>25〜28cm</td></tr>' +
+      '</tbody></table><p class="tp-ins-note">性別を問わないユニセックスの2サイズ。「種類」からお選びください。</p></section>' +
+      '<section><h2>仕様</h2><table class="tp-ins-table"><tbody>' +
+        '<tr><th>カラー</th><td>グリーン</td></tr>' +
+        '<tr><th>デザイン</th><td>前側にモンステラの葉、後ろ側に「MONSTERA」「MONDAY」</td></tr>' +
+        '<tr><th>素材</th><td>コーマコットンを使用（製造元による）</td></tr>' +
+        '<tr><th>パッケージ</th><td>オリジナルデザインの紙製パッケージ</td></tr>' +
+        '<tr><th>ラッピング</th><td>赤いリボン付き不織布ギフトバッグ。<a href="' + base + '/items/164551101">ギフトバッグ</a>（1袋¥300）を一緒にカートへ</td></tr>' +
+        '<tr><th>配送</th><td>ゆうパケット（ポスト投函）全国一律¥500・追跡あり・日時指定不可</td></tr>' +
+      '</tbody></table></section>';
+    var acc = detail.querySelector('.tp-acc');
+    var traits = detail.querySelector('.tp-pdp-traits');
+    if (acc) acc.parentNode.insertBefore(ins, acc);
+    else if (traits) traits.parentNode.insertBefore(ins, traits.nextSibling);
+    else return;
+    // 表と重なる説明文の節（サイズ・素材・ギフトラッピング）は折りたたみの中へ移す
+    if (traits && acc) {
+      traits.querySelectorAll('h2').forEach(function (h) {
+        if (!/サイズ|素材|ギフト/.test(h.textContent)) return;
+        var body = h.nextElementSibling;
+        var d = document.createElement('details');
+        d.innerHTML = '<summary>' + esc(h.textContent) + '</summary>';
+        if (body && body.tagName === 'DIV') d.appendChild(body);
+        acc.insertBefore(d, acc.firstChild);
+        h.remove();
+      });
+    }
+  }
+
   function run() {
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
@@ -633,6 +684,11 @@
     (function wait(t) {
       if (document.querySelector('.item-detail-inner .tp-choice, .item-detail-inner .tp-sets') || t > 40) towelPage();
       else setTimeout(function () { wait(t + 1); }, 100);
+    })(0);
+    // ソックス: テーマが説明文を節に分け終えてから（.tp-acc ができてから）動かす
+    if (/^\/items\/\d+/.test(path)) (function waitSocks(t) {
+      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) socksPage();
+      else setTimeout(function () { waitSocks(t + 1); }, 100);
     })(0);
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run);
