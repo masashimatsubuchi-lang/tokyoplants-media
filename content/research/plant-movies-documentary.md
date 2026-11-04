@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=800&q=80"
 title: "植物好きが見るべき映画・ドキュメンタリー5選｜日本語字幕・配信で観られる作品"
 description: "植物・自然・農業・土壌をテーマにしたおすすめ映画・ドキュメンタリー5選。すべて日本語字幕対応で、Amazon Prime・Netflix・Huluなどの配信サービスで視聴可能な作品のみ厳選。"
 date: "2026-06-28"
+updated: "2026-11-04"
 category: "research"
 tags: ["映画", "ドキュメンタリー", "植物", "自然", "Amazon Prime", "Netflix", "おすすめ"]
 author: "tokyoplants 編集部"
@@ -17,9 +18,6 @@ amazonProducts:
     asin: "B09649Y5C1"
     image: "https://m.media-amazon.com/images/S/pv-target-images/b8816b597f0d6525d34c2946a30462a19976a098a8f4cdef91e8f7bc69316e43._BR-6_AC_SX200_FMpng_.png"
     note: "Prime Videoの配信作品（2026-10-01時点で視聴可能）"
-  - title: "フード・インク（DVD）"
-    asin: "B07X4HYVQS"
-    image: "https://m.media-amazon.com/images/I/51uG5ELARsL._AC_SL200_.jpg"
 ---
 
 # 植物好きが見るべき映画・ドキュメンタリー5選｜日本語字幕・配信で観られる作品
@@ -123,19 +121,9 @@ IMDb（映画評価サイト）でシーズン1の評価は驚異の9.0。これ
 
 衝撃的な映像もあるが、ただ告発するだけでなく「オーガニック農業の可能性」「小規模農家が守ろうとしているもの」を丁寧に描いており、観た後に希望を感じられる構成になっている。植物や農業に関心を持つ人にとって、現代の食システムがどう成立しているかを知ることは、観葉植物の土や肥料を選ぶ視点にも影響を与える。
 
-Amazon Prime Videoで無料配信中（Prime会員）。2008年の作品ながら内容は今も色あせない。
+Amazon Prime Videoで無料配信中（Prime会員）。2008年の作品ながら内容は今も色あせない。なお、DVDは2026年11月時点でAmazon.co.jpによる販売がない。
 
 **こんな人におすすめ**: 食や農業の裏側を知りたい人 / 社会問題をドキュメンタリーで学びたい人 / 植物と食のつながりを考えたい人
-
-<div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07X4HYVQS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/51uG5ELARsL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">フード・インク（DVD）</p>
-<p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
-</div>
-</a>
-</div>
 
 ---
 

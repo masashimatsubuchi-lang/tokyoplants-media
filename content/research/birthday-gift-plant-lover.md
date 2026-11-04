@@ -40,11 +40,10 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/61meLtb7g0L._AC_SL200_.jpg"
     note: "出しっぱなしでも絵になるガラス製ミスター。評価★3.8・レビュー135件・在庫あり（2026-09-27にAmazon商品ページで確認）"
     price: "¥1,380"
-  - title: "知りたかったがつまってる！ 世界一たのしい観葉植物教室"
-    asin: "B0CGZHXX35"
-    image: "https://m.media-amazon.com/images/I/81oM+qwttaL._AC_SL200_.jpg"
-    note: "育て方の「なぜ」を図解で解説した入門〜中級向けの一冊。単行本¥1,870／Kindle版¥1,485。評価★4.4・レビュー129件（2026-09-27にAmazon商品ページで確認）"
-    price: "¥1,870"
+  - title: "知りたかったがつまってる! 世界一たのしい観葉植物教室（単行本）"
+    asin: "4046062738"
+    image: "https://m.media-amazon.com/images/I/51Ed6w8XJ6L._AC_SL200_.jpg"
+    note: "単行本。★4.5・レビュー131件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）"
 ---
 
 「植物が好きな人へのプレゼントなら植物でしょ」——そう思って選び始めると、意外と手が止まります。好みの品種、置き場所、管理できる時間、すでに持っている株。これを全部把握して「刺さる一鉢」を選べるのは、かなり親しい間柄だけです。
@@ -91,7 +90,7 @@ amazonProducts:
 |---|---|---|---|---|
 | ¥1,200〜 | ② 観葉植物の専門土 | 植物を丁寧に育てている人／植え替えシーズン前後 | 低（消えもの） | [I'm original SOIL](https://www.tokyoplants.com/items/99620939) |
 | ¥1,380〜 | ③ ガラスの霧吹き | 葉水を日課にしている人 | 低 | [Amazonでみる](https://www.amazon.co.jp/dp/B0BGJHWB6N?tag=tokyoplants0f-22) |
-| ¥1,870〜 | ⑤ 植物の本・図鑑 | 特定の属にハマっている人／知識欲がある人 | 中（既読の可能性） | [Amazonでみる](https://www.amazon.co.jp/dp/B0CGZHXX35?tag=tokyoplants0f-22) |
+| ¥1,870〜 | ⑤ 植物の本・図鑑 | 特定の属にハマっている人／知識欲がある人 | 中（既読の可能性） | [Amazonでみる](https://www.amazon.co.jp/dp/4046062738?tag=tokyoplants0f-22) |
 | ¥2,000 | ① Daily Botanical Towel | 友人・同僚など気を遣わせたくない相手／**迷ったとき** | **最も低い** | [tokyoplantsでみる](https://www.tokyoplants.com/items/135803882) |
 | ¥3,400〜 | ④ おしゃれなジョウロ | 毎日の水やりを楽しんでいる人 | 中（既に持っている可能性） | [Amazonでみる](https://www.amazon.co.jp/dp/B000UPVBQM?tag=tokyoplants0f-22) |
 | ¥2,000〜8,000 | ⑥ おしゃれな鉢・プランター | 相手の部屋と株のサイズを把握している場合 | 高（サイズ・好みが合わないと使えない） | 園芸店・Amazon |
@@ -196,7 +195,7 @@ tokyoplantsの「I'm original SOIL（tokyoplantsプレミアム培養土）」�
 植物好きは意外と自分の育てている属の専門書までは買わないことが多いんだ。品種図鑑は「知っているつもりだった水やりや管理の頻度」を見直すきっかけになるから、渡した後も長く読み返してもらえる贈り物になるよ。
 <!-- /character-note -->
 
-<!-- amazon-cards title="Amazonで買える定番ギフト3点（2026-09-27時点）" note="Amazonアソシエイトリンクを含みます。価格・在庫は変動します。評価・レビュー件数は2026-09-27に商品ページで直接確認した数値です。" -->
+<!-- amazon-cards title="Amazonで買える定番ギフト3点（2026-09-27時点）" note="Amazonアソシエイトリンクを含みます。価格・在庫は変動します。評価・レビュー件数は2026-09-27（本は2026-11-04）に商品ページで直接確認した数値です。" -->
 <!-- /amazon-cards -->
 
 ---

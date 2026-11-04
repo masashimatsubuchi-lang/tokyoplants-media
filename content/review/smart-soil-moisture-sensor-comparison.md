@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1747224317423-c4d8bd95b04e?w=1200&q=80
 title: "植物用スマート土壌センサー比較｜水やりタイミングを可視化する"
 description: "土壌水分を数値で確認できるデジタル土壌センサーを比較。色変化式・アナログ式との違い、Bluetooth・アプリ連携型の現状、Amazonで見つかる実用的な商品を解説します。"
 date: "2026-09-05"
+updated: "2026-11-04"
 category: "review"
 tags: ["土壌センサー", "デジタル土壌計", "観葉植物", "水やり"]
 author: "tokyoplants 編集部"
@@ -12,11 +13,11 @@ relatedSlugs:
   - "guide/houseplant-care-during-travel"
   - "soil/repotting-soil-guide"
 amazonProducts:
-  - title: "5-in-1 土壌水分計（水分・pH・温度・日照・肥沃度）"
-    asin: "B0DWWTYLMM"
-    image: "https://m.media-amazon.com/images/I/61UgGNX3GmL._AC_SL200_.jpg"
-    note: "デジタル数値表示・バックライトLCD。電池式でアプリ不要。★3.9・レビュー350件・在庫あり（2026-09-27にAmazon商品ページで確認）。従来掲載していたYAMRON 4-in-1は再入荷予定なしの在庫切れのため差し替え"
-    price: "¥2,998"
+  - title: "FieldNew 5 in 1 土壌酸度計（pH・土壌水分・地温・照度・肥沃度）"
+    asin: "B0GKZTNQ94"
+    image: "https://m.media-amazon.com/images/I/71suZpKTlmL._AC_SL200_.jpg"
+    note: "pH・土壌水分・地温・照度・肥沃度の5項目。★4.1・レビュー103件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元 測定器のFieldNew・Amazon出荷）"
+    price: "¥2,952"
   - title: "Mcbazel 土壌酸度計 5in1（水分・肥沃度・温度・照度・pH）"
     asin: "B0FRS7JXQP"
     image: "https://m.media-amazon.com/images/I/710Lu+ZMUZL._AC_SL200_.jpg"
@@ -60,17 +61,17 @@ amazonProducts:
 以下は執筆時点でAmazon.co.jpに出品が確認できたデジタル土壌センサーの例です。価格・在庫・レビュー状況は変動するため、購入前に必ず商品ページで最新情報をご確認ください。
 
 
-### 5-in-1 デジタル土壌水分計｜まず1台試すなら
+### FieldNew 5 in 1 土壌酸度計｜まず1台試すなら
 
-水分・pH・温度・日照・肥沃度の5項目を、大画面バックライトLCDで確認できるデジタルメーターです。電池式でペアリングなどの手間がなく、土に挿してすぐ使えます。★3.9・レビュー350件（2026-09-27時点）。
+pH・土壌水分・地温・照度・肥沃度の5項目を1台で測れるタイプです。★4.1・レビュー103件（2026-11-04時点）。
 
-> 以前この位置で紹介していた「YAMRON 4-in-1」は、2026-09-27時点で再入荷予定のない在庫切れになっていたため、同等機能の現行品に差し替えました。
+> この位置では以前「YAMRON 4-in-1」、続いて別の5-in-1土壌水分計を紹介していましたが、いずれも販売状況が変わったため、2026-11-04に現行品へ差し替えました。
 
 ### Mcbazel 土壌酸度計 5in1｜肥沃度まで詳しく知りたい人向け
 
 水分・肥沃度・温度・照度・pHの5項目をデュアルプローブで測定できるタイプです。30秒で自動オフする省電力設計で、電池の消耗を抑えられます。肥料の効き具合まで含めて土壌状態を把握したい方に向いています。
 
-<!-- amazon-cards title="Amazonで買えるデジタル土壌センサー" note="Amazonアソシエイトリンクを含みます。価格・評価・在庫は2026-09-27に商品ページで直接確認した数値です。" -->
+<!-- amazon-cards title="Amazonで買えるデジタル土壌センサー" note="Amazonアソシエイトリンクを含みます。価格・評価・在庫は2026-09-27（FieldNewは2026-11-04）に商品ページで直接確認した数値です。" -->
 <!-- /amazon-cards -->
 
 ## 使い方・設置の注意点

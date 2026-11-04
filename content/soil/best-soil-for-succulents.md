@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1755784153589-fc95106f44e2?w=1200&q=80
 title: "多肉植物・サボテンの土おすすめと配合比率｜根腐れしない鉱物質配合"
 description: "多肉植物・サボテンの土おすすめの選び方・配合比率を徹底解説。極端な排水性を必要とする多肉植物に合う鉱物質中心の用土の条件、市販品の実売価格比較、DIY配合比、植え替え手順を紹介します。"
 date: "2026-09-02"
+updated: "2026-11-04"
 category: "soil"
 tags: ["多肉植物", "サボテン", "用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
@@ -20,11 +21,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/61m583rS1ML._AC_SL200_.jpg"
     note: "パーライト・軽石・ココナッツファイバー・鹿沼土がベース。迷ったらこれ、と言える定番。★4.2・1,453件・在庫あり（2026-09-28 Amazon商品ページで確認）"
     price: "¥636（5L）"
-  - title: "KINCHO園芸 培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 5L"
-    asin: "B0DP6ZKD3N"
-    image: "https://m.media-amazon.com/images/I/41CXHi27gCL._AC_SL200_.jpg"
-    note: "赤玉土・焼成赤玉土・鹿沼土に軽石・パーライト・ピートモスをブレンド（メーカー公式サイトで確認）。アガベ・塊根と兼用したい人向け。★3.8・122件。2026-10-01時点でAmazon本体の取り扱いはなく、マーケットプレイス出品のみ（別途送料）"
-    price: "¥798前後（Amazonマーケットプレイス）"
+  - title: "KINCHO園芸 培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 2L"
+    asin: "B0DP6XGJPD"
+    image: "https://m.media-amazon.com/images/I/71c+naQ1QML._AC_SL200_.jpg"
+    note: "赤玉土・焼成赤玉土・鹿沼土に軽石・パーライト・ピートモスをブレンド（メーカー公式サイトで確認）。アガベ・塊根と兼用したい人向け。★3.9・123件（2026-11-04にAmazon商品ページで確認／Amazon.co.jp販売・在庫あり）"
+    price: "¥475"
   - title: "プロトリーフ サボテン・多肉植物の土 2L"
     asin: "B000FXE67U"
     image: "https://m.media-amazon.com/images/I/51XS6sv49tL._AC_SL200_.jpg"
@@ -116,7 +117,7 @@ amazonProducts:
 | 製品 | 容量・価格 | 1Lあたり | 向いている人 |
 |---|---|---|---|
 | 花ごころ さぼてん多肉植物の土 | 5L・¥636 | 約¥127 | 品種を問わず使いたい人。最初の1袋 |
-| KINCHO園芸 MYPLANTS アガベ・多肉植物・塊根植物用 | 5L・¥475 | 約¥95 | アガベ・パキポディウム等の塊根と兼用したい人 |
+| KINCHO園芸 MYPLANTS アガベ・多肉植物・塊根植物用 | 2L・¥475 | 約¥238 | アガベ・パキポディウム等の塊根と兼用したい人 |
 | プロトリーフ サボテン・多肉植物の土 | 2L・¥407 | 約¥204 | 3〜4号鉢が2〜3鉢だけ。余らせたくない人 |
 
 <!-- callout type="tip" title="手元の観葉植物用の土しかないとき" -->

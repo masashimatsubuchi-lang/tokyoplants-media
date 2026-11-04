@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1667533288566-42d320cf7923?w=120
 title: "インドアジャングル最新号はNo.11アガベ交配種特集｜全11号の発売日一覧"
 description: "INDOOR JUNGLEの最新号はNo.11（2026年9月29日発売、特集AGAVE HYBRIDS 2026）。全11号の発売日と特集テーマ、入手方法を一覧にまとめました。"
 date: "2026-06-09"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "review"
 tags:
   - 珍奇植物 本
@@ -66,16 +66,11 @@ No.02 は 2026-10-01 時点でAmazonでの取り扱いが終了しています�
 
 「パキプスとグラキリスを極めたい」というコレクターにとって、これほど深く掘り下げた日本語資料は他にほとんど存在しません。
 
+なお、No.03は現在Amazonでは出品者からの販売のみです（2026年11月4日確認）。
+
 <!-- character-note character="kuro" type="point" -->
 パキプスやグラキリスのような塊根植物は、実生からだと成熟まで何年もかかることが珍しくない。じっくり時間をかけて育てる楽しみ方を知りたい人には、こうした専門誌の情報が特に参考になる。
 <!-- /character-note -->
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0D6BVFJ8X?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0D6BVFJ8X.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Indoor Jungle No.03 パキプス・グラキリス</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
 
 ---
 

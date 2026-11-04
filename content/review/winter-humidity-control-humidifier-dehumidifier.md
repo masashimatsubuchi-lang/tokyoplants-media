@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1732229035217-e7e42f61af4b?auto=format
 title: "冬の湿度管理と加湿器・除湿機の選び方"
 description: "観葉植物の冬管理で失敗しやすい乾燥と過湿を、加湿器と除湿機の選定・運用まで整理。カビを防ぐ実務目線で解説します。"
 date: "2026-02-24"
+updated: "2026-11-04"
 category: "review"
 tags: ["湿度管理", "冬", "レビュー"]
 author: "tokyoplants 編集部"
@@ -22,9 +23,11 @@ amazonProducts:
     asin: "B0D1D5FS33"
     image: "https://m.media-amazon.com/images/I/21xgrrOl-jL._AC_SL200_.jpg"
     note: "Amazon評価 4.6 / 30件（2026-09-10 Amazon直接確認・在庫あり）"
-  - title: "アイリスオーヤマ 除湿機 IJC-R65（コンプレッサー式 6.5L）"
-    asin: "B0DXQ1Z3J2"
-    note: "Amazon評価 4.2 / 239件（2026-09-10 Amazon直接確認・在庫あり）※旧型IJC-J56は新品在庫切れのため後継モデルに変更"
+  - title: "アイリスオーヤマ 除湿機 コンプレッサー式 4.8L AJ-C4"
+    asin: "B0GK9NR7VR"
+    image: "https://m.media-amazon.com/images/I/51xridoeI5L._AC_SL200_.jpg"
+    note: "Amazon評価 3.9 / 96件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）※IJC-R65がAmazon本体の販売終了となったため同社のAJ-C4に変更"
+    price: "¥12,927"
   - title: "象印 スチーム式加湿器 EE-RU50-WA（3.0L）"
     asin: "B0FH9ZP9LR"
     image: "https://m.media-amazon.com/images/I/41FKa52-LeL._AC_SL200_.jpg"
@@ -105,12 +108,12 @@ Amazon評価: 4.2 / 727件（2026-09-10確認）
 → [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0D1D5FS33?tag=tokyoplants0f-22)  
 Amazon評価: 4.6 / 30件（2026-09-10確認）
 
-### 3) アイリスオーヤマ IJC-R65（コンプレッサー式 6.5L・型番比較）
+### 3) アイリスオーヤマ AJ-C4（コンプレッサー式 4.8L）
 
-初期コストを抑えて導入しやすい価格帯。派生モデルが混在しやすいため、購入時は型番で検索してタンク容量・騒音・モード差を確認してください。
+アイリスオーヤマのコンプレッサー式除湿機です。上の「方式を理解する」で触れたとおり、コンプレッサー式は低温期に能力が落ちやすいため、冬は暖房の効いた部屋で使う前提で検討してください。派生モデルが混在しやすいため、購入時は型番で検索してタンク容量・騒音・モード差を確認してください。
 
-→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0DXQ1Z3J2?tag=tokyoplants0f-22)  
-Amazon評価: 4.2 / 239件（2026-09-10確認）
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0GK9NR7VR?tag=tokyoplants0f-22)  
+Amazon評価: 3.9 / 96件（2026-11-04確認）
 
 ## 小型卓上加湿器レビュー
 

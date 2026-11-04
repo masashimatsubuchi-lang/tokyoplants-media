@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1675373033451-23abc8318d5d?w=800
 title: "観葉植物に鉢底石は必要？プラ鉢は入れる、スリット鉢なら省略できる"
 description: "観葉植物の鉢底石は本当に必要なのか。鉢底石の役割、適切な量、おすすめ素材、代用品まで解説し、Amazonで人気の鉢底石商品も比較して紹介します。鉢底石ありなしの違いと、正しい使い方がわかります。"
 date: "2026-02-16"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "soil"
 tags: ["排水性", "植え替え", "用土", "鉢底石", "Amazon", "おすすめ"]
 author: "tokyoplants 編集部"
@@ -22,11 +22,11 @@ amazonProducts:
     asin: "B07K1PBN1J"
     note: "軽石タイプの定番。人工軽石＋炭＋ゼオライト配合で清潔・軽量。評価★4.0・レビュー1,610件超（確認済み）"
     price: "¥410"
-  - title: "ひゅうが土販売 日向土 小粒 2L"
-    asin: "B00I4QKGGA"
-    image: "https://m.media-amazon.com/images/I/41KqL6qkDJL._AC_SL200_.jpg"
-    note: "宮崎県産の硬質日向石。崩れにくく再利用しやすい。評価★4.3・レビュー94件（確認済み）"
-    price: "¥819前後（参考価格）"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "日向石（日向土）と同じ軽石の仲間。小粒なので鉢底に敷くなら小さめの鉢向き。評価★4.3・レビュー38件（2026-11-04にAmazon商品ページで確認／在庫あり・Amazon.co.jp販売）"
+    price: "¥534"
 ---
 
 「鉢底石って本当に必要？」「なくても大丈夫？」——植え替えのたびに迷う人は多いです。
@@ -106,7 +106,7 @@ amazonProducts:
 | 商品名 | 素材タイプ | 価格（参考） | 評価（確認状況） | 特徴 |
 |--------|-----------|------------|----------------|------|
 | 花ごころ きれいな鉢底石 2L | 軽石 | ¥500前後 | ★4.0・1,610件超（確認済み） | 人工軽石＋炭＋ゼオライト配合。清潔・軽量で定番の1点 |
-| ひゅうが土販売 日向土 小粒 2L | 日向石 | ¥819前後 | ★4.3・94件（確認済み） | 宮崎県産の硬質日向石。崩れにくく再利用向き |
+| サンアンドホープ 軽石 小粒 2L | 軽石（日向石と同じ系統） | ¥534 | ★4.3・38件（2026-11-04確認済み） | 小粒なので鉢底に敷くなら小さめの鉢向き |
 | あかぎ園芸 赤玉土 大粒 20L | 赤玉土（大粒） | 参考価格（要確認） | 詳細未確認（参考情報） | 大容量で鉢底石代わりにも使える硬質タイプ |
 | セラミス グラニュー 約7.5L(3kg) | セラミス・ハイドロボール | 参考価格（要確認） | 詳細未確認（参考情報） | 人工焼成粘土。室内栽培で衛生的、繰り返し使用可能 |
 
@@ -130,15 +130,17 @@ amazonProducts:
 宮崎県産の軽石。硬質で崩れにくく、長期間使えます。排水性が非常に高く、観葉植物との相性が良い素材です。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B00I4QKGGA?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/41KqL6qkDJL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ひゅうが土販売 日向土 小粒 2L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0FN7SW6GZ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">サンアンドホープ 軽石 小粒 2L</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
-**ひゅうが土販売 日向土 小粒 2L｜硬質で長く使いたい人向け**
+**サンアンドホープ 軽石 小粒 2L｜日向石と同じ軽石の仲間を少量から**
 
-評価★4.3・レビュー94件（確認済み）と、鉢底石としては非常に高い評価を獲得している商品です。硬質のため崩れにくく、洗って何度も再利用できます。排水性を最優先したい植物や、通気性を重視するアロカシア・モンステラなどに向いています。
+日向石（日向土）も軽石の一種で、こちらは同じ系統の軽石をAmazon本体が販売している2L入りです。評価★4.3・レビュー38件（2026-11-04確認済み）。軽石は崩れにくいので、洗って再利用できます。
+
+小粒なので、鉢底に敷くなら小さめの鉢向きです。大きな鉢で粒が細かすぎると排水層の隙間が小さくなるため（後述の「失敗3」を参照）、大鉢ではもっと粒の大きい鉢底石を選んでください。余った分は用土に混ぜて水はけを上げる用途にも回せます。
 
 ### 赤玉土（大粒）
 
@@ -240,6 +242,6 @@ amazonProducts:
 - 量は鉢の高さの1/5〜1/4。鉢底ネットは必ず併用
 - 軽石・日向石がおすすめ。洗えば繰り返し使える
 - 入れすぎ・細かすぎ・ネット省略はNG
-- Amazonで選ぶなら、評価・レビュー実績が確認できた「花ごころ きれいな鉢底石」「ひゅうが土販売 日向土」がまず検討しやすい選択肢
+- Amazonで選ぶなら、評価・レビュー実績が確認できた「花ごころ きれいな鉢底石」「サンアンドホープ 軽石 小粒」（日向石と同じ軽石系・小さめの鉢向き）がまず検討しやすい選択肢
 
 鉢底石は地味な存在ですが、排水環境を支える重要な役割を担っています。植え替えの際は、土の品質と合わせて鉢底石もしっかり整えてあげてください。植え替えの全体的な手順は[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)でまとめて確認できます。鉢底石とセットで使う鉢底ネットの比較は[鉢底ネット比較｜サイズ・素材別Amazon人気商品](/review/drainage-net-comparison)を参考にしてください。

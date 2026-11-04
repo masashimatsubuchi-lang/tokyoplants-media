@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1779622520933-79b2926a97dd?w=1200&q=80
 title: "フラスコ苗の順化のやり方｜失敗しない手順とおすすめ道具"
 description: "組織培養（TC株）のフラスコ苗を枯らさずに育てるための順化手順を解説。培地の洗い方、順化用の培地選び、湿度の下げ方、完了の判定基準、必要な道具までまとめました。輸入株の「順化」との違いも整理します。"
 date: "2026-09-27"
+updated: "2026-11-04"
 category: "guide"
 tags:
   - 組織培養
@@ -45,11 +46,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/619rid+CPfL._AC_SL200_.jpg"
     note: "バーミキュライトと混ぜて通気を確保する用。1Lの小容量で、順化用に少量だけ欲しいときに扱いやすい。評価★4.2・レビュー27件・在庫あり（2026-09-27にAmazon商品ページで直接確認）"
     price: "¥698"
-  - title: "DAIM 種まきハウス 9穴トレー2個付き"
-    asin: "B002MOHM7Q"
-    image: "https://m.media-amazon.com/images/I/8111V+SOpAL._AC_SL200_.jpg"
-    note: "透明カバー・アンダートレイ・9穴ポット2枚のセット（第一ビニール公式サイトで構成を確認）。順化の最初の高湿度期間をつくるのに使える。評価★3.9・レビュー592件・在庫あり（2026-09-27にAmazon商品ページで直接確認）"
-    price: "¥675"
+  - title: "Menetop 育苗ポット 5個セット（12穴トレー・透明カバー付き 種まきハウス）"
+    asin: "B0BTZ4XZS7"
+    image: "https://m.media-amazon.com/images/I/61U7xxzMNLL._AC_SL200_.jpg"
+    note: "12穴トレーに透明カバーが付いた種まきハウスの5個セット。順化の最初の高湿度期間をつくるのに使える。評価★3.9・レビュー361件・在庫あり（2026-11-04にAmazon商品ページで直接確認／Amazon出荷）"
+    price: "¥1,399"
   - title: "第三代 育苗ポット 5個セット 高さ11.5cm 調節可能湿度ドーム付き"
     asin: "B0B4BW9VDJ"
     image: "https://m.media-amazon.com/images/I/717frkx1EgL._AC_SL200_.jpg"
@@ -180,7 +181,7 @@ baseProducts:
 | 温湿度計 | 容器内と室内の差を把握する | 数値が見えると換気の判断がしやすい |
 | 透明カップまたは小鉢 | 苗を植える器 | 根が見えると状態を判断しやすい |
 
-<!-- amazon-cards title="順化に使える道具（2026-09-27時点）" note="Amazonアソシエイトリンクを含みます。価格・在庫は変動します。価格・評価・レビュー件数は2026-09-27にAmazon商品ページで直接確認した数値です。" -->
+<!-- amazon-cards title="順化に使える道具（2026-11-04更新）" note="Amazonアソシエイトリンクを含みます。価格・在庫は変動します。価格・評価・レビュー件数はAmazon商品ページで直接確認した数値です（Menetop 育苗ポットは2026-11-04、その他は2026-09-27に確認）。" -->
 <!-- /amazon-cards -->
 
 ---

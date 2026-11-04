@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1621460248083-6271cc4437a8?crop=entrop
 title: "植え替えに必要な道具リスト｜初心者向けAmazon厳選アイテム"
 description: "観葉植物の植え替えに必要な道具を初心者向けに解説。鉢・ハサミ・スコップ・じょうろなど各アイテムの選び方に加え、Amazonで評価の高い実物商品も紹介。あると便利なグッズや100均で代用できるものもまとめました。"
 date: "2026-06-05"
-updated: "2026-07-06"
+updated: "2026-11-04"
 category: "guide"
 tags: ["植え替え", "初心者", "道具", "Amazon"]
 author: "tokyoplants 編集部"
@@ -46,10 +46,11 @@ amazonProducts:
     asin: "B0BJDP1CJX"
     note: "振り子ホース式で上向き・下向きなど全方向に噴霧できる霧吹き。植え替え後の葉水に。評価★4.2・レビュー1,100件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
     price: "¥472"
-  - title: "メネデール 植物活力剤 100ml"
-    asin: "B00337XS92"
-    note: "1955年発売のロングセラー活力剤。植え替え直後の根の回復サポートに使いやすい100倍希釈タイプ。評価★4.4・レビュー7,685件（2026-07-06確認、在庫あり・Amazon.co.jp発送）"
-    price: "¥300"
+  - title: "メネデール 植物活力剤 200ml"
+    asin: "B00337XS8S"
+    image: "https://m.media-amazon.com/images/I/71CSkHQv3UL._AC_SL200_.jpg"
+    note: "1955年発売のロングセラー活力剤。植え替え直後の根の回復サポートに使いやすい100倍希釈タイプ。評価★4.4・レビュー7,882件（2026-11-04にAmazon商品ページで確認／在庫あり・Amazon.co.jp販売）"
+    price: "¥680"
 ---
 
 # 植え替えに必要な道具リスト｜初心者向けAmazon厳選アイテム
@@ -284,15 +285,15 @@ tokyoplants が独自配合した『I'm original SOIL』は、観葉植物に最
 植え替え後の根に希釈水として与えることで、新しい環境への適応を促します。根のダメージが大きい場合には特に効果的です。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B00337XS92?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00337XS92.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">メネデール 植物活力剤 100ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B00337XS8S?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71CSkHQv3UL._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">メネデール 植物活力剤 200ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
 **メネデール｜1955年発売のロングセラー活力剤**
 
-肥料ではなく「活力剤」で、植え替え・挿し木・弱った株の回復サポートとして日常的に使えます。100倍希釈で水やり代わりに与えるだけとシンプルです。評価★4.4・レビュー7,685件（確認済み）と、活力剤の中でも圧倒的な実績を持つ定番商品です。
+肥料ではなく「活力剤」で、植え替え・挿し木・弱った株の回復サポートとして日常的に使えます。100倍希釈で水やり代わりに与えるだけとシンプルです。評価★4.4・レビュー7,882件（2026-11-04確認）と、活力剤の中でも圧倒的な実績を持つ定番商品です。
 
 <!-- character-note character="kuro" type="point" -->
 活力剤は肥料と違って「今すぐ栄養を与える」ものではなく、根が新しい環境に定着するプロセスを助ける役割。植え替え直後のダメージが心配なときこそ効果を発揮するよ。

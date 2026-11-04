@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1766243062910-bda898a2470c?w=1200&q=80
 title: "パキラの土おすすめ配合は赤玉土4・日向石3・パーライト2・くん炭1"
 description: "パキラは幹に水を蓄えるため、土は水はけ優先。赤玉土ベースの配合レシピと、そのまま使える市販品、植え替えの手順までまとめました。"
 date: "2026-02-16"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "soil"
 tags: ["パキラ", "用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
@@ -21,9 +21,11 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "プロトリーフ 赤玉土 小粒 5L"
-    asin: "B00GXYFZSO"
-    note: "栃木県産・粒が崩れにくい。観葉植物の基本用土として定番（★4.2 / 556件）"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    price: "¥1,043"
+    note: "配合のベースになる赤玉土の小粒（★4.4・290件・2026-11-04にAmazon商品ページで確認／在庫あり）"
   - title: "日向土 小粒 18L（ひゅうが土）"
     asin: "B004OPG0X8"
     image: "https://m.media-amazon.com/images/I/81Pusn29YzL._AC_SL200_.jpg"
@@ -33,9 +35,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/81M-fDLLiYL._AC_SL200_.jpg"
     price: "¥1,490"
     note: "軽量で通気性・排水性アップに。鉢土の軽量化にも向く（★4.0・131件・2026-10-01にAmazon商品ページで確認）"
-  - title: "あかぎ園芸 くん炭 12L"
-    asin: "B00GTC2NGC"
-    note: "土壌改善・抗菌効果。根腐れしにくい土づくりに"
+  - title: "刀川平和農園 平和 くんたん 10L"
+    asin: "B00BTR0QOS"
+    image: "https://m.media-amazon.com/images/I/71+A6h8GABL._AC_SL200_.jpg"
+    price: "¥755"
+    note: "配合の1割に混ぜるくん炭（★4.1・278件・2026-11-04にAmazon商品ページで確認／在庫あり）"
 ---
 
 パキラは「丈夫で枯れにくい」と言われますが、土選びを間違えると簡単に根腐れします。特にパキラは幹に水分を蓄える性質があるため、土が過湿になると根が最初にダメージを受けます。

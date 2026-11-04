@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=800&q=80"
 title: "軽い培養土のデメリットは？乾きやすく肥料切れしやすい｜観葉植物向け5選"
 description: "軽い培養土のデメリットは乾きやすさ・肥料切れ・風で飛ぶ・倒れやすい点。ベランダやマンションで観葉植物に使える軽い土5選と、パーライトや軽石で軽くする配合も解説します。"
 date: "2026-06-27"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "soil"
 tags: ["軽い土", "軽量培養土", "ベランダ", "マンション", "大型鉢"]
 author: "tokyoplants 編集部"
@@ -18,14 +18,17 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "プロトリーフ 粒状かる〜い培養土 5L"
-    asin: "B07BG6W9S2"
+  - title: "プロトリーフ かる〜い培養土 12L"
+    asin: "B0044RXBHY"
+    image: "https://m.media-amazon.com/images/I/719PIwwFDhL._AC_SL200_.jpg"
+    price: "¥1,428"
   - title: "あかぎ園芸 パーライト 10L 軽量土壌改良材"
     asin: "B00I4O65L2"
     image: "https://m.media-amazon.com/images/I/51sQsx-zkrL._AC_SL200_.jpg"
-  - title: "あかぎ園芸 日向土 小粒 14L 超軽量"
-    asin: "B00UBCG826"
-    image: "https://m.media-amazon.com/images/I/612bIbOg7TL._AC_SL200_.jpg"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    price: "¥534"
   - title: "サカタのタネ スーパーミックスA 40L 軽量培養土"
     asin: "B07Y1B5XWJ"
     image: "https://m.media-amazon.com/images/I/517exZmuwGL._AC_SL200_.jpg"
@@ -99,20 +102,20 @@ amazonProducts:
 
 厳選した5商品を紹介します。それぞれの特徴・メリット・デメリットを比較してみてください。
 
-### 1. プロトリーフ 室内用 軽い観葉植物の土 25L
+### 1. プロトリーフ かる〜い培養土 12L
 
-観葉植物専用の軽量培養土として定評のある定番品。パーライトとバーミキュライトを多めに配合しており、通常の培養土比で約40%の軽量化を実現しています。室内・ベランダ兼用で使いやすく、水はけと保水のバランスが取れています。
+商品名のとおり「軽さ」を打ち出したプロトリーフの培養土です。配合済みの培養土なので、自分で素材を混ぜる手間をかけずに鉢を軽くしたい人の最初の候補になります。Amazonでは★4.3・レビュー125件（2026-11-04に商品ページで確認）。
 
-**メリット**: 軽量化率が高い・室内向けに清潔処理済み・使いやすいベーシックな配合
-**デメリット**: 大容量品は価格がやや高め・単体では肥料分がやや少ない
+**メリット**: 配合済みでそのまま使える・12L入りで中〜大鉢の植え替えにも回しやすい
+**デメリット**: 軽い土に共通して乾きやすく、肥料分も抜けやすい（後述のデメリットを参照）
 
 プロトリーフとtokyoplants『I'm original SOIL（tokyoplantsプレミアム培養土）』の配合思想の違いを詳しく知りたい方は「[プロトリーフ vs SOIL｜観葉植物の土はどっち](/soil/protoleaf-vs-original-soil)」も参考にしてください。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B07BG6W9S2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B07BG6W9S2.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0044RXBHY?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/719PIwwFDhL._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">プロトリーフ 粒状かる〜い培養土 5L</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">プロトリーフ かる〜い培養土 12L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -120,7 +123,7 @@ amazonProducts:
 
 ---
 
-### 2. パーライト 20L 軽量土壌改良材
+### 2. あかぎ園芸 パーライト 10L 軽量土壌改良材
 
 パーライトは真珠岩を高温発泡させた白い粒の無機素材。単独では使いませんが、既存の培養土に2〜3割混ぜることで大幅な軽量化が可能です。水はけを改善しながら土全体を軽くする「土の軽量化アイテム」として非常に優秀です。
 
@@ -139,18 +142,20 @@ amazonProducts:
 
 ---
 
-### 3. 日向土（ひゅうが土）小粒 14L 超軽量
+### 3. 軽石 小粒 2L（日向土と同じ系統の無機素材）
 
-宮崎県産の軽石系無機培地。非常に軽く、粒状で排水性が抜群です。単独でも使えますが、培養土に3〜4割混ぜることで水はけと軽量化を同時に実現できます。清潔で虫がほとんど湧かないのも室内・ベランダ使いには大きなメリット。
+軽石は火山由来の穴の多い無機素材で、宮崎県産の日向土（ひゅうが土）もこの仲間です。軽く、粒状で水はけがよいため、培養土に混ぜると水はけの改善と軽量化を同時に狙えます。無機質なので有機物を餌にする虫が湧きにくいのも、室内・ベランダ使いには利点です。
 
-**メリット**: 超軽量・清潔・排水性抜群・繰り返し使用可能
+ここではAmazon本体が販売しているサンアンドホープの小粒2L（★4.3・レビュー38件、2026-11-04に商品ページで確認）を挙げています。2Lは少量なので、小〜中鉢の配合用や、鉢底に敷く分の買い足しに向いた量です。
+
+**メリット**: 軽い・無機質で清潔・水はけがよい・粒が崩れにくい
 **デメリット**: 保肥力が低いため追肥が必要・単独使用では栄養がほぼない
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B00UBCG826?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/612bIbOg7TL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0FN7SW6GZ?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">あかぎ園芸 日向土 小粒 14L 超軽量</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">サンアンドホープ 軽石 小粒 2L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -158,7 +163,7 @@ amazonProducts:
 
 ---
 
-### 4. スーパーミックスA 25L 軽量培養土
+### 4. スーパーミックスA 40L 軽量培養土
 
 ヤシ繊維・パーライト・バーミキュライトをバランスよく配合した軽量培養土。ヤシ繊維（ピートコイア）ベースで保水性と排水性を両立しており、乾きすぎず重くなりすぎないちょうど良いバランスが特徴。肥料の初期配合もあるため、植え替え直後から使いやすい。
 
@@ -188,9 +193,9 @@ tokyoplants オリジナルの観葉植物専用ブレンド土。ヤシの繊�
 
 | 商品 | タイプ | 軽量化の目安 | 単体使用 | 価格帯 |
 |---|---|---|---|---|
-| プロトリーフ 軽い観葉植物の土 | 培養土（軽量化済み） | 通常比 約40% | 可 | 中 |
+| プロトリーフ かる〜い培養土 | 培養土（軽量タイプ） | 配合済み（そのまま使う） | 可 | 中 |
 | パーライト | 土壌改良材 | 混合で大幅減 | 不可（混ぜ用） | 低 |
-| 日向土 小粒 | 無機培地 | 混合で大幅減 | 可（排水目的） | 低 |
+| 軽石 小粒 | 無機素材（日向土と同系統） | 混合で大幅減 | 可（排水目的） | 低 |
 | スーパーミックスA | 培養土（ヤシ繊維ベース） | 中程度 | 可 | 中 |
 | I'm original SOIL（tokyoplantsプレミアム培養土） | 観葉植物専用ブレンド | 中〜高 | 可 | 低〜中 |
 

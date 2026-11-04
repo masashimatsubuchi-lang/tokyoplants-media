@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=1200&q=80
 title: "観葉植物の道具おすすめ完全まとめ｜鉢・土・水やり・虫対策まで必要なグッズ一覧"
 description: "観葉植物を育てるのに必要な道具をカテゴリ別にまとめました。鉢・土・ジョウロ・肥料・虫対策・育成ライトまで、実際に使えるおすすめグッズをAmazonリンク付きで紹介します。"
 date: "2026-06-26"
+updated: "2026-11-04"
 category: "review"
 tags: ["道具", "グッズ", "鉢", "ジョウロ", "肥料", "虫対策", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -41,11 +42,11 @@ amazonProducts:
     asin: "B000UPVBQM"
     note: "英国老舗ブランドの室内用ジョウロ。細口ノズルで根元に正確に水やり"
     price: "¥3,400"
-  - title: "SwitchBot 温湿度計"
-    asin: "B07L4QNZVF"
-    image: "https://m.media-amazon.com/images/I/61mXAXIDPgL._AC_SL200_.jpg"
-    note: "スマホでリモート監視。温湿度の記録・アラート機能付き"
-    price: "¥1,740"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "大画面タイプの温湿度計。★4.4・レビュー6,350件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）"
+    price: "¥2,680"
   - title: "SwitchBot サーキュレーター Lite"
     asin: "B0D9896MPY"
     image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
@@ -225,13 +226,13 @@ HAWS（ホーズ）はイギリスのジョウロ専門メーカーで、創業1
 ### 温湿度計でリアルタイム管理
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B07L4QNZVF?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/61mXAXIDPgL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">SwitchBot 温湿度計</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B09PYKJ6CS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">SwitchBot 温湿度計プラス（大画面）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
-SwitchBot 温湿度計はBluetooth経由でスマートフォンと連携し、温湿度の変化を記録・グラフ表示します。「今日の昼間、植物のそばが何度になっていたか」をあとから確認できるのが大きな利点です。
+SwitchBot 温湿度計プラスは、大画面で数値を読み取りやすいモデルです。SwitchBotの温湿度計はスマートフォンのアプリと連携して温湿度の変化を記録でき、「今日の昼間、植物のそばが何度になっていたか」をあとから確認できるのが大きな利点です。
 
 観葉植物に適した管理環境の目安：
 
@@ -323,7 +324,7 @@ NEO AMATERAS LED 20W はRa97・高PPFDを両立した国内最高水準の育成
 植物の状態を「感覚」ではなく「データ」で把握できるようになると、管理の精度が格段に上がります。
 
 - **細口ジョウロ（HAWS ヘリテイジカン）**（正確な水やり）
-- **温湿度計（SwitchBot）**（環境の数値把握）
+- **温湿度計（SwitchBot 温湿度計プラス）**（環境の数値把握）
 - **粘着トラップ**（コバエ・ハダニの早期発見）
 
 ### STEP 3｜本格栽培・コレクター管理へ

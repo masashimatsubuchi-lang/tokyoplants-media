@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1716441393044-27fe73a01a69?w=1200&q=80
 title: "キャスター付きプランツキャディー比較｜大型鉢の移動を楽にする"
 description: "大型鉢の日当たり調整や季節の移動を楽にするキャスター付きプランツキャディーを比較。耐荷重・サイズ調整・キャスターの見た目の3つの観点で、Amazonで評価の高い4製品をレビューします。"
 date: "2026-09-05"
+updated: "2026-11-04"
 category: "review"
 tags: ["プランツキャディー", "キャスター", "大型鉢", "レビュー"]
 author: "tokyoplants 編集部"
@@ -26,10 +27,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/61otr06WeRL._AC_SL200_.jpg"
     note: "デザイン性重視のセット販売品。評価★4.2・レビュー170件（2026-09-05確認）"
     price: "¥5,040（3個セット／2026-09-05確認）"
-  - title: "アイリスオーヤマ 鉢 キャスター台 木製鉢置台 MH-300"
-    asin: "B003BDKF3K"
-    note: "木製トレーで室内の床材にも馴染みやすい。評価★4.0・レビュー38件（2026-09-05確認）"
-    price: "¥2,192（2026-09-05確認）"
+  - title: "Bamworld 植木鉢台 キャスター付き"
+    asin: "B0FPRFSGNT"
+    image: "https://m.media-amazon.com/images/I/71P2w5zSbWL._AC_SL200_.jpg"
+    note: "★4.4・レビュー1,745件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元meeeu shop・Amazon出荷）"
+    price: "¥2,061（2026-11-04確認）"
   - title: "植木鉢台 キャスター付き キャスター隠せる 花台（内径24.5cm）"
     asin: "B0CSK3N8QS"
     image: "https://m.media-amazon.com/images/I/41BR6NRKL-L._AC_SL200_.jpg"
@@ -53,13 +55,13 @@ amazonProducts:
 
 ## Amazonで評価の高い4製品比較
 
-以下は執筆時点（2026年9月5日）でAmazon商品ページを直接確認した評価・レビュー件数・価格・在庫状況です。ご購入前には商品ページで最新情報をご確認ください。
+以下は執筆時点（2026年9月5日。Bamworldのみ2026年11月4日）でAmazon商品ページを直接確認した評価・レビュー件数・価格・在庫状況です。ご購入前には商品ページで最新情報をご確認ください。
 
 | 商品名 | 特徴 | 価格（確認時点） | 評価 | レビュー件数 |
 |--------|------|------|------|------|
 | Goovilla 伸縮タイプ キャスター付き花台 | 耐荷重200kg・円形/矩形両対応 | ¥2,490 | ★4.3 | 825件 |
 | インテリアコーディネーター監修 キャスター付き植木鉢台（3個セット） | デザイン性重視 | ¥5,040（3個） | ★4.2 | 170件 |
-| アイリスオーヤマ 木製鉢置台 MH-300 | 木製トレー・老舗ブランド | ¥2,192 | ★4.0 | 38件 |
+| Bamworld 植木鉢台 キャスター付き | 4製品中最多のレビュー件数 | ¥2,061 | ★4.4 | 1,745件 |
 | 植木鉢台 キャスター隠せるタイプ（内径24.5cm） | キャスターを台座に内蔵 | ¥1,899 | ★4.4 | 116件 |
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
@@ -71,11 +73,11 @@ amazonProducts:
 
 ### 1. Goovilla 伸縮タイプ キャスター付き花台｜迷ったらこれ、大型鉢の本命
 
-825件という圧倒的なレビュー数と★4.3という評価の高さを両立している、この記事で最もおすすめできる製品です。最大の特徴は**耐荷重200kg**という数値と、**サイズ調節が可能な伸縮式**である点。円形の鉢だけでなく矩形（角型）のプランターにも対応できるため、鉢のサイズや形が変わっても買い替える必要がありません。
+825件のレビュー数と★4.3という評価に加えて、耐荷重を大きく明記している、この記事で最もおすすめできる製品です。最大の特徴は**耐荷重200kg**という数値と、**サイズ調節が可能な伸縮式**である点。円形の鉢だけでなく矩形（角型）のプランターにも対応できるため、鉢のサイズや形が変わっても買い替える必要がありません。
 
 10号を超える大型の陶器鉢や、土をたっぷり含んだ状態の鉢でも安心して使える耐荷重で、価格も2,000円台と導入しやすい設定になっています。
 
-**強み**: 耐荷重200kgの余裕、円形・矩形両対応の伸縮式、圧倒的なレビュー数と価格のバランス
+**強み**: 耐荷重200kgの余裕、円形・矩形両対応の伸縮式、レビュー数と価格のバランス
 
 **注意点**: 伸縮式のため、固定式に比べるとやや見た目のかっちり感は劣る
 
@@ -95,19 +97,19 @@ amazonProducts:
 **注意点**: 単体での耐荷重表示はGoovillaの製品ほど大きくないため、超大型鉢よりは中型〜大型鉢向け
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B003BDKF3K?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B003BDKF3K.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">アイリスオーヤマ 鉢 キャスター台 木製鉢置台 MH-300</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0FPRFSGNT?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71P2w5zSbWL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">Bamworld 植木鉢台 キャスター付き</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
-### 3. アイリスオーヤマ 木製鉢置台 MH-300｜ブランドの安心感を重視する人向け
+### 3. Bamworld 植木鉢台 キャスター付き｜レビュー件数の多い定番を選びたい人向け
 
-生活用品・園芸用品を幅広く手がけるアイリスオーヤマの製品で、木製トレーのナチュラルな見た目がフローリングの床にも馴染みます。レビュー件数は他の3製品に比べると少なめですが、大手ブランドならではの品質管理・サポート体制に安心感があります。価格も2,000円台前半とバランスが良く、「まずは1台試してみたい」という方の入門機として選びやすい製品です。
+レビュー1,745件と4製品の中で最も多く、評価も★4.4と高い水準です（2026年11月4日確認）。価格は2,000円台前半で、「まずは1台試してみたい」という方にも選びやすい製品です。
 
-**強み**: 大手ブランドの安心感、木製で見た目がナチュラル、価格のバランスがよい
+**強み**: 4製品中最多のレビュー件数、★4.4の評価、価格のバランスがよい
 
-**注意点**: 他の3製品に比べてレビュー件数が少なく、耐荷重の情報は商品ページで個別に確認する必要がある
+**注意点**: 対応する鉢のサイズや耐荷重は、商品ページで個別に確認する必要がある
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
 <a href="https://www.amazon.co.jp/dp/B0CSK3N8QS?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
@@ -118,9 +120,9 @@ amazonProducts:
 
 ### 4. 植木鉢台 キャスター隠せるタイプ｜見た目をすっきりさせたい人向け
 
-4製品の中で最も評価が高い★4.4を獲得している製品です。最大の特徴は、キャスターが台座の内側に収まる設計になっている点。横から見てもキャスターが目立たず、鉢そのものがすっきりと見えるのが魅力です。360°回転するため、日当たりの調整のために鉢の向きだけを変えたい場合にも使いやすくなっています。内径24.5cmとやや中型〜大型の鉢向けのサイズ設定です。
+Bamworldと並び、4製品の中で最も高い★4.4を獲得している製品です。最大の特徴は、キャスターが台座の内側に収まる設計になっている点。横から見てもキャスターが目立たず、鉢そのものがすっきりと見えるのが魅力です。360°回転するため、日当たりの調整のために鉢の向きだけを変えたい場合にも使いやすくなっています。内径24.5cmとやや中型〜大型の鉢向けのサイズ設定です。
 
-**強み**: キャスターが目立たないデザイン、360°回転で向き調整がしやすい、4製品中最高評価
+**強み**: キャスターが目立たないデザイン、360°回転で向き調整がしやすい、4製品中トップタイの評価
 
 **注意点**: 対応サイズが決まっているため、購入前に自分の鉢の底面直径を測っておく必要がある
 
@@ -152,7 +154,7 @@ amazonProducts:
 
 - 大型鉢のキャスター付きプランツキャディーは、耐荷重・サイズ調整・キャスターの見た目の3点で選ぶ
 - 耐荷重に余裕を持たせたいなら、耐荷重200kgのGoovillaの伸縮タイプが本命
-- デザイン性重視ならインテリアコーディネーター監修の製品、ブランドの安心感を求めるならアイリスオーヤマ、見た目のすっきり感を重視するならキャスター隠せるタイプがそれぞれ向いている
+- デザイン性重視ならインテリアコーディネーター監修の製品、レビュー件数の多い定番を選ぶならBamworld、見た目のすっきり感を重視するならキャスター隠せるタイプがそれぞれ向いている
 - 購入前に鉢底の直径と設置場所の床材を確認し、傷防止・転倒防止の対策も合わせて行う
 
 鉢を持ち上げずに移動できる環境を整えることで、日当たり調整や冬越しの移動、掃除の負担が大きく減ります。植え替えで鉢のサイズが変わるタイミングに合わせて、キャディーの導入も検討してみてください。

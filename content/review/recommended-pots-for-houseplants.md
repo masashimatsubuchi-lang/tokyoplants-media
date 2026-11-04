@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1591958911259-bee2173bdccc?w=1200&q=80
 title: "観葉植物の鉢おすすめ7選｜素材・サイズの選び方と失敗しない鉢の決め方"
 description: "観葉植物の鉢おすすめ7選を徹底比較。スリット鉢・プレステラ・エアーポットなど機能重視モデルから、インテリアにも使えるおしゃれ鉢まで、素材・サイズの選び方を解説します。"
 date: "2026-06-26"
+updated: "2026-11-04"
 category: "review"
 tags: ["鉢", "スリット鉢", "植え替え", "レビュー", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -20,10 +21,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/611ZZ6LnsdL._AC_SL200_.jpg"
     note: "通気性・排水性に優れたスリット入り。根詰まり・根腐れ防止の定番。Amazon評価4.0・64件（2026-09-10確認・在庫あり）"
     price: "¥3,480"
-  - title: "プレステラ90 黒 10個セット"
-    asin: "B00BQ6BVPU"
-    note: "多肉・サボテン・挿し木管理の定番。底穴が多く水はけ抜群。Amazon評価4.3・280件（2026-09-10確認・在庫あり）"
-    price: "¥950"
+  - title: "日本ポリ鉢 プレステラ深型90 5個組 ブラック（スリット入り硬質ポット）"
+    asin: "B0CJM6XYP5"
+    image: "https://m.media-amazon.com/images/I/61nSOc+AV1L._AC_SL200_.jpg"
+    note: "スリット入りの硬質ポット・深型90の5個組。★4.5・レビュー193件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）"
+    price: "¥479"
 ---
 
 観葉植物の健康は、土の質だけでなく「鉢」の設計に大きく左右されます。どんなに高品質な用土を使っても、鉢の通気性・排水性・サイズが適切でなければ根は健全に育ちません。逆に言えば、鉢選びを正しく理解するだけで、植物の生長速度・病害リスク・管理のしやすさが劇的に変わります。
@@ -180,16 +182,16 @@ amazonProducts:
 </a>
 </div>
 
-### 2位：プレステラ90 黒
+### 2位：プレステラ深型90 ブラック
 
-多肉植物・サボテン・挿し木管理の業界標準鉢。底面全体に多数の穴が配置されており、毛管力による水の滞留が起きにくい設計です。規格サイズが統一されているため、棚やトレーに整然と並べられ、コレクション管理に最適。
+多肉植物・サボテン・挿し木管理の定番として知られるプレステラの深型タイプで、スリット入りの硬質ポットです。5個組で、規格サイズが統一されているため、棚やトレーに整然と並べられ、コレクション管理に向いています。
 
 挿し木の発根確認・実生（種まき）管理・小型多肉の栽培まで幅広く活用できます。専門ナーセリーが挿し木の出荷ポットとして使っていることからも信頼性がわかります。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B00BQ6BVPU?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00BQ6BVPU.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">プレステラ90 黒</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0CJM6XYP5?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/61nSOc+AV1L._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">プレステラ深型90 5個組 ブラック</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -209,7 +211,7 @@ amazonProducts:
 
 ### 多肉植物・サボテン
 
-根腐れへの感受性が特に高いため、通気性の高い素焼き鉢か、底穴が多いプレステラが最適です。釉薬のないテラコッタ鉢を使うと、側壁からの蒸散が過湿を防いでくれます。サイズは小さめ（根鉢+1号まで）に抑えることが根腐れ防止の鉄則です。
+根腐れへの感受性が特に高いため、通気性の高い素焼き鉢か、スリット入りのプレステラが最適です。釉薬のないテラコッタ鉢を使うと、側壁からの蒸散が過湿を防いでくれます。サイズは小さめ（根鉢+1号まで）に抑えることが根腐れ防止の鉄則です。
 
 ### ハーブ類（バジル・ミント・ローズマリー）
 

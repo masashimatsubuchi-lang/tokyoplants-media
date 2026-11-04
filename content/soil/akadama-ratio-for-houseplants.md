@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1740355668562-ee851ac79e1c?w=800&q=80"
 title: "市販の培養土に赤玉土を混ぜるなら6:4｜多肉は5割、アンスリウムは3割"
 description: "市販の培養土に赤玉土を混ぜるなら培養土6：赤玉土4が基本です。なぜこの比率なのか、粒の大きさの選び方、植物のタイプ別に変える割合までを解説します。"
 date: "2026-06-27"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "soil"
 tags: ["赤玉土", "土の配合", "用土", "植え替え", "水はけ"]
 author: "tokyoplants 編集部"
@@ -22,12 +22,14 @@ amazonProducts:
   - title: "刀川平和農園 硬質赤玉土 小粒 14L"
     asin: "B078ZX7DRN"
     price: ""
-  - title: "プロトリーフ 観葉植物の土 14L"
-    asin: "B0044RQIRE"
-    price: ""
-  - title: "あかぎ園芸 赤玉土 中粒 14L"
-    asin: "B00GTC2COU"
-    price: ""
+  - title: "プロトリーフ 観葉植物の土 5L"
+    asin: "B000FXE5DA"
+    image: "https://m.media-amazon.com/images/I/71FtgVzl5pL._AC_SL200_.jpg"
+    price: "¥789"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    price: "¥1,043"
 ---
 
 「赤玉土を混ぜるといいって聞いたけど、どのくらい入れればいいの？」――観葉植物を育て始めると、土の配合で悩む方は多いです。多すぎると根が乾きすぎる、少なすぎると排水が改善されない。そのバランスが難しいですよね。
@@ -268,10 +270,10 @@ amazonProducts:
 </div>
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0044RQIRE?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0044RQIRE.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B000FXE5DA?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71FtgVzl5pL._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">プロトリーフ 観葉植物の土 14L</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">プロトリーフ 観葉植物の土 5L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>
@@ -305,13 +307,15 @@ amazonProducts:
 
 大粒は主に**鉢底石の代用**として使われます。軽石や市販の鉢底石の代わりに大粒赤玉土を鉢底に2〜3cm敷くと、排水層が確保でき、根腐れ予防になります。
 
-なお、赤玉土は**「硬質」タイプを選ぶとより長持ち**します。通常の赤玉土は水に繰り返し濡れると崩れやすいため、植え替えを頻繁にしない場合は硬質タイプがおすすめです。
+なお、赤玉土は**「硬質」タイプを選ぶとより長持ち**します。通常の赤玉土は水に繰り返し濡れると崩れやすいため、植え替えを頻繁にしない場合は硬質タイプがおすすめです。1〜2年ごとに土を入れ替える前提なら、通常の赤玉土でも用は足ります。
+
+中粒については、2026-11-04時点でAmazonに当編集部の掲載基準（評価・レビュー件数・在庫など）を満たす商品が見当たりませんでした。ここでは室内の観葉植物で使う機会がいちばん多い小粒の通常タイプを挙げています。中粒が必要な場合は、園芸店やホームセンターの店頭で粒の揃い具合を見て選ぶのが確実です。
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B00GTC2COU?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00GTC2COU.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B00BT5VRRA?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">あかぎ園芸 赤玉土 中粒 14L（入門用）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">刀川平和農園 平和 赤玉土 小粒 14L</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

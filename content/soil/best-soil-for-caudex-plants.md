@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1741242302267-492f67ce337e?w=1200&q=80
 title: "ステファニア・エレクタなど塊根植物に合う土の配合"
 description: "ステファニア・エレクタをはじめとする塊根植物（コーデックス）に適した土の配合を解説。塊根が過湿に弱い理由、排水性重視のレシピ、鉢選び、休眠期の土管理まで紹介します。"
 date: "2026-09-02"
+updated: "2026-11-04"
 category: "soil"
 tags: ["塊根植物", "コーデックス", "ステファニア", "用土", "植え替え"]
 author: "tokyoplants 編集部"
@@ -11,10 +12,11 @@ relatedSlugs:
   - "species/genus-stephania"
   - "guide/stephania-kaweesakii-complete-guide"
 amazonProducts:
-  - title: "KINCHO園芸（旧 住友化学園芸）培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 5L"
-    asin: "B0DP6ZKD3N"
-    note: "アガベ・多肉植物・塊根植物専用に配合された培養土。赤玉土・焼成赤玉土・鹿沼土をベースに軽石・パーライト・ピートモスをブレンド（メーカー公式サイトで確認）。評価★3.8・レビュー122件。2026-10-01時点でAmazon本体の取り扱いはなく、マーケットプレイス出品のみ（別途送料）"
-    price: "¥798前後（Amazonマーケットプレイス）"
+  - title: "KINCHO園芸（旧 住友化学園芸）培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 2L"
+    asin: "B0DP6XGJPD"
+    image: "https://m.media-amazon.com/images/I/71c+naQ1QML._AC_SL200_.jpg"
+    note: "アガベ・多肉植物・塊根植物専用に配合された培養土。赤玉土・焼成赤玉土・鹿沼土をベースに軽石・パーライト・ピートモスをブレンド（メーカー公式サイトで確認）。評価★3.9・レビュー123件（2026-11-04にAmazon商品ページで確認／Amazon.co.jp販売・在庫あり）"
+    price: "¥475"
   - title: "花ごころ さぼてん多肉植物の土 5L"
     asin: "B000IAA2F0"
     note: "パーライト・軽石・ココナッツファイバー・鹿沼土をベースにした排水性重視のサボテン・多肉植物用培養土。レビュー件数が多く定番として選びやすい。評価★4.2・レビュー1,445件（2026-09-03 Amazon直接確認・在庫あり・Prime対象）"

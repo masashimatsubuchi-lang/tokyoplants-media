@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1653764921246-cf5c91b32c6a?w=1200&q=80
 title: "エアプランツ（チランジア）の育て方｜水やり・飾り方・おすすめ品種"
 description: "エアプランツ（チランジア）の育て方を初心者向けに解説。水やりの方法・頻度、飾り方のアイデア、おすすめ品種の特徴まで。土不要で始めやすいインテリアグリーンの基本をまとめました。"
 date: "2026-06-26"
+updated: "2026-11-04"
 category: "guide"
 tags: ["エアプランツ", "チランジア", "飾り方", "室内栽培", "土不要"]
 author: "tokyoplants 編集部"
@@ -22,16 +23,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/61T8Zr0NYuL._AC_SL200_.jpg"
     note: "銀白色の糸状葉が絡み合うインテリア定番。壁やハンガーに掛けるだけ"
     price: "¥1,250"
-  - title: "エアプランツ チランジア カプトメデューサ"
-    asin: "B0DSKBMDN5"
-    image: "https://m.media-amazon.com/images/I/81Jv514M5tL._AC_SL200_.jpg"
-    note: "タコの足のようなユニークな形。丈夫で育てやすい入門品種"
-    price: "¥1,200"
-  - title: "霧吹き スプレーボトル 極細ミスト 300ml"
-    asin: "B0C36L68YC"
-    image: "https://m.media-amazon.com/images/I/41QpsDCZrnL._AC_SL200_.jpg"
-    note: "エアプランツの水やりに最適な極細連続ミスト。150ml/300ml選択可"
-    price: "¥710"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "日常のミスティングに使う250mlの霧吹き。★4.1・レビュー91件（2026-11-04にAmazon商品ページで確認／在庫あり・Amazon.co.jp販売）"
+    price: "¥753"
 ---
 
 エアプランツ（チランジア）は「土なしで育てられる不思議な植物」として知られていますが、その背景には数千万年にわたる進化の歴史と、精巧な生理メカニズムがあります。トリコームによる水分吸収、CAM型光合成、乾燥地帯への適応——こうした植物学的な視点を理解すると、水やりの頻度や置き場所の選び方が格段に変わります。
@@ -103,9 +99,9 @@ CAM植物のチランジアは逆の戦略をとります。**夜間に気孔を
 ### ミスティング法（霧吹き）
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0C36L68YC?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/41QpsDCZrnL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">霧吹き スプレーボトル 極細ミスト 300ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0FKMK3MW4?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">マルハチ産業 ミストスプレー エアーミストワン 250ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -179,13 +175,6 @@ CAM植物のチランジアは逆の戦略をとります。**夜間に気孔を
 最も流通量が多い入門品種。Xericタイプで銀葉が美しく、開花直前に葉先が赤く染まる（ブラッシング）のが見どころです。乾燥に強く、週1〜2回のミスティングと月2回のソーキングで十分。流木やコルクへの着生相性が良く、接着剤やビニールタイで固定すると3〜6ヶ月で根が出て自然に定着します。
 
 ### チランジア カプトメデューサ
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0DSKBMDN5?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/81Jv514M5tL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">エアプランツ チランジア カプトメデューサ</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
 
 球状の基部から放射状に曲がった葉が伸び、タコの足のような独特のフォルムを持ちます。Xericタイプで丈夫。ソーキング時には基部の中心に水が溜まりやすいため、浸水後は必ず逆さにして水気を切ってください。ガラスのテラリウムやシェルフの上に単体で飾ると存在感が出ます。
 

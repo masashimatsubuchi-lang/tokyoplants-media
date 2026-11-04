@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1758527340902-d2fecb31f9c8?w=800&q=80"
 title: "ピートモスの使い方｜混ぜるのは10〜20%まで、デメリットは酸性と撥水"
 description: "ピートモスを観葉植物に使う方法を解説。配合割合の目安、保水性改善の効果、酸性化のデメリット、ヤシガラやバーミキュライトとの比較まで詳しく説明します。"
 date: "2026-06-27"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "soil"
 tags: ["ピートモス", "土の配合", "用土", "保水性", "酸性土壌"]
 author: "tokyoplants 編集部"
@@ -25,8 +25,11 @@ amazonProducts:
   - title: "バーミキュライト 18L 土壌改良用"
     asin: "B01DN24QPQ"
     image: "https://m.media-amazon.com/images/I/71urJNZWRQL._AC_SL200_.jpg"
-  - title: "ヤシガラチップ 大粒 10L（ピートモス代替素材）"
-    asin: "B0CSSD9N5K"
+  - title: "ココピート・ココチップ 10L（アク抜き済）"
+    asin: "B0F1X7BJFY"
+    image: "https://m.media-amazon.com/images/I/71qZ8da-glL._AC_SL200_.jpg"
+    price: "¥1,280"
+    note: "ピートモスの代わりに使えるヤシガラ素材。商品名にアク抜き済と表記。★3.8・87件（2026-11-04にAmazon商品ページで確認／Amazon出荷・在庫あり）"
 ---
 
 「ピートモスを買ったけど、どのくらい混ぜればいいかわからない」「そもそも観葉植物に向いているの？」——そんな疑問を持っていませんか。
@@ -219,11 +222,13 @@ amazonProducts:
 
 pH調整なしでそのまま使えて環境にも優しいヤシガラは、ピートモスの代替として非常に優秀です。保水性は若干ピートモスより低めですが、撥水化しにくく扱いやすい点でむしろ観葉植物栽培向きといえます。
 
+ヤシガラは、細かい繊維状の「ココピート」やチップ状の「ココチップ」として売られています。ここでは、商品名に「アク抜き済」と表記された10L入りを挙げています。
+
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0CSSD9N5K?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0CSSD9N5K.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0F1X7BJFY?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71qZ8da-glL._AC_SL200_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ヤシガラチップ 大粒 10L（ピートモス代替素材）</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">ココピート・ココチップ 10L（アク抜き済）</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

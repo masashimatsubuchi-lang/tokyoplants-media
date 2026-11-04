@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1505923366535-0024f5422a62?w=1200&q=80
 title: "観葉植物の葉焼け対策｜遮光ネット・シートおすすめ比較"
 description: "観葉植物の葉焼け対策になる遮光ネット・遮光シートを比較。ベランダ用の本格的な遮光ネットから室内窓用のメッシュシートまで、設置場所別の選び方を解説します。"
 date: "2026-09-02"
+updated: "2026-11-04"
 category: "review"
 tags:
   - 葉焼け対策
@@ -21,9 +22,11 @@ amazonProducts:
   - title: "ダイオ化成 遮光ネット ダイオネット1010 カラミ織 遮光率70% 2×2m"
     asin: "B00C0MFHSG"
     price: "¥1,612"
-  - title: "山善(YAMAZEN) 目隠し日よけメッシュシート AMMS-18045N 45×180cm 2枚組"
-    asin: "B0GZ15FYLV"
-    price: "¥2,922"
+  - title: "山善(YAMAZEN) 日除け 目隠しシート メッシュタイプ 45×90cm 2枚組（遮光・遮熱・UVカット・簡単設置）"
+    asin: "B0GZ1RVSL5"
+    image: "https://m.media-amazon.com/images/I/91et87NfahL._AC_SL200_.jpg"
+    note: "★3.4・レビュー25件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）"
+    price: "¥1,754"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -92,18 +95,18 @@ baseProducts:
 </a>
 </div>
 
-### 3. 山善(YAMAZEN) 目隠し日よけメッシュシート AMMS-18045N
+### 3. 山善(YAMAZEN) 日除け 目隠しシート メッシュタイプ 45×90cm 2枚組
 
-室内の窓ガラスに直接貼るタイプのメッシュシート。水で貼り付けて、汚れたら剥がして洗って貼り直せるため、賃貸住宅でも使いやすいのが特徴です。窓際に置いた観葉植物が西日で葉焼けしやすい場合、カーテンを閉め切らずに遮光できるのがメリットです。
+窓に貼って使うメッシュタイプの目隠しシートです。45×90cmが2枚入りで、商品名には「遮光・遮熱・UVカット」「貼り直し可能」「ハサミでカット」とあります。窓際に置いた観葉植物が西日で葉焼けしやすい場合、カーテンを閉め切らずに日差しをやわらげられるのが利点です。評価は★3.4・レビュー25件（2026-11-04時点）です。遮光率などの数値は、購入前に商品ページで確認してください。
 
-**メリット**: 賃貸でも使いやすい・貼り直し可能・カーテンを閉めずに済む
-**デメリット**: 屋外の直射日光を長時間浴びる環境ではベランダ用サンシェードほどの遮光力はない
+**メリット**: 窓に貼るだけでカーテンを閉めずに済む・ハサミでカットして窓の大きさに合わせられる
+**デメリット**: 遮光率の数値は商品ページで要確認。屋外の直射日光を長時間浴びる環境では、ベランダ用のサンシェードや遮光ネットのほうが確実
 
 <div style="border:1px solid #fbbf24;border-radius:0.75rem;background:#fffbeb;margin:1.5rem 0">
-<a href="https://www.amazon.co.jp/dp/B0GZ15FYLV?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B0GZ15FYLV.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<a href="https://www.amazon.co.jp/dp/B0GZ1RVSL5?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/91et87NfahL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
 <div>
-<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">山善(YAMAZEN) 目隠し日よけメッシュシート AMMS-18045N</p>
+<p style="margin:0 0 0.25rem;font-size:0.875rem;font-weight:600;color:#b45309">山善(YAMAZEN) 日除け 目隠しシート メッシュタイプ 45×90cm 2枚組</p>
 <p style="margin:0;font-size:0.8rem;color:#92400e">Amazon で見る →</p>
 </div>
 </a>

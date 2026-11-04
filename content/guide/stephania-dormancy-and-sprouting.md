@@ -3,6 +3,7 @@ image: "https://baseec-img-mng.akamaized.net/images/item/origin/e3129b082c1744b0
 title: "ステファニアの休眠と芽出しの進め方"
 description: "ステファニア属の1年を休眠入り・越冬・芽出しの3段階で整理。秋の断水への着地、春に芽が出ないときの原因切り分け、暖かい室内で落葉しない株の扱いまで解説します。"
 date: "2026-10-14"
+updated: "2026-11-04"
 category: "guide"
 tags: ["ステファニア", "休眠", "芽出し", "塊根植物", "コーデックス"]
 author: "tokyoplants 編集部"
@@ -19,10 +20,11 @@ baseProducts:
     url: "https://www.tokyoplants.com/categories/6382099"
     price: ""
 amazonProducts:
-  - title: "KINCHO園芸（旧 住友化学園芸）培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 5L"
-    asin: "B0DP6ZKD3N"
-    note: "粒状の鹿沼土をベースに、軽石・パーライト・ピートモスの土壌改良資材をブレンドした培養土（Amazon商品ページの製品説明で確認、赤玉土は含まれない）。評価★3.8・レビュー122件。2026-10-01時点でAmazon本体の取り扱いはなく、マーケットプレイス出品のみ（別途送料）"
-    price: "¥798前後（Amazonマーケットプレイス）"
+  - title: "KINCHO園芸（旧 住友化学園芸）培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 2L"
+    asin: "B0DP6XGJPD"
+    image: "https://m.media-amazon.com/images/I/71c+naQ1QML._AC_SL200_.jpg"
+    note: "粒状の鹿沼土をベースに、軽石・パーライト・ピートモスの土壌改良資材をブレンドした培養土（Amazon商品ページの製品説明で確認、赤玉土は含まれない）。評価★3.9・レビュー123件（2026-11-04にAmazon商品ページで確認／Amazon.co.jp販売・在庫あり）"
+    price: "¥475"
   - title: "花ごころ さぼてん多肉植物の土 5L"
     asin: "B000IAA2F0"
     note: "パーライト・軽石・ココナッツファイバー・鹿沼土をベースにした排水性重視のサボテン・多肉植物用培養土。レビュー件数が多く定番として選びやすい。評価★4.2・レビュー1,450件（2026-09-15 Amazon直接確認・在庫あり・Prime対象）"

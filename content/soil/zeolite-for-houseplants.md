@@ -4,6 +4,7 @@ title: ゼオライトを観葉植物に使う効果｜量・配合・根腐れ�
 description: >-
   ゼオライトを観葉植物の土や培地に使う効果を解説。根腐れ防止・老廃物吸着・通気性改善の仕組み、土への配合量、100均品との違い、ハイドロカルチャーでの使い方、交換のタイミングまでわかります。
 date: '2026-06-03'
+updated: '2026-11-04'
 category: soil
 tags:
   - ゼオライト
@@ -32,10 +33,10 @@ amazonProducts:
     asin: "B0CKF99LL6"
     image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
     price: "¥1,670"
-  - title: "Charm(チャーム) ゼオライトの根腐れ防止剤 1L"
-    asin: "B09LYBTSH8"
-    image: "https://m.media-amazon.com/images/I/51Kwv6p0jHL._AC_SL200_.jpg"
-    price: "¥730"
+  - title: "柴田園芸刃物 ガーデンゼオライト 細粒 1kg"
+    asin: "B0CVWC8QC1"
+    image: "https://m.media-amazon.com/images/I/51V4IFlmBlL._AC_SL200_.jpg"
+    price: "¥970"
   - title: "ハイドロボール（レカトン）中粒 2L"
     asin: "B01EGYYQSC"
     image: "https://m.media-amazon.com/images/I/9196PXYbEdL._AC_SL200_.jpg"
@@ -205,7 +206,7 @@ amazonProducts:
 
 天然ゼオライト（クリノプチロライト・モルデナイトなど）の陽イオン交換容量はおおむね100〜200meq/100g程度とされますが、産地と鉱物種で幅があります。島根県は国内有数の天然ゼオライト産地として知られ、園芸・水質浄化用途で流通する国産品の供給地のひとつです。
 
-<!-- amazon-cards title="観葉植物に使いやすいゼオライト・培地（2026-09-27時点）" note="Amazonアソシエイトリンクを含みます。価格・在庫・評価は2026-09-27に商品ページで直接確認した数値です。変動する場合があります。" -->
+<!-- amazon-cards title="観葉植物に使いやすいゼオライト・培地（2026-11-04更新）" note="Amazonアソシエイトリンクを含みます。価格・在庫・評価は商品ページで直接確認した数値です（東京寿園・ハイドロボールは2026-09-27、柴田園芸刃物 ガーデンゼオライトは2026-11-04に確認）。変動する場合があります。" -->
 <!-- /amazon-cards -->
 
 ---

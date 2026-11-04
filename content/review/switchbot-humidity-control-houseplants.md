@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1747224317348-887f7ed01d34?w=1200&q=80
 title: "SwitchBotで観葉植物の湿度管理を自動化"
 description: "観葉植物の湿度管理をSwitchBotの温湿度計・スマートプラグ・加湿器連携で自動化する方法を解説。見える化から自動ON/OFF、通知設定、導入手順、商品比較まで紹介します。"
 date: "2026-07-06"
+updated: "2026-11-04"
 category: "review"
 tags: ["SwitchBot", "湿度管理", "スマートホーム", "観葉植物", "自動化"]
 author: "tokyoplants 編集部"
@@ -22,11 +23,11 @@ amazonProducts:
     asin: "B09PYKJ6CS"
     note: "大画面・快適度表示（乾燥/快適/湿潤）・データ68日保存。Amazon評価 ★4.4 / 6,318件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）"
     price: "¥2,680"
-  - title: "SwitchBot プラグミニ（消費電力モニター付き）"
-    asin: "B0DT6S7NZ8"
-    image: "https://m.media-amazon.com/images/I/611FcPBNKYL._AC_SL200_.jpg"
-    note: "Wi-Fi+Bluetooth対応、消費電力モニター付き。★4.2・613件・在庫あり（2026-09-27にAmazon商品ページで確認）。旧2個入りモデルは在庫切れのため単品版に変更"
-    price: "¥1,780"
+  - title: "SwitchBot プラグミニ 2個入り（消費電力モニター・タイマー）"
+    asin: "B0DT6X8963"
+    image: "https://m.media-amazon.com/images/I/31byeqh9dAL._AC_SL200_.jpg"
+    note: "消費電力モニター・タイマー。★4.2・レビュー721件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）。1個入りはAmazon本体の販売終了のため2個入りに変更"
+    price: "¥3,402"
   - title: "SwitchBot ハブミニ"
     asin: "B07TTH5TMW"
     note: "国内累計販売150万台超（公式発表）。Amazon評価 ★4.1 / 58,103件（2026-07-06確認、Amazon.co.jp、在庫あり・Prime対応）。赤外線家電の自動制御・Bluetooth機器の遠隔連携に必要"
@@ -126,7 +127,7 @@ SwitchBotアプリ（iOS/Android）をインストールし、Bluetoothで温湿
 | 商品名 | 役割 | 価格帯 | 評価・レビュー（2026-07-06確認） |
 |--------|------|--------|------------------------|
 | SwitchBot 温湿度計プラス | 見える化（必須） | ¥2,480〜 | ★4.4 / 6,318件・在庫あり |
-| SwitchBot プラグミニ | 自動ON/OFF（必須） | ¥2,980〜 | ★3.6 / 3,575件・在庫あり |
+| SwitchBot プラグミニ（2個入り） | 自動ON/OFF（必須） | ¥3,402 | ★4.2 / 721件・在庫あり（2026-11-04確認） |
 | SwitchBot ハブミニ | 遠隔連携・赤外線家電の自動化 | ¥3,980〜 | ★4.1 / 58,103件・在庫あり |
 | SwitchBot 気化式加湿器（4.5L） | 加湿の主機（アプリ完結） | ¥19,800〜 | ★4.2 / 542件・在庫あり |
 
@@ -138,9 +139,9 @@ SwitchBotアプリ（iOS/Android）をインストールし、Bluetoothで温湿
 
 ### 2) SwitchBot プラグミニ｜加湿器・除湿機を「自動で動かす」要
 
-コンセントに挿すだけで、既存の加湿器・除湿機（電源スイッチがボタン式のもの）をスマート化できます。消費電力モニター機能もあり、「加湿器が実際に稼働しているか」を電力値で確認できるのも便利です。2026-09-27時点のAmazon.co.jpでの評価は★4.2・613件。従来の2個入りモデルは在庫切れのため、ここでは単品版を挙げています。
+コンセントに挿すだけで、既存の加湿器・除湿機（電源スイッチがボタン式のもの）をスマート化できます。消費電力モニター機能もあり、「加湿器が実際に稼働しているか」を電力値で確認できるのも便利です。2026-11-04時点のAmazon.co.jpでの評価は★4.2・721件。1個入りがAmazon本体の販売終了となったため、ここでは2個入りを挙げています。加湿器用と除湿機用に1個ずつ割り当てれば、上の自動化ルールをそのまま組めます。
 
-→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0DT6S7NZ8?tag=tokyoplants0f-22)
+→ [Amazonで商品を見る](https://www.amazon.co.jp/dp/B0DT6X8963?tag=tokyoplants0f-22)
 
 ### 3) SwitchBot ハブミニ｜外出先からの監視と赤外線家電の自動化に
 

@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1595414902678-862fe51c9f27?w=1200&q=80
 title: "ルートン・オキシベロン・メネデールの違い｜粉か液か、農薬か活力剤か"
 description: "挿し木の発根率を上げる発根促進剤を比較。粉末タイプの「ルートン」、液剤タイプの「オキシベロン」、活力剤「メネデール」の違いと、農薬取締法上の分類・使用上の注意点を解説します。"
 date: "2026-09-05"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "review"
 tags: ["発根促進剤", "ルートン", "オキシベロン", "メネデール", "挿し木"]
 author: "tokyoplants 編集部"
@@ -20,10 +20,11 @@ amazonProducts:
     asin: "B00288GPJC"
     note: "粉末タイプ。有効成分はα-ナフチルアセトアミド。農林水産省登録第6071号の植物成長調整剤（農薬）。適用作物は林木・庭園樹・花き（きく、ゼラニウム等）で、観葉植物の行はない（2026-10-27 農薬登録情報で確認）。評価★4.0・レビュー3,283件（2026-09-05 Amazon直接確認）"
     price: "¥400〜600程度（参考価格・販売店により変動）"
-  - title: "メネデール 植物活力剤 100ml"
-    asin: "B00337XS92"
-    note: "発根ホルモンではなく、鉄をイオンの形で含む活力剤。農薬・肥料のいずれにも該当しない独立したカテゴリーの製品。評価★4.4・レビュー7,774件（2026-09-05 Amazon直接確認・在庫あり・Amazon発送）"
-    price: "¥397前後（参考価格）"
+  - title: "メネデール 植物活力剤 200ml"
+    asin: "B00337XS8S"
+    image: "https://m.media-amazon.com/images/I/71CSkHQv3UL._AC_SL200_.jpg"
+    note: "発根ホルモンではなく、鉄をイオンの形で含む活力剤。農薬・肥料のいずれにも該当しない独立したカテゴリーの製品。★4.4・レビュー7,882件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）"
+    price: "¥680"
 ---
 
 「挿し木してもなかなか発根しない」「せっかく切った枝を腐らせてしまった」——挿し木・株分けの成功率を上げたいときに候補に挙がるのが発根促進剤です。ただし「ルートン」「オキシベロン」「メネデール」はそれぞれ性質が異なり、法律上の扱いも違います。この記事では、代表的な発根促進剤・活力剤を比較し、正しい使い分けと注意点を解説します。
@@ -84,9 +85,9 @@ amazonProducts:
 バイエル クロップサイエンスが製造する液剤タイプの発根促進剤で、生産農家でも使用される本格的な製品です。切り口を規定の濃度・時間で浸す使い方のため、粉末タイプよりやや手間はかかりますが、切り口全体にムラなく成分を行き渡らせやすいのが特徴です。適用表には「花き類・観葉植物（カーネーション、きく及びチューリップを除く）」の行があり、使い方は**2倍に薄めて5〜10秒**、または**200〜400倍に薄めて12〜24時間**、さし穂の基部を浸すと定められています。500mlとまとまった容量のため、多くの挿し木を一度に管理したい場合に向いています。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B00337XS92?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B00337XS92.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">メネデール 植物活力剤 100ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B00337XS8S?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71CSkHQv3UL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">メネデール 植物活力剤 200ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 

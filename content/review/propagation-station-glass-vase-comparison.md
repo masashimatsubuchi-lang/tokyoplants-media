@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1762542531577-e2d6acc8ca51?w=1200&q=80
 title: "挿し木用ガラス花瓶（プロパゲーションステーション）比較"
 description: "挿し木・水挿しの発根管理を美しく見せる「プロパゲーションステーション」を比較。木製スタンド付きの試験管型ガラス容器をタイプ別に紹介し、選び方と使い方の注意点を解説します。"
 date: "2026-09-05"
+updated: "2026-11-04"
 category: "review"
 tags: ["プロパゲーションステーション", "挿し木", "水挿し", "ガラス容器", "インテリア"]
 author: "tokyoplants 編集部"
@@ -22,11 +23,6 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/71Ql6d4lpwL._AC_SL200_.jpg"
     note: "キノコ型のミニガラス花瓶10個セット。複数の挿し穂をまとめて楽しみたい人向け。評価★4.8・レビュー626件（2026-09-05 Amazon直接確認・在庫あり）。海外セラーの発送のためPrime対象外・配送に数日かかります"
     price: "¥7,804前後（参考価格）"
-  - title: "BlogBlog ガラスマッシュルーム花瓶（4色セット）"
-    asin: "B0CP7L494P"
-    image: "https://m.media-amazon.com/images/I/61Vopx94i6L._AC_SL200_.jpg"
-    note: "キノコ型ガラス花瓶4色セット。1個あたりの単価を抑えたい人向け。評価★4.8・レビュー76件（2026-09-05 Amazon直接確認・在庫あり）。Prime対象外"
-    price: "¥3,516前後（参考価格）"
 ---
 
 挿し木や水挿しで植物を増やすとき、コップやペットボトルで代用していませんか。「プロパゲーションステーション」と呼ばれる木製スタンド付きのガラス容器を使えば、発根の様子を眺めながらインテリアとしても楽しめます。この記事では、試験管型のプロパゲーションステーションをタイプ別に比較し、選び方と使い方の注意点を解説します。
@@ -54,7 +50,7 @@ amazonProducts:
 | タイプ | 特徴 | 設置スタイル | 向いている人 |
 |--------|------|--------------|--------------|
 | 試験管×木製フレーム型 | 試験管3〜5本を木枠にセット | 卓上・壁掛けの両対応 | 初めて試す人、シンプルなデザインを好む人 |
-| キノコ型ガラス花瓶（複数セット） | 個性的な形のミニ花瓶を4〜10個セットで展開 | 卓上に並べて飾る | 見た目の楽しさを重視したい人、複数の品種を一度に増やしたい人 |
+| キノコ型ガラス花瓶（複数セット） | 個性的な形のミニ花瓶を複数個セットで展開 | 卓上に並べて飾る | 見た目の楽しさを重視したい人、複数の品種を一度に増やしたい人 |
 
 ## Amazonで見つかる商品例
 
@@ -81,17 +77,6 @@ amazonProducts:
 ### Glasseam マッシュルーム花瓶（10個セット）｜たくさんの挿し穂を個性的に管理
 
 キノコのような形をしたミニガラス花瓶が10個セットになった製品です。1つ1つが独立しているため、品種ごとに分けて並べたり、増えた分を友人にシェアしたりと自由度の高い使い方ができます。海外セラーからの発送のためPrime対象外・到着まで数日かかる点は留意してください。
-
-<div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B0CP7L494P?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/61Vopx94i6L._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">BlogBlog ガラスマッシュルーム花瓶（4色セット）</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
-</a>
-</div>
-
-### BlogBlog マッシュルーム花瓶（4色セット）｜少数から試したい人に
-
-同じくキノコ型のガラス花瓶ですが、4色セットで単価を抑えたタイプです。10個セットまでは要らないけれど、複数の色や質感を楽しみたいという方に向いています。こちらもPrime対象外のため、配送日数に余裕を持って注文しましょう。
 
 ## 使い方・設置の注意点
 

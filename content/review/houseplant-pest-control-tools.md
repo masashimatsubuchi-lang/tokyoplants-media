@@ -3,6 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1748027144968-2c67949d8942?w=120
 title: "観葉植物の虫対策グッズおすすめ5選｜コバエ・ハダニ・カイガラムシ別の駆除方法"
 description: "観葉植物に湧くコバエ・ハダニ・カイガラムシの駆除に効果的なグッズをまとめました。オルトランDX・ベニカX・粘着シートなど、虫の種類別に最適な対策方法を解説します。"
 date: "2026-06-26"
+updated: "2026-11-04"
 category: "review"
 tags: ["虫対策", "コバエ", "ハダニ", "カイガラムシ", "農薬", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -20,10 +21,11 @@ amazonProducts:
     asin: "B004MK7RW8"
     note: "土に混ぜるだけで浸透移行性。アブラムシ・カイガラムシ・コナジラミに"
     price: "¥891"
-  - title: "住友化学園芸 ベニカXファインスプレー 420ml"
-    asin: "B007UM6NK2"
-    note: "スプレータイプ。ハダニ・アブラムシ・カイガラムシに即効性あり"
-    price: "¥885"
+  - title: "KINCHO園芸 ベニカXファインスプレー 420ml"
+    asin: "B003ULEF52"
+    image: "https://m.media-amazon.com/images/I/4185CElGp9L._AC_SL200_.jpg"
+    note: "スプレータイプ。★4.3・レビュー4,616件（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）"
+    price: "¥706"
   - title: "住友化学園芸 ベニカXガード粒剤 150g"
     asin: "B085BBTW2Y"
     note: "土への混ぜ込みタイプ。長期予防に最適"
@@ -166,9 +168,9 @@ amazonProducts:
 **正しい使い方**：葉の裏面にしっかりと濡れるまで噴射することが重要です。ハダニは葉裏の葉脈沿いに集まるため、表面だけに噴射しても効果が半減します。噴射距離は約20〜30cmを目安に、1か所に集中させずムラなく散布します。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B007UM6NK2?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B007UM6NK2.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">住友化学園芸 ベニカXファインスプレー 420ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B003ULEF52?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/4185CElGp9L._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">KINCHO園芸 ベニカXファインスプレー 420ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
