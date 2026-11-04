@@ -10,6 +10,12 @@ on:
       - "src/app/items/**"
       - "src/lib/recommendedItems.ts"
       - "src/app/about/**"
+  # 手で送るとき（Actions の画面または gh workflow run indexnow.yml -f urls="URL URL"）
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "送る URL（空白区切り）"
+        required: true
 
 jobs:
   ping:
@@ -22,5 +28,9 @@ jobs:
         with:
           node-version: 22
       # Vercel のビルドと公開に約2〜3分かかるので、公開後に Bing が読みに来るよう少し待つ
-      - run: sleep 240
-      - run: node scripts/indexnow.mjs "${{ github.event.before }}" "${{ github.sha }}"
+      - if: github.event_name == 'push'
+        run: sleep 240
+      - if: github.event_name == 'push'
+        run: node scripts/indexnow.mjs "${{ github.event.before }}" "${{ github.sha }}"
+      - if: github.event_name == 'workflow_dispatch'
+        run: node scripts/indexnow.mjs --url ${{ inputs.urls }}
