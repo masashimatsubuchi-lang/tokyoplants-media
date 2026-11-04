@@ -765,7 +765,7 @@
     var pick = document.querySelector('.tp-pick');
     if (!pick || pick.querySelector('.tp-card--socks')) return;
     var css = document.createElement('style');
-    css.textContent = '.tp-card--socks{--card-bg:linear-gradient(180deg,#efece7 0%,#ddd8d0 100%)}' +
+    css.textContent = '.tp-pick .tp-card--socks{--card-bg:linear-gradient(180deg,#f1ece5 0%,#e3d9cc 100%)}' +
       '.tp-card .tp-card-new{display:inline-block;margin-right:6px;padding:1px 7px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff;font-size:10px;letter-spacing:.06em;vertical-align:1px}' +
       '@media (min-width:1181px){.tp-wrap .tp-pick{grid-template-columns:repeat(5,1fr);gap:16px}.tp-pick .tp-card-name{font-size:22px}.tp-pick .tp-card-body{padding:26px 22px 0}}';
     document.head.appendChild(css);
@@ -786,7 +786,8 @@
     var vars = card && card.querySelector('.tp-vars');
     if (!vars || vars.querySelector('[data-path="/items/165042659"]')) return;
     var kind = card.querySelector('.tp-card-kind');
-    if (kind) kind.innerHTML = '<span class="tp-card-new">NEW</span>' + kind.innerHTML;
+    // 「NEW」を足すと PC の5列で2行に折れて見出しの高さがそろわないので、ブランド名だけにする
+    if (kind) kind.innerHTML = '<span class="tp-card-new">NEW</span>SISHICRAFT';
     var btn = document.createElement('button');
     btn.type = 'button';
     btn.dataset.img = 'https://media.tokyoplants.com/shop/pick-sishi-premium-2.jpg';
@@ -813,31 +814,21 @@
       if (b) { e.preventDefault(); pick(b); }
     });
     pick(btn);
-    // 新作なので PICK UP の先頭に置く（2026-11-04 オーナー依頼。ソックスはその次）
-    var list = card.parentNode;
-    if (list) list.insertBefore(card, list.firstChild);
   }
 
-  // TOP の STORE の商品アイコンに NEW を付ける（2026-11-04 オーナー依頼。新作が出たらここの一覧を足し引きする）
-  var STORE_NEW = ['/items/164953353', '/categories/7318231'];
-  function storeNew() {
-    var css = document.createElement('style');
-    css.textContent = '.tp-coll a.tp-has-new{position:relative}' +
-      '.tp-coll .tp-coll-new{position:absolute;top:0;left:50%;transform:translateX(-50%);padding:1px 7px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff;font:600 10px/1.6 var(--tp-font);letter-spacing:.06em;margin:0;white-space:nowrap;pointer-events:none}';
-    document.head.appendChild(css);
-    STORE_NEW.forEach(function (p) {
-      var a = document.querySelector('.tp-coll a[data-tp-path="' + p + '"]');
-      if (!a || a.querySelector('.tp-coll-new')) return;
-      a.classList.add('tp-has-new');
-      var tag = document.createElement('span');
-      tag.className = 'tp-coll-new';
-      tag.textContent = 'NEW';
-      a.insertBefore(tag, a.firstChild);
+  // PICK UP の並び。新作の SISHICRAFT を先頭に（2026-11-04 オーナー依頼）、明るいカードと暗いカードが交互になるように並べる
+  var PICK_ORDER = ['sishi', 'soil', 'socks', 'select', 'towel'];
+  function pickOrder() {
+    var list = document.querySelector('.tp-pick');
+    if (!list) return;
+    PICK_ORDER.forEach(function (k) {
+      var c = list.querySelector(':scope > .tp-card--' + k);
+      if (c) list.appendChild(c);
     });
   }
 
   function run() {
-    if (path === '/') { pickSocks(); pickSishi(); storeNew(); }
+    if (path === '/') { pickSocks(); pickSishi(); pickOrder(); }
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
