@@ -766,7 +766,7 @@
     if (!pick || pick.querySelector('.tp-card--socks')) return;
     var css = document.createElement('style');
     css.textContent = '.tp-card--socks{--card-bg:linear-gradient(180deg,#efece7 0%,#ddd8d0 100%)}' +
-      '.tp-card--socks .tp-card-new{display:inline-block;margin-right:6px;padding:1px 7px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff;font-size:10px;letter-spacing:.06em;vertical-align:1px}' +
+      '.tp-card .tp-card-new{display:inline-block;margin-right:6px;padding:1px 7px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff;font-size:10px;letter-spacing:.06em;vertical-align:1px}' +
       '@media (min-width:1181px){.tp-wrap .tp-pick{grid-template-columns:repeat(5,1fr);gap:16px}.tp-pick .tp-card-name{font-size:22px}.tp-pick .tp-card-body{padding:26px 22px 0}}';
     document.head.appendChild(css);
     var card = document.createElement('article');
@@ -779,8 +779,44 @@
     pick.insertBefore(card, pick.firstChild);
   }
 
+  // TOP の PICK UP「Leather Botanical」に Premium Edition（2026-11-04 新商品）を足して最初に出す。テーマは文字数の上限に近いのでここで足す
+  // テーマは DOMContentLoaded で各ボタンにクリックを付けるが、こちらが後から動いたときに備えて自前でも切り替える
+  function pickSishi() {
+    var card = document.querySelector('.tp-card--sishi');
+    var vars = card && card.querySelector('.tp-vars');
+    if (!vars || vars.querySelector('[data-path="/items/165042659"]')) return;
+    var kind = card.querySelector('.tp-card-kind');
+    if (kind) kind.innerHTML = '<span class="tp-card-new">NEW</span>' + kind.innerHTML;
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.dataset.img = 'https://media.tokyoplants.com/shop/pick-sishi-premium.jpg';
+    btn.dataset.alt = 'SISHICRAFT タイコンステレーションのレザー作品 Premium Edition';
+    btn.dataset.price = '¥29,800';
+    btn.dataset.path = '/items/165042659';
+    btn.setAttribute('aria-label', '鉢植え Premium（緑／クリーム）');
+    btn.innerHTML = '<i style="background:linear-gradient(135deg, #1f5c34 50%, #e6d6a2 50%)"></i>';
+    vars.insertBefore(btn, vars.firstChild);
+    var link = card.querySelector('.tp-card-link');
+    var img = card.querySelector('.tp-card-photo img');
+    var price = card.querySelector('.tp-card-price');
+    var pick = function (b) {
+      vars.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      img.src = b.dataset.img;
+      img.parentNode.classList.toggle('is-cutout', b.dataset.cut === '1');
+      img.alt = b.dataset.alt;
+      price.textContent = b.dataset.price;
+      link.href = link.href.replace(link.dataset.tpPath, b.dataset.path);
+      link.dataset.tpPath = b.dataset.path;
+    };
+    vars.addEventListener('click', function (e) {
+      var b = e.target.closest('button');
+      if (b) { e.preventDefault(); pick(b); }
+    });
+    pick(btn);
+  }
+
   function run() {
-    if (path === '/') pickSocks();
+    if (path === '/') { pickSocks(); pickSishi(); }
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
