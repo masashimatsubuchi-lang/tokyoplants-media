@@ -40,7 +40,7 @@ export const RECOMMENDED_OWN_ITEMS: RecommendedItem[] = [
     image: "/images/products/im-original-soil-main.jpg",
     price: "¥1,200〜",
     reason: "6種の天然素材をブレンドし、化学肥料不使用で元肥配合済みの看板用土。",
-    relatedSlugs: ["soil/recommended-soil-for-houseplants"],
+    relatedSlugs: ["soil/repotting-soil-guide"],
   },
   {
     title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地",
