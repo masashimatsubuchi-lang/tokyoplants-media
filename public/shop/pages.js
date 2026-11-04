@@ -672,7 +672,7 @@
   }
 
   // TOP の PICK UP の先頭に新商品のソックスを足す（2026-11-03 オーナー依頼。テーマは文字数の上限に近いのでここで足す）
-  // 写真はオーナー提供の商品画像（BASE の1枚目）。PC は5枚を1列に並べる
+  // 写真はオーナー提供のパッケージ写真（public/shop/socks-pick.webp、2026-11-04 差し替え）。PC は5枚を1列に並べる
   function pickSocks() {
     var pick = document.querySelector('.tp-pick');
     if (!pick || pick.querySelector('.tp-card--socks')) return;
@@ -687,7 +687,7 @@
       '<a class="tp-card-link" href="' + base + '/items/164953353" aria-label="Daily Botanical Socksを見る"></a>' +
       '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>オリジナルソックス</span>' +
       '<span class="tp-card-name">Daily Botanical Socks</span><span class="tp-card-copy">ちょっと気分が上がる、特別な靴下。</span><span class="tp-card-price">¥2,000</span></div>' +
-      '<div class="tp-card-photo"><img src="https://baseec-img-mng.akamaized.net/images/item/origin/1b550b392d943efbec3dbf2fcbc2d7ff.png?imformat=generic&amp;imwidth=800" alt="Daily Botanical Socks をローファーに合わせた足もと" loading="lazy"></div>';
+      '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/socks-pick.webp" alt="帯付きのパッケージに入った Daily Botanical Socks" loading="lazy"></div>';
     pick.insertBefore(card, pick.firstChild);
   }
 
