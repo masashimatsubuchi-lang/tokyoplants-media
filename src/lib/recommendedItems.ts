@@ -74,8 +74,8 @@ export const RECOMMENDED_OWN_ITEMS: RecommendedItem[] = [
     source: "tokyoplants",
     url: "https://www.tokyoplants.com/categories/7318231",
     image: "/images/products/leather-botanical-monstera-stand.jpg",
-    price: "¥18,000〜",
-    reason: "台湾のレザーアーティストSISHICRAFTと仕立てた、植物タンニン鞣しレザーの「革の植物」。",
+    price: "¥19,800〜",
+    reason: "台湾のレザーアーティストSISHICRAFTと仕立てた、植物タンニン鞣しレザーの「革の植物」。気根まで革で表現したタイコンステレーションも。",
     relatedSlugs: ["review/leather-botanical-collection"],
   },
 ];

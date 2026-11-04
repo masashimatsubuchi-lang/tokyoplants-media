@@ -7,6 +7,8 @@ import {
 } from "@/lib/recommendedItems";
 import { resolveRelatedPosts } from "@/lib/posts";
 import { amazonPrice } from "@/lib/amazonDisplay";
+import { FaqItem } from "@/lib/faq";
+import FaqJsonLd from "@/components/FaqJsonLd";
 
 const PAGE_TITLE = "tokyoplantsのおすすめアイテム｜記事で紹介した道具まとめ";
 const PAGE_DESCRIPTION =
@@ -25,6 +27,101 @@ export const metadata: Metadata = {
 };
 
 const ASSOCIATE_TAG = process.env.AMAZON_ASSOCIATE_TAG || "tokyoplants0f-22";
+
+// 自社商品の構造化データ（AI検索・検索エンジンが商品として読めるように）。事実は BASE の商品説明（2026-11-04 時点）
+// 価格を変えたら public/llms.txt と recommendedItems.ts も直す
+const SITE = "https://media.tokyoplants.com";
+const OWN_PRODUCTS = [
+  {
+    name: "I'm original SOIL（tokyoplantsプレミアム培養土）",
+    url: "https://www.tokyoplants.com/items/99620939",
+    image: "/images/products/im-original-soil-main.jpg",
+    description:
+      "観葉植物用の培養土。天然ヤシの繊維30%・日向石20%・蘭の発酵樹皮20%・ミミズ堆肥10%・ピートモス10%・パーライト10%。粗めの粒で通気性と水はけがよく、アンスリウム・モンステラなどサトイモ科の熱帯植物向け。2L・10L。",
+    low: 1200,
+    high: 4800,
+    availability: "InStock",
+  },
+  {
+    name: "HYDRO MINERAL 2L",
+    url: "https://www.tokyoplants.com/items/142692278",
+    image: "/images/products/hydro-mineral-main.jpg",
+    description:
+      "土を使わない無機用土。富士山の溶岩石75%・島根県産ゼオライト25%に緩効性肥料0.5%配合で、約8〜9ヶ月は水だけで育てられる。ハイドロカルチャー・底面給水鉢向け。",
+    low: 1480,
+    availability: "InStock",
+  },
+  {
+    name: "Daily Botanical Towel",
+    url: "https://www.tokyoplants.com/items/135803882",
+    image: "/images/products/botanical-towel-main.jpg",
+    description:
+      "モンステラ・アンスリウム・アロカシアの葉の形をしたマイクロファイバーのタオル（約30×20cm、全8種）。植物好きへのギフトに。",
+    low: 2000,
+    availability: "InStock",
+  },
+  {
+    name: "Daily Botanical Socks（MONSTERA MONDAY）",
+    url: "https://www.tokyoplants.com/items/164953353",
+    image: "/images/products/botanical-socks-main.jpg",
+    description:
+      "モンステラの葉を編み込んだグリーンのソックス。ユニセックス2サイズ（S/M 22〜25cm、M/L 25〜28cm）、コーマコットン使用、紙製パッケージ入り。",
+    low: 2000,
+    availability: "InStock",
+  },
+  {
+    name: "Leather Botanical Collection（SISHICRAFT × tokyoplants）",
+    url: "https://www.tokyoplants.com/categories/7318231",
+    image: "/images/products/leather-botanical-monstera-stand.jpg",
+    description:
+      "台湾のレザーアーティストSISHICRAFTによる、植物タンニン鞣しレザーの「革の植物」。斑入りモンステラ（3枚葉・高さ約15cm）と、気根まで革で表現したタイコンステレーション。予約販売。",
+    low: 19800,
+    high: 29800,
+    availability: "PreOrder",
+  },
+];
+
+const ITEMS_FAQ: FaqItem[] = [
+  {
+    question: "観葉植物の土は、I'm original SOIL と HYDRO MINERAL のどちらを選べばいいですか？",
+    answer:
+      "ふつうの鉢でアンスリウム・モンステラなどを育てるなら I'm original SOIL（有機質と軽石をブレンドした培養土）、ハイドロカルチャーや底面給水鉢で育てたい・虫を避けたいなら HYDRO MINERAL（溶岩石とゼオライトの無機用土、肥料入り）が向いています。",
+  },
+  {
+    question: "I'm original SOIL のサイズと価格は？",
+    answer: "2L が1,200円、10L が4,800円（いずれも税込）です。10L は2L×5袋分が4袋分の価格です。",
+  },
+  {
+    question: "観葉植物が好きな人へのプレゼントには何がいいですか？",
+    answer:
+      "葉の形をしたタオル「Daily Botanical Towel」（2,000円〜、3枚・6枚・全8種のセットあり）、モンステラ柄のソックス「Daily Botanical Socks」（2,000円）、革で作られた植物「Leather Botanical Collection」（19,800円〜）があります。ギフトバッグ（1袋300円）でお包みできます。",
+  },
+  {
+    question: "どこで買えますか？",
+    answer: "tokyoplants オンラインストア（https://www.tokyoplants.com）で購入できます。",
+  },
+];
+
+const itemsJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "tokyoplants公式アイテム",
+  itemListElement: OWN_PRODUCTS.map((p, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    item: {
+      "@type": "Product",
+      name: p.name,
+      url: p.url,
+      image: SITE + p.image,
+      description: p.description,
+      brand: { "@type": "Brand", name: "tokyoplants" },
+      offers: p.high
+        ? { "@type": "AggregateOffer", priceCurrency: "JPY", lowPrice: p.low, highPrice: p.high, availability: `https://schema.org/${p.availability}`, url: p.url }
+        : { "@type": "Offer", priceCurrency: "JPY", price: p.low, availability: `https://schema.org/${p.availability}`, url: p.url },
+    },
+  })),
+};
 
 function getAmazonImageUrl(asin: string): string {
   return `https://m.media-amazon.com/images/P/${asin}.01._SL160_.jpg`;
@@ -153,8 +250,23 @@ export default function RecommendedItemsPage() {
         </section>
       ))}
 
+      <section className="mt-16">
+        <h2 className="text-xl font-extrabold tracking-tight text-gray-900">よくある質問</h2>
+        <div className="mt-4 divide-y divide-gray-100 rounded-2xl border border-gray-100 bg-white">
+          {ITEMS_FAQ.map((f) => (
+            <details key={f.question} className="group p-5">
+              <summary className="cursor-pointer list-none text-[15px] font-bold text-gray-900">{f.question}</summary>
+              <p className="mt-2 text-[14px] leading-relaxed text-gray-600">{f.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemsJsonLd) }} />
+      <FaqJsonLd faqs={ITEMS_FAQ} />
+
       <div className="mt-16 rounded-xl border border-gray-100 bg-gray-50/60 p-5 text-xs leading-relaxed text-gray-500">
-        掲載商品は、tokyoplants MEDIAの商品選定基準（評価★3.2以上・レビュー10件以上・在庫あり等）を満たすものの中から編集部が選んでいます。最終更新日: 2026-09-09
+        掲載商品は、tokyoplants MEDIAの商品選定基準（評価★3.2以上・レビュー10件以上・在庫あり等）を満たすものの中から編集部が選んでいます。最終更新日: 2026-11-04
         <br />
         ※本ページにはAmazonアソシエイトリンクを含みます。
       </div>
