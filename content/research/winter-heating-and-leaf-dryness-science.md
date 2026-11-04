@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1647783323572-da0d17c11489?w=1200&q=80
 title: "暖房の種類で違う？観葉植物の乾燥ダメージの仕組みと対策"
 description: "エアコン・石油ファンヒーター・電気ストーブなど暖房器具の種類ごとに、観葉植物への乾燥ダメージのメカニズムがどう違うのかを解説。冬の置き場所と距離の目安がわかります。"
 date: "2026-09-02"
+updated: "2026-11-04"
 category: "research"
 tags:
   - 冬の管理
@@ -16,6 +17,8 @@ relatedSlugs:
   - "review/winter-humidity-control-humidifier-dehumidifier"
   - "review/grow-tent-for-apartment-winter-led"
   - "guide/winter-heating-appliances-and-houseplants"
+  - "guide/winter-placement-room-map"
+  - "review/thermo-hygrometer-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -34,7 +37,7 @@ baseProducts:
 2. **温風が直接葉に当たり、葉の表面から水分の蒸散が加速する**（ファンヒーター・エアコン特有）
 3. **輻射熱（赤外線）が葉の表面温度を直接上げる**（電気ストーブ・ハロゲンヒーター特有）
 
-同じ室温・同じ湿度計の数値でも、②③が加わる暖房方式の方が葉へのダメージは大きくなります。**エアコンの温風の直下、電気ストーブの正面1m以内は特に避けるべき置き場所**です。
+同じ室温・同じ湿度計の数値でも、②③が加わる暖房方式の方が葉へのダメージは大きくなります。**エアコンの温風の直下、電気ストーブの正面1m以内は特に避けるべき置き場所**です。器具ごとの具体的な置き方は[暖房器具別｜観葉植物を冬に枯らさない置き方](/guide/winter-heating-appliances-and-houseplants)にまとめています。
 
 ## 理由・仕組み
 
@@ -60,7 +63,7 @@ baseProducts:
 
 - 吹き出し口の直線上・直下は避け、対角線上に植物を置く
 - サーキュレーターで室内の空気を循環させ、風が一点に集中しないようにする
-- 加湿器を併用し、相対湿度45〜60%を目安に管理する（一般的な観葉植物の目安。高湿度を好む種はさらに上）
+- [加湿器](/review/winter-humidity-control-humidifier-dehumidifier)を併用し、相対湿度45〜60%を目安に管理する（一般的な観葉植物の目安。高湿度を好む種はさらに上）
 
 ### 石油ファンヒーター・電気ファンヒーター
 
@@ -81,7 +84,7 @@ baseProducts:
 
 ### 失敗1: 湿度計の数値だけを信じて安心する
 
-湿度計は部屋全体の平均値を示しますが、暖房の温風・輻射熱が直接当たる場所はそれよりずっと乾燥しています。**湿度計の位置と植物の置き場所が離れていると、数値と実際の乾燥度にズレが出ます。**
+湿度計は部屋全体の平均値を示しますが、暖房の温風・輻射熱が直接当たる場所はそれよりずっと乾燥しています。**湿度計の位置と植物の置き場所が離れていると、数値と実際の乾燥度にズレが出ます。**[温湿度計](/review/thermo-hygrometer-comparison)は株のすぐそばに置いてください。
 
 ### 失敗2: 加湿器だけで暖房の影響を相殺しようとする
 

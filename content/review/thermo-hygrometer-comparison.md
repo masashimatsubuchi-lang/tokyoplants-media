@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1610389337008-84e005329867?w=1200&q=80
 title: "観葉植物向け温湿度計おすすめ比較｜初心者向けシンプル型"
 description: "観葉植物の管理に使う温湿度計を比較。電池不要・スマホ連携不要のシンプルなデジタル温湿度計を中心に、Amazonで実際に評価の高い商品を紹介。スマート連携型との違いも解説します。"
 date: "2026-09-03"
+updated: "2026-11-04"
 category: "review"
 tags: ["温湿度計", "湿度管理", "観葉植物", "初心者", "根腐れ防止"]
 author: "tokyoplants 編集部"
@@ -11,6 +12,9 @@ relatedSlugs:
   - "review/watering-checker-comparison"
   - "research/humidity-and-leaf-damage-thresholds"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/winter-placement-room-map"
+  - "guide/autumn-winter-humidity-drop-prep"
+  - "review/heat-mat-for-houseplants-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -45,7 +49,7 @@ amazonProducts:
 
 ### 「なんとなく乾燥している」は当てにならない
 
-人の肌感覚は季節や体調によって変わりやすく、実際の湿度とズレが生じがちです。特にエアコンの効いた部屋は、体感以上に湿度が下がっていることが多く、葉先の枯れ込みの原因になります。
+人の肌感覚は季節や体調によって変わりやすく、実際の湿度とズレが生じがちです。特に[エアコンの効いた部屋](/guide/winter-heating-appliances-and-houseplants)は、体感以上に湿度が下がっていることが多く、葉先の枯れ込みの原因になります。
 
 <!-- character-note character="shadee" type="point" -->
 「乾燥してる気がする」と思った時点で、実はもう結構前から湿度は下がっていることが多いよ。感覚に頼らず数値で確認するクセをつけると、対応がワンテンポ早くなる。
@@ -61,7 +65,7 @@ amazonProducts:
 
 ### 置き場所によって湿度は大きく異なる
 
-同じ部屋でも、窓際・エアコンの風が直接当たる場所・部屋の中央では湿度が数%〜10%以上変わることがあります。植物の近くに実際に温湿度計を置いてみることで、思わぬ乾燥・多湿ゾーンに気づけることがあります。
+同じ部屋でも、窓際・エアコンの風が直接当たる場所・部屋の中央では湿度が数%〜10%以上変わることがあります。植物の近くに実際に温湿度計を置いてみることで、思わぬ乾燥・多湿ゾーンに気づけることがあります。冬は温度も同じで、夜の窓際は部屋の中央より冷え込みやすくなります。置き場所ごとの温度の測り方と配置の考え方は[観葉植物の冬の置き場所｜部屋の温度マップで選ぶ](/guide/winter-placement-room-map)にまとめています。
 
 ## シンプル型とスマート連携型の違い
 

@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1763518821406-55caf89c01fb?w=1200&q=80
 title: "アロカシアの冬越し・温度管理完全ガイド"
 description: "アロカシアの冬越しに必要な最低温度を15℃・10℃・5℃の3段階で整理。置き場所と水やりの落とし方、休眠と根腐れの見分け方、品種ごとの耐寒ライン、ハイドロでの冬管理、春の立ち上げまで解説します。"
 date: "2026-09-02"
+updated: "2026-11-04"
 category: "guide"
 tags: ["アロカシア", "冬越し", "温度管理", "休眠", "冬の管理"]
 author: "tokyoplants 編集部"
@@ -14,6 +15,9 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "species/genus-alocasia"
   - "guide/bringing-plants-indoors-timing"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/winter-placement-room-map"
+  - "review/heat-mat-for-houseplants-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -91,7 +95,7 @@ baseProducts:
 | [ドラゴンスケール](/species/alocasia-dragon-scale) | 15℃（10℃以下で球茎が傷む） | 乾かしめ管理。冬の過湿に特に弱い |
 | [ブラックベルベット](/species/alocasia-black-velvet) | 15℃（10℃以下で球茎が傷む） | 土量が少なく乾きが早い。水やり判断が難しい |
 | [シルバードラゴン](/species/alocasia-silver-dragon) | 15℃（理想18℃以上） | 温度が足りないと春の立ち上がりが遅れる |
-| [アズラニー](/species/alocasia-azlanii) | **18℃** | 最も寒さに弱い。冬は加温ケースが安心 |
+| [アズラニー](/species/alocasia-azlanii) | **18℃** | 最も寒さに弱い。冬は[加温ケース](/review/plant-rack-and-greenhouse-review)が安心 |
 | オドラ（クワズイモ） | 属内では例外的に寒さに強い部類 | 暖地では地上部を枯らして越冬することもある |
 
 <mark>ジュエルアロカシア（ブラックベルベット・シルバードラゴン・アズラニーなど）は、**根が細く過湿に弱い**という共通点があります。これらは「温度を確保する」ことと同じくらい「水を控える」ことが重要です。</mark>品種ごとの違いは[ジュエルアロカシアの品種比較](/guide/jewel-alocasia-types-comparison)で整理しています。
@@ -105,7 +109,7 @@ baseProducts:
 朝晩の気温が15℃を下回り始める10月後半〜11月頃が切り替えの目安です。
 
 <!-- steps title="冬支度の5ステップ" -->
-1. **温度計を株のそばに置く**：部屋の温度計ではなく、**株の高さ・窓からの距離で測る**。同じ部屋でも窓際と部屋の中央で3〜5℃違うことがある
+1. **温度計を株のそばに置く**：部屋の温度計ではなく、**株の高さ・窓からの距離で測る**。同じ部屋でも窓際と部屋の中央で3〜5℃違うことがある（[温湿度計の選び方](/review/thermo-hygrometer-comparison)）
 2. **置き場所を決める**：日中は明るさを確保しつつ、夜間は窓から30cm〜1m離す。エアコン・ヒーターの風の通り道は外す
 3. **水やりの間隔を段階的に延ばす**：いきなり半分にせず、2週間ごとに1〜2日ずつ延ばして冬の間隔に近づける
 4. **肥料を止める**：10月中には施肥を終える。吸収されない肥料分は土に残って根を傷める
@@ -147,7 +151,7 @@ baseProducts:
 
 暖房で室内が乾燥すると、葉の縁が枯れ込み、ハダニも発生しやすくなります。アロカシアは**休眠中でも湿度は下げない**のが原則で、60%前後を目標にします。
 
-加湿器を併用するか、朝〜午前中に葉水を与えて補います。ただし**葉水後に水滴が残ったまま夜の冷え込みを迎えると傷みの原因**になるため、夕方以降の葉水は避けてください。
+[加湿器](/review/winter-humidity-control-humidifier-dehumidifier)を併用するか、朝〜午前中に葉水を与えて補います。ただし**葉水後に水滴が残ったまま夜の冷え込みを迎えると傷みの原因**になるため、夕方以降の葉水は避けてください。
 
 <!-- character-note character="shadee" type="warning" -->
 「冬は水やりを減らす」と「冬は乾燥させる」は別の話だよ。減らすのは**土に与える水**で、空気の湿り気はむしろ夏より意識して補ってあげたい季節なんだ。ここを一緒くたにすると、葉先から茶色くなっていくよ。

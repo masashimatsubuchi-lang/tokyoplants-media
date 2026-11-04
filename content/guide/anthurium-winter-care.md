@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1632906379687-355e24798632?w=1200&q=80
 title: "アンスリウムの冬越し｜15℃ラインと湿度"
 description: "アンスリウムの冬は寒さだけでなく暖房乾燥との複合ダメージが問題。15℃ラインの意味、花もの系とビロード葉系で異なる冬管理、水やり・湿度・置き場所の調整、冬に葉が黒くなる原因と対処を解説します。"
 date: "2026-09-21"
+updated: "2026-11-04"
 category: "guide"
 tags: ["アンスリウム", "冬越し", "湿度管理", "温度管理", "冬の管理"]
 author: "tokyoplants 編集部"
@@ -12,6 +13,10 @@ relatedSlugs:
   - "guide/anthurium-warocqueanum-care-guide"
   - "review/winter-humidity-control-humidifier-dehumidifier"
   - "research/winter-heating-and-leaf-dryness-science"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/winter-placement-room-map"
+  - "review/thermo-hygrometer-comparison"
+  - "review/plant-rack-and-greenhouse-review"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -93,7 +98,7 @@ baseProducts:
 |---|---|---|---|
 | クラリネルビウム | 50〜70% | 12℃以上 | ビロード葉系の中では最も冬に強い。厚い革質の葉で乾燥にもある程度耐える |
 | レガーレ | 60〜80% | 15℃以上 | 湿度変化への耐性はやや高め。70%以上で葉脈が美しく出る |
-| クリスタリナム | 70〜80% | 15℃以上 | 加湿器かガラスキャビネットでの底上げがほぼ必須 |
+| クリスタリナム | 70〜80% | 15℃以上 | 加湿器か[ガラスキャビネット](/review/plant-rack-and-greenhouse-review)での底上げがほぼ必須 |
 | ワロクアーナム | 80%以上 | 15℃以上（推奨18℃以上） | 60%以下で葉先の枯れ込みが止まらない。冬はキャビネット管理が現実的 |
 
 クリスタリナム以上の高湿度が必要な種を、暖房の効いた一般的な部屋で冬越しさせるのは難易度が高いです。ガラスキャビネットや衣装ケースを使った加湿環境の作り方は[ワロクアーナムの湿度環境の作り方](/guide/anthurium-warocqueanum-care-guide)を参照してください。
@@ -108,8 +113,8 @@ baseProducts:
 
 1. **窓から30cm〜1m離す**：窓ガラス付近は夜間に室内中央より5〜10℃低くなることがある
 2. **暖房の温風の通り道を避ける**：エアコン正面や吹き出し口の直線上には置かない
-3. **床から浮かせる**：冷気は床付近に溜まるため、鉢スタンドで10〜20cm上げる
-4. **湿度計を株のそばに置く**：部屋全体の湿度と株周りの湿度は数%〜10%以上違うことがある
+3. **床から浮かせる**：冷気は床付近に溜まるため、[鉢スタンド](/review/winter-insulation-goods-for-houseplants)で10〜20cm上げる
+4. **[湿度計](/review/thermo-hygrometer-comparison)を株のそばに置く**：部屋全体の湿度と株周りの湿度は数%〜10%以上違うことがある
 5. **加湿器で底上げする**：冬の室内湿度は45〜60%を軸に管理する。ビロード葉系はさらに高めを狙う
 
 加湿器の選び方と、加湿しすぎたときの除湿の考え方は[冬の湿度管理｜加湿器と除湿機の使い分け](/review/winter-humidity-control-humidifier-dehumidifier)で解説しています。

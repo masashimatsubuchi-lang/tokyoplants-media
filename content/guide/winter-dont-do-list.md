@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1765037443347-969f54649624?w=1200&q=80
 title: "観葉植物の冬にやってはいけない10のこと"
 description: "観葉植物を冬に枯らす原因は、やらなかったことより「良かれと思ってやったこと」に集中します。夏と同じ水やり・冬の施肥・冬の植え替え・夜の葉水・暖房の風・窓際の置きっぱなし・受け皿の水など、冬のNG行動10個を理由つきで整理し、それぞれの正しい対処記事へ案内します。"
 date: "2026-09-26"
+updated: "2026-11-04"
 category: "guide"
 tags: ["冬越し", "NG行動", "水やり", "置き場所", "根腐れ", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -13,6 +14,8 @@ relatedSlugs:
   - "guide/winter-placement-room-map"
   - "guide/winter-leaf-drop-diagnosis"
   - "guide/winter-heating-appliances-and-houseplants"
+  - "review/thermo-hygrometer-comparison"
+  - "review/winter-insulation-goods-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -96,7 +99,7 @@ baseProducts:
 #### 8. 乾燥対策を霧吹きだけで済ませる
 - 霧吹きで上がる湿度は局所的かつ一時的で、数分から十数分で元に戻ります。暖房で30%台まで落ちた部屋を葉水で補うことはできません
 - 濡れた葉が冷えるリスクだけが残る使い方になりがちです
-- → [秋冬の湿度低下への備え](/guide/autumn-winter-humidity-drop-prep)
+- → [秋冬の湿度低下への備え](/guide/autumn-winter-humidity-drop-prep)／[加湿器の選び方](/review/winter-humidity-control-humidifier-dehumidifier)
 
 #### 9. 急に日光に当てる
 - 「日光不足だから」と冷えた株を急に直射に出すと、低温で光合成の処理能力が落ちた葉が強い光を受け、余ったエネルギーで組織が傷みます
@@ -139,8 +142,8 @@ NGかどうかは気分ではなく数字で決まります。次の4つを覚�
 <!-- steps title="冬支度チェック" -->
 1. **受け皿と鉢カバーを全部確認する**：溜まっている水をすべて捨てる。鉢カバーは持ち上げて底を見る。ここだけで冬の根腐れは大きく減ります
 2. **肥料を撤去する**：土の表面に残っている固形肥料・置き肥を取り除く。液肥は停止
-3. **夜の最低温度を測る**：最低最高温度計を株の高さに一晩置き、明け方の最低値を記録する
-4. **窓際と床から離す**：測った結果をもとに、窓から30cm〜1m離し、床置きの鉢は台で10〜20cm浮かせる
+3. **夜の最低温度を測る**：[最低最高温度計](/review/thermo-hygrometer-comparison)を株の高さに一晩置き、明け方の最低値を記録する
+4. **窓際と床から離す**：測った結果をもとに、窓から30cm〜1m離し、床置きの鉢は[鉢台](/review/winter-insulation-goods-for-houseplants)で10〜20cm浮かせる
 5. **暖房との距離を確認する**：エアコン・ファンヒーターの温風方向から1.5m、電気ストーブの正面1m以内に鉢がないかを見る
 6. **水やりの基準を書き換える**：カレンダーの「〇日ごと」をやめ、鉢の重さで判断する運用に切り替える
 <!-- /steps -->

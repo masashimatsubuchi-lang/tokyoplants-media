@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1736844867059-fc66466c67f9?w=1200&q=80
 title: "観葉植物の冬の水やりは春夏の1.5〜2倍の間隔で、夜は避けて午前〜昼に"
 description: "観葉植物の冬の水やり頻度・時間帯・暖房環境での注意点を解説。根腐れと水切れを防ぐ具体策がわかります。"
 date: "2026-02-17"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "guide"
 tags: ["冬", "水やり", "根腐れ", "冬の管理"]
 author: "tokyoplants 編集部"
@@ -18,6 +18,10 @@ relatedSlugs:
   - "guide/hydroculture-winter-care"
   - "soil/how-to-check-soil-dryness"
   - "guide/winter-dont-do-list"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/winter-placement-room-map"
+  - "guide/year-end-watering-adjustment"
+  - "review/thermo-hygrometer-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -61,7 +65,7 @@ baseProducts:
 - 土の色（濡れ色か乾き色か）
 - 鉢の重さ（持ち上げた感覚）
 - 葉の張り（朝と夜での差）
-- 室温（最低温度）
+- 室温（最低温度。株の近くに[温湿度計](/review/thermo-hygrometer-comparison)を置くと確かめやすい）
 
 次に判断。以下の条件がそろった日に水やりします。
 
@@ -75,7 +79,7 @@ baseProducts:
 1. 水やり前に受け皿を空にする。  
 2. 鉢底からしっかり流れるまで与える。  
 3. 5〜10分後に受け皿の水を必ず捨てる。  
-4. 直後は窓ガラス際を避け、冷気の影響が少ない位置で半日養生する。  
+4. 直後は窓ガラス際を避け、[冷気の影響が少ない位置](/guide/winter-placement-room-map)で半日養生する。  
 
 ポイントは「少量をこまめに」ではなく「乾いてから十分量」です。少量だけ与えると、表層しか湿らず根が浅くなります。乾湿のメリハリを作る方が、冬の根は健全に保てます。
 
@@ -97,7 +101,7 @@ baseProducts:
 
 失敗4は「暖房の風直撃」です。葉先が乾くため水不足と誤認しやすくなります。実際には土が湿っているのに葉だけ乾くケースが多く、追加の水やりで悪化します。風向きを変える、位置をずらす、サーキュレーターで間接循環にする、の順で対策してください。
 
-失敗5は「植え替え直後の過保護」です。冬の植え替え後は根の回復が遅く、頻回灌水は逆効果です。土が落ち着くまで控えめ管理し、光と温度を優先します。
+失敗5は「植え替え直後の過保護」です。[冬の植え替え](/guide/winter-emergency-repotting-guide)後は根の回復が遅く、頻回灌水は逆効果です。土が落ち着くまで控えめ管理し、光と温度を優先します。
 
 ## まとめ
 

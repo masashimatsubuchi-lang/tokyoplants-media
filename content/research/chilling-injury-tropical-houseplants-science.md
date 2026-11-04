@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1709431759671-fa2139a4c87f?w=1200&q=80
 title: "熱帯植物はなぜ10℃で傷むのか｜低温障害の科学"
 description: "凍らない温度なのに観葉植物の葉が黒くなるのはなぜか。低温障害（チリングインジャリー）と凍害の違い、細胞膜の相転移・膜漏出・光合成阻害・活性酸素という仕組み、症状が数日遅れて出る理由、湿った土と低温が最悪な理由を植物生理学の総説をもとに整理します。"
 date: "2026-09-21"
+updated: "2026-11-04"
 category: "research"
 tags: ["低温障害", "冬越し", "植物生理", "温度", "葉の黒ずみ", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -13,6 +14,8 @@ relatedSlugs:
   - "guide/black-spots-wilting-leaves-checklist"
   - "guide/winter-leaf-drop-diagnosis"
   - "research/winter-survival-map-by-region-japan"
+  - "guide/winter-placement-room-map"
+  - "guide/buying-houseplants-online-in-winter"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -143,7 +146,7 @@ Prasad ら（1994）はトウモロコシの実生を使った研究で、低温
 
 ### 失敗1：昼間の室温だけ見て安心する
 
-低温障害は夜間の最低温度で決まります。暖房を切った明け方の窓際は、室内中央より5〜10℃低くなることがあります。温度計は株の高さ、できれば鉢の近くに置いてください。
+低温障害は夜間の最低温度で決まります。暖房を切った明け方の窓際は、室内中央より5〜10℃低くなることがあります（[冬の置き場所マップ](/guide/winter-placement-room-map)）。[温度計](/review/thermo-hygrometer-comparison)は株の高さ、できれば鉢の近くに置いてください。
 
 ### 失敗2：寒さに当たった株を暖かい場所ですぐ水やり
 

@@ -14,6 +14,9 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "review/switchbot-humidity-control-houseplants"
   - "guide/autumn-winter-humidity-drop-prep"
+  - "guide/winter-heating-appliances-and-houseplants"
+  - "guide/anthurium-winter-care"
+  - "review/thermo-hygrometer-comparison"
 hideAmazonBlock: true
 amazonProducts:
   - title: "シャープ 衣類乾燥除湿機 CV-R71-W"
@@ -60,11 +63,11 @@ baseProducts:
 
 ### 暖房乾燥で葉先が傷む
 
-暖房中は湿度30%台まで落ちることがあり、アンスリウムやフィロデンドロンなどは葉先褐変が出やすくなります。ここで水やりだけ増やすと、土だけ過湿になって根を痛めるため、対策は空気側で行うのが基本です。
+暖房中は湿度30%台まで落ちることがあり、[アンスリウム](/guide/anthurium-winter-care)やフィロデンドロンなどは葉先褐変が出やすくなります。ここで水やりだけ増やすと、土だけ過湿になって根を痛めるため、対策は空気側で行うのが基本です。
 
 ### 窓際の局所過湿でカビが出る
 
-部屋中央45%でも、棚奥や窓際だけ70%超という状況は珍しくありません。体感では把握しづらいため、湿度計を複数置いて差分を見る運用が必要です。
+部屋中央45%でも、棚奥や窓際だけ70%超という状況は珍しくありません。体感では把握しづらいため、[湿度計](/review/thermo-hygrometer-comparison)を複数置いて差分を見る運用が必要です。
 
 ### ミスト近接で病害リスクが上がる
 

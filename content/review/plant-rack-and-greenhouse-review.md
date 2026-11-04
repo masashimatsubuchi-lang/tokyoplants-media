@@ -13,6 +13,10 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "review/greenhouse-heater-thermostat-comparison"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/alocasia-winter-care"
+  - "review/heat-mat-for-houseplants-comparison"
+  - "review/winter-insulation-goods-for-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -85,7 +89,7 @@ amazonProducts:
 
 ### ビニール温室（保温・保湿）
 
-ビニールカバーで棚全体を覆い、温度と湿度を保つタイプ。内部の温度は外気より2〜5℃程度高く保たれ、湿度も維持されるため、[アロカシア](/guide/alocasia-care-guide)やカラテアなど熱帯性の観葉植物の冬場の環境改善になる。一方で夏場は内部が高温になりやすいため、カバーを外して棚として使うのが基本。耐荷重はメタルラックほど高くなく、大型の鉢を多数載せる用途には向かない。
+ビニールカバーで棚全体を覆い、温度と湿度を保つタイプ。内部の温度は外気より2〜5℃程度高く保たれ、湿度も維持されるため、[アロカシア](/guide/alocasia-care-guide)やカラテアなど熱帯性の観葉植物の冬場の環境改善になる（アロカシアの冬の温度ラインは[アロカシアの冬越し](/guide/alocasia-winter-care)を参照）。一方で夏場は内部が高温になりやすいため、カバーを外して棚として使うのが基本。耐荷重はメタルラックほど高くなく、大型の鉢を多数載せる用途には向かない。
 
 <!-- character-note character="shadee" type="point" -->
 温室内は外の部屋より湿度が保たれやすい分、水やりの間隔も自然と長くなることが多いよ。いつもの感覚のまま水やりを続けると過湿になりやすいから、温室に入れたら土の乾き方を最初の数回はよく観察してみてね。
@@ -148,7 +152,7 @@ IKEAのRUDSTAやFABRIKÖRに代表されるガラス扉付きのキャビネッ�
 | 安定性 | 重心が低く安定 | 高さがある分やや不安定（転倒防止推奨） |
 | 最上段の高さ | 低め | 目線に近く、状態確認・水やりがしやすい |
 
-設置スペースに余裕があるなら4段モデルを選ぶのが合理的。鉢数が多い方、冬越し対象の植物が多い方に向いている。
+設置スペースに余裕があるなら4段モデルを選ぶのが合理的。鉢数が多い方、[冬越し対象の植物](/guide/winter-hardiness-ranking-houseplants)が多い方に向いている。
 
 **強み**: 4段で収容力アップ、段あたりコスパがよい、3段と同じ手軽さ
 **注意点**: 高さがある分やや不安定、設置スペースが必要、耐荷重は控えめ

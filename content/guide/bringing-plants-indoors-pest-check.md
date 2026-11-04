@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1765659298851-194303854949?w=1200&q=80
 title: "観葉植物を室内に取り込む前の虫対策チェックリスト"
 description: "秋にベランダ・屋外の観葉植物を室内に取り込む前にやるべき虫対策をチェックリストで解説。確認する順番、シャワー洗浄のやり方、隔離期間の目安まで、虫を室内に持ち込まないための手順をまとめました。"
 date: "2026-09-11"
+updated: "2026-11-04"
 category: "guide"
 tags: ["秋", "室内管理", "虫対策", "取り込み", "コバエ"]
 author: "tokyoplants 編集部"
@@ -12,6 +13,9 @@ relatedSlugs:
   - "guide/autumn-winter-humidity-drop-prep"
   - "guide/bringing-plants-indoors-timing"
   - "guide/houseplant-pests-identification-chart"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/winter-placement-room-map"
+  - "guide/quarantine-new-plant-pests-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -50,7 +54,7 @@ baseProducts:
 | 5 | 株全体をシャワーで洗い流す | 葉の裏まで水を当て、虫と卵を物理的に落とす |
 | 6 | 気になる虫がいた場合は薬剤処理をする | 葉裏にスプレー、または土に浸透移行性の粒剤を混ぜ込む |
 | 7 | 完全に乾かしてから室内へ運ぶ | 濡れたまま室内に運ぶとカビ・病気の原因になる |
-| 8 | 既存の植物と離れた場所に隔離する | 最低1〜2週間、2m以上離した場所で管理する |
+| 8 | 既存の植物と離れた場所に隔離する | 最低1〜2週間、2m以上離した場所で管理する（隔離中の観察項目は[隔離期間と害虫チェック](/guide/quarantine-new-plant-pests-guide)） |
 | 9 | 隔離期間中も定期的にチェックする | 週2回を目安に、新しい食害痕や粘着物、小さな虫がいないか確認 |
 
 <!-- character-note character="kuro" type="tip" -->
@@ -63,7 +67,7 @@ baseProducts:
 
 ### タイミング：気温が下がりきる前に動く
 
-観葉植物の多くは熱帯・亜熱帯原産で、夜間の気温が下がり始めると生育が鈍り、株自体の抵抗力も落ちていきます。虫のチェック作業も、株が弱りきる前の元気なうちに行った方がダメージが少なく済みます。天気予報で最低気温が10℃を下回り始める時期が近づいたら、早めに取り込みの計画を立てましょう。
+観葉植物の多くは熱帯・亜熱帯原産で、夜間の気温が下がり始めると生育が鈍り、株自体の抵抗力も落ちていきます。虫のチェック作業も、株が弱りきる前の元気なうちに行った方がダメージが少なく済みます。天気予報で最低気温が10℃を下回り始める時期が近づいたら、早めに[取り込みの計画](/guide/bringing-plants-indoors-timing)を立てましょう。どの植物から先に取り込むかは[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)で確認できます。
 
 ### 確認：見えるところから虫のサインを探す
 
@@ -117,6 +121,6 @@ baseProducts:
 
 ## tokyoplantsおすすめ用土
 
-コバエの発生源になりやすいのが、屋外で使い続けた有機質の多い土です。取り込みのタイミングで植え替える場合は、排水性が高く虫が湧きにくい設計のtokyoplantsオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土） 』もあわせてご検討ください。
+屋外で使い続けた古い土には、コバエなどの卵や幼虫が潜んでいることがあります。取り込みのタイミングで植え替える場合は、新しい土に入れ替えるのも一つの方法です。tokyoplantsオリジナル用土『I'm original SOIL（tokyoplantsプレミアム培養土）』は、ヤシ繊維や発酵樹皮などの有機質を約7割に、日向石・パーライトを組み合わせた配合です。有機質を含むぶん、虫の出にくさでは赤玉土・鹿沼土などの無機質主体の用土のほうが有利なため、虫を特に避けたい場合は、受け皿に水をためない・表土が乾いてから水やりするといった管理とあわせてお使いください。
 
 [I'm original SOIL を見る](https://www.tokyoplants.com/items/99620939)

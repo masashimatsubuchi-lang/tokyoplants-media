@@ -3,6 +3,7 @@ image: "https://images.pexels.com/photos/6913451/pexels-photo-6913451.jpeg?auto=
 title: "冬の植え替えはNG？緊急時の判断基準"
 description: "冬の植え替えは原則避けるべきですが、根腐れ・害虫・鉢破損など待てないケースがあります。冬に植え替えるかどうかの判定表、室温・土・水やり・養生場所を押さえた冬専用の手順、春まで待つための応急処置、植え替え後の春までの管理を解説します。"
 date: "2026-02-17"
+updated: "2026-11-04"
 category: "guide"
 tags: ["冬", "植え替え", "根腐れ", "冬の管理"]
 author: "tokyoplants 編集部"
@@ -15,6 +16,8 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/quarantine-new-plant-pests-guide"
   - "soil/repotting-soil-guide"
+  - "guide/winter-dont-do-list"
+  - "guide/winter-placement-room-map"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -82,7 +85,7 @@ baseProducts:
 
 切り口の乾燥時間や根の切り方は「[根腐れの原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)」の手順と同じです。冬はそこに「室温20℃以上」「鉢増ししない」「水やりは最小限」の3つを上乗せする、と覚えてください。
 
-土は、この時期こそ排水性を優先します。tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は日向石・ココチップなど排水性の高い素材を中心に配合しており、低温期でも根の周りに空気を残しやすい設計です。植え替え用の土の選び方は「[植え替えの土の選び方](/soil/repotting-soil-guide)」も参考にしてください。
+土は、この時期こそ排水性を優先します。tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』は、ヤシ繊維・発酵樹皮などの有機質を約7割に、日向石・パーライトを組み合わせて水はけと通気を持たせた配合です。有機質が多いぶん保水性もあるため、冬に使う場合は鉢を大きくしすぎず、水やりは控えめにしてください。植え替え用の土の選び方は「[植え替えの土の選び方](/soil/repotting-soil-guide)」も参考にしてください。
 
 <!-- character-note character="kuro" type="tip" -->
 冬の鉢サイズは「小さくする勇気」が要る。根を切って根の量が減っているなら、鉢も一回り小さくして土の量を根に見合わせる。土が余ると乾かない時間がそのまま根腐れの再発リスクになる。
@@ -158,7 +161,7 @@ baseProducts:
 
 ### 失敗5: 窓際の冷え込みで養生する
 
-日中は暖かい窓際も、夜間は冷気が溜まります。植え替え直後の株は、夜間も温度が下がりにくい部屋の内側で養生してください。
+日中は暖かい窓際も、夜間は冷気が溜まります。植え替え直後の株は、夜間も温度が下がりにくい[部屋の内側](/guide/winter-placement-room-map)で養生してください。
 
 ## まとめ
 

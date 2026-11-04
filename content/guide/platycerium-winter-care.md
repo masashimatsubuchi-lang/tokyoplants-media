@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1642509600816-e350437a854b?w=1200&q=80
 title: "ビカクシダの冬越し｜温度管理と水やり頻度の落とし方"
 description: "ビカクシダ（コウモリラン）の冬越し方法を解説。最低耐寒温度、板付け・鉢植え別の置き場所、水やり頻度の落とし方、貯水葉が茶色くなったときの見分け方まで詳しく紹介します。"
 date: "2026-09-02"
+updated: "2026-11-04"
 category: "guide"
 tags: ["ビカクシダ", "コウモリラン", "冬越し", "水やり", "温度管理"]
 author: "tokyoplants 編集部"
@@ -12,6 +13,10 @@ relatedSlugs:
   - "guide/platycerium-placement-guide"
   - "guide/platycerium-watering-guide"
   - "guide/platycerium-dying-causes"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/bringing-plants-indoors-timing"
+  - "guide/bringing-plants-indoors-pest-check"
+  - "review/winter-humidity-control-humidifier-dehumidifier"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
@@ -46,7 +51,7 @@ baseProducts:
 
 ### 置き場所の見直し
 
-気温が15℃を下回り始める時期から、夜間の置き場所を見直します。板付けを屋外やベランダで管理していた場合は、最低気温が10℃を下回る前に室内へ取り込みましょう。室内では、明るいレースカーテン越しの窓際が理想です。ただし夜間は冷気が窓から伝わるため、就寝前にカーテンを閉める、窓から少し離すといった対策を組み合わせてください。
+気温が15℃を下回り始める時期から、夜間の置き場所を見直します。板付けを屋外やベランダで管理していた場合は、最低気温が10℃を下回る前に[室内へ取り込みましょう](/guide/bringing-plants-indoors-timing)。室内では、明るいレースカーテン越しの窓際が理想です。ただし夜間は冷気が窓から伝わるため、就寝前にカーテンを閉める、窓から少し離すといった対策を組み合わせてください。
 
 ### 水やり頻度を落とす
 
@@ -59,9 +64,11 @@ baseProducts:
 
 ### 胞子葉・霧吹きの調整
 
-冬は空中湿度も下がりがちです。霧吹きは朝の時間帯に行い、夕方以降は避けてください。夜間に葉が濡れたまま冷え込むと、傷みや病気の原因になります。加湿器を併用できる環境であれば、湿度50%前後を目安に保つと胞子葉の乾燥を防げます。
+冬は空中湿度も下がりがちです。霧吹きは朝の時間帯に行い、夕方以降は避けてください。夜間に葉が濡れたまま冷え込むと、傷みや病気の原因になります。[加湿器](/review/winter-humidity-control-humidifier-dehumidifier)を併用できる環境であれば、湿度50%前後を目安に保つと胞子葉の乾燥を防げます。
 
 ### 品種別の耐寒性の違い
+
+他の観葉植物と並べた耐寒温度は[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)で確認できます。
 
 - **ビフルカツム**：流通量が多く、比較的耐寒性がある。5℃程度までは耐えられるが、成長は大きく鈍る
 - **ウィリンキー**：ビフルカツムよりやや寒さに弱い。10℃を下回らないよう管理するのが無難

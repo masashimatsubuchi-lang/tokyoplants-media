@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1639200551412-eae0f4d77290?w=800&q=80"
 title: "観葉植物の耐寒性ランキング｜耐寒温度一覧"
 description: "観葉植物37種の耐寒温度を0℃台から18℃まで一覧化。寒さに強い順に並べ、室温別にどれから室内へ入れるかの判断基準と冬越し管理の基本をまとめました。"
 date: "2026-09-07"
-updated: "2026-10-22"
+updated: "2026-11-04"
 category: "guide"
 tags: ["冬越し", "耐寒性", "温度管理", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -27,15 +27,15 @@ hubIndex:
   title: "冬の管理に関する記事一覧"
   groups:
     - label: "冬の基本と置き場所"
-      match: "^guide/(winter-watering|winter-placement|winter-dont-do-list|bringing-plants-indoors|autumn-winter-humidity)"
+      match: "^guide/(winter-watering|winter-placement|winter-dont-do-list|bringing-plants-indoors|autumn-winter-humidity|year-end-watering|buying-houseplants-online-in-winter)"
     - label: "冬のトラブルと対処"
       match: "^guide/(winter-leaf-drop|winter-emergency|winter-heating-appliances)"
     - label: "植物別の冬越し"
-      match: "^guide/(alocasia-winter|anthurium-winter|monstera-winter|platycerium-winter|caudex-plant-winter|hydroculture-winter)"
+      match: "^guide/(alocasia-winter|anthurium-winter|monstera-winter|platycerium-winter|caudex-plant-winter|hydroculture-winter|jewel-orchid-winter|stephania-dormancy)"
     - label: "冬の道具・設備"
-      match: "^review/(winter-insulation|winter-humidity-control|heat-mat|greenhouse-heater|grow-tent)"
+      match: "^review/(winter-insulation|winter-humidity-control|heat-mat|greenhouse-heater|grow-tent|thermo-hygrometer|plant-rack-and-greenhouse)"
     - label: "仕組みを知る"
-      match: "^research/(chilling-injury|winter-heating-and-leaf|winter-survival-map|caudex-plant-winter)"
+      match: "^research/(chilling-injury|winter-heating-and-leaf|winter-survival-map|caudex-plant-winter|temperature-and-houseplant-growth)"
 ---
 
 「うちの観葉植物、この冬は外に出しっぱなしで大丈夫？」「何種類も育てていて、どれから室内に入れるべきか分からない」。観葉植物の冬越しで最初につまずくのは、実は植え方や水やりのテクニックよりも「そもそもこの植物はどこまで寒さに耐えられるのか」という基本情報の不足です。この記事では、代表的な観葉植物の耐寒性を大まかにランキング化し、冬越し管理の基本原則を解説します。個別の植物ごとの詳しい冬越し方法は、記事内のリンク先も併せて参考にしてください。
@@ -165,7 +165,7 @@ hubIndex:
 
 ### 室温別の管理方針早見表
 
-置き場所の夜間最低温度を測っておくと、どのグループをどう扱うべきかが一目で分かります。
+置き場所の夜間最低温度を[温湿度計](/review/thermo-hygrometer-comparison)で測っておくと、どのグループをどう扱うべきかが一目で分かります。
 
 | 置き場所の最低温度 | 比較的丈夫なグループ | 標準グループ | 寒さに弱いグループ |
 |---|---|---|---|
@@ -190,7 +190,7 @@ hubIndex:
 
 ### 寒さに弱いグループ（15℃以上が理想）
 
-このグループは冬場の室温管理に最も気を配る必要があります。可能であれば専用の育成スペースや加温器具の併用も検討してください。
+このグループは冬場の室温管理に最も気を配る必要があります。可能であれば[専用の育成スペース](/review/plant-rack-and-greenhouse-review)や[加温器具](/review/heat-mat-for-houseplants-comparison)の併用も検討してください。
 
 特にアンスリウムのクリスタリナムのような希少品種や、ビカクシダのリドレイのような熱帯性の強い品種は、同じ属の丈夫な種と混同して管理すると失敗しやすいグループです。「同じ仲間だから同じ管理でよい」とは考えず、品種ごとの最低温度を確認してください。
 

@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1749322219122-0c9127221e07?w=1200&q=80
 title: "秋から冬への湿度低下、今からできる準備"
 description: "秋（9〜10月）のうちに始めておきたい観葉植物の湿度対策の準備を解説。暖房が本格化する前にできる低コストの工夫から、加湿器導入の判断タイミングまで行動ベースでまとめます。"
 date: "2026-09-03"
+updated: "2026-11-04"
 category: "guide"
 tags: ["秋", "冬", "湿度", "乾燥対策", "育て方"]
 author: "tokyoplants 編集部"
@@ -12,6 +13,9 @@ relatedSlugs:
   - "guide/pebble-tray-humidity-guide"
   - "research/misting-effects-on-houseplants"
   - "guide/winter-watering-houseplants"
+  - "review/thermo-hygrometer-comparison"
+  - "guide/winter-heating-appliances-and-houseplants"
+  - "guide/anthurium-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -45,7 +49,7 @@ baseProducts:
 
 ### 1. 湿度計を置いて「今の数値」を把握する
 
-対策を考える前に、まず今の部屋の湿度を数値で把握しましょう。感覚だけで「乾燥してきたかな」と判断すると、対応が後手に回ります。植物を置いている場所の近くに1つ、できれば部屋の別の場所にもう1つ湿度計を置き、朝晩の変化を記録する習慣をつけておくと、秋以降の変化にすぐ気づけます。
+対策を考える前に、まず今の部屋の湿度を数値で把握しましょう。感覚だけで「乾燥してきたかな」と判断すると、対応が後手に回ります。植物を置いている場所の近くに1つ、できれば部屋の別の場所にもう1つ湿度計を置き、朝晩の変化を記録する習慣をつけておくと、秋以降の変化にすぐ気づけます。機種の選び方は[観葉植物向け温湿度計の比較](/review/thermo-hygrometer-comparison)にまとめています。
 
 ### 2. 観葉植物をまとめて置く「グルーピング」を試す
 
@@ -55,7 +59,7 @@ baseProducts:
 
 ### 3. 暖房の風が直接当たる場所から鉢を移動する
 
-エアコンやヒーターの温風が直接当たる場所は、局所的に極端な乾燥状態になります。暖房器具を使い始める前に、置き場所と暖房の風向きの関係を一度シミュレーションし、必要であれば今のうちに鉢の配置を見直しておきましょう。
+エアコンやヒーターの温風が直接当たる場所は、局所的に極端な乾燥状態になります。暖房器具を使い始める前に、置き場所と暖房の風向きの関係を一度シミュレーションし（器具ごとの距離の目安は[暖房器具別の置き方](/guide/winter-heating-appliances-and-houseplants)）、必要であれば今のうちに鉢の配置を見直しておきましょう。
 
 ### 4. 葉水の頻度・タイミングを見直す
 

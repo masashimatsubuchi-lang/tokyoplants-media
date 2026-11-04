@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1574701214992-868749a99bf9?w=1200&q=80
 title: "ジュエルオーキッドの冬越し｜温度と湿度の保ち方"
 description: "ジュエルオーキッドが冬に傷む理由は低温と暖房による乾燥です。15℃を守る置き場所の選び方、湿度の作り方、水やりの減らし方を具体的な数字で解説します。"
 date: "2026-10-05"
+updated: "2026-11-04"
 category: "guide"
 tags: ["ジュエルオーキッド", "冬越し", "ルディシア", "マコデス", "湿度管理"]
 author: "tokyoplants 編集部"
@@ -19,6 +20,9 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "guide/winter-placement-room-map"
   - "research/humidity-and-leaf-damage-thresholds"
+  - "review/thermo-hygrometer-comparison"
+  - "review/heat-mat-for-houseplants-comparison"
+  - "review/winter-humidity-control-humidifier-dehumidifier"
 ---
 
 ジュエルオーキッドを1年通して育てたとき、最も株を失いやすいのが冬です。理由は低温だけではありません。**暖房が入ることで湿度が一気に落ちる**という、もうひとつの打撃が同時に来るからです。
@@ -136,14 +140,14 @@ relatedSlugs:
 
 ### 暖房を切る時間帯が問題
 
-日中は暖房で20℃を超えていても、就寝中に切ると朝方には10℃近くまで落ちることがあります。**判断材料は日中の室温ではなく、明け方の最低気温**です。最低・最高を記録できる温湿度計を1つ置いてください。
+日中は暖房で20℃を超えていても、就寝中に切ると朝方には10℃近くまで落ちることがあります。**判断材料は日中の室温ではなく、明け方の最低気温**です。最低・最高を記録できる[温湿度計](/review/thermo-hygrometer-comparison)を1つ置いてください。
 
 ### 局所的に温める
 
 部屋全体を一晩中暖める必要はありません。株のまわりだけを温めるほうが現実的で、電気代も抑えられます。
 
-- **園芸用パネルヒーター**：容器や鉢の下・側面に置く
-- **ガラスケース＋小型ヒーター**：最も安定するが導入コストがかかる
+- **園芸用パネルヒーター**：容器や鉢の下・側面に置く（鉢の下に敷くタイプは[ヒートマットの比較](/review/heat-mat-for-houseplants-comparison)）
+- **ガラスケース＋小型ヒーター**：最も安定するが導入コストがかかる（[温室ヒーター・サーモスタット比較](/review/greenhouse-heater-thermostat-comparison)）
 - **発泡スチロールの箱**：夜間だけ鉢を入れる簡易的な方法
 
 消費電力20Wのパネルヒーターを24時間使った場合の電気代は、**20 ÷ 1000 × 24 × 31 ＝ 約15円/日**、1か月で約450円です（電力単価31円/kWhで計算）。部屋全体を暖房し続けるより、桁違いに安く済みます。

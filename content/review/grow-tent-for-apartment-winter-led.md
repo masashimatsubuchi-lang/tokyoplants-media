@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1721575653628-c5186b4b9e5e?w=800&q=80"
 title: "植物育成テントの選び方｜冬越しとLED運用"
 description: "マンションで使いやすい植物育成テント（グロウテント）を、本格派向けに解説。冬越し・LED併用の設計、サイズ選定、運用ミス、Amazon購入導線までまとめました。"
 date: "2026-02-24"
+updated: "2026-11-04"
 category: "review"
 tags: ["冬越し", "育成ライト", "マンション", "レビュー"]
 author: "tokyoplants 編集部"
@@ -11,6 +12,9 @@ relatedSlugs:
   - "review/plant-rack-and-greenhouse-review"
   - "guide/winter-emergency-repotting-guide"
   - "research/temperature-and-houseplant-growth"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "review/greenhouse-heater-thermostat-comparison"
+  - "review/thermo-hygrometer-comparison"
 amazonProducts:
   - title: "Mars Hydro グロウテント 70x70x160"
     asin: "B078XTJXYY"
@@ -147,9 +151,9 @@ baseProducts:
 ### 温度目標
 
 - 一般的な熱帯観葉: 18〜26℃
-- 低温弱い品種: 夜間16℃を下回らない設計
+- [低温に弱い品種](/guide/winter-hardiness-ranking-houseplants): 夜間16℃を下回らない設計
 
-ここで重要なのは最高温度より最低温度です。夜間最低温度が安定すると、葉痛みと生育停止が減ります。
+ここで重要なのは最高温度より最低温度です。夜間最低温度が安定すると、葉痛みと生育停止が減ります。最低温度は最高最低記録のある[温湿度計](/review/thermo-hygrometer-comparison)で確認すると確実です。
 
 ### 湿度目標
 

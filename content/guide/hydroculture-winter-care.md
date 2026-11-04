@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1708171523176-620864c9a251?w=1200&q=80
 title: "ハイドロカルチャーの冬はMINを切ってから数日〜1週間待って水を足す"
 description: "ハイドロカルチャーの冬は根の吸水が止まり、夏と同じ水位では根腐れします。冬の水位の下げ方、水温と窓際の冷え、液肥の停止、容器内の結露とカビの見分け方、春に通常管理へ戻す手順を冬季限定で解説します。"
 date: "2026-09-21"
-updated: "2026-10-27"
+updated: "2026-11-04"
 category: "guide"
 tags: ["ハイドロカルチャー", "冬の管理", "水位管理", "根腐れ", "冬の水やり"]
 author: "tokyoplants 編集部"
@@ -13,6 +13,9 @@ relatedSlugs:
   - "guide/monstera-hydroculture"
   - "soil/hydroculture-fertilizer-guide"
   - "guide/winter-watering-houseplants"
+  - "guide/alocasia-winter-care"
+  - "guide/winter-placement-room-map"
+  - "guide/winter-hardiness-ranking-houseplants"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -57,7 +60,7 @@ baseProducts:
 
 夏は数日で水位が下がるため「下がったら足す」で回りますが、冬は吸水が止まるので水位が何週間も動きません。ここで「そろそろ足す時期だから」と時間で判断して補水すると、根は常に水に浸かったままになり、酸素不足で根腐れが始まります。
 
-冬の補水は「水位が下がったから」ではなく「水位計がMINを切り、さらに培地の表面まで乾いてから」に切り替えます。土栽培の冬の水やりと同じく、間隔を空ける方向に切り替えるのが原則です。
+冬の補水は「水位が下がったから」ではなく「水位計がMINを切り、さらに培地の表面まで乾いてから」に切り替えます。[土栽培の冬の水やり](/guide/winter-watering-houseplants)と同じく、間隔を空ける方向に切り替えるのが原則です。
 
 ### 容器内の結露とカビの正体
 
@@ -91,7 +94,7 @@ baseProducts:
 
 ### 2. 水温と置き場所
 
-窓際に置いている容器は、夜間にカーテンの内側（部屋側）へ移動させるか、最初から窓から30cm〜1m離した場所に定位置を決めます。床への直置きは冷気が溜まりやすいため、台に乗せて浮かせます。
+窓際に置いている容器は、夜間にカーテンの内側（部屋側）へ移動させるか、最初から窓から30cm〜1m離した場所に定位置を決めます（[冬の置き場所マップ](/guide/winter-placement-room-map)）。床への直置きは冷気が溜まりやすいため、[鉢台などに乗せて浮かせます](/review/winter-insulation-goods-for-houseplants)。
 
 補水に使う水は、汲み置きして室温に馴染ませたものが理想です。冬の水道水は10℃を下回ることがあり、そのまま注ぐと根に温度ショックを与えます。
 

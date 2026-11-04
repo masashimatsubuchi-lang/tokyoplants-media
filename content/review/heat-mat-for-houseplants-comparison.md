@@ -3,6 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1663075845418-4468e6bf3f0a?w=120
 title: "観葉植物用ヒートマットおすすめ比較｜冬越し・発根促進"
 description: "観葉植物の冬越しと挿し木の発根促進、両方に使えるヒートマットのおすすめを比較。サーモスタットの有無、サイズの選び方、Amazonで購入できる商品を紹介します。"
 date: "2026-09-15"
+updated: "2026-11-04"
 category: "review"
 tags: ["ヒートマット", "冬越し", "発根促進", "挿し木", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -13,6 +14,8 @@ relatedSlugs:
   - "guide/rooting-failure-common-causes"
   - "review/winter-insulation-goods-for-houseplants"
   - "review/greenhouse-heater-thermostat-comparison"
+  - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/winter-placement-room-map"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -53,7 +56,7 @@ amazonProducts:
 
 ### 冬越し：根の低温障害を防ぐ
 
-観葉植物の多くは熱帯・亜熱帯原産で、根の適温はおおよそ20℃前後とされています。冬場に室温が下がると、葉が多少寒さに耐えられていても、鉢の中の土は室温よりさらに低くなりやすく、根の水分・養分の吸収能力が落ちてしまいます。ヒートマットで鉢底から土を温めることで、根の周辺温度を安定させ、冬季の生育低下や根のダメージを抑える効果が期待できます。冬の乾燥・低温が葉に与える影響については[冬の暖房と葉の乾燥の科学](/research/winter-heating-and-leaf-dryness-science)で詳しく解説しています。
+観葉植物の多くは熱帯・亜熱帯原産で、根の適温はおおよそ20℃前後とされています（種ごとの耐寒温度は[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)）。冬場に室温が下がると、葉が多少寒さに耐えられていても、鉢の中の土は室温よりさらに低くなりやすく、根の水分・養分の吸収能力が落ちてしまいます。ヒートマットで鉢底から土を温めることで、根の周辺温度を安定させ、冬季の生育低下や根のダメージを抑える効果が期待できます。冬の乾燥・低温が葉に与える影響については[冬の暖房と葉の乾燥の科学](/research/winter-heating-and-leaf-dryness-science)で詳しく解説しています。
 
 ### 発根促進：発根に適した温度帯を保つ
 
@@ -119,7 +122,7 @@ amazonProducts:
 
 ### 1. サーモスタットなしのマットを高温になりやすい環境で使う
 
-窓際など日中に気温が上がりやすい場所でサーモスタットなしのマットを使い続けると、想定より高温になり根を傷めることがあります。設置場所の気温変化が大きい場合は、サーモスタット付き（内蔵）のモデルを選びましょう。
+[窓際](/guide/winter-placement-room-map)など日中に気温が上がりやすい場所でサーモスタットなしのマットを使い続けると、想定より高温になり根を傷めることがあります。設置場所の気温変化が大きい場合は、サーモスタット付き（内蔵）のモデルを選びましょう。
 
 ### 2. マットの上に直接鉢を置いて水はけが悪くなる
 

@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1722942116044-d3a8e6267865?w=1200&q=80
 title: "暖房器具別｜観葉植物を冬に枯らさない置き方"
 description: "エアコン暖房・床暖房・ファンヒーター・オイルヒーター・こたつ／電気カーペットの5タイプ別に、観葉植物の置き方と距離の目安を整理。床暖房の「鉢底の常時加温」が最悪パターンになる理由、夜に暖房を切ったときの温度差対策、器具ごとの水やり調整までまとめました。"
 date: "2026-09-26"
+updated: "2026-11-04"
 category: "guide"
 tags: ["冬越し", "暖房", "床暖房", "ファンヒーター", "置き場所", "乾燥"]
 author: "tokyoplants 編集部"
@@ -13,6 +14,9 @@ relatedSlugs:
   - "review/winter-humidity-control-humidifier-dehumidifier"
   - "guide/winter-watering-houseplants"
   - "guide/winter-hardiness-ranking-houseplants"
+  - "review/thermo-hygrometer-comparison"
+  - "review/winter-insulation-goods-for-houseplants"
+  - "review/heat-mat-for-houseplants-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -113,12 +117,12 @@ baseProducts:
 <!-- /stats -->
 
 <!-- steps title="夜間の暖房オフに備える手順" -->
-1. **明け方の最低温度を測る**：最低最高温度計を株の高さに置き、暖房を切った夜の最低値を1週間記録する。昼の室温では判断できない
+1. **明け方の最低温度を測る**：[最低最高温度計](/review/thermo-hygrometer-comparison)を株の高さに置き、暖房を切った夜の最低値を1週間記録する。昼の室温では判断できない
 2. **落差を計算する**：日中の室温と明け方の最低温度の差が10℃以上あれば対策が必要。差が大きいほど落葉のリスクが上がる
 3. **窓からの冷気を止める**：厚手のカーテンを閉め、鉢を窓から30cm〜1m離す。窓と鉢の間に断熱シートや段ボールを立てるだけでも効く
 4. **床の冷気から離す**：暖房を切ると冷気は床に溜まる。鉢を台や棚に上げ、暖気が残る高さへ移す
 5. **暖房の設定を見直す**：完全にオフにせず、就寝中も低い設定温度（16〜18℃程度）で運転を続ける方が、切って翌朝に強運転するより植物には優しい
-6. **それでも足りなければ局所加温**：部屋全体ではなく、鉢のまわりだけを保温する。ビニールや不織布で囲う、園芸用ヒートマットを使うなど
+6. **それでも足りなければ局所加温**：部屋全体ではなく、鉢のまわりだけを保温する。[ビニールや不織布で囲う](/review/winter-insulation-goods-for-houseplants)、[園芸用ヒートマット](/review/heat-mat-for-houseplants-comparison)を使うなど
 <!-- /steps -->
 
 <!-- callout type="tip" title="朝の「一気に暖める」も温度差になる" -->

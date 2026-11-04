@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1756807123612-bbe72fbe1bf9?w=1200&q=80
 title: "観葉植物の年末年始の水やり調整"
 description: "年末年始の帰省・旅行で家を空ける観葉植物の水やり対策を解説。冬の低温期特有の注意点、期間別の対策、留守番後の根腐れチェックまで詳しく紹介します。"
 date: "2026-09-02"
+updated: "2026-11-04"
 category: "guide"
 tags: ["水やり", "年末年始", "冬の管理", "留守", "帰省"]
 author: "tokyoplants 編集部"
@@ -11,6 +12,9 @@ relatedSlugs:
   - "guide/houseplant-care-during-travel"
   - "guide/winter-watering-houseplants"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/winter-placement-room-map"
+  - "guide/winter-dont-do-list"
+  - "guide/winter-hardiness-ranking-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -61,7 +65,7 @@ baseProducts:
 
 年末年始に家を空けて暖房も切る場合、植物にとっては「低温期がさらに強まる」状態になります。この場合は水やりの量・頻度をいつもの冬管理よりもさらに控えめにしてください。目安として、普段の冬の水やり間隔をさらに1.5倍程度延ばすイメージで問題ありません。
 
-乾燥に弱いアロカシアやアンスリウムなど寒さに敏感な植物は、可能であれば窓際から離し、部屋の中央寄りの場所に移動させてから出発すると、室温低下の影響を和らげられます。
+乾燥に弱いアロカシアやアンスリウムなど[寒さに敏感な植物](/guide/winter-hardiness-ranking-houseplants)は、可能であれば窓際から離し、[部屋の中央寄りの場所](/guide/winter-placement-room-map)に移動させてから出発すると、室温低下の影響を和らげられます。
 
 ### 期間別の目安
 
