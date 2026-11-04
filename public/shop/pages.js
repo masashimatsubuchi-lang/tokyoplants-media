@@ -77,6 +77,8 @@
   }
 
   var CSS = [
+    // 商品ページのレビュー欄に「悪い」評価は出さない（2026-11-04 オーナー指示）。BASE アプリ側の表示は変えられない
+    '.item-detail-review .review01__listChild:has(.ico--bad){display:none!important}',
     '.tp-pg{max-width:980px;margin:0 auto;font-family:var(--tp-font);color:var(--tp-ink,#1d1d1f);text-align:left}',
     '.tp-pg *{box-sizing:border-box}',
     '.tp-tw-sub{display:block;font-size:.72em;margin-top:4px;color:var(--tp-green,#22614c)}',
