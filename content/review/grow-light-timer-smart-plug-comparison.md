@@ -25,7 +25,7 @@ amazonProducts:
   - title: "リーベックス コンセントタイマー プログラムタイマー PT26BK（ブラック・ダイヤル式・15分単位）"
     asin: "B0BGJV8F8T"
     image: "https://m.media-amazon.com/images/I/61Jisk+LX2L._AC_SL200_.jpg"
-    note: "Amazon評価 4.1 / 633件・¥1,045（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）。PT26のブラック。ホワイト（PT26W）はAmazon本体の販売終了のため差し替え。15分単位で最大48動作、定格1500Wまで"
+    note: "Amazon評価 4.1 / 633件・¥1,045（2026-11-04にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp）。PT26のブラック。15分単位で最大48動作、定格1500Wまで"
     price: "¥1,045（2026-11-04確認）"
   - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW（1分単位・曜日設定・停電バックアップ）"
     asin: "B0CJBM2WV9"
