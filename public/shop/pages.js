@@ -673,11 +673,12 @@
     }
   }
 
-  // SISHICRAFT のモンステラ2モデル（2026-11-04）: どちらのページにも「2つのモデル」の比較を出し、プレミアムにはポイントと仕様表も足す
+  // SISHICRAFT のモンステラ2モデル（2026-11-04）: どちらのページにも「2つのモデル」の比較を出し、タイコンステレーションにはポイントと仕様表も足す
+  // 呼び方は「通常／Premium」ではなく品種名（白斑／タイコンステレーション）で並べる（2026-11-04 オーナー決定）
   // 事実の出典はオーナーの商品説明・SISHI 公式の精緻版の仕様・写真。価格は BASE と手で合わせる（変えたらここも直す）
   var SISHI = {
-    '143263775': { name: '通常モデル', sub: '白い斑のモンステラ', price: '¥19,800', img: 'ddcc2cb431e28bbdae445da88bd24236.jpg' },
-    '165042659': { name: 'Premium Edition', sub: '気根つき・タイコンステレーション', price: '¥29,800', img: '51ece75f9923ea085f0a8a04271f85c7.jpg' }
+    '143263775': { name: 'Monstera variegated', sub: '白い斑のモンステラ', price: '¥19,800', img: 'ddcc2cb431e28bbdae445da88bd24236.jpg' },
+    '165042659': { name: 'Thai Constellation', sub: '気根モデル・クリーム〜黄色の斑', price: '¥29,800', img: '51ece75f9923ea085f0a8a04271f85c7.jpg' }
   };
   function sishiPage() {
     var id = (path.match(/^\/items\/(\d+)/) || [])[1];
@@ -707,7 +708,7 @@
     };
     var compare =
       '<section><h2>2つのモデル</h2><div class="tp-sc-cards">' + card('143263775') + card('165042659') + '</div>' +
-      '<table class="tp-ins-table tp-sc-table"><thead><tr><th></th><th>通常</th><th>Premium</th></tr></thead><tbody>' +
+      '<table class="tp-ins-table tp-sc-table"><thead><tr><th></th><th>白斑</th><th>タイコン</th></tr></thead><tbody>' +
         '<tr><th>斑</th><td>白い斑</td><td>クリーム〜黄色の散り斑（タイコンステレーション）</td></tr>' +
         '<tr><th>気根</th><td>なし</td><td>茎に巻きつく気根まで革で表現</td></tr>' +
         '<tr><th>葉・茎</th><td colspan="2">植物タンニン鞣しのイタリアンレザー（手染め）</td></tr>' +
@@ -779,7 +780,7 @@
     pick.insertBefore(card, pick.firstChild);
   }
 
-  // TOP の PICK UP「Leather Botanical」に Premium Edition（2026-11-04 新商品）を足して最初に出す。テーマは文字数の上限に近いのでここで足す
+  // TOP の PICK UP「Leather Botanical」にタイコンステレーションの気根モデル（2026-11-04 新商品）を足して最初に出す。テーマは文字数の上限に近いのでここで足す
   // テーマは DOMContentLoaded で各ボタンにクリックを付けるが、こちらが後から動いたときに備えて自前でも切り替える
   function pickSishi() {
     var card = document.querySelector('.tp-card--sishi');
@@ -791,10 +792,10 @@
     var btn = document.createElement('button');
     btn.type = 'button';
     btn.dataset.img = 'https://media.tokyoplants.com/shop/pick-sishi-premium-2.jpg';
-    btn.dataset.alt = 'SISHICRAFT タイコンステレーションのレザー作品 Premium Edition';
+    btn.dataset.alt = 'SISHICRAFT タイコンステレーションのレザー作品（気根モデル）';
     btn.dataset.price = '¥29,800';
     btn.dataset.path = '/items/165042659';
-    btn.setAttribute('aria-label', '鉢植え Premium（緑／クリーム）');
+    btn.setAttribute('aria-label', '鉢植え タイコンステレーション（緑／クリーム）');
     btn.innerHTML = '<i style="background:linear-gradient(135deg, #1f5c34 50%, #e6d6a2 50%)"></i>';
     vars.insertBefore(btn, vars.firstChild);
     var link = card.querySelector('.tp-card-link');
