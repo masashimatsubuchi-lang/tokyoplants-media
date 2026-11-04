@@ -671,6 +671,92 @@
     }
   }
 
+  // SISHICRAFT のモンステラ2モデル（2026-11-04）: どちらのページにも「2つのモデル」の比較を出し、プレミアムにはポイントと仕様表も足す
+  // 事実の出典はオーナーの商品説明・SISHI 公式の精緻版の仕様・写真。価格は BASE と手で合わせる（変えたらここも直す）
+  var SISHI = {
+    '143263775': { name: '通常モデル', sub: '白い斑のモンステラ', price: '¥19,800', img: 'ddcc2cb431e28bbdae445da88bd24236.jpg' },
+    '165042659': { name: 'Premium Edition', sub: '気根つき・タイコンステレーション', price: '¥29,800', img: '51ece75f9923ea085f0a8a04271f85c7.jpg' }
+  };
+  function sishiPage() {
+    var id = (path.match(/^\/items\/(\d+)/) || [])[1];
+    var detail = document.querySelector('.item-detail-inner');
+    if (!SISHI[id] || !detail || detail.dataset.tpSishi) return;
+    detail.dataset.tpSishi = '1';
+    var css = document.createElement('style');
+    css.textContent =
+      '.tp-sc-cards{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:0 0 14px}' +
+      '.tp-sc-card{display:block;border:1px solid #e3e1dc;border-radius:12px;overflow:hidden;color:inherit;text-decoration:none;background:#fff}' +
+      '.tp-sc-card.is-here{border:2px solid var(--tp-green,#22614c)}' +
+      '.tp-sc-card img{display:block;width:100%;aspect-ratio:1;object-fit:cover}' +
+      '.tp-sc-card span{display:block;padding:0 10px}' +
+      '.tp-sc-card .tp-sc-tag{padding-top:8px;font-size:10px;letter-spacing:.06em;color:var(--tp-green,#22614c)}' +
+      '.tp-sc-card .tp-sc-name{font-weight:600;font-size:14px;line-height:1.4}' +
+      '.tp-sc-card .tp-sc-sub{font-size:11px;color:#6b6b6b;line-height:1.5}' +
+      '.tp-sc-card .tp-sc-price{padding-bottom:10px;font-size:13px;margin-top:2px}' +
+      '.tp-sc-table{table-layout:fixed;width:100%}.tp-sc-table th:first-child{width:5.6em;white-space:nowrap}';
+    document.head.appendChild(css);
+    var card = function (key) {
+      var m = SISHI[key], here = key === id;
+      return '<a class="tp-sc-card' + (here ? ' is-here' : '') + '" href="' + base + '/items/' + key + '">' +
+        '<img src="https://baseec-img-mng.akamaized.net/images/item/origin/' + m.img + '?imformat=generic&amp;q=90&amp;im=Resize,width=480,height=480,aspect=fill,type=normal;Crop,width=480,height=480,gravity=Center" alt="SISHICRAFT モンステラ ' + esc(m.name) + '" loading="lazy">' +
+        '<span class="tp-sc-tag">' + (here ? '表示中' : 'もうひとつのモデル') + '</span>' +
+        '<span class="tp-sc-name">' + esc(m.name) + '</span><span class="tp-sc-sub">' + esc(m.sub) + '</span>' +
+        '<span class="tp-sc-price">' + m.price + '</span></a>';
+    };
+    var compare =
+      '<section><h2>2つのモデル</h2><div class="tp-sc-cards">' + card('143263775') + card('165042659') + '</div>' +
+      '<table class="tp-ins-table tp-sc-table"><thead><tr><th></th><th>通常</th><th>Premium</th></tr></thead><tbody>' +
+        '<tr><th>斑</th><td>白い斑</td><td>クリーム〜黄色の散り斑（タイコンステレーション）</td></tr>' +
+        '<tr><th>気根</th><td>なし</td><td>茎に巻きつく気根まで革で表現</td></tr>' +
+        '<tr><th>葉・茎</th><td colspan="2">植物タンニン鞣しのイタリアンレザー（手染め）</td></tr>' +
+        '<tr><th>大きさ</th><td colspan="2">3枚葉・高さ約15cm</td></tr>' +
+        '<tr><th>鉢</th><td colspan="2">SISHICRAFT 刻印入りの陶器鉢</td></tr>' +
+        '<tr><th>価格</th><td>¥19,800</td><td>¥29,800</td></tr>' +
+      '</tbody></table></section>';
+    var ins = document.createElement('div');
+    ins.className = 'tp-ins';
+    if (id === '165042659') {
+      ins.innerHTML =
+        '<section><h2>3つのポイント</h2><div class="tp-ins-points">' +
+          '<div><b>気根まで、すべて革で</b><span>茎に巻きつき、鉢の外で絡み合う気根まで革で仕立てています。表面はあえて少しざらつかせています。</span></div>' +
+          '<div><b>タイコンステレーションの斑</b><span>クリーム〜黄色の斑と細かな散り斑を、一枚ずつ手で描いています。</span></div>' +
+          '<div><b>日本で初めてのご紹介</b><span>数量限定の予約販売です。発送は12月1日から順次。</span></div>' +
+        '</div></section>' +
+        '<section><h2>仕様</h2><table class="tp-ins-table"><tbody>' +
+          '<tr><th>品種</th><td>Monstera deliciosa \'Thai Constellation\'（3枚葉）</td></tr>' +
+          '<tr><th>高さ</th><td>約15cm（個体差あり）</td></tr>' +
+          '<tr><th>葉</th><td>植物タンニン鞣しのイタリアンレザー／日本製の顔料で手染め</td></tr>' +
+          '<tr><th>茎・気根</th><td>植物タンニン鞣しのレザー（茎は向きを自由に曲げられます）</td></tr>' +
+          '<tr><th>鉢</th><td>SISHICRAFT 刻印入りの陶器鉢</td></tr>' +
+          '<tr><th>発送</th><td>予約販売・12月1日から順次</td></tr>' +
+        '</tbody></table><p class="tp-ins-note">すべて手作業のため、形や斑の入り方には個体差があります。</p></section>' +
+        compare;
+    } else {
+      ins.innerHTML = compare;
+    }
+    var acc = detail.querySelector('.tp-acc');
+    var traits = detail.querySelector('.tp-pdp-traits');
+    // 説明文が長いので、末尾ではなく書き出しの段落のすぐ後ろに置く
+    var intro = traits && traits.firstElementChild;
+    if (intro && intro.tagName === 'DIV') traits.insertBefore(ins, intro.nextSibling);
+    else if (acc) acc.parentNode.insertBefore(ins, acc);
+    else if (traits) traits.parentNode.insertBefore(ins, traits.nextSibling);
+    else return;
+    // 表と重なる説明文の節（ちがい・商品説明）は折りたたみの中へ移す
+    if (traits && acc && id === '165042659') {
+      var first = acc.firstChild;
+      traits.querySelectorAll('h2').forEach(function (h) {
+        if (!/ちがい|商品説明/.test(h.textContent)) return;
+        var body = h.nextElementSibling;
+        var d = document.createElement('details');
+        d.innerHTML = '<summary>' + esc(h.textContent) + '</summary>';
+        if (body && body.tagName === 'DIV') d.appendChild(body);
+        acc.insertBefore(d, first);
+        h.remove();
+      });
+    }
+  }
+
   // TOP の PICK UP の先頭に新商品のソックスを足す（2026-11-03 オーナー依頼。テーマは文字数の上限に近いのでここで足す）
   // 写真はオーナー提供のパッケージ写真（public/shop/socks-pick.webp、2026-11-04 差し替え）。PC は5枚を1列に並べる
   function pickSocks() {
@@ -707,9 +793,9 @@
       if (document.querySelector('.item-detail-inner .tp-choice, .item-detail-inner .tp-sets') || t > 40) towelPage();
       else setTimeout(function () { wait(t + 1); }, 100);
     })(0);
-    // ソックス: テーマが説明文を節に分け終えてから（.tp-acc ができてから）動かす
+    // ソックス・SISHICRAFT: テーマが説明文を節に分け終えてから（.tp-acc ができてから）動かす
     if (/^\/items\/\d+/.test(path)) (function waitSocks(t) {
-      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) socksPage();
+      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) { socksPage(); sishiPage(); }
       else setTimeout(function () { waitSocks(t + 1); }, 100);
     })(0);
   }
