@@ -813,10 +813,31 @@
       if (b) { e.preventDefault(); pick(b); }
     });
     pick(btn);
+    // 新作なので PICK UP の先頭に置く（2026-11-04 オーナー依頼。ソックスはその次）
+    var list = card.parentNode;
+    if (list) list.insertBefore(card, list.firstChild);
+  }
+
+  // TOP の STORE の商品アイコンに NEW を付ける（2026-11-04 オーナー依頼。新作が出たらここの一覧を足し引きする）
+  var STORE_NEW = ['/items/164953353', '/categories/7318231'];
+  function storeNew() {
+    var css = document.createElement('style');
+    css.textContent = '.tp-coll a.tp-has-new{position:relative}' +
+      '.tp-coll .tp-coll-new{position:absolute;top:0;left:50%;transform:translateX(-50%);padding:1px 7px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff;font:600 10px/1.6 var(--tp-font);letter-spacing:.06em;margin:0;white-space:nowrap;pointer-events:none}';
+    document.head.appendChild(css);
+    STORE_NEW.forEach(function (p) {
+      var a = document.querySelector('.tp-coll a[data-tp-path="' + p + '"]');
+      if (!a || a.querySelector('.tp-coll-new')) return;
+      a.classList.add('tp-has-new');
+      var tag = document.createElement('span');
+      tag.className = 'tp-coll-new';
+      tag.textContent = 'NEW';
+      a.insertBefore(tag, a.firstChild);
+    });
   }
 
   function run() {
-    if (path === '/') { pickSocks(); pickSishi(); }
+    if (path === '/') { pickSocks(); pickSishi(); storeNew(); }
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
