@@ -16,6 +16,10 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("Botanical Socks") || product.url.includes("/items/164953353");
   };
 
+  const isMochiPot = (product: BaseProduct): boolean => {
+    return product.title.includes("MOCHI POT") || product.url.includes("/items/140571906");
+  };
+
   const isHydroProduct = (product: BaseProduct): boolean => {
     return product.title.includes("HYDRO MINERAL") || product.url.includes("/items/142692278");
   };
@@ -50,6 +54,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isHydroProduct(product)) return addUtm(product.url, "hydro-mineral");
     if (isTowelProduct(product)) return addUtm(product.url, "botanical-towel");
     if (isSocksProduct(product)) return addUtm(product.url, "botanical-socks");
+    if (isMochiPot(product)) return addUtm(product.url, "mochi-pot");
     return addUtm(product.url, "other");
   };
 
@@ -60,6 +65,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
     if (isSocksProduct(product)) return "/images/products/botanical-socks-main.jpg";
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
+    if (isMochiPot(product)) return "/images/products/mochi-pot-main.jpg";
     if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
     if (isRegale(product)) return "/images/products/anthurium-regale-group.jpg";
     if (isHolyGrail(product)) return "/images/products/alocasia-holy-grail-group.jpg";

@@ -3,7 +3,7 @@ image: /images/products/platycerium-ridleyi-header.jpg
 title: ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方
 description: ビカクシダ・リドレイの基本情報、キャベツ状の貯水葉や直立する胞子葉の特徴、育て方、トラブル対策、増やし方を専門的に解説します。
 date: '2026-06-09'
-updated: '2026-10-27'
+updated: '2026-11-05'
 category: species
 tags:
   - ビカクシダ
@@ -20,8 +20,8 @@ relatedSlugs:
   - "species/platycerium-bifurcatum"
   - "species/platycerium-willinckii"
 baseProducts:
-  - title: 観葉植物の商品一覧
-    url: 'https://www.tokyoplants.com/categories/6382090'
+  - title: ビカクシダの商品一覧
+    url: 'https://www.tokyoplants.com/categories/6382103'
     price: ''
 amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"

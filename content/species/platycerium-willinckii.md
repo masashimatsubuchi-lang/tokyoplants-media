@@ -3,7 +3,7 @@ image: /images/products/platycerium-willinckii-header.jpg
 title: ビカクシダ・ウィリンキー｜細長い胞子葉が垂れる人気種の育て方
 description: ビカクシダ・ウィリンキーの基本情報、細長く垂れ下がる胞子葉の特徴、板付けでの育て方、トラブル対策、増やし方を専門的に解説します。
 date: '2026-06-09'
-updated: '2026-10-27'
+updated: '2026-11-05'
 category: species
 tags:
   - ビカクシダ
@@ -20,8 +20,8 @@ relatedSlugs:
   - "species/platycerium-bifurcatum"
   - "species/platycerium-ridleyi"
 baseProducts:
-  - title: 観葉植物の商品一覧
-    url: 'https://www.tokyoplants.com/categories/6382090'
+  - title: ビカクシダの商品一覧
+    url: 'https://www.tokyoplants.com/categories/6382103'
     price: ''
 amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"

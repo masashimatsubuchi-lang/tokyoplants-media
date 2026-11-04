@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1642511271386-67d71706ba21?w=1200&q=80
 title: "3Dプリンターで観葉植物の鉢を自作する方法｜素材・データ・設定まで"
 description: "3Dプリンターで観葉植物の鉢を自作する全手順を解説。素材選び（PLA・PETG・ASA）、Printables などの無料データ入手先、スライサー設定のコツ、Bambu Lab A1 mini の活用方法まで網羅します。"
 date: "2026-07-06"
+updated: "2026-11-05"
 category: "guide"
 tags: ["3Dプリンター", "鉢", "DIY", "自作", "Bambu Lab", "インテリア"]
 author: "tokyoplants 編集部"
@@ -10,6 +11,10 @@ relatedSlugs:
   - "review/bambu-lab-3d-printer-comparison"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/repotting-soil-guide"
+baseProducts:
+  - title: "MOCHI POT｜モチポット・3号（3Dプリントの鉢）"
+    url: "https://www.tokyoplants.com/items/140571906"
+    price: "¥1,500"
 amazonProducts:
   - title: "Bambu Lab PLA ベーシック フィラメント 1.75mm 1kg"
     asin: "B0CGR29R63"
@@ -83,6 +88,13 @@ PLA は生分解性プラスチックで入門素材として最適ですが、�
 <!-- character-note character="kuro" type="point" -->
 鉢の素材が水を通すかどうかは、テラコッタと同じで根の環境に直結するんだ。PETGはほぼ水を通さないから、鉢自体は乾きにくい分、土側の水はけで調整する意識を持っておくといいよ。
 <!-- /character-note -->
+
+プリンターを買う前に、PETGで印刷した鉢の質感や軽さを手に取って確かめたい場合は、完成品の3Dプリント鉢を1つ使ってみる方法もあります。tokyoplantsでは、PETGで印刷した3号サイズの鉢を扱っています。
+
+<!-- product-cards title="PETGで3Dプリントした完成品の鉢" own="pot" -->
+- **向いている**：PETG製（耐水性・耐久性があり軽量）の3号鉢。高さ約9.8cm・直径約11.5cm・重さ約133g。内部に細かいメッシュ構造があり通気性と排水性を確保する設計で、受け皿は高さがあって水を溜められる。色はOLIVEとGRAY
+- **注意**：内径約8cm・内側の高さ約7cmと、外寸に対して植えられる容積は小さい（商品説明でも「正直場所をとります」としている）。3Dプリントのため積層跡・ムラ・糸引きが出ることがあり、強い衝撃や高温になる場所は避ける
+<!-- /product-cards -->
 
 ### ASA（アクリロニトリル・スチレン・アクリレート）
 

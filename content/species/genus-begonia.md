@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1746387332193-410b21d929ab?w=1200&q=80
 title: "ベゴニア属とは｜根茎性・木立性の違いと人気品種"
 description: "ベゴニア属（Begonia・シュウカイドウ科）の図鑑ページ。根茎性・木立性・球根性・四季咲きの4タイプの違い、観葉向け人気6品種（マキュラータ・レックス・パボニナ等）の比較、年間管理カレンダー、灰色かび病などのトラブル対処をまとめました。"
 date: "2026-09-22"
+updated: "2026-11-05"
 category: "species"
 tags: ["ベゴニア", "シュウカイドウ科", "品種", "根茎性", "木立性", "完全ガイド"]
 author: "tokyoplants 編集部"
@@ -15,8 +16,8 @@ relatedSlugs:
   - "species/begonia-soli-mutata"
   - "soil/best-soil-for-begonia"
 baseProducts:
-  - title: "All plants｜観葉植物の商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382090"
+  - title: "ベゴニアの商品一覧"
+    url: "https://www.tokyoplants.com/categories/7114659"
     price: ""
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -244,4 +245,4 @@ tokyoplants MEDIAで個別に解説している6品種を、同じ物差しで�
 2. **葉を濡らさずに湿度を保つ。** 灰色かび病とうどんこ病はベゴニアの二大病害で、どちらも葉面の水滴と風通し不足が引き金になる。
 3. **冬の下限は10〜15℃と品種で違う。** 迷ったら12℃を目安に、窓際の冷え込みから遠ざける。
 
-品種ごとの詳しい育て方は、[マキュラータ](/species/begonia-maculata)・[レックス](/species/begonia-rex)・[パボニナ](/species/begonia-pavonina)・[スノーキャップド](/species/begonia-snow-capped)・[ジニーギャラクシー](/species/begonia-ginny-galaxy)・[ソリムタータ](/species/begonia-soli-mutata)の各図鑑ページへ。用土の選び方は[ベゴニアの土おすすめと配合レシピ](/soil/best-soil-for-begonia)を参照してください。tokyoplantsの[観葉植物の商品一覧](https://www.tokyoplants.com/categories/6382090)もあわせてご覧ください。
+品種ごとの詳しい育て方は、[マキュラータ](/species/begonia-maculata)・[レックス](/species/begonia-rex)・[パボニナ](/species/begonia-pavonina)・[スノーキャップド](/species/begonia-snow-capped)・[ジニーギャラクシー](/species/begonia-ginny-galaxy)・[ソリムタータ](/species/begonia-soli-mutata)の各図鑑ページへ。用土の選び方は[ベゴニアの土おすすめと配合レシピ](/soil/best-soil-for-begonia)を参照してください。tokyoplantsの[ベゴニアの商品一覧](https://www.tokyoplants.com/categories/7114659)もあわせてご覧ください。

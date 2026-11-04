@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1680040211019-29a8dbb250d5?w=800
 title: "プラティセリウムとは？ビカクシダの属名で、約18種・2種類の葉をもつ着生シダ"
 description: "プラティセリウムは和名ビカクシダの属名で、約18種の着生シダ。胞子葉と貯水葉の2種類の葉の役割、代表品種の一覧、板付け・苔玉での育て方とトラブル対処をまとめました。"
 date: "2026-02-17"
-updated: "2026-10-27"
+updated: "2026-11-05"
 category: "species"
 tags: ["ビカクシダ", "プラティセリウム", "品種", "着生植物"]
 author: "tokyoplants 編集部"
@@ -19,8 +19,8 @@ relatedSlugs:
   - "species/platycerium-ridleyi"
   - "species/platycerium-willinckii"
 baseProducts:
-  - title: "観葉植物の商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382090"
+  - title: "ビカクシダの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382103"
     price: ""
 amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"

@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1777051496881-e5a0b7f8374f?crop=
 title: "ビカクシダ・ビフルカツム｜初心者向きな定番種の育て方"
 description: "ビカクシダ・ビフルカツムの基本情報、胞子葉と貯水葉の特徴、板付け・鉢植えでの育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-06-09"
-updated: "2026-10-27"
+updated: "2026-11-05"
 category: "species"
 tags: ["ビカクシダ", "プラティセリウム", "着生植物"]
 author: "tokyoplants 編集部"
@@ -17,8 +17,8 @@ relatedSlugs:
   - "species/platycerium-willinckii"
   - "species/platycerium-ridleyi"
 baseProducts:
-  - title: "観葉植物の商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382090"
+  - title: "ビカクシダの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382103"
     price: ""
 amazonProducts:
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔AAAハイグレード 150g"

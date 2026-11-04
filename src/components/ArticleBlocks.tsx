@@ -1,5 +1,6 @@
 import type { ParsedBlock } from "@/lib/articleBlocks";
-import type { AmazonProduct } from "@/lib/posts";
+import type { AmazonProduct, BaseProduct } from "@/lib/posts";
+import { OWN_PRODUCTS, findOwnInBaseProducts, ownProductUrl } from "@/lib/ownProducts";
 import { amazonNote, amazonPrice } from "@/lib/amazonDisplay";
 
 /**
@@ -323,6 +324,110 @@ function AmazonCards({
 }
 
 
+/* ---------- product-cards: 自社商品を写真つきの商品カードで（良い点・注意点つき） ----------
+ * 以前は自社商品を「Pick Up」の小さなバナー1つで案内していたが、同じ記事のAmazonの商品カードの
+ * 約8分の1しか押されていなかった（2026-10-08〜11-04）。広告枠ではなく、選択肢の1つとして
+ * 写真・名前・価格・合う理由・弱点を並べる。amazon="true" なら他社の選択肢も同じ枠に並べる。 */
+function ProductCards({
+  block,
+  baseProducts,
+  amazonProducts,
+}: {
+  block: Extract<ParsedBlock, { kind: "product-cards" }>;
+  baseProducts: BaseProduct[];
+  amazonProducts: AmazonProduct[];
+}) {
+  if (!block.own) return null;
+  const own = OWN_PRODUCTS[block.own];
+  const price = findOwnInBaseProducts(block.own, baseProducts)?.price || own.price;
+  const others = block.showAmazon ? amazonProducts : [];
+  const tag = "tokyoplants0f-22";
+  return (
+    <section className="not-prose my-8 rounded-2xl border border-emerald-200 bg-emerald-50/40 p-4 sm:p-5">
+      {block.title && <p className="mb-3 text-[15px] font-bold text-zinc-800">{block.title}</p>}
+      <a
+        href={ownProductUrl(block.own, "cards")}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="group block rounded-xl border border-emerald-200 bg-white p-4 transition-all hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
+      >
+        <div className="flex gap-4">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={own.image}
+            alt={own.name}
+            className="h-24 w-24 shrink-0 rounded-lg border border-emerald-100 object-cover sm:h-28 sm:w-28"
+            loading="lazy"
+          />
+          <div className="min-w-0 flex-1">
+            <p className="text-[11px] font-semibold text-emerald-700">tokyoplants オリジナル</p>
+            <p className="mt-0.5 text-[15px] font-bold leading-snug text-zinc-900">{own.name}</p>
+            <p className="mt-1 text-[12px] leading-snug text-zinc-500">{own.spec}</p>
+            <p className="mt-1.5 text-[15px] font-extrabold text-emerald-700">{price}</p>
+          </div>
+        </div>
+        {block.points.length > 0 && (
+          <dl className="mt-3 space-y-1.5 border-t border-emerald-100 pt-3">
+            {block.points.map((pt, i) => (
+              <div key={i} className="flex gap-2 text-[13px] leading-relaxed">
+                {/* カード全体がリンクなので、中のリンクは外して文字だけにする（a の入れ子は不正） */}
+                {pt.label && (
+                  <dt
+                    className={`w-[4.75rem] shrink-0 self-start rounded px-1.5 py-0.5 text-center text-[11px] font-bold leading-[1.6] ${
+                      /注意|弱点|苦手/.test(pt.label) ? "bg-amber-50 text-amber-800" : "bg-emerald-50 text-emerald-800"
+                    }`}
+                  >
+                    {pt.label}
+                  </dt>
+                )}
+                <dd className="text-zinc-700 [&_a]:text-teal-700" dangerouslySetInnerHTML={{ __html: pt.valueHtml.replace(/<\/?a\b[^>]*>/g, "") }} />
+              </div>
+            ))}
+          </dl>
+        )}
+        <p className="mt-3 text-right">
+          <span className="inline-block rounded-full bg-emerald-600 px-4 py-2 text-[12px] font-bold text-white transition-colors group-hover:bg-emerald-700">
+            ショップで詳しく見る →
+          </span>
+        </p>
+      </a>
+
+      {others.length > 0 && (
+        <>
+          <p className="mb-2 mt-4 text-[12px] font-bold text-zinc-600">Amazonで買える他の選択肢</p>
+          <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+            {others.map((p) => (
+              <a
+                key={p.asin ?? p.url}
+                href={p.asin ? `https://www.amazon.co.jp/dp/${p.asin}?tag=${tag}` : p.url}
+                target="_blank"
+                rel="sponsored noopener noreferrer"
+                className="flex items-center gap-3 rounded-xl border border-zinc-200 bg-white p-3 transition-colors hover:border-amber-400 hover:bg-amber-50/60"
+              >
+                {(p.image || p.asin) && (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img
+                    src={p.image || `https://m.media-amazon.com/images/P/${p.asin}.01._SL200_.jpg`}
+                    alt=""
+                    className="h-[64px] w-[64px] shrink-0 rounded-lg bg-white object-contain"
+                    loading="lazy"
+                  />
+                )}
+                <div className="min-w-0">
+                  <p className="text-[13px] font-bold leading-snug text-zinc-800">{p.title}</p>
+                  {amazonPrice(p.price) && <p className="mt-0.5 text-[13px] font-bold text-amber-800">{amazonPrice(p.price)}</p>}
+                  {amazonNote(p.note) && <p className="mt-0.5 text-[11.5px] leading-snug text-zinc-500">{amazonNote(p.note)}</p>}
+                </div>
+              </a>
+            ))}
+          </div>
+          <p className="mt-2.5 text-[11px] text-zinc-500">Amazonアソシエイトリンクを含みます。価格・在庫は変動します。</p>
+        </>
+      )}
+    </section>
+  );
+}
+
 /* ---------- figure: 本文中の写真（キャプション付き） ---------- */
 function Figure({ block }: { block: Extract<ParsedBlock, { kind: "figure" }> }) {
   if (!block.src) return null;
@@ -348,9 +453,11 @@ function Figure({ block }: { block: Extract<ParsedBlock, { kind: "figure" }> }) 
 export default function ArticleBlock({
   block,
   amazonProducts = [],
+  baseProducts = [],
 }: {
   block: ParsedBlock;
   amazonProducts?: AmazonProduct[];
+  baseProducts?: BaseProduct[];
 }) {
   switch (block.kind) {
     case "key-facts":
@@ -371,5 +478,7 @@ export default function ArticleBlock({
       return <AmazonCards block={block} products={amazonProducts} />;
     case "figure":
       return <Figure block={block} />;
+    case "product-cards":
+      return <ProductCards block={block} baseProducts={baseProducts} amazonProducts={amazonProducts} />;
   }
 }

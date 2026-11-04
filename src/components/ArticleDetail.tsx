@@ -18,6 +18,8 @@ import { BLOCK_NAMES, parseBlock, type BlockName, type ParsedBlock } from "@/lib
 import ComparisonSummary, { ComparisonOption } from "./ComparisonSummary";
 import AmazonAffiliateBlock from "./AmazonAffiliateBlock";
 import ShopBanner from "./ShopBanner";
+import ShopStockBlock from "./ShopStockBlock";
+import { getShopStock } from "@/lib/shopStock";
 import ArticleAppCta from "./ArticleAppCta";
 import AuthorCard from "./AuthorCard";
 import { getAuthorForPost } from "@/lib/authors";
@@ -214,14 +216,28 @@ export default function ArticleDetail({ post }: { post: Post }) {
   // 本文に `<!-- amazon-cards -->` がある記事は、そのブロックが同じ amazonProducts を
   // 表示するため、記事末尾の AmazonAffiliateBlock を自動で抑止する（二重表示の防止）。
   // frontmatter の hideAmazonBlock を書き忘れても崩れないよう、実装側で担保する。
-  const hasInlineAmazonCards = /<!--\s*amazon-cards[\s>]/.test(post.contentHtml);
+  // product-cards に amazon="true" を付けた記事も、同じ amazonProducts を本文で出している
+  const hasInlineAmazonCards =
+    /<!--\s*amazon-cards[\s>]/.test(post.contentHtml) || /<!--\s*product-cards\b[^>]*\bamazon="true"/.test(post.contentHtml);
+  // 本文の product-cards で自社商品をカードで出している記事は、自動の商品バナーを入れない（二重表示になる）
+  const hasOwnProductCards = /<!--\s*product-cards\b[^>]*\bown="(soil|hydro|pot)"/.test(post.contentHtml);
   const hasAmazonProducts =
     !post.hideAmazonBlock && !hasInlineAmazonCards && post.amazonProducts && post.amazonProducts.length > 0;
   const hasBaseProducts = post.baseProducts && post.baseProducts.length > 0;
-  const showInlineBanner = ["soil", "guide", "species", "research", "review"].includes(post.category) && hasInlineProduct(post.baseProducts);
+  // 品種カテゴリにリンクしている記事と、扱いのある属の図鑑記事は、その属の販売中の株を出す。
+  // 図鑑記事と、自社商品のバナーが無い記事はバナーの位置（最初の節の後）に出す。図鑑の読者には
+  // 土より株のほうが文脈に合うため、図鑑記事では土のバナーの代わりに出す。それ以外は末尾の商品欄の上
+  const shopStock = getShopStock(post.baseProducts, post.slug, post.category);
+  const stockInBody =
+    !!shopStock && !hasOwnProductCards && (post.category === "species" || !hasInlineProduct(post.baseProducts));
+  const showInlineBanner =
+    ["soil", "guide", "species", "research", "review"].includes(post.category) &&
+    hasInlineProduct(post.baseProducts) &&
+    !hasOwnProductCards &&
+    !stockInBody;
   const showShopBanner = hasBaseProducts || !hasAmazonProducts;
   const noteSegments = splitContentMarkers(contentWithIds);
-  const contentSegments = showInlineBanner ? insertBannerAfterFirstSection(noteSegments) : noteSegments;
+  const contentSegments = showInlineBanner || stockInBody ? insertBannerAfterFirstSection(noteSegments) : noteSegments;
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
   ).slice(0, 3);
@@ -330,7 +346,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   return seg.html ? <div key={i} dangerouslySetInnerHTML={{ __html: seg.html }} /> : null;
                 }
                 if (seg.type === "banner") {
-                  return post.baseProducts ? (
+                  if (stockInBody && shopStock) return <ShopStockBlock key={i} stock={shopStock} />;
+                  return post.baseProducts && !hasOwnProductCards ? (
                     <InlineProductBanner key={i} products={post.baseProducts} placement={seg.placement ?? "inline"} />
                   ) : null;
                 }
@@ -338,7 +355,9 @@ export default function ArticleDetail({ post }: { post: Post }) {
                   return <ComparisonSummary key={i} title={seg.title} left={seg.left} right={seg.right} />;
                 }
                 if (seg.type === "block") {
-                  return <ArticleBlock key={i} block={seg.block} amazonProducts={post.amazonProducts ?? []} />;
+                  return (
+                    <ArticleBlock key={i} block={seg.block} amazonProducts={post.amazonProducts ?? []} baseProducts={post.baseProducts ?? []} />
+                  );
                 }
                 return (
                   <CharacterNote key={i} character={seg.character} type={seg.noteType} html={seg.innerHtml} />
@@ -354,6 +373,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
             {hasAmazonProducts && (
               <AmazonAffiliateBlock products={post.amazonProducts!} />
             )}
+
+            {shopStock && !stockInBody && <ShopStockBlock stock={shopStock} />}
 
             {/* BASE Products (tokyoplants shop) */}
             {post.baseProducts && post.baseProducts.length > 0 && (
