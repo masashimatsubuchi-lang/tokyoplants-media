@@ -9,7 +9,7 @@ type ImageInfo = { w: number; h: number; avif: boolean; small: { src: string; w:
 const IMAGES: Record<string, ImageInfo | undefined> = homeImages;
 
 // 写真の枠（正方形）の幅。カードの幅から左右の余白を引いたもの
-const BOX_SIZES = ["(min-width: 1280px) 250px", "(min-width: 768px) calc(50vw - 54px)", "calc(82vw - 24px)"];
+const BOX_SIZES = ["(min-width: 768px) 276px", "(min-width: 640px) calc(58vw - 24px)", "calc(82vw - 24px)"];
 
 /**
  * 写真を軽く出すための picture の中身。scripts/encode-home-images.sh が作った AVIF と小さいサイズ
@@ -67,7 +67,7 @@ export default function CollectionCard({
   };
 
   return (
-    <article className="group relative flex w-[82%] shrink-0 snap-start flex-col overflow-hidden rounded-[28px] bg-white shadow-[0_2px_12px_rgba(0,0,0,0.05)] transition-shadow duration-300 hover:shadow-[0_12px_36px_rgba(0,0,0,0.10)] sm:w-[58%] md:w-auto">
+    <article className="group relative flex w-[82%] shrink-0 snap-start flex-col overflow-hidden rounded-[28px] bg-white shadow-[0_2px_12px_rgba(0,0,0,0.05)] transition-shadow duration-300 hover:shadow-[0_12px_36px_rgba(0,0,0,0.10)] sm:w-[58%] md:w-[300px]">
       <a
         href={href}
         target="_blank"
@@ -104,7 +104,11 @@ export default function CollectionCard({
                 height={800}
                 fetchPriority={priority && active === 0 ? "high" : undefined}
                 decoding="async"
-                className="h-full w-full origin-bottom object-contain object-bottom transition-transform duration-500 group-hover:scale-[1.03]"
+                className={
+                  product.photo
+                    ? "h-full w-full rounded-[20px] object-cover"
+                    : "h-full w-full origin-bottom object-contain object-bottom transition-transform duration-500 group-hover:scale-[1.03]"
+                }
               />
             </picture>
           </div>

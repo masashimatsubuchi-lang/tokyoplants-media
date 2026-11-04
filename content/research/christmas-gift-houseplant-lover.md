@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1578704694513-08946e996642?w=1200&q=80
 title: "クリスマスプレゼント 植物好きへ｜枯れない冬ギフト7選"
 description: "観葉植物好きへのクリスマスプレゼントは、冬の寒さで弱らない「枯れないギフト」が安全です。¥2,000のリーフタオル全8種を中心に、予算別7つと冬の贈り方の注意点を解説します。"
 date: "2026-09-02"
-updated: "2026-10-23"
+updated: "2026-11-04"
 category: "research"
 tags:
   - プレゼント
@@ -24,6 +24,9 @@ relatedSlugs:
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
+  - title: "Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下"
+    url: "https://www.tokyoplants.com/items/164953353"
     price: "¥2,000"
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
@@ -106,7 +109,7 @@ baseProducts:
 - 鍋敷きとして使える厚みがあり、冬の食卓でも出番がある
 - ¥2,000という価格で気軽に贈れる
 
-**ギフトとしての体裁も整いました。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグが付きます。購入時に商品オプションで**ギフトラッピング（+¥300）**を選べば、不織布リボン付きの赤いギフトバッグに入った状態で届くので、受け取ってそのまま渡せます。クリスマスらしい赤なので、包み直す必要もありません。
+**ギフトとしての体裁も整いました。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグが付きます。[ギフトバッグ](https://www.tokyoplants.com/items/164551101)（**1袋¥300・別売**）を一緒にカートに入れれば、不織布リボン付きの赤いギフトバッグに入った状態で届くので、受け取ってそのまま渡せます。クリスマスらしい赤なので、包み直す必要もありません。
 
 <!-- callout type="tip" title="12月に間に合わせるための2つの注意" -->
 - **配送はゆうパケット（ポスト投函）**。全国一律 ¥500・追跡ありですが、**日時指定ができません**。「イブに届くように」という使い方はできないため、余裕を持って注文し、自分の手元で受け取ってから渡すのが確実です
@@ -116,6 +119,10 @@ baseProducts:
 実際の使用感は[Daily Botanical Towelのレビュー](/review/daily-botanical-towel-review)でも詳しく紹介しています。
 
 [Daily Botanical Towel をみる →](https://www.tokyoplants.com/items/135803882)
+
+**身につけるものを1つ添えるなら、同じシリーズの靴下も。** Daily Botanical Socks｜MONSTERA MONDAY（¥2,000）は、深いグリーンの地にハート形のモンステラの葉を編み込んだコーマコットンの靴下です。後ろ側の履き口に左「MONSTERA」右「MONDAY」の文字があり、両足そろうと、月曜日にモンステラの写真をSNSでシェアする植物好きの習慣「#MonsteraMonday」の言葉になります。オリジナルデザインの紙製パッケージ入りで、クリスマスらしい赤いリボン付きの不織布ギフトバッグ（1袋300円）は別売。サイズはS/M（22〜25cm）とM/L（25〜28cm）のユニセックス2展開です。
+
+[Daily Botanical Socks をみる →](https://www.tokyoplants.com/items/164953353)
 
 ---
 

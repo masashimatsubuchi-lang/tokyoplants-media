@@ -46,6 +46,9 @@ export interface OwnProduct {
   variants?: ProductVariant[];
   /** color: 色の丸をタップして写真を切り替える ／ size: 容量・種類の切り替えボタン */
   variantStyle?: "color" | "size";
+  /** 白背景の切り抜きではなく、背景ごと撮った写真のとき true。枠いっぱいに角丸で見せる
+   *  （手持ち写真の自動切り抜きは品質不足と判断しているため、切り抜かずに使う） */
+  photo?: boolean;
   href: string;
 }
 
@@ -105,6 +108,17 @@ export const OWN_COLLECTION: OwnProduct[] = [
       alt: `Daily Botanical Towel ${name.replace("｜", " ")}`,
     })),
     href: ecUrl("/items/135803882", "collection-towel"),
+  },
+  {
+    id: "socks",
+    kind: "モンステラの靴下・ユニセックス",
+    name: "Daily Botanical Socks",
+    catchCopy: "月曜日に、ちょっとだけ気分が上がる靴下。",
+    price: "¥2,000",
+    image: "/images/home/socks.jpg",
+    alt: "Daily Botanical Socks｜MONSTERA MONDAY 深いグリーンの地にモンステラの葉を編み込んだ靴下",
+    photo: true,
+    href: ecUrl("/items/164953353", "collection-socks"),
   },
   {
     id: "sishicraft",

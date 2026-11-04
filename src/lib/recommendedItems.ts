@@ -61,6 +61,15 @@ export const RECOMMENDED_OWN_ITEMS: RecommendedItem[] = [
     relatedSlugs: ["review/daily-botanical-towel-review"],
   },
   {
+    title: "Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下",
+    source: "tokyoplants",
+    url: "https://www.tokyoplants.com/items/164953353",
+    image: "/images/products/botanical-socks-main.jpg",
+    price: "¥2,000",
+    reason: "深いグリーンにモンステラの葉を編み込んだ、ユニセックス2サイズのコーマコットンソックス。",
+    relatedSlugs: ["research/houseplant-lover-gift-ideas"],
+  },
+  {
     title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants",
     source: "tokyoplants",
     url: "https://www.tokyoplants.com/categories/7318231",

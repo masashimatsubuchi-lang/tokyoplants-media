@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1661699972347-122ab0bc4679?w=800
 title: "観葉植物好きが喜ぶプレゼント10選｜失敗しない選び方"
 description: "観葉植物好きへのプレゼントで外さない10品を¥2,000〜¥18,000で整理。生体を避けたほうがいい理由と、リーフタオル全8種から相手に合う柄を選ぶコツまで具体的に解説します。"
 date: "2026-02-20"
-updated: "2026-10-23"
+updated: "2026-11-04"
 category: "research"
 tags: ["プレゼント", "ギフト", "おすすめ", "タオル"]
 author: "tokyoplants 編集部"
@@ -15,6 +15,9 @@ relatedSlugs:
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
+  - title: "Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下"
+    url: "https://www.tokyoplants.com/items/164953353"
     price: "¥2,000"
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
@@ -72,7 +75,7 @@ baseProducts:
 | デザイン | 全8種（モンステラ／アンスリウム2種／アロカシア、各色違い） |
 | 仕様 | 引っ掛けやすいループ付き。鍋敷きとしても使える厚み |
 | タグ | 2026年10月中旬以降の発送分からオリジナルブランドタグ付き |
-| ラッピング | 不織布リボン付ギフトバッグ（赤）+¥300。商品オプションで選択 |
+| ラッピング | 不織布リボン付ギフトバッグ（赤）1袋¥300。[ギフトバッグ](https://www.tokyoplants.com/items/164551101)を別途カートへ（1袋にタオル最大8枚） |
 | 配送 | ゆうパケット（ポスト投函）全国一律¥500・追跡あり・日時指定不可 |
 
 **ギフトとして選ばれる理由：**
@@ -96,6 +99,12 @@ baseProducts:
 ### ¥2,000｜Daily Botanical Towel（リーフタオル）
 
 上記の通り、植物好きへのギフトとして最もおすすめです。誕生日・引っ越し祝い・ちょっとしたお礼など、あらゆるシーンに対応します。
+
+### ¥2,000｜Daily Botanical Socks（モンステラの靴下）
+
+タオルと同じシリーズの、深いグリーンの地にハート形のモンステラの葉を編み込んだコーマコットンの靴下です。後ろ側の履き口に左「MONSTERA」右「MONDAY」の文字があり、両足そろうと、月曜日にモンステラの写真をSNSでシェアする植物好きの習慣「#MonsteraMonday」の言葉になります。サイズはS/M（22〜25cm）とM/L（25〜28cm）のユニセックス2展開で、オリジナルデザインの紙製パッケージ入りです。
+
+→ [Daily Botanical Socks を見る](https://www.tokyoplants.com/items/164953353)
 
 ### ¥2,000〜3,000｜ボタニカルキャンドル
 

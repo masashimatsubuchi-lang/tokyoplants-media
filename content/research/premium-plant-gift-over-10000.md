@@ -3,7 +3,7 @@ image: /images/products/premium-plant-gift-over-10000-header.jpg
 title: 植物好きへの1万円以上ギフト｜記念日の本命5選
 description: 記念日や退職祝い、お世話になった方へ。植物好きが「これはすごい」と感じる1万円以上の本格ギフトを5つ厳選。受注生産の納期や送料無料ラインなど、手配の段取りまで解説します。
 date: '2026-06-03'
-updated: '2026-10-23'
+updated: '2026-11-04'
 category: research
 tags:
   - ギフト
@@ -20,6 +20,9 @@ baseProducts:
     price: '¥18,000〜'
   - title: Daily Botanical Towel｜リーフタオル
     url: 'https://www.tokyoplants.com/items/135803882'
+    price: '¥2,000'
+  - title: Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下
+    url: 'https://www.tokyoplants.com/items/164953353'
     price: '¥2,000'
 ---
 
@@ -143,7 +146,9 @@ tokyoplants では、ワロクアーナムやレガレ、ホーリーグレイ�
 - 端数をタオルで埋める買い方ができる
 <!-- /cards -->
 
-**ギフトとしての体裁：** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付きになりました。購入時に商品オプションで**ギフトラッピング（+¥300）**を選べば、不織布リボン付きの赤いギフトバッグに入って届きます。複数枚をまとめてラッピングする場合も、追加は1点ぶんだけで済みます。
+**ギフトとしての体裁：** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付きになりました。[ギフトバッグ](https://www.tokyoplants.com/items/164551101)（**1袋¥300・別売**）を一緒にカートに入れれば、不織布リボン付きの赤いギフトバッグに入って届きます。複数枚をまとめてラッピングする場合も、追加は1点ぶんだけで済みます。
+
+**本命に添える一品は、同じシリーズの靴下でも組み立てられます。** Daily Botanical Socks｜MONSTERA MONDAY（¥2,000）は、深いグリーンの地にハート形のモンステラの葉を編み込んだコーマコットンの靴下で、両足そろうと後ろ側の履き口に「MONSTERA MONDAY」（月曜日にモンステラの写真をSNSでシェアする植物好きの習慣）の文字が並びます。サイズはS/M（22〜25cm）とM/L（25〜28cm）のユニセックス2展開。モンステラのレザー作品に添えれば、モチーフのそろった贈り物になります。→ [Daily Botanical Socks を見る](https://www.tokyoplants.com/items/164953353)
 
 <!-- character-note character="shadee" type="tip" -->
 高価な株を贈るつもりなら、置き場所の光の条件だけは先に聞いておいてね。窓からの距離と窓の向きが分かれば、育てられる属はかなり絞り込める。Green Collectionの光量チェックで相手の部屋を一緒に測ってから選ぶ、という渡し方もあるよ。

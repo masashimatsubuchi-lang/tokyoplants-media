@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1609762751666-4ba213fb0b5f?w=1200&q=80
 title: "引っ越し祝い 植物好きへ｜新居で場所を取らない5選"
 description: "観葉植物好きへの引っ越し祝いは、新居の置き場所を奪わないものが正解です。¥2,000のリーフタオル全8種を中心に、贈って喜ばれる5つと植物を贈る前の確認ポイントを整理しました。"
 date: "2026-06-06"
-updated: "2026-10-23"
+updated: "2026-11-04"
 category: "research"
 tags:
   - 観葉植物好き
@@ -19,6 +19,9 @@ relatedSlugs:
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
+  - title: "Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下"
+    url: "https://www.tokyoplants.com/items/164953353"
     price: "¥2,000"
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -88,9 +91,13 @@ baseProducts:
 引っ越し直後は、植物にとって一年でいちばん環境が変わるタイミングだ。相手の株も新しい光と風に慣れるのに1ヶ月はかかる。そこへ新しい鉢を足すより、「落ち着いてから使えるもの」を贈るほうが相手の負担にならないよ。
 <!-- /character-note -->
 
-**ギフトとしての体裁も整っています。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付き。購入時に商品オプションで**ギフトラッピング（+¥300）**を選べば、不織布リボン付きの赤いギフトバッグに入って届くので、新居へ持参してそのまま渡せます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）で、**日時指定はできません**。引っ越し直後は相手が受け取りに追われていることも多いので、自分の手元に取り寄せてから訪問時に渡すのが確実です。
+**ギフトとしての体裁も整っています。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付き。[ギフトバッグ](https://www.tokyoplants.com/items/164551101)（**1袋¥300・別売**）を一緒にカートに入れれば、不織布リボン付きの赤いギフトバッグに入って届くので、新居へ持参してそのまま渡せます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）で、**日時指定はできません**。引っ越し直後は相手が受け取りに追われていることも多いので、自分の手元に取り寄せてから訪問時に渡すのが確実です。
 
 [Daily Botanical Towel 全8種をみる →](https://www.tokyoplants.com/items/135803882)
+
+**新居の場所を取らないという点では、同じシリーズの靴下も同じです。** Daily Botanical Socks｜MONSTERA MONDAY（¥2,000）は、深いグリーンの地にハート形のモンステラの葉を編み込んだコーマコットンの靴下。後ろ側の履き口に左「MONSTERA」右「MONDAY」の文字があり、両足そろうと、月曜日にモンステラの写真をSNSでシェアする植物好きの習慣「#MonsteraMonday」の言葉になります。サイズはS/M（22〜25cm）とM/L（25〜28cm）のユニセックス2展開で、モンステラを育てている相手ならタオルと並べて贈れます。
+
+[Daily Botanical Socks をみる →](https://www.tokyoplants.com/items/164953353)
 
 ---
 

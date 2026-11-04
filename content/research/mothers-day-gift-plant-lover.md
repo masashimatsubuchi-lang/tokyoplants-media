@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1590682680695-43b964a3ae17?w=1200&q=80
 title: "母の日 植物好きな母へ｜カーネーション以外の6選"
 description: "母の日に植物好きのお母さんへ。カーネーション以外で喜ばれるギフトを6つ厳選しました。¥2,000のリーフタオル全8種の選び方から、特別な節目に贈る本革の作品まで紹介します。"
 date: "2026-06-06"
-updated: "2026-10-23"
+updated: "2026-11-04"
 category: "research"
 tags:
   - プレゼント
@@ -19,6 +19,9 @@ relatedSlugs:
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
+  - title: "Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下"
+    url: "https://www.tokyoplants.com/items/164953353"
     price: "¥2,000"
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
@@ -78,9 +81,15 @@ baseProducts:
 どの葉かわからないときは、葉の切れ込みと穴を見て。モンステラは成長するほど切れ込みが深くなるし、アンスリウムのワロクアーナムは細長くて葉脈が白く浮く。写真を1枚撮っておけば後から見比べられるよ。
 <!-- /character-note -->
 
-**渡す体裁も整います。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付き。購入時に商品オプションで**ギフトラッピング（+¥300）**を選べば、不織布リボン付きの赤いギフトバッグに入った状態で届きます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）ですが**日時指定ができない**ため、母の日当日に合わせたいときは手元に取り寄せてから贈ってください。
+**渡す体裁も整います。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付き。[ギフトバッグ](https://www.tokyoplants.com/items/164551101)（**1袋¥300・別売**）を一緒にカートに入れれば、不織布リボン付きの赤いギフトバッグに入った状態で届きます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）ですが**日時指定ができない**ため、母の日当日に合わせたいときは手元に取り寄せてから贈ってください。
 
 [Daily Botanical Towel 全8種をみる →](https://www.tokyoplants.com/items/135803882)
+
+<!-- callout type="info" title="同じシリーズのモンステラの靴下（¥2,000）" -->
+**Daily Botanical Socks｜MONSTERA MONDAY** は、深いグリーンの地にハート形のモンステラの葉を編み込んだコーマコットンの靴下です。後ろ側の履き口に左「MONSTERA」右「MONDAY」の文字があり、両足そろうと、月曜日にモンステラの写真をSNSでシェアする植物好きの習慣「#MonsteraMonday」の言葉になります。サイズはS/M（22〜25cm）とM/L（25〜28cm）のユニセックス2展開。モンステラを育てているお母さんへ、カーネーションやタオルと一緒に母の日の贈り物にできます。
+
+[Daily Botanical Socks をみる →](https://www.tokyoplants.com/items/164953353)
+<!-- /callout -->
 
 
 ---

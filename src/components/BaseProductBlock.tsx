@@ -12,6 +12,10 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("Botanical Towel") || product.url.includes("/items/135803882");
   };
 
+  const isSocksProduct = (product: BaseProduct): boolean => {
+    return product.title.includes("Botanical Socks") || product.url.includes("/items/164953353");
+  };
+
   const isHydroProduct = (product: BaseProduct): boolean => {
     return product.title.includes("HYDRO MINERAL") || product.url.includes("/items/142692278");
   };
@@ -45,6 +49,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isSoilProduct(product)) return addUtm(product.url, "original-soil");
     if (isHydroProduct(product)) return addUtm(product.url, "hydro-mineral");
     if (isTowelProduct(product)) return addUtm(product.url, "botanical-towel");
+    if (isSocksProduct(product)) return addUtm(product.url, "botanical-socks");
     return addUtm(product.url, "other");
   };
 
@@ -53,6 +58,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
 
     if (isSoilProduct(product)) return "/images/products/im-original-soil-main.jpg";
     if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
+    if (isSocksProduct(product)) return "/images/products/botanical-socks-main.jpg";
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
     if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
     if (isRegale(product)) return "/images/products/anthurium-regale-group.jpg";
@@ -82,6 +88,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
           const productImage = getProductImage(product);
           const isSoil = isSoilProduct(product);
           const isTowel = isTowelProduct(product);
+          const isSocks = isSocksProduct(product);
           const isHydro = isHydroProduct(product);
           const isWaroc = isWarocqueanum(product);
           const isReg = isRegale(product);
@@ -97,13 +104,13 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
               className={`group relative flex items-center gap-4 rounded-xl border bg-white/95 p-4 transition-all ${
                 isSoldOut
                   ? "border-gray-200 opacity-60 cursor-not-allowed"
-                  : isSoil || isTowel || isHydro || isWaroc || isReg || isHG || isLB
+                  : isSoil || isTowel || isSocks || isHydro || isWaroc || isReg || isHG || isLB
                     ? "border-emerald-300 hover:-translate-y-0.5 hover:border-emerald-500 hover:shadow-md"
                     : "border-gray-200 hover:-translate-y-0.5 hover:border-emerald-400 hover:shadow-md"
               }`}
             >
               <div className={`flex items-center justify-center overflow-hidden rounded-xl border ${
-                isSoil || isTowel || isHydro || isWaroc || isReg || isHG || isLB
+                isSoil || isTowel || isSocks || isHydro || isWaroc || isReg || isHG || isLB
                   ? "h-24 w-24 border-emerald-200 bg-emerald-50/70"
                   : "h-20 w-20 border-emerald-100 bg-emerald-50"
               }`}>
@@ -248,7 +255,23 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                         速乾・吸水
                       </span>
                       <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
-                        全7種
+                        全8種
+                      </span>
+                    </div>
+                  </>
+                )}
+                {isSocks && (
+                  <>
+                    <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
+                      モンステラの葉を編み込んだ、コーマコットンのユニセックスソックス。
+                    </p>
+                    <p className="mt-1 text-xs font-medium text-gray-500">サイズ: S/M（22〜25cm）・M/L（25〜28cm）</p>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        コーマコットン
+                      </span>
+                      <span className="rounded-full bg-emerald-100 px-2 py-1 text-[11px] font-semibold text-emerald-800">
+                        ギフト対応
                       </span>
                     </div>
                   </>

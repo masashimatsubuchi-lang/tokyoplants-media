@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1702066054572-08bfd519f1d2?w=1200&q=80
 title: "父の日 植物好きな父へ｜大げさにしない5選"
 description: "父の日に植物好きのお父さんへ。大げさにならない価格で、ちゃんと刺さるギフトを5つ紹介します。¥2,000のリーフタオル全8種の選び分けと、ラッピングの手配まで解説しました。"
 date: "2026-06-03"
-updated: "2026-10-23"
+updated: "2026-11-04"
 category: "research"
 tags: ["プレゼント", "ギフト", "植物好き", "タオル"]
 author: "tokyoplants 編集部"
@@ -15,6 +15,9 @@ relatedSlugs:
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
+  - title: "Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下"
+    url: "https://www.tokyoplants.com/items/164953353"
     price: "¥2,000"
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
@@ -65,11 +68,17 @@ tokyoplants オリジナルの **Daily Botanical Towel**（¥2,000）は、植�
 長く植物を育てている人ほど、特定の属に偏っていくもの。棚を見て同じ属の鉢が2つ以上あったら、そこが本命だよ。柄をそこに合わせると、ただのタオルが「ちゃんと見ていた証拠」になる。
 <!-- /character-note -->
 
-**渡す体裁も整います。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付き。購入時に商品オプションで**ギフトラッピング（+¥300）**を選べば、不織布リボン付きの赤いギフトバッグに入った状態で届くので、そのまま手渡せます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）で**日時指定はできません**。当日に合わせたいなら、手元に取り寄せてから渡す形にしてください。
+**渡す体裁も整います。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants オリジナルブランドタグ付き。[ギフトバッグ](https://www.tokyoplants.com/items/164551101)（**1袋¥300・別売**）を一緒にカートに入れれば、不織布リボン付きの赤いギフトバッグに入った状態で届くので、そのまま手渡せます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）で**日時指定はできません**。当日に合わせたいなら、手元に取り寄せてから渡す形にしてください。
 
 「父の日だから何か贈りたいけど大げさにしたくない」——そんなときにちょうどいい一枚です。
 
 → [Daily Botanical Towel 全8種を見る](https://www.tokyoplants.com/items/135803882)
+
+### 同じシリーズのモンステラの靴下（¥2,000）
+
+お父さんがモンステラを育てているなら、**Daily Botanical Socks｜MONSTERA MONDAY** も父の日の候補になります。深いグリーンの地にハート形のモンステラの葉を編み込んだコーマコットンの靴下で、後ろ側の履き口に左「MONSTERA」右「MONDAY」の文字があり、両足そろうと、月曜日にモンステラの写真をSNSでシェアする植物好きの習慣「#MonsteraMonday」の言葉になります。サイズはS/M（22〜25cm）とM/L（25〜28cm）のユニセックス2展開なので、お父さんの足のサイズに合わせて選んでください。
+
+→ [Daily Botanical Socks を見る](https://www.tokyoplants.com/items/164953353)
 
 
 ---

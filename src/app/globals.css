@@ -167,16 +167,3 @@ body {
   content: "";
   flex: 0 0 1px;
 }
-/* 自社商品はPCでは格子状に並べる。横スクロール用の末尾の余白は格子では余計な1マスになるので消す。
-   また padding の % は親（画面幅）基準なので、幅を絞った格子では固定値にして見出しと左端を揃える。 */
-@media (min-width: 768px) {
-  .store-collection::after {
-    display: none;
-  }
-  .store-shelf.store-collection {
-    padding-left: 20px;
-    padding-right: 20px;
-    scroll-padding-left: 20px;
-    scroll-padding-right: 20px;
-  }
-}

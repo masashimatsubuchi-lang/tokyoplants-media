@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1503346339662-b25ed316827c?w=1200&q=80
 title: "誕生日プレゼント 植物好きへ｜外さない実用ギフト8選"
 description: "植物好きな友人・恋人・家族への誕生日プレゼント。相手との距離感と予算で選べる実用ギフト8つを、外すリスクつきで比較しました。¥2,000のリーフタオル全8種の選び方も解説します。"
 date: "2026-06-06"
-updated: "2026-10-23"
+updated: "2026-11-04"
 category: "research"
 tags:
   - 植物好き
@@ -19,6 +19,9 @@ relatedSlugs:
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
+    price: "¥2,000"
+  - title: "Daily Botanical Socks｜MONSTERA MONDAY モンステラの靴下"
+    url: "https://www.tokyoplants.com/items/164953353"
     price: "¥2,000"
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
@@ -135,9 +138,15 @@ amazonProducts:
 葉の形や葉脈の走り方は、品種を見分けるいちばんの手がかり。相手の棚にある株と同じ柄を選べたなら、それだけで「わかっている人からの贈り物」になるよ。写真を撮らせてもらって葉の形を見比べるのが確実。
 <!-- /character-note -->
 
-**渡す体裁も整います。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants ブランドタグ付き。購入時に商品オプションで**ギフトラッピング（+¥300）**を選べば、不織布リボン付きの赤いギフトバッグに入った状態で届くので、受け取ってそのまま手渡せます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）ですが、**日時指定はできません**。誕生日当日に合わせるなら、自分の手元に取り寄せてから渡す形にしてください。
+**渡す体裁も整います。** 2026年10月中旬以降の発送分からは、深緑に白ロゴの tokyoplants ブランドタグ付き。[ギフトバッグ](https://www.tokyoplants.com/items/164551101)（**1袋¥300・別売**）を一緒にカートに入れれば、不織布リボン付きの赤いギフトバッグに入った状態で届くので、受け取ってそのまま手渡せます。配送はゆうパケット（ポスト投函・全国一律¥500・追跡あり）ですが、**日時指定はできません**。誕生日当日に合わせるなら、自分の手元に取り寄せてから渡す形にしてください。
 
 [Daily Botanical Towel をみる →](https://www.tokyoplants.com/items/135803882)
+
+<!-- callout type="info" title="同じシリーズにモンステラの靴下もあります（¥2,000）" -->
+**Daily Botanical Socks｜MONSTERA MONDAY** は、深いグリーンの地にハート形のモンステラの葉を編み込んだコーマコットンの靴下です。後ろ側の履き口に左「MONSTERA」右「MONDAY」の文字があり、両足そろうと、月曜日にモンステラの写真をSNSでシェアする植物好きの習慣「#MonsteraMonday」の言葉になります。サイズはS/M（22〜25cm）とM/L（25〜28cm）のユニセックス2展開なので、相手の足のサイズだけ確かめておけば、モンステラ柄のタオルと並べて贈ることもできます。
+
+[Daily Botanical Socks をみる →](https://www.tokyoplants.com/items/164953353)
+<!-- /callout -->
 
 ---
 

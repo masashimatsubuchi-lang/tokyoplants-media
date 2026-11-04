@@ -11,7 +11,7 @@ const SHOP_PRODUCTS = [
   },
   {
     title: "HYDRO MINERAL 2L\n溶岩石×ゼオライト培地",
-    price: "¥1,200",
+    price: "¥1,480",
     url: "https://www.tokyoplants.com/items/142692278?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/8c005d36fa6b24f95424f388eca16b7f.jpg",
     tags: ["ハイドロ対応", "肥料8〜9ヶ月"],
@@ -22,7 +22,15 @@ const SHOP_PRODUCTS = [
     price: "¥2,000",
     url: "https://www.tokyoplants.com/items/135803882?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/bbc1475ea0cca198e331fb00760bc15b.jpg",
-    tags: ["全10種", "ギフト対応"],
+    tags: ["全8種", "ギフト対応"],
+    soldOut: false,
+  },
+  {
+    title: "Daily Botanical Socks\nモンステラの靴下",
+    price: "¥2,000",
+    url: "https://www.tokyoplants.com/items/164953353?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
+    image: "https://baseec-img-mng.akamaized.net/images/item/origin/1b550b392d943efbec3dbf2fcbc2d7ff.png?imformat=generic&q=90&im=Resize,width=400,type=normal",
+    tags: ["ユニセックス", "ギフト対応"],
     soldOut: false,
   },
   {

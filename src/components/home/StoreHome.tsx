@@ -72,10 +72,13 @@ export default function StoreHome() {
             <SectionTitle id="collection-heading" strong="オリジナル" rest="土から、暮らしの道具まで。" />
           </div>
         </div>
-        <div className="store-shelf store-collection scrollbar-hide mt-8 flex snap-x snap-mandatory gap-4 overflow-x-auto pb-4 pt-1 md:mx-auto md:mt-10 md:grid md:max-w-[1180px] md:grid-cols-2 md:gap-5 md:overflow-visible xl:grid-cols-4">
-          {collection.map((p, i) => (
-            <CollectionCard key={p.id} product={p} priority={i < 2} />
-          ))}
+        {/* 5商品になったので、PCも格子ではなく人気ランキングと同じ横スクロールの棚にする（2026-11-04） */}
+        <div className="mt-8 md:mt-10">
+          <ShelfScroller label="オリジナル商品">
+            {collection.map((p, i) => (
+              <CollectionCard key={p.id} product={p} priority={i < 2} />
+            ))}
+          </ShelfScroller>
         </div>
       </section>
 
