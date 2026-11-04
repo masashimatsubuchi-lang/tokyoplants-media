@@ -789,7 +789,7 @@
     if (kind) kind.innerHTML = '<span class="tp-card-new">NEW</span>' + kind.innerHTML;
     var btn = document.createElement('button');
     btn.type = 'button';
-    btn.dataset.img = 'https://media.tokyoplants.com/shop/pick-sishi-premium.jpg';
+    btn.dataset.img = 'https://media.tokyoplants.com/shop/pick-sishi-premium-2.jpg';
     btn.dataset.alt = 'SISHICRAFT タイコンステレーションのレザー作品 Premium Edition';
     btn.dataset.price = '¥29,800';
     btn.dataset.path = '/items/165042659';
