@@ -7,7 +7,7 @@
  *   どちらも --dry-run を付けると送らずに表示だけする
  *
  * 鍵は public/<鍵>.txt（中身も鍵）。鍵を変えるときはファイル名と中身と KEY をそろえる。
- * 自動化する GitHub Actions（push のたびに公開を待って実行）は、push に workflow 権限が要るため未導入（2026-11-04）。
+ * main への push では .github/workflows/indexnow.yml が公開を待ってから自動で実行する（2026-11-04 導入）。
  * 送るのは本番 https://media.tokyoplants.com の URL だけ。消えた記事の URL も送る（Bing が 404 を確かめに来る）。
  */
 import { execFileSync } from "node:child_process";

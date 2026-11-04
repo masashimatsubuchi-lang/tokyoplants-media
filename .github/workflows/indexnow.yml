@@ -1,0 +1,26 @@
+# main に記事などが入ったら、Vercel の公開を待ってから IndexNow で Bing などに知らせる（scripts/indexnow.mjs）
+name: IndexNow
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+      - "public/llms.txt"
+      - "src/app/items/**"
+      - "src/lib/recommendedItems.ts"
+      - "src/app/about/**"
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # Vercel のビルドと公開に約2〜3分かかるので、公開後に Bing が読みに来るよう少し待つ
+      - run: sleep 240
+      - run: node scripts/indexnow.mjs "${{ github.event.before }}" "${{ github.sha }}"
