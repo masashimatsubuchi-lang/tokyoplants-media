@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1667715318212-7dbf21da371f?w=1200&q=80
 title: "ビカクシダにライトは必要？育成ライトの選び方・設置・照射時間"
 description: "ビカクシダ（コウモリラン）への育成ライトの使い方を解説。必要なPPFD・おすすめの色温度・設置距離・照射時間から、品種別（ビフルカツム・リドレイ・ウィリンキー）の光量目安まで詳しく紹介します。"
 date: "2026-06-08"
+updated: "2026-11-04"
 category: "guide"
 tags:
   - 育成ライト
@@ -20,9 +21,8 @@ relatedSlugs:
   - "species/platycerium-ridleyi"
   - "species/platycerium-willinckii"
 baseProducts:
-  - title: "観葉植物の商品一覧"
-    url: "https://www.tokyoplants.com/categories/6382090"
-    price: ""
+  - title: "ビカクシダの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382103"
 amazonProducts:
   - title: "BARREL NEO AMATERAS LED 20W 植物育成ライト"
     asin: "B0BXPKS4S7"
@@ -91,6 +91,8 @@ PPFDの数値だけだと難しく感じるかもしれないけど、目安は�
 <!-- character-note character="kuro" type="point" -->
 リドレイは自生地では樹冠に近い明るい環境に着生することが多い品種だから、他のビカクシダより高光量を求めるのも納得の生態なんだよ。コレクション欲が湧いても、光環境が整うまでは無理に手を出さない方が安心。
 <!-- /character-note -->
+
+光環境が整ったら、tokyoplantsのショップでもリドレイ（ドワーフ＆コンパクト）を扱っています。在庫は時期によって変わるので、[ビカクシダの商品一覧](https://www.tokyoplants.com/categories/6382103)で確認してください。
 
 ---
 
