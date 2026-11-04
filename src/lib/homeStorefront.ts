@@ -113,11 +113,10 @@ export const OWN_COLLECTION: OwnProduct[] = [
     id: "socks",
     kind: "モンステラの靴下・ユニセックス",
     name: "Daily Botanical Socks",
-    catchCopy: "月曜日に、ちょっとだけ気分が上がる靴下。",
+    catchCopy: "ちょっとだけ気分が上がる靴下。",
     price: "¥2,000",
     image: "/images/home/socks.jpg",
     alt: "Daily Botanical Socks｜MONSTERA MONDAY 深いグリーンの地にモンステラの葉を編み込んだ靴下",
-    photo: true,
     href: ecUrl("/items/164953353", "collection-socks"),
   },
   {

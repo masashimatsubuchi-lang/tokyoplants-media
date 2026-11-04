@@ -30,7 +30,8 @@ function pictureSources(src: string) {
     [useSmall && `${toPath(info.small.src)} ${info.small.w}w`, useLarge && `${toPath(src)} ${info.w}w`].filter(Boolean).join(", ");
   return {
     sizes,
-    avifSrcSet: info.avif || info.small.avif ? set(avif, info.small.avif, info.avif) : null,
+    // 元の大きさの AVIF が無いときは AVIF を使わない（小さい AVIF だけを渡すと、3倍密度の画面でも小さい方が選ばれ画質が落ちる）
+    avifSrcSet: info.avif ? set(avif, info.small.avif, true) : null,
     jpgSrcSet: set((p) => p, true, true),
   };
 }

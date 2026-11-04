@@ -2,7 +2,7 @@
   "/images/home/hydro-mineral.jpg": { "w": 500, "h": 800, "avif": true, "small": { "src": "/images/home/hydro-mineral-560.jpg", "w": 350, "h": 560, "avif": true } },
   "/images/home/sishicraft-keyholder.jpg": { "w": 591, "h": 800, "avif": true, "small": { "src": "/images/home/sishicraft-keyholder-560.jpg", "w": 413, "h": 560, "avif": true } },
   "/images/home/sishicraft-monstera.jpg": { "w": 674, "h": 800, "avif": true, "small": { "src": "/images/home/sishicraft-monstera-560.jpg", "w": 471, "h": 560, "avif": true } },
-  "/images/home/socks.jpg": { "w": 800, "h": 800, "avif": true, "small": { "src": "/images/home/socks-560.jpg", "w": 560, "h": 560, "avif": true } },
+  "/images/home/socks.jpg": { "w": 467, "h": 800, "avif": false, "small": { "src": "/images/home/socks-560.jpg", "w": 327, "h": 560, "avif": true } },
   "/images/home/soil-10l.jpg": { "w": 610, "h": 800, "avif": true, "small": { "src": "/images/home/soil-10l-560.jpg", "w": 427, "h": 560, "avif": true } },
   "/images/home/soil-2l.jpg": { "w": 599, "h": 792, "avif": true, "small": { "src": "/images/home/soil-2l-560.jpg", "w": 423, "h": 560, "avif": true } },
   "/images/home/towel-alocasia-green.jpg": { "w": 625, "h": 800, "avif": true, "small": { "src": "/images/home/towel-alocasia-green-560.jpg", "w": 437, "h": 560, "avif": true } },
