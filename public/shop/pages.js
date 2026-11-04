@@ -814,8 +814,8 @@
       var b = e.target.closest('button');
       if (b) { e.preventDefault(); pick(b); }
     });
-    // 最初に出すのは白斑の通常モデル（2026-11-04 オーナー指示）。タイコンステレーションは色の丸の先頭から選べる
-    pick(vars.querySelector('[data-path="/items/143263775"]') || btn);
+    // 最初に出すのはタイコンステレーション（台座の写真）。2026-11-04 に一度白斑にしたが、同日オーナー指示で戻した
+    pick(btn);
   }
 
   // PICK UP の並び。新作の SISHICRAFT を先頭に（2026-11-04 オーナー依頼）、明るいカードと暗いカードが交互になるように並べる
