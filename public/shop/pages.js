@@ -780,7 +780,7 @@
     pick.insertBefore(card, pick.firstChild);
   }
 
-  // TOP の PICK UP「Leather Botanical」にタイコンステレーションの気根モデル（2026-11-04 新商品）を足して最初に出す。テーマは文字数の上限に近いのでここで足す
+  // TOP の PICK UP「Leather Botanical」にタイコンステレーションの気根モデル（2026-11-04 新商品）の色の丸を足す。テーマは文字数の上限に近いのでここで足す
   // テーマは DOMContentLoaded で各ボタンにクリックを付けるが、こちらが後から動いたときに備えて自前でも切り替える
   function pickSishi() {
     var card = document.querySelector('.tp-card--sishi');
@@ -814,7 +814,8 @@
       var b = e.target.closest('button');
       if (b) { e.preventDefault(); pick(b); }
     });
-    pick(btn);
+    // 最初に出すのは白斑の通常モデル（2026-11-04 オーナー指示）。タイコンステレーションは色の丸の先頭から選べる
+    pick(vars.querySelector('[data-path="/items/143263775"]') || btn);
   }
 
   // PICK UP の並び。新作の SISHICRAFT を先頭に（2026-11-04 オーナー依頼）、明るいカードと暗いカードが交互になるように並べる
