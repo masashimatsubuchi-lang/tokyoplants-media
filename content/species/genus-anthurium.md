@@ -22,6 +22,12 @@ relatedSlugs:
   - "species/velvet-anthurium-types-comparison"
   - "guide/anthurium-summer-rainy-season-care"
   - "species/anthurium-regale"
+  - "guide/anthurium-flowering"
+  - "guide/anthurium-propagation"
+  - "guide/anthurium-leaf-problems"
+  - "guide/anthurium-humidity-guide"
+  - "species/anthurium-hookeri"
+  - "species/anthurium-kunayalense"
 baseProducts:
   - title: アンスリウムの商品一覧
     url: 'https://www.tokyoplants.com/categories/6382097'

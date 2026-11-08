@@ -17,6 +17,7 @@ relatedSlugs:
   - "guide/stephania-kaweesakii-care"
   - "guide/stephania-kaweesakii-complete-guide"
   - "soil/best-soil-for-caudex-plants"
+  - "species/stephania-venosa"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

@@ -17,6 +17,7 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "guide/anthurium-summer-rainy-season-care"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/anthurium-humidity-guide"
 baseProducts:
   - title: "Anthurium carlablackiae｜アンスリウム・カルラブラッキエ"
     url: "https://www.tokyoplants.com/items/145161050"

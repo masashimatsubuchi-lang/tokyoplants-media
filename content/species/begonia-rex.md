@@ -13,6 +13,9 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
   - "species/genus-begonia"
+  - "guide/begonia-care-guide"
+  - "guide/begonia-propagation"
+  - "guide/begonia-winter-care"
 baseProducts:
   - title: "tokyoplants Begonia｜ベゴニア一覧"
     url: "https://www.tokyoplants.com/categories/7114659"

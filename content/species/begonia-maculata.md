@@ -13,6 +13,9 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
   - "species/genus-begonia"
+  - "guide/begonia-care-guide"
+  - "guide/begonia-propagation"
+  - "guide/begonia-powdery-mildew-pests"
 baseProducts:
   - title: "Begonia maculata variegata 'Pink'｜ベゴニア・マキュラータ"
     url: "https://www.tokyoplants.com/items/129136399"

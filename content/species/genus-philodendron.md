@@ -23,6 +23,9 @@ relatedSlugs:
   - "guide/philodendron-hydroculture"
   - "review/plant-label-maker-review"
   - "guide/cats-and-houseplants-safety"
+  - "guide/philodendron-winter-care"
+  - "guide/philodendron-yellow-leaves"
+  - "species/philodendron-radiatum"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

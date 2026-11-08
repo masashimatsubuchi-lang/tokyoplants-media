@@ -24,6 +24,8 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "guide/anthurium-summer-rainy-season-care"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/anthurium-humidity-guide"
+  - "guide/anthurium-propagation"
 baseProducts:
   - title: Anthurium Warocqueanum｜アンスリウム・ワロクアーナム
     url: 'https://www.tokyoplants.com/items/94920117'

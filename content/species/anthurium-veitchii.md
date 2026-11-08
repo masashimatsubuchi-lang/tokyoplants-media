@@ -17,6 +17,7 @@ relatedSlugs:
   - "species/anthurium-magnificum"
   - "guide/anthurium-summer-rainy-season-care"
   - "guide/root-rot-causes-and-recovery"
+  - "species/anthurium-wendlingeri"
 baseProducts:
   - title: "Anthurium Warocqueanum｜アンスリウム・ワロクアーナム"
     url: "https://www.tokyoplants.com/items/94920117"

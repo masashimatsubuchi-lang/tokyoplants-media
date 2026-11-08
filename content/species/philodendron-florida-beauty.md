@@ -18,6 +18,7 @@ relatedSlugs:
   - "guide/philodendron-repotting-guide"
   - "guide/philodendron-hydroculture"
   - "guide/root-rot-causes-and-recovery"
+  - "species/philodendron-radiatum"
 baseProducts:
   - title: "Philodendron Florida Beauty｜フィロデンドロン・フロリダビューティー"
     url: "https://www.tokyoplants.com/items/121890344"

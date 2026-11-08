@@ -36,6 +36,7 @@ relatedSlugs:
   - "species/philodendron-verrucosum"
   - "species/philodendron-white-knight"
   - "species/philodendron-white-princess"
+  - "species/philodendron-radiatum"
 baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"

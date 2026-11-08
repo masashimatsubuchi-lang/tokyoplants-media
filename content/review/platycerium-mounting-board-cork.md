@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/growing-houseplants-without-soil"
   - "guide/platycerium-grow-light-guide"
   - "guide/repotting-houseplants-complete-guide"
+  - "guide/platycerium-pup-division"
 amazonProducts:
   - title: "コルク樹皮 特大 300×400mm 1枚（着生・ビカクシダ用）"
     asin: "B0CG35V5CD"

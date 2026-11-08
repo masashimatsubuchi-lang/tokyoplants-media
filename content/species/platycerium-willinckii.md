@@ -19,6 +19,7 @@ relatedSlugs:
   - "review/platycerium-mounting-board-cork"
   - "species/platycerium-bifurcatum"
   - "species/platycerium-ridleyi"
+  - "guide/platycerium-pup-division"
 baseProducts:
   - title: ビカクシダの商品一覧
     url: 'https://www.tokyoplants.com/categories/6382103'

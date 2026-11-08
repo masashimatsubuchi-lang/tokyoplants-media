@@ -14,6 +14,7 @@ relatedSlugs:
   - "species/genus-stephania"
   - "guide/stephania-dormancy-and-sprouting"
   - "soil/best-soil-for-caudex-plants"
+  - "species/stephania-venosa"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

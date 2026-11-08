@@ -16,6 +16,8 @@ relatedSlugs:
   - "review/platycerium-mounting-board-cork"
   - "species/platycerium-willinckii"
   - "species/platycerium-ridleyi"
+  - "guide/platycerium-pup-division"
+  - "guide/platycerium-fertilizer"
 baseProducts:
   - title: "ビカクシダの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382103"

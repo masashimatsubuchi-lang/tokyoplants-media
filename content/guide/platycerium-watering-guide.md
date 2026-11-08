@@ -20,6 +20,8 @@ relatedSlugs:
   - "soil/best-soil-for-platycerium"
   - "species/genus-platycerium"
   - "review/misting-bottle-review"
+  - "guide/platycerium-fertilizer"
+  - "guide/platycerium-pup-division"
 baseProducts:
   - title: "ビカクシダ / Platycerium の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382103"

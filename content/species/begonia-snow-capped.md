@@ -18,6 +18,9 @@ relatedSlugs:
   - "species/begonia-ginny-galaxy"
   - "soil/repotting-soil-guide"
   - "guide/repotting-houseplants-complete-guide"
+  - "guide/begonia-care-guide"
+  - "guide/begonia-propagation"
+  - "guide/begonia-leaf-problems"
 baseProducts:
   - title: "ベゴニア / Begonia｜tokyoplants"
     url: "https://www.tokyoplants.com/categories/7114659"

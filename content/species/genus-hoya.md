@@ -15,6 +15,7 @@ relatedSlugs:
   - "species/hoya-kerrii"
   - "species/hoya-pubicalyx"
   - "guide/cats-and-houseplants-safety"
+  - "guide/hoya-propagation"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
