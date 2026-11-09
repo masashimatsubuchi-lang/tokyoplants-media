@@ -29,6 +29,10 @@ relatedSlugs:
   - "guide/jewel-alocasia-types-comparison"
   - "guide/cats-and-houseplants-safety"
   - "species/alocasia-stingray"
+  - "guide/alocasia-propagation"
+  - "species/alocasia-pink-dragon"
+  - "species/alocasia-bambino"
+  - "guide/alocasia-flower"
 baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"

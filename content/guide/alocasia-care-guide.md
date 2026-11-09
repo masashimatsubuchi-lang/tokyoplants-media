@@ -16,6 +16,8 @@ relatedSlugs:
   - "species/alocasia-amazonica"
   - "species/alocasia-dragon-scale"
   - "species/alocasia-frydek"
+  - "guide/alocasia-propagation"
+  - "guide/alocasia-flower"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"

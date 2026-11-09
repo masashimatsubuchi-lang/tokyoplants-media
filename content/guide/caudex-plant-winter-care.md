@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/stephania-dormancy-and-sprouting"
   - "guide/winter-hardiness-ranking-houseplants"
   - "review/caudex-plant-tools-comparison"
+  - "guide/stephania-tuber-rot"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

@@ -13,6 +13,7 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "species/stephania-erecta"
   - "guide/stephania-kaweesakii-complete-guide"
+  - "guide/stephania-tuber-rot"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

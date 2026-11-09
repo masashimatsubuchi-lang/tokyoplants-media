@@ -18,6 +18,7 @@ relatedSlugs:
   - "species/platycerium-ridleyi"
   - "species/genus-platycerium"
   - "soil/sphagnum-moss-recommended"
+  - "guide/platycerium-spore-propagation"
 baseProducts:
   - title: "ビカクシダの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382103"
@@ -95,7 +96,7 @@ amazonProducts:
 | スパーバム（*P. superbum*） | 出さない | UF/IFAS ENH36 |
 | リドレイ（*P. ridleyi*） | ほとんど出さない | [リドレイの図鑑](/species/platycerium-ridleyi) |
 
-子株を出さない種は、株分けでは増やせません。増やすなら胞子からの培養になり、年単位の時間がかかります。
+子株を出さない種は、株分けでは増やせません。増やすなら胞子からの培養になり、年単位の時間がかかります。手順と注意点は[ビカクシダの胞子培養](/guide/platycerium-spore-propagation)にまとめています。
 
 ---
 

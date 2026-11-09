@@ -15,6 +15,7 @@ relatedSlugs:
   - "species/genus-stephania"
   - "soil/best-soil-for-caudex-plants"
   - "guide/caudex-plant-winter-care"
+  - "guide/stephania-tuber-rot"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

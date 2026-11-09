@@ -18,6 +18,7 @@ relatedSlugs:
   - "species/stephania-suberosa"
   - "guide/stephania-dormancy-and-sprouting"
   - "species/stephania-venosa"
+  - "guide/stephania-tuber-rot"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

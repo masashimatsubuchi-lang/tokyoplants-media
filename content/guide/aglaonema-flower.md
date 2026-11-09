@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/aglaonema-cats-safety"
   - "species/aglaonema-varieties-catalog"
   - "guide/aglaonema-repotting"
+  - "guide/alocasia-flower"
 baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"

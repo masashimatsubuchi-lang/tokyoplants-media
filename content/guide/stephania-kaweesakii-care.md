@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "guide/root-rot-causes-and-recovery"
   - "soil/best-soil-for-caudex-plants"
+  - "guide/stephania-tuber-rot"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

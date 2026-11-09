@@ -13,6 +13,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/plant-not-recovering-after-repotting"
+  - "guide/alocasia-propagation"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
