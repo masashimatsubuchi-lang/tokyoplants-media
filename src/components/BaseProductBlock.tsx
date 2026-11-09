@@ -62,14 +62,14 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (product.image) return product.image;
 
     if (isSoilProduct(product)) return "/images/products/im-original-soil-main.jpg";
-    if (isTowelProduct(product)) return "/images/products/botanical-towel-main.jpg";
+    if (isTowelProduct(product)) return "/images/products/botanical-towel-door.jpg";
     if (isSocksProduct(product)) return "/images/products/botanical-socks-main.jpg";
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
     if (isMochiPot(product)) return "/images/products/mochi-pot-main.jpg";
     if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
     if (isRegale(product)) return "/images/products/anthurium-regale-group.jpg";
     if (isHolyGrail(product)) return "/images/products/alocasia-holy-grail-group.jpg";
-    if (isLeatherBotanical(product)) return "/images/products/leather-botanical-monstera-stand.jpg";
+    if (isLeatherBotanical(product)) return "/images/products/leather-botanical-monstera-pot.jpg";
     return undefined;
   };
 
@@ -193,7 +193,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
                 {isLB && (
                   <>
                     <p className="mt-1 text-[13px] leading-relaxed text-gray-500">
-                      SISHI CRAFT × tokyoplants。イタリアンレザーで一点一点手作業で仕立てた「革の植物」。
+                      SISHICRAFT × tokyoplants。イタリアンレザーで一点一点手作業で仕立てた「革の植物」。
                     </p>
                     <p className="mt-1 text-xs font-medium text-gray-500">受注生産・制作期間約1ヶ月</p>
                     <div className="mt-2 flex flex-wrap gap-1.5">

@@ -24,7 +24,7 @@ const PRODUCT_META: Record<ProductType, ProductMeta> = {
     // ここに入れると中央が切り取られて何も読めない。単品写真のままにすること。
     // 8種の見せ方は記事本文側の figure で行う。
     note: "モンステラ・アンスリウム・アロカシアの葉を写した全8種。約30×20cmのマイクロファイバーで、ループ付き・鍋敷きにもなる厚み。ギフトラッピング対応。",
-    img: "/images/products/botanical-towel-main.jpg",
+    img: "/images/products/botanical-towel-door.jpg",
   },
   holygrail: {
     heading: "tokyoplants で購入できます",

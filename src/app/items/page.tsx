@@ -54,7 +54,7 @@ const OWN_PRODUCTS = [
   {
     name: "Daily Botanical Towel",
     url: "https://www.tokyoplants.com/items/135803882",
-    image: "/images/products/botanical-towel-main.jpg",
+    image: "/images/products/botanical-towel-door.jpg",
     description:
       "モンステラ・アンスリウム・アロカシアの葉の形をしたマイクロファイバーのタオル（約30×20cm、全8種）。植物好きへのギフトに。",
     low: 2000,
@@ -72,7 +72,7 @@ const OWN_PRODUCTS = [
   {
     name: "Leather Botanical Collection（SISHICRAFT × tokyoplants）",
     url: "https://www.tokyoplants.com/categories/7318231",
-    image: "/images/products/leather-botanical-monstera-stand.jpg",
+    image: "/images/products/leather-botanical-monstera-pot.jpg",
     description:
       "台湾のレザーアーティストSISHICRAFTによる、植物タンニン鞣しレザーの「革の植物」。斑入りモンステラ（3枚葉・高さ約15cm）と、気根まで革で表現したタイコンステレーション。予約販売。",
     low: 19800,
