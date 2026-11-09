@@ -1,7 +1,8 @@
 import type { ParsedBlock } from "@/lib/articleBlocks";
 import type { AmazonProduct, BaseProduct } from "@/lib/posts";
 import { OWN_PRODUCTS, findOwnInBaseProducts, ownProductUrl } from "@/lib/ownProducts";
-import { amazonNote, amazonPrice } from "@/lib/amazonDisplay";
+import { amazonIsPrime, amazonPrice, amazonShortNote } from "@/lib/amazonDisplay";
+import PrimeBadge from "@/components/PrimeBadge";
 
 /**
  * 記事本文に埋め込む視覚ブロック群（2026-09-22導入）。
@@ -308,16 +309,18 @@ function AmazonCards({
               />
             )}
             <div className="min-w-0">
-              <p className="text-[13.5px] font-bold leading-snug text-zinc-800">{p.title}</p>
+              <p className="text-[13.5px] font-bold leading-snug text-zinc-800 line-clamp-2">{p.title}</p>
               {/* 価格は表示の段階で外している（SHOW_AMAZON_PRICES、データは frontmatter に残す） */}
               {amazonPrice(p.price) && <p className="mt-0.5 text-[13px] font-bold text-amber-800">{amazonPrice(p.price)}</p>}
-              {amazonNote(p.note) && <p className="mt-0.5 text-[11.5px] leading-snug text-zinc-500">{amazonNote(p.note)}</p>}
+              {/* 説明は最初の一文だけ。評価・確認日などの記録は frontmatter に残し、表示しない */}
+              {amazonShortNote(p.note) && <p className="mt-1 text-[12px] leading-snug text-zinc-600 line-clamp-1">{amazonShortNote(p.note)}</p>}
+              {amazonIsPrime(p.note) && <PrimeBadge className="mt-1.5" />}
             </div>
           </a>
         ))}
       </div>
       <p className="mt-2.5 text-[11px] text-zinc-500">
-        {block.note || "Amazonアソシエイトリンクを含みます。価格・在庫は変動します。"}
+        {block.note || "Amazonアソシエイトリンクを含みます"}
       </p>
     </section>
   );
@@ -414,14 +417,15 @@ function ProductCards({
                   />
                 )}
                 <div className="min-w-0">
-                  <p className="text-[13px] font-bold leading-snug text-zinc-800">{p.title}</p>
+                  <p className="text-[13px] font-bold leading-snug text-zinc-800 line-clamp-2">{p.title}</p>
                   {amazonPrice(p.price) && <p className="mt-0.5 text-[13px] font-bold text-amber-800">{amazonPrice(p.price)}</p>}
-                  {amazonNote(p.note) && <p className="mt-0.5 text-[11.5px] leading-snug text-zinc-500">{amazonNote(p.note)}</p>}
+                  {amazonShortNote(p.note) && <p className="mt-1 text-[12px] leading-snug text-zinc-600 line-clamp-1">{amazonShortNote(p.note)}</p>}
+                  {amazonIsPrime(p.note) && <PrimeBadge className="mt-1.5" />}
                 </div>
               </a>
             ))}
           </div>
-          <p className="mt-2.5 text-[11px] text-zinc-500">Amazonアソシエイトリンクを含みます。価格・在庫は変動します。</p>
+          <p className="mt-2.5 text-[11px] text-zinc-500">Amazonアソシエイトリンクを含みます</p>
         </>
       )}
     </section>

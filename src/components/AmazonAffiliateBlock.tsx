@@ -1,5 +1,6 @@
 import { AmazonProduct } from "@/lib/posts";
-import { amazonNote } from "@/lib/amazonDisplay";
+import { amazonIsPrime, amazonShortNote } from "@/lib/amazonDisplay";
+import PrimeBadge from "@/components/PrimeBadge";
 
 function addAssociateTag(url: string, associateTag?: string): string {
   if (!associateTag) return url;
@@ -88,10 +89,11 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
 
               <div className="min-w-0 flex-1">
                 <p className="text-[16px] font-semibold leading-snug text-gray-900 line-clamp-2">{product.title}</p>
-                {/* 説明文の中の価格は表示の段階で外している（SHOW_AMAZON_PRICES） */}
-                {amazonNote(product.note) && (
-                  <p className="mt-1 text-xs text-gray-500 line-clamp-2">{amazonNote(product.note)}</p>
+                {/* 説明は最初の一文だけ（評価・確認日などの記録は frontmatter に残し、表示しない） */}
+                {amazonShortNote(product.note) && (
+                  <p className="mt-1 text-[13px] text-gray-600 line-clamp-1">{amazonShortNote(product.note)}</p>
                 )}
+                {amazonIsPrime(product.note) && <PrimeBadge className="mt-1.5" />}
               </div>
             </a>
           );

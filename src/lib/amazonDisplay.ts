@@ -47,3 +47,32 @@ export function amazonNote(note: string | undefined): string | undefined {
     .trim();
   return stripped || undefined;
 }
+
+/**
+ * 商品カードに出す説明文を「最初の一文」だけにする（2026-11-10 オーナー指示「注釈が多い。必要最低限に」）。
+ *
+ * frontmatter の note には、選定の記録として評価・レビュー件数・確認日・在庫・販売元まで書いてある。
+ * これは監査用のデータなので消さずに残し、表示の段階で次のものを外す。
+ *   - 括弧書きの確認メモ（「（2026-11-09にAmazon商品ページで確認／在庫あり・Prime対象）」など）
+ *   - 評価・レビュー件数・在庫・販売元・価格だけの文
+ * 残った文の先頭1文だけを返す。何も残らなければ undefined。
+ */
+export function amazonShortNote(note: string | undefined): string | undefined {
+  if (!note) return undefined;
+  const meta = /★|評価|レビュー|\d[\d,]*\s*件|在庫|Prime|出荷元|販売元|Amazon評価|20\d\d-\d\d|で確認|確認済|取得|¥|グローバルレーティング/;
+  const cleaned = note
+    // 確認メモの括弧書き
+    .replace(/[（(][^）)]*(確認|取得|20\d\d|在庫|Prime|商品ページ)[^）)]*[）)]/g, "")
+    // 「Amazon評価 4.2 / 619件・¥3,780」のような先頭の評価表記
+    .replace(/Amazon評価\s*[\d.]+\s*\/\s*[\d,]+件[^。]*。?/g, "");
+  const first = cleaned
+    .split(/(?<=。)|\s\/\s|／/)
+    .map((s) => s.trim())
+    .find((s) => s && !meta.test(s));
+  return first ? first.replace(/。$/, "") : undefined;
+}
+
+/** note に Prime 対象と記録されている商品か（「Prime対象外」は除く） */
+export function amazonIsPrime(note: string | undefined): boolean {
+  return !!note && /Prime(?!\s?Video)/.test(note) && !/Prime(対象)?外|Prime非対象/.test(note);
+}
