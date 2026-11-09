@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/9ea1db9cf730ddb4a15b0a6339235522.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1591041755689-658d678ebe79?w=1200&q=80"
 title: "ベゴニアの冬越し、窓辺は夜だけ危ない｜12℃を目安に、水は乾いて3〜4日後"
 description: "観葉ベゴニアの冬の下限は品種で10〜15℃。夜の窓辺は部屋の中央より5〜10℃冷えるので鉢を離し、水は表土が乾いてから3〜4日待って午前中に。肥料と植え替えは春まで止めます。"
 date: "2026-11-09"

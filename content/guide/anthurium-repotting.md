@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/31280559be91f2d6fcf498c288ac8c2e.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1764132593056-0c3f58967acc?w=1200&q=80"
 title: "アンスリウムの植え替え｜5〜6月に、鉢は直径＋3cmまで、気根は切らない"
 description: "植え替えのサインは根の量より「水の抜け方」に出ます。買った株は元の水苔やピートを落としてから新しい用土へ。気根は切らずに覆い、鉢は浅めで一回りまで。"
 date: "2026-11-09"

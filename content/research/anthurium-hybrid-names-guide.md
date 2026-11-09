@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/6275dae6a1013aed89c2ddfacd565958.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1645443867688-ab98587194ae?w=1200&q=80"
 title: "アンスリウム交配株の読み方｜×の前は種親が通例、略号は品種や系統の名"
 description: "「A × B」は種をつけた株を前に書くのが通例ですが、逆順も混ざります。AOS・KOSは品種名、FSは系統名の略。NSE・SKGは育種元を指すとみられます。実生は1株ずつ違います。"
 date: "2026-11-09"

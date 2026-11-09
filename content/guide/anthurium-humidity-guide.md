@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/5c3a53f9bfd31c30206a6e7d0592cd3a.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1675519769092-aaf333ac8216?w=1200&q=80"
 title: "ビロード系アンスリウムの湿度は種で50〜80%超、部屋でなく株のまわりを上げる"
 description: "クラリネルビウムは50〜70%、クリスタリナムは70〜80%、ワロクアーナムは80%以上。60%を超える種は部屋ごと加湿せず、ケースで株のまわりだけを上げて風を止めない。"
 date: "2026-11-09"

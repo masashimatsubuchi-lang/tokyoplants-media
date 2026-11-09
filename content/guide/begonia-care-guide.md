@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/0c80993d10a1365eac2290e312560dbe.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1657401295497-9398fc915aff?w=1200&q=80"
 title: "観葉ベゴニアの育て方｜株元が這うか立つかで鉢・水・増やし方が変わる"
 description: "葉を楽しむベゴニアは、茎が土を這う根茎性なら浅鉢で乾かし気味、立ち上がる木立性なら標準鉢でやや多めの水。どちらも葉は濡らさず湿度は空気で保ち、冬は12℃を目安にします。"
 date: "2026-11-09"

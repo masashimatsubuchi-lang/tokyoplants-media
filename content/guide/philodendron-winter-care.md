@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/4265af6cea490ee50ea4b0268cdbf855.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1723470898311-446a07e0e6a7?w=1200&q=80"
 title: "フィロデンドロンの冬越しは10℃か15℃か｜斑入りと希少種は高い側"
 description: "ブラジルやセロームなど緑葉の丈夫な種は10℃、バーキン・ホワイトプリンセスなど斑入りや希少種は15℃が冬の下限。つる性・自立型・木立ち性の違い、温度別の水やり間隔まで。"
 date: "2026-11-09"

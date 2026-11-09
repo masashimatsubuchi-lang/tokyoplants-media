@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/aebb528660b1bc0743afbe591da677ef.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1783246949992-82686f129cdd?w=1200&q=80"
 title: "ビカクシダは胞子から育てられる？葉が出るまで半年〜1年半、勝負は雑菌対策"
 description: "胞子は前葉体という小さな株を経て、受精してから葉が出ます。研究例では半年〜1年半。熱湯で消毒した水苔に薄く播き、ふたをして明るい日陰で待つ手順とカビ対策まで。"
 date: "2026-11-09"

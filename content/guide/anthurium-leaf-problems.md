@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/0cf9c1293ed3b7216b211779e460f0ad.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1610085599393-bca33b1de4e4?w=1200&q=80"
 title: "アンスリウムの葉が黄色い・茶色い｜古い葉か新葉か、縁か斑点かで原因が分かれる"
 description: "下葉が1枚ずつ黄色くなるのは寿命、新葉や複数枚なら根と温度を疑う。縁から乾くなら乾燥、水がしみたような斑点に黄色い帯なら病気。新葉が開かない・破れるのは展開中の湿度不足が多い。"
 date: "2026-11-09"

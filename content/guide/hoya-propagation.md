@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/8285047619b88077ee15292327c9a84a.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1604066493507-4f90ecf5fd57?w=1200&q=80"
 title: "ホヤの増やし方｜葉1枚の葉挿しはまずつるが出ない、挿し穂は2〜3節"
 description: "新しいつるは節の芽から出るため、節のない葉挿しは根が出ても伸びないのが普通。挿し穂は2〜3節、切り口を乾かしてから挿す。水挿し・水苔挿し・茎伏せの使い分けと発根の目安。"
 date: "2026-11-09"

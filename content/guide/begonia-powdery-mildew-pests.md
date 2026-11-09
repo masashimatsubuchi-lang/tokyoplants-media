@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/b897c73dcee184dd2d07c3c034fd1593.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1560241517-3370681b823b?w=1200&q=80"
 title: "ベゴニアの病気と害虫｜白い粉はうどんこ病、灰色の毛羽は灰色かび病"
 description: "ベゴニアに多いうどんこ病・灰色かび病・腐敗と、ハダニ・ホコリダニ・カイガラムシの見分け方と対処。薬はベゴニアに使える行を農薬登録の適用表で確認したものだけ登録番号つきで載せます。"
 date: "2026-11-09"

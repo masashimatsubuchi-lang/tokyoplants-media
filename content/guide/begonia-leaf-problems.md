@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/e85ade1f9217cb9283d512018faeaf94.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1630688442526-e5d6cd490d58?w=1200&q=80"
 title: "ベゴニアの葉が茶色い・溶けるのはなぜ？縁なら乾燥、付け根なら腐りを疑う"
 description: "ベゴニアの葉の不調は、傷み始めた場所で原因が絞れます。縁から均一に茶色なら乾燥か暖房の風、付け根から黒く溶けるなら根茎や茎の腐り。縮れ・落葉・斑点の見分け方と対処も整理します。"
 date: "2026-11-09"

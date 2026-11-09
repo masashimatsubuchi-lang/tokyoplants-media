@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/2d8ef8c6e57063514d2c4a0d1e5830eb.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1623910935955-ff2600772d24?w=1200&q=80"
 title: "ステファニアの塊根がしぼむ・柔らかい｜しわなら様子見、押して凹めば腐敗を疑う"
 description: "硬いまましわが寄るのは休眠中の水分消費か根がない状態で、水を足すかどうかは季節で決めます。押して凹んで戻らない、黒ずむ、臭うなら腐敗。鉢から出して健全な組織まで切ります。"
 date: "2026-11-09"

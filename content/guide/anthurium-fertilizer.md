@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/9fe0300067359724e5fbc64d600a2ac6.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1759827767985-b14b62b04d43?w=1200&q=80"
 title: "アンスリウムの肥料｜ビロード系は規定の半分以下、花ものはリン酸多めで"
 description: "葉ものは薄い液肥を2週間〜月1回、花ものはリン酸の多い肥料で葉を止めない。与えるのは夜15℃以上の4〜9月だけ。植え替え後と冬は止め、葉先が焼けたら水で流します。"
 date: "2026-11-09"

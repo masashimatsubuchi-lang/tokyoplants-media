@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/c8ce9475f534b6117f7ed411d51baf34.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1644759633460-0f0a264edcc5?w=1200&q=80"
 title: "アロカシアの増やし方｜子芋は25℃の密閉ケースで起こし、芋を割れば数が増える"
 description: "根つきの子株があれば株分け、土から出てきた小さな芋は湿らせた水苔と透明ケースで芽を出させます。芋を割ると株数は増えますが、1株ずつの育ちは丸ごとの芋に劣ります。"
 date: "2026-11-09"

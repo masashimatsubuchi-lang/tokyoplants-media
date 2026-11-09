@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/9d7c471fd75af3da61f551474e37fdbe.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1713274843972-660ec72102bc?w=1200&q=80"
 title: "ビカクシダに肥料は必要？大株は年1〜2回、伸ばしたい株は月1〜2回"
 description: "与えなくても枯れにくい植物ですが、5〜10月に薄めた液肥か少量の固形肥料を足すと成長が早まります。板付けは液肥か貯水葉裏の置き肥、冬と株分け直後は与えないのが基本です。"
 date: "2026-11-09"

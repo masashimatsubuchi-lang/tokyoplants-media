@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/971b555fcd700f2f47a5412505ea2034.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1628328296210-85c37b6ea43e?w=1200&q=80"
 title: "ビカクシダの子株の外し方｜貯水葉2〜3枚・根つきで5〜7月に"
 description: "子株は自前の根と貯水葉2〜3枚がそろい、新しい貯水葉が伸びている最中でない時期に外します。成長点を傷つけない切る位置、親株の穴埋め、板付けと小鉢の選び方まで手順で解説します。"
 date: "2026-11-09"

@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/0712185dfc561835a4f22fa97e169958.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1641977563529-7b617571393d?w=1200&q=80"
 title: "フィロデンドロンの肥料｜4〜9月に2週間に1回、買って1か月は与えない"
 description: "大株は表示の濃さ、ビロード系・斑入り・小株はその半分が目安。室内に置いて4週間は与えず、冬は止めます。巻いた新葉に液肥が残ると斑点になるので株元に注ぎます。"
 date: "2026-11-09"

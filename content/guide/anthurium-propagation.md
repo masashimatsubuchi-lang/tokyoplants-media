@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/5b6d048ddaa5db4652d72a1c82a66a6f.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1715887643348-4d8f945cb0e3?w=1200&q=80"
 title: "アンスリウムの増やし方｜子株があれば株分け、茎が伸びたら頂部を切る"
 description: "根元に子株が出ていれば株分けが最も確実。茎が立ち上がった株は気根ごと頂部を切ると、親株からも脇芽が出ます。実生は実が熟すまで5〜8か月、播くのは取り出した直後。"
 date: "2026-11-09"

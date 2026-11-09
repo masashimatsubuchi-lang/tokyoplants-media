@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/1495a25e0e33d86d676bfd3e04a5225d.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1713714079586-492144e22263?w=1200&q=80"
 title: "フィロデンドロンの葉が黄色い・茶色い｜鞘なら正常、下葉が続くなら根"
 description: "新葉を包んでいた茶色い鞘（カタフィル）と最下葉1枚の黄変は正常。下葉が次々黄色いなら根、新葉の葉先が茶色いなら乾燥を疑う。V字の黄変や葉縁の褐変など模様の見方まで。"
 date: "2026-11-09"

@@ -1,5 +1,5 @@
 ---
-image: "https://baseec-img-mng.akamaized.net/images/item/origin/ea067f950910e7a193e661166b6306f6.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
+image: "https://images.unsplash.com/photo-1710091495365-c661cb05fb55?w=1200&q=80"
 title: "ベゴニアの増やし方｜根茎性は葉1枚からでも増える、木立性は茎挿しで"
 description: "根茎性ベゴニアは根茎伏せ・葉挿し・株分け、木立性は節を含む茎挿しが基本。斑入り株は葉挿しで斑が抜けやすいので茎か根茎で増やします。適期は5〜6月と9月、湿らせすぎないのがコツ。"
 date: "2026-11-09"
