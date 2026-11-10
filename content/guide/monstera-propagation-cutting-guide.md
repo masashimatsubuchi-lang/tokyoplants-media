@@ -20,6 +20,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節の少し下を、茎をつぶさずに切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "土挿し用に観葉植物用土へ多めに混ぜ、湿りすぎを防ぐ。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "茎伏せで、気根が接する部分を覆って乾燥を防ぐ水苔。評価★4.0・レビュー2,673件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
 ---
 
 # モンステラの増やし方｜節のない茎は根が出ない、適期は5〜8月
@@ -67,6 +83,11 @@ baseProducts:
 - 清潔なハサミまたはカッター（アルコール消毒推奨）
 - 発根させる容器（水挿し用の透明容器、または土挿し用の小鉢）
 - 観葉植物用の土（土挿し・茎伏せの場合）
+
+刃物と、土挿し用に混ぜるパーライト、茎伏せで気根を覆う水苔はAmazonでもそろいます。刃は使う前にアルコールで拭いてください。
+
+<!-- amazon-cards title="挿し木・茎伏せの準備に" -->
+<!-- /amazon-cards -->
 
 ### STEP1: 切る部位を選ぶ
 

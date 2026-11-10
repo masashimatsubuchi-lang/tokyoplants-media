@@ -21,6 +21,17 @@ baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。麻ひも・結束バンド・面ファスナーが付属（商品ページの表示）。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
+    price: "¥1,349"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "支柱を湿らせて、気根を食い込みやすくするための霧吹き。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 # エピプレムナム・セブブルーの育て方｜青い葉と切れ込みが出る条件
@@ -187,6 +198,11 @@ baseProducts:
 4. **ポールを湿らせる**：モスポールなら霧吹きで水苔を湿らせる。気根が食い込みやすくなる
 5. **上へ伸ばし続ける**：先端が支柱の天辺に達したら、支柱を継ぎ足すか切り戻す。切り戻した先端は挿し穂に使える
 <!-- /steps -->
+
+ヘゴ棒やモスポールの代わりに使える、ココヤシ繊維を巻いた支柱と、支柱を湿らせる霧吹きの例です。
+
+<!-- amazon-cards title="登らせて切れ込みを出す支柱と霧吹き" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

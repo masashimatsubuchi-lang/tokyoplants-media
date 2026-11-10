@@ -23,6 +23,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉を濡らさずに、空気側から湿度を上げられるスチーム式。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそばの湿度が50〜70%に収まっているかを、数字で確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # ベゴニア・レックス｜カラーリーフの王様｜育て方と品種の選び方図鑑
@@ -202,6 +213,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 じょうろで上からあげると、うっかり葉にかかりがちだよ。株元にピンポイントで注げる細口タイプのじょうろを使うと、葉を濡らさずに水やりしやすくなるよ。水やりの日付を記録しておくと、季節ごとの間隔のズレにも自分で気づけるようになる。
 <!-- /character-note -->
+
+空気側から湿度を上げる加湿器と、株のそばの湿度を確かめる温湿度計の例です。加湿器は本文のとおり株から少し離し、蒸気が葉に直接かからない向きに置きます。
+
+<!-- amazon-cards title="葉を濡らさずに湿度を保つ" -->
+<!-- /amazon-cards -->
 
 ### 土と鉢——浅く、軽く
 

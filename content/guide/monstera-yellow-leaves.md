@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "鉢の中まで乾いたかを、色の変化で知らせる水分計。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "夜の窓際でも室温10℃以上を保てているかを、グラフで見返せる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "茶色〜黒くぶよぶよした根や、枯れた葉を付け根から切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # モンステラの葉が黄色いのは寿命？下葉1枚なら様子見、新葉なら過湿を疑う
@@ -163,6 +179,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 黄変に気づいた日と、その前の水やり日をメモしておくと、次に同じ症状が出たときの原因がぐっと絞り込みやすくなるよ。水やりの記録をアプリでつけている人は、そこを見返すのが一番の近道だね。
 <!-- /character-note -->
+
+チェックリストの土の乾き具合・室温の確認と、傷んだ根の切除に使える道具です。
+
+<!-- amazon-cards title="原因の切り分けと根の手当てに" -->
+<!-- /amazon-cards -->
 
 ---
 

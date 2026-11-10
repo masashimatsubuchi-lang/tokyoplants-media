@@ -22,6 +22,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "水で戻して軽く絞り、穂を寝かせる挿し床にする水苔。評価★4.0・レビュー2,673件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "容器の壁に霧を吹き、穂を濡らしすぎずに中の空気を湿らせる。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 ランは増やすのが難しい——そう思われがちですが、ジュエルオーキッドは例外です。茎を切って湿らせた水苔に置いておくだけで、節から根が出てきます。胡蝶蘭のように無菌播種の設備を用意する必要はありません。
@@ -80,6 +91,11 @@ baseProducts:
 - 水苔（水で戻して軽く絞ったもの）
 - 蓋つきの容器、またはビニール袋
 - 浅めの器やトレー
+
+挿し床の水苔と、容器の中を湿らせる霧吹きはAmazonでもそろいます。
+
+<!-- amazon-cards title="茎挿しの挿し床と保湿に" -->
+<!-- /amazon-cards -->
 
 <!-- steps title="茎挿しの手順" -->
 1. **穂を選ぶ**：葉が健全で、茎が充実している部分を選ぶ。節を2〜3個含む長さに

@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の商品一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "鉢に挿しておき、土の中まで乾いたことを色で知らせる。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用の培養土に2〜3割混ぜ、排水性を上げるパーライト。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
 ---
 
 # ペペロミア・ホープの育て方｜垂れる多肉葉が可愛い交配種図鑑
@@ -107,6 +118,11 @@ baseProducts:
 ### 植え替え
 
 根の成長がゆっくりなため、2〜3年に1回で十分。適期は5〜6月。
+
+「完全に乾いてから」を見極める水分計と、用土に混ぜるパーライトはAmazonでも手に入ります。
+
+<!-- amazon-cards title="乾いてから与える水やりと、軽い用土に" -->
+<!-- /amazon-cards -->
 
 ---
 

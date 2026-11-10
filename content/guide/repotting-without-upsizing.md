@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "根鉢の外周の切り詰めにも、伸びた枝の切り戻しにも使える剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "同じ鉢に戻すとき、鉢底に敷き直す切って使うタイプのネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土を落とす作業で、床に土を広げない折りたたみ式の防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 「観葉植物を育てているけど、これ以上大きくなったら置き場所がない」「今のサイズが気に入っているから維持したい」——こうした悩みを持つ方は多いです。
@@ -72,6 +88,11 @@ baseProducts:
 - 鉢底石・鉢底ネット
 - 新聞紙やブルーシート
 - アルコール消毒液
+
+必要な道具のうち、剪定ばさみ・鉢底ネット・作業用のシートはAmazonでもそろいます。
+
+<!-- amazon-cards title="サイズ維持の植え替えの道具" -->
+<!-- /amazon-cards -->
 
 ### ステップ1：鉢から抜く
 

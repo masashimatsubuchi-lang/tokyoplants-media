@@ -18,6 +18,17 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "冬に30〜40%まで下がる室内の湿度を、空気側から底上げする。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそばの湿度が60%に届いているかを、数字とグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # アグラオネマ・ピクタム｜タイの園芸品種とは別物、スマトラ島だけの原種
@@ -171,6 +182,11 @@ GBIFの分布データでは、自生域はスマトラとされ、アッサム�
 <!-- character-note character="shadee" type="warning" -->
 気をつけたいのは、「空気が湿っている」ことと「土が湿っている」ことは別だということ。加湿器を使うと土の乾きが遅くなるから、湿度を上げたぶん水やりの間隔は空けてあげてね。
 <!-- /character-note -->
+
+表の「加湿器を株の近くで運転」を続けるなら、株のそばに温湿度計も置くと、加湿の効き具合を数字で確かめられます。加湿器は蒸気が葉に直接当たらない向きに置いてください。
+
+<!-- amazon-cards title="冬の湿度を上げる・測る" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "HaruDesign 植物育成ヒートマット SA-12C（55×35cm・温度調整コントローラー付き）"
+    asin: "B0FR9CFQ6X"
+    image: "https://m.media-amazon.com/images/I/61uq3Ue7VcL._AC_SL200_.jpg"
+    note: "冬に増やすとき、挿し穂の容器を下から温める温度調整つきのマット。評価★4.4・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
+    price: "¥3,540"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "挿し穂の横に置き、夜にどこまで冷えたかをグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "茎をつぶさずに切り直せる、切れ味のよい剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # 水挿し・挿し木が発根しない、腐る｜節はある？20℃ある？水は換えてる？
@@ -100,6 +116,11 @@ baseProducts:
 ### STEP5: 道具と切り口の衛生を確認する
 
 ハサミやカッターを消毒せずに使い回すと、前の株についていた病原菌が切り口から侵入することがあります。アルコール消毒した清潔な刃物を使い、切り口は雑菌が侵入しにくいよう斜めにカットして表面積を確保します。発根促進剤を使う場合の選び方は[発根促進剤（ルートン・オキシベロン・メネデール）の違い](/review/rooting-hormone-powder-comparison)で解説しています。
+
+STEP2の夜間の温度確認と局所的な加温、STEP5の清潔な刃物に使える道具です。刃は使う前にアルコールで拭いてください。
+
+<!-- amazon-cards title="夜の冷え込みの確認・加温と、切り直しの刃物" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

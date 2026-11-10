@@ -19,6 +19,17 @@ baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くに置き、湿度60〜70%を保てているかをグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "細かい葉を濡らさずに、部屋の空気側から湿度を上げるスチーム式。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # フィランサス・ウリナリア ピンク斑入り｜夜に葉を閉じる斑入り株の図鑑
@@ -157,6 +168,11 @@ baseProducts:
 ### 湿度
 
 60〜70%を目安にします。エアコンで乾燥した部屋では葉先から茶色く傷み、ハダニも出やすくなります。加湿器を併用するか、鉢底が水に浸からないようにした腰水トレー（[受け皿に石を敷く方法](/guide/pebble-tray-humidity-guide)）で空間湿度を確保してください。細かい葉に霧吹きを強く当てると葉が傷むため、株に直接吹きかけるより空間を湿らせるほうが安全です。
+
+湿度は株のそばの温湿度計で確かめ、上げるときは葉を濡らさない加湿器で空気側から補います。加湿器は蒸気が株に直接当たらない位置に置いてください。
+
+<!-- amazon-cards title="湿度60〜70%を測る・保つ" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

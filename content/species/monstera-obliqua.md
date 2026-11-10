@@ -24,6 +24,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "加湿器と組み合わせ、湿度70%以上を保てているかを確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "単用でも、バークに混ぜても使える長繊維の水苔。評価★4.1・レビュー35件（2026-11-10にAmazon商品ページで確認／在庫あり（残り6点）・Prime対象・Amazon出荷）"
+    price: "¥2,180"
+  - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
+    asin: "B000IAA00M"
+    image: "https://m.media-amazon.com/images/I/61GAEW256zL._AC_SL200_.jpg"
+    note: "バーク主体の配合のベースにする、醗酵処理した洋らん用バーク。評価★4.0・レビュー590件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥909"
 ---
 
 # モンステラ・オブリクア｜穴だらけの葉が特徴の希少種の育て方図鑑
@@ -176,6 +192,11 @@ baseProducts:
 - **推奨配合例**：水苔100%、またはバーク60%＋水苔30%＋パーライト10%
 - **鉢の選択**：スリット鉢・テラコッタ鉢など通気性の高い素材が適する
 - **鉢サイズ**：根の量に合ったコンパクトなサイズを選ぶ（大きすぎると過湿になりやすい）
+
+本文の「スマート温湿度計」と、水苔単用またはバーク主体の配合に使う資材の例です。
+
+<!-- amazon-cards title="高湿度の確認と、着生向けの培地に" -->
+<!-- /amazon-cards -->
 
 ---
 

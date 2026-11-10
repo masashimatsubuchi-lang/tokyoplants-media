@@ -23,6 +23,22 @@ baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"
     price: ""
+amazonProducts:
+  - title: "KINCHO園芸（旧 住友化学園芸）培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 2L"
+    asin: "B0DP6XGJPD"
+    image: "https://m.media-amazon.com/images/I/71c+naQ1QML._AC_SL200_.jpg"
+    note: "鹿沼土ベースに軽石やパーライトを混ぜた、塊根植物向けの土。評価★3.9・レビュー123件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥475"
+  - title: "花ごころ さぼてん多肉植物の土 5L"
+    asin: "B000IAA2F0"
+    image: "https://m.media-amazon.com/images/I/81TYDRE7U3L._AC_SL200_.jpg"
+    note: "排水性を重視した、サボテン・多肉植物用の培養土。評価★4.2・レビュー1,461件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥636"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "配合済みの土に混ぜ、塊根まわりの水はけをさらに上げる小粒の軽石。評価★4.2・レビュー39件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥576"
 ---
 
 ## ステファニア属とは
@@ -129,6 +145,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 一般的な観葉植物用の培養土をそのまま使うと保水力が高すぎることが多い。ステファニアのような塊根植物には、庭土や多肉植物用の配合済み用土を活用する方が失敗が少ないよ。
 <!-- /character-note -->
+
+本文の「塊根植物用の土」にあたる配合済みの用土と、粗さを足す軽石の例です。
+
+<!-- amazon-cards title="塊根を腐らせない、水はけ優先の土" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

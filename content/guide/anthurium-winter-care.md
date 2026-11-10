@@ -27,6 +27,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそばの温度と湿度を、1台で同時に確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "暖房で30%台まで落ちた部屋の湿度を、空気側から底上げする。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # アンスリウムの冬越し｜15℃ラインと湿度
@@ -121,6 +132,11 @@ baseProducts:
 5. **加湿器で底上げする**：冬の室内湿度は45〜60%を軸に管理する。ビロード葉系はさらに高めを狙う
 
 加湿器の選び方と、加湿しすぎたときの除湿の考え方は[冬の湿度管理｜加湿器と除湿機の使い分け](/review/winter-humidity-control-humidifier-dehumidifier)で解説しています。
+
+手順4の温湿度計と、手順5の加湿器の一例です。加湿器は蒸気が葉に直接当たらない位置に置いてください。
+
+<!-- amazon-cards title="株のそばの温湿度を測る・湿度を上げる" -->
+<!-- /amazon-cards -->
 
 ### 春の復帰手順
 
