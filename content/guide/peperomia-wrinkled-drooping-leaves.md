@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "窓際の夜の冷え込みが15℃を割っていないかを、記録で確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く変色した根や茎を、つぶさずに切り取れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # ペペロミアの葉がしわしわ・下向きにしおれる原因と対策
@@ -77,6 +88,11 @@ baseProducts:
 ### 低温ダメージの場合
 
 15℃以上を目安に、暖かい場所へ移動させます。冬季のエアコン停止時間帯や窓際の冷え込みにも注意しましょう。
+
+冷え込みの確認に使う温湿度計と、腐敗部分の切除に使う剪定ばさみの例です。はさみは使う前と後にアルコールで拭いておきます。
+
+<!-- amazon-cards title="置き場所の温度を測る温湿度計と、傷んだ部分を切るはさみ" -->
+<!-- /amazon-cards -->
 
 ### 今後の予防
 

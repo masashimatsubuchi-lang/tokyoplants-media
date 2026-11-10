@@ -23,6 +23,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節のすぐ上で、枝をつぶさずに切り戻せる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "薄める倍率で、規定の半分の濃さに調整しやすい液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 「今の大きさがちょうどいいのに、毎年どんどん伸びて天井に届きそう」「引っ越し先の部屋には今より大きい株は置けない」——観葉植物が順調に育つほど出てくる悩みです。ところが、大きくしたくない一心で水や光を減らすと、サイズは止まっても見た目がどんどん悪くなります。<mark>サイズを保つ管理は「元気に育てる管理」と対立しません。抑えてよいレバーと、絶対に絞ってはいけないレバーが決まっているだけです。</mark>この記事では、どこを抑えればサイズが止まり、どこを抑えると植物が傷むのかを整理します。
@@ -96,6 +107,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 「どこまで小さくするか」を先に決めてから切ると失敗しにくい。切ったあと伸びてくるのは切り口のすぐ下からだから、最終的な高さより一節ぶん低い位置を狙うとちょうどよく収まるよ。
 <!-- /character-note -->
+
+剪定に使うはさみと、規定の半分に調整しやすい液体肥料の例です。液体肥料は表示の倍率の2倍に薄めれば、濃さを半分にできます。
+
+<!-- amazon-cards title="切り戻しのはさみと、半量で与える液体肥料" -->
+<!-- /amazon-cards -->
 
 ### 剪定のタイミング
 

@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "シンワ測定 土壌酸度計 A 72724"
+    asin: "B000E5ZLSC"
+    image: "https://m.media-amazon.com/images/I/516Q4G7BXRL._AC_SL200_.jpg"
+    note: "土に挿して針で読む、電池不要の土壌酸度計。測定範囲はpH4.0〜7.0・精度±pH0.5で、測定前に土を湿らせて使う（商品ページの表示）。7を超えるアルカリ側は数値で読めない。評価★4.1・レビュー2,704件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥4,110"
+  - title: "大宮グリーンサービス 苦土石灰（粉状）1kg"
+    asin: "B00JUIO1C6"
+    image: "https://m.media-amazon.com/images/I/81LUZzmsc6L._AC_SL200_.jpg"
+    note: "酸性に傾いた土に少量ずつ混ぜる、粉状の苦土石灰。評価★4.2・レビュー115件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥698"
+  - title: "サンアンドホープ カキガラ有機石灰 1kg"
+    asin: "B0756WL4FN"
+    image: "https://m.media-amazon.com/images/I/91nf5V7BjvL._AC_SL200_.jpg"
+    note: "苦土石灰より穏やかに効く、カキ殻原料の有機石灰。すぐに植え付けできると表示されている（商品ページの表示）。評価★4.1・レビュー914件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥362"
 ---
 
 「葉が黄色くなる」「肥料を与えているのに元気がない」——こうした症状の原因が、実は土のpHにあることがあります。
@@ -141,6 +157,11 @@ baseProducts:
 ### 有機石灰（カキ殻石灰）を使う
 
 苦土石灰より穏やかに効くため、入れすぎのリスクが少ないです。1Lの土に対して2〜3gが目安です。
+
+差し込み式の土壌酸度計と、本文の苦土石灰・有機石灰（カキ殻石灰）の例です。どちらの石灰も1Lの土に数gと少量で効くので、測りながら少しずつ加えます。
+
+<!-- amazon-cards title="pHを測る酸度計と、酸性に傾いた土を戻す石灰" -->
+<!-- /amazon-cards -->
 
 ---
 

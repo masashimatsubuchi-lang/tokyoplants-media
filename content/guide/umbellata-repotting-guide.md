@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切り、土の流出と害虫の侵入を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "茶色く柔らかい根を、健康な白い部分まで切り取る。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土を落とす作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 # ウンベラータの植え替え、10月は遅い？最適は5〜6月、秋は緊急時だけ
@@ -133,6 +149,11 @@ baseProducts:
 ウンベラータは水を好みながらも「根が蒸れる環境」を極端に嫌います。市販の一般的な培養土だと水はけが不十分なことも多く、根腐れリスクが上がります。軽石やパーライトを混ぜて排水性を高めた配合が理想的です。
 
 tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） 』はココチップ・日向石・蘭の発酵樹皮などを配合した観葉植物専用土で、ウンベラータのような水はけを好む植物に適した通気性と保水性のバランスが整っています。植え替えのたびに土の配合を考える手間が省けるので便利です。
+
+上のリストのうち鉢底ネットと根の整理用のはさみ、新聞紙の代わりに敷ける防水シートの例です。はさみは使う前にアルコールで消毒してください。
+
+<!-- amazon-cards title="植え替えの準備に使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

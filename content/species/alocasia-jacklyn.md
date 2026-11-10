@@ -26,6 +26,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くに置き、湿度が60〜80%に届いているかを確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉水だけでは届かない部屋の湿度を、空気側から上げる。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # アロカシア・ジャックリンは成株で高さ1〜1.5m、学名の意味は鹿の角
@@ -102,6 +113,11 @@ baseProducts:
 ### 温度・湿度
 
 生育適温は20〜28℃。原産地がやや標高の高い山地林であるため、他のアロカシアよりも低温に強い可能性が報告されているが、室内での安定した管理を考えるなら15℃以上を目安にするのが無難だ。湿度は60〜80%、できれば70%以上を維持すると、葉の展開がスムーズになり葉先の傷みも防ぎやすい。
+
+湿度60〜80%を確かめる温湿度計と、部屋の湿度を上げる加湿器の例です。加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="湿度を測る温湿度計と、湿度を上げる加湿器" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

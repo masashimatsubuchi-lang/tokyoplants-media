@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "気根の1〜2cm下を、茎をつぶさずに切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "土挿しの挿し床に使う、粒径4〜7mmの赤玉土の小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "赤玉土に多めに混ぜ、挿し床の通気を上げる白い粒。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
 ---
 
 # ポトスの増やし方｜水挿し・土挿しの手順と失敗しないコツ
@@ -96,6 +112,11 @@ baseProducts:
 ### 方法B: 土挿しの補足
 
 袋やカップで覆うと湿度が保てて成功率が上がりますが、締め切ったままだと蒸れてカビが出るため、毎日数分の換気は欠かさないようにします。発根の様子が見えない分、新芽の展開を「発根した合図」として管理を切り替えます。
+
+STEP1で節の下を切る剪定ばさみと、土挿しの挿し床にする赤玉土小粒・パーライトの例です。
+
+<!-- amazon-cards title="挿し穂を切るはさみと、土挿しの用土" -->
+<!-- /amazon-cards -->
 
 ## 発根後の管理
 

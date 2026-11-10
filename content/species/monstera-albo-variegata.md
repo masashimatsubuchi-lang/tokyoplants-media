@@ -36,6 +36,22 @@ siblings:
     role: "ミント単体"
   - slug: "species/variegated-monstera-types-comparison"
     role: "7品種の比較"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "E26ソケットに付けて使う、電球型の育成ライト。直下約40cmで照度43,500lx・PPFD700と表示されている（商品ページの表示）ため、目安の4,000〜8,000luxに合わせるには距離を大きくとる。ソケットは別売り。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥2,978"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くの湿度が60〜70%にあるかを、数字で確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "白い斑を傷めやすい乾燥を、部屋の湿度から補う。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # モンステラ・アルボとは？白斑はキメラ変異で、組織培養でも量産が難しい
@@ -108,6 +124,11 @@ siblings:
 ### 湿度
 
 60〜70%が理想。白い斑部分は乾燥に弱く湿度不足で傷みやすい。加湿器の使用を推奨する。ただし通気が悪いと蒸れて根腐れしやすくなるため、湿度を上げながら風通しも確保することが重要。
+
+窓辺の光が足りない場所で使える育成ライトと、湿度60〜70%を確かめる温湿度計・加湿器の例です。ライトは白い斑が焼けないよう近づけすぎず、加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="光を足す育成ライトと、湿度を測る・上げる道具" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

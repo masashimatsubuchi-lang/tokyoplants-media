@@ -20,6 +20,22 @@ baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"
     price: "¥6,800〜"
+amazonProducts:
+  - title: "花ごころ 洋らんの培養土 軽石で根腐れ防止 2L"
+    asin: "B000IABT4I"
+    image: "https://m.media-amazon.com/images/I/71EJ0mXDMCL._AC_SL200_.jpg"
+    note: "そのまま使える、軽石とバーク入りの市販の洋ラン用培養土。主原料は軽石・ココナッツハスク・バーク・ゼオライト（商品ページの表示）。評価★4.0・レビュー211件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥413"
+  - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
+    asin: "B000IAA00M"
+    image: "https://m.media-amazon.com/images/I/61GAEW256zL._AC_SL200_.jpg"
+    note: "日向土や軽石と混ぜ、粗い用土を自分で組むベースに。主原料はバークチップとココナッツハスク（商品ページの表示）。評価★4.0・レビュー590件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥909"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "規定量の1/3〜1/2に薄め、タンクではなく用土側に与える。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # ネオレゲリアが緑に戻るのはたいてい光不足、赤は明るいほど濃くなる
@@ -154,6 +170,11 @@ NC State Extensionはネオレゲリアに「ラン用に作られたバーク�
 <!-- character-note character="kuro" type="tip" -->
 鉢は小さめでいい。ネオレゲリアの根は体を支えるのが主な仕事だから、大きな鉢に植えると余った用土がいつまでも乾かず、かえって根を傷める。株が倒れない最小サイズが正解だよ。
 <!-- /character-note -->
+
+本文の「市販の洋ラン用培養土」「ラン用バーク」にあたる用土と、薄めて用土側に与える液体肥料の例です。
+
+<!-- amazon-cards title="植え込み材と、薄めて使う液体肥料" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

@@ -28,6 +28,22 @@ siblings:
     role: "ルディシア図鑑"
   - slug: "species/macodes-petola"
     role: "マコデス図鑑"
+amazonProducts:
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "配合の水苔に、または水苔単体の植え込みに使う。評価★4.0・レビュー2,674件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "バーク・水苔と混ぜ、配合の通気を受け持つ白い粒。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の置き場所が15℃を割っていないかを、記録で確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 ビロードのような黒紫の葉に、細い赤い線が何本も走る——ルディシア・ディスカラーは、ジュエルオーキッドと呼ばれる一群のなかで最も多く流通し、最も育てやすい種です。
@@ -184,6 +200,11 @@ NParksは水の好みを「中程度、湿り気はあるが水はけのよい�
 RHSの耐寒性区分はH1A、最低温度15℃超です。生育の快適域は18〜27℃程度で、30℃を大きく超える高温が続くと動きが止まります。
 
 湿度は高いほど葉の状態が良くなりますが、ルディシアに限っては50%程度でも維持できます。60%以上を保てると葉先の傷みがほぼなくなります。冬の具体的な対策は[ジュエルオーキッドの冬越し](/guide/jewel-orchid-winter-care)へ。
+
+配合例の水苔・パーライトと、冬に15℃を割らせないための温湿度計の例です。バークは細〜中粒のものを合わせます。
+
+<!-- amazon-cards title="配合に使う水苔・パーライトと、冬の温度を測る温湿度計" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

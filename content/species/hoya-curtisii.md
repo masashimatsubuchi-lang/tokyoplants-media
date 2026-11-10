@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用土に20〜30%混ぜ、水はけを上げる白い粒。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "配合に30%ほど加える、粒径4〜7mmの赤玉土の小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "生育期に、規定量の半分に薄めて月1回与える液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # ホヤ・カーティシーの育て方｜小さな葉に銀の模様が美しいミニホヤ
@@ -99,6 +115,11 @@ baseProducts:
 ### 肥料
 
 生育期（4〜9月）に月1回、窒素・リン・カリウムのバランスが取れた液体肥料を規定量の半分で与えます。小型株なので施肥量は少量で十分です。開花を促したい場合はリン（P）の比率が高い肥料（「花・実用」タイプ）を生育後半（8〜9月）に使用することで開花しやすくなります。秋以降は施肥を停止し、冬期は完全に休止します。
+
+観葉植物用土に混ぜるパーライト・赤玉土小粒と、生育期に半分の濃さで与える液体肥料の例です。
+
+<!-- amazon-cards title="用土に混ぜる素材と、薄めて使う液体肥料" -->
+<!-- /amazon-cards -->
 
 ## 増やし方
 

@@ -17,6 +17,17 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+amazonProducts:
+  - title: "花ごころ きれいな鉢底石 2L"
+    asin: "B07K1PBN1J"
+    image: "https://m.media-amazon.com/images/I/81VZcQit2wL._AC_SL200_.jpg"
+    note: "鉢の底から1〜3cmの高さに敷く、軽い鉢底石。主原料は人工軽石（商品ページの表示）。評価★4.0・レビュー911件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥410"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切り、土の流出と虫の侵入を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
 ---
 
 「5号鉢に植え替えたいけど、土はどのくらい買えばいいの？」——植え替えのたびに悩む土の購入量。多すぎて余っても困るし、足りなくても困ります。
@@ -132,6 +143,11 @@ baseProducts:
 鉢底石は鉢の底から**高さ1〜3cm**が目安です。入れすぎると土の量が減り、根を張るスペースが狭くなります。
 
 スリット鉢を使う場合は、鉢底石は不要です。スリットから排水・通気が確保されるため、鉢底石なしで全量を土にできます。
+
+鉢底石を使う場合の例と、鉢底穴に敷くネットの例です。2Lの鉢底石は、上の表の5〜6号鉢（200〜400ml）なら数鉢分にあたります。
+
+<!-- amazon-cards title="鉢底石と鉢底ネット" -->
+<!-- /amazon-cards -->
 
 ---
 
