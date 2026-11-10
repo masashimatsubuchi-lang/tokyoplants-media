@@ -7,6 +7,7 @@
  */
 
 import homeRanking from "@/data/home-ranking.json";
+import { TOWEL_PATTERNS } from "@/lib/towelPatterns";
 
 const EC = "https://www.tokyoplants.com";
 
@@ -52,18 +53,7 @@ export interface OwnProduct {
   href: string;
 }
 
-/** タオルの柄。並びはECの「種類」の8項目と同じ。代表はモンステラ・ホワイト（オーナー指定）。
- *  色は商品写真の地の色から取った目安で、2色の柄は丸を斜めに塗り分ける */
-const TOWEL_PATTERNS: [string, string, string][] = [
-  ["モンステラ・デリシオーサ｜斑入り", "monstera-variegata", "linear-gradient(135deg, #2f6b4f 50%, #efe6c2 50%)"],
-  ["モンステラ・デリシオーサ｜緑", "monstera-green", "linear-gradient(135deg, #3a6e4a 50%, #ffffff 50%)"],
-  ["アンスリウム・ワロクアーナム｜緑", "warocqueanum-green", "#6fa35f"],
-  ["アンスリウム・ワロクアーナム｜深緑", "warocqueanum-deepgreen", "#2c5a38"],
-  ["アンスリウム・キング オブ スペード｜緑", "king-of-spades-green", "#3f7d64"],
-  ["アンスリウム・キング オブ スペード｜黒", "king-of-spades-black", "#1f2e52"],
-  ["アロカシア｜緑", "alocasia-green", "linear-gradient(135deg, #b8dba4 50%, #2f6a3d 50%)"],
-  ["アロカシア｜ピンク", "alocasia-pink", "linear-gradient(135deg, #f5d2d9 50%, #5cc24e 50%)"],
-];
+
 
 export const OWN_COLLECTION: OwnProduct[] = [
   {
@@ -101,7 +91,7 @@ export const OWN_COLLECTION: OwnProduct[] = [
     image: "/images/home/towel-monstera-variegata.jpg",
     alt: "Daily Botanical Towel モンステラ・デリシオーサ 斑入り",
     variantStyle: "color",
-    variants: TOWEL_PATTERNS.map(([name, file, color]) => ({
+    variants: TOWEL_PATTERNS.map(({ name, file, color }) => ({
       name,
       image: `/images/home/towel-${file}.jpg`,
       color,

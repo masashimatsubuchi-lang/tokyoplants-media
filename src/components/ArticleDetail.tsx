@@ -8,7 +8,9 @@ import { extractHowTo } from "@/lib/howto";
 import PostScroller from "./PostScroller";
 import { getPopularPosts } from "@/lib/popular";
 import BaseProductBlock from "./BaseProductBlock";
-import InlineProductBanner, { hasInlineProduct } from "./InlineProductBanner";
+import InlineProductBanner, { hasInlineProduct, primaryInlineType } from "./InlineProductBanner";
+import TowelCard from "./TowelCard";
+import { pickTowel } from "@/lib/towelPatterns";
 import CharacterNote from "./CharacterNote";
 import ArticleBlock from "./ArticleBlocks";
 import HubIndex from "./HubIndex";
@@ -42,7 +44,8 @@ type ContentSegment =
   | { type: "note"; character: string; noteType: string; innerHtml: string }
   | { type: "banner"; placement?: "inline" | "contextual" }
   | { type: "block"; block: ParsedBlock }
-  | { type: "comparison"; title: string; left: ComparisonOption; right: ComparisonOption };
+  | { type: "comparison"; title: string; left: ComparisonOption; right: ComparisonOption }
+  | { type: "towel" };
 
 function parseMarkerAttrs(raw: string): Record<string, string> {
   const attrs: Record<string, string> = {};
@@ -165,6 +168,34 @@ function insertBannerAfterFirstSection(segments: ContentSegment[]): ContentSegme
 }
 
 
+/** 最後の H2（多くの記事では「まとめ」）の直前に segment を入れる。H2 が3つ未満なら末尾に足す */
+function insertBeforeLastSection(segments: ContentSegment[], seg: ContentSegment): ContentSegment[] {
+  let total = 0;
+  for (const s of segments) if (s.type === "html") total += (s.html.match(/<h2[\s>]/gi) ?? []).length;
+  if (total < 3) return [...segments, seg];
+  const result: ContentSegment[] = [];
+  let count = 0;
+  let done = false;
+  for (const s of segments) {
+    if (!done && s.type === "html") {
+      const re = /<h2[\s>]/gi;
+      let m: RegExpExecArray | null;
+      let at = -1;
+      while ((m = re.exec(s.html)) !== null) {
+        count++;
+        if (count === total) { at = m.index; break; }
+      }
+      if (at >= 0) {
+        result.push({ type: "html", html: s.html.slice(0, at) }, seg, { type: "html", html: s.html.slice(at) });
+        done = true;
+        continue;
+      }
+    }
+    result.push(s);
+  }
+  return result;
+}
+
 /**
  * 本文の表をスクロール用の div で包む。
  *
@@ -237,7 +268,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
     !stockInBody;
   const showShopBanner = hasBaseProducts || !hasAmazonProducts;
   const noteSegments = splitContentMarkers(contentWithIds);
-  const contentSegments = showInlineBanner || stockInBody ? insertBannerAfterFirstSection(noteSegments) : noteSegments;
+  const bannerSegments = showInlineBanner || stockInBody ? insertBannerAfterFirstSection(noteSegments) : noteSegments;
+  // タオルのカード（2026-11-10）。タオルの柄の植物の記事は後半に柄のカード、ギフト記事は全8種。
+  // ギフト記事で本文の商品バナーがタオルなら、そのバナーを全8種のカードに置き換える（同じ商品を2回出さない）
+  const towel = /botanical-towel/.test(post.slug) ? null : pickTowel(post.slug, post.title, post.tags ?? []);
+  const towelReplacesBanner = !!towel && showInlineBanner && primaryInlineType(post.baseProducts) === "towel";
+  const contentSegments =
+    towel && !towelReplacesBanner ? insertBeforeLastSection(bannerSegments, { type: "towel" }) : bannerSegments;
   const nextReads = [...relatedPosts, ...sameCategoryPosts].filter(
     (p, idx, arr) => idx === arr.findIndex((item) => item.category === p.category && item.slug === p.slug),
   ).slice(0, 3);
@@ -347,9 +384,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 }
                 if (seg.type === "banner") {
                   if (stockInBody && shopStock) return <ShopStockBlock key={i} stock={shopStock} />;
+                  if (towelReplacesBanner && towel) return <TowelCard key={i} choice={towel} />;
                   return post.baseProducts && !hasOwnProductCards ? (
                     <InlineProductBanner key={i} products={post.baseProducts} placement={seg.placement ?? "inline"} />
                   ) : null;
+                }
+                if (seg.type === "towel") {
+                  return towel ? <TowelCard key={i} choice={towel} /> : null;
                 }
                 if (seg.type === "comparison") {
                   return <ComparisonSummary key={i} title={seg.title} left={seg.left} right={seg.right} />;

@@ -78,6 +78,11 @@ function pickPrimary(products: BaseProduct[]): { product: BaseProduct; type: Pro
   return null;
 }
 
+/** バナーに出る商品の種類（記事側でタオルのカードと重ならないようにするため） */
+export function primaryInlineType(products?: BaseProduct[]): ProductType | null {
+  return products ? pickPrimary(products)?.type ?? null : null;
+}
+
 export function hasInlineProduct(products?: BaseProduct[]): boolean {
   if (!products || products.length === 0) return false;
   return products.some((p) => detectType(p) !== null);
