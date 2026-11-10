@@ -28,6 +28,8 @@ siblings:
     role: "増やし方"
   - slug: "guide/aglaonema-repotting"
     role: "植え替え"
+  - slug: "guide/aglaonema-winter-care"
+    role: "冬越し"
 baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"

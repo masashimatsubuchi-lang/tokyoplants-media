@@ -15,6 +15,7 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "species/zamioculcas-raven"
   - "species/aspidistra-elatior"
+  - "guide/zamioculcas-winter-care"
 baseProducts:
   - title: "ザミオクルカスの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

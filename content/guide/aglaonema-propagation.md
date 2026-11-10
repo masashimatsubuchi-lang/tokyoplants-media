@@ -25,6 +25,8 @@ siblings:
     role: "増やし方"
   - slug: "guide/aglaonema-repotting"
     role: "植え替え"
+  - slug: "guide/aglaonema-winter-care"
+    role: "冬越し"
 baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"

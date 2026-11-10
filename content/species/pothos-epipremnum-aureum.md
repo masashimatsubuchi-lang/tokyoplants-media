@@ -17,6 +17,7 @@ relatedSlugs:
   - "guide/pothos-repotting-guide"
   - "soil/hydroculture-complete-guide"
   - "guide/cats-and-houseplants-safety"
+  - "guide/pothos-winter-care"
 baseProducts:
   - title: "ポトスの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

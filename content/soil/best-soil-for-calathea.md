@@ -12,10 +12,27 @@ relatedSlugs:
   - "species/calathea-orbifolia"
   - "soil/repotting-soil-guide"
   - "soil/kunzan-for-houseplants"
+  - "guide/calathea-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "手順5で鉢底に敷く、鉢底穴に合わせて切るネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "植え替え後の葉水を、細かい霧で葉の表裏にかけられる。評価★4.1・レビュー92件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "養生中の湿度が下がっていないかを、数字とグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 カラテアは葉模様の美しさで人気の観葉植物ですが、「土を変えたら急に調子を崩した」「葉が丸まる」「植え替え後に根腐れした」という声が多い植物でもあります。原因の多くは、カラテアの特性に合わない土を選んでしまっていることにあります。
@@ -179,6 +196,11 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 <!-- /steps -->
 
 [植え替えの完全ガイドはこちら](/guide/repotting-houseplants-complete-guide)。植え替え後もしばらく元気がない場合は[植え替え後に元気がない時の対処法](/guide/plant-not-recovering-after-repotting)も参考にしてください。
+
+手順5の鉢底ネットと、手順7の葉水・湿度の確認に使う道具です。
+
+<!-- amazon-cards title="カラテアの植え替えと養生に" -->
+<!-- /amazon-cards -->
 
 ---
 

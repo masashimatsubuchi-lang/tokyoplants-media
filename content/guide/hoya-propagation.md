@@ -15,6 +15,7 @@ relatedSlugs:
   - "species/hoya-linearis"
   - "guide/hoya-not-flowering-causes"
   - "soil/best-soil-for-hoya"
+  - "guide/hoya-winter-care"
 baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"

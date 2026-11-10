@@ -13,6 +13,7 @@ relatedSlugs:
   - "research/birthday-gift-plant-lover"
   - "research/christmas-tree-alternative-houseplants"
   - "soil/best-soil-for-dracaena"
+  - "guide/dracaena-fragrans-winter-care"
 baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"

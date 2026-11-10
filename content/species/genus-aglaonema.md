@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/aglaonema-care-guide"
   - "species/aglaonema-pictum"
+  - "guide/aglaonema-winter-care"
 siblings:
   - slug: "guide/aglaonema-care-guide"
     role: "育て方の実務"
@@ -25,6 +26,8 @@ siblings:
     role: "増やし方"
   - slug: "guide/aglaonema-repotting"
     role: "植え替え"
+  - slug: "guide/aglaonema-winter-care"
+    role: "冬越し"
 baseProducts:
   - title: "アグラオネマの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382098"

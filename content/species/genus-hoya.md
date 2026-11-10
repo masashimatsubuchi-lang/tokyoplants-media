@@ -16,6 +16,7 @@ relatedSlugs:
   - "species/hoya-pubicalyx"
   - "guide/cats-and-houseplants-safety"
   - "guide/hoya-propagation"
+  - "guide/hoya-winter-care"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

@@ -26,6 +26,8 @@ baseProducts:
 siblings:
   - slug: "guide/umbellata-care"
     role: "育て方の実務"
+  - slug: "guide/umbellata-winter-care"
+    role: "冬越し"
   - slug: "species/ficus-umbellata"
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-umbellata"

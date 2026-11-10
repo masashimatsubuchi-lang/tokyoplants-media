@@ -17,10 +17,22 @@ relatedSlugs:
   - "soil/best-soil-for-calathea"
   - "guide/houseplant-pruning-basics"
   - "soil/repotting-soil-guide"
+  - "guide/calathea-winter-care"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "本文で勧めているスチーム式で、白い水垢が葉に残りにくい。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥20,944"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "壁ではなく株のすぐ横に置き、60%以上を保てているか確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥2,680"
 ---
 
 # カラテア・オービフォリアの育て方｜大きな銀緑の縞模様が美しい人気カラテア
@@ -175,6 +187,11 @@ baseProducts:
 - ホコリ落としとハダニ予防としては有効
 - **必ず汲み置き水か浄水で**。水道水だと白い水垢が葉に残る
 <!-- /cards -->
+
+加湿器と湿度計は、次の組み合わせが扱いやすい選択肢です。
+
+<!-- amazon-cards title="湿度60%以上をつくる加湿器と、確かめる温湿度計" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 水やりと水質——カラテアが「難しい」と言われる本当の理由
 

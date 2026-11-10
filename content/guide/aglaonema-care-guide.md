@@ -13,6 +13,7 @@ relatedSlugs:
   - "guide/aglaonema-coloring-guide"
   - "guide/aglaonema-yellow-leaves"
   - "soil/best-soil-for-aglaonema"
+  - "guide/aglaonema-winter-care"
 siblings:
   - slug: "guide/aglaonema-care-guide"
     role: "育て方の実務"
@@ -24,6 +25,8 @@ siblings:
     role: "増やし方"
   - slug: "guide/aglaonema-repotting"
     role: "植え替え"
+  - slug: "guide/aglaonema-winter-care"
+    role: "冬越し"
 baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"

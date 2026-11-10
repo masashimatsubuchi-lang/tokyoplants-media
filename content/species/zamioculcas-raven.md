@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/zamioculcas-zamiifolia"
   - "research/zamioculcas-raven-color-science"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/zamioculcas-winter-care"
 baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"

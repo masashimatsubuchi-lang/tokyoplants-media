@@ -25,10 +25,28 @@ baseProducts:
 siblings:
   - slug: "guide/umbellata-care"
     role: "育て方の実務"
+  - slug: "guide/umbellata-winter-care"
+    role: "冬越し"
   - slug: "species/ficus-umbellata"
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-umbellata"
     role: "土の選び方"
+amazonProducts:
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "落ちにくい白い樹液と土から、床や台を守る防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥1,069"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く傷んだ根の整理に使える、バイパス式の剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥3,681"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "500×1000mmの大判を、鉢底穴に合わせて切って使う。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥664"
 ---
 
 ウンベラータは大きなハート形の葉と白い幹が美しく、インテリアグリーンとして絶大な人気を誇ります。しかし「なんとなく観葉植物の土」を使っていると、あっという間に根腐れを起こしたり、逆に水切れで葉が落ちたりします。
@@ -212,6 +230,11 @@ siblings:
 <!-- /steps -->
 
 [植え替えの完全ガイドはこちら](/guide/repotting-houseplants-complete-guide)。植え替え後もしばらく元気がない場合は[植え替え後に元気がない時の対処法](/guide/plant-not-recovering-after-repotting)を参照してください。
+
+手順で使う道具のうち、床の保護・根の整理・鉢底の準備に使うものはAmazonでもそろえられます。
+
+<!-- amazon-cards title="植え替えの作業で使う道具" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 

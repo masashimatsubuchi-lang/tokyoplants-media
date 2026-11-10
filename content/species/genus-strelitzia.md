@@ -11,6 +11,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "soil/improve-drainage-for-houseplants"
+  - "guide/strelitzia-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

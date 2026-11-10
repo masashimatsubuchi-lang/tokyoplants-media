@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/houseplant-fertilizer-calendar"
   - "guide/winter-watering-houseplants"
   - "guide/spider-mites-houseplants-control"
+  - "guide/umbellata-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -21,6 +22,8 @@ baseProducts:
 siblings:
   - slug: "guide/umbellata-care"
     role: "育て方の実務"
+  - slug: "guide/umbellata-winter-care"
+    role: "冬越し"
   - slug: "species/ficus-umbellata"
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-umbellata"
