@@ -18,6 +18,17 @@ baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "暖房を切った明け方に15℃を割っていないかを、グラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "加湿器が主役になる本種に、白い粉が出にくいスチーム式。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # フィロデンドロン・スピリトゥス・サンクティ｜育て方と絶滅寸前の現状
@@ -169,6 +180,11 @@ baseProducts:
 ### 湿度
 
 60〜80%、理想は70%前後を保ちます。60%を下回ると葉先・葉縁から茶色く枯れ込み始めます。加湿器を主役にし、葉水は補助として使ってください。**夜間に葉面へ水が残らないよう、葉水は日中に行う**のが基本です。
+
+温度の節で触れた「明け方の温度」と、湿度70%前後を保つための道具の例です。
+
+<!-- amazon-cards title="明け方の温度と、湿度70%前後の維持に" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

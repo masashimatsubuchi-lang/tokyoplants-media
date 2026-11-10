@@ -19,6 +19,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "表面が乾いても中が湿っている秋の鉢で、中の乾きを色で知らせる。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "植え替えの期限になる最低気温15℃を、朝にグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 「植え替えのタイミングを逃した」「夏は暑すぎて手をつけられなかった」——そんな方にとって、秋は今年最後の植え替えチャンスです。ただし春と同じ感覚で進めると、休眠期に入る前に根が回復しきらず、冬に調子を崩す原因になります。
@@ -91,6 +102,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 秋は日中が暖かくても夜に土が冷えるから、表面が乾いていても鉢の中はまだ湿っていることが多いよ。植え替え直後は根が水を吸えないぶん、なおさら乾きにくい。植え替えた日と水やりした日をアプリに残しておくと、間隔が詰まりすぎていないか一目で分かるよ。
 <!-- /character-note -->
+
+鉢の中の乾き具合と、植え替えの期限を決める最低気温は、次のような道具で確かめられます。
+
+<!-- amazon-cards title="秋の水やり判断と、最低気温の確認に" -->
+<!-- /amazon-cards -->
 
 ## 植え替え後の冬越し準備
 

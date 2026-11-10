@@ -22,6 +22,22 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "表面だけ乾いて中が湿っているかを、色の変化で知らせる水分計。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "室温が15℃を切っていないかを、夜間も含めて記録できる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "ステップ5で見つけた茶〜黒の傷んだ根を切る剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # アロカシアの葉が黄色くなる｜下葉が1枚ずつなら世代交代、新葉の黄変は根を疑う
@@ -98,6 +114,11 @@ baseProducts:
 <!-- callout type="warning" title="順番を飛ばして「水をやる」のが最大の失敗" -->
 黄変を見ると反射的に水切れを疑いがちですが、アロカシアの黄変は**水のやりすぎ（根腐れ）が原因であることのほうが多い**植物です。ステップ2の「鉢を持ち上げる」を飛ばして水を足すと、症状は確実に悪化します。重さの確認は5秒で終わります。
 <!-- /callout -->
+
+ステップ3の鉢の中の湿り気とステップ6の室温は道具でも確かめられ、ステップ5で傷んだ根が見つかったときは切れ味のよいハサミを使います。
+
+<!-- amazon-cards title="切り分け手順で使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

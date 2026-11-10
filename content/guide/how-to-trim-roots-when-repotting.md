@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く傷んだ根を、つぶさずに根元から切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "鉢から抜いた株と古い土を広げ、床を汚さずに作業できる。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 鉢から抜いたら根がぎっしり絡まっていた——切っていいのか、切ったら枯れるのか。手が止まる瞬間です。結論から言えば、**切り方さえ正しければ根を切っても枯れません。** まず「どの根を切り、どの根を残すか」から確認してください。
@@ -103,6 +114,11 @@ baseProducts:
 <!-- /steps -->
 
 消毒を省略すると、健康な植物に病原菌を移してしまう可能性があります。面倒でも必ず実施してください。
+
+表の「剪定ハサミ」と「作業台の敷物」は、たとえば次のようなものです。
+
+<!-- amazon-cards title="根を切る作業の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

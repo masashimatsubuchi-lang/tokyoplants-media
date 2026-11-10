@@ -25,6 +25,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "Planterior（プランテリア）水位計 Mサイズ"
+    asin: "B00UFKAQKO"
+    image: "https://m.media-amazon.com/images/I/61yX2KN5uUL._AC_SL200_.jpg"
+    note: "穴のない容器の水位を外から読める、培地に挿すタイプの水位計。評価★3.8・レビュー91件（2026-11-10にAmazon商品ページで確認／在庫あり（残り17点）・出荷元Amazon・Prime対象）"
+    price: "¥560"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "手順2で傷んだ根を切除するときの剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 「ハイドロカルチャーと土、どっちがいいの？」——観葉植物を育て始めるとき、最初に悩むポイントです。
@@ -149,6 +160,11 @@ baseProducts:
 7. 明るい日陰で1〜2週間養生する
 
 **注意：** 移行直後は植物がストレスを受けます。1〜2週間は直射日光を避け、肥料も与えないでください。
+
+手順2の根の切除と、手順6の水位の確認に使う道具の例です。
+
+<!-- amazon-cards title="土からハイドロへ移すときの道具" -->
+<!-- /amazon-cards -->
 
 ---
 

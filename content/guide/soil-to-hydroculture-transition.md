@@ -16,6 +16,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "Planterior（プランテリア）水位計 Mサイズ"
+    asin: "B00UFKAQKO"
+    image: "https://m.media-amazon.com/images/I/61yX2KN5uUL._AC_SL200_.jpg"
+    note: "培地に挿しておき、容器の底の水位を外から読める水位計。評価★3.8・レビュー91件（2026-11-10にAmazon商品ページで確認／在庫あり（残り17点）・出荷元Amazon・Prime対象）"
+    price: "¥560"
+  - title: "協和 ハイポニカ液体肥料 500ml（A・Bセット）"
+    asin: "B0038JA27Q"
+    image: "https://m.media-amazon.com/images/I/81POgAxvkVL._AC_SL200_.jpg"
+    note: "養生明けの生育期に、水耕用の倍率よりさらに薄めて使う液体肥料。A液とB液を同量ずつ水で薄める2液式で、水耕栽培では500倍が標準（商品ページの表示）。評価★4.3・レビュー1,740件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,362"
 ---
 
 # 土からハイドロカルチャーへの移行方法｜時期・根洗い・水位管理
@@ -152,6 +163,11 @@ baseProducts:
 - **水位**：容器高さの1/4以下を上限に保つ。培地全体を水没させない
 - **換水**：減った分を足し続けると老廃物が溜まる。夏は週1回、冬は2〜3週に1回を目安に全換水し、容器の内側も洗う
 - **肥料**：ハイドロ用の液体肥料を規定倍率よりさらに薄めて、養生明け以降の生育期のみ与える。緩効性肥料が配合された培地（HYDRO MINERALなど）を使った場合は、配合分が切れるまで追肥は不要です
+
+水位を容器高さの1/4以下に保つための水位計と、ハイドロで使える液体肥料の例です。肥料は規定倍率よりさらに薄め、肥料入りの培地なら配合分が切れてから使います。
+
+<!-- amazon-cards title="養生明けの水位と肥料の管理に" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 全換水した日と新根が見えた日をメモしておくと、次に別の株を移行するときの判断がぐっと早くなるよ。Green Collectionの水やり記録に残しておけば、換水の間隔が空きすぎているかどうかも振り返りやすいよ。

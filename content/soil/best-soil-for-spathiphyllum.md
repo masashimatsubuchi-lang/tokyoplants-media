@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切って敷き、土の流出を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "手順3で黒く変色した根を整理するときの剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土を1/3落とす作業を、床を汚さずにできる防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 白い仏炎苞（ぶつえんほう）の花を咲かせるスパティフィラム（ペースリリー）。「水が足りないと葉がわかりやすく垂れる」という特性から初心者にも育てやすいとされますが、実は他のサトイモ科植物とは少し違う土選びの考え方が必要な植物です。
@@ -155,6 +171,11 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 3. 黒く変色した根を整理する
 4. 一回り大きい鉢に植え、たっぷり水やりする
 5. 直射日光を避けた明るい場所で1〜2週間養生する
+
+植え替えに使う鉢底ネット、根を整理するハサミ、古い土を落とすときの敷物の例です。
+
+<!-- amazon-cards title="スパティフィラムの植え替えに使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

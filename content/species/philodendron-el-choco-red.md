@@ -24,6 +24,22 @@ baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "ヘゴ棒の代わりに立てられる、ココヤシ繊維を巻いた支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が60%を切っていないかを、数字とグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "白い粉が出にくいスチーム式で、冬の乾いた部屋の湿度を補う。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # フィロデンドロン・エルチョコレッド｜赤い新芽が美しい希少種の育て方図鑑
@@ -174,6 +190,11 @@ baseProducts:
 <!-- /steps -->
 
 気根は「支え」であると同時に、支柱の表面から水分を吸う器官でもあります。乾いた支柱に縛りつけただけでは活着しにくいため、**表面が湿った状態を保てる素材（ヘゴ棒・モスポール）を選ぶ**と結果が変わります。
+
+ヘゴ棒が手に入らないときは、ココヤシ繊維を巻いた支柱でも誘引できます。手順4と同じく、霧吹きで表面を湿らせてから茎を留めてください。早見表の湿度60〜80%を確かめる温湿度計と、補う加湿器もあわせて挙げます（加湿するときはサーキュレーターの送風とセットで）。
+
+<!-- amazon-cards title="支柱への誘引と、湿度60〜80%の確保に" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

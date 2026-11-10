@@ -31,6 +31,22 @@ hubIndex:
       match: "^guide/(bringing-plants-indoors-pest-check|quarantine-new-plant|no-bugs-houseplant)"
     - label: "仕組み・道具"
       match: "^research/fungus-gnat|^review/(fungus-gnat|houseplant-pest)"
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "体長0.5mmのハダニや葉裏の幼虫を、10倍で確かめられるルーペ。3枚のレンズを貼り合わせたトリプレットレンズ（商品ページの表示）。評価★4.5・レビュー285件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
+    price: "¥3,080"
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "株のそばに立て、コナジラミの成虫の数を週ごとに数えられる。評価★4.0・レビュー2,791件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
+    price: "¥757"
+  - title: "KINCHO園芸 ベニカXファインスプレー 420ml"
+    asin: "B003ULEF52"
+    image: "https://m.media-amazon.com/images/I/61sE9NkVEeL._AC_SL200_.jpg"
+    note: "観葉植物でコナジラミ類・ハダニ類・アブラムシ類に登録のあるスプレー。農林水産省登録第22506号。適用表の「花き類・観葉植物（ばら、花月を除く）」の行はアブラムシ類・アザミウマ類・コナジラミ類・ハダニ類・ハモグリバエ類・ハスモンヨトウ・うどんこ病・灰色かび病で、カイガラムシ類は含まれない（2026-11-10に農薬登録情報で確認）。評価★4.3・レビュー4,623件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
 ---
 
 葉の裏に白い粉のようなものがついている。葉がベタベタする。触ったら小さな白い虫が舞った。観葉植物の害虫は種類によって見た目も症状も対処もまったく違うのに、「小さい虫」としか分からないまま手持ちの殺虫剤をかけて、効かずに広がってしまうケースがとても多い相談です。
@@ -157,6 +173,11 @@ SNSで最も質問が多いのがこの虫です。葉に触れた瞬間、白�
 <!-- character-note character="shadee" type="tip" -->
 コナジラミの黄色粘着トラップは「駆除」よりも「数を測る道具」として使うのが正解。週に1回、貼り付いた数を数えるだけで、対策が効いているかが数字で分かるよ。ゼロが2週間続いたら終息と判断していい。
 <!-- /character-note -->
+
+葉裏を拡大して確かめるルーペ、成虫の数を測る黄色の粘着シート、観葉植物でコナジラミ類に登録のあるスプレーの例です。このスプレーは観葉植物ではカイガラムシ類が適用に含まれないため、カイガラムシには使えません（次の表を参照）。
+
+<!-- amazon-cards title="見分けて、数えて、登録のある薬剤で" -->
+<!-- /amazon-cards -->
 
 ## 薬剤を使う前に：観葉植物での登録を確認する
 

@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "手順4の最初に敷く、鉢底穴に合わせて切るネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "手順4で鉢底石として敷ける、小粒の軽石。評価★4.2・レビュー39件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥576"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "手順3で黒く柔らかい根を切るときの剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 ポトスは「初心者でも枯れにくい」と言われる観葉植物の代表格です。水挿しでも育つほど丈夫ですが、土植えで長く育てるなら土選びがそのまま生育スピードに出ます。
@@ -161,6 +177,11 @@ tokyoplantsの『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
 <!-- callout type="warning" title="鉢は「一回り大きい」までにする" -->
 根に対して鉢が大きすぎると、根が届いていない部分の土がいつまでも乾かず、乾湿のメリハリがなくなります。ポトスは過湿に弱いため、これがそのまま根腐れにつながります。**直径で1〜2号（3〜6cm）大きいサイズまで**にとどめてください。大きな鉢に一気に移すより、1〜2年ごとに小刻みに上げるほうが結果的に早く育ちます。
 <!-- /callout -->
+
+手順4の鉢底ネットと鉢底石、手順3で根を切るハサミの例です。
+
+<!-- amazon-cards title="ポトスの植え替えで使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "鉢のまわりに弱い風を回し、土の表面を乾かして蒸れを防ぐ。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "鉢の中まで乾いたことを色で知らせ、少量をこまめに与える癖を防ぐ。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 「鉢の近くで変な匂いがする」「水やりのたびに土から嫌な臭いがする」——観葉植物の土が臭いと感じたら、それは土や根に問題が起きているサインです。
@@ -221,6 +232,11 @@ baseProducts:
 | ⑤ 受け皿の水を放置しない | 鉢底の酸素不足・嫌気性発酵を防ぐ | 水やり後30分以内に必ず捨てる | 毎回の水やり後 |
 
 排水性を土から見直したい場合は[観葉植物におすすめの土](/soil/repotting-soil-guide)で市販品を比較しています。有機質が控えめで無機質をバランス良く含む培養土に替えるだけで、匂いのトラブルは大幅に減ります。
+
+予防策③の風通しと②の水やりサイクルは、サーキュレーターと水分計があると続けやすくなります。
+
+<!-- amazon-cards title="風通しと水やりのタイミングを整える" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 水やりのタイミングをアプリに記録しておくと、次に匂いが気になったときに「あげすぎていないか」を振り返りやすくなるよ。

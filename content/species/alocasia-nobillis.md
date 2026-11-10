@@ -26,6 +26,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から遠い株に、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が60%を下回っていないかを、数字とグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # アロカシア・ノビリス｜光沢葉とウェービーエッジが個性的なサンデリアーナ選抜品種図鑑
@@ -130,6 +141,11 @@ baseProducts:
 ### 湿度
 
 母種[サンデリアーナ](/species/alocasia-sanderiana)の図鑑では60〜80%を目安として案内している。ノビリスの60〜70%はその下半分にあたる現実的なラインで、**まず60%を下回らせないこと**を優先すればよい。ジュエルアロカシアほど繊細ではないが、乾燥が続くと葉先から傷む。
+
+光沢を保つ明るさと湿度60%は、補光ライトと温湿度計で確かめながら整えられる。
+
+<!-- amazon-cards title="光沢を保つ光と、湿度60%の見張りに" -->
+<!-- /amazon-cards -->
 
 ### 用土と植え替え
 
