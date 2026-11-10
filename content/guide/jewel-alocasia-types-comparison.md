@@ -27,6 +27,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のすぐそばに置き、60〜80%に届いているかを数字で見る。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "乾く冬の部屋を加湿する、白い粉が出にくいスチーム式。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 「アロカシアを買いたいけど種類が多すぎてわからない」「Black VelvetとHoly Grailって何が違うの？」——ジュエルアロカシアは見た目が似た品種が多く、初めて選ぶときに迷いやすい植物のひとつです。
@@ -149,6 +160,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 湿度計を株のすぐそばに置いて、実際の数値を見ながら管理するのがおすすめだよ。「なんとなく湿っていそう」という感覚だけだと、思ったより低い湿度で管理していることが意外と多いんだ。
 <!-- /character-note -->
+
+湿度を数字で見る温湿度計と、冬の加湿器の例です。
+
+<!-- amazon-cards title="株の横に置く温湿度計と、冬の加湿器" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 2. 直射日光は厳禁
 

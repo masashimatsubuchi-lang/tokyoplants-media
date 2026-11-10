@@ -19,6 +19,22 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "一回り大きい鉢の底穴に合わせて切って敷く。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒くブヨブヨした根を、つぶさずに切り取る。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土をほぐして落とす作業の下に敷き、床を汚さない。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 「観葉植物を買ったけど、すぐ植え替えたほうがいいの？」——これは植物初心者が最初にぶつかる疑問のひとつです。ネットでは「すぐ植え替えるべき」「しばらく待つべき」と意見が分かれていて、余計に迷いますよね。この記事では、購入直後の植え替え判断を明確な基準で整理します。
@@ -89,6 +105,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 植え替えた日と使った土をアプリの育成ログに残しておくと便利だよ。半年後に「あれ、この土で植え替えたのいつだっけ」となったとき、次の植え替え時期の判断材料になる。
 <!-- /character-note -->
+
+植え替え当日に使う道具の例です。
+
+<!-- amazon-cards title="植え替え当日に使う道具" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### ステップ4: 植え替え後の管理
 

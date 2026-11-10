@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ユーエム工業（Silky）ゴムボーイ 万能目 240mm 121-24"
+    asin: "B000CED1OG"
+    image: "https://m.media-amazon.com/images/I/51tPsYaLItL._AC_SL200_.jpg"
+    note: "太い幹を、水平に一度で切れる240mmの折りたたみのこぎり。評価★4.5・レビュー7,374件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,555"
+  - title: "新キヨナール 癒合剤（樹木切り口保護剤）100g オリーブ色"
+    asin: "B00DJM7TMI"
+    image: "https://m.media-amazon.com/images/I/41-I-7Ad5yL._AC_SL200_.jpg"
+    note: "胴切りした幹の切り口に塗る、樹木用の癒合剤。商品ページに観葉植物にも使えると記載。評価★4.2・レビュー3,202件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥750"
 ---
 
 # ユッカ（青年の木）の耐寒性は5℃前後｜危ないのは湿った土のままの低温
@@ -201,6 +212,11 @@ baseProducts:
 <!-- callout type="tip" title="切り戻した後は「水を減らす」がすべて" -->
 胴切り後の失敗はほぼ100%、水のやりすぎです。葉がない＝根から水を吸い上げる必要がない状態なので、土はなかなか乾きません。新芽が動き出して葉が展開するまでは、土が完全に乾いてからさらに数日待つくらいで十分です。「不安だから水をあげる」を我慢できるかどうかが分かれ目になります。
 <!-- /callout -->
+
+胴切りで使うのこぎりと、切り口に塗る癒合剤の例です。
+
+<!-- amazon-cards title="胴切りの道具と、切り口の癒合剤" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ## 増やし方
 

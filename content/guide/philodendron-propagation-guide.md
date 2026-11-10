@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節の下を、茎をつぶさずに一度で切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "茎伏せの床に。湿らせて茎の下に敷き、気根を軽く覆う。評価★4.0・レビュー2,673件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "挿し木用土に多めに混ぜ、通気のよい清潔な床をつくる。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
 ---
 
 # フィロデンドロンの増やし方｜茎伏せ・水挿しで確実に発根させる方法
@@ -108,6 +124,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 茎伏せでいちばん失敗しやすいのは、覆いをしたまま直射日光に当ててしまうこと。袋の中が高温になって一気に蒸れるから、明るい日陰に置いて、1日1回は袋を開けて空気を入れ替えてあげてね。
 <!-- /character-note -->
+
+挿し穂を切るはさみと、茎伏せ・土挿しの床に使う資材の例です。
+
+<!-- amazon-cards title="挿し穂を切るはさみと、茎伏せ・土挿しの床" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ## 自立型種：株分け
 

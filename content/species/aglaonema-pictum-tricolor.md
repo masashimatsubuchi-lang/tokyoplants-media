@@ -17,6 +17,22 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の高さで湿度を測り、60%を下回る時間帯をつかむ。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "冬の30〜40%から、部屋の湿度を50〜60%台へ上げる。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "加湿で乾きにくくなった土の、水やりの合図を色で出す。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # アグラオネマ・ピクタム・トリカラー｜迷彩模様が唯一無二の観葉植物図鑑
@@ -181,6 +197,11 @@ baseProducts:
 水やりは**用土の表面が乾いてから行う**のが基本です。トリカラーは根腐れしやすいため、過湿は大敵です。水やり後は受け皿に水を溜めたままにしないようにしましょう。成長が緩慢になる冬場は、さらに水やりの頻度を下げ、用土がある程度乾いた状態をやや長めに保つことで根腐れのリスクを下げられます。
 
 **高湿度と過湿は別物**という点に注意してください。求められているのは「空気が湿っている」ことであり、「用土が湿り続けている」ことではありません。加湿器で湿度を上げると土の乾きが遅くなるため、湿度を上げた分だけ水やりの間隔は空けます。
+
+株の横で湿度を測る温湿度計、冬の加湿器、そして「高湿度でも過湿にしない」ための水やりチェッカーの例です。
+
+<!-- amazon-cards title="湿度を測る・上げる道具と、過湿を防ぐチェッカー" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

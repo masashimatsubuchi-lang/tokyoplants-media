@@ -26,6 +26,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "汎用ベースの3割を占める、保水と排水の土台になる小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "フジック あくぬきベラボン 4L Mサイズ"
+    asin: "B00510XUAG"
+    image: "https://m.media-amazon.com/images/I/71MQ+jEs8XL._AC_SL200_.jpg"
+    note: "ヤシガラ繊維の枠に入る、粗い保水と通気を担うM粒。評価★4.3・レビュー356件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥766"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "汎用ベースの3割を占め、袋の土への後入れにも使う排水材。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
 ---
 
 # アロイドミックスとは｜配合レシピと市販ブレンド済み用土比較
@@ -167,6 +183,11 @@ baseProducts:
 | 赤玉土 | 保水と排水のベース | 硬質赤玉土 | 普通品は1〜2年で崩れる |
 
 [ベラボンの特性と使い方](/soil/bellabon-for-houseplants)、[くん炭の効果とデメリット](/soil/kunzan-for-houseplants)もあわせてどうぞ。
+
+汎用ベースの8割を占める3素材の例です。袋の土に後入れして寄せるだけなら、パーライトだけで足ります。
+
+<!-- amazon-cards title="汎用ベースの主な3素材" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底ネット→鉢底石→土の順で、最初に敷くネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く変色した根を切る、消毒して使う剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "市販の培養土に足して、通気性を上げる排水材。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
 ---
 
 フィロデンドロンは「育てやすい」と言われながら、根腐れや生育不良に悩む人が多い植物です。その原因の大半は、着生植物という特性を無視した土選びにあります。
@@ -234,6 +250,11 @@ I'm original SOIL は、ヤシガラ繊維や日向石を足してカスタマ�
 <!-- /steps -->
 
 植え替え作業の基本は[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)、土の交換時期の考え方は[植え替え用土の選び方](/soil/repotting-soil-guide)も参考にしてください。鉢の号数から用土の必要量を見積もるときは[観葉植物の鉢に必要な土の量](/soil/soil-amount-for-planters)、落とした古い土の扱いは[観葉植物の土は再利用できる？](/soil/reusing-houseplant-soil)が参考になります。
+
+植え替えで使う鉢底ネットとはさみ、土に通気を足すパーライトの例です。
+
+<!-- amazon-cards title="植え替えの道具と、通気を足すパーライト" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 

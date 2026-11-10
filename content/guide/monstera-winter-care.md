@@ -26,6 +26,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "夜の窓際が何℃まで下がったかを、記録のグラフで確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉水より確実に、冬の30〜40%台の湿度を底上げする。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "冬の光不足に、株の横から光を足せる調光つきライト。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
 ---
 
 # モンステラの冬越しは10℃以上が目安｜5℃を下回ると組織に障害が出る
@@ -116,6 +132,11 @@ baseProducts:
 <!-- character-note character="shadee" type="point" -->
 冬の窓辺は「明るく見える」けど、光の量そのものは夏より大きく減っているんだ。葉の向きが窓側に偏ってきたり、新しい葉が小さくなってきたりしたら、それは光が足りないサイン。ライトを足すか、より明るい場所に移すか、早めに決めてあげよう。
 <!-- /character-note -->
+
+夜の温度と湿度を確かめる温湿度計、加湿器、冬の補光用ライトの例です。
+
+<!-- amazon-cards title="冬の温度・湿度・光を整える道具" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 5. 春の復帰手順
 

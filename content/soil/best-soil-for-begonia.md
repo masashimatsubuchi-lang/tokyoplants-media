@@ -34,6 +34,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "浅鉢の底穴に合わせて切り、土の流出を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く軟化した根茎を、健全な組織まで切り戻す。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "梅雨〜真夏に空気を動かし、灰色かび病が出やすい停滞を防ぐ。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
 ---
 
 「ベゴニアの葉が急にしおれた」「茎の根元が黒くぶよぶよする」——ベゴニアは美しいカラーリーフで人気の植物ですが、根茎（こんけい）が浅く広がるタイプが多く、過湿に非常に弱いという弱点があります。土選びを誤ると、水やりのタイミングが合っていても根腐れが進行することがあります。
@@ -219,6 +235,11 @@ baseProducts:
 <!-- /steps -->
 
 植え替え全般の基本は[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)を参照してください。
+
+植え替えで使う鉢底ネットとはさみ、梅雨〜夏の風通しに使うサーキュレーターの例です。
+
+<!-- amazon-cards title="植え替えの道具と、夏の風通し" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 

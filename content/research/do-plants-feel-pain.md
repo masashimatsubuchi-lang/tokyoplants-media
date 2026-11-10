@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "植物は〈知性〉をもっている 20の感覚で思考する生命システム（ステファノ・マンクーゾ他）"
+    asin: "4140816910"
+    image: "https://m.media-amazon.com/images/I/61yuvMT8keL._SL200_.jpg"
+    note: "2006年に「植物神経学」を提唱した論文の著者の一人による一般書。評価★4.3・レビュー173件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,200"
+  - title: "植物の体の中では何が起こっているのか（BERET SCIENCE）"
+    asin: "4860644220"
+    image: "https://m.media-amazon.com/images/I/710CowWTzPL._SL200_.jpg"
+    note: "植物ホルモンのはたらきなど、植物の体の中の仕組みを解説した入門書。評価★4.4・レビュー103件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,980"
 ---
 
 「植物に痛みを与えてはいけない」——そう言われたら、あなたはどう思うでしょうか。植物に神経はなく、脳もない。痛みを「感じる」はずがない、と直感的に思うかもしれません。
@@ -87,6 +98,11 @@ baseProducts:
 <!-- character-note character="kuro" type="point" -->
 呼び方はどうであれ、傷つけられた経験が次の刺激への反応を変えるという点は、植物の「記憶」というより「生理的な履歴」と捉えると理解しやすいかもしれない。
 <!-- /character-note -->
+
+提唱者側の見方と、植物の体の仕組みそのものを学べる本の例です。
+
+<!-- amazon-cards title="もっと知りたい人の本" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 
