@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合の2割に入れ、排水性と通気性を足すパーライト。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "配合の1割に入れ、土の粒の構造を安定させる赤玉土の小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
 ---
 
 「シンゴニウムを植え替えたら葉先が茶色くなった」「土は普通の観葉植物用でいいの？」——矢じり形の葉と豊富な葉色バリエーションで人気のシンゴニウムですが、土選びを誤ると葉先の枯れ込みや根腐れにつながることがあります。
@@ -59,6 +70,11 @@ baseProducts:
 | 赤玉土（小粒） | 1 | 土の構造を安定させる |
 
 観葉植物用培養土をベースにパーライトを2割ほど加えることで、水はけを改善しつつ極端に乾きすぎない土に調整できます。赤玉土は必須ではありませんが、加えることで土の粒子構造が安定し、長期間水はけが保たれやすくなります。
+
+表の配合のうち、ベースに足すパーライトと赤玉土（小粒）はAmazonでもそろいます。
+
+<!-- amazon-cards title="配合に足すパーライトと赤玉土" -->
+<!-- /amazon-cards -->
 
 ### 市販土を使う場合の選び方
 

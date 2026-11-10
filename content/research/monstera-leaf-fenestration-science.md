@@ -25,6 +25,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "窓から遠い株に、上から光を足せる電球型の育成ライト。口金はE26で、点灯にはクリップソケットなどの器具が別に必要。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,910"
 ---
 
 # モンステラの葉に穴が開く理由｜進化の科学
@@ -85,6 +101,11 @@ baseProducts:
 - **株を十分に成熟させる**：若い株は光量が十分でも穴が出にくい
 
 具体的な管理方法は[モンステラの育て方完全ガイド](/guide/monstera-care)で詳しく解説している。
+
+上の「明るい間接光を確保する」「支柱に気根を誘引する」を室内で実践するときの道具の例です。
+
+<!-- amazon-cards title="気根の誘引と、光量の不足を補う道具" -->
+<!-- /amazon-cards -->
 
 ## まとめ
 

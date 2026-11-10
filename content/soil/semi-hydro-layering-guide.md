@@ -21,6 +21,22 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "パターンAの手順1で、鉢底穴に合わせて切って敷くネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "Planterior（プランテリア）水位計 Mサイズ"
+    asin: "B00UFKAQKO"
+    image: "https://m.media-amazon.com/images/I/61yX2KN5uUL._AC_SL200_.jpg"
+    note: "アウター鉢の水位を外から読み、上げすぎを防ぐ水位計。評価★3.8・レビュー91件（2026-11-10にAmazon商品ページで確認／在庫あり（残り17点）・Prime対象・出荷元Amazon）"
+    price: "¥560"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "インナー鉢の土に挿し、乾いたことを色の変化で知らせる。電池不要（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # セミハイドロ（二層植え）とは｜メリットとデメリット
@@ -79,6 +95,11 @@ baseProducts:
 3. インナー鉢をアウター鉢の中央に置き、隙間にハイドロボールを充填する
 4. アウター鉢の底に、インナー鉢の底面がわずかに浸る程度の水を入れる
 5. 水がなくなったら補充し、定期的に全交換して水の腐敗を防ぐ
+
+パターンAの鉢底ネットと、パターンBで「インナー鉢の底がわずかに浸る」水位を保つための水位計、少なめの水やりを見極める水分計の例です。
+
+<!-- amazon-cards title="二層植えの準備と、水位・乾き具合の確認に" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 二層植えに切り替えたら、最初の数回は普段より少なめの水量から試してみて。境界に水が溜まりやすい分、いつも通りの量だとかえって過湿になりやすいよ。

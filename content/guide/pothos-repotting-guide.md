@@ -15,6 +15,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "手順4で鉢底に敷く、穴の大きさに合わせて切るネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "花ごころ きれいな鉢底石 2L"
+    asin: "B07K1PBN1J"
+    image: "https://m.media-amazon.com/images/I/81VZcQit2wL._AC_SL200_.jpg"
+    note: "手順4で鉢底に2〜3cm入れる、人工軽石の鉢底石。評価★4.0・レビュー911件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥410"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "手順3で、黒く柔らかくなった根を切り取る剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # ポトスの植え替え方法｜水挿しからの切り替えも解説
@@ -130,6 +146,11 @@ baseProducts:
 - 鉢底石（軽石・溶岩石など）
 - ハサミ（消毒済み）
 - 手袋
+
+用意するもののうち、鉢底ネット・鉢底石・ハサミはAmazonでもそろいます。ハサミは使う前にアルコールで消毒してください。
+
+<!-- amazon-cards title="ポトスの植え替えに使う道具" -->
+<!-- /amazon-cards -->
 
 ### 手順
 

@@ -22,6 +22,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くに置き、湿度60%以上・最低18℃を保てているか確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "冬の暖房で下がる部屋の湿度を、空気側から上げる加湿器。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # アロカシア・マハラニは交配種｜親のメロより暗く、ブラックベルベットより大きい
@@ -106,6 +117,11 @@ baseProducts:
 ### 湿度・温度
 
 高湿度（60%以上）を好む。エアコンの風が直接当たる場所は乾燥と温度変化のダブルダメージになるため避ける。最低気温は18℃以上を維持したい。
+
+湿度60%以上と最低18℃を確かめる温湿度計と、部屋の湿度を上げる加湿器の例です。加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="湿度と温度を測る・湿度を上げる" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

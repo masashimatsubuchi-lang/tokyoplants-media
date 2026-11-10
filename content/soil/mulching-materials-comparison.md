@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "結論で勧めた、表土に1〜2cm敷く軽石の小粒。評価★4.2・レビュー39件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥583"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "マルチングの上から挿しておけば、覆っても乾きが色で読める。電池不要（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "DAIM ブラックベース 28cm 鉢スタンド（高さ5cm・10号鉢まで）"
+    asin: "B0DJBHZ242"
+    image: "https://m.media-amazon.com/images/I/61x6c4uATVL._AC_SL200_.jpg"
+    note: "鉢を床から5cm浮かせ、冷えた床から鉢底を離せるスタンド。評価★4.5・レビュー528件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥607"
 ---
 
 鉢の表土がむき出しだと、どうしても生活感が出ます。水やりのたびに土が跳ねて床が汚れる、暖房で表面がカサカサに乾く、そして冬になると「そろそろコバエは落ち着いたはずなのに、まだ飛んでいる」。表土を何かで覆う、いわゆる**マルチング**は、この3つをまとめて改善できる数少ない手段です。
@@ -162,6 +178,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 覆った初日の鉢の重さを一度だけ測っておくと、その後がすごく楽になるよ。水やり記録と一緒にGreen Collectionに残しておけば、「覆う前と後で間隔がどう変わったか」も後から振り返れる。
 <!-- /character-note -->
+
+結論で勧めた軽石の小粒と、覆った後の水やり判断に使う水分計、床からの冷えを断つ鉢台の例です。
+
+<!-- amazon-cards title="軽石マルチと、覆った後の水やり判断・冷え対策に" -->
+<!-- /amazon-cards -->
 
 ## コバエ対策としてのマルチング
 

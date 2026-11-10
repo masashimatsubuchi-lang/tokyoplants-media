@@ -25,6 +25,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度50〜70%と、最低10℃を保てているかを数字で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "暖房で乾く冬の部屋の湿度を、空気側から上げる加湿器。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # アロカシア・ゼブリナ｜シマウマ模様の茎が個性的な大型種の育て方図鑑
@@ -140,6 +151,11 @@ baseProducts:
 最低気温10℃以上を保つことが必須です。15℃以上あると生育が安定し、20〜28℃が最も活発に育つ温度帯です。
 
 日本の屋外での越冬は関東以南でも難しく、基本的に通年室内管理が推奨されます。冬場はエアコンの風が直接当たらない場所に置き、窓際の冷気（コールドドラフト）にも注意しましょう。
+
+冬の湿度50〜70%と最低10℃を確かめる温湿度計と、部屋の湿度を上げる加湿器の例です。加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="冬の湿度と温度を保つ道具" -->
+<!-- /amazon-cards -->
 
 ---
 

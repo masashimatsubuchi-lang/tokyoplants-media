@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "窓から離れた鉢に光を足せる、電球型の育成ライト。口金はE26で、点灯にはクリップソケットなどの器具が別に必要。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,910"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "棚に挟んで3つのヘッドで照らす、小〜中型株向けのライト。10段階の調光と、3・9・12時間で自動消灯するタイマーを搭載（商品ページの表示）。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
 ---
 
 ## はじめに
@@ -88,6 +104,11 @@ baseProducts:
 低光量グループの中でも耐陰性が際立つのがハラン（アスピディストラ）で、林床への適応によって窓から離れた場所でも長期間維持できます。その仕組みと他の耐陰性植物との違いは[ハラン（アスピディストラ）の育て方｜耐陰性最強クラスの理由](/species/aspidistra-elatior)で解説しています。
 
 育成ライトで補光する場合に必要な光量の目安（PPFD）は、[観葉植物にライトは必要？](/research/houseplant-grow-light-guide)で詳しく解説しています。
+
+窓から1m以内に置けない株を補光するなら、電球型をクリップソケットで寄せる方法と、クリップ式の一体型があります。
+
+<!-- amazon-cards title="窓から離れた場所で光を足す" -->
+<!-- /amazon-cards -->
 
 ### 生活時間と合わせて考える
 

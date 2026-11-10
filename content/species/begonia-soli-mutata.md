@@ -21,6 +21,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "最低12℃と湿度40〜60%に収まっているかを数字で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "光の変化を作りたいとき、点灯時間をタイマーで区切れるライト。10段階の調光と、3・9・12時間で自動消灯するタイマーを搭載（商品ページの表示）。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
 ---
 
 # ベゴニア・ソリムタータ｜光で葉色が変化するフォトクロミック現象が唯一無二の希少種図鑑
@@ -107,6 +118,11 @@ baseProducts:
 ### 湿度
 
 40〜60%の適度な湿度を維持する。高湿度すぎると灰色かび病のリスクが上がる。霧吹きで直接葉に水をかけない。
+
+湿度は上げすぎても下げすぎてもいけないので、温湿度計で数字を見ながら管理します。光の変化を作る育成ライトは、タイマー付きのものが扱いやすいです。
+
+<!-- amazon-cards title="温度・湿度を測る、光を足す" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

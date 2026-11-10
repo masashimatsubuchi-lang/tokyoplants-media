@@ -24,6 +24,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "暖房期に湿度60%以上・10℃以上を保てているか確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉水だけでは届かない部屋の湿度を、空気側から上げる。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "暖房期の葉水や、モスポールを湿らせるときに使う霧吹き。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 # モンステラ・エスケレト完全図鑑｜エピプレムノイデスとの関係
@@ -167,6 +183,11 @@ baseProducts:
 ### 温度・湿度
 
 生育適温は18〜28℃。15℃以下で成長が止まり、10℃を下回ると低温障害のリスクが高まる。冬は窓際の冷気を避け、10℃以上を保つ。湿度は60%以上を目安に、暖房期は葉水や加湿器で補う。オブリクアのような密閉ケースは必須ではないが、湿度が高いほど新葉の展開はスムーズになる。
+
+湿度60%以上と最低10℃を確かめる温湿度計と、湿度を補う加湿器・霧吹きの例です。加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="暖房期の湿度と温度を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 植え替え
 

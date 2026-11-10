@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "挿しておくと土の中の乾きを色で知らせ、水のやりすぎを防げる。電池不要（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "鉢のまわりの空気を動かし、湿気がこもるのを防ぐサーキュレーター。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
 ---
 
 # 観葉植物の鉢にキノコ｜正体の多くは腐生菌で、植物への害はほぼない
@@ -89,6 +100,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 水やりの頻度を「土が乾いたら」に統一するだけでも、キノコだけでなくカビや虫の発生もまとめて抑えられるよ。いつ水をあげたか記録しておくと、季節ごとの乾き方の違いにも気づきやすいから、アプリで水やり記録をつけている人はそのまま振り返ってみてね。
 <!-- /character-note -->
+
+対策1の「土が乾いてから」を見極める水分計と、対策2の風通しを補うサーキュレーターの例です。
+
+<!-- amazon-cards title="土を乾かし気味に保つ・風を通す" -->
+<!-- /amazon-cards -->
 
 ### 誤食・接触への注意
 

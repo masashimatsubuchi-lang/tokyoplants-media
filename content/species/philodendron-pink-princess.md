@@ -24,6 +24,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から離れた棚に挟んで、斑入りの葉に光を足せるライト。10段階の調光と、3・9・12時間で自動消灯するタイマーを搭載（商品ページの表示）。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "1鉢に集中して光を当てたいときの、電球型の育成ライト。口金はE26で、点灯にはクリップソケットなどの器具が別に必要。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥2,978"
 ---
 
 # フィロデンドロン・ピンクプリンセス｜斑入り品種の育て方と斑を保つコツ
@@ -122,6 +133,11 @@ baseProducts:
 - 葉の色が全体的に薄くなる
 
 このような症状が見られたら、置き場所を窓に近づけるか、植物育成ライトの導入を検討しましょう。
+
+窓に近づけられない場合の育成ライトは、棚に挟むクリップ式と、手持ちのスタンドやソケットに付ける電球型があります。
+
+<!-- amazon-cards title="窓から離れた場所で光を足す" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="warning" -->
 徒長は「もっと光が欲しい」というサインだよ。斑が消える前に節間が伸び始めることが多いから、そのタイミングで気づけると斑を守りやすい。

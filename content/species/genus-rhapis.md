@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏の白いかすれがハダニかどうか、10倍で確かめられる。評価★4.5・レビュー285件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "逆さにしても噴霧でき、葉裏のハダニを洗い流しやすい霧吹き。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "茶色く枯れた葉先を、葉の形に沿って切り整える剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # シュロチクとカンノンチクの違いは葉の裂け方、細い葉が10枚以上ならシュロチク
@@ -201,6 +217,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 ハダニは「暖房で乾いた冬の室内」でいちばん増えるよ。葉が多くて内側が見えにくい植物だから、月に一度は葉裏を確認して、ついでに霧吹きで洗い流しておくと安心。水やりや葉水の記録をアプリに残しておくと、間隔が空いた時期に気づきやすいんだ。
 <!-- /character-note -->
+
+表にある葉裏の確認と、霧吹きでの洗い流し、枯れた葉先の切り整えに使う道具の例です。
+
+<!-- amazon-cards title="葉裏の点検と、枯れた葉先の手入れに" -->
+<!-- /amazon-cards -->
 
 ## 増やし方——株分け
 
