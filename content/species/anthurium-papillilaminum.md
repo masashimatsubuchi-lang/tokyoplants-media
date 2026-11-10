@@ -26,6 +26,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の湿度が60〜80%に収まっているかを、数字とグラフで確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "白い粉が出にくいスチーム式で、乾燥する冬の湿度を補う。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # アンスリウム・パピリラミナム｜卵形ビロード葉の育て方
@@ -119,6 +130,11 @@ baseProducts:
 自生地の熱帯雨林環境に倣い、**相対湿度60〜80%**を維持することが健全な生育の鍵です。日本の夏は問題ありませんが、乾燥する冬季は加湿器や植物用テラリウムケースを活用して湿度を保ちましょう。
 
 水やりは「培地の表面が乾いてから、たっぷりと与える」が基本です。常に湿った状態を続けると根腐れのリスクが高まります。着生植物の根は乾湿のサイクルを好むため、<mark>水やり後はしっかり排水・通気させることが重要です。</mark>
+
+乾燥する冬に湿度60〜80%を保てているかを確かめる温湿度計と、加湿器の例です。
+
+<!-- amazon-cards title="冬の湿度を保つための道具" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

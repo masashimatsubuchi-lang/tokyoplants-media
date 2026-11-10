@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "直下約40cmでPPFD 700と公表された電球型ライト。150〜300に合わせるなら40cmより離して使う。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
+    price: "¥1,910"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が60〜80%に収まっているかを、数字とグラフで確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # アロカシア・ドラゴンブレス｜Alocasia 'Dragon Breath' 図鑑
@@ -120,6 +136,11 @@ baseProducts:
 ### Aurea個体の発色を維持する条件
 
 Aurea（オーレア）と呼ばれる金色発色を持つ個体を管理する際は、通常個体より一層の光量確保が重要だ。<mark>**ゴールド色はカロテノイド系色素の発現によるもので、光合成の活性が高い状態で安定する傾向がある——つまり光量不足ではゴールドが薄れ、通常個体と見分けがつかなくなる。**</mark>育成ライトでPPFD 200以上を確保することがAurea発色を維持する最も確実な方法だ。また、過剰な窒素肥料は葉緑素を過剰生産させ、ゴールドを打ち消す緑化を引き起こす可能性があるため、薄めの液肥を月1回程度に留める。
+
+暗い室内で補光に使える電球型の育成ライトと取り付け用のクリップソケット、湿度60〜80%を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="補光と湿度管理の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

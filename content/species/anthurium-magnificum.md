@@ -24,6 +24,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "新葉の展開中に湿度が70%を割っていないかを、グラフで確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "白い粉が出にくいスチーム式で、乾燥する季節の湿度を補う。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
+    asin: "B000IAA00M"
+    image: "https://m.media-amazon.com/images/I/61GAEW256zL._AC_SL200_.jpg"
+    note: "バークチップとココナッツハスクを主原料にした洋ラン用バーク。評価★4.0・レビュー590件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥909"
 ---
 
 # アンスリウム・マグニフィカム｜四角い葉柄と大型の葉
@@ -137,6 +153,11 @@ baseProducts:
 - **推奨配合**: バークチップ（中〜大粒）5：パーライト2：ピートモス or ココピート2：赤玉土1
 - **水苔単体**: 大型株では水分保持が不安定になることがあるため、バーク配合の方が管理しやすい
 - 細かい土は根の通気を妨げるため避ける。根が太いほど粗い培地が向く
+
+新葉の展開中に湿度を確かめる温湿度計と加湿器、推奨配合の半分を占めるバークの例です。
+
+<!-- amazon-cards title="湿度管理とバーク配合の資材" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

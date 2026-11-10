@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の高さに置き、暖房を切った夜の最低温度をグラフで確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "プランタースタンド 鉢スタンド 幅22〜31cm調整（高さ15cm／26cm切替）"
+    asin: "B09PQJP9WC"
+    image: "https://m.media-amazon.com/images/I/61IlXdfmjOL._AC_SL200_.jpg"
+    note: "床から鉢を浮かせられる、高さを15cmと26cmに切り替えられる鉢スタンド。評価★3.9・レビュー117件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元は最適ライフ商事会社）"
+    price: "¥2,281"
+  - title: "HaruDesign 植物育成ヒートマット SA-12C（55×35cm・温度調整コントローラー付き）"
+    asin: "B0FR9CFQ6X"
+    image: "https://m.media-amazon.com/images/I/61uq3Ue7VcL._AC_SL200_.jpg"
+    note: "鉢のまわりだけを温める、温度調整コントローラーつきのマット。評価★4.4・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元HaruDesign）"
+    price: "¥3,540"
 ---
 
 「冬は暖かい部屋に置けば安心」と言われますが、実際には暖房を使い始めた12月以降にトラブルが増えます。しかも症状の出方が器具によって違います。エアコン暖房の部屋では葉先が茶色く乾き、床暖房の部屋では水切れを繰り返し、ファンヒーターの正面に置いた株は片側だけ葉が縮れる。同じ「暖房による被害」でも、効いている経路が違うためです。
@@ -124,6 +140,11 @@ baseProducts:
 5. **暖房の設定を見直す**：完全にオフにせず、就寝中も低い設定温度（16〜18℃程度）で運転を続ける方が、切って翌朝に強運転するより植物には優しい
 6. **それでも足りなければ局所加温**：部屋全体ではなく、鉢のまわりだけを保温する。[ビニールや不織布で囲う](/review/winter-insulation-goods-for-houseplants)、[園芸用ヒートマット](/review/heat-mat-for-houseplants-comparison)を使うなど
 <!-- /steps -->
+
+手順1の最低温度の記録、手順4の台上げ、手順6の局所加温に使える道具の例です。床暖房の部屋で鉢を浮かせる用途にもスタンドが使えます。
+
+<!-- amazon-cards title="夜間の冷え込みに備える道具" -->
+<!-- /amazon-cards -->
 
 <!-- callout type="tip" title="朝の「一気に暖める」も温度差になる" -->
 夜間に冷えた部屋を朝いちばんに強運転で暖めると、数時間で10℃以上の急上昇が起こります。特に問題なのは、冷えた葉に暖房の温風と朝の直射日光が同時に当たるケースです。冷えた状態の葉は光合成の処理能力が落ちているため、強い光を受けると余ったエネルギーが葉を傷めます。**朝は暖房を弱めから立ち上げ、株がレースカーテン越しの光から始められる配置**にしておくと安全です。

@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "国産 硬質 赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "「硬質」と明記された、崩れにくい赤玉土の小粒（約3〜6mm）。評価★4.2・レビュー140件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元は雑貨イズム）"
+    price: "¥1,398"
+  - title: "フジック あくぬきベラボン 4L Mサイズ"
+    asin: "B00510XUAG"
+    image: "https://m.media-amazon.com/images/I/71MQ+jEs8XL._AC_SL200_.jpg"
+    note: "ココチップの代わりに使える、ヤシガラのM粒（約5mm角）。評価★4.3・レビュー356件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥766"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "日向石の代わりに使える、小粒の軽石。評価★4.2・レビュー39件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥576"
 ---
 
 モンステラは丈夫で育てやすい植物ですが、土を間違えると根腐れで一気に弱ります。特に植え替え時の土選びは、その後の生育を大きく左右する重要な判断です。
@@ -97,6 +113,11 @@ baseProducts:
 | バーク堆肥 | 有機質・微生物の供給と適度な保水 | 栄養が切れやすく、葉色が薄くなる | 発酵樹皮、腐葉土（室内では少量に） |
 
 赤玉土は「硬質」と明記されたものを選んでください。安価な赤玉土は1年ほどで粒が潰れて泥状になり、確保したはずの通気性が失われます。
+
+基本レシピの素材の例です。赤玉土は「硬質」と明記されたもの、ココチップはヤシガラのチップ（ベラボン）、日向石は小粒の軽石で代用しています。
+
+<!-- amazon-cards title="基本レシピの素材（硬質赤玉土・ヤシガラ・軽石）" -->
+<!-- /amazon-cards -->
 
 <!-- callout type="info" title="別記事の配合と数字が違う理由" -->
 [モンステラの植え替え方法](/guide/monstera-repotting-guide)では**赤玉土5：鹿沼土2：バークチップ2：軽石1**という配合を紹介しています。こちらは園芸店で揃えやすい定番素材だけで組んだ、赤玉土主体のレシピです。

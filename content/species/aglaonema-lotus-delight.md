@@ -19,6 +19,22 @@ baseProducts:
   - title: "アグラオネマの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "直下約40cmでPPFD 700と公表された電球型ライト。100〜250に合わせるなら40cmより離して使う。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
+    price: "¥1,910"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "市販の観葉植物用培養土に20〜30%混ぜて、排水性を上げるパーライト。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
 ---
 
 # アグラオネマ・ロータスデライト｜ピンク〜レッドの鮮やかなカラーリーフ図鑑
@@ -125,6 +141,11 @@ baseProducts:
 ### 肥料
 
 成長期（4〜9月）に月1〜2回の薄めの液肥（規定量の半分）を与える。冬は施肥停止。
+
+距離つきのPPFDを公表している電球型の育成ライトと取り付け用のクリップソケット、用土に混ぜるパーライトの例です。
+
+<!-- amazon-cards title="発色を保つ補光と用土の素材" -->
+<!-- /amazon-cards -->
 
 ---
 

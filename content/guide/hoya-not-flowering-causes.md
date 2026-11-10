@@ -19,6 +19,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "リン酸を多く含む「山型」（N-P-K＝6-10-5、商品ページの表示）の液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から遠い株に、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
+    price: "¥4,445"
 ---
 
 # サクララン（ホヤ）の花が咲かない？一番多い原因は花後に花柄を切ること
@@ -82,6 +93,11 @@ baseProducts:
 ### リン酸多めの肥料を生育期に
 
 春〜秋の生育期には、開花を促すリン酸（P）成分が多めの液体肥料を規定量に薄めて与えると効果的です。
+
+リン酸の多い液体肥料と、明るい窓際に置けない株に光を足すクリップ式の育成ライトの例です。肥料は規定量に薄めて使います。
+
+<!-- amazon-cards title="花芽づくりを助ける肥料と補光" -->
+<!-- /amazon-cards -->
 
 ### 季節のリズムを守る
 

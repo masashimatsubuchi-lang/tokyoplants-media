@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "国産 硬質 赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "配合の5割を占める、崩れにくい硬質の赤玉土（小粒・約3〜6mm）。評価★4.2・レビュー140件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元は雑貨イズム）"
+    price: "¥1,398"
+  - title: "自然応用科学 天然 ふよう土 14L"
+    asin: "B0085PU6M4"
+    image: "https://m.media-amazon.com/images/I/81p17a-sDKL._AC_SL200_.jpg"
+    note: "配合の3割で保水性と養分を補う、国産広葉樹100%の腐葉土。評価★4.1・レビュー252件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,084"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合の2割で排水性と通気性を足すパーライト。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
 ---
 
 シュロチクは「手がかからない」と言われる観葉植物ですが、**植え替えを放置すると根詰まりを起こし、そこから急速に弱ります**。地下茎で新しい茎を次々に立ち上げる性質があるため、鉢の中が根でいっぱいになるまでの時間が、他の観葉植物よりずっと短いのです。
@@ -147,6 +163,11 @@ tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』�
 | パーライト | 排水性・通気性の強化。軽量化 | 土が締まり、水が染み込みにくくなる | 日向石（小粒）、軽石（小粒） |
 | 日向石 | 崩れない通気材。過湿防止 | 梅雨〜夏に鉢内が滞留する | 軽石（小粒） |
 | くん炭 | 抗菌性・pHの緩衝 | なくても大きな支障はない | 木炭チップ |
+
+基本配合（赤玉土5：腐葉土3：パーライト2）の3素材の例です。赤玉土は本文のとおり硬質のものを選んでいます。
+
+<!-- amazon-cards title="基本配合の素材（硬質赤玉土・腐葉土・パーライト）" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 「水を好む」と聞くと頻度を増やしたくなるけど、大事なのは頻度より一回ごとに乾湿のメリハリをつけること。生乾きの状態で次を与えるのが、根にはいちばん負担なんだ。

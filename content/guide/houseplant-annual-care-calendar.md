@@ -24,6 +24,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "記録した温度をグラフで振り返り、部屋の冷え込み方を確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "4月の再開時に薄めて使う、水で希釈するタイプの液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
+  - title: "ハイポネックス プロミック 観葉植物用 150g"
+    asin: "B00337XTO6"
+    image: "https://m.media-amazon.com/images/I/81ffPdq8cfL._AC_SL200_.jpg"
+    note: "4月に置き、11月に取り除く観葉植物用の置き肥。評価★4.2・レビュー501件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥545"
 ---
 
 「植え替えは春」「冬は肥料を止める」と個別には知っていても、水やり・肥料・植え替え・害虫・置き場所の5つを1年の流れで見ると、切り替えのタイミングが重なる月と何もしなくていい月がはっきり分かれます。観葉植物の管理で失敗が起きるのは、この「切り替え月」で夏や冬の感覚を引きずったときです。
@@ -173,6 +189,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 カレンダーは「月」で書いてあるけど、実際に植物が見ているのは温度と光。同じ11月でも、南向きの暖かい部屋と北向きの部屋では2〜3週間ずれることがある。最低温度計を1つ置いて、自分の部屋の「本当の11月」がいつ来るかを知っておくと、この表が自分用に調整できるよ。
 <!-- /character-note -->
+
+部屋の最低温度を記録できる温湿度計と、4月に再開する液体肥料・置き肥の例です。液体肥料は薄めから始めます。
+
+<!-- amazon-cards title="切り替え月に使う温度計と肥料" -->
+<!-- /amazon-cards -->
 
 ## 植物タイプ別の調整
 

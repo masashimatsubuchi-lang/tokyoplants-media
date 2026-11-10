@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GARDENA（ガルデナ）ハンドフォーク 8952-20"
+    asin: "B01M5K4Y44"
+    image: "https://m.media-amazon.com/images/I/41+gjQGSjTL._AC_SL200_.jpg"
+    note: "固まった表面の1〜2cmだけを軽く崩す、小型のハンドフォーク。評価★4.4・レビュー608件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,442"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "固まった古い土を落とす作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "新しい土に入れ替えるとき、鉢底穴に合わせて切って敷くネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
 ---
 
 「水をあげても土の表面を水が滑って流れていくだけ」「割り箸で突いても土がびくともしない」——観葉植物の土がカチカチに固くなり、水がうまく染み込まなくなった経験はありませんか。
@@ -111,6 +127,11 @@ baseProducts:
 - 植え替えから1〜2年以上経っている
 
 植え替えの具体的な手順は[植え替え時の土選び完全ガイド](/soil/repotting-soil-guide)、土を入れ替えるべきタイミングの詳しい判断基準は[観葉植物の土の入れ替え時期と方法](/soil/when-to-replace-soil)で解説しています。根が鉢いっぱいに回っている「根詰まり」が疑われる場合は、[根詰まりのサインと対処法](/guide/root-bound-signs-and-solutions)もあわせて確認してください。
+
+応急処置で表面をほぐすハンドフォークと、土を丸ごと入れ替えるときに使う防水シート・鉢底ネットの例です。フォークで崩すのは表面1〜2cmまでにします。
+
+<!-- amazon-cards title="表面ほぐしと土の入れ替えに使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

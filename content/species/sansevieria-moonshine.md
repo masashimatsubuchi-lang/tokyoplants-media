@@ -20,6 +20,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "花ごころ サンセベリアの土 5L"
+    asin: "B000IAA2KU"
+    image: "https://m.media-amazon.com/images/I/51evM6GE98L._AC_SL200_.jpg"
+    note: "排水性を重視した、サンスベリア・多肉植物向けの専用土。評価★4.2・レビュー272件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥707"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用の土に2〜3割足して、乾きやすくするパーライト。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢の中が乾いたことを色の変化で知らせる水やりチェッカー。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # サンスベリア・ムーンシャインを増やすなら株分け｜葉挿しは葉色が変わることも
@@ -109,6 +125,11 @@ baseProducts:
 ### 用土の考え方
 
 排水性を最優先した土が適しています。多肉質の根を持つため、一般的な観葉植物用土よりも乾燥しやすい配合が向きます。市販の観葉植物用土を使う場合は、パーライトや軽石を2〜3割追加すると安心です。素焼き鉢を使うと通気性が高まり、根腐れリスクをさらに下げられます。
+
+乾きやすく配合されたサンスベリア用の土と、手持ちの土に2〜3割足すパーライト、鉢の中の乾き具合を知らせる水やりチェッカーの例です。
+
+<!-- amazon-cards title="水はけ重視の土と水やりの目安" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

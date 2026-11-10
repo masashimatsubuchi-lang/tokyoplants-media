@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "配合のベースになる、赤玉土の小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "フジック あくぬきベラボン 4L Mサイズ"
+    asin: "B00510XUAG"
+    image: "https://m.media-amazon.com/images/I/71MQ+jEs8XL._AC_SL200_.jpg"
+    note: "ココチップとして使える、ヤシガラのM粒（約5mm角）。評価★4.3・レビュー356件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥766"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合の2割で排水性を底上げするパーライト。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
 ---
 
 「シェフレラ（カポック）は丈夫だから土は何でもいい」——そう思って何となく土を選んでいませんか。実際、シェフレラは観葉植物の中でもかなり乾燥に強く育てやすい部類ですが、唯一といっていい弱点が過湿による根腐れです。土選びを間違えると、せっかくの丈夫さが裏目に出てしまいます。この記事では、シェフレラに合う土の条件・市販品・自作配合レシピ・植え替え手順を解説します。
@@ -137,6 +153,11 @@ baseProducts:
 | ココチップ | 通気性の確保 | 過湿・根腐れの予防 |
 | パーライト・軽石 | 排水性の強化・軽量化 | 水はけの向上 |
 | バーク堆肥 | 有機質・適度な保水性 | 極端な乾燥を防ぐ |
+
+基本配合（赤玉土4：ココチップ3：パーライト2：バーク堆肥1）のうち、赤玉土・ココチップ・パーライトの例です。ココチップにはヤシガラのチップ（ベラボン）が使えます。
+
+<!-- amazon-cards title="基本配合の素材（赤玉土・ヤシガラ・パーライト）" -->
+<!-- /amazon-cards -->
 
 ---
 

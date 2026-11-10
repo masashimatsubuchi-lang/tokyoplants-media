@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切り、土の流出と害虫の侵入を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "傷んだ根を、つぶさずに切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "トレー型にもなり、作業スペースを土から守る防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 # アロカシアの植え替え時期は4〜6月｜10月以降は根腐れの緊急時を除き春を待つ
@@ -127,6 +143,11 @@ tokyoplants の **HYDRO MINERAL**（溶岩石75%＋ゼオライト25%）は、�
 - **割り箸または棒**：培地を根の間に詰めるときに使用
 - **手袋**：アロカシアの樹液はかぶれることがあるため必ず着用
 - **新聞紙またはトレー**：作業スペースを保護するため
+
+リストのうち鉢底ネットと剪定ばさみ、新聞紙の代わりに敷ける防水シートの例です。はさみは使う前にアルコールなどで消毒しておきます。
+
+<!-- amazon-cards title="植え替え前にそろえる道具" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -27,6 +27,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "直下約40cmでPPFD 700と公表された電球型ライト。150〜300に合わせるなら40cmより離して使う。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
+    price: "¥2,978"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "水苔単植えに使う、ニュージーランド産の水苔。評価★4.0・レビュー2,673件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "最低15℃と湿度60〜80%を保てているかを、グラフで確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # アロカシア・ニンジャ トリカラー｜グリーン×ホワイト×ピンクの三色斑入り希少種図鑑
@@ -134,6 +150,11 @@ baseProducts:
 ### 湿度
 
 60〜80%の高湿度を維持する。湿度不足では葉先から傷み、斑のコントラストも失われる。加湿器の導入またはガラスケース内での管理が安定した環境を作る。
+
+距離つきのPPFDを公表している電球型の育成ライト、単植えに使う水苔、15℃以上と湿度60〜80%を確かめる温湿度計の例です。ライトにはE26のソケットが別に必要です。
+
+<!-- amazon-cards title="光・培地・湿度をそろえる道具" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

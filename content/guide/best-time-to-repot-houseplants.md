@@ -23,6 +23,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切り、土の流出を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く傷んだ根を、つぶさずに切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土を落とす作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 「植え替えは春がいい」と聞くけれど、具体的に何月がベストなのか。今の時期にやっても大丈夫なのか。植え替えの時期を間違えると、植物に大きなストレスを与え、最悪の場合枯れてしまいます。
@@ -223,6 +239,11 @@ baseProducts:
 準備の中で見落とされやすいのが「養生場所を先に決めておく」ことです。植え替え後1〜2週間は半日陰で管理するため、その場所を確保していないと、作業後に慌てて置き場所を探すことになります。また、古い土を再利用すると病原菌や害虫の卵、目詰まりの原因になる微塵が持ち込まれるため、土は毎回新しいものを使ってください。
 
 必要な道具の一覧や当日の8ステップは「[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)」でまとめています。
+
+数日前にそろえる道具のうち、鉢底ネットと剪定ばさみ、作業の下に敷く防水シートの例です。
+
+<!-- amazon-cards title="数日前にそろえておく道具" -->
+<!-- /amazon-cards -->
 
 株数が多い場合は、緊急度の高い株から順に数回に分けて実施してください。全株を同じ日に植え替えると、どの株が不調なのかを見分けにくくなり、養生場所も足りなくなります。
 
