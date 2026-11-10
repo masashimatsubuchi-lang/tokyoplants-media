@@ -35,10 +35,10 @@ export default function TowelCard({ choice }: { choice: TowelChoice }) {
             />
           </div>
           <div className="min-w-0 flex-1">
-            <p className="text-[11px] font-bold tracking-[0.15em] text-emerald-700">tokyoplants オリジナル</p>
-            <p className="mt-1 text-[16px] font-bold leading-snug text-gray-900 sm:text-[17px]">{genus}の葉を、タオルにしました</p>
-            <p className="mt-1 text-[13px] text-gray-600">Daily Botanical Towel｜{pattern.name}</p>
-            <p className="mt-1.5 text-[12.5px] leading-relaxed text-gray-500">約30×20cmのマイクロファイバー。ループ付きで、キッチンや洗面所に掛けておけます。</p>
+            <p className="text-[11px] font-bold tracking-[0.15em] text-emerald-700">Daily Botanical Towel</p>
+            <p className="mt-1 text-[16px] font-bold leading-snug text-gray-900 sm:text-[17px]">{genus}のような、不思議なタオル</p>
+            <p className="mt-1 text-[13px] text-gray-600">柄：{pattern.name}</p>
+            <p className="mt-1.5 text-[12.5px] leading-relaxed text-gray-500">葉の形と葉脈が、そのままタオルになりました。約30×20cmのマイクロファイバーで、ループ付き。</p>
             <div className="mt-3 flex flex-wrap items-center gap-x-3 gap-y-2">
               <span className="text-[16px] font-extrabold text-emerald-700">¥2,000</span>
               <span className="rounded-full bg-emerald-600 px-4 py-1.5 text-[12px] font-bold text-white transition-colors group-hover:bg-emerald-700">
@@ -59,10 +59,10 @@ export default function TowelCard({ choice }: { choice: TowelChoice }) {
 
   return (
     <aside className="not-prose my-10 overflow-hidden rounded-2xl border border-emerald-200 bg-gradient-to-br from-emerald-50 to-white p-4 sm:p-5">
-      <p className="text-[11px] font-bold tracking-[0.15em] text-emerald-700">tokyoplants オリジナル</p>
-      <p className="mt-1 text-[16px] font-bold leading-snug text-gray-900 sm:text-[17px]">植物好きに贈る、葉っぱのタオル</p>
+      <p className="text-[11px] font-bold tracking-[0.15em] text-emerald-700">Daily Botanical Towel</p>
+      <p className="mt-1 text-[16px] font-bold leading-snug text-gray-900 sm:text-[17px]">植物好きに贈る、葉っぱのような不思議なタオル</p>
       <p className="mt-1 text-[12.5px] leading-relaxed text-gray-500">
-        モンステラ・アンスリウム・アロカシアの葉をかたどった全8種。約30×20cmのマイクロファイバーで、ループ付き。
+        モンステラ・アンスリウム・アロカシアの葉が、そのままタオルになりました。全8種。約30×20cmのマイクロファイバーで、ループ付き。
       </p>
       <a href={href} target="_blank" rel="noopener noreferrer" className="group mt-3 block">
         <div className="grid grid-cols-4 gap-2">
