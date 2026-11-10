@@ -23,6 +23,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "フジック あくぬきベラボン 4L Mサイズ"
+    asin: "B00510XUAG"
+    image: "https://m.media-amazon.com/images/I/71MQ+jEs8XL._AC_SL200_.jpg"
+    note: "ココチップの代わりに使える、ヤシガラのM粒（約5mm角）。評価★4.3・レビュー356件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥766"
+  - title: "刀川平和農園 平和 軽石（DIYシリーズ）小粒 2L"
+    asin: "B00BTR0HVK"
+    image: "https://m.media-amazon.com/images/I/714b5VSIOcL._AC_SL200_.jpg"
+    note: "日向石の代わりに使える、粒径4〜7mm表記の小粒の軽石。評価★4.1・レビュー34件（2026-11-10にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,208"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "葉ものタイプの配合に2割入れる、ほぐして使う水苔。評価★4.0・レビュー2,674件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
 ---
 
 「アンスリウムの葉が黄色くなって落ちる」「茎の根元がぶよぶよする」——アンスリウムのトラブルの多くは、土選びのミスから始まっています。
@@ -161,6 +177,11 @@ tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』�
 | 発酵バーク堆肥 | 粗い有機質と養分の供給 | 生育が緩慢になり、葉が小さくなる | 完熟腐葉土（1割まで） |
 | 水苔（葉ものタイプ） | 保水力の強化 | 葉縁が茶色く枯れ込む | ピートモス（1割まで・乾かしすぎ注意） |
 | くん炭 | 抗菌性・pHの緩衝 | なくても大きな支障はない | 木炭チップ |
+
+表の「代用できるもの」にあるヤシガラ（ベラボン）と小粒の軽石、葉ものタイプの配合に使う水苔の例です。
+
+<!-- amazon-cards title="配合レシピの素材（ココチップ・日向石の代用品と水苔）" -->
+<!-- /amazon-cards -->
 
 <!-- callout type="tip" title="配合比率は出発点。株を見て振る" -->
 配合比率はあくまで目安です。アンスリウムは自生環境の幅が広いため、**株の様子を見ながら通気性を優先する方向で微調整する**のが基本の考え方になります。

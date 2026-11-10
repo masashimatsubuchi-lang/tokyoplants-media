@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "表面より深い、鉢の中の乾きを色の変化で知らせる。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "こもった空気を弱い風で動かし、蒸散と乾きを促す。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
 ---
 
 # 観葉植物の土が乾かない｜夏1週間・冬2週間湿ったままなら根を確認
@@ -119,6 +130,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 「何日水やりしていないか」だけを数えるより、水やり直後の鉢の重さを一度覚えておくのがおすすめだよ。同じ重さに戻るまでの日数を追いかけると、季節ごとの乾き方の変化にも気づきやすくなるよ。
 <!-- /character-note -->
+
+表面だけではわかりにくい鉢の中の乾きを知らせる水やりチェッカーと、置き場所の空気を動かすサーキュレーターの例です。
+
+<!-- amazon-cards title="鉢の中の乾きを知る道具と、空気を動かすサーキュレーター" -->
+<!-- /amazon-cards -->
 
 ---
 

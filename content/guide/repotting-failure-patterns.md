@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "「乾いてからさらに2〜3日」の起点を、色の変化で知らせる。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "置き場所が15〜25℃に収まっているかを、記録で確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "葉を1/3ほど減らすときや、傷んだ根を切るときに使う。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # 植え替え失敗パターン5選｜よくあるミスと回復法
@@ -210,6 +226,11 @@ tokyoplantsの『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
 4. **改善がなければ根を見る**：2週間経っても変化がない、または土から腐敗臭がする場合は鉢から抜く。黒く柔らかい根を切除し、切り口を乾かして清潔な土に植え直す
 5. **2〜4週間、手を出さずに待つ**：新しい根が育ち、新芽が動き出すまで最低2〜4週間かかる。この間に何度も土を触ることが、最後の一押しになってしまうことが多い
 <!-- /steps -->
+
+水やりの起点になる乾きを知らせる水やりチェッカー、置き場所の温度を確かめる温湿度計、葉や根を整理する剪定ばさみの例です。
+
+<!-- amazon-cards title="回復期の乾きと温度を見る道具と、剪定ばさみ" -->
+<!-- /amazon-cards -->
 
 <!-- callout type="warning" title="待たずにすぐ抜くべきサイン" -->
 次のいずれかに当てはまる場合は、「2〜4週間待つ」の対象外です。すぐに鉢から抜いて根を確認してください。

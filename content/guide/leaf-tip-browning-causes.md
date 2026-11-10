@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "風の当たる置き場所の湿度を、数字とグラフで確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉水では続かない部屋の湿度を、空気側から上げる。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "細かい霧で、葉の表裏に葉水をかけられる霧吹き。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 # 観葉植物の葉先が茶色く枯れる｜新しい葉なら乾燥か肥料、古い葉なら根を疑う
@@ -92,6 +108,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 置き場所を決めるとき、光の条件だけ見て風の通り道を見落とす人が多いんだ。エアコンの風は壁や天井に反射して届くこともあるから、運転中に葉が揺れていないかを一度観察してみて。
 <!-- /character-note -->
+
+乾燥が疑わしいときに湿度を数字で確かめる温湿度計と、湿度を補う加湿器・霧吹きの例です。加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="湿度を測る・補う道具" -->
+<!-- /amazon-cards -->
 
 ### ステップ3: 水やりの履歴を振り返る
 

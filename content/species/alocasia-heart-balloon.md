@@ -22,6 +22,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くに置き、60〜80%に届いているかを確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "ガラスケースを使わない場合に、部屋の湿度を底上げする。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "水苔単植えに使う、ニュージーランド産の水苔。評価★4.0・レビュー2,674件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
 ---
 
 # アロカシア・ハートバルーン ピンク斑入り｜丸いハート葉にピンク斑が咲く希少種図鑑
@@ -106,6 +122,11 @@ baseProducts:
 ### 湿度
 
 60〜80%を目標に管理する。高湿度が葉脈のコントラストと斑の発色を安定させる。加湿器の使用または密閉性の高いガラスケースが有効。
+
+60〜80%の湿度を確かめる温湿度計と加湿器、水苔単植えに使う水苔の例です。加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="湿度を測る・上げる道具と、植え込み用の水苔" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

@@ -20,6 +20,17 @@ baseProducts:
   - title: "All plants｜観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用土に2割混ぜ、通気を足す白い粒。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "観葉植物用土に2割混ぜる、小粒の軽石。評価★4.2・レビュー39件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥583"
 ---
 
 # ホヤ・オボバタの育て方｜丸い肉厚葉と花を咲かせる条件
@@ -176,6 +187,11 @@ baseProducts:
 <!-- /mix -->
 
 鉢は素焼き（テラコッタ）が通気性の面で有利です。着生植物なので、根が乾きやすい環境のほうが本来の性質に合っています。
+
+そのまま使える多肉植物用土と、観葉植物用土に混ぜるパーライト・小粒の軽石の例です。
+
+<!-- amazon-cards title="多肉植物用土と、配合に混ぜる素材" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

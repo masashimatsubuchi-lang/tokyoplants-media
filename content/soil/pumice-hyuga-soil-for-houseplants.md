@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 軽石（DIYシリーズ）小粒 2L"
+    asin: "B00BTR0HVK"
+    image: "https://m.media-amazon.com/images/I/714b5VSIOcL._AC_SL200_.jpg"
+    note: "粒径4〜7mmと数値で表示された、小粒の軽石。評価★4.1・レビュー34件（2026-11-10にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元と販売元はAmazon.co.jp）。原料は群馬県で採掘された軽石（商品ページの表示）"
+    price: "¥1,208"
+  - title: "千吉 ステンレス土フルイ 21cm 替アミ3枚付（荒・中・細）"
+    asin: "B003VUV38O"
+    image: "https://m.media-amazon.com/images/I/71i5itHULqL._AC_SL200_.jpg"
+    note: "混ぜる前に、袋の底にたまった粉を落とすふるい。評価★4.1・レビュー1,250件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。替アミは荒・中・細の3枚"
+    price: "¥1,066"
 ---
 
 # 日向土と軽石は同じ仲間｜宮崎産で硬いのが日向土、配合は2〜4割
@@ -75,6 +86,11 @@ pHの数値は、農業資材の解説サイトや販売元の商品表示、園
 <!-- character-note character="kuro" type="warning" -->
 軽石は使う前に一度ふるうか、水で洗ってから混ぜる。袋の底にたまった粉末をそのまま入れると、せっかくの隙間が粉で埋まって水はけが落ちる。
 <!-- /character-note -->
+
+配合用に使える一般軽石の小粒と、混ぜる前に粉を落とすふるいの例です。
+
+<!-- amazon-cards title="数値表記のある小粒の軽石と、粉を落とすふるい" -->
+<!-- /amazon-cards -->
 
 ## 赤玉土との違いと、組み合わせる理由
 

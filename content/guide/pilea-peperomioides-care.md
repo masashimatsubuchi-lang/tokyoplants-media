@@ -21,6 +21,17 @@ siblings:
     role: "育て方の実務"
   - slug: "species/pilea-peperomioides"
     role: "図鑑・品種情報"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "市販の観葉植物用土に2割ほど足し、通気を上げる白い粒。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "生育期に、表示の倍率で薄めて与える液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # ピレア・ペペロミオイデスの育て方｜子株の増やし方
@@ -54,6 +65,11 @@ siblings:
 ### 肥料
 
 生育期（4〜9月）は、緩効性の固形肥料を月1回、または薄めた液体肥料を2週間に1回程度与えます。冬季（12〜2月）は生育がほぼ止まるため施肥を控えます。年間を通じた施肥スケジュールの立て方は[観葉植物の肥料カレンダー](/guide/houseplant-fertilizer-calendar)を参照してください。
+
+用土に2割ほど足すパーライトと、生育期に薄めて使う液体肥料の例です。液体肥料は本文の目安どおり2週間に1回程度にとどめ、冬は与えません。
+
+<!-- amazon-cards title="用土に足すパーライトと、生育期の液体肥料" -->
+<!-- /amazon-cards -->
 
 ### 鉢の回転
 

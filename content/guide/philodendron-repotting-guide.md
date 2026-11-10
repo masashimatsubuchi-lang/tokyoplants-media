@@ -20,6 +20,22 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切り、土の流出を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "腐敗・枯死した根を、根元から切る剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土をほぐす作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 # フィロデンドロンの植え替え｜根腐れさせない土と手順
@@ -132,6 +148,11 @@ tokyoplants が取り扱う **HYDRO MINERAL 2L**（富士山溶岩石75% + 島�
 | 剪定ばさみ | 使用前にアルコール等で拭いて清潔にする |
 | 手袋 | 樹液（シュウ酸カルシウム）が皮膚を刺激するため |
 | 木炭粉 | 切り口の保護用。なくても可 |
+
+表の道具のうち鉢底ネットと剪定ばさみ、作業の下に敷く防水シートの例です。はさみは使う前にアルコールなどで拭いておきます。
+
+<!-- amazon-cards title="植え替えの下準備に使う道具" -->
+<!-- /amazon-cards -->
 
 <!-- steps title="植え替えの手順" -->
 1. **水やりを控える**：2〜3日前から水を止め、根鉢を取り出しやすくしておく。土が適度に乾いていると根鉢がまとまり作業しやすい

@@ -29,6 +29,22 @@ baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"
     price: "¥6,800〜"
+amazonProducts:
+  - title: "花ごころ 洋らんの培養土 軽石で根腐れ防止 2L"
+    asin: "B000IABT4I"
+    image: "https://m.media-amazon.com/images/I/71EJ0mXDMCL._AC_SL200_.jpg"
+    note: "軽石・ココナッツハスク・バーク・ゼオライト配合の洋ラン用土。評価★4.0・レビュー211件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。主原料は商品ページの表示"
+    price: "¥413"
+  - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
+    asin: "B000IAA00M"
+    image: "https://m.media-amazon.com/images/I/61GAEW256zL._AC_SL200_.jpg"
+    note: "日向土や軽石と混ぜ、粗い植え込み材を自分で組むベースに。評価★4.0・レビュー590件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥909"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "表示よりさらに2〜3倍に薄め、タンクではなく用土側に与える。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # タンクブロメリアとは｜水を溜める仕組みと育て方
@@ -191,6 +207,11 @@ IFASはさらに、「ときどきタンクをフラッシュして、水の停�
 ### 肥料
 
 IFASのガイドは、生育期に規定量の**1/3〜1/2に薄めた肥料を1〜2か月に1回**、冬はほとんど与えない、という控えめな施肥を勧めています。重要なのは**中心のタンクに肥料を入れないこと**。濃い肥料分がタンクに溜まると、成長点のすぐそばに塩類が居座ることになります。施肥は用土側、または希釈した液肥の葉面散布にとどめてください。
+
+本文の「ラン用バーク系」「市販の洋ラン用培養土」にあたる用土と、薄めて用土側に与える液体肥料の例です。
+
+<!-- amazon-cards title="植え込み材と、薄めて使う液体肥料" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

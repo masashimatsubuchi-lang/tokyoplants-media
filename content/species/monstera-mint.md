@@ -32,6 +32,22 @@ siblings:
     role: "ミント単体"
   - slug: "species/variegated-monstera-types-comparison"
     role: "7品種の比較"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "直下約40cmでPPFD700と公表された、電球型の育成ライト。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。目安の200〜350に合わせるなら、それより距離を離して使う"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,910"
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "斑入りの大きな葉を支える、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
 ---
 
 # モンステラ・ミント｜希少な斑入りモンステラの特徴と育て方
@@ -148,6 +164,11 @@ siblings:
 ### 支柱
 
 モスポールに誘引すると葉が大型化し、ミント斑が美しく入った大きな葉が展開しやすくなる。斑入り品種は支柱への誘引がより重要で、大きな葉に入る美しいミント模様を楽しみたいなら必須。
+
+PPFD 200〜350を確保するための電球型育成ライトとクリップソケット、誘引に使える支柱の例です。ライトは近づけるほどPPFDが上がるため、距離で調整します。
+
+<!-- amazon-cards title="PPFDを確保する育成ライトと、誘引用の支柱" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 
