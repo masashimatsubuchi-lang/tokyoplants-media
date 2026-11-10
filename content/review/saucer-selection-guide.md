@@ -13,6 +13,22 @@ relatedSlugs:
   - "review/plant-caddy-stand-with-wheels-comparison"
   - "guide/no-drainage-hole-pot-guide"
   - "guide/fungus-gnat-prevention-rainy-season"
+amazonProducts:
+  - title: "大和プラスチック 鉢皿 深皿 5号（φ155×H50mm）ホワイト"
+    asin: "B006P9OYWU"
+    image: "https://m.media-amazon.com/images/I/61KunP2PdJL._AC_SL200_.jpg"
+    note: "深さ5cmのプラスチック受け皿。4号鉢（直径約12cm）までなら記事の目安を満たす。評価★4.1・レビュー284件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥408"
+  - title: "大和プラスチック 鉢皿 深皿 10号（φ307×H75mm）ホワイト"
+    asin: "B006P9PISY"
+    image: "https://m.media-amazon.com/images/I/71nzh8VlkGL._AC_SL200_.jpg"
+    note: "8号鉢（直径約24cm）に合う、深さ7.5cmの大きな受け皿。評価★4.1・レビュー284件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥572"
+  - title: "ポットキーパー 鉢植え受け皿 8〜12号鉢対応（床置き・トレイ引き出し式）"
+    asin: "B0CGJC4772"
+    image: "https://m.media-amazon.com/images/I/719sQNGl4RL._AC_SL200_.jpg"
+    note: "鉢を持ち上げずに、トレイを引き出して水を捨てられる。評価★4.4・レビュー80件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。許水量1.2L・耐荷重25kg・鉢底の直径28cm以内（商品ページの表示）"
+    price: "¥3,300"
 ---
 
 受け皿は、観葉植物を買うときに「とりあえず付いてきたもの」で済ませがちな道具です。ところが、サイズが合っていない・素材の選択を誤ったというだけで、床にシミができたり、気づかないうちに根腐れの原因になったりします。<mark>受け皿は「水を受けるもの」ではなく「水をいったん受けて、すぐ捨てるためのもの」</mark>——この前提を押さえるだけで、選び方も使い方もはっきりします。
@@ -113,6 +129,11 @@ relatedSlugs:
 - **カーペット・ラグ**：こぼれたときの被害が大きいので、大きめ・深めを選ぶ。できれば鉢台で浮かせる
 - **タイル・土間**：素材の自由度が高い。重い陶器も置きやすい
 - **窓際の出窓**：直射日光でプラスチックが劣化しやすい。陶器が無難
+
+深さのある受け皿と、大鉢の水を捨てやすくする引き出し式の受け皿の例です。サイズは上の表で、鉢の最大直径から選んでください。
+
+<!-- amazon-cards title="サイズと深さで選ぶ受け皿" -->
+<!-- /amazon-cards -->
 
 ## 使い方：溜まった水はいつ捨てるか
 

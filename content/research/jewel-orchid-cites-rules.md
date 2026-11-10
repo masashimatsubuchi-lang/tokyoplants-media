@@ -15,6 +15,10 @@ relatedSlugs:
   - "guide/jewel-orchid-propagation"
   - "guide/jewel-orchid-light-requirements"
   - "guide/jewel-orchid-winter-care"
+baseProducts:
+  - title: "ジュエルオーキッドの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382104"
+    price: ""
 ---
 
 「ジュエルオーキッドって、売買していいんですか？」——よくいただく質問です。ネット上には「ワシントン条約で規制されている」「販売禁止」という断片的な情報が流れており、不安になった方からの問い合わせが絶えません。

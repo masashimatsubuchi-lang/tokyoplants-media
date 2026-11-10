@@ -12,6 +12,17 @@ relatedSlugs:
   - "guide/monstera-care"
   - "guide/root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
+amazonProducts:
+  - title: "SUStee 水やりチェッカー Mサイズ グリーン"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、土の乾きを色の変化で知らせる。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "置き場所の温度と湿度を、グラフで振り返れる温湿度計。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
 ---
 
 「水やりを忘れて葉がしおれてしまった」「この植物、名前も育て方もわからない」——観葉植物の管理アプリは、こうした悩みを解決するために作られています。ただ、いざ探すと似たようなアプリが大量に出てきて、どれを入れればいいのか判断できません。
@@ -155,6 +166,11 @@ iOS・Android両対応の植物識別・ケアアプリ。24,000種以上の植�
 - 名前がわかった後の記録は**Green Collection**や**Planta**
 - **注意点**：識別アプリの多くは種類判定の後に有料プランを案内するため、課金対象を意識して使い分ける
 <!-- /cards -->
+
+アプリのリマインドは、鉢の中の実際の乾き具合までは見ていません。土の乾きや部屋の温湿度を道具で確かめておくと、記録と照らし合わせやすくなります。
+
+<!-- amazon-cards title="アプリと併用できる道具" -->
+<!-- /amazon-cards -->
 
 ## よくある質問
 

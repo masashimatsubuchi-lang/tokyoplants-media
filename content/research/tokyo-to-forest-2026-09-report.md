@@ -11,6 +11,10 @@ relatedSlugs:
   - "research/tokyo-to-forest-points-guide"
   - "research/what-is-tree-nation"
   - "research/why-plant-shops-do-reforestation"
+baseProducts:
+  - title: "tokyoplants All plants｜希少植物一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 tokyoplantsのメンバーシップ制度「tokyo to forest」について書くのは、これで3本目の記事になります。ただ、最初の2本ではどちらも「まだ公開できる植樹実績はありません」とお伝えするしかありませんでした。今回、はじめて実際の数字を報告できます。

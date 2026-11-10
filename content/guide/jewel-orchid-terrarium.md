@@ -19,6 +19,26 @@ relatedSlugs:
   - "guide/closed-container-mold-prevention"
   - "guide/paludarium-vs-terrarium"
   - "soil/sphagnum-moss-recommended"
+baseProducts:
+  - title: "ジュエルオーキッドの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382104"
+    price: ""
+amazonProducts:
+  - title: "リビング ガラス瓶 ストレートジャー Mサイズ 5.0L（径17×高さ24cm）"
+    asin: "B01AVU1HQ4"
+    image: "https://m.media-amazon.com/images/I/510HjmNiT9L._AC_SL200_.jpg"
+    note: "直径17cmで手を入れやすい、蓋つきの広口ガラス瓶。評価★4.2・レビュー1,162件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。蓋はパッキン付きで密閉度が高いので、押し込まずに載せて使う"
+    price: "¥1,100"
+  - title: "日清ガーデンメイト 超圧縮水苔 No.150（150g／復元12L）"
+    asin: "B000FXH5PK"
+    image: "https://m.media-amazon.com/images/I/71rsuEtF18L._AC_SL200_.jpg"
+    note: "容器の底床にそのまま使える、少量タイプの水苔。評価★4.1・レビュー991件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥888"
+  - title: "ロングピンセット 27cm 2本セット（ストレート・カーブ）"
+    asin: "B08FD57ZH8"
+    image: "https://m.media-amazon.com/images/I/51Rp-YnAEZL._AC_SL200_.jpg"
+    note: "容器の奥の枯葉やカビた部分をつまみ取る27cmのピンセット。評価★4.0・レビュー713件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥699"
 ---
 
 マコデスやアネクトキルスを買ってきて、鉢のまま部屋に置いたら1か月で葉先が枯れ込んだ——ジュエルオーキッドで最も多い失敗です。原因はほぼ例外なく湿度で、育て方の問題というより**置き方の問題**です。
@@ -101,6 +121,11 @@ relatedSlugs:
 一般的な観葉植物用の培養土は、腐葉土やミミズ堆肥などの有機物を含みます。通気のある鉢ならこれが利点になりますが、**閉じた容器の中では分解が進んでカビと異臭の原因**になります。混植して景観を作りたい場合でも、ジュエルオーキッドの株元だけは水苔で包んでおくと安全です。
 
 水苔の選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、層構造でしっかり作りたい場合は[植物テラリウムの作り方](/guide/plant-terrarium-how-to-make)を参照してください。
+
+広口の蓋つき瓶、底床の水苔、奥まで届くピンセットがあれば、容器植えを始められます。
+
+<!-- amazon-cards title="容器植えに使う資材" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="kuro" type="tip" -->
 水苔は水を吸わせたあと、軽く絞って「握って水が滴らない」くらいにしてから使うこと。びしょびしょのまま入れると底に水が溜まって、見えないところで根が溶けるよ。

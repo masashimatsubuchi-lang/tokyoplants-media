@@ -18,6 +18,21 @@ relatedSlugs:
   - "research/houseplant-grow-light-guide"
   - "research/light-intensity-by-window-direction"
   - "review/clip-type-grow-light-comparison"
+baseProducts:
+  - title: "ジュエルオーキッドの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382104"
+    price: ""
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "10段階の調光と、3・9・12時間で切れるタイマーを内蔵したクリップ式。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。Ra90（商品ページの表示）"
+    price: "¥4,445"
+  - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
+    asin: "B0CJBM2WV9"
+    image: "https://m.media-amazon.com/images/I/51B2UmXbU4L._AC_SL200_.jpg"
+    note: "点灯と消灯の時刻を固定して、毎日同じ区間で照らせる。評価★4.3・レビュー706件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）。1分単位・曜日指定・最大24プログラム（商品ページの表示）"
+    price: "¥1,727"
 ---
 
 「ジュエルオーキッドは暗いところで育つ」とよく言われます。これは半分正しく、半分誤解を招きます。確かに観葉植物のなかでは必要な光量が最も低い部類ですが、**まったくの暗所では間延びして倒れ、葉脈の模様も出ません。**
@@ -127,6 +142,11 @@ Liらの2025年の研究（*Agriculture*, 15(7), 705）は、*Anoectochilus form
 | バータイプ（棚用） | 40〜50cm | ○ 複数株を並べるなら有効 |
 
 クリップ式の製品比較は[クリップ式育成ライト比較](/review/clip-type-grow-light-comparison)にまとめています。
+
+調光できるクリップ式なら、出力を下げたうえで距離を変えて、弱めの光に合わせられます。10〜12時間の点灯はタイマーで固定します。
+
+<!-- amazon-cards title="ジュエルオーキッドの補光に使う道具" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 ライトを買う前に、今の置き場所のPPFDを一度測ってみるといい。測ってみたら意外と足りていた、ということは珍しくないんだ。アプリの光量チェック機能でも、置き場所の目安は把握できるよ。

@@ -11,6 +11,10 @@ relatedSlugs:
   - "research/tokyo-to-forest-points-guide"
   - "research/why-plant-shops-do-reforestation"
   - "research/tokyo-to-forest-2026-09-report"
+baseProducts:
+  - title: "tokyoplants All plants｜希少植物一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 「Tree-Nation」という名前を、tokyoplantsのメンバーシップ制度「tokyo to forest」を通じて初めて知ったという方も多いのではないでしょうか。この記事では、Tree-Nationという植樹プラットフォーム単体にフォーカスし、その成り立ちや仕組み、どうやって「植えた後」まで見届ける透明性を実現しているのかを、公式情報をもとに詳しく解説します。

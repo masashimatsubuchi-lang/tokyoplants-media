@@ -16,6 +16,26 @@ relatedSlugs:
   - "research/humidity-and-leaf-damage-thresholds"
   - "soil/hydroculture-medium-comparison"
   - "species/fittonia-albivenis"
+baseProducts:
+  - title: "tokyoplants All plants｜希少植物一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
+amazonProducts:
+  - title: "UTK ピンセット 25cm 2点セット（ストレート・カーブ）"
+    asin: "B0BNX8XGR2"
+    image: "https://m.media-amazon.com/images/I/51+NM2ObPFL._AC_SL200_.jpg"
+    note: "容器の奥への植え込みや枯葉の除去に使う25cmのピンセット。評価★4.3・レビュー118件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,088"
+  - title: "SwitchBot 防水温湿度計（IP65）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._AC_SL200_.jpg"
+    note: "結露する容器の中にも置ける防水タイプの温湿度計。評価★4.3・レビュー6,579件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存し、スマホのアプリで確認する（商品ページの表示）"
+    price: "¥1,780"
+  - title: "Mauknci 小型USBファン 60mm（3段階風量調節）"
+    asin: "B083K5M1YL"
+    image: "https://m.media-amazon.com/images/I/716wT67u-4L._AC_SL200_.jpg"
+    note: "ガラスケースの中で弱い気流を作る6cmのUSBファン。評価★4.1・レビュー339件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。強・中・弱の3段階で、24時間連続稼働に対応"
+    price: "¥1,275"
 ---
 
 # パルダリウムとテラリウムの違いは水場があるかどうか｜設備と費用の差
@@ -95,6 +115,11 @@ relatedSlugs:
 - **バックボード**：ヘゴ板・コルク・造形材など着生用の壁
 - **ヒーター**：冬に20℃を下回る部屋では必須
 <!-- /cards -->
+
+どちらにも使う長いピンセットと温湿度計、パルダリウムで換気を担う小型ファンの例です。
+
+<!-- amazon-cards title="容器栽培で使う道具" -->
+<!-- /amazon-cards -->
 
 ### 照明の考え方は共通
 

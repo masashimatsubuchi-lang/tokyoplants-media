@@ -32,6 +32,17 @@ relatedSlugs:
   - "research/grow-light-electricity-cost"
   - "guide/leggy-plant-stretching-causes"
   - "research/light-intensity-by-window-direction"
+amazonProducts:
+  - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
+    asin: "B0CJBM2WV9"
+    image: "https://m.media-amazon.com/images/I/51B2UmXbU4L._AC_SL200_.jpg"
+    note: "点灯と消灯の時刻を固定して、毎日同じ区間で照らせる。評価★4.3・レビュー706件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）。1分単位・曜日指定・最大24プログラム（商品ページの表示）"
+    price: "¥1,727"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "10段階の調光と、3・9・12時間で切れるタイマーを内蔵したクリップ式。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。Ra90（商品ページの表示）"
+    price: "¥4,445"
 ---
 
 # 植物育成ライトは1日何時間？答えは8〜12時間、24時間点灯はしない
@@ -152,6 +163,11 @@ DLI = PPFD（μmol/m²/s）× 照射秒数 ÷ 1,000,000
 <!-- /steps -->
 
 タイマー本体の選び方は[育成ライトのタイマー・スマートプラグ比較](/review/grow-light-timer-smart-plug-comparison)にまとめています。
+
+コンセントに挿すタイマーのほか、ライト本体にタイマーを内蔵した製品もあります。
+
+<!-- amazon-cards title="点灯時間を固定する道具" -->
+<!-- /amazon-cards -->
 
 ### 夜しか家にいない場合はどうするか
 

@@ -15,6 +15,22 @@ relatedSlugs:
   - "soil/soil-smell-causes"
   - "guide/anthurium-warocqueanum-care-guide"
   - "soil/mushroom-on-houseplant-soil"
+amazonProducts:
+  - title: "ELUTENG 小型USBファン 4cm（3段階風量調節）"
+    asin: "B01N7QQYZ5"
+    image: "https://m.media-amazon.com/images/I/61eIMv8PeSL._AC_SL200_.jpg"
+    note: "小さな容器の中に置ける4cmのUSBファン。評価★4.0・レビュー1,642件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。風量は3段階で、弱で葉がかすかに揺れる程度に合わせる"
+    price: "¥1,579"
+  - title: "SwitchBot 防水温湿度計（IP65）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._AC_SL200_.jpg"
+    note: "結露する容器の中にも置ける防水タイプの温湿度計。評価★4.3・レビュー6,579件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存し、スマホのアプリで確認する（商品ページの表示）"
+    price: "¥1,780"
+  - title: "ロングピンセット 27cm 2本セット（ストレート・カーブ）"
+    asin: "B08FD57ZH8"
+    image: "https://m.media-amazon.com/images/I/51Rp-YnAEZL._AC_SL200_.jpg"
+    note: "容器の奥の枯葉やカビた部分をつまみ取る27cmのピンセット。評価★4.0・レビュー713件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥699"
 ---
 
 # 密閉テラリウムのカビ対策｜換気と湿度管理
@@ -105,6 +121,11 @@ relatedSlugs:
 <!-- /stats -->
 
 毎日開けられない場合は、USB駆動の小型ファンを容器内に設置する方法が確実です。風量は「葉がかすかに揺れる」程度で十分で、強い風を当てる必要はありません。大型のガラスケースであれば、PC用の小型ファンを吸気・排気の2個構成にすると、換気を意識せずに済みます。
+
+容器の中に置く小型ファンと、結露しても使える防水の温湿度計があれば、換気の効果を数字で追えます。枯葉やカビた部分の除去には、奥まで届く長いピンセットを使います。
+
+<!-- amazon-cards title="換気と掃除に使う道具" -->
+<!-- /amazon-cards -->
 
 ### 2. 有機物を減らす
 

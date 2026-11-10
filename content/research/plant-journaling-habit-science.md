@@ -9,6 +9,17 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "review/green-collection-app-feature-guide"
   - "review/green-collection-vs-plant-care-apps-comparison"
+amazonProducts:
+  - title: "SUStee 水やりチェッカー Mサイズ ホワイト"
+    asin: "B0764NZTQY"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が乾くと青から白に変わり、水やりの時期を色で知らせる。評価★4.2・レビュー1,602件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要、中芯は別売りのリフィルで交換"
+    price: "¥498"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "置き場所の温度と湿度を、グラフで振り返れる温湿度計。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
 ---
 
 「水やりをいつしたか忘れてしまう」「気づいたら葉がしおれていた」——観葉植物のお世話がなかなか続かない、という悩みは多くの人に共通しています。一方で、育成が上手な人ほど「いつ何をしたか」を記録していることが多いのも事実です。この記事では、なぜ記録をつけることが植物育成の上達につながるのかを、自己モニタリング（自分の行動を記録・観察すること）に関する研究から読み解きます。
@@ -40,6 +51,11 @@ relatedSlugs:
 ## 記録は「振り返り」にも使える
 
 自己モニタリングのもうひとつの利点は、過去の記録を振り返ることで、うまくいったパターン・いかなかったパターンに気づけることです。「先月と同じ水やり頻度なのに、今月は葉がしおれている」といった変化は、記録が残っていて初めて比較できます。記録がなければ、こうした変化は「なんとなく調子が悪い」という漠然とした印象で終わってしまいがちです。
+
+お世話の記録に加えて、土の乾き具合や部屋の温湿度もわかると、振り返るときの手がかりが増えます。
+
+<!-- amazon-cards title="記録の手がかりを増やす道具" -->
+<!-- /amazon-cards -->
 
 他の植物管理アプリとの記録機能の違いについては[観葉植物管理アプリ比較｜Green Collection他4選](/review/green-collection-vs-plant-care-apps-comparison)でも比較しているので、記録機能を軸にアプリを選びたい方は参考にしてください。
 

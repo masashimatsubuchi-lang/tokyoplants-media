@@ -32,6 +32,22 @@ relatedSlugs:
   - "review/cheap-grow-light-check"
   - "research/why-houseplants-die-5-factors"
   - "research/houseplant-origin-temperature-database"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "PPFDを距離40cmの条件つきで公表している電球型の育成ライト。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。Ra96〜98.5（商品ページの表示）"
+    price: "¥2,978"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "10段階の調光と、3・9・12時間で切れるタイマーを内蔵したクリップ式。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。Ra90（商品ページの表示）"
+    price: "¥4,445"
+  - title: "BRIM PANEL A 45W 植物育成パネルライト"
+    asin: "B0CP4BVWMN"
+    image: "https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL200_.jpg"
+    note: "棚1段ぶんを広く照らすパネル型の育成ライト。評価★4.5・レビュー372件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。Ra90〜94（商品ページの表示）"
+    price: "¥6,795"
 ---
 
 # 日光の代わりになるライト｜直射日光の再現は無理、でも観葉植物には要らない
@@ -176,6 +192,11 @@ PPFDがやや低くても、点灯時間を伸ばせばDLIは稼げます。
 5. **点灯時間を10時間に固定する**：タイマーを使い、朝〜夕方の連続した1区間にする
 6. **2〜3週間後、新葉で判定する**：締まった新葉が出れば成功。小さい・間延びするなら5〜10cm詰める
 <!-- /steps -->
+
+条件4の照射範囲に合わせて、鉢1〜2個なら電球型かクリップ式、棚1段ならパネル型から選びます。
+
+<!-- amazon-cards title="照らす範囲で選ぶ育成ライト" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 ライトを入れると株は水を使う量が増えるよ。「光を足したのに元気がない」というときは、光ではなく水や肥料が追いついていないことも多い。環境をひとつ変えたら、他の条件も一緒に見直してあげて。

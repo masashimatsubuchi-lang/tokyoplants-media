@@ -11,6 +11,10 @@ relatedSlugs:
   - "research/what-is-tree-nation"
   - "research/tokyo-to-forest-points-guide"
   - "guide/home-compost-beginners-guide"
+baseProducts:
+  - title: "tokyoplants All plants｜希少植物一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 ---
 
 「観葉植物を育てることは、環境にやさしい趣味なのだろうか」——植物を育てるうちに、そんな疑問を持ったことはないでしょうか。緑を育てる行為そのものは心地よいものですが、その裏側にある培養土や鉢、輸送といった産業活動には、実は見過ごされがちな環境負荷があります。

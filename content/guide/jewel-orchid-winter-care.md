@@ -23,6 +23,21 @@ relatedSlugs:
   - "review/thermo-hygrometer-comparison"
   - "review/heat-mat-for-houseplants-comparison"
   - "review/winter-humidity-control-humidifier-dehumidifier"
+baseProducts:
+  - title: "ジュエルオーキッドの商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382104"
+    price: ""
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方の最低気温を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "HaruDesign 植物育成ヒートマット SA-12C（55×35cm・温度調整コントローラー付き）"
+    asin: "B0FR9CFQ6X"
+    image: "https://m.media-amazon.com/images/I/61uq3Ue7VcL._AC_SL200_.jpg"
+    note: "容器や鉢の下に敷いて、株元から温めるヒートマット。評価★4.4・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。コントローラーで温度を設定できる（商品ページの表示）"
+    price: "¥3,540"
 ---
 
 ジュエルオーキッドを1年通して育てたとき、最も株を失いやすいのが冬です。理由は低温だけではありません。**暖房が入ることで湿度が一気に落ちる**という、もうひとつの打撃が同時に来るからです。
@@ -151,6 +166,11 @@ relatedSlugs:
 - **発泡スチロールの箱**：夜間だけ鉢を入れる簡易的な方法
 
 消費電力20Wのパネルヒーターを24時間使った場合の電気代は、**20 ÷ 1000 × 24 × 31 ＝ 約15円/日**、1か月で約450円です（電力単価31円/kWhで計算）。部屋全体を暖房し続けるより、桁違いに安く済みます。
+
+明け方の最低気温を確かめる温湿度計と、株の下から温めるヒートマットの例です。
+
+<!-- amazon-cards title="冬越しに使う道具" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="kuro" type="tip" -->
 ヒーターを使うときは、熱源を直接株に当てないこと。根は温めたいけれど、葉の表面温度が上がると蒸散が増えて、かえって乾燥で傷む。鉢の下や横から、じんわり温めるのが正解だよ。

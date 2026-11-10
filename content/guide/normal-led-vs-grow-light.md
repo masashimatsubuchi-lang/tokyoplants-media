@@ -32,6 +32,22 @@ relatedSlugs:
   - "research/why-houseplants-die-5-factors"
   - "research/light-intensity-by-window-direction"
   - "guide/leggy-plant-stretching-causes"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "PPFDを距離40cmの条件つきで公表している電球型の育成ライト。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。Ra96〜98.5（商品ページの表示）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "電球型の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,910"
+  - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
+    asin: "B0CJBM2WV9"
+    image: "https://m.media-amazon.com/images/I/51B2UmXbU4L._AC_SL200_.jpg"
+    note: "点灯と消灯の時刻を固定して、毎日同じ区間で照らせる。評価★4.3・レビュー706件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）。1分単位・曜日指定・最大24プログラム（商品ページの表示）"
+    price: "¥1,727"
 ---
 
 # 普通のLEDで植物は育つ？足りないのは波長ではなく光量、その差1〜2桁
@@ -170,6 +186,11 @@ Apogee Instrumentsが公開している換算表では、光源別の係数は�
   rightTagline="量も範囲も足りない"
   rightItems="鉢が3つ以上ある／棚で管理している|アガベ・多肉・ビカクシダなど高光量種|斑入り品種の斑を保ちたい|天井照明しか光源がない|リビングの景観を保ったまま運用したい"
 -->
+
+育成ライトにするなら、PPFDを測定距離とセットで公表している製品が選びやすくなります。電球型は天井のソケットではなく、クリップソケットで株に寄せて使います。
+
+<!-- amazon-cards title="育成ライトに切り替えるときの道具" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 代用を試す前に、その場所が今どのくらいの明るさなのかを一度見ておくと判断が早いよ。アプリの光量チェックを使えば窓際とライト下の目安を数値で比べられるから、「寄せたらどこまで上がるのか」が感覚でつかめるようになる。
