@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "「乾いてからさらに数日」の起点になる、乾いた合図を色で出す。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く変色した根を、つぶさずに切り取る剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓際に置けない株へ、棚に挟んで光を足せる調光つきライト。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
 ---
 
 # アグラオネマの葉が黄色い｜1枚ずつなら寿命、同時に複数枚なら根腐れ
@@ -117,6 +133,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 黄変に気づいた日と、その前の水やり日をアプリなどに記録しておくと、次に似た症状が出たときに「これは何日前に水をやったから根腐れかも」とすぐ振り返れて便利だよ。
 <!-- /character-note -->
+
+乾いたタイミングを知らせる水やりチェッカー、傷んだ根を切るはさみ、窓際に置けない場合の育成ライトの例です。
+
+<!-- amazon-cards title="水やりの合図・根の切除・補光に使う道具" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

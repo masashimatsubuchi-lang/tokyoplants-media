@@ -15,6 +15,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "病気が疑われる葉を、付け根から切り取って処分する。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "斑点病が出やすい、湿って空気の動かない状態を解消する。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "KINCHO園芸 ベニカXファインスプレー 420ml"
+    asin: "B003ULEF52"
+    image: "https://m.media-amazon.com/images/I/61sE9NkVEeL._SL200_.jpg"
+    note: "葉裏のハダニ類に、観葉植物で使えるスプレー。評価★4.3・レビュー4,623件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。農林水産省登録第22506号。適用表の「花き類・観葉植物（ばら、花月を除く）」の行はうどんこ病・灰色かび病・アザミウマ類・アブラムシ類・コナジラミ類・ハダニ類・ハモグリバエ類・ハスモンヨトウで、カイガラムシ類と斑点病は含まれない（2026-11-10に農薬登録情報で確認）"
+    price: "¥706"
 ---
 
 # モンステラの葉に茶色い斑点が出る原因と対処法
@@ -106,6 +122,11 @@ baseProducts:
 ### ステップ5：害虫をチェックする
 
 葉の裏を明るい場所でよく観察し、小さな虫や糸状のものがいないか確認します。見つかった場合は、被害葉を拭き取り、必要に応じて薬剤処理を行います。
+
+病気が疑われる葉を切るはさみ、風通しを改善するサーキュレーター、ハダニに使える登録農薬の例です。このスプレーの観葉植物での適用には、カイガラムシ類と斑点病は含まれません。
+
+<!-- amazon-cards title="病葉を切る・風を通す・ハダニに使う道具" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

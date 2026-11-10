@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くに置き、40%を大きく下回っていないかを数字で確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉水では変わらない部屋の湿度を、環境ごと底上げする。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # 観葉植物の葉が丸まる原因は向きで絞れる｜内側に巻くのは水分か湿度不足
@@ -90,6 +101,11 @@ baseProducts:
 ### STEP4: 湿度を確認する
 
 暖房・エアコンの風が直接当たる場所や、湿度が40%を大きく下回る環境では、蒸散が過剰になり葉が丸まりやすくなります。湿度計で数値を確認し、必要な湿度レンジの目安は[観葉植物に適した湿度は何％？葉が傷む境界と対策](/research/humidity-and-leaf-damage-thresholds)を参考にしてください。
+
+湿度を数字で確かめる温湿度計と、葉水の代わりに環境そのものを変える加湿器の例です。
+
+<!-- amazon-cards title="湿度を数字で見る温湿度計と、加湿器" -->
+<!-- /amazon-cards -->
 
 ### STEP5: 葉裏を確認して害虫の有無を見る
 

@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓際に置けない株へ、棚に挟んで光を足せる調光つきライト。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "倒れて黄変した葉柄を、根元からつぶさずに切る。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # アロカシアが徒長する原因と対策
@@ -87,6 +98,11 @@ baseProducts:
 - **葉柄が明らかに弱く倒れている、または黄変してきた場合**：株の負担を減らすため、葉柄の根元からハサミで切除して構いません。健康な球根が残っていれば、光量を改善した環境から新しい葉が正常な姿で展開してきます
 
 支柱を使う場合は、モンステラのように気根を誘引する目的ではなく、あくまで倒れやすい葉柄を一時的に支える応急処置と考えてください。光量が改善されれば、次に展開する新葉は支柱なしでも自立できる太さで育ちます。
+
+窓際にスペースがない場合や冬に光を足す育成ライトと、弱った葉柄を根元から切るはさみの例です。
+
+<!-- amazon-cards title="光を足すライトと、葉柄を切るはさみ" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

@@ -29,6 +29,22 @@ baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"
     price: "¥6,800〜"
+amazonProducts:
+  - title: "コルク樹皮 着生用 大サイズ 200×300mm 1枚"
+    asin: "B09ZNKR7TX"
+    image: "https://m.media-amazon.com/images/I/71BoDPRuIlL._AC_SL200_.jpg"
+    note: "200×300mmの天然コルク樹皮。凹凸に根が掴まりやすい。評価★4.0・レビュー232件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。サイズは商品ページで選択されている「大サイズ 200×300 1枚」の表記"
+    price: "¥1,782"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "繊維の長いAAAグレード。基部の下に薄く敷く分だけ使う。評価★4.1・レビュー35件（2026-11-10にAmazon商品ページで確認／在庫あり（残り6点）・出荷元Amazon・Prime対象）"
+    price: "¥2,180"
+  - title: "福井金属工芸 石膏ボード用 JフックS（シングル）2個入"
+    asin: "B01HRIGMJ0"
+    image: "https://m.media-amazon.com/images/I/61-KSb-+0sL._AC_SL200_.jpg"
+    note: "石膏ボード用で、1個あたり安全荷重7kg（商品ページの表示）。評価★4.2・レビュー758件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。濡れた状態の総重量に余裕を持たせて使う"
+    price: "¥438"
 ---
 
 # タンクブロメリアの着生｜板付けと吊るし方
@@ -99,6 +115,11 @@ baseProducts:
 | 厚手の手袋 | 作業の安全 | 葉縁に棘のある種では必須 |
 
 水苔の選び方は[水苔おすすめ5選｜ランク・圧縮率の選び方](/soil/sphagnum-moss-recommended)、板の比較は[板付けにおすすめの板・コルク4選](/review/platycerium-mounting-board-cork)で整理しています（いずれもビカクシダ向けの記事ですが、資材の考え方は共通です）。
+
+表の資材のうち、板・水苔・壁掛けフックの例です。
+
+<!-- amazon-cards title="板付けと吊り下げに使う資材" -->
+<!-- /amazon-cards -->
 
 ### 板付けの手順
 

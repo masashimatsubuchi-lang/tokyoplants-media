@@ -22,6 +22,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "表で根腐れリスク「低」の赤玉土6：パーライト4の、ベースになる小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "粒が崩れにくく、粒子間の空気層を保つ白い排水材。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "「いつもより乾きが遅い」という早期サインに、色の変化で気づきやすくする。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # 根腐れはなぜ起きるのか——嫌気性微生物・酸素欠乏・細胞死の科学的メカニズム
@@ -149,6 +165,11 @@ C₆H₁₂O₆ → 2 C₂H₅OH（エタノール）+ 2 CO₂ + 2 ATP
 ### 赤玉土・パーライト・溶岩石が機能する理由
 
 これらの無機系資材は粒子が崩れにくく、粒子間に大きな空隙（マクロポア）を維持し続ける。マクロポアは毛管力が弱いため水を保持せず、重力によって速やかに排水される。この「速い排水」と「粒子間に残る空気層」の組み合わせが、AFP を高水準に保つ仕組みだ。
+
+表の「赤玉土6：パーライト4」をつくる素材と、「土が乾かない」という早期サインに気づくための水やりチェッカーの例です。
+
+<!-- amazon-cards title="気相率を上げる素材と、乾きの遅れに気づく道具" -->
+<!-- /amazon-cards -->
 
 ### 素焼き（テラコッタ）鉢が根腐れに強い理由
 

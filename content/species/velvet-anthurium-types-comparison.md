@@ -33,6 +33,22 @@ baseProducts:
   - title: Daily Botanical Towel｜リーフタオル
     url: 'https://www.tokyoplants.com/items/135803882'
     price: '¥2,000'
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くに置き、60%の下限を割っていないかを数字で見る。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "一般的な室内の40〜50%から、部屋の湿度を底上げする。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "水苔単植えの培地に使う、ニュージーランド産の水苔。評価★4.0・レビュー2,674件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
 ---
 
 # ベルベットアンスリウム5種比較｜難易度と選び方
@@ -70,6 +86,11 @@ baseProducts:
 | 用土 | 着生培地（水苔単植え、またはバーク系）。排水性の高い用土が重要で、過湿は根腐れの原因になる |
 | 水やり | 「常に湿っているけど過湿ではない」状態を保つ。水苔なら表面がしっかり乾いてから次の水やり |
 | 環境設備 | 高湿度を要求する種は加湿器・ガラスキャビネット・テラリウムなどで「環境そのもの」を作る |
+
+5種に共通する湿度管理に使う温湿度計と加湿器、着生培地に使う水苔の例です。ワロクアーナムの常時80%以上は、加湿器だけでなくケース栽培との組み合わせが前提になります。
+
+<!-- amazon-cards title="湿度を測る・上げる道具と、植え込み用の水苔" -->
+<!-- /amazon-cards -->
 
 ---
 

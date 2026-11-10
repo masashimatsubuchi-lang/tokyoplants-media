@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "国産 硬質赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "「硬質」と明記された、粒が潰れにくい国産の赤玉土。評価★4.2・レビュー140件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。粒の大きさは約3〜6mm（商品ページの表示）"
+    price: "¥1,398"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "タイカラー系では4割に増やす、排水と通気を担う白い粒。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "刀川平和農園 平和 くんたん 10L"
+    asin: "B00BTR0QOS"
+    image: "https://m.media-amazon.com/images/I/71+A6h8GABL._AC_SL200_.jpg"
+    note: "配合の1割に入れるくん炭。無くても致命的ではない素材。評価★4.1・レビュー277件（2026-11-10にAmazon商品ページで確認／在庫あり（残り13点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,217"
 ---
 
 「アグラオネマの葉色が薄くなってきた」「下葉が続けて黄色くなる」——耐陰性が高く丈夫なイメージのあるアグラオネマですが、土の排水性が合っていないと根腐れが進み、葉色や成長に悪影響が出ます。特に赤・ピンク系のタイカラー品種は根がデリケートな傾向があり、土選びの重要性が増します。
@@ -147,6 +163,11 @@ baseProducts:
 | くん炭 | 抗菌性・pH調整 | 必須ではない。無くても致命的にはならない | 木炭粉、ゼオライト（微粒） |
 
 赤玉土は「硬質」と明記されたものを選んでください。安価な赤玉土は1年ほどで粒が潰れて泥状になり、確保したはずの排水性が失われます。
+
+レシピのうち、赤玉土（硬質）・パーライト・くん炭の例です。
+
+<!-- amazon-cards title="配合レシピの素材（硬質赤玉土・パーライト・くん炭）" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="kuro" type="tip" -->
 配合を変えたら、水やりのあと鉢底から水が出始めるまでの時間を数えてみて。数秒〜十数秒で抜け始めるなら排水性は十分。1分近くかかるようなら、パーライトをもう1割足す余地があるよ。

@@ -24,6 +24,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "朝いちばんの窓際の温度と、60〜80%の湿度を確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉面に霧吹きせずに、空気側から湿度を上げる。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # アロカシア・クプレア（レッドシークレット）｜銅色の金属光沢が際立つジュエルアロカシア図鑑
@@ -175,6 +186,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 もしうっかり葉面に霧吹きしてしまったら、水滴が乾き切る前に乾いた柔らかい布でそっと押さえるように拭き取ると、跡が残りにくいよ。水道水はミネラル分が多いほど跡がつきやすいから、気になる場合は汲み置きした水を使うのも手だね。
 <!-- /character-note -->
+
+夜間の冷え込みと湿度を確かめる温湿度計と、葉面に霧吹きせずに湿度を上げる加湿器の例です。加湿器は吹き出し口を株に向けずに置きます。
+
+<!-- amazon-cards title="朝の温度と湿度を測る道具と、加湿器" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

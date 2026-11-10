@@ -24,6 +24,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "無印良品 猫草栽培セット 2個入り×5"
+    asin: "B0DBVM3QM2"
+    image: "https://m.media-amazon.com/images/I/61+gKvryCEL._AC_SL200_.jpg"
+    note: "葉を噛む癖のある猫に、噛んでよい猫草を用意する。評価★4.4・レビュー77件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。袋の中に再生粉砕パルプとエン麦の種（薬剤処理なし）がセット済み（商品ページの表示）"
+    price: "¥1,265"
+  - title: "ARCALITH 黒玉石 2〜4cm 1kg（化粧石）"
+    asin: "B0GF957GMY"
+    image: "https://m.media-amazon.com/images/I/61O8TgH4YsL._SL200_.jpg"
+    note: "鉢の土を覆って掘れなくする、2〜4cmの玉石。評価★4.4・レビュー33件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥750"
 ---
 
 「新しい観葉植物を迎えたいけれど、うちの猫は大丈夫だろうか」——猫と暮らしながら植物を育てている方なら、一度は不安になったことがあるはずです。猫は葉を噛んだり、鉢の土を掘ったり、揺れる葉先に飛びついたりと、植物に強い興味を示す動物です。誤食は決して珍しい事故ではありません。
@@ -220,6 +231,11 @@ ASPCAの毒性植物データベースで「Non-Toxic to Cats（猫に対して�
 <!-- character-note character="kuro" type="tip" -->
 化粧石を敷くと土の乾き具合が見えにくくなるから、水やりの判断は鉢を持ち上げた重さに切り替えるといいよ。石を1枚どけて指を入れる方法でもいいけど、毎回やると石がずれて隙間ができるからね。
 <!-- /character-note -->
+
+表の「猫草を用意する」「鉢の土を掘らせない」に使えるものの例です。どちらも単独では誤食を防げないため、部屋を分けるなどの対策と組み合わせてください。
+
+<!-- amazon-cards title="噛む欲求の受け皿と、土を掘らせない化粧石" -->
+<!-- /amazon-cards -->
 
 ## 万一、猫が植物を食べてしまったら
 

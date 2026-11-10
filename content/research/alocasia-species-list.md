@@ -36,6 +36,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の夜に置き場所が何℃まで下がるかを、記録のグラフで確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "植物学名入門 植物の名前のつけかた〈新装版〉（L.H.ベイリー著）"
+    asin: "489694237X"
+    image: "https://m.media-amazon.com/images/I/812bQeI-mML._SL200_.jpg"
+    note: "学名の命名ルールや同定の重要性を解説した入門書。評価★4.2・レビュー11件（2026-11-10にAmazon商品ページで確認／在庫あり（残り2点・入荷予定あり）・Prime対象・出荷元と販売元はAmazon.co.jp）。付録に主要属名・種小名一覧（商品ページの内容紹介）"
+    price: "¥3,080"
 ---
 
 # アロカシア属 全種一覧｜Kew POWO準拠の学名データベース
@@ -284,6 +295,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 原種の自生地が山地か低地かで、同じアロカシアでも耐えられる寒さがけっこう変わるんだ。気になる株の置き場所を決める前に、冬の夜にその場所が何℃まで下がるかを一度測っておくと安心だよ。
 <!-- /character-note -->
+
+置き場所の冬の最低温度を確かめる温湿度計と、学名のつけ方そのものを学べる本の例です。
+
+<!-- amazon-cards title="置き場所の温度を測る道具と、学名の入門書" -->
+<!-- /amazon-cards -->
 
 ## まとめ
 

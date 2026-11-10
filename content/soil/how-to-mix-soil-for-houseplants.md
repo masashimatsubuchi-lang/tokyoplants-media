@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "基本配合の5割を占める、ベースの小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "基本配合の2割。入れすぎず全体の2割以下が目安。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "千吉 ステンレス土フルイ 21cm 替アミ3枚付（荒・中・細）"
+    asin: "B003VUV38O"
+    image: "https://m.media-amazon.com/images/I/71i5itHULqL._AC_SL200_.jpg"
+    note: "中目の網目が約3mmで、赤玉土の微塵を落とせる。評価★4.1・レビュー1,250件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。細目は約1〜2mm（いずれも商品ページの表示）"
+    price: "¥1,066"
 ---
 
 市販の観葉植物の土は手軽ですが、すべての植物に最適とは限りません。自分で配合すれば、育てている植物の性質に合わせた「最適な環境」を作れます。この記事では、初心者でもすぐに実践できる配合の基本と、植物タイプ別のレシピを紹介します。
@@ -96,6 +112,11 @@ baseProducts:
 この配合をベースに、植物の特性に合わせて比率を調整していきます。
 
 素材を揃えるのが大変な場合は、古くから定番とされる **赤玉土（小粒）6：腐葉土3：パーライト1** のシンプルな3素材配合でも構いません。水はけと保水性のバランスが取れた無難な配合で、多くの観葉植物に使えます。
+
+基本配合の赤玉土・パーライトと、配合前に微塵を落とすふるいの例です。
+
+<!-- amazon-cards title="基本配合の素材と、微塵を落とすふるい" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="kuro" type="tip" -->
 配合を変えるたびに比率と日付をアプリの育成ログにメモしておくといいよ。「この配合にしてから調子が良くなった」といった変化を、あとから見比べて再現しやすくなる。

@@ -25,6 +25,17 @@ siblings:
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-rhaphidophora-tetrasperma"
     role: "土の選び方"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "つるを傷めにくい柔らかい結束材で、支柱へ軽く留める。評価★4.1・レビュー393件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
 ---
 
 # ラフィドフォラとは｜種類と代表種の育て方
@@ -170,6 +181,11 @@ siblings:
 <!-- character-note character="kuro" type="tip" -->
 支柱に誘引したら、つるを軽く固定するだけで気根が自然と支柱側に向かって伸び始めるよ。無理に気根を巻きつけようとしなくても、時間が経てば勝手にしがみついてくれることが多いんだ。
 <!-- /character-note -->
+
+気根が絡みやすいココヤシ繊維の支柱と、つるを留める結束材の例です。
+
+<!-- amazon-cards title="誘引に使う支柱と結束材" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

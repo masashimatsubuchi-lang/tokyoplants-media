@@ -23,6 +23,22 @@ baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "50%を下回っていないかを、株の近くで数字で確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "葉水の代わりに、空気側から部屋の湿度を上げる。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "加湿でこもりがちな空気を動かし、匍匐茎の根元の蒸れを防ぐ。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
 ---
 
 # フィロデンドロン・グロリオーサム｜ベルベット葉の特徴と育て方
@@ -138,6 +154,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 ビロードの葉は水滴が残るとシミ（ウォーターマーク）になりやすいから、霧吹きは葉に直接ではなく、株の周りの空気に向けて吹くのがおすすめ。湿度を上げたいなら、葉水より加湿器のほうが結果的にきれいに保てるよ。
 <!-- /character-note -->
+
+本文の「加湿器と送風の組み合わせ」に使う、温湿度計・加湿器・サーキュレーターの例です。
+
+<!-- amazon-cards title="湿度と通気を同時に確保する道具" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 
