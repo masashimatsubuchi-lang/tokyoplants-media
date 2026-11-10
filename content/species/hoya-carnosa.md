@@ -23,6 +23,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢の中まで乾いたかを、色の変化で確かめられるチェッカー。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "N-P-K＝6-10-5と、リン酸の割合が高い液体肥料（商品ページの表示）。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # ホヤ・カルノーサ（サクララン）｜甘い香りの花と多肉質葉の育て方図鑑
@@ -173,6 +184,11 @@ baseProducts:
 生育期（春〜秋）は月1〜2回、液体肥料を規定量に薄めて与えます。開花を目指す場合は、花芽形成を促すリン酸（P）が多めの肥料を選ぶと効果的です。
 
 冬の休眠期は施肥不要です。肥料を与えすぎると根が傷んだり、葉ばかりが茂って花が咲きにくくなることがあるため、生育期でも与えすぎに注意しましょう。
+
+鉢の中まで乾いたかを色で確かめるチェッカーと、リン酸の割合が高い液体肥料の例です。
+
+<!-- amazon-cards title="乾かし気味の水やりと、リン酸多めの液体肥料" -->
+<!-- /amazon-cards -->
 
 ---
 

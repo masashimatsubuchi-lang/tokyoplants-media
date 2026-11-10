@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "E26ソケットに取り付けて、上から光を足す電球型の育成ライト。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。PPFD700（LED素子直下・距離約40cm、商品ページの表示）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,910"
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
 ---
 
 # モンステラに切れ込みが入らない・小さい原因
@@ -95,6 +111,11 @@ baseProducts:
 ### 支柱を立てて気根を誘引する
 
 モンステラは半着生植物で、自然環境では気根を使って樹木に着生しながら成長します。室内でもヘゴ棒やモスポールに気根を誘引すると、着生的な生育が再現され、成熟が促進されやすくなります。支柱の種類やサイズの選び方は[観葉植物のモスポールおすすめ比較｜ヘゴ棒との違い・サイズの選び方](/review/moss-pole-comparison)を参考にしてください。
+
+窓際のスペースがないときに光を足す電球型の育成ライトと取り付け用のクリップソケット、気根を誘引する支柱の例です。暗い場所にあった株は、ライトを離した位置から段階的に近づけてください。
+
+<!-- amazon-cards title="光を足す育成ライトと、気根を誘引する支柱" -->
+<!-- /amazon-cards -->
 
 ### 鉢が狭い場合は植え替える
 

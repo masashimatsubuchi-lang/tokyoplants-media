@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢の中の乾き具合を、色の変化で知らせるチェッカー。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "細かい霧で葉の表裏にかけられる、葉水用のスプレー。評価★4.1・レビュー92件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "水で薄める倍率を変えて、規定より薄めに作れる液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 「観葉植物を育てたことがないけど、失敗しにくい植物から始めたい」——そんな方に最初の一株としておすすめしたいのがシンゴニウムです。矢じり形の可愛らしい葉と、耐陰性・丈夫さを兼ね備えた性質から、初心者でも育てやすい観葉植物として長く親しまれています。この記事では、シンゴニウムの基本の育て方から、品種選びで気をつけたい斑の管理まで、実践的に解説します。品種の詳しい特徴は[シンゴニウム・ポドフィルムの育て方図鑑](/species/syngonium-podophyllum)もあわせて参考にしてください。
@@ -78,6 +94,11 @@ baseProducts:
 ### 肥料
 
 成長期（4〜9月）に月1〜2回、液体肥料を規定より薄めに与えます。成長が速い植物のため、肥料不足が続くと葉色が薄くなりやすい点に注意してください。冬は施肥を止めます。
+
+土の乾きを確かめるチェッカー、乾燥とハダニ予防の葉水に使う霧吹き、規定より薄めて与える液体肥料の例です。
+
+<!-- amazon-cards title="乾いたら水やり・葉水・薄めの液肥に使う道具" -->
+<!-- /amazon-cards -->
 
 ### 植え替え
 

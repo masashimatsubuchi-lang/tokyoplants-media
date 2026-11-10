@@ -26,6 +26,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "フルスペクトルと表示された、12時間タイマーつきのクリップ式ライト。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。10段階の調光と、3・9・12時間のタイマーつき（商品ページの表示）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬に30〜40%まで下がる湿度を、推移のグラフで確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
 ---
 
 # アロカシア・サンデリアーナ｜波打つ葉縁が美しい「クリスプラント」の育て方図鑑
@@ -140,6 +151,11 @@ baseProducts:
 ### 湿度管理
 
 原産地の熱帯雨林環境に近い**60〜80%の高湿度**を好む。日本の室内、特に冬場は湿度が30〜40%程度まで下がりやすいため、加湿器の活用や葉水（朝に葉の両面へ）、鉢の下に水を張ったトレイを置くといった対策を組み合わせたい。夜間に葉が濡れたままにならないよう、葉水は日中の早い時間に行うのが望ましい。
+
+光が足りない場所で育成ライトを使う場合（株から40〜60cm・1日12時間前後）と、60〜80%の湿度を確かめる場合の道具の例です。
+
+<!-- amazon-cards title="光を足すライトと、湿度を測る温湿度計" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "配合の4割で、保水と通気のベースになる赤玉土の小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。粒径4〜7mm（商品ページの表示）"
+    price: "¥1,043"
+  - title: "自然応用科学 天然 ふよう土 14L"
+    asin: "B0085PU6M4"
+    image: "https://m.media-amazon.com/images/I/81p17a-sDKL._AC_SL200_.jpg"
+    note: "配合の3割で、保水性と微生物環境を補う腐葉土。評価★4.1・レビュー252件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。配合原料は国産天然広葉樹100%（商品ページの表示）"
+    price: "¥1,084"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合の2割で通気を足すパーライト。多すぎると乾きやすくなる。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
 ---
 
 夜になると葉を閉じる「祈りの植物（プレイヤープラント）」として人気のマランタ。カラテアと近縁のクズウコン科の植物で、美しい葉模様を楽しめる一方、「葉先が茶色くなる」「植え替え後に元気がなくなった」という悩みも多く聞かれます。原因の多くは、マランタの根の特性に合わない土選びにあります。
@@ -139,6 +155,11 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 <p style="margin:0;font-weight:700;color:#44403c;font-size:13px">編集部より</p>
 <p style="margin:6px 0 0;font-size:14px;color:#57534e;line-height:1.8">マランタは「乾燥にも過湿にも弱い」という扱いにくさがある一方、比率の調整幅は腐葉土を中心に、赤玉土やパーライトとの間で1割前後動かす程度で十分です。厳密さより、置き場所の湿度に合わせた方向感を大切にしてください。</p>
 </div>
+
+基本配合（赤玉土4：腐葉土3：パーライト2：くん炭1）の素材のうち、赤玉土・腐葉土・パーライトの例です。
+
+<!-- amazon-cards title="基本配合に使う赤玉土・腐葉土・パーライト" -->
+<!-- /amazon-cards -->
 
 ---
 

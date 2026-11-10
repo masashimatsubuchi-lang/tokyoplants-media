@@ -21,6 +21,22 @@ siblings:
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-rhaphidophora-tetrasperma"
     role: "土の選び方"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "茎を傷めにくい柔らかい結束材で、支柱へ軽く留める。評価★4.1・レビュー393件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "支柱を湿らせて、気根を絡みやすくするための霧吹き。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 「ミニモンステラ」という名前で流通しているものの、実はモンステラ属ではなく別の属に分類される——それがラフィドフォラ・テトラスペルマ（*Rhaphidophora tetrasperma*）です。モンステラに似た切れ込み葉をコンパクトなサイズで楽しめる上に、成長速度が速く育てる実感を得やすいことから人気が高まっています。この記事では、テトラスペルマを枯らさず、かつ本来の切れ込みの深い葉姿に育てるための管理方法を解説します。モンステラ本種の育て方は[モンステラの育て方完全ガイド](/guide/monstera-care)、品種の詳細情報は[ラフィドフォラとは｜種類と代表種](/species/rhaphidophora-tetrasperma)を参考にしてください。
@@ -81,6 +97,11 @@ siblings:
 ### 支柱・仕立て方
 
 ヘゴ棒やモスポールへの誘引が、葉のサイズアップと切れ込みの発達を促す最も重要な管理操作です。気根が支柱に絡みつくように軽く誘導しながら、上方向に伸ばしていきましょう。すでに横に伸びてしまった株でも、支柱を立てて誘引し直すことで、新しく展開する葉から徐々に大きく変化していきます。
+
+上へ誘引する支柱と、つるを支柱へ留める結束材、支柱を湿らせて気根を絡みやすくする霧吹きの例です。
+
+<!-- amazon-cards title="上へ登らせる支柱と、つるを留める結束材" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

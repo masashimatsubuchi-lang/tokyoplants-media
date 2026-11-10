@@ -28,6 +28,22 @@ siblings:
     role: "ルディシア図鑑"
   - slug: "species/macodes-petola"
     role: "マコデス図鑑"
+amazonProducts:
+  - title: "日清ガーデンメイト 超圧縮水苔 No.150（150g／復元12L）"
+    asin: "B000FXH5PK"
+    image: "https://m.media-amazon.com/images/I/71rsuEtF18L._AC_SL200_.jpg"
+    note: "単体でふんわり詰めて使える、少量タイプの水苔。評価★4.1・レビュー991件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。復元容量は約12L（商品ページの表示）"
+    price: "¥888"
+  - title: "SwitchBot 防水温湿度計（IP65・コンパクト）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._AC_SL200_.jpg"
+    note: "結露する容器の中にも置ける、防水タイプの温湿度計。評価★4.3・レビュー6,579件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存し、スマホのアプリで確認する（商品ページの表示）"
+    price: "¥1,780"
+  - title: "Mauknci 小型USBファン 60mm（3段階風量調節）"
+    asin: "B083K5M1YL"
+    image: "https://m.media-amazon.com/images/I/716wT67u-4L._AC_SL200_.jpg"
+    note: "ガラスケースの中で弱い気流を作る6cmのUSBファン。評価★4.1・レビュー339件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。強・中・弱の3段階（商品ページの表示）"
+    price: "¥1,275"
 ---
 
 深緑のビロードの上を、金の糸が網の目のように走る——マコデス・ペトラは、ジュエルオーキッドという呼び名を最も体現する種です。写真では伝わりきらず、実物を斜めから見たときに初めて「光っている」と分かります。
@@ -195,6 +211,11 @@ siblings:
 細粒のバークやパーライトを混ぜる配合も使えますが、乾きが早くなるぶん湿度管理の難度が上がります。水苔の選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)を参照してください。
 
 水やりは「水苔の表面が白っぽくなりかけたら霧吹きか、容器の縁から静かに注ぐ」程度。容器栽培では蒸発量が少ないため、鉢植え感覚で与えると確実に過湿になります。
+
+単体で使う水苔、容器の中に置ける防水の温湿度計、カビ対策で弱い気流を作る小型ファンの例です。
+
+<!-- amazon-cards title="水苔と、容器の湿度・通気を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

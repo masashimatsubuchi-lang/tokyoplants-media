@@ -37,6 +37,17 @@ siblings:
     role: "ミント単体"
   - slug: "species/variegated-monstera-types-comparison"
     role: "7品種の比較"
+amazonProducts:
+  - title: "日清ガーデンメイト 超圧縮水苔 No.150（150g／復元12L）"
+    asin: "B000FXH5PK"
+    image: "https://m.media-amazon.com/images/I/71rsuEtF18L._AC_SL200_.jpg"
+    note: "挿し穂の発根床にそのまま使える、少量タイプの水苔。評価★4.1・レビュー991件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。復元容量は約12L（商品ページの表示）"
+    price: "¥888"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "挿し木の場所の温度と湿度を、推移のグラフで確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
 ---
 
 # 斑入りモンステラの種類比較｜アルボ・タイコン・ミント
@@ -239,6 +250,11 @@ siblings:
 - **挿し穂**: 1〜2節。斑のある節、特に茎に白いラインが入っている節を選ぶ
 - **発根環境**: 水苔または軽石に挿し、湿度70〜80%・明るい日陰で管理
 - **注意**: 全緑の節から出た芽は全緑になりやすい。斑を残したいなら挿し穂選びが8割
+
+挿し穂を挿す水苔と、湿度70〜80%・25℃以上を保てているか確かめる温湿度計の例です。
+
+<!-- amazon-cards title="挿し木の水苔と、湿度を確かめる温湿度計" -->
+<!-- /amazon-cards -->
 
 手順の詳細は[モンステラの挿し木・増やし方ガイド](/guide/monstera-propagation-cutting-guide)にまとめています。
 

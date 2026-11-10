@@ -19,6 +19,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節の5〜10mm上で、枝をつぶさずに切り戻せる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "白い樹液から手を守る、ラテックスフリーのニトリル手袋。評価★4.3・レビュー3,716件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
 ---
 
 # ガジュマルの育て方｜丸坊主と気根
@@ -152,6 +163,11 @@ baseProducts:
 <!-- character-note character="kuro" type="point" -->
 すべての枝葉を切り落としても新芽が出てくるのは、幹の内側に「休眠芽」が眠っているから。普段は先端の芽が出すホルモンで抑えられているけど、先端を全部落とすとその抑制が外れて一斉に目を覚ますんだ。
 <!-- /character-note -->
+
+節の5〜10mm上で枝を切る剪定ばさみと、切り口から出る白い樹液から手を守る手袋の例です。
+
+<!-- amazon-cards title="切り戻しのはさみと、樹液から手を守る手袋" -->
+<!-- /amazon-cards -->
 
 ---
 

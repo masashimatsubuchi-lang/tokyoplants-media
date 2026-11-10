@@ -22,6 +22,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "棚に挟んで、窓から遠い株にも光を足せる調光つきのライト。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。10段階の調光と、3・9・12時間のタイマーつき（商品ページの表示）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が60〜80%を保てているか、推移をグラフで振り返れる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
 ---
 
 # モンステラ・アダンソニー斑入り｜モットルド・マーブルの育て方と斑の維持
@@ -140,6 +156,11 @@ Full Whiteに近い葉は見た目のインパクトは絶大ですが、葉緑�
 アダンソニーは本来、熱帯の木に絡みついて成長する登攀性植物です。支柱を立てることで、葉が大きく育ちフェネストレーション（穴）も増えやすくなります。
 
 **ヘゴ棒やポール（コケ棒）の使用を推奨**します。ヘゴ棒に根が食い込むことで水分と養分を補給でき、株全体が安定します。支柱なしで垂れさせて育てることも可能ですが、葉が小さくなりやすいです。
+
+本文の目安（葉から30〜50cm・1日12〜14時間）で光を足す育成ライト、60〜80%を保てているか確かめる温湿度計、気根を這わせる支柱の例です。
+
+<!-- amazon-cards title="斑を保つ光と湿度、登らせる支柱" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

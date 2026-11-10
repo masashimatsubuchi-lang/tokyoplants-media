@@ -26,6 +26,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "茎を傷めにくい柔らかい結束材で、支柱へ軽く留める。評価★4.1・レビュー393件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "気根と支柱を湿らせて、着生を進めるための霧吹き。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 # モンステラ・デリシオーサの育て方と品種
@@ -216,6 +232,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 支柱を立てても、そもそもの置き場所が暗いとフェネストレーションは進みにくい。アプリの光量チェック機能で今の場所の明るさを一度数値で確認してから、支柱を立てる位置を決めるのもおすすめだよ。
 <!-- /character-note -->
+
+気根を誘引する支柱、茎を支柱へ留める結束材、気根を湿らせておく霧吹きの例です。
+
+<!-- amazon-cards title="気根を誘引する支柱と、湿らせる霧吹き" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

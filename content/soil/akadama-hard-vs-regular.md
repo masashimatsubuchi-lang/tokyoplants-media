@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "国産 硬質 赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "商品名に「硬質」とある、国産の赤玉土の小粒。評価★4.2・レビュー140件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。粒の大きさは約3〜6mm（商品ページの表示）"
+    price: "¥1,398"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "300℃で高温熱風乾燥処理した硬質の赤玉土、と商品説明にある14Lの大袋。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。粒径4〜7mm（商品ページの表示）"
+    price: "¥1,043"
+  - title: "千吉 ステンレス土フルイ 21cm 替アミ3枚付（荒・中・細）"
+    asin: "B003VUV38O"
+    image: "https://m.media-amazon.com/images/I/71i5itHULqL._AC_SL200_.jpg"
+    note: "開封時に、袋の底にたまった粉をふるい落とすふるい。評価★4.1・レビュー1,250件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,066"
 ---
 
 # 硬質赤玉土と普通赤玉土の違い
@@ -119,6 +135,11 @@ baseProducts:
 - 粒が極端に不揃いなものは混合調整が必要
 - 室内メインなら無臭・清潔性も重視
 - 初心者ほど、多少高価でも安定素材を選ぶ
+
+崩れにくさを商品説明で示している赤玉土の小粒と、開封時に粉を落とすふるいの例です。
+
+<!-- amazon-cards title="崩れにくい赤玉土と、粉を落とすふるい" -->
+<!-- /amazon-cards -->
 
 再利用の観点では、硬質赤玉土はふるい処理後に再配合しやすいメリットがあります。普通赤玉土は崩れが進むと再利用効率が落ちるため、結果的に交換頻度が上がることがあります。初期単価だけでなく、年間コストで比較する視点が有効です。
 

@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "指を挿さなくても、鉢の中の乾き具合を色で確かめられる。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏のハダニや黒い粒（フン）を、10倍で確かめられるルーペ。評価★4.5・レビュー285件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。3枚のレンズを貼り合わせたトリプレットレンズ（商品ページの表示）"
+    price: "¥3,080"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方の最低気温を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
 ---
 
 葉の色がおかしいと気づいたとき、真っ先に検索するのは「観葉植物 葉 黄色」のような色の名前です。ただ、同じ黄色でも下葉が1枚だけなら寿命、新葉まで黄色いなら根のトラブルというように、**色だけでは原因が絞れません**。手がかりになるのは、色と「どの部位から出ているか」の組み合わせです。
@@ -157,6 +173,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 2〜3日ごとに水をあげながら「元気がない」と言われることが多いけれど、しおれの半分くらいは水の不足じゃなくて多すぎ。土が湿っているのにしおれていたら、水を足す前に鉢の重さを測ってみて。
 <!-- /character-note -->
+
+4つのステップのうち、鉢の中の湿り気・葉裏の害虫・置き場所の冷え込みを確かめるときに使える道具の例です。
+
+<!-- amazon-cards title="鉢の中・葉裏・夜の室温を確かめる道具" -->
+<!-- /amazon-cards -->
 
 ## よくある誤診
 
