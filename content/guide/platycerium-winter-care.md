@@ -21,6 +21,17 @@ baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "夜間に何℃まで下がったかを、朝にアプリのグラフで確かめられる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "朝の霧吹きで、胞子葉をむらなく湿らせられる細かい霧。評価★4.1・レビュー92件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # ビカクシダの冬越し｜温度管理と水やり頻度の落とし方
@@ -65,6 +76,11 @@ baseProducts:
 ### 胞子葉・霧吹きの調整
 
 冬は空中湿度も下がりがちです。霧吹きは朝の時間帯に行い、夕方以降は避けてください。夜間に葉が濡れたまま冷え込むと、傷みや病気の原因になります。[加湿器](/review/winter-humidity-control-humidifier-dehumidifier)を併用できる環境であれば、湿度50%前後を目安に保つと胞子葉の乾燥を防げます。
+
+室温の下限と湿度50%前後は温湿度計で確かめ、朝の霧吹きには細かい霧が出るものを使います。
+
+<!-- amazon-cards title="冬の温度・湿度の確認と朝の霧吹きに" -->
+<!-- /amazon-cards -->
 
 ### 品種別の耐寒性の違い
 

@@ -26,6 +26,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "クリップで挟み、葉から30〜50cmの距離で光を足せる。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "本文が勧める90〜120cmに合う、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
 ---
 
 # フィロデンドロン・フロリダビューティーは光不足で斑が消えやすい
@@ -172,6 +183,11 @@ baseProducts:
 <!-- character-note character="kuro" type="point" -->
 横に這わせるか上に誘引するかで、同じ株でもここまで葉の大きさと表情が変わるのは面白いところだよ。フロリダビューティーの本領は「登らせて初めて見える」姿だと思って、気長に誘引を続けてみて。
 <!-- /character-note -->
+
+斑を保つための光と、登らせるための支柱は、Amazonでも手に入ります。
+
+<!-- amazon-cards title="斑を保つ光と、登らせる支柱" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

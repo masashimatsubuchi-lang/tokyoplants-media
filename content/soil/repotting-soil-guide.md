@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "手順2で敷く鉢底ネットで、大判を鉢底穴に合わせて切って使う。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥664"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "プラ鉢の底に敷く鉢底石として使える、小粒の軽石。評価★4.2・レビュー39件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥576"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土を落とす作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥1,069"
 ---
 
 「そろそろ植え替えたいけど、どの土を使えばいいかわからない」——これは観葉植物を育て始めた多くの人が最初にぶつかる壁です。ホームセンターで土を買ってきたら虫が湧いた、水はけが悪くて根腐れした。こうした失敗のほとんどは、土の選び方を知らなかっただけです。
@@ -314,6 +330,11 @@ baseProducts:
 <!-- /character-note -->
 
 作業全体の流れ（道具・養生・時期）は[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)、買ってきた株をいつ植え替えるかは[購入後の植え替えタイミング](/guide/repotting-after-purchase)で解説しています。
+
+手順の「鉢底の準備」に使う資材と、作業の下に敷くシートは、Amazonでもそろえられます。
+
+<!-- amazon-cards title="鉢底の準備と、作業の下に敷くシート" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 抜いた古い土はどうする？
 

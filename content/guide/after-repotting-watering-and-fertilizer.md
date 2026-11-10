@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "回復期の「鉢が軽くなるまで待つ」を、色の変化で判断できる。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥458"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "再開直後は表示の2倍に薄め、半量から始める液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥527"
+  - title: "ハイポネックス プロミック 観葉植物用 150g"
+    asin: "B00337XTO6"
+    image: "https://m.media-amazon.com/images/I/81ffPdq8cfL._AC_SL200_.jpg"
+    note: "根に触れない鉢の縁寄りに置く、観葉植物用の錠剤肥料。評価★4.2・レビュー501件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥545"
 ---
 
 # 植え替え後の水やりと肥料｜いつから再開していい？
@@ -194,6 +210,11 @@ tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） �
 - **固形肥料（緩効性）**は、根に直接触れない位置（鉢の縁寄りの土の上）に置きます
 - 与えるのは**土が湿っている状態のとき**。乾ききった土に液肥を与えると濃度障害が起きやすくなります
 - 植物の状態を見ながら徐々に量を増やし、新葉が順調に出ていれば通常の施肥スケジュールへ移行します
+
+回復期の乾き具合を見る道具と、再開後に使う肥料の例です。肥料は上の注意点（半量以下から・根に触れない位置）を守って使ってください。
+
+<!-- amazon-cards title="回復期の乾き具合と、再開後の肥料" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 

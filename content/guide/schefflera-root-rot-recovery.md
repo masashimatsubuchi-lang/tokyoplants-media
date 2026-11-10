@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒くふやけた根を、根元から切り落とせる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
+    note: "側面のスリットから水と空気が抜け、鉢の中が乾きやすい鉢。評価★4.3・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元と販売元はITANSE）"
+    price: "¥2,505"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "竹串の代わりに、土の中まで乾いたことを色で知らせる水分計。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 「丈夫だと聞いていたのに、シェフレラの葉が黄色くなって落ちてきた」——シェフレラ（通称カポック）の不調の多くは、丈夫さゆえの油断から来る根腐れです。耐陰性・乾燥耐性の高さで知られる植物だけに、「観葉植物だから」と他の植物と同じ感覚で水を与え続けると、かえって根を傷めてしまいます。
@@ -128,6 +144,11 @@ baseProducts:
 - **置き場所**：風の通る明るい日陰。無風の部屋の隅は土が乾かない
 
 自分で配合するのが手間なら、粗めの素材を含んだ[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)のような培養土をそのまま使う方法もあります。
+
+傷んだ根を切るハサミ、水が抜けやすいスリット鉢、「乾かし気味」を見極める水分計は次のとおりです。
+
+<!-- amazon-cards title="根の切除と、再発を防ぐ鉢・水やり判断に" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

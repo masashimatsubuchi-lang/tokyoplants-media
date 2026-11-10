@@ -31,6 +31,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のすぐ横に置いて、60%を切っていないかを実測する。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "白い粉が出にくいスチーム式で、株から50cm〜1m離して使う。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥20,944"
 ---
 
 # アロカシア・シルバードラゴンは過湿と乾燥で枯れる｜湿度60%が境目
@@ -151,6 +162,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 湿度計を株のすぐ近くに置いてみると、部屋全体の湿度計より数値が低く出ることがよくあるよ。「部屋は40%あるはずなのに株の周りは30%台」というケースは意外と多いから、株のそばで測るのが一番参考になるんだ。
 <!-- /character-note -->
+
+株の横で湿度を実測する温湿度計と、効果が「大」の加湿器は、Amazonでも手に入ります。
+
+<!-- amazon-cards title="株のまわりを60%に保つための2点" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 水やり：小型種ほど過湿に振れやすい
 

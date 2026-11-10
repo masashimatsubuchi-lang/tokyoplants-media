@@ -23,6 +23,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,349"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から遠い株に、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
 ---
 
 # モンステラ バールマルクスフレーム｜特徴と育て方
@@ -176,6 +187,11 @@ tokyoplants でも入荷時に限定で取り扱っているが、在庫は安�
 <!-- character-note character="kuro" type="point" -->
 気根を支柱に誘導し直す作業は地味だけど、これが「もっと登りたい」という株のサインに応えてあげる行為なんだ。気根が支柱をしっかり掴んでいる株ほど、次の葉が大きく育ちやすい傾向があるよ。
 <!-- /character-note -->
+
+上へ登らせる支柱と、室内灯だけでは足りない光を補うライトは、Amazonでも手に入ります。
+
+<!-- amazon-cards title="上へ誘引する支柱と、光を足すライト" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 温度管理
 

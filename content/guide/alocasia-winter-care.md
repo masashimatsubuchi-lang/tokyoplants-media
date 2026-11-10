@@ -28,6 +28,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "鉢のすぐ横に置けば、夜間の最低温度をアプリのグラフで見返せる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "HaruDesign 植物育成ヒートマット SA-12C（55×35cm・温度調整コントローラー付き）"
+    asin: "B0FR9CFQ6X"
+    image: "https://m.media-amazon.com/images/I/61uq3Ue7VcL._AC_SL200_.jpg"
+    note: "15℃を保ちにくい場所で、鉢を下から温める温度調整つきのマット。評価★4.4・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
+    price: "¥3,540"
 ---
 
 # アロカシアの冬越し・温度管理完全ガイド
@@ -119,6 +130,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 温度計は「部屋の壁」ではなく「鉢のすぐ横」に置いてみて。人が快適な高さと、鉢が置かれている床や窓際とでは、体感より差があることが多いんだ。夜の最低気温が記録できるタイプだと、朝いちばんに確認できて安心だよ。
 <!-- /character-note -->
+
+鉢のそばに置く温湿度計と、15℃に届かない場所で鉢を下から温めるマットの例です。
+
+<!-- amazon-cards title="鉢のそばの温度を測る・足りない分を温める" -->
+<!-- /amazon-cards -->
 
 ### 置き場所——日中と夜間で条件が違う
 

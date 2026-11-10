@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "ケース内の湿度と、夏の30℃超えを数字で確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥2,680"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "10段階の調光で弱めに当てられ、アームで斜め後方からも照らせる。評価★4.3・レビュー996件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
 ---
 
 # ベゴニア・パボニナの育て方｜光の角度で青く輝く虹色の葉を持つ幻のベゴニア
@@ -133,6 +144,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 完全密閉にしたくなる気持ちはわかるけど、通気がゼロになるとカビの方が先に発生しちゃうよ。1〜2cmの隙間をキープするのは、蒸れと乾燥のちょうど中間を保つための工夫なんだ。
 <!-- /character-note -->
+
+ケースの中の湿度・温度を数字で確かめる道具と、弱めの光を角度をつけて当てられるライトは、Amazonでもそろえられます。
+
+<!-- amazon-cards title="ケース内の湿度と、斜めから当てる弱い光" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

@@ -23,6 +23,22 @@ baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "福井金属工芸 石膏ボード用 JフックS（シングル）2個入"
+    asin: "B01HRIGMJ0"
+    image: "https://m.media-amazon.com/images/I/61-KSb-+0sL._AC_SL200_.jpg"
+    note: "石膏ボードの壁に、板付け株を吊るすための2個入りフック。評価★4.2・レビュー758件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥438"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "壁際や締め切った部屋で、弱い風を回して蒸れを防ぐ。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥10,980"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "置き場所の最低気温が10℃を切ったかを、記録で確かめられる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥2,680"
 ---
 
 「ビカクシダって観葉植物っぽくないから、屋外に出していいのか室内に置くべきなのか分からない」「直射日光に当てたら葉焼けしそうで怖い」——SNSでは軒下に吊るした写真も、室内の窓辺に飾った写真も見かけるため、結局どこに置けばいいのか迷ってしまう方は多いのではないでしょうか。
@@ -160,6 +176,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 鉢底の通気が悪いと、水やり後に用土がずっと湿ったままになって根腐れにつながりやすいの。置き場所を工夫するのと合わせて、水やり後にちゃんと鉢底から水が抜けているかも確認してあげてね。
 <!-- /character-note -->
+
+板付け株を壁に掛ける金具、空気を動かすサーキュレーター、取り込みの判断に使う温湿度計の例です。フックは壁の素材と株の重さに合うかを、商品ページで確かめてから選んでください。
+
+<!-- amazon-cards title="吊るす・風を通す・最低気温を見る" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 

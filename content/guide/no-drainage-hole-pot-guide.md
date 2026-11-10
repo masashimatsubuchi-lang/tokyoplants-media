@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "日本ポリ鉢 プレステラ深型90 5個組 ブラック（スリット入り硬質ポット）"
+    asin: "B0CJM6XYP5"
+    image: "https://m.media-amazon.com/images/I/61nSOc+AV1L._AC_SL200_.jpg"
+    note: "小さめの穴なし鉢の内側に入れる、スリット入りの硬質ポット。評価★4.5・レビュー194件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥479"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "挿しておくと、土の中が乾いたときに色で水やりの合図を出す。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # 観葉植物の穴なし鉢の使い方｜水やりと根腐れ対策
@@ -177,6 +188,11 @@ baseProducts:
 - 株が育って植え替えが必要になっても、外側の穴なし鉢はそのまま使い続けられる
 
 インナーポットは穴なし鉢より一回り小さいサイズを選びます。鉢の素材ごとの乾きやすさの違いは[鉢の素材比較](/guide/pot-material-comparison)も参考にしてください。
+
+インナーポットにはスリット入りの硬質ポット、水やりの判断には竹串の代わりに色で合図を出す水分計も使えます。
+
+<!-- amazon-cards title="インナーポット方式と水やり判断に" -->
+<!-- /amazon-cards -->
 
 ---
 

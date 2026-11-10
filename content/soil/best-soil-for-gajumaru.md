@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
+    note: "根が鉢壁をぐるぐる回るのを抑える設計のスリット鉢。評価★4.3・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元と販売元はITANSE）"
+    price: "¥2,505"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "手順5で鉢底に敷く、切って使う鉢底ネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く傷んだ根や伸びた気根を、つぶさずに切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 ガジュマルは根が旺盛に育つ植物です。放置しておくと根詰まりを起こし、葉が落ちたり急激に弱ったりします。そのときに土を見直さないまま植え替えると、同じ問題を繰り返します。
@@ -285,6 +301,11 @@ baseProducts:
 <!-- /steps -->
 
 作業の一般的な流れは[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)も参考にしてください。
+
+根の回りが早いガジュマルには、側面にスリットのある鉢と、根や気根を切るための切れ味のよいハサミが役に立ちます。
+
+<!-- amazon-cards title="ガジュマルの植え替えに使う鉢と道具" -->
+<!-- /amazon-cards -->
 
 <!-- callout type="warning" title="剪定・植え替え時は白い樹液に注意" -->
 ガジュマルを含むフィカス属は、切ると**白い乳液**（ラテックス）が出ます。肌に付くとかぶれることがあり、衣類や床に付くと落ちにくいシミになります。作業時は手袋を着け、新聞紙などを敷いてください。切り口の樹液は水で洗い流すか、乾いた布で拭き取ってから植え付けます。

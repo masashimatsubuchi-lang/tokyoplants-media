@@ -23,6 +23,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴の大きさに切って敷き、細かい土の流出を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "細い根が乾きすぎる前に、色の変化で水やりの合図を出す。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 エバーフレッシュは、夜になると葉がふんわりと閉じる「就眠運動」で知られる人気の観葉植物です。涼しげな羽根状の葉と繊細な動きが魅力ですが、根が非常に細く繊細なため、土選びを間違えると途端に調子を崩します。
@@ -206,6 +217,11 @@ baseProducts:
 <!-- /steps -->
 
 [植え替えの完全ガイドはこちら](/guide/repotting-houseplants-complete-guide)
+
+手順5の鉢底ネットと、植え替え後の「少し乾いたら」を見極める水分計はAmazonでもそろいます。
+
+<!-- amazon-cards title="植え替えと、その後の水やり判断に" -->
+<!-- /amazon-cards -->
 
 鉢の号数から必要な土の量をざっくり出しておくと、買い足しや余りを減らせます。目安は[観葉植物の鉢に必要な土の量](/soil/soil-amount-for-planters)にまとめました。落とした古い土を捨てずに使いたい場合は、[観葉植物の土は再利用できる？](/soil/reusing-houseplant-soil)で再生できる条件とNGケースを確認してください。
 

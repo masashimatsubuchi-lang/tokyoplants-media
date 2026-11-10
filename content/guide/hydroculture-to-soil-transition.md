@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "手順4で鉢底に敷く、切って使うタイプの鉢底ネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "手順4で鉢底に少量敷く「粗めの粒」に使える軽石の小粒。評価★4.2・レビュー39件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥576"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "竹串の代わりに、鉢の中が乾いたことを色の変化で知らせる。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # ハイドロカルチャーから土への植え替え方法｜失敗しない手順と移行後の管理
@@ -79,6 +95,11 @@ baseProducts:
 - 竹串または水分確認用スティック
 
 最適期は5〜7月、最低でも室温20℃前後を安定確保できる時期です。真冬は回復が遅くリスクが高まります（[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)）。
+
+準備物のうち、鉢底ネット・粗めの粒・水分確認用スティックはAmazonでもそろいます。
+
+<!-- amazon-cards title="ハイドロから土への植え替えの準備物" -->
+<!-- /amazon-cards -->
 
 <!-- steps title="ハイドロ→土の植え替え 6ステップ" -->
 1. **容器から抜く**：容器壁を押してゆるめ、揺らしながら根を傷めずに取り出す

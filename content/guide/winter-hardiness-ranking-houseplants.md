@@ -31,11 +31,27 @@ hubIndex:
     - label: "冬のトラブルと対処"
       match: "^guide/(winter-leaf-drop|winter-emergency|winter-heating-appliances)"
     - label: "植物別の冬越し"
-      match: "^guide/(alocasia-winter|anthurium-winter|monstera-winter|platycerium-winter|caudex-plant-winter|hydroculture-winter|jewel-orchid-winter|stephania-dormancy)"
+      match: "^guide/(alocasia-winter|anthurium-winter|monstera-winter|platycerium-winter|caudex-plant-winter|hydroculture-winter|jewel-orchid-winter|stephania-dormancy|calathea-winter|hoya-winter|zamioculcas-winter|aglaonema-winter|strelitzia-winter|pachira-winter|umbellata-winter|gajumaru-winter|pothos-winter|dracaena-fragrans-winter|begonia-winter|philodendron-winter)"
     - label: "冬の道具・設備"
       match: "^review/(winter-insulation|winter-humidity-control|heat-mat|greenhouse-heater|grow-tent|thermo-hygrometer|plant-rack-and-greenhouse)"
     - label: "仕組みを知る"
       match: "^research/(chilling-injury|winter-heating-and-leaf|winter-survival-map|caudex-plant-winter|temperature-and-houseplant-growth)"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "鉢の高さに置けば、夜間の最低温度をアプリのグラフで見返せる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "DAIM ブラックベース 28cm 鉢スタンド（高さ5cm・10号鉢まで）"
+    asin: "B0DJBHZ242"
+    image: "https://m.media-amazon.com/images/I/61x6c4uATVL._AC_SL200_.jpg"
+    note: "鉢を床から5cm浮かせ、冷えた床から鉢底を離せるスタンド。評価★4.5・レビュー527件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥607"
+  - title: "HaruDesign 植物育成ヒートマット SA-12C（55×35cm・温度調整コントローラー付き）"
+    asin: "B0FR9CFQ6X"
+    image: "https://m.media-amazon.com/images/I/61uq3Ue7VcL._AC_SL200_.jpg"
+    note: "寒さに弱いグループの鉢を下から温める、温度調整つきのマット。評価★4.4・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
+    price: "¥3,540"
 ---
 
 「うちの観葉植物、この冬は外に出しっぱなしで大丈夫？」「何種類も育てていて、どれから室内に入れるべきか分からない」。観葉植物の冬越しで最初につまずくのは、実は植え方や水やりのテクニックよりも「そもそもこの植物はどこまで寒さに耐えられるのか」という基本情報の不足です。この記事では、代表的な観葉植物の耐寒性を大まかにランキング化し、冬越し管理の基本原則を解説します。個別の植物ごとの詳しい冬越し方法は、記事内のリンク先も併せて参考にしてください。
@@ -173,6 +189,11 @@ hubIndex:
 | **10〜15℃** | 安全圏。成長は鈍るため水やり頻度は落とす | 下限付近。13℃前後を下回らないよう注意し、水やり間隔を夏の2倍以上に | 危険域に近い。暖かい部屋への移動や加温を検討 |
 | **5〜10℃** | 限界に近い。断水に近い管理に切り替える | 危険域。生育停止・葉の変色が出やすい。暖かい場所へ移動 | 危険域。速やかに移動・加温する |
 | **5℃未満** | 限界。すべて暖かい室内へ | 低温障害のリスク大。すべて暖かい室内へ | 枯死のリスク。すべて暖かい室内へ |
+
+夜間の最低温度を確かめる温湿度計と、床の冷えや温度不足を補う道具は次のとおりです。
+
+<!-- amazon-cards title="置き場所の最低温度を測る・足りない分を補う" -->
+<!-- /amazon-cards -->
 
 ## 耐寒性ランク別の特徴と注意点
 

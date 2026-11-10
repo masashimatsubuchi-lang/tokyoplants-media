@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "フジック あくぬきベラボン 4L Mサイズ"
+    asin: "B00510XUAG"
+    image: "https://m.media-amazon.com/images/I/71MQ+jEs8XL._AC_SL200_.jpg"
+    note: "観葉植物の鉢植えで最も使われるM粒（約5mm角）の4L。評価★4.3・レビュー356件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥766"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "3つの配合すべてで重みと保水を担う、赤玉土の小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥1,043"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "バランス型・着生植物向けの配合で通気を足すパーライト。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥706"
 ---
 
 **ベラボンとは、ヤシの実のスポンジ状繊維を特許技術で加工し、水を吸って膨らみ・乾いて縮むようにした植え込み資材です。** 土ではありません。株式会社フジックのブランド名で、発売から40年のロングセラーになっています。
@@ -245,6 +261,11 @@ SNSや観葉植物コミュニティでは「ベラボンに変えたら鉢が�
 <!-- /mix -->
 
 背が高くなる株や葉が茂って重心が高い株には、赤玉土や日向石の比率を上げて鉢全体の重量を確保する配合がおすすめです。配合の基本的な考え方は[植え替え用土の選び方](/soil/repotting-soil-guide)、実際の植え替え作業は[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)で解説しています。
+
+上の配合に使う資材は、いずれもAmazonでそろえられます。
+
+<!-- amazon-cards title="配合例の資材をそろえる" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 向いている植物・向いていない植物
 

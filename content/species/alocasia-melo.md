@@ -26,6 +26,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "乾燥のダメージが見た目に出る前に、株の横の湿度を数字で知る。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "白い粉が出にくいスチーム式で、60〜80%を確保する。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥20,944"
 ---
 
 # アロカシア・メロ｜ゴツゴツした革質の葉が個性的な希少種の育て方図鑑
@@ -158,6 +169,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 メロは葉が厚いぶん、乾燥のダメージが見た目に出るまで時間がかかるんだ。だから「症状が出ていない＝足りている」とは限らないよ。株のすぐ横に湿度計を置いて、数値で判断する習慣をつけるのが確実。部屋の壁に掛けた湿度計とは10%近く違うこともあるんだ。
 <!-- /character-note -->
+
+株の横で湿度を測る温湿度計と、湿度を確保する加湿器の例です。
+
+<!-- amazon-cards title="株の横で測る温湿度計と、加湿器" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

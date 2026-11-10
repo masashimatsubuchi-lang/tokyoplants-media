@@ -26,6 +26,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "スチーム式で白い粉が出にくい加湿器。蒸気口は熱いので株から離して置く。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥20,944"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のすぐ横に置き、60〜80%に届いているかを数字で確かめる。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥2,680"
 ---
 
 # アロカシア・ヴェノム｜黒緑の光沢葉が禍々しく美しい希少種の育て方図鑑
@@ -173,6 +184,11 @@ baseProducts:
 <!-- character-note character="shadee" type="warning" -->
 葉水は「湿度を底上げする補助」であって「湿度を維持する主役」じゃないんだ。葉水だけで満足してしまうと、実際の湿度は40%台のままということも多いから、加湿器や湿度計で数値を確認する習慣をつけてね。
 <!-- /character-note -->
+
+本文の「加湿器が主役」「湿度は数値で確認」を実行するなら、次の2点が基本の組み合わせです。
+
+<!-- amazon-cards title="湿度60〜80%をつくる加湿器と、確かめる温湿度計" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

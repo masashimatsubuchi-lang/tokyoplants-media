@@ -21,6 +21,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "Bamworld 植木鉢台 キャスター付き 直径35cm 2個セット"
+    asin: "B0FPRFSGNT"
+    image: "https://m.media-amazon.com/images/I/71P2w5zSbWL._AC_SL200_.jpg"
+    note: "大きな鉢を載せたまま転がせ、日陰から窓辺への移動が楽になる。評価★4.5・レビュー1,767件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
+    price: "¥2,061"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "取り込んだ先の夜間の最低温度を、アプリのグラフで見返せる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # 観葉植物を室内に入れる時期は？夜の最低気温15℃で弱い種、10℃で全部
@@ -101,6 +112,11 @@ baseProducts:
 4. **1〜2週間かけて定位置へ**。冬の定位置が窓から離れた場所なら、少しずつ移す
 
 慣らし期間が取れなかった場合は、室内の最も明るい場所に置き、多少の葉落ちは想定内として受け止めます。新しい葉が室内の光量に合わせて展開すれば、落葉は落ち着きます。
+
+少しずつ置き場所を変える慣らしには、キャスター付きの鉢台があると重い鉢でも続けやすく、室内の置き場所の最低温度は温湿度計で確かめられます。
+
+<!-- amazon-cards title="取り込み前後の移動と、置き場所の温度確認に" -->
+<!-- /amazon-cards -->
 
 ### 取り込み直後にやらないこと
 

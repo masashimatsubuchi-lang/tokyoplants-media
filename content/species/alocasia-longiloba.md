@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "白い粉が出にくいスチーム式で、冬の乾いた部屋を60%台へ戻す。評価★4.4・レビュー434件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥20,944"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "暖房を入れる11月と切る4月の、湿度の動きを数字で追える。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥2,680"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "葉裏まで霧をかけて、ホコリとハダニを物理的に減らす。評価★4.1・レビュー92件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥753"
 ---
 
 # アロカシア・ロンギロバの育て方｜シルバーグリーンの大型葉を楽しむ栽培ガイド
@@ -157,6 +173,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 湿度計を1つ置いておくだけで管理の精度が一気に上がるよ。特に暖房を入れ始める11月と、切る4月は数字が大きく動くから、季節の変わり目こそチェックしてみてね。
 <!-- /character-note -->
+
+湿度を上げる加湿器、確かめる湿度計、葉裏のケアに使う霧吹きの例です。
+
+<!-- amazon-cards title="湿度60%を下回らせないための3点" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

@@ -31,6 +31,22 @@ relatedSlugs:
   - "guide/grow-light-hours-per-day"
   - "review/bar-type-grow-light-comparison"
   - "guide/sunlight-replacement-light"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "PPFDを距離40cmの条件つきで公表している電球型の育成ライト。評価★4.4・レビュー679件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,910"
+  - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
+    asin: "B0CJBM2WV9"
+    image: "https://m.media-amazon.com/images/I/51B2UmXbU4L._AC_SL200_.jpg"
+    note: "曜日と時刻で入り切りを設定でき、毎日の点灯を自動にできる。評価★4.3・レビュー706件（2026-11-10にAmazon商品ページで確認／在庫あり・販売元Amazon.co.jp・Prime対象）"
+    price: "¥1,727"
 ---
 
 # 安い植物育成ライトは使える？100均・ニトリ・無印
@@ -121,6 +137,11 @@ relatedSlugs:
 だからこそ、判断材料は価格ではなく**「測定距離つきのPPFDが書いてあるかどうか」**になります。価格そのものより、この情報の有無が使い勝手を大きく変えます。
 
 ここから上の価格帯で、実際にどの製品がどんなスペックを公表しているかは[クリップ式LED栽培ライト比較](/review/clip-type-grow-light-comparison)、[植物育成ライト バータイプ おすすめ5選](/review/bar-type-grow-light-comparison)、[植物育成ライト おすすめ5選](/review/plant-light-review)で機種ごとに比較しています。
+
+一例として、測定距離つきのPPFDを公表している電球型と、株に寄せて使うためのソケット、毎日の点灯を自動にするタイマーを挙げておきます。
+
+<!-- amazon-cards title="距離つきPPFDを公表する電球型と、寄せて使う道具" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-10に商品ページで確認したものです。" -->
+<!-- /amazon-cards -->
 
 ---
 

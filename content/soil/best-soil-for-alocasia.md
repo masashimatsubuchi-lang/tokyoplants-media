@@ -27,6 +27,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "ITANSE スリット鉢 7号 3個セット"
+    asin: "B08CXB5KTH"
+    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
+    note: "側面から底までのスリットで、鉢底に水が溜まりにくい鉢。評価★4.3・レビュー90件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元と販売元はITANSE）"
+    price: "¥2,505"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切り、土の流出と虫の侵入を防ぐネット。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
 ---
 
 「アロカシアを植え替えたら急に葉が落ちた」「土が乾く前に水をやってしまい根腐れした」——アロカシア栽培で最も多いトラブルは、根腐れと過湿です。
@@ -223,6 +234,11 @@ HYDRO MINERAL 単体での使用も可能です。鉢底に少量のゼオライ
 <!-- callout type="tip" title="鉢選びも「排水性」の一部" -->
 同じ土でも鉢が変われば乾き方は変わります。アロカシアには**素焼き鉢（テラコッタ）やスリット鉢**のように側面・底から空気と水が抜ける鉢が向きます。逆に、排水穴のない鉢カバーに入れっぱなしにすると鉢底に水が溜まり、どれだけ良い土を使っても根腐れします。受け皿に溜まった水は必ず捨ててください。
 <!-- /callout -->
+
+スリット鉢と鉢底ネットはAmazonでも手に入り、次の植え替え手順の準備がそろいます。
+
+<!-- amazon-cards title="アロカシアの植え替えに使う鉢と鉢底ネット" -->
+<!-- /amazon-cards -->
 
 <!-- steps title="植え替えの手順" -->
 1. **土を乾かす**：3〜5日前から水やりを止める。乾いた土の方が根を傷つけにくく、球根も確認しやすい

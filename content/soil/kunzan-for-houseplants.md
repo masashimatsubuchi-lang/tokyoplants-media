@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 くんたん 10L"
+    asin: "B00BTR0QOS"
+    image: "https://m.media-amazon.com/images/I/71+A6h8GABL._AC_SL200_.jpg"
+    note: "鉢では全体の1割までを目安に、ベース用土へ混ぜて使う。評価★4.1・レビュー277件（2026-11-10にAmazon商品ページで確認／在庫あり（残り12点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,217"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "四隅を留めるとトレー状になり、くん炭の粉や土がこぼれにくい。評価★4.2・レビュー556件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 # もみ殻くん炭のデメリット5つと入れすぎの境目
@@ -229,6 +240,11 @@ baseProducts:
 4. **軽く湿らせて仕上げる**：霧吹きで表面を湿らせると粉の飛散が止まり、鉢に入れたときの偏りも減る
 5. **余りは密閉して保管する**：吸湿するとカビの原因になる。袋の口を閉じて湿気の少ない場所に置く
 <!-- /steps -->
+
+配合に使うくん炭と、ベランダで粉や土を広げずに作業するための敷物です。
+
+<!-- amazon-cards title="くん炭と、配合作業の敷物" -->
+<!-- /amazon-cards -->
 
 ### pH調整目的で使う場合
 

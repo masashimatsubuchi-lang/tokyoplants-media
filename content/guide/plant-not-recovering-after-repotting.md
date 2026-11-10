@@ -24,6 +24,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "回復期の葉水を、葉の表裏に細かい霧でかけられる霧吹き。評価★4.1・レビュー92件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "鉢に挿すと土が乾いたときに白く変わり、水やりの合図になる。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 植え替えたのに、元気になるどころかしおれてきた——。葉が黄色くなる、ぽろぽろ落ちる、まったく回復する気配がない。そんな症状が出ると「失敗したのでは？」と焦りますよね。
@@ -132,6 +143,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 「心配だから少しだけ」とちょこちょこ水を足すのが、実は一番判断を狂わせるよ。基準を「土が乾いてから」の一点に絞ってしまうと、迷う場面がぐっと減るのでおすすめ。
 <!-- /character-note -->
+
+表の「葉水」と「土が乾いてから」を毎日続けるなら、細かい霧が出る霧吹きと、挿しておくだけで乾きを知らせる水分計があると判断がぶれません。
+
+<!-- amazon-cards title="養生中の葉水と水やり判断に" -->
+<!-- /amazon-cards -->
 
 ---
 
