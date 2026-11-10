@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "壁際に吊るした株にも弱い風を回し、水やり後の乾きを早める。評価★4.2・レビュー2,287件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "夜の窓際が品種の耐寒温度を割っていないかを、記録で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "水苔単体で植え直すときの、ニュージーランド産の水苔。評価★4.0・レビュー2,674件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
 ---
 
 # ビカクシダが枯れたかは株元で見る｜茶色い貯水葉は多くが正常
@@ -147,5 +163,10 @@ baseProducts:
 ## 鉢植えで管理している場合の用土の見直し
 
 鉢植えでビカクシダを管理している場合、根腐れの多くは用土の水はけと関係しています。ビカクシダは着生植物であるため、一般的な観葉植物用の培養土のような保水性重視の配合はそもそも向いていません。水苔単体、またはバーク・パーライト・軽石を粗めにブレンドした着生植物向けの用土を使い、水はけと通気性を優先しましょう。
+
+風を当てる・室温を測る・水苔で植え直す、の3つに使う道具の一例です。
+
+<!-- amazon-cards title="風通し・室温・植え直しの道具" -->
+<!-- /amazon-cards -->
 
 水苔の選び方・ランクの違いは[水苔おすすめ5選｜ランク・圧縮率の選び方とビカクシダ・着生植物への使い方](/soil/sphagnum-moss-recommended)、板付けへの移行を検討している場合は[ビカクシダの板付けにおすすめの板・コルク4選](/review/platycerium-mounting-board-cork)を参考にしてください。

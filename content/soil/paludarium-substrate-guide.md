@@ -21,6 +21,22 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "容器の底面サイズに切り、排水層の上に敷く仕切りに。500×1000mmの大判（商品名の表示）。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "植栽層の有機質に。着生寄りの植物には薄く敷いて使う。評価★4.0・レビュー2,674件（2026-11-10にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,752"
+  - title: "フジック あくぬきベラボン 4L Mサイズ"
+    asin: "B00510XUAG"
+    image: "https://m.media-amazon.com/images/I/71MQ+jEs8XL._AC_SL200_.jpg"
+    note: "植栽層の1割を担うチップ。アク抜き済みのMサイズ。粒は約5mm角（商品ページの表示）。評価★4.3・レビュー356件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥766"
 ---
 
 # パルダリウムの用土と底床｜排水層の作り方
@@ -99,6 +115,11 @@ baseProducts:
 <!-- callout type="warning" title="腐葉土・黒土系の培養土は使わない" -->
 有機物が多い土は、高湿度・無風の容器内で急速に分解が進みます。分解が進むと土が目詰まりし、同時に白カビ・コバエ・臭いの発生源になります。パルダリウムの植栽層に腐葉土や黒土主体の培養土を入れるのは避けてください。
 <!-- /callout -->
+
+仕切りに敷くネットと、植栽層の有機質（水苔・ベラボン）の一例です。無機質の素材は次の節を参照してください。
+
+<!-- amazon-cards title="仕切りと植栽層の有機質に" -->
+<!-- /amazon-cards -->
 
 ---
 

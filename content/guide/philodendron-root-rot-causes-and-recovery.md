@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "変色して崩れる根を、健康な根をつぶさずに切り取れる。生木切断能力は約15mm（商品ページの表示）。使う前に刃を消毒してください。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "土の中まで乾いたかを色で示し、「しおれ＝水切れ」の思い込みを防ぐ。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # フィロデンドロンの根腐れ｜原因と復活の手順
@@ -87,6 +98,11 @@ baseProducts:
 ### ステップ6：養生する
 
 植え替え後2〜3週間は直射日光を避け、明るい日陰で管理します。水やりは土が完全に乾いてから、肥料は新しい根が確認できるまで与えません。
+
+ステップ3で使うハサミと、養生中や再発防止で「土が乾いたか」を確かめる道具の一例です。
+
+<!-- amazon-cards title="根の切除と、乾いたかの確認に" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

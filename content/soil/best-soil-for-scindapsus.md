@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "市販の培養土に2割ほど足し、排水性を高める。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "小粒を15%混ぜ、極端な乾燥を防ぐ保水役に。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "植え替えで鉢底石・配合土の前に、最初に敷く1枚。500×1000mmの大判で、鉢に合わせて切って使う。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
 ---
 
 「サテンポトス」の愛称で親しまれるシンダプサス・ピクタス（スキンダプサス）は、マット質の葉に銀のスポットが入る美しい着生植物です。ポトスと混同されがちですが、サトイモ科の中でも熱帯雨林の樹木に着生して育つ性質を持つため、土選びもその生態を踏まえて考える必要があります。この記事では、スキンダプサスに合う土の条件・市販品・自作配合レシピ・植え替え手順を解説します。
@@ -132,6 +148,11 @@ baseProducts:
 | パーライト | 排水性の強化・軽量化 | 根腐れの予防 |
 | 赤玉土（小粒） | 適度な保水性 | 極端な乾燥を防ぐ |
 | ココチップ | 通気性の確保 | 着生植物らしい根の環境を再現 |
+
+基本配合で足すパーライトと赤玉土、植え替えで使う鉢底ネットの一例です。
+
+<!-- amazon-cards title="基本配合に足す素材と鉢底ネット" -->
+<!-- /amazon-cards -->
 
 ---
 

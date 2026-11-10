@@ -21,6 +21,22 @@ baseProducts:
   - title: "tokyoplants All plants｜観葉植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 防水温湿度計（IP65・コンパクト）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._SL200_.jpg"
+    note: "容器の中に入れ、湿度が種の下限を割っていないか確かめる。IP65の防水構造で、本体に68日分のデータを保存し、値はスマホのアプリで確認する（商品ページの表示）。評価★4.3・レビュー6,581件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,780"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "葉に直接かけず、空間や壁面に向けて霧を入れる。評価★4.1・レビュー92件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "ジェックス 水草ピンセット ストレート（25cm）"
+    asin: "B07PHRVWVR"
+    image: "https://m.media-amazon.com/images/I/71epCOMTZML._AC_SL200_.jpg"
+    note: "狭い容器の中で、植え込みや切り戻しの作業をする。長さ約25cm（商品ページの表示）。評価★4.5・レビュー330件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥986"
 ---
 
 # テラリウム向き観葉植物10選｜小型で多湿に強い
@@ -215,6 +231,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 最初に組むなら、必要湿度の近いものだけで揃えるのがコツだよ。「フィットニアとペペロミアを一緒に」みたいな組み合わせは、どちらかが必ず我慢することになるんだ。
 <!-- /character-note -->
+
+組み合わせを決めたら、容器の中の湿度を実際に測ると答え合わせができます。測る・霧を入れる・植え込む道具の一例です。
+
+<!-- amazon-cards title="容器の中を測る・整える道具" -->
+<!-- /amazon-cards -->
 
 ---
 

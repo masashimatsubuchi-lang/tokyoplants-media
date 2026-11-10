@@ -28,6 +28,22 @@ baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"
     price: "¥6,800〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "子株の付け根やストロンを、組織をつぶさずに切れる。生木切断能力は約15mm（商品ページの表示）。使う前にアルコールで拭いてください。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
+    asin: "B000IAA00M"
+    image: "https://m.media-amazon.com/images/I/61GAEW256zL._AC_SL200_.jpg"
+    note: "ラン用バーク主体の、粗い培地を作るベースに。発酵処理済みの洋ラン用バーク。評価★4.0・レビュー590件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥909"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "タンクを空にしている活着期に、葉面へ細かい霧を届ける。評価★4.1・レビュー92件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # タンクブロメリアの株分け｜子株の切り離しと管理
@@ -109,6 +125,11 @@ baseProducts:
 - 厚手の手袋（葉縁に棘がある種では必須）
 - 粗い培地（ラン用バーク、日向土、軽石、ヤシガラチップなど）
 - 子株が倒れない最小サイズの鉢
+
+刃物・培地・活着までの葉水に使う道具の一例です。
+
+<!-- amazon-cards title="切り離しと活着までに使う道具" -->
+<!-- /amazon-cards -->
 
 ### 切り離しの手順
 

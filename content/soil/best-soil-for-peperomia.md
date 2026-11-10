@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合の3〜4割を担う、軽さと排水性の主役。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "配合の2〜3割。株を支える重みと適度な保水を担う小粒。評価★4.4・レビュー293件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "刀川平和農園 平和 くんたん 10L"
+    asin: "B00BTR0QOS"
+    image: "https://m.media-amazon.com/images/I/71+A6h8GABL._AC_SL200_.jpg"
+    note: "配合の1割。必須ではないが、抗菌性とpH調整を足す。評価★4.1・レビュー277件（2026-11-10にAmazon商品ページで確認／在庫あり（残り13点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,217"
 ---
 
 「ペペロミアの茎が黒くなって倒れた」「葉がぽろぽろ落ちる」——コンパクトで育てやすいイメージのペペロミアですが、実は水やり過多による茎腐れが最も多いトラブルです。多肉質の葉と根を持つペペロミアは、見た目以上に土の排水性がシビアに影響します。
@@ -164,6 +180,11 @@ baseProducts:
 | くん炭 | 抗菌性・pH調整 | 必須ではない。無くても致命的にはならない | 木炭粉、ゼオライト（微粒） |
 
 バーミキュライトは保水性が高すぎるため、パーライトの代用にはなりません。両者の違いは[パーライトとバーミキュライトの使い分け](/soil/perlite-vs-vermiculite)で解説しています。
+
+上の配合レシピで使う素材の一例です。
+
+<!-- amazon-cards title="配合レシピの素材" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->
 ペペロミアは鉢が小さいぶん、持ち上げたときの重さの差がわかりやすい植物だよ。水やり直後と、乾ききったときの重さを手で覚えておくと、表面の見た目に惑わされずに判断できるようになるの。

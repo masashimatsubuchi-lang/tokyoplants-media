@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "置き場所が夜に5℃を切っていないかを、記録で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "貯水根のある株で、土の中まで乾いたかを色で確かめる。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "4〜10月に月1〜2回、水で薄めて与える液体肥料。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # オリヅルランの耐寒性は？5℃を目安に室内へ、0℃近くまで耐えるとされる
@@ -160,6 +176,11 @@ baseProducts:
 ### 温度と冬越し
 
 生育適温は15〜28℃。5℃を目安に室内へ取り込みます。0℃近くまで耐えるとされていますが、霜に当たると葉が傷み、凍結すると根まで傷みます。冬は水を控えめにし、日中の日当たりを確保すれば、無加温の室内で問題なく越冬します。他の観葉植物との比較は[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)を参照してください。
+
+冬の5℃ラインの確認、乾いてからの水やり、生育期の液体肥料に使う道具の一例です。
+
+<!-- amazon-cards title="冬の温度・水やり・肥料の道具" -->
+<!-- /amazon-cards -->
 
 ### 年間管理
 

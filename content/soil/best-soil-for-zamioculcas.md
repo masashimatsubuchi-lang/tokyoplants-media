@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "国産 硬質赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "崩れにくく排水性が長持ちする、硬質タイプの赤玉土小粒。粒の大きさは約3〜6mm（商品ページの表示）。評価★4.2・レビュー140件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥1,398"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合の3割を担う排水材。軽さを重視するならこちら。評価★4.2・レビュー15件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴をふさぎ、土の流出を防いで排水経路を確保する。500×1000mmの大判で、鉢に合わせて切って使う。評価★4.4・レビュー76件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
 ---
 
 「ザミオクルカスを植え替えたいけど、どんな土を使えばいいかわからない」「葉がしわしわになったり黄色くなったりするのは土のせい？」——丈夫で育てやすいと評判のザミオクルカスですが、実は土選びを間違えると一気に調子を崩す植物でもあります。
@@ -58,6 +74,11 @@ baseProducts:
 | 観葉植物用培養土 | 2 | 適度な保水性と養分の補給 |
 
 赤玉土は硬質タイプを選ぶと崩れにくく、排水性が長持ちします。軽石とパーライトはどちらでも構いませんが、軽量化を重視するならパーライト、コストを抑えたいなら軽石が向いています。
+
+上の配合で使う硬質赤玉土とパーライト、植え替え時に敷く鉢底ネットの一例です。
+
+<!-- amazon-cards title="配合レシピの素材と鉢底ネット" -->
+<!-- /amazon-cards -->
 
 ### 市販の観葉植物用土を使う場合
 

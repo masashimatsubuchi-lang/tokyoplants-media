@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/41hQLomFS-L._AC_SL200_.jpg"
+    note: "土の中が乾いたかを色で示し、乾く前の水やりを防ぐ。中芯の交換目安は有機培養土で約6〜9か月、無機培養土で約9〜12か月（商品ページの表示）。評価★4.2・レビュー1,360件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の窓際の夜間温度を記録し、低温ダメージを切り分ける。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # ドラセナ（幸福の木）の幹が腐る原因と見分け方
@@ -82,6 +93,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 水やりした日をアプリに記録しておくと、幹の異変に気づいたときに「直近何日、どれくらいの頻度で水をあげ続けていたか」を振り返りやすくなるよ。
 <!-- /character-note -->
+
+予防で見直す「水やりの間隔」と「冬の置き場所の温度」を確かめる道具の一例です。
+
+<!-- amazon-cards title="過湿と冷えを確かめる道具" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

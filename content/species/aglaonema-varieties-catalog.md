@@ -34,6 +34,17 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "窓際の夜間が15℃を割っていないかを、記録で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,351件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "象印 スチーム式加湿器 3.0L EE-DF35"
+    asin: "B0FH9HDDKB"
+    image: "https://m.media-amazon.com/images/I/51DnAPbf9HL._AC_SL200_.jpg"
+    note: "ピクタム系が求める60〜80%を、暖房の部屋で確保する。白い粉が出にくいスチーム式。評価★4.4・レビュー435件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥20,944"
 ---
 
 # アグラオネマの種類一覧｜店頭の名前の大半は学名ではなく園芸品種名
@@ -209,6 +220,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 株を選ぶときは葉だけでなく株元を見て。茎がぐらつく株、下葉が落ちて茎だけ長く伸びている株は、前の環境で光が足りていなかったサイン。買ってから間延びが直るまで時間がかかる。
 <!-- /character-note -->
+
+手順2の温度と手順3の湿度を確かめる温湿度計と、加湿器の一例です。
+
+<!-- amazon-cards title="冬の最低温度と湿度を確かめる" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "暗い室内で、紫の発色を保つための補光に。10段階の調光と3/9/12時間のタイマー付き（商品ページの表示）。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
+    price: "¥4,445"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "徒長した茎を切り戻し、そのまま挿し穂にする。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "生育期に、規定の半量に薄めて月1〜2回与える。評価★4.3・レビュー8,043件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # トラデスカンティア・ゼブリナは明るいほど紫が濃い。茎を水に挿せば2週間で発根
@@ -98,6 +114,11 @@ baseProducts:
 ### 肥料
 
 生育期（4〜9月）に月1〜2回、規定濃度の半量に薄めた液体肥料を与えます。成長が速い植物なので肥料不足になると葉色が薄くなりがちですが、肥料過多は徒長を促進するため、与えすぎないことも重要です。冬期は施肥を停止します。
+
+補光・切り戻し・液体肥料に使う道具の一例です。
+
+<!-- amazon-cards title="発色・切り戻し・肥料の道具" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 
