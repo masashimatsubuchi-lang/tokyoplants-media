@@ -22,6 +22,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "暗い室内で明るさを足す、電球型の育成ライト。評価★4.4・レビュー680件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株に向けられるソケット。評価★4.3・レビュー312件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,910"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用土に30〜40%足して、排水性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
 ---
 
 # ペペロミア・アルギレイア｜スイカ柄葉の特徴と育て方
@@ -120,6 +136,11 @@ baseProducts:
 ### 植え替え
 
 1〜2年に1回、5〜6月が適期。根詰まりになると下葉が落ちやすくなる。一回り大きな鉢に移す。鉢底の排水孔が詰まっていないか確認し、排水性が確保できる素焼き鉢かスリット鉢が管理しやすい。
+
+暗い室内で光を補う電球型の育成ライトとクリップ式のソケット、植え替えで土に足すパーライトの例です。
+
+<!-- amazon-cards title="光を補う・水はけを上げる" -->
+<!-- /amazon-cards -->
 
 ---
 

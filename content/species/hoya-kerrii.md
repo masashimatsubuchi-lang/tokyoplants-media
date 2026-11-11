@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓辺の光が足りない株に、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "リン酸を多く含む、N-P-K＝6-10-5の液体肥料。成長期は規定量の半量に薄めて与える。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # ホヤ・ケリー｜ハート型の多肉質葉が象徴的なプレゼントホヤ完全図鑑
@@ -131,6 +142,11 @@ baseProducts:
 2. **十分な光量**: PPFD 300以上の明るい環境が花芽形成を促す
 3. **やや乾燥気味の管理**: 冬に水を控えることで春の花芽誘導を促すことがある
 4. **花柄を切らない**: ホヤの花柄（花茎）は同じ場所から毎年花を咲かせる——絶対に切り取ってはいけない
+
+開花に向けて光を足す育成ライトと、リン酸を多く含む液体肥料の例です。
+
+<!-- amazon-cards title="開花に向けて光と肥料を足す" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -23,6 +23,22 @@ siblings:
     role: "育て方の実務"
   - slug: "species/sansevieria"
     role: "図鑑・品種情報"
+amazonProducts:
+  - title: "花ごころ サンセベリアの土 5L"
+    asin: "B000IAA2KU"
+    image: "https://m.media-amazon.com/images/I/51evM6GE98L._AC_SL200_.jpg"
+    note: "排水性を重視した、サンスベリア・多肉植物向けの専用土。評価★4.2・レビュー272件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥707"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "株分けで、子株と親株を繋ぐ地下茎を切る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が完全に乾いたかを色で示し、水やりの目安になる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # サンスベリア｜空気清浄効果と品種・育て方を徹底解説
@@ -147,6 +163,11 @@ siblings:
 ### 植え替え
 
 2〜3年に1回で十分。成長が遅く頻繁な植え替えは不要。鉢が変形するほど根が張る、子株が鉢からはみ出す、3年以上植え替えていないのどれかが当てはまれば植え替えのサイン。5〜6月が適期。
+
+植え替えに使うサンスベリア向けの専用土、株分けで地下茎を切る剪定鋏、土が乾いたかを色で知らせる水やりチェッカーの例です。
+
+<!-- amazon-cards title="植え替え・株分け・乾き具合の確認" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -19,6 +19,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "多肉植物用の土に30〜40%足して、通気性と排水性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "日本ポリ鉢 プレステラ深型90 5個組 ブラック（スリット入り硬質ポット）"
+    asin: "B0CJM6XYP5"
+    image: "https://m.media-amazon.com/images/I/61nSOc+AV1L._AC_SL200_.jpg"
+    note: "根の周りに空気が入りやすい、スリット入りの硬質ポット。評価★4.5・レビュー194件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥479"
 ---
 
 # ホヤ・ウェイエティー トリカラー｜三色斑と多肉葉が共存する希少ホヤ図鑑
@@ -113,6 +124,11 @@ wayetiiの最大の特徴である細長い革質の葉は、水分を内部に�
 ### 用土
 
 着生植物として通気性と排水性を最優先とした配合土が必須。多肉植物用の土＋パーライト30〜40%が最適。バーク＋パーライト配合でも可能。スリット鉢または素焼き鉢で通気性を確保する。
+
+多肉植物用の土に30〜40%足すパーライトと、通気性を確保するスリット鉢の例です。
+
+<!-- amazon-cards title="通気性の高い土と鉢" -->
+<!-- /amazon-cards -->
 
 ### 支柱・仕立て
 

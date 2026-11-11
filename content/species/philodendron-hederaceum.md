@@ -24,6 +24,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "茎を傷めにくい柔らかい結束材で、支柱へ軽く留める。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "水挿しや挿し木に使う茎を、節の下で切る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # フィロデンドロン・ヘデラセウム｜ハートリーフの育て方と飾り方図鑑
@@ -136,6 +152,11 @@ baseProducts:
 **ヘゴ棒・支柱で上へ誘引**することで、着生植物本来の上に伸びる姿を楽しめます。支柱に誘引すると葉が大きく育ちやすくなるというメリットもあります。
 
 **水挿しのままインテリアとして飾る**方法もおすすめです。透明なガラス瓶や一輪挿しに茎を挿しておくだけで、根が伸びる様子も観察でき、スタイリッシュなインテリアになります。
+
+上へ誘引するための支柱と結束材、水挿しや挿し木に使う茎を切る剪定鋏の例です。
+
+<!-- amazon-cards title="支柱に誘引する・茎を切る" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

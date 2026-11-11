@@ -38,6 +38,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "夜間の温度と湿度50〜70%を、記録で確かめられる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "梅雨〜真夏に空気を動かし、蒸れを防ぐ。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "葉に水をかけずに、部屋の湿度を上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # ベゴニア属とは｜根茎性・木立性の違いと人気品種
@@ -220,6 +236,11 @@ tokyoplants MEDIAで個別に解説している6品種を、同じ物差しで�
 <!-- /calendar -->
 
 真夏（7〜8月）は蒸れによる病気が最も出やすい時期です。水やりの量ではなく、風通しと夜間の温度に注意を向けてください。
+
+夜間の温度と湿度を記録で確かめる温湿度計、風通しをつくるサーキュレーター、葉を濡らさずに湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="温度・湿度・風通しを整える" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

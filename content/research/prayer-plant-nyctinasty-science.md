@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くの湿度と温度を、数値とグラフで確かめられる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土の乾き具合を色で示し、水やりの目安になる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # カラテア・マランタの葉が閉じる『就眠運動』のしくみ
@@ -78,6 +89,11 @@ baseProducts:
 | 夜になっても葉が開いたまま | 根詰まり・根腐れなど根のトラブル、株の衰弱 |
 
 いずれの場合も、就眠運動そのものを直接治療する方法があるわけではなく、光量・湿度・水やり・根の状態といった基本的な栽培環境を見直すことが対処の基本になる。カラテア属全般の育て方・トラブル対処は[カラテア属とは｜人気品種・育て方・葉が丸まる原因と対処法](/species/genus-calathea)、代表品種の詳細は[カラテア・オービフォリアの育て方図鑑](/species/calathea-orbifolia)、[カラテア・メダリオンの育て方図鑑](/species/calathea-medallion)を参照してほしい。
+
+置き場所の湿度を数値で確かめる温湿度計と、土の乾き具合を色で知らせる水やりチェッカーの例です。
+
+<!-- amazon-cards title="湿度と水やりを見直す" -->
+<!-- /amazon-cards -->
 
 ## まとめ
 

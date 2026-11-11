@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物の土に2〜3割混ぜて、排水性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "リン酸を多く含む、N-P-K＝6-10-5の液体肥料。成長期に月2回、水で薄めて与える。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 ## ストレリチア属とは
@@ -107,6 +118,11 @@ baseProducts:
 ### 肥料
 
 成長期（5〜9月）に緩効性肥料（マグアンプKなど）を2ヶ月に1回、または液肥を月2回施す。リン酸分が多い肥料は開花促進に効果的。冬季（11〜3月）は施肥不要。
+
+観葉植物の土に2〜3割混ぜるパーライトと、リン酸を多く含む液体肥料の例です。
+
+<!-- amazon-cards title="水はけを上げる・開花に向けて施肥する" -->
+<!-- /amazon-cards -->
 
 ### 植え替え
 

@@ -25,6 +25,22 @@ siblings:
     role: "水やり・休眠の実務"
   - slug: "species/stephania-kaweesakii"
     role: "図鑑・品種情報"
+amazonProducts:
+  - title: "KINCHO園芸（旧 住友化学園芸）培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 2L"
+    asin: "B0DP6XGJPD"
+    image: "https://m.media-amazon.com/images/I/71c+naQ1QML._AC_SL200_.jpg"
+    note: "アガベ・多肉植物・塊根植物向けに配合された培養土。評価★3.9・レビュー123件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥475"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "多肉植物用の土に3割ほど足して、水はけを上げる小粒の軽石。評価★4.2・レビュー39件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥583"
+  - title: "花ごころ きれいな鉢底石 2L"
+    asin: "B07K1PBN1J"
+    image: "https://m.media-amazon.com/images/I/81VZcQit2wL._AC_SL200_.jpg"
+    note: "鉢の底に必ず敷く、軽い鉢底石。評価★4.0・レビュー912件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。主原料は人工軽石（商品ページの表示）"
+    price: "¥410"
 ---
 
 # ステファニア・カウィーサキ｜丸い塊根と透明感のある葉の図鑑
@@ -115,6 +131,11 @@ siblings:
 - または多肉植物用土に軽石を30%程度追加
 - 鉢底には必ず鉢底石を敷く
 - スリット鉢または素焼き鉢で通気性を確保
+
+塊根植物向けに作られた土、そこに足す軽石、鉢の底に敷く鉢底石の例です。
+
+<!-- amazon-cards title="水はけを最優先にした土と鉢底石" -->
+<!-- /amazon-cards -->
 
 ### 塊根の露出
 

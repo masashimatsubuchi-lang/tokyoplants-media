@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "培養土に20〜30%混ぜて、排水性と通気性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "刀川平和農園 平和 くんたん 10L"
+    asin: "B00BTR0QOS"
+    image: "https://m.media-amazon.com/images/I/71+A6h8GABL._AC_SL200_.jpg"
+    note: "配合の1割ほどに入れる、もみ殻のくん炭。評価★4.1・レビュー278件（2026-11-11にAmazon商品ページで確認／在庫あり（残り15点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,217"
+  - title: "花ごころ きれいな鉢底石 2L"
+    asin: "B07K1PBN1J"
+    image: "https://m.media-amazon.com/images/I/81VZcQit2wL._AC_SL200_.jpg"
+    note: "根腐れ防止のため鉢の底に敷く、軽い鉢底石。評価★4.0・レビュー912件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。主原料は人工軽石（商品ページの表示）"
+    price: "¥410"
 ---
 
 # ベゴニア・ジニーギャラクシー｜Begonia 'Ginny Galaxy' 図鑑
@@ -111,6 +127,11 @@ baseProducts:
 ### 用土
 
 排水性と通気性に優れた配合土が最適です。市販の観葉植物用培養土に、パーライト20〜30%、くん炭10%程度を混合すると良いでしょう。根腐れ防止のため、鉢底石または軽石を敷くことを推奨します。
+
+培養土に混ぜるパーライトとくん炭、鉢の底に敷く鉢底石の例です。
+
+<!-- amazon-cards title="水はけのよい配合にする" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

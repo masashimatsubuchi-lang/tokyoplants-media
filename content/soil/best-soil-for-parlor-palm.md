@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "基本配合の5割を占める、赤玉土の小粒。評価★4.4・レビュー293件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "基本配合の2割で、通気性を補うパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "刀川平和農園 平和 くんたん 10L"
+    asin: "B00BTR0QOS"
+    image: "https://m.media-amazon.com/images/I/71+A6h8GABL._AC_SL200_.jpg"
+    note: "基本配合の1割に入れる、もみ殻のくん炭。評価★4.1・レビュー278件（2026-11-11にAmazon商品ページで確認／在庫あり（残り15点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,217"
 ---
 
 小さなヤシの葉が涼やかな印象を与えるテーブルヤシ。耐陰性が高く育てやすいことから、観葉植物デビューの一鉢としても人気です。丈夫なイメージがある一方で、「葉先が茶色くなる」「根詰まりで元気がなくなる」といった声も少なくありません。この記事では、テーブルヤシに合う土の条件と配合レシピを解説します。
@@ -143,6 +159,11 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 3. 黒く変色した根や、密に絡み合った根を整理する
 4. 一回り大きい鉢に鉢底石を敷いてから植える
 5. たっぷり水やり後、明るい日陰で1〜2週間養生する
+
+自分で配合する場合の、基本配合（赤玉土5：腐葉土2：パーライト2：くん炭1）に使う素材の例です。
+
+<!-- amazon-cards title="配合レシピの素材" -->
+<!-- /amazon-cards -->
 
 ---
 

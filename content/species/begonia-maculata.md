@@ -23,6 +23,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くで湿度50〜70%・10℃以上を保てているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "葉に水をかけずに、部屋の湿度を上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # 水玉模様の植物、ベゴニア・マキュラータ｜葉水は控えて根元から水やり
@@ -147,6 +158,11 @@ baseProducts:
 ### 湿度は50〜70%を目標に
 
 マキュラータはある程度の湿度を好みますが、**葉への直接ミストはNG**です。湿度を保つには、植物の鉢の周りに水を張ったトレーを置く、加湿器を使うなどの方法が効果的です。乾燥が続く冬場は特に注意が必要で、暖房の風が直接当たる場所は避けてください。
+
+湿度50〜70%を確かめる温湿度計と、葉を濡らさずに部屋の湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="葉を濡らさずに湿度を保つ" -->
+<!-- /amazon-cards -->
 
 ---
 
