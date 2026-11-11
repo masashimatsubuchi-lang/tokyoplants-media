@@ -21,6 +21,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "株の根元に詰め、根と着生面の間の保湿層にするニュージーランド産の水苔。評価★4.0・レビュー2,674件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,698"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "コルク板の着生面全体を、細かい霧で湿らせられる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が60%を下回って気根が浮いてこないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # モンステラ・ドゥビアの育て方｜壁に貼り付くように着生する幼株の姿が個性的な希少種
@@ -164,6 +180,11 @@ baseProducts:
 3. 麻ひもや針金でゆるく固定する（強く締めすぎると茎を傷める）
 4. 気根が自然に着生面に定着するまで、定期的に霧吹きで着生面全体を湿らせる
 5. 気根が定着したら固定材を取り外すか、そのまま残す
+
+根と着生面の間に詰める水苔、着生面全体を湿らせる霧吹き、湿度が60%を下回っていないかを確かめる温湿度計の例です。
+
+<!-- amazon-cards title="板付けの水苔・霧吹き・湿度の確認" -->
+<!-- /amazon-cards -->
 
 ### 管理場所の選び方
 

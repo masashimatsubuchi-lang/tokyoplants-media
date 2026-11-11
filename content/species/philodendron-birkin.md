@@ -23,6 +23,22 @@ siblings:
     role: "育て方の実務"
   - slug: "species/philodendron-birkin"
     role: "図鑑・品種情報"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "緑一色の葉が増えてきた株に、棚へ挟んで光を足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K（商品ページの表示）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度50〜60%と最低15℃を保てているか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "4〜9月に、水で薄めて2週間に1回程度与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
 ---
 
 # フィロデンドロン・バーキンはロホコンゴの枝変わり｜名前の由来と見分け方
@@ -107,6 +123,11 @@ siblings:
 ### 肥料
 
 生育期（4〜9月）に緩効性肥料を月1回、または液体肥料を2週間に1回程度与える。
+
+斑を保つ光を補う育成ライト、湿度と最低温度を確かめる温湿度計、生育期の液体肥料の例です。
+
+<!-- amazon-cards title="斑を保つ光・湿度と温度・生育期の液肥" -->
+<!-- /amazon-cards -->
 
 ---
 

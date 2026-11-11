@@ -33,6 +33,22 @@ baseProducts:
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
 
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "赤・ピンク系の発色が鈍ってきた株に、棚へ挟んで光を足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K（商品ページの表示）"
+    price: "¥4,445"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "冬の夜に15℃を下回っていないか、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。最高・最低の温湿度を表示（商品ページの表示）"
+    price: "¥3,223"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "5〜9月に、水で薄めて2週間に1回与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
 ---
 
 ## アグラオネマ属とは
@@ -141,6 +157,11 @@ NASAのクリーンエア研究でベンゼンやホルムアルデヒドの除�
 ### 植え替え
 
 2年に1回程度、5〜6月が適期。根の成長は比較的ゆっくりで、頻繁な植え替えは不要。株が大きくなったら株分けで更新する。
+
+赤・ピンク系品種の発色に必要な光を補う育成ライト、冬に15℃を下回っていないかを確かめる温湿度計、成長期の液肥の例です。
+
+<!-- amazon-cards title="発色を保つ光・冬の温度・成長期の液肥" -->
+<!-- /amazon-cards -->
 
 ---
 

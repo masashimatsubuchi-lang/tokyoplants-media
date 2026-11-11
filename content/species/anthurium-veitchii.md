@@ -25,6 +25,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が60%を下回っていないか、記録で確かめる温湿度計。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "リブが浅く葉が小さい株に、棚へ挟んで光を足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K（商品ページの表示）"
+    price: "¥4,445"
 ---
 
 # アンスリウム・ヴェイチー｜2mの波打つ葉と育て方
@@ -98,6 +114,11 @@ baseProducts:
 ### 湿度
 
 <mark>**60〜80%の高湿度が必要。** 湿度不足では葉先・葉縁が茶色く傷み、コルゲーションの美しさが損なわれる。加湿器の使用を推奨。通気が悪いと蒸れて根腐れするため、湿度を上げながら風通しも確保する。</mark>
+
+湿度60〜80%を確かめる温湿度計、部屋の湿度を上げる加湿器、コルゲーションを深くする光を補う育成ライトの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="高湿度と光量を整える" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

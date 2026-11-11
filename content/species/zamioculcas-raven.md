@@ -17,6 +17,22 @@ baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、土が乾いたことを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。Mサイズは3.5〜6号鉢向け・電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "根腐れした塊根の、黒く柔らかい部分を切り取る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "5〜9月に、水で薄めて月1回程度与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
 ---
 
 # ザミオクルカス・レイブン（黒葉品種）の魅力と育て方
@@ -100,6 +116,11 @@ baseProducts:
 ### 肥料
 
 生育期（5〜9月）に薄めた液体肥料を月1回程度で十分。過剰な施肥は塩類障害の原因になるため控えめに。
+
+土の乾き具合を色で確かめる水やりチェッカー、根腐れした塊根を処置する剪定鋏、生育期の液体肥料の例です。
+
+<!-- amazon-cards title="乾きの確認・根腐れの処置・生育期の液肥" -->
+<!-- /amazon-cards -->
 
 ---
 

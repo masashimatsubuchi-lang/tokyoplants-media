@@ -14,6 +14,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "週1〜2回のミスティングで、株全体を軽く濡らせる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "水切りした株に風を当て、ロゼットの中心部まで乾かす。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "冬の夜に5℃を下回っていないか、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。最高・最低の温湿度を表示（商品ページの表示）"
+    price: "¥3,223"
 ---
 
 # チランジア・キセログラフィカの育て方｜エアプランツの王様図鑑
@@ -82,6 +98,11 @@ baseProducts:
 - **ソーキング:** 2〜4週間に1回、常温〜ぬるま湯に30分〜1時間浸ける
 
 **ソーキング後の水切りが最重要:** 浸水後は株を逆さにして数回振り、ロゼットの中心部（葉の付け根が集まる部分）に溜まった水をしっかり切る。その後、通気性の良い場所で完全に乾燥するまで置く。<mark>キセログラフィカは葉の付け根が密に重なり合う構造のため、他のチランジアよりも水が抜けにくく、乾燥に4時間以上かかることも珍しくない。</mark>扇風機の弱風を当てると乾燥時間を大幅に短縮できる。
+
+ミスティングに使う霧吹き、水切りした株を乾かすときに風を当てるサーキュレーター、冬の最低温度を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="ミスティング・水切り後の乾燥・冬の温度" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

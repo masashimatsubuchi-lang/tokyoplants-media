@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "作業中に出る白い樹液（ラテックス）から、手を守るニトリル手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く変色した根を、清潔な刃で切除する剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "新しい鉢の底穴に合わせて切って敷く、鉢底ネット。評価★4.4・レビュー76件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
 ---
 
 「フィカスを植え替えたら葉がバサバサ落ちた」「土を何にすれば良いかわからない」——フィカス属の植物を育てている方から、土と植え替えに関する悩みをよく耳にします。
@@ -251,6 +267,11 @@ baseProducts:
 **8. 明るい半日陰で養生**
 
 植え替え後1〜2週間は、直射日光を避けた明るい日陰で養生させます。この期間は肥料を与えないでください。葉落ちが起きても慌てず、環境を安定させることを優先します。
+
+植え替え手順で使う、樹液から手を守る手袋、黒く変色した根を切る剪定鋏、新しい鉢の底に敷く鉢底ネットの例です。
+
+<!-- amazon-cards title="フィカスの植え替えに使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

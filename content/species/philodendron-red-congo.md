@@ -23,6 +23,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "新葉の赤みが薄い株に、棚へ挟んで光を足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K（商品ページの表示）"
+    price: "¥4,445"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "4〜9月に、水で薄めて月1〜2回与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "植え替えで古い土を落としたとき、傷んだ根を切る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # フィロデンドロン・レッドコンゴ｜赤い新芽と大型葉が魅力の丈夫な品種図鑑
@@ -158,6 +174,11 @@ baseProducts:
 - 植え替え後1〜2週間は直射日光を避けた明るい日陰で管理する
 
 大型の鉢に植えて生育期に適切に肥料を与えると、葉長が50cm以上になることもあります。大きな葉が次々と展開するダイナミックな姿は、レッドコンゴならではの醍醐味です。
+
+新葉の赤みを引き出す光を補う育成ライト、生育期の液体肥料、植え替えで傷んだ根を切る剪定鋏の例です。
+
+<!-- amazon-cards title="赤い新芽を育てる光・肥料・植え替えの道具" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブルと対処法
 

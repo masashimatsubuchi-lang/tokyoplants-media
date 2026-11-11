@@ -18,6 +18,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "つるを誘引して上に伸ばす仕立てに使える、120cmの支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度50〜70%と最低15℃を保てているか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "銀のグラデーションが薄れてきた株に、棚へ挟んで光を足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K（商品ページの表示）"
+    price: "¥4,445"
 ---
 
 # スキンダプサス・トロイビー・ムーンライト完全図鑑｜ピクタスとの違い
@@ -101,6 +117,11 @@ baseProducts:
 ### 肥料
 
 成長期（4〜9月）に月1〜2回の薄めた液肥を与える。冬季は施肥を控える。
+
+誘引に使う支柱、湿度と最低温度を確かめる温湿度計、銀の発色を保つ光を補う育成ライトの例です。
+
+<!-- amazon-cards title="支柱・湿度・光を整える" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

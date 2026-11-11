@@ -22,6 +22,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、土が乾いたことを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。Mサイズは3.5〜6号鉢向け・電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用土に2〜3割足して、排水性を高めるパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "成長期に、規定量の半分程度に薄めて月1回与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
 ---
 
 ## ペペロミア属とは
@@ -134,6 +150,11 @@ baseProducts:
 ### 植え替え
 
 根の成長が遅いため、2〜3年に1回で十分。鉢は小さめが安全で、根鉢に対して大きすぎる鉢は過湿のリスクを高める。5〜6月が適期。
+
+水やりのしすぎを防ぐ水やりチェッカー、観葉植物用土に混ぜて排水性を上げるパーライト、薄めて使う液体肥料の例です。
+
+<!-- amazon-cards title="水やり過多を防ぐ・土を軽くする" -->
+<!-- /amazon-cards -->
 
 ---
 
