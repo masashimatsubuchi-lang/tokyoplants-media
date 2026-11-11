@@ -24,6 +24,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "開花に光が足りない窓辺で、棚に挟んで光を足せるライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が完全に乾いたかを、色の変化で確かめてから水をやる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "手持ちの観葉植物用土に3割混ぜ、排水性を上げるパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥703"
 ---
 
 ## ホヤ属とは
@@ -130,6 +146,11 @@ baseProducts:
 ### 植え替え
 
 根の成長が遅いため、2〜3年に1回で十分。鉢はやや小さめが適しており、根がある程度回った状態の方が開花しやすい。5〜6月が適期。
+
+開花に必要な光を足す育成ライト、土が完全に乾いたかを確かめる水やりチェッカー、土の節で触れた、観葉植物用土に3割混ぜるパーライトの例です。
+
+<!-- amazon-cards title="ホヤの光・水やり・土を整える道具" -->
+<!-- /amazon-cards -->
 
 ---
 

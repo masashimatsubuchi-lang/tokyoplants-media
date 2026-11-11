@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土の乾き具合を色で知らせ、過湿を避ける水やりの目安になる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "冬のエアコン環境で、葉水を細かい霧で葉の表裏にかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "植え替えのときに、傷んだ根を切り取るハサミ。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 ## ドラセナ属とは
@@ -85,6 +101,11 @@ baseProducts:
 ### 植え替え
 
 根詰まりのサインは「水やり後も葉がしおれる」「鉢底から根がはみ出す」「土の乾きが極端に速い」など。適期は5〜6月。植え替えの際は古い土をある程度落とし、傷んだ根を整理してから一回り大きな鉢に移す。
+
+水やりの節で土の乾きを確かめる水やりチェッカー、湿度の節の葉水に使う霧吹き、植え替えで傷んだ根を整理するハサミの例です。
+
+<!-- amazon-cards title="水やり・葉水・植え替えの道具" -->
+<!-- /amazon-cards -->
 
 ---
 

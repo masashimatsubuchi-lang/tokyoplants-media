@@ -15,6 +15,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "手順4で、黒く変色した根を切り取るハサミ。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "手順5で、鉢底穴に合わせて切って敷く鉢底ネット。評価★4.4・レビュー76件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "手順6のあと、土が完全に乾いたかを色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
 ---
 
 ドラセナは「丈夫で育てやすい」と言われる入門植物ですが、葉先が茶色くなったり、株全体が弱ったりするトラブルが後を絶ちません。その原因の多くは、土選びと水やりのミスに集約されます。
@@ -228,6 +244,11 @@ baseProducts:
 **7. 半日陰で養生**
 
 植え替え後1〜2週間は、直射日光を避けた明るい日陰で養生させます。この期間は肥料を与えないでください。
+
+手順4で傷んだ根を切るハサミ、手順5で鉢底に敷くネット、手順6のあと次の水やりを判断する水やりチェッカーの例です。
+
+<!-- amazon-cards title="植え替えと植え替え後の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -16,6 +16,17 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "成長期の切り戻しで、枝を切りたい位置できれいに切る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "剪定で出る白い樹液から、手の皮膚を守る使いきりの手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
 ---
 
 # フィカス・オードリーの育て方｜インドボダイジュに似た大判葉の魅力
@@ -110,6 +121,11 @@ baseProducts:
 ### 剪定・樹形づくり
 
 成長した枝を剪定すると、切り口の下の節から新芽が出て分岐が促される。好みの高さ・広がりに仕立てたい場合は、成長期に切り戻すとよい。切り口からは白い樹液（ラテックス）が出るため、手袋を着用し、ティッシュや布ですぐに拭き取る。
+
+剪定に使うハサミと、白い樹液から手を守る使いきりのニトリル手袋の例です。
+
+<!-- amazon-cards title="剪定と樹液対策の道具" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

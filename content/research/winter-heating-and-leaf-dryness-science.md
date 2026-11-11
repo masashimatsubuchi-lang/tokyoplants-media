@@ -23,6 +23,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のすぐそばに置き、暖房中の湿度が45〜60%に届いているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "エアコンの温風が一点に集中しないよう、室内の空気を循環させる。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。風量は100段階で調整（商品ページの表示）"
+    price: "¥10,980"
+  - title: "DAIM ブラックベース 28cm 鉢スタンド（高さ5cm・10号鉢まで）"
+    asin: "B0DJBHZ242"
+    image: "https://m.media-amazon.com/images/I/61x6c4uATVL._AC_SL200_.jpg"
+    note: "床暖房の部屋で、鉢を床に直置きせず底面を5cm浮かせる。評価★4.5・レビュー528件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。高さ5cm・10号鉢まで対応（商品ページの表示）"
+    price: "¥607"
 ---
 
 冬になると観葉植物の葉先が茶色く枯れ込んだり、パリパリに乾いたりする相談が増えます。原因の多くは「暖房による乾燥」とひとくくりにされがちですが、実は**暖房器具の種類によって植物へのダメージの出方が異なります**。
@@ -79,6 +95,11 @@ baseProducts:
 
 - 鉢を床に直置きせず、鉢台やスタンドで底面を浮かせる
 - 土の乾きが早くなる分、指で土の湿り具合を確認する頻度を増やす
+
+株のすぐそばに置いて湿度を確かめる温湿度計、エアコン暖房の対策で挙げたサーキュレーター、床暖房の対策で鉢を床から浮かせる鉢スタンドの例です。
+
+<!-- amazon-cards title="暖房の部屋で湿度と鉢を守る道具" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

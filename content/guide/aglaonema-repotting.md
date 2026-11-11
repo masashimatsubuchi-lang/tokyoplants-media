@@ -34,6 +34,22 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "切り口から出る樹液から、手の皮膚を守る使いきりの手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "手順4で、黒く柔らかい根を切り取るハサミ。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "床に広げて四隅を留めると、落とした古い土を受けるトレーになる。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。スナップボタンでトレー型に変形（商品ページの表示）"
+    price: "¥1,069"
 ---
 
 # アグラオネマの植え替えは2年に1回｜5〜6月に、鉢は一回りだけ大きく
@@ -161,6 +177,11 @@ baseProducts:
 <!-- callout type="warning" title="樹液に触れない" -->
 アグラオネマはサトイモ科で、茎や根を切ると出る樹液に**不溶性シュウ酸カルシウムの針状結晶**が含まれます。皮膚や粘膜を刺激するため、作業中は手袋を着用し、終わったら手を洗ってください。切り落とした根や古い土は、ペットの届かない場所にまとめて処分します（[アグラオネマは猫に危険？](/guide/aglaonema-cats-safety)）。
 <!-- /callout -->
+
+樹液から手を守る使いきりのニトリル手袋、手順4で傷んだ根を切るハサミ、古い土を落とす作業の下に敷く防水シートの例です。
+
+<!-- amazon-cards title="植え替え作業の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

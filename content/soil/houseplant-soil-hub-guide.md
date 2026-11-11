@@ -47,6 +47,17 @@ hubIndex:
       match: "^soil/(hydro|semi-hydro|growing-houseplants-without-soil)"
     - label: "土のトラブル"
       match: "^soil/(soil-smell|soil-turns-hard|mushroom|white-particles|bugs-in|how-to-check-soil-dryness)"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "表面だけでなく、鉢の中の乾き具合を色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "手順1〜2で、置き場所の温度と湿度をグラフで振り返れる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
 ---
 
 <mark>観葉植物の管理で、もっとも差が出るのは「水やりの回数」ではなく「土の設計」です。</mark>葉が黄色くなる、成長が止まる、虫が出る、カビが出る、植え替え後に弱る。これらの不調は、それぞれ別問題に見えても、土の通気性・排水性・保水性・保肥性のバランスで説明できます。
@@ -184,6 +195,11 @@ hubIndex:
 <!-- character-note character="shadee" type="tip" -->
 重さで判断する場合は、水やり直後（水を含んだ状態）と、明らかに乾いた状態の重さを一度両方持ってみて「体に覚えさせる」のが早い。慣れると持った瞬間に分かるようになる。
 <!-- /character-note -->
+
+失敗3の対策として鉢の中の乾きを確かめる水やりチェッカーと、手順1〜2で置き場所の温度と湿度を把握する温湿度計の例です。
+
+<!-- amazon-cards title="乾き方と置き場所を確かめる道具" -->
+<!-- /amazon-cards -->
 
 ### 失敗4: 症状が出てから対策を一本化する
 

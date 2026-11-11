@@ -19,6 +19,22 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "鉢に挿し、キノコバエの成虫を黄色に集めて捕らえる。評価★4.0・レビュー2,791件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥757"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "弱めに運転し、部屋全体の空気を循環させる。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。風量は100段階で調整（商品ページの表示）"
+    price: "¥10,980"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "新しく迎えた株の葉裏に、虫がいないかを10倍で確かめる。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
 ---
 
 # 観葉植物に虫がわかない育て方｜無機培地で清潔に管理するコツ
@@ -142,6 +158,11 @@ tokyoplants の **HYDRO MINERAL**はこの配合を採用しており、さら�
 ### キノコバエの場合：粘着トラップ＋培地交換
 
 成虫には黄色い粘着トラップが有効です。成虫を捕まえながら、並行して土を無機培地に交換することで幼虫の発生源を断ちます。表土にパーライトや溶岩石を厚めに敷くだけでも、産卵を抑制する効果があります。タイプ別のグッズ比較は[観葉植物のコバエ駆除グッズ比較](/review/fungus-gnat-control-products-comparison)で詳しく解説しています。
+
+キノコバエの成虫を捕まえる黄色い粘着シート、通気性の節で触れたサーキュレーター、隔離期間に新しい株の葉裏を確かめるルーペの例です。
+
+<!-- amazon-cards title="虫を捕まえる・寄せつけない道具" -->
+<!-- /amazon-cards -->
 
 ### アブラムシの場合：水洗い＋殺虫石鹸
 

@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "白い粒に脚があるか、動くかを10倍で確かめられる。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "カビが出た鉢のまわりの空気を動かし、表土を乾きやすくする。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。風量は100段階で調整（商品ページの表示）"
+    price: "¥10,980"
 ---
 
 「土の中に白い粒がある。これは何？」「土の表面に白いものが出てきた。カビ？虫？」——観葉植物を育てていると、土の中や表面に白いものを見つけて不安になることがあります。
@@ -60,6 +71,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 「浮くか沈むか」はパーライトを見分ける一番早い方法。パーライトは真珠岩を高温で膨らませた中空の粒だから、水に入れると素直に浮く。逆に沈んで硬いなら、用土の軽石かゼオライトか肥料のどれかに絞れるよ。
 <!-- /character-note -->
+
+手順1で虫かどうかを確かめるルーペと、パターン4のカビの対処で空気を動かすサーキュレーターの例です。
+
+<!-- amazon-cards title="見分ける・カビを防ぐ道具" -->
+<!-- /amazon-cards -->
 
 ---
 
