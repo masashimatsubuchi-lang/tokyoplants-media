@@ -22,6 +22,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "作業する部屋と養生場所の温度を、最高・最低の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "消毒してから、黒く崩れた根だけを切り取る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "室内で根鉢を扱うとき、床に敷いて土を受ける防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 「冬に植え替えてはいけない」と聞く一方で、根腐れや害虫が進んでいる株を春まで放置すれば、その間に悪化します。<mark>冬の植え替えで大切なのは「季節」ではなく「今やらないと春まで持つかどうか」の見極めです。</mark>
@@ -90,6 +106,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 冬の鉢サイズは「小さくする勇気」が要る。根を切って根の量が減っているなら、鉢も一回り小さくして土の量を根に見合わせる。土が余ると乾かない時間がそのまま根腐れの再発リスクになる。
 <!-- /character-note -->
+
+作業する部屋が20℃以上あるかを確かめる温湿度計、黒く崩れた根を切る剪定鋏、室内で土を広げる防水シートの例です。
+
+<!-- amazon-cards title="冬の植え替えの道具" -->
+<!-- /amazon-cards -->
 
 ## 春まで待つための応急処置
 

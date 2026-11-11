@@ -17,6 +17,17 @@ baseProducts:
   - title: "tokyoplants Philodendron｜フィロデンドロン一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "新芽の色が薄い株や徒長する株に、棚へ挟んで光を足せる。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K、3・9・12時間で自動消灯するタイマー付き（商品ページの表示）"
+    price: "¥4,445"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "5〜9月に、水で薄めて月1〜2回与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # フィロデンドロン・プリンスオブオレンジ完全図鑑｜新芽のオレンジ色を保つコツ
@@ -87,6 +98,11 @@ baseProducts:
 ### 肥料
 
 成長期（5〜9月）に月1〜2回、薄めた液体肥料または緩効性肥料を施す。新芽の展開が活発な時期に施肥することで、色鮮やかな新芽を継続して楽しみやすくなる。
+
+光が足りない場所で明るさを足す育成ライトと、成長期の施肥に使う液体肥料の例です。
+
+<!-- amazon-cards title="光を足す・成長期に施肥する" -->
+<!-- /amazon-cards -->
 
 ### 植え替え
 

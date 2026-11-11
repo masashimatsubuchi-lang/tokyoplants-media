@@ -24,6 +24,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "模様が薄くなった株に、棚へ挟んで明るさを足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K、3・9・12時間で自動消灯するタイマー付き（商品ページの表示）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の乾燥で湿度60%を切っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "水苔単体の植え込みや、茎挿しの床に使える長繊維の水苔。評価★4.1・レビュー35件（2026-11-11にAmazon商品ページで確認／在庫あり（残り6点）・Prime対象・出荷元Amazon）"
+    price: "¥2,180"
 ---
 
 # アンスリウム・フォルゲティー｜丸い葉とシルバー模様
@@ -115,6 +131,11 @@ baseProducts:
 - **市販土カスタマイズ**: 観葉植物用土にパーライトを30〜40%追加
 
 フォルゲティーはクリスタリナムより根が細めのため、バークチップが大きすぎると根が培地を掴めないことがある。中粒以下のサイズが適する。
+
+窓から遠い場所で光を補う育成ライト、湿度60〜70%を確かめる温湿度計、水苔単体の植え込みや挿し木に使う水苔の例です。
+
+<!-- amazon-cards title="光と湿度を整える・水苔で植える" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

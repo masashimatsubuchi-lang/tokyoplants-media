@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "夜のうちに10℃を割っていないか、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "春の切り戻しで、枝を草丈の1/3〜1/2まで切り詰める剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "切り戻しや挿し木の際に、白い乳液から手を守るニトリル手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,020"
 ---
 
 # ポインセチア図鑑｜落葉させない冬の管理
@@ -175,6 +191,11 @@ baseProducts:
 ### 温度と冬越し
 
 日中15〜21℃、夜間13℃前後が理想。10℃を下回らせないことが唯一にして最大のルールです。無加温の部屋で夜に冷え込む場合は、段ボールをかぶせる、床から離す（床に近いほど冷える）などの簡易対策でも効果があります。
+
+夜に10℃を割っていないかを記録で確かめる温湿度計と、春の切り戻しに使う剪定鋏、白い乳液から手を守る使いきり手袋の例です。
+
+<!-- amazon-cards title="夜の温度を確かめる・切り戻しの道具" -->
+<!-- /amazon-cards -->
 
 ### 年間管理
 

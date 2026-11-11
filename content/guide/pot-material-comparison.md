@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "日本ポリ鉢 プレステラ深型90 5個組 ブラック（スリット入り硬質ポット）"
+    asin: "B0CJM6XYP5"
+    image: "https://m.media-amazon.com/images/I/61nSOc+AV1L._AC_SL200_.jpg"
+    note: "外鉢の内側に入れて使える、側面にスリットのある硬質ポット。評価★4.5・レビュー194件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥479"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "乾きにくい陶器・プラ鉢で、中まで乾いたかを色で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # テラコッタと陶器の違いは釉薬の有無。乾きやすいのは素焼きのテラコッタ
@@ -235,6 +246,11 @@ tokyoplants の **I'm original SOIL（tokyoplantsプレミアム培養土）** �
 - 水やり後は外鉢に水が溜まらないように注意（腰水状態にならないようにする）
 
 排水穴のない鉢に直接植え込みたい場合は、水やりの量・頻度と培地選びを大きく変える必要があります。詳しい管理方法は「[観葉植物の穴なし鉢の使い方](/guide/no-drainage-hole-pot-guide)」で解説しています。
+
+二重鉢の内鉢に使えるスリット入りの硬質ポットと、陶器やプラスチックの鉢で中まで乾いたかを確かめる水やりチェッカーの例です。
+
+<!-- amazon-cards title="二重鉢の内鉢と乾き具合のチェック" -->
+<!-- /amazon-cards -->
 
 ### 素材の質感をインテリアスタイルに合わせる
 

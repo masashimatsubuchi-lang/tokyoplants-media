@@ -21,6 +21,17 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢の中の乾き具合を、色の変化で知らせる水やりチェッカー。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "梅雨の部屋の湿度がどこまで上がっているか、数字で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # 雨の日も観葉植物に水やりする？室内なら天気より土の乾きで決める｜梅雨の葉水は朝
@@ -56,6 +67,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 1つの方法だけで判断するより、指で表面を確認しつつ鉢の重さも覚えておくと精度が上がるよ。水やりのたびにアプリへ記録しておくと、「前回からどれくらい経ったか」がひと目でわかって梅雨時の判断がぐっと楽になる。
 <!-- /character-note -->
+
+指や竹串での確認を補う水やりチェッカーと、梅雨の部屋の湿度を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="梅雨の乾き具合を確かめる" -->
+<!-- /amazon-cards -->
 
 ## 雨の日の水やり判断
 

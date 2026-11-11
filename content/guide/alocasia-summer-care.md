@@ -20,6 +20,22 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "ダイオ 遮光ネット ダイオクール ホワイト 1020SW 2×2m"
+    asin: "B009V7PPMQ"
+    image: "https://m.media-amazon.com/images/I/91OjxjZ+NOL._AC_SL200_.jpg"
+    note: "レースカーテンだけでは日差しが強い窓辺に足す、白い遮光ネット。評価★4.4・レビュー156件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。遮光率約65%（商品ページの表示）"
+    price: "¥1,134"
+  - title: "Planterior（プランテリア）水位計 Mサイズ"
+    asin: "B00UFKAQKO"
+    image: "https://m.media-amazon.com/images/I/61yX2KN5uUL._AC_SL200_.jpg"
+    note: "ハイドロの容器に挿して、水位の下限を外から読める。評価★3.8・レビュー91件（2026-11-11にAmazon商品ページで確認／在庫あり（残り17点）・Prime対象・出荷元Amazon）"
+    price: "¥560"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "土植えの株に、水で薄めて月2回の追肥に使う液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 # アロカシアの夏越し｜成長期の水やり・肥料・置き場所の管理方法
@@ -85,6 +101,11 @@ baseProducts:
 <!-- character-note character="shadee" type="point" -->
 ハイドロは土と違って表面の見た目だけでは乾き具合が分かりにくいから、水位計をこまめにチェックする習慣がそのまま失敗回避につながるよ。夏は特にチェックの間隔を短くする価値があるんだ。
 <!-- /character-note -->
+
+夏の強い日差しを和らげる遮光ネット、ハイドロの水位を外から読む水位計、成長期の追肥に使う液体肥料の例です。
+
+<!-- amazon-cards title="日差しを和らげる・水位と追肥を管理する" -->
+<!-- /amazon-cards -->
 
 ## 「夏は休眠する」は誤解
 

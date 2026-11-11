@@ -21,6 +21,22 @@ baseProducts:
   - title: "Philodendron billietiae variegated｜フィロデンドロン・ビリエティエ"
     url: "https://www.tokyoplants.com/items/124441214"
     price: "お問い合わせ"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "茎のオレンジが薄い株に、棚へ挟んで光を足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K、3・9・12時間で自動消灯するタイマー付き（商品ページの表示）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くで湿度60〜80%を保てているか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # フィロデンドロン・ビリエティエ｜オレンジ茎と長葉が印象的な着生種の育て方図鑑
@@ -120,6 +136,11 @@ baseProducts:
 水やりは**培地表面〜中層が乾いたタイミングでたっぷりと**。受け皿の水は必ず捨て、過湿を防ぐ。着生種の特性から根は空気に触れることを好み、常時湿った状態だと根腐れが進行しやすい。
 
 葉水（ミスティング）は温度が高い日中に軽く与えることで湿度を補えるが、夜間の多量な葉水は菌の繁殖を招くことがあるため控えめにする。
+
+表の目安（3,000〜5,000K・1日10〜12時間）に収まる育成ライト、湿度60〜80%を確かめる温湿度計、部屋の湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="光を補う・湿度60〜80%を保つ" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

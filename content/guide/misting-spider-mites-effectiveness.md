@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏の小さなハダニや卵を、10倍で確かめるルーペ。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "1回押すと柔らかな霧が長く続き、葉裏にもかけやすい霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "KINCHO園芸 ベニカXファインスプレー 420ml"
+    asin: "B003ULEF52"
+    image: "https://m.media-amazon.com/images/I/61sE9NkVEeL._AC_SL200_.jpg"
+    note: "観葉植物のハダニ類に登録がある、発生初期用のスプレー。評価★4.3・レビュー4,627件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。農薬登録第22506号で、作物名「花き類・観葉植物（ばら、花月を除く）」の適用害虫にハダニ類（原液・発生初期・4回以内）があることを、2026-11-11に農林水産省の農薬登録情報提供システムで確認"
+    price: "¥706"
 ---
 
 「葉水をしていればハダニは防げる」と聞いて、毎日欠かさず霧吹きをしているのに、気づいたら葉裏に細かい虫がびっしり——そんな経験はないでしょうか。葉水はハダニ対策として広く紹介されていますが、「予防」と「駆除」では効果がまったく違います。この記事では、葉水がハダニにどこまで効くのか、そしてどこから薬剤や物理除去に切り替えるべきかを整理します。
@@ -72,6 +88,11 @@ baseProducts:
 4. 駆除後も葉水と送風で乾燥・停滞空気を防ぎ、再発を予防する
 
 駆除の具体的な薬剤選定・散布間隔は「[観葉植物のハダニ対策完全ガイド](/guide/spider-mites-houseplants-control)」で詳しく解説しています。
+
+葉裏を観察するルーペ、葉裏に霧をかけやすい霧吹き、発生後に使える薬剤の例です。薬剤は、観葉植物のハダニ類に農薬登録があることを確認したものを選んでいます。
+
+<!-- amazon-cards title="葉裏を見る・葉水をする・駆除する" -->
+<!-- /amazon-cards -->
 
 ### 葉水の効果を過信しないための目安
 

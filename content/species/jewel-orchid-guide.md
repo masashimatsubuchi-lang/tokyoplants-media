@@ -29,6 +29,22 @@ siblings:
     role: "ルディシア図鑑"
   - slug: "species/macodes-petola"
     role: "マコデス図鑑"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "容器の中や置き場所の湿度と温度を、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "水苔単体の植え込みや、バークに混ぜる配合に使える水苔。評価★4.1・レビュー35件（2026-11-11にAmazon商品ページで確認／在庫あり（残り6点）・Prime対象・出荷元Amazon）"
+    price: "¥2,180"
+  - title: "リビング ガラス瓶 ストレートジャー Mサイズ 5.0L（径17×高さ24cm）"
+    asin: "B01AVU1HQ4"
+    image: "https://m.media-amazon.com/images/I/510HjmNiT9L._AC_SL200_.jpg"
+    note: "小さな株を入れて湿度を保てる、径17×高さ24cmのガラス瓶。評価★4.2・レビュー1,162件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,100"
 ---
 
 花ではなく葉を見るラン——ジュエルオーキッドは、暗い林床で葉脈だけが金や銀に光って見える、少し変わったランのグループです。手のひらに収まる小ささで、テラリウムやガラスケースの主役として人気が高まっています。
@@ -143,6 +159,11 @@ siblings:
 地生ランですが、根は浅く、重く詰まった土を嫌います。水苔単体か、細〜中粒のバークに水苔・パーライトを混ぜた軽い配合が基本です。ルディシアだけは一般的な観葉植物用の培養土でも育つことが知られており、NParksも「肥沃な培養土（アフリカンバイオレット用土、またはバーク・ピート・イソライトの配合）」を挙げています。
 
 水苔の選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、ラン全般の用土の考え方は[洋蘭の土は観葉植物と何が違う？](/soil/best-soil-for-orchid-houseplant)を参照してください。
+
+湿度60〜80%と15℃以上を確かめる温湿度計、植え込みに使う水苔、湿度を保つガラス容器の例です。
+
+<!-- amazon-cards title="湿度を保つ・水苔で植える" -->
+<!-- /amazon-cards -->
 
 ---
 

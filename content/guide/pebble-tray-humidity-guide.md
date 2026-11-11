@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "大和プラスチック 鉢皿 深皿 5号（φ155×H50mm）ホワイト"
+    asin: "B006P9OYWU"
+    image: "https://m.media-amazon.com/images/I/61KunP2PdJL._AC_SL200_.jpg"
+    note: "深さ5cmで、石を敷いて水を張れるプラスチックの受け皿。評価★4.1・レビュー284件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥408"
+  - title: "刀川平和農園 平和 軽石（DIYシリーズ）中粒 2L"
+    asin: "B00BTR0EZ4"
+    image: "https://m.media-amazon.com/images/I/71Eq949-YbL._AC_SL200_.jpg"
+    note: "トレイに2〜3cmの厚さで敷き、鉢を水面から浮かせる軽石。評価★4.1・レビュー32件（2026-11-11にAmazon商品ページで確認／在庫あり（残り19点）・Prime対象・出荷元と販売元はAmazon.co.jp）。粒径7〜14mm（商品ページの表示）"
+    price: "¥815"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "トレイでは届かない部屋全体の湿度を、水を温めずに上げる。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # 腰水トレイ（ピーブルトレイ）で加湿する方法
@@ -83,6 +99,11 @@ baseProducts:
 **STEP4: 水位を管理する**
 
 水は自然に蒸発していくため、水位が下がったら継ぎ足します。水を継ぎ足すだけで完全に入れ替えない期間が続くと、藻やコバエの発生源になることがあるため、**週1回を目安に一度トレイの水を空にして新しい水に入れ替える**と衛生的に管理できます。
+
+トレイに使える深さ5cmの受け皿、敷き詰める軽石、部屋全体の湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="腰水トレイを作る・部屋を加湿する" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 
