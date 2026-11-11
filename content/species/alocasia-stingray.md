@@ -27,6 +27,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方に10℃を下回っていないか、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "暖房で乾く冬の湿度を、60%に近づける気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # アロカシア・スティングレイ完全図鑑｜エイ型の葉と冬の球根管理
@@ -151,6 +162,11 @@ baseProducts:
 ### 温度・湿度
 
 生育適温は20〜28℃。15℃以下で成長が止まり、10℃を下回ると葉を落として休眠に入る。湿度は60%以上を目安にするが、ジュエル系ほど神経質になる必要はない。暖房で乾燥する冬は葉先が枯れ込みやすいので、日中の葉水や加湿器で補う。
+
+冬に10℃を下回っていないかを確かめる温湿度計と、暖房で乾く部屋の加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="冬の温度と湿度を確かめる" -->
+<!-- /amazon-cards -->
 
 ### 鉢と植え替え
 

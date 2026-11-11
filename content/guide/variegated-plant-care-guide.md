@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から遠い株に、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "緑化した茎を、根元に近い節で切り戻す剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # 斑入り植物の育て方｜緑葉種より一段明るく、先祖返りは早めに切る
@@ -76,6 +87,11 @@ baseProducts:
 - 完全に緑化した葉に気づいたら、根元に近い節でその茎を切り戻す
 - 切り戻した後、残った斑入りの芽から新しい成長点が展開するのを待つ
 - 完全な回復保証はないが、早期の切り戻しほど斑を維持できる可能性が高い
+
+冬や日照の短い部屋で光を補う育成ライトと、緑化した茎を切り戻す剪定鋏の例です。
+
+<!-- amazon-cards title="光を補う・先祖返りを切る" -->
+<!-- /amazon-cards -->
 
 ### 5. 挿し木で増やす場合は「斑が保証されない」ことを前提にする
 

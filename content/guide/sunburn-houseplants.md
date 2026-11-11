@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ダイオ 遮光ネット ダイオクール ホワイト 1020SW 2×2m"
+    asin: "B009V7PPMQ"
+    image: "https://m.media-amazon.com/images/I/91OjxjZ+NOL._AC_SL200_.jpg"
+    note: "光が強い5〜9月に、窓やベランダへ足す白い遮光ネット。評価★4.4・レビュー156件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。遮光率約65%（商品ページの表示）"
+    price: "¥1,134"
+  - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
+    asin: "B0CJBM2WV9"
+    image: "https://m.media-amazon.com/images/I/51B2UmXbU4L._AC_SL200_.jpg"
+    note: "育成ライトの点灯を、1日12〜16時間に区切るタイマー。評価★4.3・レビュー707件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,727"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "広く焼けた葉を、清潔な刃で切り取る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # 観葉植物の葉焼けは復活する？焼けた葉は戻らないが、株は新芽で回復できる
@@ -166,6 +182,11 @@ baseProducts:
 - **秋〜冬**：光が弱まるため、より明るい場所へ移動しても問題が少ない
 
 季節の変わり目に置き場所をチェックする習慣をつけることが、葉焼け予防の基本になります。
+
+光が強い季節に足す遮光ネット、育成ライトの点灯時間を決めるタイマー、焼けた葉を切る剪定鋏の例です。
+
+<!-- amazon-cards title="強い光を和らげる・焼けた葉を整える" -->
+<!-- /amazon-cards -->
 
 ---
 

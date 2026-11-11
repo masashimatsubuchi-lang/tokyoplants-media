@@ -28,6 +28,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "朝と夜の湿度の差を、スマホのグラフで振り返れる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "40%を下回りがちな部屋の湿度を上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # アロカシア・ドラゴンスケール｜硬質葉の育て方
@@ -160,6 +171,11 @@ baseProducts:
 <!-- character-note character="shadee" type="point" -->
 湿度計は「今の数値」しかわからないから、朝と夜で40%以上変動していないかを1週間くらい記録してみると、加湿が本当に足りているか判断しやすいよ。
 <!-- /character-note -->
+
+朝と夜の湿度の差を記録で振り返れる温湿度計と、部屋の湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度60〜80%を記録して保つ" -->
+<!-- /amazon-cards -->
 
 ### 仕立て
 

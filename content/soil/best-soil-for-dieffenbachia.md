@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "基本配合の4割を占める、赤玉土の小粒。評価★4.4・レビュー293件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "基本配合の2割で、水はけを上げるパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "植え替えや剪定のとき、樹液から手を守るニトリルの使いきり手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,020"
 ---
 
 クリーム色の斑が華やかなディフェンバキアは、耐陰性が高く育てやすい観葉植物ですが、「下葉が黄色くなる」「茎が柔らかくなって倒れる」といった過湿トラブルの相談が多い植物でもあります。原因の多くは水やりそのものではなく、水はけの悪い土を使い続けていることにあります。この記事では、ディフェンバキアに合う土の条件・市販品・自作配合レシピ・植え替え時の注意点を解説します。
@@ -168,6 +184,11 @@ baseProducts:
 **6. 水やりとその後の管理**
 
 たっぷり水を与え、植え替え後1〜2週間は直射日光を避けた明るい日陰で養生させます。
+
+基本配合に使う赤玉土（小粒）とパーライト、樹液から手を守る使いきり手袋の例です。
+
+<!-- amazon-cards title="配合の素材と樹液対策" -->
+<!-- /amazon-cards -->
 
 ---
 

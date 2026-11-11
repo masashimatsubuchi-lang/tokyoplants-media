@@ -34,6 +34,17 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "明け方の冷え込みと湿度を、記録で確かめられる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "エアコンで下がった冬の湿度を、50〜70%に戻す気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # アグラオネマの育て方｜明るい間接光・水は控えめ・冬は15℃以上の3点
@@ -147,6 +158,11 @@ baseProducts:
 - **ピクタム系の原種**：60〜80%を要求する。加湿器またはガラスケースが現実的
 
 葉水は湿度対策として単独では力不足ですが、葉面の乾燥を和らげる補助になります。**朝のうちに済ませ**、夜に水滴が残らないようにしてください。
+
+冬の15℃と湿度を確かめる温湿度計と、部屋の湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="冬の温度と湿度を整える" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

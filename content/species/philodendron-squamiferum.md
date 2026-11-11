@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "茎を傷めにくい柔らかい結束材で、支柱へ軽く留める。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
 ---
 
 # フィロデンドロン・スクアミフェラムの育て方｜赤い毛深い葉柄が個性的なフィロデンドロン
@@ -92,6 +103,11 @@ baseProducts:
 ### 支柱
 
 着生性の植物であるため、成長につれて支柱への誘引が重要です。ヘゴ柱・コケ柱・杉丸太などを鉢中央に立て、気根を支柱に定着させることで上方向への成長が促進されます。支柱を使って縦方向に誘引した株は、同じ栽培環境でも吊り鉢や這わせた株より葉形の成熟が早く進む傾向があります。支柱は株の大きさに合わせて100〜180 cm程度のものを選びます。
+
+気根を絡ませる支柱と、茎を留める結束材の例です。
+
+<!-- amazon-cards title="支柱に誘引する" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

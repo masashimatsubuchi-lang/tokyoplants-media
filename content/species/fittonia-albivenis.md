@@ -17,6 +17,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くで湿度60%以上・15℃以上を保てているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
+  - title: "リビング ガラス瓶 ストレートジャー Mサイズ 5.0L（径17×高さ24cm）"
+    asin: "B01AVU1HQ4"
+    image: "https://m.media-amazon.com/images/I/510HjmNiT9L._AC_SL200_.jpg"
+    note: "小型の株を入れて湿度を保つ、径17×高さ24cmのガラス瓶。評価★4.2・レビュー1,162件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,100"
 ---
 
 # フィットニアがしおれたのに土が湿っている？水切れではなく過湿か低温
@@ -80,6 +96,11 @@ baseProducts:
 ### 湿度
 
 **フィットニアの管理で最も重要な要素が湿度である。** 目安として60%以上の湿度が理想とされ、乾燥した室内では葉先がチリチリに縮れたり、株全体がしおれやすくなる。加湿器の利用、こまめな葉水、鉢をトレーに乗せて湿った砂利の上に置くレイアウトなどが有効だ。ガラス容器を使ったテラリウム栽培も、湿度を保ちやすい方法として広く行われている。
+
+湿度60%以上と15℃を確かめる温湿度計、部屋の湿度を上げる加湿器、テラリウムに使えるガラス瓶の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度60%以上を保つ" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

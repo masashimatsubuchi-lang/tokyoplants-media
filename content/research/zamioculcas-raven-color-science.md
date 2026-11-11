@@ -13,6 +13,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "窓から遠い暗い部屋で、明るさを足す電球型の育成ライト。評価★4.4・レビュー680件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、向きを変えられるソケット。評価★4.3・レビュー312件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,910"
 ---
 
 ザミオクルカス・レイブン（*Zamioculcas zamiifolia* 'Raven'）は、光沢のある葉が黒紫〜漆黒に染まる印象的な品種です。「植物なのになぜここまで黒くなるのか」——この記事では、レイブンの葉色を決める色素の仕組みを、植物の色素に関する一般的な科学知識をもとに解説します。
@@ -50,6 +61,11 @@ baseProducts:
 - 明るい間接光が当たる場所に置く（直射日光の当てすぎは葉焼けの原因になるため注意）
 - 新芽が緑色のうちは心配しすぎず、成熟を待つ
 - 極端な低光量の環境では、葉色が黒くなりきらず緑〜オリーブ色にとどまりやすい
+
+窓から離れた暗い部屋に置く場合は、育成ライトで明るさを足す方法もあります。電球型の育成ライトと、それを取り付けるクリップ式のソケットの例です。
+
+<!-- amazon-cards title="暗い部屋で光を足す" -->
+<!-- /amazon-cards -->
 
 水やり・用土などザミオクルカス全般の育て方は[ザミオクルカスの育て方図鑑｜ZZ plantの特徴と管理の基本](/species/zamioculcas-zamiifolia)を参照してください。
 

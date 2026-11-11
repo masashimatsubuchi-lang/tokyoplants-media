@@ -17,6 +17,22 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "Planterior（プランテリア）水位計 Mサイズ"
+    asin: "B00UFKAQKO"
+    image: "https://m.media-amazon.com/images/I/61yX2KN5uUL._AC_SL200_.jpg"
+    note: "培地に挿しておくと、容器の水位を外から読める。評価★3.8・レビュー91件（2026-11-11にAmazon商品ページで確認／在庫あり（残り17点）・Prime対象・出荷元Amazon）"
+    price: "¥560"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "肥料が入っていない培地に、水やりのときに薄めて与える。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "土を洗い流したあと、傷んだ根や腐った根を切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # ハイドロカルチャーと水耕栽培の違いは根が常に水中か｜観葉植物はハイドロ向き
@@ -226,6 +242,11 @@ baseProducts:
 ### 底面給水システムの活用
 
 ハイドロカルチャーと底面給水を組み合わせると管理が大幅に楽になります。鉢を水受けの上に置き、水位が下がったら補充するだけ。水位計を使うと、水の残量が一目でわかり便利です。
+
+容器の水位を外から確かめる水位計、肥料が入っていない培地に薄めて与える液体肥料、土植えから移すときに傷んだ根を切る剪定鋏の例です。
+
+<!-- amazon-cards title="水位を見る・追肥する・根を整える" -->
+<!-- /amazon-cards -->
 
 ---
 

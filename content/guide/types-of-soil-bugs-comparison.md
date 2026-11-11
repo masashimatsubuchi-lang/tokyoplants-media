@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "鉢に挿して、飛んでくるキノコバエを捕まえて確かめる。評価★4.0・レビュー2,791件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥757"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "体長1〜2mmの虫の体つきを、10倍で見分けられるルーペ。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土を乾燥気味に保つための、乾き具合の目安になる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # コバエ・キノコバエ・トビムシの違いと土別対策
@@ -63,6 +79,11 @@ baseProducts:
 | トビムシ | 基本的に無害なので、気にならなければ放置でも問題ない。気になれば土を乾燥気味に管理する |
 
 見分けがつかない、または複数の虫が同時に発生している場合は、たいてい「土が常に湿っている」という共通の環境要因が原因です。水やり頻度の見直しから、虫が湧きにくい土への入れ替えまでの手順は上記の記事にまとめています。
+
+飛んでいる虫を捕まえて確かめる黄色い粘着シート、1〜2mmの虫の体つきを見るルーペ、土の乾き具合を色で知らせる水やりチェッカーの例です。
+
+<!-- amazon-cards title="虫を捕まえて見分ける" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

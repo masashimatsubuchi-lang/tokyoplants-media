@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ハイポネックス プロミック 観葉植物用 150g"
+    asin: "B00337XTO6"
+    image: "https://m.media-amazon.com/images/I/81ffPdq8cfL._SL200_.jpg"
+    note: "生育期に土の上に置いて使う、観葉植物用の固形肥料。評価★4.2・レビュー501件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥545"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "水で薄めて、水やりのついでに与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥527"
 ---
 
 「コーヒーかすを土に混ぜると肥料になる」「卵の殻を撒けば栄養になる」——観葉植物を育てる人なら一度は聞いたことがあるこの話、実際に試してみたことがある方も多いのではないでしょうか。結論から言うと、これは半分正解で半分は誤解を含んだ迷信です。この記事では、コーヒーかすと卵の殻が観葉植物にとって本当に肥料になるのか、科学的な仕組みと正しい使い方、そして避けるべき失敗を解説します。
@@ -137,6 +148,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 家にあるものを再利用したい気持ちは大事にしてほしいけれど、室内の鉢は「風が通らない密室」みたいなもの。土の上に何かを足したら、その後1〜2週間はカビや小さな虫が出ていないか、水やりのついでに見てあげてね。
 <!-- /character-note -->
+
+栄養を補うなら、成分量が表示された市販の肥料のほうが量を管理しやすくなります。土の上に置く固形肥料と、薄めて使う液体肥料の例です。
+
+<!-- amazon-cards title="肥料は市販品で量を管理する" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

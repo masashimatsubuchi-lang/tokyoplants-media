@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "培養土に2割、子株用なら4割足して水はけを上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "子株を、根をつけたまま親株から切り離す剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 「友情の植物」として株分けで世界中に広まったピレア・ペペロミオイデス。育て方自体はシンプルですが、子株を株分けして新しい鉢に植える際に「どんな土を使えばいいのか」で迷う方が多いのも事実です。子株はまだ根が少なく、土の水はけが悪いとあっという間にしおれてしまいます。この記事では、ピレア・ペペロミオイデスに合う土の条件・市販品・自作配合レシピ・子株の植え付け手順を解説します。
@@ -155,6 +166,11 @@ baseProducts:
 **4. 独立直後は明るい日陰で養生する**
 
 植え付け直後は直射日光を避けた明るい場所で1〜2週間、乾燥気味に管理します。
+
+配合に足すパーライトと、子株を切り分ける剪定鋏の例です。
+
+<!-- amazon-cards title="配合の素材と切り分けの道具" -->
+<!-- /amazon-cards -->
 
 ### 親株の植え替え手順
 

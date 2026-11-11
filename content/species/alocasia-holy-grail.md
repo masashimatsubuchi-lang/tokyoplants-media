@@ -33,6 +33,22 @@ siblings:
     role: "育て方の実務"
   - slug: "species/alocasia-holy-grail"
     role: "図鑑・品種情報"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くで湿度60〜80%・15℃以上を保てているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "水を温めずに、湿らせたフィルターから蒸発させて加湿する気化式。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "単植えに使える、長繊維の水苔。評価★4.1・レビュー35件（2026-11-11にAmazon商品ページで確認／在庫あり（残り6点）・Prime対象・出荷元Amazon）"
+    price: "¥2,180"
 ---
 
 # アロカシア・ホーリーグレイル｜深色メタリック葉のジュエルアロカシア図鑑
@@ -140,6 +156,11 @@ Holy Grailは「葉脈の隆起の強さ」と「メタリックな光沢」が�
 ### 培地
 
 水苔単植えが最もよく使われる方法。透明ポットと組み合わせると根の状態を確認しやすい。
+
+湿度60〜80%を確かめる温湿度計、部屋の湿度を上げる加湿器、単植えに使う水苔の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度を保つ・水苔で植える" -->
+<!-- /amazon-cards -->
 
 ### 温度
 
