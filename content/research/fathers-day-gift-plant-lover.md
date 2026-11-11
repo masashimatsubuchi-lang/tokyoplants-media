@@ -22,6 +22,12 @@ baseProducts:
   - title: "Leather Botanical Collection｜SISHICRAFT × tokyoplants"
     url: "https://www.tokyoplants.com/categories/7318231"
     price: "¥18,000〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "タイマーと調光がついた、棚に挟んで使う育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。10段階の調光と、3・9・12時間のタイマー付き（商品ページの表示）"
+    price: "¥4,445"
 ---
 
 次の父の日は **2027年6月20日（日）**。「植物が好きなお父さんに何を贈ればいいか分からない」という方に向けて、大げさにならずにちゃんと刺さるギフトを予算別に紹介します。
@@ -96,6 +102,11 @@ Daily Botanical Towelに、tokyoplants オリジナル用土『 I'm original SOI
 <!-- character-note character="shadee" type="tip" -->
 育成ライトを贈るなら、お父さんが植物を置いている窓の向きだけ先に確かめておいて。北向きや窓から2m以上離れた棚で育てている人ほど、光を足した効果がはっきり出るよ。
 <!-- /character-note -->
+
+タイマー機能のついた育成ライトの例です。棚やデスクに挟んで使うクリップ式です。
+
+<!-- amazon-cards title="父の日に贈る育成ライト" -->
+<!-- /amazon-cards -->
 
 ---
 

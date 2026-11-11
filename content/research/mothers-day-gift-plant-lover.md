@@ -29,6 +29,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "AROID ADDICTS サトイモ科熱帯植物図鑑（日本文芸社）"
+    asin: "4537222891"
+    image: "https://m.media-amazon.com/images/I/81hvJixOaGL._SL200_.jpg"
+    note: "アンスリウムやアロカシアなど、サトイモ科の植物を集めた専門図鑑。評価★4.6・レビュー59件（2026-11-11にAmazon商品ページで確認／在庫あり（残り18点・入荷予定あり）・Prime対象・出荷元と販売元はAmazon.co.jp）。日本文芸社、2025年6月刊。30属・450個体を掲載し、栽培法の解説つき（商品ページの内容紹介）"
+    price: "¥2,200"
+  - title: "NHK趣味の園芸 観葉植物 パーフェクトブック（杉山拓巳 著）"
+    asin: "4141993379"
+    image: "https://m.media-amazon.com/images/I/71u9MS5qFjL._SL200_.jpg"
+    note: "約200種の人気種を写真で紹介する、図鑑と育て方の本。評価★4.6・レビュー204件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。杉山拓巳 著、NHK出版、2024年3月刊（商品ページの表示）"
+    price: "¥1,980"
 ---
 
 ## 植物好きなお母さんへの母の日、何を贈る？
@@ -124,6 +135,11 @@ baseProducts:
 「好きな植物の専門書」は、植物好きにとって宝物になる贈り物です。アンスリウム・モンステラ・アロカシアなど、お母さんが育てている植物に特化した図鑑を選ぶと特に喜ばれます。
 
 インテリアとして飾れるビジュアルブックも人気です。
+
+アンスリウム・モンステラ・アロカシアなどサトイモ科に絞った図鑑と、人気の観葉植物を幅広く写真で紹介する図鑑の例です。
+
+<!-- amazon-cards title="植物好きのお母さんに贈る図鑑" -->
+<!-- /amazon-cards -->
 
 ---
 

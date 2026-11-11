@@ -28,6 +28,22 @@ baseProducts:
   - title: "アンスリウム / Anthurium（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382097"
     price: ""
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏のハダニや細かな虫を、10倍に拡大して確かめる。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。3枚のレンズを貼り合わせたトリプレットレンズ（商品ページの表示）"
+    price: "¥3,080"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそば・葉の高さに置き、夜の温度と湿度を記録する。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黄色くなりきった下葉を、付け根で切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # アンスリウムの葉が黄色い・茶色い｜古い葉か新葉か、縁か斑点かで原因が分かれる
@@ -204,6 +220,11 @@ baseProducts:
 5. **最近の変化を思い出す**：置き場所の移動、施肥、植え替え、エアコンの使用開始など
 6. **1つだけ変えて、次の新葉を待つ**：同時にいくつも変えると、何が効いたかわからなくなる
 <!-- /steps -->
+
+手順2で葉の裏の小さな虫を確かめるルーペ、手順4で株のそばの温度と湿度を測る温湿度計、完全に黄色くなった葉を付け根で切るハサミの例です。
+
+<!-- amazon-cards title="葉の異常を確かめて整える道具" -->
+<!-- /amazon-cards -->
 
 ---
 

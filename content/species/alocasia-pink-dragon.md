@@ -25,6 +25,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "冬の暖房期に、部屋の湿度を上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそばの温度と湿度を、グラフで振り返れる温湿度計。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # アロカシア・ピンクドラゴンは2品種の呼び名｜オーロラとモロッコの見分け方
@@ -172,6 +183,11 @@ Aroidpediaは 'Morocco' を両親と比べて、'Aurora' より小さくまと�
 | 湿度 | 60〜80% | 冬の暖房期は加湿器を併用する |
 
 数値は[アロカシア属の図鑑](/species/genus-alocasia)の記載とそろえています。
+
+冬の暖房期に併用する加湿器と、15℃以上・湿度60〜80%を保てているか確かめる温湿度計の例です。
+
+<!-- amazon-cards title="冬の温度と湿度を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 用土と鉢
 

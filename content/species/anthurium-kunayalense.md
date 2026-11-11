@@ -32,6 +32,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "暖房で乾く冬に、部屋の湿度を上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "SwitchBot 防水温湿度計（IP65・コンパクト）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._AC_SL200_.jpg"
+    note: "結露するケースの中にも置ける、防水タイプの温湿度計。評価★4.3・レビュー6,582件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥1,780"
+  - title: "Mauknci 小型USBファン 60mm（3段階風量調節）"
+    asin: "B083K5M1YL"
+    image: "https://m.media-amazon.com/images/I/716wT67u-4L._AC_SL200_.jpg"
+    note: "ケースの中で弱い気流を作る、6cmのUSBファン。評価★4.1・レビュー339件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。風量は3段階で、24時間の連続稼働に対応（商品ページの表示）"
+    price: "¥1,275"
 ---
 
 # アンスリウム・クナヤレンセは葉裏の白い点が目印｜ドレスレリと混同されてきた種
@@ -197,6 +213,11 @@ tokyoplantsでこれまでに出品した「クナヤレンシス」は、いず
 <!-- character-note character="shadee" type="warning" -->
 自生地は「湿っていて風がない」場所だけど、室内のケースで閉めきると、空気がよどんで葉や株元が傷みやすくなる。ケースを使うなら、ときどき扉を開けるか、小さなファンで空気をゆっくり動かしてあげてね。
 <!-- /character-note -->
+
+部屋の湿度を上げる加湿器、ガラスケースの中にも置ける防水タイプの温湿度計、ケースの中の空気をゆっくり動かす小型ファンの例です。
+
+<!-- amazon-cards title="湿度を保ち、空気を動かす道具" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

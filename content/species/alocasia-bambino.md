@@ -26,6 +26,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾燥で葉先が傷むのを防ぐ、気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "夜の最低温度と湿度を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し、最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
 ---
 
 # アロカシア・バンビーノは高さ50cm以下の小型品種｜斑入りは斑が変わることも
@@ -161,6 +172,11 @@ Aroidpediaによると、'Bambino Arrow' はオランダで2008年ごろに出�
 | 湿度 | 60〜70% | 乾燥すると葉先から傷む |
 
 温度は[アロカシア属の図鑑](/species/genus-alocasia)・[アマゾニカの図鑑](/species/alocasia-amazonica)の記載とそろえています。冬の管理は[アロカシアの冬越し](/guide/alocasia-winter-care)にまとめています。
+
+乾燥で葉先が傷むのを防ぐ加湿器と、15℃以上・湿度60〜70%を保てているか確かめる温湿度計の例です。
+
+<!-- amazon-cards title="冬の温度と湿度を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 用土と鉢
 

@@ -22,6 +22,17 @@ siblings:
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-rhaphidophora-tetrasperma"
     role: "土の選び方"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合の2割で、排水性と通気性を高めるパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥703"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "配合の2割で、土の構造を安定させる赤玉土の小粒。評価★4.4・レビュー293件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
 ---
 
 「ミニモンステラの成長が早くて、すぐ根詰まりしてしまう」「土は何を使えばいいの？」——ラフィドフォラ・テトラスペルマ（通称ミニモンステラ）はモンステラに似た穴あき葉が魅力ですが、成長速度が非常に速いため、土選びと植え替えサイクルを誤ると根詰まりや葉の小型化を招きやすい植物です。
@@ -70,6 +81,11 @@ siblings:
 自分で配合するのが手間な場合は、排水性の高い観葉植物用培養土を選びましょう。tokyoplantsの[『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)は、ヤシの繊維（ココチップ）・日向石・蘭の発酵樹皮を中心に、ミミズ堆肥・ピートモス・パーライトを配合した6種類の厳選素材からなる用土で、そのまま使っても水はけと養分供給のバランスが取れています。成長が特に速い株には、パーライトを1〜2割追加するとより安定します。
 
 すでにモンステラを育てている方は、[モンステラの植え替えに最適な土は？](/soil/best-soil-for-monstera)で解説している配合の考え方もそのまま応用できます。
+
+配合レシピで使うパーライトと赤玉土（小粒）の例です。パーライトは、I'm original SOILに1〜2割足すときにも使えます。
+
+<!-- amazon-cards title="配合レシピに使う素材" -->
+<!-- /amazon-cards -->
 
 ### 鉢とスリット鉢の活用
 

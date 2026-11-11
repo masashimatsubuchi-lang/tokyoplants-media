@@ -26,6 +26,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "暖房で乾く冬に、株の近くで湿度を補う気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "冬の夜の最低温度と湿度を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し、最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
 ---
 
 # アンスリウム・フッケリとは｜本来の種は葉に黒い腺点、流通名には交配種も
@@ -157,6 +168,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 葉が大きい株ほど、エアコンの風が当たる面積も大きくなるんだ。風が直接当たると、湿度計の数字が足りていても葉先から乾いていくよ。置き場所を決めるときは、エアコンの吹き出し口の向きも一緒に確かめてね。
 <!-- /character-note -->
+
+暖房で乾く冬に株の近くに置く加湿器と、15℃以上・湿度60〜75%を保てているか確かめる温湿度計の例です。
+
+<!-- amazon-cards title="冬の温度と湿度を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 仕立て
 

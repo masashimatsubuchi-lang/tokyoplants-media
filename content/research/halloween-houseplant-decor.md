@@ -21,6 +21,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "Litake LEDキャンドル 24個セット（電池式）"
+    asin: "B0F1CF2CLM"
+    image: "https://m.media-amazon.com/images/I/61GkTREWqNL._AC_SL200_.jpg"
+    note: "鉢の足元に並べて使える、小ぶりなLEDキャンドル24個。評価★4.3・レビュー396件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。ボタン電池で点灯し、炎のゆらぎを再現（商品ページの表示）"
+    price: "¥1,680"
+  - title: "AnnTec LEDキャンドルライト 5本セット（電池式・リモコン付き）"
+    asin: "B0BG74NBHV"
+    image: "https://m.media-amazon.com/images/I/71eHXhq3ONL._AC_SL200_.jpg"
+    note: "鉢の背後に置ける、高さ10〜15cmのLEDキャンドル5本。評価★4.2・レビュー99件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。単3電池2本（別売）で点灯し、2〜8時間の自動消灯タイマー付きのリモコンで操作（商品ページの表示）"
+    price: "¥2,699"
 ---
 
 # ハロウィンを楽しむ観葉植物・寄せ植えアイデア
@@ -102,6 +113,11 @@ baseProducts:
 - **黒いリボン・麻紐**：鉢に巻くだけで簡単にアクセントを加えられる
 
 いずれも植物本体を傷つけない範囲で、期間限定の飾りとして使うのがポイント。ハロウィンが終わったら外して、通常のインテリアグリーンとしてそのまま育て続けられる。
+
+夜に鉢の下や背後から照らす、電池式のLEDキャンドルの例です。
+
+<!-- amazon-cards title="鉢を照らすLEDキャンドル" -->
+<!-- /amazon-cards -->
 
 ---
 

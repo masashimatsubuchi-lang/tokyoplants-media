@@ -32,6 +32,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそばに置き、湿度が60%以上あるか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "葉の大きな株に向く、部屋全体の湿度を上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "明るさを調整でき、弱めの光から始められる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。10段階の調光と、3・9・12時間のタイマー付き（商品ページの表示）"
+    price: "¥4,445"
 ---
 
 # アンスリウム・ムーデアナムは原産地不明｜ハワイの栽培株から名づけられた未発表名
@@ -182,6 +198,11 @@ tokyoplantsで過去に出品した若い株の写真では、葉の表面に**�
 <!-- character-note character="shadee" type="warning" -->
 葉が大きくて垂れる株は、ケースに入れると葉が壁に当たりやすいの。湿度を上げたいときは、株ごと閉じこめるより、加湿器で部屋の湿度を上げるほうが向いているかもしれないね。
 <!-- /character-note -->
+
+株のそばの湿度を確かめる温湿度計、部屋の湿度を上げる加湿器、PPFDの低い側から始められる調光つきの育成ライトの例です。
+
+<!-- amazon-cards title="湿度と光を補う道具" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

@@ -25,6 +25,12 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "植物学名入門 植物の名前のつけかた〈新装版〉（L.H.ベイリー著）"
+    asin: "489694237X"
+    image: "https://m.media-amazon.com/images/I/812bQeI-mML._SL200_.jpg"
+    note: "学名の命名ルールや同定の重要性を解説した入門書。評価★4.2・レビュー11件（2026-11-11にAmazon商品ページで確認／在庫あり（残り2点・入荷予定あり）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,080"
 ---
 
 # アンスリウム交配株の読み方｜×の前は種親が通例、略号は品種や系統の名
@@ -61,6 +67,11 @@ baseProducts:
 国際植物命名規約（1994年の東京規約）の付則Iにある勧告 H.2A.1 は、交配式（「×」でつないだ名前）の中の名前は、通常はアルファベット順に並べるのが望ましいとしたうえで、**交配の方向を示す場合は ♀・♂ の記号を使うか、種親を先に書く**としています。園芸の世界では後者の書き方が広く使われていて、「A × B」なら A が種親と読むのが通例です。
 
 国際アロイド協会（IAS）の品種登録でも、親は「Seed Parent（種親）」と「Pollen Parent（花粉親）」に分けて記録されます。たとえばビル・ロトランテ（Bill Rotolante）が作出した 'Pink Lemonade' は、種親 'SKG Silver'、花粉親 'SKG Grey' と登録されています。
+
+学名の付け方そのものを知りたい人向けに、命名のルールを解説した入門書の例です。
+
+<!-- amazon-cards title="学名の付け方を知る本" -->
+<!-- /amazon-cards -->
 
 ### 売り場の名前は逆順も混ざる
 

@@ -17,6 +17,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、土の乾きを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "葉先が傷みやすい乾燥した季節に、湿度50%以上を保てているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "成長期に水で薄めて与える、リン酸を多く含む液体肥料。評価★4.3・レビュー8,049件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
 ---
 
 # スパティフィラム（ピースリリー）の育て方完全ガイド
@@ -96,6 +112,11 @@ baseProducts:
 ### 肥料
 
 成長期（5〜9月）に緩効性肥料または薄めた液体肥料を月1〜2回程度施す。開花を促したい場合は、リン（P）を含む肥料を適量与えることが有効とされる。ただし肥料過多は葉焼けや根傷みの原因になるため、規定量以下から様子を見る。
+
+土の乾きを確かめる水やりチェッカー、50%以上の湿度を保てているか見る温湿度計、成長期に薄めて与えるリン酸の多い液体肥料の例です。
+
+<!-- amazon-cards title="水やり・湿度・肥料を整える道具" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

@@ -27,6 +27,22 @@ baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、太めの120cm支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "茎を傷めにくい柔らかい結束材で、支柱へ軽く留める。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "剪定や挿し木のとき、粘りのある樹液から手を守る。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
 ---
 
 # フィロデンドロン・ラジアタム｜切れ込みが中脈近くまで届く大型のつる性種
@@ -217,6 +233,11 @@ tokyoplantsがこれまでに出品したラジアタムの名前のつく株（
 ### 仕立て
 
 茎が木に張りついて登る種なので、太い支柱かモスポールを立て、茎を沿わせます。フィロデンドロン属では、気根が支柱に活着すると葉が大きくなりやすいとされます。株が大きくなるので、最初から高さのある支柱を用意し、伸びに合わせて継ぎ足します。
+
+茎を沿わせる太めの支柱、茎を支柱に留める柔らかい結束材、剪定や挿し木で樹液に触れるときの手袋の例です。
+
+<!-- amazon-cards title="支柱に沿わせて仕立てる道具" -->
+<!-- /amazon-cards -->
 
 <!-- calendar title="ラジアタムの年間管理" legend="関東の室内の目安。◎最適 ○通常 △控えめ ×避ける" -->
 | 作業 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |

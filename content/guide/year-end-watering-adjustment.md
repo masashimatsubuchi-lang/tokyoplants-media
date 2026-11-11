@@ -19,6 +19,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、土が乾いたかを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "留守中の室温と湿度の変化を、帰宅後にグラフで振り返れる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # 観葉植物の年末年始の水やり調整
@@ -84,6 +95,11 @@ baseProducts:
 - 土が湿っているのに葉がしおれている → 根腐れの可能性があるため、鉢から抜いて根を確認する
 
 年末年始の留守後は特に、根腐れのサイン（下葉からの黄変、土の異臭、茎の柔らかさ）がないか注意深くチェックしてください。初期の根腐れであれば、傷んだ根を切除して植え替えることで復活が期待できます。詳しい手順は「[観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)」を参照してください。
+
+出発前と帰宅後に土の乾き具合を確かめる水やりチェッカーと、留守中に室温がどこまで下がったかを帰宅後に確かめられる温湿度計の例です。
+
+<!-- amazon-cards title="留守の前後に土と室温を確かめる道具" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 
