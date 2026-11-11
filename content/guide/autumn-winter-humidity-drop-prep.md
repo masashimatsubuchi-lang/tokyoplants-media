@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "植物のそばに置き、朝晩の湿度の変化をグラフで振り返れる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "朝の葉水を、細かい霧で葉の表裏にかけられる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "湿度が下がりきる前に用意したい、水を温めずに加湿する気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
 ---
 
 # 秋から冬への湿度低下、今からできる準備
@@ -68,6 +84,11 @@ baseProducts:
 ### 5. 加湿器が必要かどうかを早めに判断する
 
 毎年、暖房を使い始めてから乾燥に気づき、加湿器を探し始めて「在庫切れだった」「設置が間に合わなかった」というケースが起こりがちです。過去の冬に葉先枯れや調子を崩す株が複数あった場合は、湿度計の数値が下がりきる前に、加湿器の導入を検討・準備しておくのが賢明です。機種選びのポイントは[冬の湿度管理と加湿器・除湿機の選び方](/review/winter-humidity-control-humidifier-dehumidifier)を参照してください。
+
+1で植物のそばに置く温湿度計、4の葉水に使う霧吹き、5で導入を検討する加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="暖房シーズン前にそろえる湿度の道具" -->
+<!-- /amazon-cards -->
 
 ### 6. 水やり頻度の切り替えも並行して準備する
 

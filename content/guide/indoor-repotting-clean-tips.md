@@ -19,6 +19,22 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+amazonProducts:
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "床に広げて四隅を留めると、こぼれた土を受けるトレーになる。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。スナップボタンでトレー型に変形（商品ページの表示）"
+    price: "¥1,069"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "使う分の土を、粉が舞わない程度に湿らせる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く傷んだ根を切り取る、消毒して使うハサミ。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 「植え替えしたいけど、庭もベランダも狭い」「室内で土を扱うと汚れそうで怖い」——マンション住まいの方にとって、植え替えの最大のハードルは作業スペースの問題です。この記事では、室内でも部屋を汚さずに植え替えを完了させる方法を、準備・手順・片付けまで具体的に解説します。
@@ -50,6 +66,11 @@ baseProducts:
 - スコップ（小さめ）
 - 霧吹き
 - ビニール袋（古い土の処分用）
+
+養生に使える、スナップボタンでトレー型になる防水の園芸シート、STEP 2で土を湿らせる霧吹き、STEP 4で傷んだ根を切るハサミの例です。
+
+<!-- amazon-cards title="室内の植え替えを汚さずに進める道具" -->
+<!-- /amazon-cards -->
 
 ## 具体的な手順
 

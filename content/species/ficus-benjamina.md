@@ -18,6 +18,17 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "5〜6月の剪定で、枝を切りたい位置できれいに切る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "剪定で出る白い樹液から、手の皮膚を守る使いきりの手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
 ---
 
 # フィカス・ベンジャミン（シダレゴムノキ）完全図鑑｜落葉の原因と育て方
@@ -97,6 +108,11 @@ baseProducts:
 ### 剪定・仕立て
 
 成長期に剪定すると、切った位置の下から新芽が出て分岐する。幹を三つ編みにした仕立てや、丸く刈り込んだトピアリー仕立てなど、剪定によって好みの樹形に整えられる。剪定は5〜6月が適期で、切り口から出る樹液はティッシュで拭き取る。
+
+剪定に使うハサミと、白い樹液から手を守る使いきりのニトリル手袋の例です。
+
+<!-- amazon-cards title="剪定と樹液対策の道具" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

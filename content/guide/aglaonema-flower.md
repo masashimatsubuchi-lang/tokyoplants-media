@@ -22,6 +22,17 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "花序の柄を、株元の付け根からきれいに切る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "切ったときに出る樹液から、手の皮膚を守る使いきりの手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
 ---
 
 # アグラオネマの花は切ってよい｜葉を楽しむなら早めに、実を狙うなら4〜6ヶ月
@@ -124,6 +135,11 @@ tokyoplants MEDIAの[アグラオネマの育て方](/guide/aglaonema-care-guide
 <!-- callout type="warning" title="樹液とペットへの注意" -->
 アグラオネマはサトイモ科で、組織内に**不溶性シュウ酸カルシウムの針状結晶**を含みます。切ったときに出る樹液は皮膚や粘膜を刺激するため、手袋を使い、作業後は手を洗ってください。切った花序・赤い実は猫や犬が口にしやすい形と色をしているので、確実に処分します（[アグラオネマは猫に危険？](/guide/aglaonema-cats-safety)）。
 <!-- /callout -->
+
+花序を付け根から切るハサミと、樹液から手を守る使いきりのニトリル手袋の例です。
+
+<!-- amazon-cards title="花序を切るときの道具" -->
+<!-- /amazon-cards -->
 
 ---
 

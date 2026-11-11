@@ -15,6 +15,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "鉢に差し込み、黄色に集まるキノコバエの成虫を捕らえる。評価★4.0・レビュー2,791件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。1枚8×13cm（商品ページの表示）"
+    price: "¥757"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が乾いたことを色の変化で知らせ、水やりの間隔を空ける目安になる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # 観葉植物のコバエ対策｜梅雨の発生原因と根本的な駆除方法
@@ -63,6 +74,11 @@ baseProducts:
 ### ① 土の表面を乾かす
 
 水やりの頻度を見直し、土の表面が十分乾いてから次の水やりをするようにします。キノコバエは湿った土にしか産卵しないため、表面が乾いた状態を保つだけで産卵を大幅に抑制できます。
+
+即効対策で挙げた黄色い粘着シートと、①で次の水やりまでの間隔を判断する水やりチェッカーの例です。
+
+<!-- amazon-cards title="成虫を捕まえる・土を乾かす" -->
+<!-- /amazon-cards -->
 
 ### ② 有機質の少ない用土に切り替える
 

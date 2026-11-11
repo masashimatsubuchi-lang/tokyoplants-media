@@ -27,6 +27,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のすぐそばに置き、冬の湿度が60%を割っていないか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "暖房で30〜40%まで下がった部屋の湿度を、水を温めずに上げる。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
 ---
 
 # アロカシア・アマゾニカの育て方｜特徴と管理のコツ
@@ -155,6 +166,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 湿度計は部屋の中央に一つだけ置くより、株のすぐそばに置くのがコツ。部屋全体の湿度と葉のまわりの湿度は、数値が大きく異なることがある。
 <!-- /character-note -->
+
+株のすぐそばに置く温湿度計と、暖房で下がった部屋の湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="株のそばの湿度を測る・上げる" -->
+<!-- /amazon-cards -->
 
 ### 仕立て
 

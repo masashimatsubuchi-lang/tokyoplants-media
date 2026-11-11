@@ -17,6 +17,17 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "黒味の発色に光が足りないとき、棚に挟んで光を足せる調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませて登らせ、葉を大きく育てるココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
 ---
 
 # スキンダプサス・トロイビー・ダークフォーム｜ムーンライトとの違い
@@ -98,6 +109,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 黒葉系のスキンダプサスは、光の量で色の濃さがけっこう変わるんだ。季節で日照時間が変わりやすい窓辺に置いている場合は、アプリの光量チェックで定期的に確認しておくと安心だよ。
 <!-- /character-note -->
+
+窓辺の光が足りないときに光を足すクリップ式の育成ライトと、特徴の節で触れた、葉を大きくするために誘引する支柱の例です。
+
+<!-- amazon-cards title="光を足す・支柱に登らせる" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

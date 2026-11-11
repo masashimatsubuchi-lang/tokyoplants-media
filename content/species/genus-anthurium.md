@@ -35,6 +35,22 @@ baseProducts:
   - title: Daily Botanical Towel｜リーフタオル
     url: 'https://www.tokyoplants.com/items/135803882'
     price: '¥2,000'
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のすぐそばの高さに置き、種ごとの必要湿度に届いているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "葉水を、細かい霧で葉の表裏にかけられる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
 ---
 
 ## アンスリウム属とは
@@ -166,6 +182,11 @@ baseProducts:
 ### 湿度
 
 高湿度（60〜80%）を好む。特に葉ものタイプは湿度不足で葉の縁が枯れ込みやすい。葉水を毎日行うか、加湿器を併用する。トレイに水を張った上に鉢を置く方法も有効。
+
+株のそばの湿度を確かめる温湿度計、葉水に使う霧吹き、部屋の湿度を上げる加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度を測る・上げる道具" -->
+<!-- /amazon-cards -->
 
 ### 土
 

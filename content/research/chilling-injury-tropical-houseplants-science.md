@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方に何℃まで下がったかを、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "HaruDesign 植物育成ヒートマット SA-12C（55×35cm・温度調整コントローラー付き）"
+    asin: "B0FR9CFQ6X"
+    image: "https://m.media-amazon.com/images/I/61uq3Ue7VcL._AC_SL200_.jpg"
+    note: "保温が必要な温度帯で、鉢を下から温める温度調整つきのマット。評価★4.4・レビュー91件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。55×35cm・温度調整コントローラー付き（商品ページの表示）"
+    price: "¥3,540"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "低温期に土が乾いたかを色の変化で知らせ、乾き気味の管理を助ける。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # 熱帯植物はなぜ10℃で傷むのか｜低温障害の科学
@@ -137,6 +153,11 @@ Prasad ら（1994）はトウモロコシの実生を使った研究で、低温
 | 5℃前後 | 多くの種で障害が確定的になる。耐寒性の高い種のみ耐える | 保温手段（ヒートマット等）か暖かい部屋への移動が必要 |
 
 種ごとの下限温度は[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)、原産地ごとの適温は[観葉植物417種の原産地・適温・湿度一覧](/research/houseplant-origin-temperature-database)を参照してください。
+
+株の高さで夜間の最低温度を記録できる温湿度計、5℃前後まで下がる場所で鉢を下から温めるヒートマット、低温期に土の乾きを確かめる水やりチェッカーの例です。
+
+<!-- amazon-cards title="最低温度を測る・鉢を温める" -->
+<!-- /amazon-cards -->
 
 ### 用土側でできること
 
