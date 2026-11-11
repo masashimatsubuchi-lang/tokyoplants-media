@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土を落とす作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く変色した根やスカスカの根を切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "千吉 ステンレス土フルイ 21cm 替アミ3枚付（荒・中・細）"
+    asin: "B003VUV38O"
+    image: "https://m.media-amazon.com/images/I/71i5itHULqL._AC_SL200_.jpg"
+    note: "再生する古い土から、崩れた微塵をふるい落とす。評価★4.1・レビュー1,250件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,066"
 ---
 
 ## 結論：1〜2年に一度、土は入れ替えるべき
@@ -168,6 +184,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 植え替えた日をメモしておくと、次の「1〜2年後」の判断がぶれなくなるよ。Green Collectionの育成ログに植え替えの記録を残しておくと、鉢ごとの経過をあとから見返せて便利。
 <!-- /character-note -->
+
+手順2で古い土を落とす作業の下に敷く防水シート、手順3で傷んだ根を切る剪定鋏、次の節で古い土を再生するときに微塵を除くふるいの例です。
+
+<!-- amazon-cards title="入れ替え作業と土の再生に使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

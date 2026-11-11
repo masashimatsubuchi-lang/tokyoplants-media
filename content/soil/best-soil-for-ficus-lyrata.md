@@ -14,6 +14,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "配合レシピに入れる、または土に1〜2割足して排水性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥703"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "植え替えのとき、傷んだ根を切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "白い樹液が手に付かないようにする、ニトリルの使いきり手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,020"
 ---
 
 「カシワバゴムノキ（フィドルリーフフィグ）を植え替えたら葉が次々に落ちた」——大判のバイオリン型の葉が魅力のフィカス・リラータですが、フィカス属の中でも特に環境変化に敏感で、土の排水性を誤ると落葉が長引きやすい植物です。
@@ -74,6 +90,11 @@ baseProducts:
 ### 白い樹液（ラテックス）への注意
 
 フィカス属に共通する特徴として、枝や根を傷つけると白い樹液（ラテックス）が出ます。皮膚に刺激を感じる場合があるため、植え替え作業の際はゴム手袋を着用しましょう。
+
+配合レシピに入れる、またはI'm original SOILに1〜2割追加して排水性を上げるパーライト、手順（2）で傷んだ根を切る剪定鋏、樹液から手を守るニトリルゴム製の手袋の例です。
+
+<!-- amazon-cards title="配合の調整と植え替えの道具" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

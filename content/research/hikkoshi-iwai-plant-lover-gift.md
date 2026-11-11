@@ -26,6 +26,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "IMEEA ステンレス製 じょうろ 1000ml 細口（木製ハンドル・ブラック）"
+    asin: "B0BGXVXGSV"
+    image: "https://m.media-amazon.com/images/I/61fXCF4KFaL._AC_SL200_.jpg"
+    note: "ステンレス製で注ぎ口が細長い、容量1000mlのジョウロ。評価★4.5・レビュー243件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。SUS304ステンレス製・容量1000ml・細長い注ぎ口（商品ページの表示）"
+    price: "¥2,750"
+  - title: "知りたかったがつまってる！ 世界一たのしい観葉植物教室（くりと 著）"
+    asin: "4046062738"
+    image: "https://m.media-amazon.com/images/I/51Ed6w8XJ6L._AC_SL200_.jpg"
+    note: "観葉植物の手入れを「なぜそうするのか」から解説した本。評価★4.5・レビュー131件（2026-11-11にAmazon商品ページで確認／在庫あり（残り19点・入荷予定あり）・Prime対象・出荷元と販売元はAmazon.co.jp）。単行本（商品ページの表示）"
+    price: "¥1,870"
 ---
 
 ## 観葉植物好きへの引っ越し祝い、何を選ぶ？
@@ -128,6 +139,11 @@ tokyoplants の『I'm original SOIL（tokyoplantsプレミアム培養土）』�
 - アンスリウム・モンステラなど特定の属に特化した品種図鑑
 - 観葉植物のインテリアコーディネート集
 - 土・水やり・病害虫など育て方の専門書
+
+③のステンレス製・1L前後・細口のジョウロと、④の育て方の本の例です。
+
+<!-- amazon-cards title="ジョウロと本の例" -->
+<!-- /amazon-cards -->
 
 ---
 

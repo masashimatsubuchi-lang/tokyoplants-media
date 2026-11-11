@@ -21,6 +21,22 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
+    asin: "B0B3M47RQJ"
+    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
+    note: "株の近くに寄せて当てる、電球型の育成ライト。評価★4.4・レビュー680件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。5800KモデルはLED素子直下約40cmでPPFD 700と表示（商品ページの表示）"
+    price: "¥2,978"
+  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
+    asin: "B0C2JTFF2Y"
+    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
+    note: "E26の育成ライトを棚や机に挟み、株との距離を詰められる。評価★4.3・レビュー312件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,910"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "窓辺の夜の最低温度が20℃を下回っていないか、記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
 ---
 
 # アグラオネマの発色が悪いのは光量不足｜耐陰性が高い＝色が出る、ではない
@@ -134,6 +150,11 @@ baseProducts:
 **常時20℃以上**を確保してください。低温下では代謝が落ち、アントシアニンの合成も鈍ります。冬に発色が落ちる株は、光量だけでなく温度が原因のこともあります。
 
 なお、アグラオネマの生育適温は22〜28℃で、15℃を下回ると成長そのものが止まります。発色を狙うなら、生存に必要な温度より一段高い水準が必要だと考えてください。
+
+④で株の近くに寄せて当てる育成ライトとクリップソケット、⑤で窓辺の夜の最低温度を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="光を足す道具と、夜の温度を確かめる道具" -->
+<!-- /amazon-cards -->
 
 ### ⑥ 肥料を見直す
 

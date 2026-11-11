@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土の中まで乾いたかを、色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要。3.5〜6号鉢向け（商品ページの表示）"
+    price: "¥458"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用の培養土に2〜3割混ぜ、水はけを良くする。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥703"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "枯れた花穂を根元から切り、傷んだ根を切り除く。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # ペペロミア・カペラタ｜しわしわ葉と穂状の花が可愛い小型種の育て方図鑑
@@ -130,6 +146,11 @@ baseProducts:
 **10℃以下**になると生育がほぼ停止し、葉が傷むことがあります。原産地がブラジルの熱帯植物であるため、低温には比較的弱い点に注意が必要です。冬は窓際から離し、暖かい室内に置きましょう。
 
 霜や冷気に当たると株が傷むため、冬の屋外への持ち出しは避けてください。
+
+土が乾いたかを確かめる水やりチェッカー、培養土に2〜3割混ぜるパーライト、枯れた花穂や傷んだ根を切る剪定鋏の例です。
+
+<!-- amazon-cards title="乾かし気味に育てる道具" -->
+<!-- /amazon-cards -->
 
 ## 花について
 

@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用の培養土に2〜3割混ぜ、排水性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥703"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が50%を下回っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "全緑の葉が続く茎を、斑のある節の上で切り戻す。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # シンゴニウム・アルボバリエガタムの育て方｜白斑の仕組みと管理
@@ -98,6 +114,11 @@ baseProducts:
 ### 肥料
 
 成長期（4〜9月）に月1〜2回、薄めの液体肥料を施す。斑入り品種は生育が緩やかなため、過剰な施肥は避ける。冬季は施肥不要。
+
+用土に2〜3割混ぜるパーライト、湿度50〜70%を保てているかを確かめる温湿度計、全緑の茎の切り戻しや茎挿しに使う剪定鋏の例です。
+
+<!-- amazon-cards title="用土・湿度・切り戻しの道具" -->
+<!-- /amazon-cards -->
 
 ---
 

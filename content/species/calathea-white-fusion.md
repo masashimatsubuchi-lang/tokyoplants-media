@@ -17,6 +17,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が70%を下回っていないか、グラフで確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "水を温めずに、部屋の湿度を底上げする気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "白い斑の部分を傷めにくい、細かい霧で葉水をかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # カラテア・ホワイトフュージョンの育て方｜大理石模様の希少品種図鑑
@@ -87,6 +103,11 @@ baseProducts:
 ### 湿度
 
 <mark>他のカラテア以上に高い湿度（70〜85%）を必要とする、湿度管理が最重要の品種。</mark>一般的な室内の湿度（40〜50%）では葉先の褐変が慢性的に起こりやすい。加湿器を近くに置く、ペブルトレイを使う、複数の観葉植物をまとめて置いて局所湿度を上げるなどの対策を組み合わせる。本格的に取り組むなら、ガラスキャビネットでの管理が最も安定する。
+
+湿度70〜85%を保てているかを確かめる温湿度計、部屋の湿度を上げる加湿器、白い部分を傷めにくい優しい霧の霧吹きの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="高い湿度を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

@@ -17,6 +17,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "水やりの前に、土が乾いたかを色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要。3.5〜6号鉢向け（商品ページの表示）"
+    price: "¥458"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "株分けで根茎を切り分け、茶色くなった葉先を整える。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "植え替えや株分けの下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 # ハラン（アスピディストラ）の育て方｜耐陰性最強クラスの理由
@@ -95,6 +111,11 @@ baseProducts:
 ### 植え替え
 
 生育が遅く根詰まりしにくいため、2〜3年に1回程度で十分。根茎が鉢いっぱいに広がってきたら、一回り大きな鉢に植え替える。植え替えの基本手順は[観葉植物の植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)を参照。
+
+水やりの前に土の乾きを確かめる水やりチェッカー、株分けで根茎を切り分ける剪定鋏、植え替え作業の下に敷く防水シートの例です。
+
+<!-- amazon-cards title="水やりと株分けの道具" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

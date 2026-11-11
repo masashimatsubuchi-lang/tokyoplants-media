@@ -19,6 +19,22 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が乾いたかを、色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要。3.5〜6号鉢向け（商品ページの表示）"
+    price: "¥458"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "部屋の空気を動かし、鉢まわりの蒸れを防ぐ。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "鉢のそばに挿し、飛んでくるコバエを捕らえる黄色の粘着シート。評価★4.0・レビュー2,791件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥757"
 ---
 
 # 梅雨の観葉植物管理｜蒸れ・根腐れ・コバエを防ぐ完全ガイド
@@ -60,6 +76,11 @@ baseProducts:
 ## 対策④ コバエ対策は「土を乾かす」が基本
 
 コバエを防ぐ最も効果的な方法は、土の表面を乾いた状態に保つことです。受け皿に水を溜めたままにしないこと、水やり後に受け皿の水をすぐに捨てることも徹底してください。すでにコバエが発生している場合は、土の表面に細かい砂や鹿沼土の小粒を薄く敷くことで産卵を防ぐ効果が期待できます。粘着式のトラップを併用するのも有効です。
+
+対策①で土の乾きを確かめる水やりチェッカー、対策②で空気を動かすサーキュレーター、対策④で併用する粘着式のトラップの例です。
+
+<!-- amazon-cards title="蒸れ・根腐れ・コバエを防ぐ道具" -->
+<!-- /amazon-cards -->
 
 ## まとめ
 

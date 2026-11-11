@@ -34,6 +34,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "暖房で乾く部屋の湿度を、スマホのグラフで確かめられる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "知りたかったがつまってる！ 世界一たのしい観葉植物教室（くりと 著）"
+    asin: "4046062738"
+    image: "https://m.media-amazon.com/images/I/51Ed6w8XJ6L._AC_SL200_.jpg"
+    note: "観葉植物の手入れを「なぜそうするのか」から解説した本。評価★4.5・レビュー131件（2026-11-11にAmazon商品ページで確認／在庫あり（残り19点・入荷予定あり）・Prime対象・出荷元と販売元はAmazon.co.jp）。単行本（商品ページの表示）"
+    price: "¥1,870"
 ---
 
 クリスマスプレゼントに何を贈るか迷ったとき、相手が観葉植物好きなら「植物にまつわるアイテム」が一番の近道です。
@@ -165,6 +176,11 @@ tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） �
 ### ⑤ 植物の本・図鑑（¥1,500〜3,000）
 
 長い冬の夜に読める植物の専門書・ビジュアルブックは、クリスマスらしい贈り物です。相手が育てている植物の属に特化した図鑑を選ぶと、より刺さります。
+
+③の湿度計と、⑤の観葉植物の本の例です。どちらも枯れる心配がなく、冬の配送で傷むこともありません。
+
+<!-- amazon-cards title="乾燥対策グッズと本の例" -->
+<!-- /amazon-cards -->
 
 ---
 

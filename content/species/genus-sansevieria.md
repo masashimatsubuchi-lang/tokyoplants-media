@@ -18,6 +18,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "花ごころ サンセベリアの土 5L"
+    asin: "B000IAA2KU"
+    image: "https://m.media-amazon.com/images/I/51evM6GE98L._AC_SL200_.jpg"
+    note: "排水性を重視した、サンスベリア・多肉植物向けの専用土。評価★4.2・レビュー272件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥707"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が完全に乾いたかを、色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要。3.5〜6号鉢向け（商品ページの表示）"
+    price: "¥458"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "子株の連絡根や、腐った部分を切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 ## サンスベリア属とは
@@ -92,6 +108,11 @@ baseProducts:
 ### 植え替え
 
 根詰まりしにくい属だが、2〜3年に1回が目安。適期は5〜6月。鉢底から根が出ていたり、鉢が根に押されて変形するようなら早めに対処する。一回り大きい鉢に移し、古い土を落として新鮮な排水性の高い土に植え替える。
+
+本文で使いやすいとした市販の多肉植物向けの土、土が完全に乾いたかを確かめる水やりチェッカー、株分けや腐った部分の切除に使う剪定鋏の例です。
+
+<!-- amazon-cards title="乾かして育てるための道具" -->
+<!-- /amazon-cards -->
 
 ---
 

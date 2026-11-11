@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢の中まで乾いたかを、色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要。3.5〜6号鉢向け（商品ページの表示）"
+    price: "¥458"
+  - title: "SanDoll 自動水やり器 スリムタイプ 陶器 4本セット（ボトル別売り）"
+    asin: "B0DF63DQ7L"
+    image: "https://m.media-amazon.com/images/I/51mIMnVcy8L._AC_SL200_.jpg"
+    note: "ペットボトルをつないで土に挿す、素焼きの給水スパイク。評価★4.5・レビュー107件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。水500mlで5〜10日間給水が続くと表示されている（植物や鉢の大きさで増減、商品ページの表示）"
+    price: "¥1,698"
+  - title: "Planterior 水位計 Sサイズ"
+    asin: "B00UFKAOEC"
+    image: "https://m.media-amazon.com/images/I/51jvgmvntbL._AC_SL200_.jpg"
+    note: "浮きの上下で容器内の水位を示し、補水の時期が見える。評価★3.8・レビュー91件（2026-11-11にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元Amazon）"
+    price: "¥460"
 ---
 
 # 観葉植物の夏の水やり｜頻度・量・朝晩の使い分け
@@ -154,6 +170,11 @@ baseProducts:
 - 底面給水システム（大きめのトレーに水を張って複数鉢をまとめて管理）を組む
 
 旅行中の詳しい管理方法は [旅行中の観葉植物の水やり](/guide/houseplant-care-during-travel) をご参照ください。
+
+結論①で鉢の中まで乾いたかを確かめる水やりチェッカー、中期の留守に使うペットボトル式の給水器、ハイドロカルチャーで補水の時期を示す水位計の例です。
+
+<!-- amazon-cards title="乾きの確認と留守中の給水に使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

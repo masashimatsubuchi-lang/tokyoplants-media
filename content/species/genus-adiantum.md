@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の商品一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "湿度が60%を下回っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "水を温めずに、部屋の湿度を底上げする気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "繊細な小葉に、細かい霧で葉水をかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 ## アジアンタムとは
@@ -89,6 +105,11 @@ baseProducts:
 ### 湿度——アジアンタム栽培の最重要ポイント
 
 <mark>アジアンタムの栽培で最も重要なのは空気中の湿度である。目安として60〜70%以上を確保したい。</mark>乾燥した室内では小葉が数時間で枯れ込むこともあるため、加湿器の使用、水を張ったトレーの近くに置く、こまめな葉水などの対策が欠かせない。テラリウムやガラス容器での栽培も、高湿度を維持しやすい方法として人気がある。
+
+湿度60〜70%以上を保てているかを確かめる温湿度計、部屋の湿度を上げる加湿器、こまめな葉水に使う霧吹きの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度60〜70%を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 用土
 
