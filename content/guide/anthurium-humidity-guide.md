@@ -30,6 +30,22 @@ baseProducts:
   - title: "アンスリウム / Anthurium（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382097"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 防水温湿度計（IP65・コンパクト）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._AC_SL200_.jpg"
+    note: "ケースの中や葉の高さに置ける、防水の小さな温湿度計。評価★4.3・レビュー6,582件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。防水・防塵はIP65（商品ページの表示）"
+    price: "¥1,780"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "部屋で育つ種に、株の近くに置いて使う加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
+  - title: "Mauknci 小型USBファン 60mm（3段階風量調節）"
+    asin: "B083K5M1YL"
+    image: "https://m.media-amazon.com/images/I/716wT67u-4L._AC_SL200_.jpg"
+    note: "ガラスケースの中で、葉がかすかに揺れる程度の風を作る。評価★4.1・レビュー339件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,275"
 ---
 
 # ビロード系アンスリウムの湿度は種で50〜80%超、部屋でなく株のまわりを上げる
@@ -138,6 +154,11 @@ tokyoplants MEDIA の各図鑑記事で示している目安をまとめまし�
 <!-- callout type="info" title="葉水は「湿度を保つ手段」にはならない" -->
 霧吹きで葉に付いた水滴は、室内では数十分〜1時間ほどで乾き、湿度も元に戻ります（[葉水の効果と限界](/research/misting-effects-on-houseplants)）。新葉が開いている数日間を葉水だけでしのぐのは難しく、夜に葉が濡れたままになると冷えや病気の原因にもなります。葉水は葉の汚れを落とす・ハダニを寄せつけにくくする手入れと考え、湿度そのものは加湿器やケースで保ってください。
 <!-- /callout -->
+
+葉の高さやケースの中で湿度を測る温湿度計、株の近くに置く加湿器、ケースの空気を動かす小型ファンです。
+
+<!-- amazon-cards title="株のまわりの湿度を整える道具" -->
+<!-- /amazon-cards -->
 
 ---
 

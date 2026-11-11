@@ -29,6 +29,22 @@ baseProducts:
   - title: "tokyoplants Alocasia｜アロカシア一覧"
     url: "https://www.tokyoplants.com/categories/6382096"
     price: ""
+amazonProducts:
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "芽出しの容器に、固く絞って2〜3cm敷く水苔。評価★4.0・レビュー2,674件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,698"
+  - title: "HaruDesign 植物育成ヒートマット SA-12C（55×35cm・温度調整コントローラー付き）"
+    asin: "B0FR9CFQ6X"
+    image: "https://m.media-amazon.com/images/I/61uq3Ue7VcL._AC_SL200_.jpg"
+    note: "芽が動かない原因になる温度不足を、下から温めて補う。評価★4.4・レビュー91件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,540"
+  - title: "SwitchBot 防水温湿度計（IP65・コンパクト）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._AC_SL200_.jpg"
+    note: "密閉容器の中が25℃前後になっているかを確かめる。評価★4.3・レビュー6,582件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。防水・防塵はIP65（商品ページの表示）"
+    price: "¥1,780"
 ---
 
 # アロカシアの増やし方｜子芋は25℃の密閉ケースで起こし、芋を割れば数が増える
@@ -135,6 +151,11 @@ baseProducts:
 6. **数日おきに蓋を開ける**：中の空気を入れ替え、カビの出た芋・柔らかくなった芋はすぐ取り除く
 7. **根と葉を待つ**：根が数cm伸び、最初の葉が開いたら小鉢に植える
 <!-- /steps -->
+
+容器に敷く水苔、容器を下から温めるヒートマット、容器の中の温度を測る防水の温湿度計です。
+
+<!-- amazon-cards title="子芋の芽出しに使う道具" -->
+<!-- /amazon-cards -->
 
 芽が動くまでの期間は、芋の大きさと温度でかなり違います。数週間で根が出ることもあれば、2か月ほど動かないこともあります（[アロカシアの育て方](/guide/alocasia-care-guide)）。**硬さが保たれている限り、芋は生きています。**動かないからといって水を足すと、芋の表面が常に濡れて腐る原因になります。水苔の表面が乾いてきたら霧吹きで湿らせる程度で十分です。
 

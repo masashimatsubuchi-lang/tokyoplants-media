@@ -33,6 +33,22 @@ baseProducts:
   - title: "ベゴニア / Begonia（商品一覧）"
     url: "https://www.tokyoplants.com/categories/7114659"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "挿し穂や根茎を、切り口をつぶさずに切れる剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "肥料分のない清潔な挿し床として使えるパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥703"
+  - title: "Menetop 育苗ポット 5個セット（12穴トレー・透明カバー付き 種まきハウス）"
+    asin: "B0BTZ4XZS7"
+    image: "https://m.media-amazon.com/images/I/61U7xxzMNLL._AC_SL200_.jpg"
+    note: "通気窓つきの透明カバーで、密閉しきらずに湿度を保てる。評価★3.9・レビュー363件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。1セルは3.7×3.7×5.5cm（商品ページの表示）"
+    price: "¥1,399"
 ---
 
 # ベゴニアの増やし方｜根茎性は葉1枚からでも増える、木立性は茎挿しで
@@ -105,6 +121,11 @@ baseProducts:
 - 透明なプラスチックカップ、ふた付きの容器、ポリ袋
 - **密閉しきらず**、1日1回ふたを開けて換気する
 <!-- /cards -->
+
+上の3つ（切る道具・挿し床・湿度を保つもの）に当てはまる道具です。
+
+<!-- amazon-cards title="挿し木の準備に使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

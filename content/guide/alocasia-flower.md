@@ -27,6 +27,17 @@ baseProducts:
   - title: "tokyoplants Alocasia｜アロカシア一覧"
     url: "https://www.tokyoplants.com/categories/6382096"
     price: ""
+amazonProducts:
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "シュウ酸カルシウムを含む樹液から、手を守る使い捨て手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,020"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "重なった葉柄を傷つけずに、花茎を根元で切れる剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # アロカシアの花は切ってよい｜実は1株だけではほとんどつかない
@@ -132,6 +143,11 @@ baseProducts:
 4. **付け根の近くで切る**：花茎をできるだけ根元で切る
 5. **切り口を乾かす**：切ったあと数日は、株元に水がかからないように水やりする
 <!-- /steps -->
+
+樹液から手を守る手袋と、花茎を付け根で切る剪定鋏です。
+
+<!-- amazon-cards title="花を切るときに使う道具" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="warning" -->
 花のまわりは葉柄が重なっていて、水がたまりやすい場所だよ。切ったあとは、上からざぶざぶかけずに、株元の土に注ぐように水をあげてね。

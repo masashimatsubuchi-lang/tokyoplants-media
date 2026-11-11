@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "エアコンで乾く夏の葉水を、細かい霧で葉の表裏にかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "エアコンで下がった室内の湿度を、数字とグラフで確かめられる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "表面だけ乾いて中は湿っている鉢を、色の変化で見分けられる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
 ---
 
 # 観葉植物の夏越し完全ガイド｜水やり・葉焼け・エアコン対策まで
@@ -112,6 +128,11 @@ baseProducts:
 どうしても置き場所が限られる場合は、植物の周囲に小さな加湿器を置くか、葉水（葉の表面に霧吹きで水を吹きかけること）を1日に数回行うことで乾燥を和らげることができます。受け皿に水を張り、鉢を小石の上に置いて水が鉢底に触れないようにする「湿度トレー」も効果的です。
 
 エアコンと観葉植物の関係についての詳しい解説は[エアコンと観葉植物](/guide/air-conditioner-and-houseplants)をご覧ください。
+
+エアコンで乾いた空気への葉水と、湿度や鉢の中の乾きを確かめるのに使える道具です。
+
+<!-- amazon-cards title="エアコンの乾燥対策に使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

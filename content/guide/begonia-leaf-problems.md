@@ -27,6 +27,22 @@ baseProducts:
   - title: "ベゴニア / Begonia（商品一覧）"
     url: "https://www.tokyoplants.com/categories/7114659"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "縁が茶色く枯れるときに、湿度が50%を切っていないかを見る。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "新葉の裏や、葉裏の動く点を10倍で確かめられるルーペ。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "霧吹きをせずに、空気の湿度を50〜70%へ上げる加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # ベゴニアの葉が茶色い・溶けるのはなぜ？縁なら乾燥、付け根なら腐りを疑う
@@ -68,6 +84,11 @@ baseProducts:
 | 下葉から黄色くなって落ちる | 株の下のほうから順に | 黄色くしなびる | 低温、過湿、光不足 | 夜の最低温度、土の乾き方 |
 | 緑のまま落ちる | 株全体 | 張りがあるまま | 急な環境の変化、大きな温度差 | 最近置き場所を変えたか |
 | 株元が黒く溶けて倒れる | 根茎・茎の付け根 | 湿ってぶよぶよ | 根茎・茎の腐敗 | 株元を指で押してやわらかいか |
+
+早見表の「まず確認すること」で使う湿度計と拡大鏡、乾燥で縁が枯れるときの加湿器です。
+
+<!-- amazon-cards title="症状を確かめる道具" -->
+<!-- /amazon-cards -->
 
 ---
 

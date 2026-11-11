@@ -29,6 +29,22 @@ baseProducts:
   - title: "アンスリウム / Anthurium（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382097"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く軟らかい根や腐った気根を、清潔な刃で切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "鉢底穴に合わせて切り、鉢底石や用土の流出を防ぐネット。評価★4.4・レビュー76件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "気根の根元を薄く覆うのに使える、長い繊維の水苔。評価★4.1・レビュー35件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥2,180"
 ---
 
 # アンスリウムの植え替え｜5〜6月に、鉢は直径＋3cmまで、気根は切らない
@@ -137,6 +153,11 @@ baseProducts:
 6. **気根の根元を覆う**：茎の周りに培地を足すか、表面に水苔を薄くのせる
 7. **水を通す**：鉢底から澄んだ水が出るまで与え、数秒で抜けることを確かめる。抜けが遅ければ培地が細かすぎる
 <!-- /steps -->
+
+手順で使う、傷んだ根を切る剪定鋏と鉢底ネット、気根の根元を覆う水苔です。
+
+<!-- amazon-cards title="植え替えの手順で使う道具" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="kuro" type="tip" -->
 水苔からバーク系に移した直後は、同じ鉢・同じ場所でも乾き方がまるで違う。最初の2週間は鉢の重さを毎回手で確かめて、新しい乾くリズムを覚えるといい。

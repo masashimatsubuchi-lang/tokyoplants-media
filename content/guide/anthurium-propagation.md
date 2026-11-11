@@ -28,6 +28,22 @@ baseProducts:
   - title: "アンスリウム / Anthurium（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382097"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "気根のすぐ下の節間を、一度で切り分けられる剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "気根つきの頂部を、ふんわり包んで植える長い繊維の水苔。評価★4.1・レビュー35件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥2,180"
+  - title: "SwitchBot 防水温湿度計（IP65・コンパクト）"
+    asin: "B0BVLYPYT1"
+    image: "https://m.media-amazon.com/images/I/61Q9FlaaluL._AC_SL200_.jpg"
+    note: "結露する袋やケースの中でも、湿度80%前後かを測れる。評価★4.3・レビュー6,582件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。防水・防塵はIP65（商品ページの表示）"
+    price: "¥1,780"
 ---
 
 # アンスリウムの増やし方｜子株があれば株分け、茎が伸びたら頂部を切る
@@ -153,6 +169,11 @@ baseProducts:
 <!-- /character-note -->
 
 ケースや袋の中は光がこもって温度が上がりやすいため、直射日光の当たる場所には置かないでください。冬に発根させる場合は、ケースの中を20℃以上に保てる加温が必要になります。ケースやテントの使い分けは[ビロード系アンスリウムの湿度管理](/guide/anthurium-humidity-guide)で詳しく扱っています。
+
+頂部や子株を切り分ける剪定鋏、植え付けに使う水苔、袋やケースの中の湿度を測る防水の温湿度計です。
+
+<!-- amazon-cards title="株分け・挿し木に使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

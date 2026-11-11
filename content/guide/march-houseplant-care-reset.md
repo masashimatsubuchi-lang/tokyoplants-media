@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏のハダニや節のカイガラムシを、10倍で確かめられる。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "湿った表土に集まるコバエを捕まえ、発生の有無を見張る。評価★4.0・レビュー2,791件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥757"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "弱い送風で空気を動かし、ハダニの乾燥無風と蒸れを減らす。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。風量は100段階で調整（商品ページの表示）"
+    price: "¥10,980"
 ---
 
 冬のあいだ「水を控えめに、窓から離して」と守ってきた管理を、春になったらいつ・どの順番で切り替えればいいのか。ここを曖昧にしたまま一気に「夏モード」へ移すと、過湿で根を傷めたり、暖かくなって動き出した害虫に気づくのが遅れたりします。
@@ -97,6 +113,11 @@ baseProducts:
 - **発生株は即隔離**: 1株で見つけたら周囲の株から離し、物理除去で対応します。薬剤は必要に応じてその後に検討します
 
 種類別の詳しい対処は「[観葉植物のハダニ対策完全ガイド](/guide/spider-mites-houseplants-control)」「[観葉植物のカイガラムシ対策完全版](/guide/scale-insects-houseplants-control)」「[観葉植物の土に虫が湧く原因と対策](/soil/bugs-in-houseplant-soil)」を参照してください。
+
+週1回の点検で葉裏を見るルーペ、コバエを捕まえる粘着シート、弱い送風に使うサーキュレーターです。
+
+<!-- amazon-cards title="春の害虫点検に使う道具" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="kuro" type="warning" -->
 見えている虫を取るだけだと、卵や隣の株に残ったぶんから1〜2週間で再発する。1株で見つけたら「周りの株も点検」と「同じ株を翌週もう一度確認」まで含めて初動だと考えてほしい。

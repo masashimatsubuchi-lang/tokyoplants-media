@@ -22,6 +22,22 @@ baseProducts:
   - title: "フィロデンドロン / Philodendron（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "竹串と同じく鉢に挿し、土の中の乾きを色で確かめられる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要（商品ページの表示）"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "夜の置き場所の温度と、湿度が50%を切っていないかを確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "葉先の茶色が乾燥のサインなら、部屋の湿度を上げる加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # フィロデンドロンの葉が黄色い・茶色い｜鞘なら正常、下葉が続くなら根
@@ -179,6 +195,11 @@ UF/IFASは、フィロデンドロンの多くは約800ルクス（75フート�
 <!-- /steps -->
 
 複数の対処を同時に行うと、どれが効いたのか分からなくなります。変えるのは1つずつにし、新しく開く葉の様子で効果を判断してください。すでに黄色くなった葉は、原因を取り除いても緑には戻りません。
+
+手順の「土を確かめる」「温度と光を確かめる」と、新葉の葉先が乾燥で茶色くなるときの加湿に使える道具です。
+
+<!-- amazon-cards title="土・温度・湿度を確かめる道具" -->
+<!-- /amazon-cards -->
 
 ---
 

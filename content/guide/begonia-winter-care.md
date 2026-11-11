@@ -33,6 +33,22 @@ baseProducts:
   - title: "ベゴニア / Begonia（商品一覧）"
     url: "https://www.tokyoplants.com/categories/7114659"
     price: ""
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方の窓辺の最低温度を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。最高・最低の温度と湿度を表示（商品ページの表示）"
+    price: "¥3,223"
+  - title: "DAIM ブラックベース 28cm 鉢スタンド（高さ5cm・10号鉢まで）"
+    asin: "B0DJBHZ242"
+    image: "https://m.media-amazon.com/images/I/61x6c4uATVL._AC_SL200_.jpg"
+    note: "冷えた空気がたまる床から、鉢を5cm浮かせる台。評価★4.5・レビュー528件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。高さ5cm・10号鉢まで対応（商品ページの表示）"
+    price: "¥607"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "霧吹きの代わりに、少し離して置いて空気の湿度を上げる。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # ベゴニアの冬越し、窓辺は夜だけ危ない｜12℃を目安に、水は乾いて3〜4日後
@@ -109,6 +125,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 温度計は「今の温度」より「明け方の最低温度」を見てね。昼に18℃あっても、夜明け前の窓辺は8℃まで下がっていることがあるよ。一晩だけ鉢の横に置いて測ると、移動が必要かどうかがすぐわかるんだ。
 <!-- /character-note -->
+
+明け方の最低温度を記録できる温湿度計、鉢を床から離す台、葉を濡らさずに湿度を上げる加湿器です。
+
+<!-- amazon-cards title="夜の冷えと乾燥を見る道具" -->
+<!-- /amazon-cards -->
 
 ---
 

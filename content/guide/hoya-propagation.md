@@ -23,6 +23,22 @@ baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節を2〜3つ含む挿し穂を、切り口をつぶさずに切れる。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "切り口からにじむ白い樹液から、手を守る使い捨て手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,020"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "水苔挿しで、固く絞って節を包むのに使える水苔。評価★4.0・レビュー2,674件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,698"
 ---
 
 # ホヤの増やし方｜葉1枚の葉挿しはまずつるが出ない、挿し穂は2〜3節
@@ -105,6 +121,11 @@ baseProducts:
 6. **管理する**：直射日光の当たらない明るい場所で、20〜28℃を保つ。土挿しは培地が乾ききる前に軽く湿らせる
 7. **根を確かめる**：軽く引いて抵抗があれば発根している。水挿しは根が1〜3cmになったら土へ移す
 <!-- /steps -->
+
+挿し穂を切るハサミ、白い樹液から手を守る手袋、水苔挿しに使う水苔です。
+
+<!-- amazon-cards title="ホヤの挿し木に使う道具" -->
+<!-- /amazon-cards -->
 
 ### 適期は5〜8月
 

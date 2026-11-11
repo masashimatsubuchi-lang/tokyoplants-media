@@ -33,6 +33,22 @@ baseProducts:
   - title: "ベゴニア / Begonia（商品一覧）"
     url: "https://www.tokyoplants.com/categories/7114659"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそばの湿度が50〜70%に入っているかを確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "株から少し離して置き、葉を濡らさずに空気を湿らせる。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "弱く回して、湿度を上げた部屋の空気をよどませない。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。風量は100段階で調整（商品ページの表示）"
+    price: "¥10,980"
 ---
 
 # 観葉ベゴニアの育て方｜株元が這うか立つかで鉢・水・増やし方が変わる
@@ -122,6 +138,11 @@ baseProducts:
 - **加湿器**：植物に直接ミストが当たらない位置に、少し離して置く
 - **受け皿（ペブルトレー）**：鉢より一回り大きな皿に小石を敷いて水を張り、その上に鉢を載せる。鉢底が水に浸からない高さにする（[ペブルトレーの作り方](/guide/pebble-tray-humidity-guide)）
 - **風通し**：湿度を上げるほど、空気を動かすことが大事になる。サーキュレーターを弱く回して、空気をよどませない
+
+湿度を数字で見る温湿度計、少し離して置く加湿器、空気を動かすサーキュレーターです。
+
+<!-- amazon-cards title="葉を濡らさずに湿度を保つ道具" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="warning" -->
 ほかの観葉植物で習慣になっている「葉水」が、ベゴニアではそのまま病気の入り口になるんだ。ホコリが気になったら、霧吹きではなく乾いた柔らかい布でそっと拭くのが安全だよ。

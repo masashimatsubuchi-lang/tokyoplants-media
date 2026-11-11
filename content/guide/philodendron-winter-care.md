@@ -23,6 +23,22 @@ baseProducts:
   - title: "フィロデンドロン / Philodendron（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "夜の窓際がどこまで冷えたかを、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。最高・最低の温度と湿度を表示（商品ページの表示）"
+    price: "¥3,223"
+  - title: "DAIM ブラックベース 28cm 鉢スタンド（高さ5cm・10号鉢まで）"
+    asin: "B0DJBHZ242"
+    image: "https://m.media-amazon.com/images/I/61x6c4uATVL._AC_SL200_.jpg"
+    note: "床置きの鉢を5cm浮かせ、冷えた床から鉢底を離す台。評価★4.5・レビュー528件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。高さ5cm・10号鉢まで対応（商品ページの表示）"
+    price: "¥607"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "暖房で湿度が30%台まで下がる部屋で、ベルベット系の湿度を保つ。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # フィロデンドロンの冬越しは10℃か15℃か｜斑入りと希少種は高い側
@@ -115,6 +131,11 @@ UF/IFASの資料はフィロデンドロンを「つる性（vining）」「自�
 5. **肥料を止める**：置き肥は取り除き、液肥も春まで休む
 6. **湿度を見る**：ベルベット系は株のそばに湿度計を置き、50%を切らないようにする
 <!-- /steps -->
+
+冬支度の手順にある、夜の温度と湿度の確認、床置きの鉢を台に載せる作業、ベルベット系の加湿に使える道具です。
+
+<!-- amazon-cards title="冬支度に使う道具" -->
+<!-- /amazon-cards -->
 
 ### 1. 置き場所：夜の窓際と床を避ける
 

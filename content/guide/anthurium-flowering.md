@@ -26,6 +26,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓辺の明るさが足りないときに、棚へ挟んで光を足せる。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "夜の窓際が15℃を下回っていないかを、最低温度で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。最高・最低の温度と湿度を表示（商品ページの表示）"
+    price: "¥3,223"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "緑になった花やしおれた花を、花茎の付け根で切る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # アンスリウムの花が咲かない｜花は葉1枚に1つ、新葉が止まれば花も止まる
@@ -184,6 +200,11 @@ UF/IFASの資料も、室内では終わった花を必要に応じて取り除�
 5. **終わった花を切る**：緑になったり、しおれたりした花は花茎の付け根から切る
 6. **根を確認する**：水の染み込みが悪い、土が乾かないなどのサインがあれば、春〜初夏に根を見る
 <!-- /steps -->
+
+窓辺の光が足りないときの育成ライト、夜の冷え込みを確かめる温湿度計、終わった花を切る剪定鋏です。
+
+<!-- amazon-cards title="咲かせる管理に使う道具" -->
+<!-- /amazon-cards -->
 
 <!-- product-banner -->
 
