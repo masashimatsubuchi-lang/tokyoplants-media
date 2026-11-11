@@ -24,6 +24,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "葉脈のコントラストが薄れた株に、棚へ挟んで光を足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K（商品ページの表示）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬のエアコン乾燥で湿度が40%を切っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
+    asin: "B0CY2VJ3D3"
+    image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
+    note: "水苔単体の植え込みや、茎挿しの床に使える長繊維の水苔。評価★4.1・レビュー35件（2026-11-11にAmazon商品ページで確認／在庫あり（残り6点）・Prime対象・出荷元Amazon）"
+    price: "¥2,180"
 ---
 
 # アンスリウム・クラリネルビウム｜厚いハート葉の育て方
@@ -121,6 +137,11 @@ baseProducts:
 - **市販土のカスタマイズ**: 観葉植物用土にパーライト30〜50%を追加して排水性を改善
 
 石灰岩地帯の原産種のため、pH 6〜7.5の中性〜弱アルカリでも問題なく育つ。他のアンスリウムよりも用土の選択肢が広い。
+
+暗い場所で葉脈のコントラストを保つための育成ライト、湿度50〜70%を確かめる温湿度計、水苔単体の植え込みや茎挿しに使う水苔の例です。
+
+<!-- amazon-cards title="光と湿度を整える・水苔で植える" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

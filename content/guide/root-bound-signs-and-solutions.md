@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "鉢から抜いた根鉢をほぐすとき、床に敷いて土を受ける防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒ずんだ根や柔らかくなった根を、清潔な刃で切り取る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "花ごころ きれいな鉢底石 2L"
+    asin: "B07K1PBN1J"
+    image: "https://m.media-amazon.com/images/I/81VZcQit2wL._AC_SL200_.jpg"
+    note: "一回り大きな鉢の底に敷き、水はけを確保する軽い鉢底石。評価★4.0・レビュー912件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。主原料は人工軽石（商品ページの表示）"
+    price: "¥410"
 ---
 
 # 観葉植物の根詰まりサイン5つ｜抜いて土が見えないほど根が回っていたら確定
@@ -168,6 +184,11 @@ baseProducts:
 3. **傷んだ根を除去する**: 黒ずんでいる根・柔らかくなっている根は清潔なハサミで切り取ります。
 4. **新しい土で植え付ける**: 鉢底に鉢底石を敷き、新しい培養土を入れて植え付けます。
 5. **植え替え後の管理**: 植え替え直後は直射日光を避け、明るい日陰で1〜2週間管理します。水やりはたっぷり行い、その後は土が乾いてから水をやるサイクルを維持します。
+
+根鉢を崩す作業の下に敷く防水シート、黒ずんだ根を切る剪定鋏、新しい鉢の底に敷く鉢底石の例です。
+
+<!-- amazon-cards title="根詰まりを植え替えで解消する道具" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -24,6 +24,17 @@ baseProducts:
   - title: "tokyoplants｜All plants（観葉植物の一覧）"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: "オンラインストア"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "到着後の置き場所が夜に何℃まで下がったか、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏や新芽の付け根の小さな虫や卵を、10倍で確かめるルーペ。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
 ---
 
 欲しかった株がオンラインで見つかったものの、季節が冬。「今買って大丈夫だろうか」「届いた直後に枯らさないだろうか」と迷って、カートに入れたまま止まっている——観葉植物の通販で冬にいちばん多い状況です。
@@ -134,6 +145,11 @@ baseProducts:
 - 到着日と室温
 - 出品者の梱包内容（防寒材の有無）
 <!-- /cards -->
+
+置き場所の室温と夜の最低温度を確かめる温湿度計と、葉裏や新芽の付け根の害虫を確かめるルーペの例です。
+
+<!-- amazon-cards title="室温を確かめる・害虫を見る" -->
+<!-- /amazon-cards -->
 
 <!-- callout type="warning" title="到着直後にやってはいけない3つ" -->
 **1. すぐに水をやる**

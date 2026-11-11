@@ -20,6 +20,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冷房中の部屋の湿度が20〜30%台まで下がっていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "朝の葉水を、細かい霧で葉の表裏にかけられる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # 観葉植物とエアコンの風｜同じ部屋でいい、吹き出し口から1.5m離す
@@ -76,6 +87,11 @@ baseProducts:
 - **葉水（はみず）**: 霧吹きで葉の表裏に水を吹きかける。朝1回を目安に。蒸散を促し、葉の温度も下げる。
 - **水を張ったトレーを鉢の近くに置く**: 水が蒸発することで局所的に湿度が上がる。ただし根腐れを避けるため、鉢を直接水に浸けないこと。
 - **加湿器の活用**: 置き場所と同じ空間に加湿器を置けるなら最も安定する。超音波式は植物への影響が少ない。
+
+冷房中の部屋の湿度がどこまで下がっているかを確かめる温湿度計と、朝の葉水に使う霧吹きの例です。
+
+<!-- amazon-cards title="冷房中の湿度を確かめる・葉水をする" -->
+<!-- /amazon-cards -->
 
 ## 対策③：ハイドロカルチャーは乾燥しにくい
 

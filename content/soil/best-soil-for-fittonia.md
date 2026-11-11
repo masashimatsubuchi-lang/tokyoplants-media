@@ -15,6 +15,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "国産 硬質 赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "基本配合とテラリウム配合の、通気のベースになる赤玉土小粒。評価★4.2・レビュー140件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。粒の大きさは約3〜6mm（商品ページの表示）"
+    price: "¥1,398"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "基本配合に2割、テラリウム配合に3割入れるパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "細かくほぐしてテラリウム配合に3割混ぜる水苔。評価★4.0・レビュー2,674件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,698"
 ---
 
 葉脈がくっきりと浮かび上がる模様が人気のフィットニア（ナーブプランツ）。テラリウムや小さな鉢で楽しむ方も多い植物ですが、「少し水やりを忘れただけで葉がぐったり萎れる」「復活してもまた萎れる」という悩みを抱える人は少なくありません。フィットニアは観葉植物の中でもとりわけ乾燥に弱く、土選びと水やり管理の精度が生育を大きく左右します。
@@ -127,6 +143,11 @@ tokyoplantsの**I'm original SOIL（tokyoplantsプレミアム培養土）**は�
 | パーライト | 最小限の排水性強化 | 入れすぎ注意。乾燥を招かない範囲で |
 | バーミキュライト | 保水・保肥の補助 | 水切れのバッファーになる |
 | 水苔 | 高湿度環境の保水 | テラリウム栽培との相性が良い |
+
+配合レシピに使う赤玉土（小粒）・パーライト・水苔の例です。
+
+<!-- amazon-cards title="配合レシピの素材" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -20,6 +20,22 @@ baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"
     price: "¥6,800〜"
+amazonProducts:
+  - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
+    asin: "B000IAA00M"
+    image: "https://m.media-amazon.com/images/I/61GAEW256zL._AC_SL200_.jpg"
+    note: "粗く組む用土のベースにする、醗酵バーク主体の洋ラン用植え込み材。評価★4.0・レビュー591件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。主原料はバークチップとココナッツハスク。粒の大きさの表示はなし（商品ページの表示）"
+    price: "¥909"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "バークに混ぜて水はけを足す、小粒の軽石。評価★4.2・レビュー39件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥583"
+  - title: "ショーワグローブ No.370 組立グリップ ニトリル背抜き手袋 3双パック Mサイズ"
+    asin: "B007OYQXQ0"
+    image: "https://m.media-amazon.com/images/I/71x5kXsxgGL._AC_SL200_.jpg"
+    note: "棘のある葉を扱う植え替えや株分けで、手のひら側を覆う背抜きの作業手袋。評価★4.2・レビュー208件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥676"
 ---
 
 # エクメア・チャンティニーの銀の縞は吸収毛、擦って取れると戻らない
@@ -158,6 +174,11 @@ NC State Extensionは「湿り気があり、水はけの速い用土」「弱�
 着生種なので、根は体を支えるのが主な仕事です。鉢は**株が倒れない最小サイズ**で十分で、大きすぎる鉢は乾かない用土を抱え込むだけになります。ただしチャンティニーは大型になり重心も高いため、素焼き鉢など重さのある鉢を選ぶと転倒を防げます。
 
 腐葉土やピートの比率が高い一般的な観葉植物用土、たとえばtokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』のような保水・保肥重視の有機配合は、この種には水持ちが良すぎます。ラン用バーク、日向土、軽石、ヤシガラチップなどで粗く組むのが確実です。考え方は[洋ラン・着生植物向けの土の選び方](/soil/best-soil-for-orchid-houseplant)も参考になります。
+
+粗く組む用土の材料にするラン用バークと小粒の軽石、棘のある葉を扱うときの作業手袋の例です。
+
+<!-- amazon-cards title="粗い用土の材料と、棘のある葉を扱う手袋" -->
+<!-- /amazon-cards -->
 
 板や流木に着生させる仕立ても可能で、通気が最大化されるぶん腐敗リスクは下がります。手順は[タンクブロメリアの着生｜板付けと吊るし方](/guide/tank-bromeliad-mounting)へ。
 

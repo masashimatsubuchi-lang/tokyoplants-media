@@ -27,6 +27,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬のエアコン環境で湿度が60%を切っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "加湿した部屋でも空気を動かし、葉や用土が蒸れたままにならないようにする。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
 ---
 
 # アロカシア・フライデック｜白葉脈が映えるベルベット系アロカシアの育て方
@@ -104,6 +120,11 @@ baseProducts:
 60〜70%が理想。ビロード系アロカシアの中では比較的扱いやすい湿度範囲だが、冬のエアコン環境では湿度が30〜40%まで下がることがあり、葉先の枯れ込みの原因になる。
 
 加湿器またはペブルトレーで湿度を補う。ただし、葉面に水滴が長時間残ると細菌性の葉斑病が出やすいため、葉水は控えめにし、根元への水やりで代替するのが安全。
+
+湿度60〜70%を確かめる温湿度計、部屋の湿度を上げる加湿器、湿度と通気を両立させるサーキュレーターの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度60〜70%と通気を両立する" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

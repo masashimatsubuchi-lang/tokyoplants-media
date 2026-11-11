@@ -15,6 +15,17 @@ baseProducts:
   - title: "tokyoplants Philodendron｜フィロデンドロン一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "ハイポネックス プロミック 観葉植物用 150g"
+    asin: "B00337XTO6"
+    image: "https://m.media-amazon.com/images/I/81ffPdq8cfL._SL200_.jpg"
+    note: "4〜9月に、土の上へ置いて使う観葉植物用の置き肥。評価★4.2・レビュー501件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。肥料効果は約2か月持続（商品ページの表示）"
+    price: "¥545"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "置き肥の代わりに、水で薄めて月1〜2回与える液体肥料。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
 ---
 
 # フィロデンドロン・セローム（ザナドゥ）の特徴と育て方
@@ -101,6 +112,11 @@ baseProducts:
 ### 肥料
 
 生育期（4〜9月）に緩効性肥料を2ヶ月に1回、または液体肥料を月1〜2回与える。
+
+生育期（4〜9月）に使う緩効性の置き肥と、水で薄めて与える液体肥料の例です。
+
+<!-- amazon-cards title="生育期の置き肥と液肥" -->
+<!-- /amazon-cards -->
 
 ---
 

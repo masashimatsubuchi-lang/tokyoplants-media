@@ -22,6 +22,22 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から遠く光が届きにくい場所で、棚に挟んで明るさを足せる育成ライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K（商品ページの表示）"
+    price: "¥4,445"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "植え替えのときに、傷んだ根を清潔な刃で切り取る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "剪定や挿し木の切り口から出る白い樹液から、手を守るニトリル手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
 ---
 
 # フィカス・リラータ（カシワバゴム）は動かすと落葉しやすい｜置き場所は固定
@@ -116,6 +132,11 @@ baseProducts:
 3. 古い土を軽く落とし、傷んだ根をカット
 4. 水はけの良い培養土に植え替える（赤玉土5：腐葉土3：パーライト2が基本）
 5. たっぷり水やりし、明るい日陰で1〜2週間養生
+
+暗い場所で光を補う育成ライト、植え替えで傷んだ根を切る剪定鋏、切り口から出る白い樹液から手を守る手袋の例です。
+
+<!-- amazon-cards title="光を補う・植え替えと剪定の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

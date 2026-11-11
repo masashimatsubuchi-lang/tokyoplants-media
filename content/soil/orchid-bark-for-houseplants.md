@@ -20,6 +20,12 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "窒素を含む液体肥料で、葉色が薄くなってきたときの追肥に使う。評価★4.3・レビュー8,047件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。N-P-K-Mg＝6-10-5（商品ページの表示）"
+    price: "¥527"
 ---
 
 # 洋蘭バークとは｜樹皮が根に効く理由
@@ -237,6 +243,11 @@ I'm original SOIL は[ミミズ堆肥](/soil/worm-castings-for-houseplants)を10
 ### 3. 「通気が良くなるから」と自作配合で足しすぎる
 
 バークの割合を上げるほど乾きが早くなり、細かい保水材が不足して水やりがシビアになります。加えて、前述のとおり窒素も取られます。自分で配合する場合の考え方は[アロイドミックスとは｜配合レシピと市販ブレンド済み用土比較](/soil/aroid-mix-guide)にまとめています。
+
+バークを含む配合で不足しやすい窒素を補う、液体肥料の例です。
+
+<!-- amazon-cards title="バーク配合の鉢で窒素を補う液肥" -->
+<!-- /amazon-cards -->
 
 ### 4. バークが崩れてきたのを「土が悪い」と判断する
 

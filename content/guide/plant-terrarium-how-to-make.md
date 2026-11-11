@@ -19,6 +19,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "刀川平和農園 平和 軽石（DIYシリーズ）小粒 2L"
+    asin: "B00BTR0HVK"
+    image: "https://m.media-amazon.com/images/I/714b5VSIOcL._AC_SL200_.jpg"
+    note: "水洗いして微塵を落とし、排水層として容器の底に入れる小粒の軽石。評価★4.1・レビュー34件（2026-11-11にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元と販売元はAmazon.co.jp）。粒径4〜7mm（商品ページの表示）"
+    price: "¥1,208"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "容器の底面に合わせて切り、排水層の上に敷く仕切りのネット。評価★4.4・レビュー76件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "ロングピンセット 27cm 2本セット（ストレート・カーブ）"
+    asin: "B08FD57ZH8"
+    image: "https://m.media-amazon.com/images/I/51Rp-YnAEZL._AC_SL200_.jpg"
+    note: "口の奥まで届き、根を土に差し込める27cmのピンセット。評価★4.0・レビュー713件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥699"
 ---
 
 # 植物テラリウムの作り方｜容器選びと植え込み
@@ -110,6 +126,11 @@ baseProducts:
 **半密閉型・開放型**であれば、水はけの良い培養土が使えます。tokyoplants の[I'm original SOIL（tokyoplantsプレミアム培養土）](https://www.tokyoplants.com/items/99620939)は、ココチップ・日向石・蘭の発酵樹皮を中心に6種の天然素材を配合した化学肥料不使用の培養土で、元肥入りのため植え込み直後の施肥がいりません。2Lサイズであればテラリウム数個分に足ります。密閉型に使う場合は、軽石やパーライトを3〜4割追加して有機分の割合を下げてください。
 
 層構造の考え方をもっと詰めたい場合は[パルダリウムの用土と底床｜排水層の作り方](/soil/paludarium-substrate-guide)、鉢底石そのものの選び方は[鉢底石の選び方と使い方](/soil/drainage-stones-guide)を参照してください。
+
+排水層に使う小粒の軽石、仕切りにする鉢底ネット、容器の奥まで植え込めるロングピンセットの例です。
+
+<!-- amazon-cards title="排水層・仕切り・植え込みの道具" -->
+<!-- /amazon-cards -->
 
 ---
 
