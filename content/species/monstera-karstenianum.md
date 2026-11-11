@@ -20,6 +20,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "茎を傷めにくい柔らかい結束材で、支柱へ軽く留める。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
 ---
 
 # モンステラ・カリステニアナム（モンステラペルー）の育て方
@@ -100,6 +111,11 @@ baseProducts:
 ### 用土
 
 排水性と保水性のバランスが取れた土が適する。観葉植物用の培養土に赤玉土・パーライトを2〜3割加えると、根腐れのリスクを抑えられる。他のつる性アロイドと同様、着生の性質を持つため、支柱やヘゴ棒に誘引すると株が安定しやすい。
+
+誘引に使える支柱と、茎を留める結束材の例です。
+
+<!-- amazon-cards title="支柱に誘引する" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

@@ -25,6 +25,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方の最低温度を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "スマホのアプリで、温度の推移を振り返れる温湿度計。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # 観葉植物の葉が赤い理由はアントシアニン｜緑の株が急に赤らむならストレスかも
@@ -83,6 +94,11 @@ baseProducts:
 - **リン（P）などの養分不足**：栄養状態の悪化に伴う代謝の変化
 
 品種として恒常的に赤い葉を持つのか、それとも急に赤みが出てきたのかを区別することが、色の変化を「魅力」として楽しむべきか「不調のサイン」として対処すべきかを見極める手がかりになる。
+
+急に赤みが出てきたとき、低温が引き金かどうかは、株の近くで夜間の最低温度を記録しておくと確かめられます。表示で見るタイプと、スマホで見るタイプの温湿度計の例です。
+
+<!-- amazon-cards title="夜の冷え込みを記録で確かめる" -->
+<!-- /amazon-cards -->
 
 ## まとめ
 

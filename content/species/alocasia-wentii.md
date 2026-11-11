@@ -19,6 +19,17 @@ baseProducts:
   - title: "アロカシアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382096"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の夜に最低10〜12℃を保てているか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から遠い株に、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
 ---
 
 # アロカシア・ウェンティは冬に葉が全部落ちても根茎が生きていれば春に復活
@@ -86,6 +97,11 @@ baseProducts:
 ### 温度
 
 15〜30℃が快適な生育温度帯です。20〜28℃の温帯では特に旺盛に新葉を展開します。10℃を下回ると生育が著しく低下し、5℃以下では地上部が枯れ込むことがあります（根茎は生存する場合がある）。冬の室内管理では、暖房の効いた部屋で最低温度10〜12℃以上を確保することが安全な越冬の条件です。窓際の冷気直撃・エアコンの冷房風の直撃はどちらも葉の傷みを引き起こすため、鉢の配置に注意が必要です。
+
+冬に最低10〜12℃を保てているかを確かめる温湿度計と、葉裏の紫を保つ明るさを補う育成ライトの例です。
+
+<!-- amazon-cards title="冬の温度を測る・光を補う" -->
+<!-- /amazon-cards -->
 
 ### 水やり
 

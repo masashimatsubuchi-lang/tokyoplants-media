@@ -17,6 +17,22 @@ baseProducts:
   - title: "tokyoplants Philodendron｜フィロデンドロン一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
+amazonProducts:
+  - title: "fogman モスポール 連結式（ブラック）"
+    asin: "B0GMJJ62NX"
+    image: "https://m.media-amazon.com/images/I/71KFCdvzJDL._AC_SL200_.jpg"
+    note: "筒の中に水苔を詰めて使える、連結式のメッシュポール。評価★4.2・レビュー19件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。品目の長さは26cm（商品ページの表示）"
+    price: "¥940"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "メッシュの筒に詰めて、気根がつかまる湿った面をつくる水苔。評価★4.0・レビュー2,674件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,698"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "茎を傷めにくい柔らかい結束材で、ポールへ軽く留める。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
 ---
 
 # フィロデンドロン・ホワイトナイトは茎が赤褐色、緑地に筋ならプリンセス
@@ -105,6 +121,11 @@ baseProducts:
 ### 仕立て・支柱
 
 つる性で気根を伸ばす性質があるため、水苔ポールやヘゴ支柱に絡ませて育てると葉が大きく成熟しやすい。
+
+水苔ポールを自作する場合の、メッシュの筒と中に詰める水苔、茎を軽く留める結束材の例です。
+
+<!-- amazon-cards title="水苔ポールに仕立てる" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

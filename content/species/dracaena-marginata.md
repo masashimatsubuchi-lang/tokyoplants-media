@@ -22,6 +22,17 @@ baseProducts:
   - title: "観葉植物の商品一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方に8℃を下回っていないか、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "乾燥する冬の葉水を、細い葉の表裏に細かい霧でかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # ドラセナ・マルギナータは8℃以下で傷みやすい。冬は窓から離して室内中央へ
@@ -109,6 +120,11 @@ baseProducts:
 ### 温度・湿度
 
 生育適温は18〜28℃。8℃以下では寒さによるダメージのリスクが高まるため、冬季は窓から離した室内中央での管理が安全。乾燥する冬のエアコン環境では葉先が茶色くなりやすいため、葉水などで湿度を補うとよい。
+
+8℃を下回っていないかを確かめる温湿度計と、冬の葉水に使う霧吹きの例です。
+
+<!-- amazon-cards title="冬の冷え込みを測る・葉水をする" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

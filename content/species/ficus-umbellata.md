@@ -32,6 +32,17 @@ siblings:
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-umbellata"
     role: "土の選び方"
+amazonProducts:
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "週2〜3回の葉水を、細かい霧で大きな葉の表裏にかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の置き場所が15℃以上を保てているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # フィカス・ウンベラータ｜大きなハート型の葉が人気のインテリアグリーン
@@ -119,6 +130,11 @@ siblings:
 <mark>**冬は土が乾いてから3〜5日後に与える。** 根の水分吸収が鈍くなるため、やりすぎが根腐れに直結する。</mark>
 
 葉水（霧吹き）を週2〜3回行うと、葉面の乾燥防止とハダニの予防に効果的。
+
+週2〜3回の葉水に使う霧吹きと、冬に15℃以上を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="葉水と冬の温度管理に" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

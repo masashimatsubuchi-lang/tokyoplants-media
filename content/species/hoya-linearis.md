@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
+    asin: "B000IAA00M"
+    image: "https://m.media-amazon.com/images/I/61GAEW256zL._AC_SL200_.jpg"
+    note: "配合の4割を占める、醗酵処理した洋らん用バーク。評価★4.0・レビュー591件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥909"
+  - title: "刀川平和農園 平和 軽石（DIYシリーズ）小粒 2L"
+    asin: "B00BTR0HVK"
+    image: "https://m.media-amazon.com/images/I/714b5VSIOcL._AC_SL200_.jpg"
+    note: "配合の3割で排水を担う、粒径4〜7mmの軽石。評価★4.1・レビュー34件（2026-11-11にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,208"
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "配合の2割で保水を担う、赤玉土の小粒。評価★4.4・レビュー293件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
 ---
 
 # ホヤ・リネアリスの育て方｜ふわふわの細い葉が垂れ下がる個性派ホヤ
@@ -120,6 +136,11 @@ baseProducts:
 蘭用バーク40%・軽石30%・赤玉土小粒20%・くん炭10%。有機質のバークが4割を占める点が、無機質中心の配合を好む他の多肉質ホヤとの違いです。
 
 市販の観葉植物用土は水持ちが良すぎることが多く、単用は根腐れリスクがあります。着生素材（ヘゴ材・コルク板）への着生栽培も可能で、根の通気性が向上して高温期の根腐れを大幅に減らせます。
+
+バーク4・軽石3・赤玉土2・くん炭1の配合のうち、主な3素材の例です。
+
+<!-- amazon-cards title="配合の素材をそろえる" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

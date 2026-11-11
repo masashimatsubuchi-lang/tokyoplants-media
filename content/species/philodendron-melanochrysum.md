@@ -25,6 +25,22 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+amazonProducts:
+  - title: "fogman モスポール 連結式（ブラック）"
+    asin: "B0GMJJ62NX"
+    image: "https://m.media-amazon.com/images/I/71KFCdvzJDL._AC_SL200_.jpg"
+    note: "筒の中に水苔を詰めて使える、連結式のメッシュポール。評価★4.2・レビュー19件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。品目の長さは26cm（商品ページの表示）"
+    price: "¥940"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "メッシュの筒に詰めて、気根がつかまる湿った面をつくる水苔。評価★4.0・レビュー2,674件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,698"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "ポールの水苔を湿らせて、気根を食い込みやすくする霧吹き。評価★4.2・レビュー1,195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 # フィロデンドロン・メラノクリサムは上へ登るつる性、這うグロリオサムとの違い
@@ -114,6 +130,11 @@ baseProducts:
 ### 支柱
 
 <mark>**支柱（ヘゴ棒またはモスポール）の設置が葉の大型化に直結する。** 着生植物のメラノクリサムは支柱があると気根を伸ばして固定し、葉のサイズが1.5〜2倍ほど大きくなる。大きなベルベット葉を楽しみたいなら支柱は必須。</mark>
+
+モスポールを自作する場合の、メッシュの筒と中に詰める水苔、気根が食い込みやすいようポールを湿らせる霧吹きの例です。
+
+<!-- amazon-cards title="モスポールを用意する" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

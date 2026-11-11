@@ -29,6 +29,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "夜から明け方の最低室温を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、鉢の中の乾きを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # 観葉植物の冬の水やりは春夏の1.5〜2倍の間隔で、夜は避けて午前〜昼に
@@ -73,6 +84,11 @@ baseProducts:
 - 鉢が前回直後より明確に軽い
 - 当日の最低気温が高めで、室温15℃以上を確保できる
 - 午前〜昼に在宅しており、排水確認ができる
+
+最低室温を確かめる温湿度計と、鉢の中の乾きを色で知らせる水やりチェッカーの例です。
+
+<!-- amazon-cards title="最低室温と鉢の中の乾きを確かめる" -->
+<!-- /amazon-cards -->
 
 実行手順はシンプルです。
 

@@ -21,6 +21,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "Planterior 水位計 Sサイズ"
+    asin: "B00UFKAOEC"
+    image: "https://m.media-amazon.com/images/I/51jvgmvntbL._AC_SL200_.jpg"
+    note: "鉢底に溜めた1〜2cmの水位を、浮きの上下で外から読める。評価★3.8・レビュー91件（2026-11-11にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元Amazon）"
+    price: "¥460"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用培養土7・パーライト2・赤玉土1の配合で、通気を足す2割ぶん。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
 ---
 
 # シンゴニウム・ポドフィルム｜矢じり形の葉と豊富な品種展開が魅力の定番観葉植物図鑑
@@ -125,6 +136,11 @@ baseProducts:
 - 赤玉土（小粒）: 10%
 
 ハイドロカルチャー管理の場合はHYDRO MINERALや軽石単体の無機培地が適する。
+
+セミハイドロで底の1〜2cmの水位を外から確かめる水位計と、土植えの配合でパーライト2割に使う素材の例です。
+
+<!-- amazon-cards title="底の水位を見る・配合の素材" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

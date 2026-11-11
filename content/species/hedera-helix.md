@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の商品一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "伸びすぎたつるを、好きな長さで切り戻す剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "乾燥が続く時期の葉水を、細かい霧で葉の表裏にかける。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏に付いた小さなハダニを、10倍で確かめられるルーペ。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
 ---
 
 # ヘデラ・ヘリックス（アイビー）のつる姿は幼形。成木になると葉の切れ込みが消える
@@ -98,6 +114,11 @@ baseProducts:
 ### 剪定・仕立て
 
 つるが伸びすぎた場合は、好きな長さで切り戻して樹形を整えられる。切った茎は挿し木でそのまま増やせるため、剪定と増殖を同時に行いやすい。ハンギングでカスケード状に垂らす、支柱に誘引して立ち上げるなど、仕立て方の自由度が高いのも魅力。
+
+切り戻しに使う剪定鋏と、ハダニ予防の葉水に使う霧吹き、葉裏のハダニを確かめるルーペの例です。
+
+<!-- amazon-cards title="切り戻し・葉水・ハダニの確認に" -->
+<!-- /amazon-cards -->
 
 ---
 

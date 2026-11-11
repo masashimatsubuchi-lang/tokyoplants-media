@@ -18,6 +18,17 @@ baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "暗めの部屋で、斑の発色に足りない光を棚から補える調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の夜も最低15℃以上を保てているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # シンゴニウム・ピンクスプラッシュは暗いと斑が単調に｜ピンクが多い株ほど光を
@@ -84,6 +95,11 @@ baseProducts:
 ### 湿度・温度
 
 高めの湿度を好むが、一般的な室内環境でも比較的順応しやすい。最低気温15℃以上を目安に管理する。
+
+斑の発色に光を補う育成ライトと、最低15℃を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="光を補う・冬の温度を測る" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

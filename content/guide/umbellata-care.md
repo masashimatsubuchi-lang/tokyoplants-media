@@ -28,6 +28,22 @@ siblings:
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-umbellata"
     role: "土の選び方"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節のすぐ上で枝を切る剪定鋏。生木の切断能力は約15mm（商品ページの表示）。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "切り口の白い樹液から手を守る、ニトリルの使いきり手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,020"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "剪定中に垂れる樹液や切った枝を受け、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 # ウンベラータの育て方｜葉が落ちる原因と対策
@@ -167,6 +183,11 @@ siblings:
 - 太い枝を切った場合は、癒合剤を塗ると回復が早い
 
 枝分かれさせたい場合は、分岐させたい高さで思い切って幹を切ります。切り口付近から2〜3本の新芽が出て、枝分かれした樹形をつくることができます。剪定で出た枝は、後述する挿し木で増やすことも可能です。
+
+剪定に使う鋏と、樹液から手を守る手袋、床に敷く防水シートの例です。
+
+<!-- amazon-cards title="剪定の道具と樹液対策" -->
+<!-- /amazon-cards -->
 
 ## 曲げ木で樹形を作る
 
