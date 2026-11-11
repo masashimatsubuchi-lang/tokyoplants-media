@@ -17,6 +17,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "花ごころ さぼてん多肉植物の土 5L"
+    asin: "B000IAA2F0"
+    image: "https://m.media-amazon.com/images/I/81TYDRE7U3L._AC_SL200_.jpg"
+    note: "排水性を重視した、サボテン・多肉植物用の培養土。評価★4.2・レビュー1,461件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥636"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用の培養土に2〜3割混ぜて、水はけを上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、土の中の乾きを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # ハートカズラの葉が落ちる原因は根詰まりと根腐れが最多｜猫・犬には非毒性
@@ -78,6 +94,11 @@ baseProducts:
 ### 土
 
 水はけを最優先した土が向く。多肉植物・サボテン用の培養土や、観葉植物用の培養土に軽石やパーライトを2〜3割混ぜた配合が適している。保水性の高い土をそのまま使うと過湿になりやすいため注意する。
+
+多肉植物・サボテン用の培養土、観葉植物用の培養土に2〜3割混ぜるパーライト、鉢の中の乾きを確かめる水やりチェッカーの例です。
+
+<!-- amazon-cards title="水はけ優先の土と乾きの確認に" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

@@ -16,6 +16,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "Levoit（レボイト）空気清浄機 Core P350（20畳まで対応・加湿機能なし）"
+    asin: "B08131HFSG"
+    image: "https://m.media-amazon.com/images/I/610fw0qierL._AC_SL200_.jpg"
+    note: "花粉やほこりを集める、20畳まで対応の空気清浄機。評価★4.3・レビュー13,275件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。加湿機能はない（商品ページの表示）"
+    price: "¥12,862"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "植物の蒸散では補えない冬の乾燥を、部屋ごと加湿する気化式。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 「サンスベリアは空気をきれいにする」「NASAが認めた空気清浄植物」——観葉植物を調べていると、こうした言葉を必ず目にします。根拠として挙げられるのは、1989年にNASAが発表した研究です。ただ、この研究が「何を、どんな条件で調べたのか」まで説明されることはあまりありません。
@@ -139,6 +150,11 @@ baseProducts:
 | 発生源の対策 | ホルムアルデヒド等 | 低VOCの建材・家具を選ぶ、新しい家具はしばらく換気を強めるなど |
 
 観葉植物は、これらの手段の代わりにはなりません。ただ、換気で空気を整えた部屋に植物があること自体は、上で挙げた心理面の価値として意味があります。
+
+換気とあわせて使う空気清浄機と、湿度の節で触れた冬の乾燥対策の加湿器の例です。空気清浄機は加湿機能のないもの、加湿器は気化式を選んでいます。
+
+<!-- amazon-cards title="換気とあわせて使う家電" -->
+<!-- /amazon-cards -->
 
 ## まとめ
 

@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "基本配合で1割足して、細い根への負担を軽くする。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "国産 硬質 赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "基本配合で1割足して、極端な乾燥を防ぐ赤玉土小粒。少量の2L入り。評価★4.2・レビュー140件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。粒の大きさは約3〜6mm（商品ページの表示）"
+    price: "¥1,398"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "傷んだ根の切除や、年2〜3回の剪定に使う剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 紫とシルバーの縞模様が美しいトラデスカンティア（ゼブリナ）は成長が非常に速く、挿し木もほぼ確実に成功する丈夫な植物です。しかし「葉先が茶色くなる」「根詰まりで元気がなくなった」という相談も少なくありません。実はこれらのトラブルの多くは、匍匐性・垂れ性のトラデスカンティアが持つ細く繊細な根の性質に、土の配合が合っていないことが原因です。この記事では、トラデスカンティアに合う土の条件・市販品・自作配合レシピ・植え替え手順を解説します。
@@ -129,6 +145,11 @@ baseProducts:
 | 観葉植物用培養土 | ベースとなる保水・排水のバランス | 標準的な管理がしやすい |
 | パーライト | 排水性の強化・軽量化 | 細い根への負担軽減 |
 | 赤玉土（小粒） | 適度な保水性 | 極端な乾燥を防ぐ |
+
+基本配合で1割ずつ足すパーライトと赤玉土小粒、植え替え時の根の切除や剪定に使う鋏の例です。
+
+<!-- amazon-cards title="配合の素材と剪定の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -34,6 +34,22 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節を2つ以上含む位置で、茎を一度で切る剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "切り口から出る樹液から、手を守るニトリル手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,020"
+  - title: "国産 硬質 赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "肥料を含まない、茎挿しの培地にする赤玉土小粒。評価★4.2・レビュー140件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。粒の大きさは約3〜6mm（商品ページの表示）"
+    price: "¥1,398"
 ---
 
 # アグラオネマの増やし方｜横に増えたら株分け、間延びしたら茎挿し
@@ -122,6 +138,11 @@ baseProducts:
 <!-- /steps -->
 
 切り戻した親株は、残した茎の節から新芽が出ます。切り口はそのままでかまいません。親株の用土が古くなっているようなら、このタイミングで[植え替え](/guide/aglaonema-repotting)も済ませると効率的です。
+
+茎を切る剪定鋏、樹液から手を守る使いきり手袋、茎挿しの培地にする赤玉土小粒の例です。
+
+<!-- amazon-cards title="茎挿しの道具と培地" -->
+<!-- /amazon-cards -->
 
 ---
 

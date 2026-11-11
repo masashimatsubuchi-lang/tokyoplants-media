@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から遠い株に、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "間延びした茎を、健康な葉が残る節のすぐ上で切る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # 観葉植物が徒長したら？伸びた茎は戻らないので節の上で切り戻す
@@ -90,6 +101,11 @@ baseProducts:
 | 5. 肥料 | 新芽が展開し、葉の色・厚みが安定するまで控える |
 
 剪定の基本的な道具・タイミングについては[観葉植物の剪定基本ガイド](/guide/houseplant-pruning-basics)も参考にしてください。
+
+窓際に置けない株に光を足す育成ライトと、節のすぐ上で切り戻す剪定鋏の例です。
+
+<!-- amazon-cards title="光を足す・節の上で切り戻す" -->
+<!-- /amazon-cards -->
 
 <!-- character-note character="kuro" type="tip" -->
 切り取った茎は捨てずに挿し木にすると、徒長した1株が「仕立て直した親株」と「新しい子株」の2鉢になるよ。挿し木の方も明るい場所で管理しないと、また同じように伸びちゃうから注意してね。

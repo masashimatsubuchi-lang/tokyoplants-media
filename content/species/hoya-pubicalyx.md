@@ -17,6 +17,17 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用培養土に2〜3割混ぜて、水はけと通気性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "細くしなやかな蔓を、トレリスや支柱へ傷めにくく留める。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
 ---
 
 # ホヤ・ピュービカリックス｜シルバースプラッシュと深紅の花の育て方図鑑
@@ -159,6 +170,11 @@ baseProducts:
 - **壁面への誘引**：フックやクリップで壁に固定するインテリアグリーンとしても人気
 
 成長が速いため、月に一度は蔓の向きを確認して誘引し直すと形が崩れません。
+
+用土に2〜3割混ぜるパーライトと、トレリスや支柱に蔓を留める柔らかい結束材の例です。
+
+<!-- amazon-cards title="用土の調整と誘引に" -->
+<!-- /amazon-cards -->
 
 ### 温度管理
 

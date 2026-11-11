@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら、縦に誘引できるココヤシ繊維の支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "斑の発現に足りない光を、棚へ挟んで補える調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の湿度60〜75%と室温を、株の近くで確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # フィロデンドロン・ホセ・ブオノの育て方｜大型斑入り葉が美しい希少な交配種
@@ -97,6 +113,11 @@ baseProducts:
 ### 支柱・仕立て
 
 蔓性の着生植物のため、ヘゴ棒・モスポール・板材などへ誘引することで気根を伸ばして活着し、葉のサイズが大きくなります。支柱なしで横に広げる仕立ても可能ですが、縦に誘引した株の方が大きく成熟した葉を展開しやすい傾向があります。
+
+縦に誘引するための支柱、窓から遠い場合に光を足す育成ライト、冬に湿度60〜75%を保てているか確かめる温湿度計の例です。
+
+<!-- amazon-cards title="支柱・光・湿度の道具" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

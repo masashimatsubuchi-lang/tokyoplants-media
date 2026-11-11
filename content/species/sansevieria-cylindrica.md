@@ -18,6 +18,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "花ごころ サンセベリアの土 5L"
+    asin: "B000IAA2KU"
+    image: "https://m.media-amazon.com/images/I/51evM6GE98L._AC_SL200_.jpg"
+    note: "排水性を重視した、サンスベリア・多肉植物向けの専用土。評価★4.2・レビュー272件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥707"
+  - title: "刀川平和農園 平和 軽石（DIYシリーズ）小粒 2L"
+    asin: "B00BTR0HVK"
+    image: "https://m.media-amazon.com/images/I/714b5VSIOcL._AC_SL200_.jpg"
+    note: "市販の観葉植物用土に2〜3割足して、乾きやすくする小粒の軽石。評価★4.1・レビュー34件（2026-11-11にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,208"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "冬の室温が10℃以下か15℃以上かを、最低・最高の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,223"
 ---
 
 # サンスベリア・シリンドリカ（ボンセラ）の育て方｜円筒形の葉が個性的な品種図鑑
@@ -103,6 +119,11 @@ baseProducts:
 ### 用土
 
 排水性を最優先した土を使う。多肉質の根は常に湿った土を嫌うため、一般的な観葉植物用土よりも乾燥しやすい配合が向く。市販の観葉植物用土を使う場合は、パーライトや軽石を2〜3割追加するとよい。素焼き鉢を使うと通気性が高まり、根腐れリスクをさらに下げられる。
+
+観葉植物用土より乾きやすい市販の専用土、手持ちの用土に2〜3割足す軽石、冬の水やりを決める室温を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="乾きやすい土と冬の室温の確認に" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

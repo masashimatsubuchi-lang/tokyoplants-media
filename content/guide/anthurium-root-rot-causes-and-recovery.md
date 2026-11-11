@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く崩れる根を、白い根だけが残るまで切除する。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "古い土をほぐす作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "植え替え後、土が乾いたかを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # アンスリウムの根腐れ｜原因の見分け方と復活手順
@@ -91,6 +107,11 @@ baseProducts:
 ### ステップ6：養生する
 
 植え替え後は明るい日陰で管理し、直射日光を避けます。水やりは土が完全に乾いてから。肥料は新しい根が出るまで与えないでください。2〜4週間で新しい根が出始めれば回復のサインです。
+
+傷んだ根を切る剪定鋏、土をほぐす作業の下に敷く防水シート、植え替え後に土の乾きを確かめる水やりチェッカーの例です。
+
+<!-- amazon-cards title="根の切除と植え替え後の水やりに" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

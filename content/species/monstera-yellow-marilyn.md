@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら、上方向へ誘引できるココヤシ繊維の支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用培養土に20〜30%混ぜて、通気性と排水性を足す。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓際の光が足りない株に、棚へ挟んで光を足せるライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
 ---
 
 # モンステラ・イエローマリリン｜バリエガータ系唯一のイエロー斑入り希少種図鑑
@@ -113,6 +129,11 @@ baseProducts:
 ### 支柱
 
 蔓性のため支柱に誘引して上方向に育てる。成熟するほど切れ込みが深く発達し、イエロー斑との組み合わせがより豪華になる。
+
+上方向へ誘引する支柱、培養土に20〜30%混ぜるパーライト、イエロー斑の発色に光を補う育成ライトの例です。
+
+<!-- amazon-cards title="支柱・用土・光をそろえる" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

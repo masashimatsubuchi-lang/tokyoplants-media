@@ -31,6 +31,22 @@ baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"
     price: "¥6,800〜"
+amazonProducts:
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "弱風で部屋の空気を動かし、タンクの中心を乾かしやすくする。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "置き場所の夜間最低温度を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,223"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒く柔らかい組織や根を、硬い部分が出るまで切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # タンクブロメリアが腐る・枯れる原因と対処法
@@ -139,6 +155,11 @@ baseProducts:
 <!-- /steps -->
 
 この段階ではタンクに水を溜めない管理に一時的に切り替えます。吸収毛は葉面の水分も取り込めるので、湿度さえ保てば短期間タンクが空でも持ちこたえます。
+
+中心を乾かすあいだ部屋の空気を動かすサーキュレーター、置き場所の夜間最低温度を確かめる温湿度計、腐った組織を削ぐ剪定鋏の例です。
+
+<!-- amazon-cards title="中心を乾かす・夜の冷えを測る" -->
+<!-- /amazon-cards -->
 
 ### 中心が抜けてしまった場合
 

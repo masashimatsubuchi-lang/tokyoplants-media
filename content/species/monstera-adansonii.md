@@ -24,6 +24,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "つるを傷めにくい柔らかい結束材で、支柱やトレリスへ軽く留める。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "葉のツヤと成長に関わる、湿度60%以上を保てているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 # モンステラ・アダンソニー（マドカズラ）｜特徴・育て方・品種を解説
@@ -148,6 +164,11 @@ baseProducts:
 **支柱仕立て（穴を大きくしたい場合）:** モスポールやヘゴ棒に誘引すると、葉が大型化し穴も増える。気根を着生させることで成熟が促進される。
 
 **トレリス・ワイヤー:** 窓辺にワイヤーやトレリスを設置し、カーテン状に仕立てる方法。省スペースで存在感を出せる。
+
+支柱仕立てで気根を着生させる支柱、つるを留める柔らかい結束材、湿度60%以上を確かめる温湿度計の例です。
+
+<!-- amazon-cards title="支柱仕立てと湿度の確認に" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

@@ -23,6 +23,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "Planterior 水位計 Sサイズ"
+    asin: "B00UFKAOEC"
+    image: "https://m.media-amazon.com/images/I/51jvgmvntbL._AC_SL200_.jpg"
+    note: "容器の中の水位を、浮きの上下で外から読める水位計。評価★3.8・レビュー91件（2026-11-11にAmazon商品ページで確認／在庫あり（残り18点）・Prime対象・出荷元Amazon）"
+    price: "¥460"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "置き場所の明け方の最低室温を、あとから表示で確かめられる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,223"
+  - title: "DAIM ブラックベース 28cm 鉢スタンド（高さ5cm・10号鉢まで）"
+    asin: "B0DJBHZ242"
+    image: "https://m.media-amazon.com/images/I/61x6c4uATVL._AC_SL200_.jpg"
+    note: "容器を床から5cm浮かせ、冷気の溜まる床から離せる。評価★4.5・レビュー528件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。高さ5cm・10号鉢まで対応（商品ページの表示）"
+    price: "¥607"
 ---
 
 # ハイドロカルチャーの冬はMINを切ってから数日〜1週間待って水を足す
@@ -97,6 +113,11 @@ baseProducts:
 窓際に置いている容器は、夜間にカーテンの内側（部屋側）へ移動させるか、最初から窓から30cm〜1m離した場所に定位置を決めます（[冬の置き場所マップ](/guide/winter-placement-room-map)）。床への直置きは冷気が溜まりやすいため、[鉢台などに乗せて浮かせます](/review/winter-insulation-goods-for-houseplants)。
 
 補水に使う水は、汲み置きして室温に馴染ませたものが理想です。冬の水道水は10℃を下回ることがあり、そのまま注ぐと根に温度ショックを与えます。
+
+補水の判断に使う水位計、窓辺の夜の冷え込みを記録で確かめる温湿度計、容器を床から浮かせる鉢台の例です。
+
+<!-- amazon-cards title="冬の水位と冷えを確かめる" -->
+<!-- /amazon-cards -->
 
 ### 3. 液肥を止める
 

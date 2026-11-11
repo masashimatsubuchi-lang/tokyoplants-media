@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "木質化した茎を、10〜15cmの長さで切り分ける剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "国産 硬質 赤玉土 小粒 2L"
+    asin: "B092J5DV6Z"
+    image: "https://m.media-amazon.com/images/I/51QXicm1CLL._AC_SL200_.jpg"
+    note: "挿し木用の土の主体にする、肥料を含まない赤玉土小粒。評価★4.2・レビュー140件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。粒の大きさは約3〜6mm（商品ページの表示）"
+    price: "¥1,398"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "表土が乾いたら、霧吹き程度に水を与える。評価★4.2・レビュー1,195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 # パキラの増やし方｜挿し木・水挿しの時期と管理方法
@@ -59,6 +75,11 @@ baseProducts:
 2. 明るい日陰に置き、表土が乾いたら霧吹き程度に水を与える
 3. 直射日光は避けつつ、気温25〜30℃程度を保てる場所で管理する
 4. 4〜8週間ほどで発根し、新芽の動きが確認できたら通常管理に切り替える
+
+挿し穂を切る剪定鋏、挿し木用の土の主体にする赤玉土小粒、表土に霧吹き程度の水を与える霧吹きの例です。
+
+<!-- amazon-cards title="挿し木の道具と用土" -->
+<!-- /amazon-cards -->
 
 ### 方法B: 水挿し
 

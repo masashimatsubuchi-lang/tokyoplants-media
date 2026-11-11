@@ -15,6 +15,22 @@ baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "鉢に挿しておくと、土の乾きを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "伸びた枝を、樹形を整えたい位置で切り戻す剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "乾燥する時期の葉水を、細かい霧で葉の表裏にかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # シェフレラ（カポック）で気をつけるのは過湿と葉焼けの2点だけ
@@ -89,6 +105,11 @@ baseProducts:
 ### 剪定・仕立て
 
 成長が早く枝が伸びやすいため、樹形を整えたい場合は生育期に剪定を行う。切り戻した箇所から新しい枝が出やすく、こんもりとした樹形に仕立てやすい。
+
+乾かし気味の水やりの目安になる水やりチェッカー、生育期の剪定に使う鋏、カイガラムシ・ハダニ予防の葉水に使う霧吹きの例です。
+
+<!-- amazon-cards title="水やり・剪定・葉水の道具" -->
+<!-- /amazon-cards -->
 
 ---
 
