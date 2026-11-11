@@ -21,6 +21,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "最低15℃と湿度60%以上を保てているかを数字で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "離れた位置に置いて、部屋の湿度を上げる加湿器。水が自然に蒸発する気化式で、タンク4.5L・1日8時間使用で給水は3日に1度（商品ページの表示）。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # アロカシア・シャントリエリは19世紀生まれの交配種｜育て方は湿度60%以上
@@ -124,6 +135,11 @@ baseProducts:
 ### 湿度管理の注意点
 
 管理上の注意として、<mark>霧吹きで葉面に直接水をかけることは避けるべきだ——葉に水滴が残って乾燥が遅れると、黒い斑点（細菌性・カビ性の病斑）の原因になる。</mark>空間湿度を高めるには加湿器を離れた位置で使用するか、鉢を水を張ったトレーの上に置く方法（鉢底は水面に直接浸けない）が安全だ。
+
+湿度60%以上と最低15℃を確かめる温湿度計と、株から離して置く加湿器の例です。
+
+<!-- amazon-cards title="湿度60%以上と最低15℃を保つ道具" -->
+<!-- /amazon-cards -->
 
 ---
 

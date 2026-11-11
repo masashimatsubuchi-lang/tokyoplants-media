@@ -17,6 +17,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "明け方の最低温度を、あとから表示で確かめられる温湿度計。30秒ごとに測定し、最高・最低の温湿度を記録する（商品ページの表示）。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,223"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "置き場所の温度の推移を、グラフで振り返れる温湿度計。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 ## はじめに
@@ -81,6 +92,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 冬は「昼の室温」ではなく「明け方の最低温度」で置き場所を決めてね。温湿度計の最低値記録機能を使うか、朝いちばんに株元の温度を見ると、窓際が思ったより冷えていることに気づけるよ。
 <!-- /character-note -->
+
+株元の最低温度を確かめるなら、最高・最低を記録できる温湿度計が手軽です。
+
+<!-- amazon-cards title="明け方の最低温度を確かめる温湿度計" -->
+<!-- /amazon-cards -->
 
 ## 温度ストレスのサイン
 

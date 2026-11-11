@@ -16,6 +16,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "上の配合の2割に入れ、排水性を高めるパーライト。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "上の配合の2割に入れる、小粒の軽石。評価★4.2・レビュー39件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥583"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "乾かし気味の管理で、土の乾きを色の変化で知らせる。電池不要（商品ページの表示）。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # ペペロミア・オブツシフォリア｜肉厚光沢葉が美しい、育てやすさ最高峰のペペロミア図鑑
@@ -137,6 +153,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 迷ったら「多肉・サボテン用土＋軽石を1〜2割足す」くらいの感覚でいい。既製品を軸にすると配合の失敗が減る。
 <!-- /character-note -->
+
+配合に足すパーライトと軽石（小粒）、乾かし気味の水やりを見極める水分計の例です。
+
+<!-- amazon-cards title="配合に足す素材と、乾き具合の確認に" -->
+<!-- /amazon-cards -->
 
 ### 湿度
 

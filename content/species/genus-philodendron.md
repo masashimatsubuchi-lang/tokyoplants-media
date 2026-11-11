@@ -33,6 +33,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "支柱を湿らせて、気根を活着しやすくするための霧吹き。評価★4.2・レビュー1,195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "高湿度（60%以上）を保てているかを数字で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 ## フィロデンドロン属とは
@@ -139,6 +155,11 @@ baseProducts:
 ### 支柱（つる性種）
 
 モスポールやヘゴ棒に誘引すると、気根が活着し、葉が大きく展開する。支柱なしで垂らして育てることも可能だが、葉のサイズは小さくなる。
+
+つる性種を誘引する支柱の一例としてのココヤシ繊維の支柱と、支柱を湿らせる霧吹き、湿度60%以上を確かめる温湿度計です。
+
+<!-- amazon-cards title="つる性種の誘引と、湿度の確認に" -->
+<!-- /amazon-cards -->
 
 ### 植え替え
 

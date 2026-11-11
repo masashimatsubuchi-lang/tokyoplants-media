@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "成長点のすぐ上で、枝をつぶさずに切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "花ごころ きれいな鉢底石 2L"
+    asin: "B07K1PBN1J"
+    image: "https://m.media-amazon.com/images/I/81VZcQit2wL._AC_SL200_.jpg"
+    note: "植え替えの手順2で、鉢底に敷く軽い鉢底石。評価★4.0・レビュー912件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥410"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が乾いたかどうかを、色の変化で知らせる水分計。電池不要（商品ページの表示）。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥458"
 ---
 
 # パキラの育て方｜初心者でも枯らさないコツ
@@ -104,6 +120,11 @@ baseProducts:
 5. たっぷり水やりをして完了
 
 土は水はけの良い観葉植物用の配合土を使いましょう。パキラは過湿に弱いため、排水性を重視した土選びが長く元気に育てるポイントになります。
+
+剪定に使う清潔なハサミ、植え替えで鉢底に敷く鉢底石、「土が乾いてから」を見極める水分計の例です。
+
+<!-- amazon-cards title="剪定・植え替え・水やりの判断に" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブルと対策
 

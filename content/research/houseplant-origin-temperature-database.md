@@ -29,6 +29,17 @@ baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "部屋の温度と湿度が、表の適正範囲に入っているかを確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "湿度が足りない部屋で、空間の湿度を上げる加湿器。水が自然に蒸発する気化式で、タンク4.5L・1日8時間使用で給水は3日に1度（商品ページの表示）。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
 ---
 
 # 観葉植物417種の原産地・適温・湿度一覧｜Green Collection図鑑
@@ -606,6 +617,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 複数の植物を同じ部屋で管理するときは、その部屋にいる植物の適正湿度の「重なり」を見るのがコツだよ。例えば東南アジア原産のアロカシアとスキンダプサスを一緒に置くなら、湿度60%前後を目指せば両方にとって無理のない環境になりやすいんだ。
 <!-- /character-note -->
+
+表の数値を自分の部屋に当てはめるには、まず置き場所の温度と湿度を測るのが近道です。湿度が足りない部屋では加湿器で補います。
+
+<!-- amazon-cards title="部屋の温度・湿度を表と比べる道具" -->
+<!-- /amazon-cards -->
 
 ---
 

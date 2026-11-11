@@ -20,6 +20,17 @@ baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"
     price: "¥6,800〜"
+amazonProducts:
+  - title: "植物学名入門 植物の名前のつけかた〈新装版〉（L.H.ベイリー著）"
+    asin: "489694237X"
+    image: "https://m.media-amazon.com/images/I/812bQeI-mML._SL200_.jpg"
+    note: "学名の命名ルールを、基礎から解説した入門書。付録に主要属名・種小名一覧（商品ページの内容紹介）。評価★4.2・レビュー11件（2026-11-11にAmazon商品ページで確認／在庫あり（残り2点・入荷予定あり）・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,080"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉の表面の吸収毛（トリコーム）を、10倍に拡大して観察できる。3枚のレンズを貼り合わせたトリプレットレンズ（商品ページの表示）。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
 ---
 
 # ブロメリア科の分類｜主な属と見分け方
@@ -233,6 +244,11 @@ tokyoplantsで扱っている「ホヘンベルギア・エドムンドイ × �
 ブロメリア科では、2020年代に入ってからも属の再編が続いています。GBIFの Backbone Taxonomy にも、まだ位置づけが定まっていない名前（DOUBTFUL扱い）が残っています。**「現時点での最良の整理」であって、確定した答えではない**という前提で付き合うのが実際的です。
 
 同じように分類の見直しが入った身近な例としては、サンセベリアがドラセナ属に統合された件があります（[ドラセナとサンセベリアの分類](/research/dracaena-sansevieria-taxonomy-science)）。
+
+学名の付け方のルールそのものを知りたい人向けの入門書と、「属を見分ける着眼点」の4で挙げた吸収毛を拡大して見るルーペの例です。
+
+<!-- amazon-cards title="学名のしくみと、吸収毛の観察に" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -20,6 +20,17 @@ baseProducts:
   - title: "ザミオクルカスの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "刀川平和農園 平和 赤玉土 小粒 14L"
+    asin: "B00BT5VRRA"
+    image: "https://m.media-amazon.com/images/I/71+lUX3pMRL._AC_SL200_.jpg"
+    note: "推奨配合の5割を占める、赤玉土の小粒。評価★4.4・レビュー293件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,043"
+  - title: "サンアンドホープ 軽石 小粒 2L"
+    asin: "B0FN7SW6GZ"
+    image: "https://m.media-amazon.com/images/I/51pf-b9+0gL._AC_SL200_.jpg"
+    note: "推奨配合の3割に入れる、小粒の軽石。評価★4.2・レビュー39件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥583"
 ---
 
 # ZZプラント（ザミオクルカス）が弱る原因の大半は水のやりすぎ｜乾いて数日待つ
@@ -140,6 +151,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 根茎に水をためる植物の用土は「乾きやすさ」が命。植え替え時に鉢底から水がすぐ抜けるかどうかを実際に水やりして確認しておくと、配合が合っているかの目安になるよ。
 <!-- /character-note -->
+
+推奨配合の赤玉土（小粒）と軽石は、Amazonでもそろいます。
+
+<!-- amazon-cards title="推奨配合の赤玉土と軽石" -->
+<!-- /amazon-cards -->
 
 ### 肥料
 

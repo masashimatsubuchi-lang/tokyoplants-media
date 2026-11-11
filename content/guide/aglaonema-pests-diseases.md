@@ -22,6 +22,22 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "0.5mm程度のハダニが葉裏にいるかを、10倍で確かめられる。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,080"
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "コナジラミの成虫を減らすのに使う、黄色の粘着シート。評価★4.0・レビュー2,791件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥757"
+  - title: "KINCHO園芸 ベニカXファインスプレー 420ml"
+    asin: "B003ULEF52"
+    image: "https://m.media-amazon.com/images/I/61sE9NkVEeL._AC_SL200_.jpg"
+    note: "表の第22506号で、ハダニ類やコナジラミ類に使えるスプレー。農林水産省登録第22506号。花き類・観葉植物の適用にカイガラムシ類は含まれない（2026-11-10に農薬登録情報で確認）。評価★4.3・レビュー4,627件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥706"
 ---
 
 # アグラオネマの害虫・病気｜原因が違っても見た目は似る、症状からの絞り込み方
@@ -185,6 +201,11 @@ CTAHRの解説でも、発症株の廃棄、新しい鉢と用土の使用、頭
 
 製品横断の整理は[観葉植物の害虫8種 見分け方チャート](/guide/houseplant-pests-identification-chart)にもまとめています。
 <!-- /callout -->
+
+ハダニを見つけるルーペ、コナジラミの成虫を減らす黄色の粘着シート、表にあるベニカXファインスプレーの例です。薬剤は洗い流す・こすり落とすといった物理除去のあとに、手元のラベルの適用表を確かめてから使ってください。
+
+<!-- amazon-cards title="害虫の確認と、物理除去のあとの対処に" -->
+<!-- /amazon-cards -->
 
 ---
 

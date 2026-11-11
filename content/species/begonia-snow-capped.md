@@ -25,6 +25,22 @@ baseProducts:
   - title: "ベゴニア / Begonia｜tokyoplants"
     url: "https://www.tokyoplants.com/categories/7114659"
     price: ""
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "最低12℃と湿度40〜60%に収まっているかを数字で確かめる。本体に68日分の温湿度データを保存し、アプリでグラフ表示できる（商品ページの表示）。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "株から離して置き、葉を濡らさずに空間の湿度を上げる。水が自然に蒸発する気化式で、タンク4.5L・1日8時間使用で給水は3日に1度（商品ページの表示）。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥15,930"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "梅雨〜夏に弱い風で空気を動かし、灰色かび病が出やすい停滞を防ぐ。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
 ---
 
 # ベゴニア・スノーキャップドの銀点と白斑は別物｜白斑が多い株ほど光が要る
@@ -179,6 +195,11 @@ tokyoplants MEDIAで個別に解説している「斑点系ベゴニア」を同
 ### 湿度
 
 40〜60%を維持します。ベゴニアは「湿度は欲しいが葉は濡らしたくない」という一見矛盾した要求を持ちますが、欲しいのは**空気中の湿り気**であって葉の上の水滴ではありません。加湿器を少し離して置くか、鉢底が水に浸からないようにした受け皿トレーで空間湿度を上げてください。霧吹きを葉に直接かけるのだけは避けます。
+
+湿度40〜60%と最低12℃を確かめる温湿度計、空間の湿度を上げる加湿器、カレンダーの「通風の確保」に使うサーキュレーターの例です。加湿器の吹き出し口は株に向けずに置きます。
+
+<!-- amazon-cards title="湿度・温度の確認と、通風に" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

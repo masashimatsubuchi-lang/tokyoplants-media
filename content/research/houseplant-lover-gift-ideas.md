@@ -25,6 +25,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "毎日の手入れに長く使える、園芸用の剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "棚や机に挟んで使える、クリップ式の育成ライト。10段階の調光と、3・9・12時間で自動消灯するタイマーを搭載（商品ページの表示）。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
 ---
 
 「観葉植物が好きな人にプレゼントを贈りたいけど、何を選べばいいかわからない」——そんな悩みを持つ方は多いはずです。
@@ -133,6 +144,11 @@ Daily Botanical Towelとオリジナル用土『 I'm original SOIL（tokyoplants
 <!-- character-note character="shadee" type="tip" -->
 育成ライトを贈るなら、相手の部屋の窓の向きも軽く聞いておくと親切だよ。北向きや窓から遠い場所で育てている人ほど、光量不足を補う道具の恩恵を大きく感じられるはず。
 <!-- /character-note -->
+
+上の「プランツケアキット」「植物育成ライト」にあたる品を単品で贈るなら、たとえば次のようなものがあります。
+
+<!-- amazon-cards title="単品で贈れる手入れの道具" -->
+<!-- /amazon-cards -->
 
 ### ¥18,000〜｜Leather Botanical Collection
 
