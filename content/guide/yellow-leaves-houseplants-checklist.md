@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "表面だけでなく、土の中まで乾いたかを色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏のハダニやカイガラムシを、10倍に拡大して確かめる。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。3枚のレンズを貼り合わせたトリプレットレンズ（商品ページの表示）"
+    price: "¥3,080"
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "夜間に何℃まで下がったかを、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
 ---
 
 観葉植物の葉が黄色くなると、多くの人は「水不足か水のやりすぎか」の二択で判断しがちです。しかし実際には、黄化は複数要因が重なって発生することが多く、単発の対処だけでは再発しやすい症状です。特に室内管理では、光量不足・通気不足・土の劣化・根の傷み・肥料濃度・害虫被害が同時進行するケースが珍しくありません。
@@ -124,6 +140,11 @@ baseProducts:
 - 温度: 夜間低温や冷暖房直風を受けていないか
 
 特に低温期の追肥は黄化悪化の原因になりやすいため、春以降の再開が基本です。
+
+手順2で土の中の乾きを確かめる水やりチェッカー、手順5で葉裏のハダニを見るルーペ、夜間の最低温度を記録する温湿度計の例です。
+
+<!-- amazon-cards title="土・害虫・温度を確かめる" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

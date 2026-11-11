@@ -23,6 +23,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が乾いたことを色の変化で知らせ、乾くまでの日数を数えやすくする。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の水やりの前に、室温が15℃以上あるかを確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
 ---
 
 「夏は週1、冬は月1」といった目安はよく見かけますが、なぜ季節でこれほど差が出るのか、そして自分の部屋ではどう調整すればいいのかまでは、なかなか説明されません。
@@ -118,6 +129,11 @@ baseProducts:
 <!-- character-note character="shadee" type="tip" -->
 水やりした日と「乾いたな」と感じた日をセットで残しておくと、季節ごとの間隔が自然と見えてくるよ。アプリの水やり記録を使うと、去年の同じ時期と見比べられるから、切り替えの時期を迷いにくくなるんだ。
 <!-- /character-note -->
+
+手順1で土の中まで乾いたかを確かめる水やりチェッカーと、冬に室温が15℃以上あるかを確かめる温湿度計の例です。
+
+<!-- amazon-cards title="土の乾きと室温を確かめる" -->
+<!-- /amazon-cards -->
 
 ## 季節の変わり目に失敗しやすいポイント
 

@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株元の高さに置き、朝と夜の湿度をグラフで見比べる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "35%を下回る季節に、部屋全体の湿度を水を温めずに上げる。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "60%を超える季節に、弱運転で空気を動かして葉や土の表面を乾かす。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
 ---
 
 ## はじめに
@@ -77,6 +93,11 @@ baseProducts:
 ### 3. 60%を超える季節は「通風」と「水やり間隔」で調整する
 
 梅雨や夏場の高湿度では、湿度を下げること自体よりも、空気を動かして葉や土表面を乾かすことが重要です。サーキュレーターを弱で回し、土の乾きが遅くなった分だけ水やり間隔を延ばします。
+
+手順1で株元に置く温湿度計、手順2で乾燥する季節に使う加湿器、手順3で空気を動かすサーキュレーターの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="測る・加湿する・空気を動かす" -->
+<!-- /amazon-cards -->
 
 ### 4. 葉水は「一時的な補助」と割り切る
 

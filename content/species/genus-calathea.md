@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "暖房の季節に湿度がどこまで下がっているか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "葉水を、細かい霧で葉の表裏にかけられる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 ## カラテア属とは
@@ -76,6 +92,11 @@ baseProducts:
 ### 湿度
 
 カラテア属の栽培で最も重要な環境要素が**湿度**である。原産地の熱帯雨林は湿度70〜90%が常態であるため、日本の室内（特に冬の暖房時）の乾燥した空気は大きなストレスとなる。葉水（ミスト）を1日1〜2回行う、加湿器を近くに置く、トレーに水を張った砂利の上に鉢を置くなどの方法で湿度を補う。
+
+湿度を確かめる温湿度計、部屋の湿度を上げる加湿器、葉水に使う霧吹きの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度を保つ道具" -->
+<!-- /amazon-cards -->
 
 ### 温度
 

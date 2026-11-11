@@ -13,6 +13,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株のそばの湿度が下がっていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
 ---
 
 アロカシアは観葉植物ブームの中でも特に息の長い人気を保っている属のひとつです。「ドラゴンスケール」「ブラックベルベット」といった品種名を園芸店やSNSで見かける機会も増えました。この記事では、アロカシアの人気がなぜここまで続いているのかを、葉の質感・希少性・新種発見という3つの観点から整理します。断定できない部分は「〜と考えられる」「〜という指摘がある」という表現にとどめ、事実として確認できたことと、推測にとどまることを区別して解説します。
@@ -56,3 +67,8 @@ baseProducts:
 - ジュエルアロカシアなど品種ごとの詳しい特徴は[ジュエルアロカシアの種類比較](/guide/jewel-alocasia-types-comparison)、育て方全般は[アロカシア属とは｜主な品種・育て方・特徴を解説](/species/genus-alocasia)を参考にしてください
 
 アロカシアを育てる際は、高湿度の維持と排水性の高い用土が管理の基本になります。土選びに迷ったら、tokyoplantsが開発した観葉植物専用の培養土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』もぜひご検討ください。
+
+高湿度を保つための道具としては、株のそばの湿度を確かめる温湿度計と、部屋の湿度を上げる加湿器の例があります。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度を測る・上げる" -->
+<!-- /amazon-cards -->

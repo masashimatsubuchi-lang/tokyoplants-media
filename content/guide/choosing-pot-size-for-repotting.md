@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "花ごころ きれいな鉢底石 2L"
+    asin: "B07K1PBN1J"
+    image: "https://m.media-amazon.com/images/I/81VZcQit2wL._AC_SL200_.jpg"
+    note: "排水層を厚くして、実質的な土の量を減らすのに使う。評価★4.0・レビュー912件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。主原料は人工軽石（商品ページの表示）"
+    price: "¥410"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土の中まで乾いたかを色の変化で知らせ、水やりの間隔を空ける目安になる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "三晃物産 すくすくいい根ポット スリット鉢 5号 5個（直径15cm×高さ15cm・日本製）"
+    asin: "B0GYSJD3ZB"
+    image: "https://m.media-amazon.com/images/I/71pGO482qhL._AC_SL200_.jpg"
+    note: "底面だけでなく側面からも排水・通気される、5号のスリット鉢。評価★4.5・レビュー82件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。容量1.7L・ポリプロピレン製（商品ページの表示）"
+    price: "¥1,420"
 ---
 
 「一回り大きい鉢に植え替える」と言われても、一回りとはどのくらいなのか。素材は何がいいのか。底穴はいくつ必要なのか——鉢選びには意外と多くの判断ポイントがあります。
@@ -204,6 +220,11 @@ baseProducts:
 - **鉢の中に鉢を入れる**：適切なサイズの内鉢（スリット鉢など）に植え、それを大きな鉢にセットする。見た目を変えずに根域を制限できる
 
 いずれも応急処置です。次の植え替え時期には、根鉢に合ったサイズの鉢に移してください。
+
+排水層を厚くする鉢底石、土の中の湿り具合を確かめる水やりチェッカー、内鉢や植え替え先に使えるスリット鉢の例です。
+
+<!-- amazon-cards title="過湿を防ぐ鉢まわりの道具" -->
+<!-- /amazon-cards -->
 
 ---
 

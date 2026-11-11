@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
+    asin: "B0CJBM2WV9"
+    image: "https://m.media-amazon.com/images/I/51B2UmXbU4L._AC_SL200_.jpg"
+    note: "曜日と時刻で、ライトの点灯と消灯を自動にできる。評価★4.3・レビュー707件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。定格1500Wまで（商品ページの表示）"
+    price: "¥1,727"
+  - title: "SwitchBot スマートプラグ プラグミニ 2個入り（Bluetooth＋Wi-Fi・消費電力モニター）"
+    asin: "B0DT6X8963"
+    image: "https://m.media-amazon.com/images/I/31byeqh9dAL._AC_SL200_.jpg"
+    note: "点灯のスケジュールを組め、ライトの実際の消費電力もアプリで見られる。評価★4.2・レビュー738件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。片側の刃が幅広のプラグのため、N極対応のコンセントで使う（商品ページの表示）"
+    price: "¥3,402"
 ---
 
 ## 育成ライトの電気代、実際いくらかかる？
@@ -96,6 +107,11 @@ baseProducts:
 
 ### ① タイマーコンセントで無駄なく管理
 タイマーを使えば毎日の操作が不要で、消し忘れも防げます。1,000〜2,000円で購入できるタイマーコンセントは、育成ライトとセットでの導入をおすすめします。
+
+①のタイマーコンセントと、点灯の自動化に加えてライトの実際の消費電力もアプリで確かめられるスマートプラグの例です。
+
+<!-- amazon-cards title="点灯を自動にする・消費電力を確かめる" -->
+<!-- /amazon-cards -->
 
 ### ② 必要なワット数を正確に選ぶ
 「念のため高ワット」は電気代の無駄になります。育てる植物と設置距離に合わせた適切なワット数を選べば、コスト効率が上がります。

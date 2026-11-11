@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "Bamworld 植木鉢台 キャスター付き"
+    asin: "B0FPRFSGNT"
+    image: "https://m.media-amazon.com/images/I/71P2w5zSbWL._AC_SL200_.jpg"
+    note: "大型鉢を載せたまま、風雨の当たらない建物の陰へ転がせる。評価★4.5・レビュー1,769件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。直径35cm・耐荷重約100kg（商品ページの表示）"
+    price: "¥2,061"
+  - title: "アストロ 植物保護カバー 不織布 5枚組"
+    asin: "B09KLP463T"
+    image: "https://m.media-amazon.com/images/I/61NCpeYvi7L._AC_SL200_.jpg"
+    note: "屋内に入らない株に上から被せ、葉の裂けを減らす不織布のカバー。評価★3.8・レビュー90件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。約幅58×高さ100cm（商品ページの表示）"
+    price: "¥1,219"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "台風で折れてぶら下がった枝や葉を、付け根から切り落とす。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 「ベランダに出している大鉢、台風のときはどうすればいいんだろう」「去年は鉢が倒れて割れてしまった」——9月は台風シーズンの本番で、屋外・ベランダで観葉植物を育てている方にとっては悩みの多い時期です。
@@ -108,6 +124,11 @@ baseProducts:
 <!-- character-note character="shadee" type="point" -->
 大型鉢の定位置を決めるときは、日当たりだけじゃなく「風の通り道」も一緒に見ておくのがコツ。ベランダの角や手すり際は風が集まりやすいから、普段から壁寄りの明るい場所を定位置にしておくと、台風のたびに大移動しなくて済むよ。
 <!-- /character-note -->
+
+大型鉢を建物の陰へ転がして動かすキャスター付きの鉢台、屋内に入らない株に被せる不織布のカバー、台風後に折れた枝を切る剪定鋏の例です。
+
+<!-- amazon-cards title="台風の前後に使う道具" -->
+<!-- /amazon-cards -->
 
 ---
 

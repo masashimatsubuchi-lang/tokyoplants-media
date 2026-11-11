@@ -28,6 +28,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "Menetop 育苗ポット 5個セット（12穴トレー・透明カバー付き 種まきハウス）"
+    asin: "B0BTZ4XZS7"
+    image: "https://m.media-amazon.com/images/I/61U7xxzMNLL._AC_SL200_.jpg"
+    note: "透明カバーで覆い、順化の最初の高湿度期間をつくる。評価★3.9・レビュー363件（2026-11-11にAmazon商品ページで確認／在庫あり（残り20点）・Prime対象・出荷元Amazon）"
+    price: "¥1,399"
+  - title: "ロングピンセット 27cm 2本セット（ストレート・カーブ）"
+    asin: "B08FD57ZH8"
+    image: "https://m.media-amazon.com/images/I/51Rp-YnAEZL._AC_SL200_.jpg"
+    note: "口の狭いフラスコから、苗をゆっくり引き抜く27cmのピンセット。評価★4.0・レビュー713件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥699"
+  - title: "共福産業 ニュージーランド産水苔 150g"
+    asin: "B00D477CZ2"
+    image: "https://m.media-amazon.com/images/I/71FSJS0mVVL._AC_SL200_.jpg"
+    note: "順化中の細い根を、保水で支える培地に使う水苔。評価★4.0・レビュー2,674件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,698"
 ---
 
 # Tissue culture（組織培養）とは？アルボの斑は再現できない
@@ -248,6 +264,11 @@ MS培地には窒素・リン・カリウムなどの無機塩類のほか、ビ
 <!-- /callout -->
 
 具体的な手順と道具は、姉妹記事の[フラスコ苗の順化のやり方](/guide/tissue-culture-acclimatization)でまとめています。
+
+フラスコを開ける前に用意しておきたい、高湿度の順化環境をつくる透明カバー付きの育苗トレー、苗を取り出すピンセット、順化中の培地に使える水苔の例です。
+
+<!-- amazon-cards title="開封の前に用意する順化の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

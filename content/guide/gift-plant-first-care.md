@@ -22,6 +22,17 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "水やりの前に、土の中まで乾いたかを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏のハダニやカイガラムシを、10倍に拡大して確かめる。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。3枚のレンズを貼り合わせたトリプレットレンズ（商品ページの表示）"
+    price: "¥3,080"
 ---
 
 開店祝い、新築祝い、昇進祝い、誕生日。観葉植物を贈られる場面は多いのに、「もらった側がどう扱えばいいか」を説明したものはほとんど付いてきません。ラッピングは外していいのか、鉢カバーのまま水をやっていいのか、いつ植え替えるのか。分からないまま2週間ほど眺めているうちに、葉が黄色くなり始める——これが最も多い流れです。
@@ -77,6 +88,11 @@ baseProducts:
 <!-- character-note character="kuro" type="warning" -->
 「立派な鉢に植え替えてあげたい」は最初の1ヶ月で最もやりがちな失敗だ。移動で揺さぶられた根に、さらに植え替えの傷を重ねることになる。植え替えは株が新しい環境で根を張り直してからでいい。
 <!-- /character-note -->
+
+手順4で土の乾きを確かめる水やりチェッカーと、手順5で葉裏の小さな害虫を見るルーペの例です。
+
+<!-- amazon-cards title="土の乾きと害虫を確かめる" -->
+<!-- /amazon-cards -->
 
 ## 贈答で多い樹種と、その注意点
 

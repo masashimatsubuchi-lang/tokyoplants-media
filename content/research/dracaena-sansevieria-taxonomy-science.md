@@ -22,6 +22,12 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "植物学名入門 植物の名前のつけかた〈新装版〉（L.H.ベイリー著）"
+    asin: "489694237X"
+    image: "https://m.media-amazon.com/images/I/812bQeI-mML._SL200_.jpg"
+    note: "学名の命名ルールを、基礎から解説した入門書。評価★4.2・レビュー11件（2026-11-11にAmazon商品ページで確認／在庫あり（残り2点・入荷予定あり）・Prime対象・出荷元と販売元はAmazon.co.jp）。付録に主要属名・種小名一覧（商品ページの内容紹介）"
+    price: "¥3,080"
 ---
 
 # サンセベリアがドラセナ属に統合された理由｜分類学の話
@@ -66,6 +72,11 @@ Lu & Morden（2014年、*Systematic Botany*誌）の葉緑体DNA解析、続くT
 | *Sansevieria hyacinthoides*（*S. guineensis* 等を含む） | *Dracaena hyacinthoides* | — |
 
 <mark>興味深いのは、キリンドリカの学名が単純な属名の置き換え（*Dracaena cylindrica*）にならず、*Dracaena angolensis* という別の種小名になっている点だ。これは、ドラセナ属の中にすでに同じ種小名を持つ種が存在するなど、命名規約上の重複を避けるための調整によるものである。</mark>
+
+学名の付け方や命名規約の基本を、順を追って知りたい場合の入門書です。
+
+<!-- amazon-cards title="学名のしくみを本で知る" -->
+<!-- /amazon-cards -->
 
 ## それでも「サンスベリア」と呼ばれ続ける理由
 

@@ -15,6 +15,12 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が乾いたことを色の変化で知らせ、乾く前の水やりを防ぐ。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # ホヤはなぜ人気再燃？SNS時代のコレクター植物学
@@ -68,3 +74,8 @@ baseProducts:
 - 品種ごとの詳しい特徴・育て方は[ホヤ属とは｜主な品種・育て方・特徴を解説](/species/genus-hoya)を、希少植物市場全般の構造は[なぜ希少植物の価格は暴落するのか](/research/rare-plant-price-bubble)を参考にしてください
 
 ホヤは多肉質の葉に水分を蓄えるため過湿に弱く、排水性の高い用土が管理の基本になります。土選びに迷ったら、tokyoplantsが開発した観葉植物専用の培養土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』もぜひご検討ください。
+
+過湿を避けるには、水やりの前に土の中まで乾いたかを確かめるのが近道です。土の乾きを色の変化で知らせる水やりチェッカーの例です。
+
+<!-- amazon-cards title="水やりの前に乾きを確かめる" -->
+<!-- /amazon-cards -->
