@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "自宅の最低室温を、最高・最低の記録で1週間ぶん確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "アストロ 植物保護カバー 不織布 5枚組"
+    asin: "B09KLP463T"
+    image: "https://m.media-amazon.com/images/I/61NCpeYvi7L._AC_SL200_.jpg"
+    note: "夜の窓際の冷え込みから、株を覆って守る不織布のカバー。評価★3.8・レビュー90件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,219"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "暖房で下がった湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
 ---
 
 「冬は10℃を下回らないように」という言葉は、どの育て方の記事にも出てきます。ところがこの一文が意味する労力は、住んでいる場所によってまったく違います。那覇では何もしなくても達成される条件が、札幌では暖房を切った深夜に真っ先に破られます。
@@ -141,6 +157,11 @@ baseProducts:
 <!-- character-note character="kuro" type="warning" -->
 Cの型で一番多いのが根腐れだ。暖かくて葉は元気に見えるが、光が足りないぶん水を使う量は夏の半分以下になっている。暖かい＝よく乾く、ではない。土を触って確かめる回数を増やせ。
 <!-- /character-note -->
+
+手順1で使う最低温度を記録できる温湿度計、温暖地型で夜の窓際の冷えを和らげる不織布、寒冷地型・マンション型で乾燥を補う加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="類型別の冬越しの道具" -->
+<!-- /amazon-cards -->
 
 ## 地域別・冬支度のカレンダー
 

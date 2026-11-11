@@ -22,6 +22,17 @@ baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の最低温度15℃以上と湿度を保てるか、迎える前に記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "ピクタムを迎える前に、部屋の湿度を上げておく加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
 ---
 
 # アグラオネマの値段は1,000円〜6万円｜価格差はサイズより系統と柄で決まる
@@ -187,6 +198,11 @@ tokyoplantsのオンラインストアに掲載されているアグラオネマ
 5. **株元と下葉を確認する**：茎がぐらつく、下葉が落ちて茎だけ伸びている株は前の環境で光が足りていない
 6. **送料を含めて比較する**：本体価格が安くても送料が1,000円前後かかる出品がある
 <!-- /steps -->
+
+手順2の冬の最低温度を確かめる温湿度計と、ピクタムなど高い湿度を求める株を迎える前に用意しておきたい加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="迎える前に温度と湿度を整える" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -21,6 +21,17 @@ baseProducts:
   - title: "アグラオネマ / Aglaonema（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382098"
     price: ""
+amazonProducts:
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "葉や茎を切るときに、樹液から手を守る使いきり手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "切った茎や古い土を受け止め、床に散らさない防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 # アグラオネマは猫に有毒｜原因はシュウ酸カルシウムの針状結晶、吐かせてはいけない
@@ -160,6 +171,11 @@ ASPCAの毒性植物データベースでは、アグラオネマは「Chinese E
 <!-- character-note character="kuro" type="warning" -->
 切った茎や落ちた葉を床に置きっぱなしにしないこと。作業中のほうが、鉢に植わっている状態より猫が口にする機会は多い。ゴミ袋は口を閉じて猫の届かない場所へ。
 <!-- /character-note -->
+
+剪定・植え替えのときに手を守る使いきり手袋と、切った茎や古い土を床に散らさず受け止める作業シートの例です。
+
+<!-- amazon-cards title="作業中の事故を防ぐ道具" -->
+<!-- /amazon-cards -->
 
 ---
 

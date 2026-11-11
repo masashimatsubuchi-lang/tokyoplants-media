@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の近くで湿度60%を下回っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾いた部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "マルハチ産業 ザ・霧吹き 振り子ホース式 300ml"
+    asin: "B0BJDP1CJX"
+    image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
+    note: "モスポールを湿らせて、気根を活着させやすくする霧吹き。評価★4.2・レビュー1,195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥472"
 ---
 
 # フィロデンドロン・ヘテロクラスペドン｜深緑ベルベット葉と白銀隆起脈が美しい希少種図鑑
@@ -104,6 +120,11 @@ baseProducts:
 ### 湿度
 
 60〜80%の高湿度を推奨する。湿度不足では葉先が傷み、ベルベット質感も失われる。加湿器の導入が安定した管理に有効。通気性を確保しながら高湿度を維持することがベルベット系共通の管理ポイント。
+
+湿度60〜80%を確かめる温湿度計、部屋の湿度を上げる加湿器、モスポールを湿らせる霧吹きの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度60〜80%を保つ" -->
+<!-- /amazon-cards -->
 
 ### 用土
 

@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "室温が15℃を継続して下回っているか、最低温度の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土の乾くペースが極端に遅くなっていないか、色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # アロカシアの葉が減って1枚だけに？15℃を下回る秋冬で球根が硬いなら休眠
@@ -98,6 +109,11 @@ baseProducts:
 3. **葉の減り方を振り返る**：下の葉から順にゆっくり減っているか、それともランダムに次々と減っているか
 4. **土の乾き方を確認する**：普段より乾くのが極端に遅くなっていないか
 5. **該当する原因に応じて対処する**：休眠が疑われる場合は水やりを控えて春を待つ、根腐れが疑われる場合は[アロカシアが根腐れする原因と対処法｜ハイドロカルチャーで再発を防ぐ](/guide/alocasia-root-rot-treatment)を参照し、早めに根の状態を確認する
+
+手順1の室温と手順4の土の乾き方を確かめるのに使える、最低温度を記録する温湿度計と水やりチェッカーの例です。
+
+<!-- amazon-cards title="室温と土の乾き方を確かめる" -->
+<!-- /amazon-cards -->
 
 ---
 

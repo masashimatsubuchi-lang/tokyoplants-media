@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "水やりを忘れがちでも、土が乾いたことを色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "エアプランツに、細かい霧を全体へかけられる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 「観葉植物を飾りたいけど、いつも枯らしてしまう」「出張が多くて水やりができない」「日当たりが悪い部屋でも緑を置きたい」——そんな声は少なくありません。
@@ -112,6 +123,11 @@ baseProducts:
 
 **エアプランツ（チランジア）**
 土不要。週数回の霧吹きだけで育つ。流木や石の上に乗せるだけでインテリアになります。
+
+本物の植物を選ぶ場合に、水やりのタイミングを色で知らせるチェッカーと、エアプランツの霧吹きに使えるスプレーの例です。
+
+<!-- amazon-cards title="水やりのタイミングと霧吹き" -->
+<!-- /amazon-cards -->
 
 ### 土選びで管理の手間は大きく変わる
 

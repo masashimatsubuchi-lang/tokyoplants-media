@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "葉先が傷む前に、湿度50%を切っていないか記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "乾燥する季節の部屋の湿度を、水を温めずに上げる気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "葉水を、細かい霧で葉の表裏にかけられる霧吹き。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # カラテア・ランキフォリアの育て方｜インシグニスとの名前の関係
@@ -75,6 +91,11 @@ baseProducts:
 ### 湿度
 
 カラテア属の中では比較的湿度変化に強いとされるが、それでも空気が極端に乾燥すると葉先が傷みやすい。50〜70%程度の湿度を目安に、乾燥する季節は加湿器や葉水で補うとよい。
+
+湿度50〜70%を確かめる温湿度計、乾燥する季節に部屋の湿度を上げる加湿器、葉水に使う霧吹きの例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度50〜70%を保つ" -->
+<!-- /amazon-cards -->
 
 ### 土
 

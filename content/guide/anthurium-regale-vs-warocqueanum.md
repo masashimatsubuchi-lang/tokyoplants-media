@@ -23,6 +23,17 @@ baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
     price: "¥1,480"
+amazonProducts:
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "日中と夜間の湿度を、グラフで見比べて下がる時間を確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "株を置く部屋の湿度を、水を温めずに底上げする気化式の加湿器。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
 ---
 
 ベルベットアンスリウムを買いたいが、レガレとワロクアーナムのどちらにすべきか——この2種はコレクター人気の双璧として頻繁に比較されます。
@@ -163,6 +174,11 @@ baseProducts:
 → どちらも最高の姿を見せる。ワロクアーナムの垂れ下がる大葉が真価を発揮。
 
 ワロクアーナム向けの具体的な設備構成は[ワロクアーナムの湿度環境の作り方](/guide/anthurium-warocqueanum-care-guide)を参照してください。
+
+朝と夜の湿度を記録で見比べられる温湿度計と、部屋の湿度を底上げする加湿器の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="湿度を記録する・底上げする" -->
+<!-- /amazon-cards -->
 
 ---
 

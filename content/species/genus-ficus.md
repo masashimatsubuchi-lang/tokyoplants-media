@@ -26,6 +26,22 @@ baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "成長期に、伸びすぎた枝を好みの高さで切り戻す剪定鋏。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "ショーワグローブ ニトリスト・タッチ No.882 ニトリル使いきり手袋 100枚入 Mサイズ"
+    asin: "B009KHWMDM"
+    image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
+    note: "白い樹液でかぶれないよう、剪定のときに手を守るニトリル手袋。評価★4.3・レビュー3,716件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
+    price: "¥1,020"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "剪定や植え替えの下に敷き、樹液や土で床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
 ---
 
 ## フィカス属とは
@@ -138,6 +154,11 @@ baseProducts:
 ### 剪定
 
 成長が旺盛なため、定期的な剪定で樹形を整える。剪定時期は成長期（5〜6月がベスト）。切り口から白い樹液が出るため、ティッシュで拭き取る。切り口の下の節から新芽が出て分岐するため、剪定によって好みの樹形に仕立てられる。
+
+剪定に使う剪定鋏、白い樹液から手を守る手袋、作業の下に敷いて床を養生するシートの例です。
+
+<!-- amazon-cards title="剪定の道具と樹液対策" -->
+<!-- /amazon-cards -->
 
 ### 植え替え
 
