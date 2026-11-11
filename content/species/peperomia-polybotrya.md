@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の商品一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が完全に乾いたかを、色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "サンアンドホープ パーライト 5L"
+    asin: "B0FN7QL8JY"
+    image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
+    note: "観葉植物用の培養土に2〜3割混ぜ、排水性を上げる。評価★4.2・レビュー15件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥704"
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "腐った茎の切除や、茎挿し用の茎を切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
 ---
 
 # ペペロミア・ポリボトリアの育て方｜しずく型の葉が美しいレインドロップ
@@ -125,6 +141,11 @@ baseProducts:
 ### 植え替え
 
 根の成長がゆっくりなため、2〜3年に1回で十分。適期は5〜6月。
+
+土が完全に乾いたかを確かめる水やりチェッカー、培養土に2〜3割混ぜるパーライト、茎腐れの切除や茎挿しに使う剪定鋏の例です。
+
+<!-- amazon-cards title="乾かし気味に育てる道具" -->
+<!-- /amazon-cards -->
 
 ---
 

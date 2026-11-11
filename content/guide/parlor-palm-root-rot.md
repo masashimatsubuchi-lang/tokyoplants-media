@@ -16,6 +16,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "黒くふやけた根を、健康な根を残して切り取る。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "根をほぐして土を落とす作業の下に敷き、床を汚さない。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "植え替え後の水やりの前に、土が乾いたかを色で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 # テーブルヤシの根腐れ、白い根が残っていれば復活の見込みあり
@@ -85,6 +101,11 @@ baseProducts:
 ### ステップ6：養生する
 
 植え替え後は直射日光を避けた明るい日陰で管理します。水やりは土の表面が乾いたのを確認してから与え、受け皿の水は必ず捨ててください。生育適温は18〜25℃で、10℃を下回ると生育が止まるため、冬場の植え替え作業は避け、気温が安定する時期に行うのが安全です。
+
+ステップ3で傷んだ根を切る剪定鋏、ステップ2〜5の作業で床を汚さない作業シート、ステップ6で土の乾きを確かめる水やりチェッカーの例です。
+
+<!-- amazon-cards title="根の手当てと養生の道具" -->
+<!-- /amazon-cards -->
 
 ## よくある失敗例
 

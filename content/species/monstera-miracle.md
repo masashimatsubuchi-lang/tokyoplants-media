@@ -21,6 +21,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "窓から離れた場所で、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら、上方向へ誘引できる支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
+  - title: "三晃物産 すくすくいい根ポット スリット鉢 5号 5個（直径15cm×高さ15cm・日本製）"
+    asin: "B0GYSJD3ZB"
+    image: "https://m.media-amazon.com/images/I/71pGO482qhL._AC_SL200_.jpg"
+    note: "側面のスリットから排水・通気される、5号のスリット鉢。評価★4.5・レビュー82件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。容量1.7L・ポリプロピレン製（商品ページの表示）"
+    price: "¥1,420"
 ---
 
 # モンステラ・ミラクル｜大面積の白斑が安定して出る希少バリエガータ図鑑
@@ -116,6 +132,11 @@ baseProducts:
 ### 肥料
 
 成長期（4〜9月）に月1〜2回の薄めの液肥を与える。冬は施肥停止。白斑が多い株は成長が遅めのため、過肥料に特に注意する。
+
+光量を補う育成ライト、上方向へ誘引する支柱、通気性を確保するスリット鉢の例です。
+
+<!-- amazon-cards title="光・支柱・鉢の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

@@ -18,6 +18,22 @@ baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土の中まで乾いたかを、色の変化で知らせる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の夜に10℃を下回っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "葉先の傷みを防ぐ葉水を、細かい霧でかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # ドラセナ・フラグランス（幸福の木）の特徴と育て方
@@ -111,6 +127,11 @@ baseProducts:
 ### 肥料
 
 生育期（5〜9月）に緩効性肥料を2ヶ月に1回程度、または薄めた液体肥料を月1回与える。
+
+乾かし気味の水やりの前に土の乾きを確かめる水やりチェッカー、冬に最低気温10℃以上を保てているかを確かめる温湿度計、葉先の傷みを防ぐ葉水に使う霧吹きの例です。
+
+<!-- amazon-cards title="乾かし気味と10℃を確かめる道具" -->
+<!-- /amazon-cards -->
 
 ---
 

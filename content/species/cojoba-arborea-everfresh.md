@@ -18,6 +18,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "ARS（アルス）剪定鋏 VS-8Z"
+    asin: "B005Q4LU1I"
+    image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
+    note: "節の少し上で、枝をつぶさずに切り戻す。評価★4.5・レビュー1,605件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥3,681"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "冬の置き場所が10℃以上を保てているか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "暖房で乾く冬に、細かい小葉へ葉水をかける。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # エバーフレッシュ完全図鑑｜冬の葉落ち・就眠運動・剪定の育て方
@@ -161,6 +177,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 切る位置は「節のすぐ上」。節の下に眠っている芽が動いて枝になる。節と節の間の何もないところで切ると、切り口から下の節まで枯れ込んで見た目が悪くなる。
 <!-- /character-note -->
+
+剪定の手順2で節の少し上を切る剪定鋏、冬に10℃以上を保てているかを確かめる温湿度計、暖房で乾く部屋の葉水に使う霧吹きの例です。
+
+<!-- amazon-cards title="剪定と冬越しの道具" -->
+<!-- /amazon-cards -->
 
 ---
 

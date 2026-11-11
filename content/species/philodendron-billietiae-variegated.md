@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
+    asin: "B0CLD6QSDD"
+    image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
+    note: "明るさが足りない場所で、棚へ挟んで光を足せる調光つきのライト。評価★4.3・レビュー999件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥4,445"
+  - title: "SwitchBot 気化式加湿器 4.5L（上から給水）"
+    asin: "B0CL4R54X4"
+    image: "https://m.media-amazon.com/images/I/613Lg5YeEEL._AC_SL200_.jpg"
+    note: "湿度60%以上を保つために、水を温めずに部屋の湿度を上げる。評価★4.1・レビュー514件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。タンク4.5L・上から給水（商品ページの表示）"
+    price: "¥15,930"
+  - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
+    asin: "B0F1K913VB"
+    image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
+    note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥1,349"
 ---
 
 # フィロデンドロン・ビリエティアエ斑入り｜Philodendron billietiae variegated 図鑑
@@ -141,6 +157,11 @@ tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） �
 ### 葉柄の発色について
 
 オレンジ〜イエローの葉柄は光量と温度に反応して発色の濃淡が変わる。<mark>光量が多く温度が高い成長期には鮮やかなオレンジが出やすく、冬の低照度・低温環境では全体的に色が薄れる傾向がある。</mark>葉柄の発色を最大化したい場合は、PPFD 300前後を維持することが有効で、育成ライトの導入が最も確実な方法だ。
+
+葉柄の発色や成長を支える育成ライト、湿度60%以上を保つための加湿器、上方向へ誘引する支柱の例です。加湿器は、水を温めずにフィルターから蒸発させる気化式を選んでいます。
+
+<!-- amazon-cards title="光・湿度・支柱の道具" -->
+<!-- /amazon-cards -->
 
 ---
 

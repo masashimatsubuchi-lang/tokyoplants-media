@@ -15,6 +15,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "土の入れ替え作業の下に敷き、床を汚さない防水シート。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
+  - title: "大和プラスチック 鉢皿 深皿 5号（φ155×H50mm）ホワイト"
+    asin: "B006P9OYWU"
+    image: "https://m.media-amazon.com/images/I/61KunP2PdJL._AC_SL200_.jpg"
+    note: "深さ5cmで、水やり後の水が床にあふれにくい受け皿。評価★4.1・レビュー284件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。直径15.5cm・深さ5cm（商品ページの表示）"
+    price: "¥408"
 ---
 
 観葉植物を室内で育てるとき、屋外栽培と同じ土を使うのはおすすめしません。室内には「虫が出にくい」「臭いがない」「清潔」という屋外にはない条件が加わります。この記事では、室内栽培に特化した土の選び方と、快適に植物を楽しむためのポイントを解説します。
@@ -177,6 +188,11 @@ baseProducts:
 ### 鉢底からの水漏れ対策
 
 深めの受け皿を使うか、鉢底穴のない鉢カバーの中に穴付きの内鉢をセットする二重構造がおすすめ。水やり時に床を汚す心配がなくなります。
+
+ベランダや浴室での植え替えに敷く作業シートと、水やり時の水漏れを防ぐ深めの受け皿の例です。
+
+<!-- amazon-cards title="部屋を汚さないための道具" -->
+<!-- /amazon-cards -->
 
 ---
 

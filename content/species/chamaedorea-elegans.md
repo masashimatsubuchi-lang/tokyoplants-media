@@ -17,6 +17,22 @@ baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
+amazonProducts:
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "土が湿っているうちは与えない、を色の変化で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
+  - title: "アストロ 折りたたみ式防水園芸シート Mサイズ 約100×100cm"
+    asin: "B087D4Y4WX"
+    image: "https://m.media-amazon.com/images/I/617YEDi9s4L._AC_SL200_.jpg"
+    note: "株を抜いて古い土を落とす作業の下に敷き、床を汚さない。評価★4.2・レビュー556件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥1,069"
+  - title: "マルハチ産業 ミストスプレー エアーミストワン 250ml"
+    asin: "B0FKMK3MW4"
+    image: "https://m.media-amazon.com/images/I/519DlkRIg9L._AC_SL200_.jpg"
+    note: "乾燥が強い時期の葉水を、細かい霧でかけられる。評価★4.1・レビュー93件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥753"
 ---
 
 # テーブルヤシ完全図鑑｜育て方・植え替え・株分けのコツ
@@ -104,6 +120,11 @@ baseProducts:
 3. 手で優しくほぐしながら、傷めないように株を分ける
 4. 根が少ない小さな株は無理に分けず、大きな株と一緒に植えても構わない
 5. それぞれ排水性の良い新しい用土に植え、植え替え後1週間ほどは直射日光を避けた明るい日陰で管理する
+
+水やりの前に土が乾いたかを確かめる水やりチェッカー、植え替え・株分けで床を汚さない作業シート、乾燥する時期の葉水に使う霧吹きの例です。
+
+<!-- amazon-cards title="水やり・株分け・葉水の道具" -->
+<!-- /amazon-cards -->
 
 ## よくあるトラブル
 

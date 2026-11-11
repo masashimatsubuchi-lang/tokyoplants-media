@@ -20,6 +20,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
+    asin: "B002B54J4U"
+    image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
+    note: "一晩の最低温度を、最高・最低の記録で確かめる。評価★4.3・レビュー1,080件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。30秒ごとに測定し最高・最低の温湿度を記録（商品ページの表示）"
+    price: "¥3,223"
+  - title: "SwitchBot 温湿度計プラス（大画面）"
+    asin: "B09PYKJ6CS"
+    image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
+    note: "株の高さに置き、夜の温度の下がり方をグラフで見る。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥2,680"
+  - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
+    asin: "B0764P7D64"
+    image: "https://m.media-amazon.com/images/I/71qHlWDhzqL._AC_SL200_.jpg"
+    note: "表面が乾いていても中が湿っていないかを、色で確かめる。評価★4.2・レビュー1,361件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。電池不要"
+    price: "¥458"
 ---
 
 朝、鉢の周りに葉が落ちている。昨日までは何ともなかったのに、触れただけでぽろりと取れる。冬の観葉植物で最も多い相談が、この「急に葉が落ちる」です。
@@ -70,6 +86,11 @@ baseProducts:
 <!-- callout type="warning" title="落葉を見て「水が足りない」と判断しない" -->
 冬の落葉で最も多い誤対処が、しおれた葉を見て水を与えることです。冬は根の吸水力そのものが落ちているため、**土が湿っているのに葉がしおれる**という状態が普通に起こります。ここで水を足すと、吸われない水が土中に滞留して根腐れが始まり、落葉が加速します。しおれ＋湿った土のときは、水ではなく温度を上げてください。
 <!-- /callout -->
+
+手順3で夜の最低温度を記録する温湿度計と、手順5で土の中の湿り具合を確かめる水やりチェッカーの例です。
+
+<!-- amazon-cards title="夜の最低温度と土の湿りを確かめる" -->
+<!-- /amazon-cards -->
 
 ## 6つの原因と見分け方
 

@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
+    asin: "B0D9896MPY"
+    image: "https://m.media-amazon.com/images/I/61sJ4d4ci+L._AC_SL200_.jpg"
+    note: "弱運転で部屋の空気を循環させ、土の乾きを早める。評価★4.2・レビュー2,288件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥10,980"
+  - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
+    asin: "B00J7P6UYO"
+    image: "https://m.media-amazon.com/images/I/61HWqoKt7eL._AC_SL200_.jpg"
+    note: "排水穴に合わせて切り、土が穴に詰まるのを防ぐ。評価★4.4・レビュー76件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥664"
+  - title: "三晃物産 すくすくいい根ポット スリット鉢 5号 5個（直径15cm×高さ15cm・日本製）"
+    asin: "B0GYSJD3ZB"
+    image: "https://m.media-amazon.com/images/I/71pGO482qhL._AC_SL200_.jpg"
+    note: "側面のスリットから排水・通気される、5号のスリット鉢。評価★4.5・レビュー82件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。容量1.7L・ポリプロピレン製（商品ページの表示）"
+    price: "¥1,420"
 ---
 
 水やりしても鉢底から水が出てこない。土の表面にいつまでも水が溜まっている。こうした症状は「水はけが悪い」サインで、放置すると根腐れに直結します。
@@ -202,6 +218,11 @@ baseProducts:
 | 7 | スリット鉢・素焼き鉢に変更 | 30分 | ★★☆ |
 
 1〜3は今すぐ対応可能です。6〜7は植え替えの適期（5〜6月）に実施しますが、**水やり後に何日経っても土が湿ったままで、土が酸っぱい匂いがする場合は時期を問わず緊急で**対処してください（[根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)）。
+
+表の優先度3で部屋の空気を動かすサーキュレーター、4で排水穴の詰まりを防ぐ鉢底ネット、7で植え替え先にするスリット鉢の例です。
+
+<!-- amazon-cards title="水はけを改善する道具" -->
+<!-- /amazon-cards -->
 
 ---
 

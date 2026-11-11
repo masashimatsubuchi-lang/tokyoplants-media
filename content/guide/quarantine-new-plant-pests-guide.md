@@ -18,6 +18,17 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "GranCraft ルーペ 10倍 トリプレットレンズ（観察用）"
+    asin: "B0D1G63W8K"
+    image: "https://m.media-amazon.com/images/I/51BfgKc+M9L._AC_SL200_.jpg"
+    note: "葉裏のハダニやカイガラムシの幼虫を、10倍に拡大して探す。評価★4.4・レビュー286件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。3枚のレンズを貼り合わせたトリプレットレンズ（商品ページの表示）"
+    price: "¥3,080"
+  - title: "GeeRic 両面粘着 黄色捕虫シート 40枚入り"
+    asin: "B09V71GHV8"
+    image: "https://m.media-amazon.com/images/I/6129wQT3e8L._AC_SL200_.jpg"
+    note: "隔離中の鉢のそばに置き、コバエやコナジラミが飛んでいないか見張る。評価★4.0・レビュー2,791件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥757"
 ---
 
 # 観葉植物を買ったら最初にすべき隔離期間と害虫チェックの方法
@@ -68,6 +79,11 @@ baseProducts:
 
 - 購入から1週間前後: 輸送・環境変化のストレスで隠れていた個体が動き出しやすい
 - 気温が上がったタイミング: 休眠していた個体の活動が活発化しやすい
+
+STEP1とSTEP3で葉裏や茎の付け根を拡大して見るルーペと、隔離中の鉢のそばに置いて飛ぶ虫の有無を見張る黄色の粘着シートの例です。
+
+<!-- amazon-cards title="隔離中の観察に使う道具" -->
+<!-- /amazon-cards -->
 
 ### STEP4: 土の状態が気になる場合は植え替えを検討する
 

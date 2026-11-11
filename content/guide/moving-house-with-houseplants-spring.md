@@ -17,6 +17,22 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+amazonProducts:
+  - title: "タカショー ガーデンソフトタイ GST-01 2.5mm×10m"
+    asin: "B00ICEE5KW"
+    image: "https://m.media-amazon.com/images/I/61H74XT187L._AC_SL200_.jpg"
+    note: "葉を上向きに軽く束ね、運搬中の擦れを防ぐ柔らかいひも。評価★4.1・レビュー393件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    price: "¥599"
+  - title: "アストロ 植物保護カバー 不織布 5枚組"
+    asin: "B09KLP463T"
+    image: "https://m.media-amazon.com/images/I/61NCpeYvi7L._AC_SL200_.jpg"
+    note: "冬の運搬で、株全体をふんわり包む不織布のカバー。評価★3.8・レビュー90件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。約幅58×高さ100cm（商品ページの表示）"
+    price: "¥1,219"
+  - title: "Bamworld 植木鉢台 キャスター付き"
+    asin: "B0FPRFSGNT"
+    image: "https://m.media-amazon.com/images/I/71P2w5zSbWL._AC_SL200_.jpg"
+    note: "大型鉢を載せたまま、床の上を転がして動かせる。評価★4.5・レビュー1,769件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。直径35cm・耐荷重約100kg（商品ページの表示）"
+    price: "¥2,061"
 ---
 
 引っ越しで観葉植物を運んだあと、数日してから葉が黄色くなったり、ぐったりしたりする相談はよくいただきます。移動そのものより「梱包が不十分で土がこぼれた」「車内で冷えた・蒸された」「新居ですぐ配置を変えた」といった前後の対応が原因になっていることが多いのが実態です。
@@ -68,6 +84,11 @@ baseProducts:
 <!-- character-note character="kuro" type="tip" -->
 プラスチック鉢は軽いぶん、運搬中に鉢自体がたわんで根鉢が動きやすい。段ボールや鉢カバーで側面を支えてやると、根が揺さぶられにくくなる。陶器鉢は割れ対策のほうが優先だ。
 <!-- /character-note -->
+
+葉を軽く束ねる柔らかいひも、冬の運搬で株を包む不織布のカバー、大型鉢を載せて移動を楽にするキャスター付きの鉢台の例です。
+
+<!-- amazon-cards title="梱包と運搬に使う道具" -->
+<!-- /amazon-cards -->
 
 ## 当日の運搬｜季節ごとの温度対策
 
