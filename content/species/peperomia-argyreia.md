@@ -19,9 +19,6 @@ baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 amazonProducts:
   - title: "BRIM SOL 24W 植物育成ライト（5800K）"
     asin: "B0B3M47RQJ"

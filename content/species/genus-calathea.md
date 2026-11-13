@@ -17,9 +17,9 @@ relatedSlugs:
   - "species/calathea-white-fusion"
   - "guide/calathea-winter-care"
 baseProducts:
-  - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
-    url: "https://www.tokyoplants.com/items/99620939"
-    price: "¥1,200〜"
+  - title: "観葉植物の商品一覧"
+    url: "https://www.tokyoplants.com/categories/6382090"
+    price: ""
 amazonProducts:
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"

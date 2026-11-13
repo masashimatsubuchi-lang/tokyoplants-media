@@ -41,9 +41,6 @@ baseProducts:
   - title: "フィロデンドロンの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382100"
     price: ""
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 amazonProducts:
   - title: "植物学名入門 植物の名前のつけかた〈新装版〉（L.H.ベイリー著）"
     asin: "489694237X"

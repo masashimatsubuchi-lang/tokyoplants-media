@@ -17,9 +17,6 @@ baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"
     price: ""
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 siblings:
   - slug: "guide/stephania-kaweesakii-complete-guide"
     role: "育て方の完全ガイド"
