@@ -20,9 +20,6 @@ baseProducts:
   - title: "ウンベラータの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
     price: ""
-  - title: "Daily Botanical Towel｜リーフタオル"
-    url: "https://www.tokyoplants.com/items/135803882"
-    price: "¥2,000"
 siblings:
   - slug: "guide/umbellata-care"
     role: "育て方の実務"
@@ -244,7 +241,7 @@ amazonProducts:
 
 **原因:** 乾燥した環境。冬の暖房時期に特に発生しやすい。
 
-**対処:** 葉の裏に小さな赤い点が見えたらハダニ。定期的な葉水で予防できる。発生した場合は葉裏を水で洗い流し、薬剤（ベニカスプレー等）で駆除する。
+**対処:** 葉の裏に小さな赤い点が見えたらハダニ。定期的な葉水で予防できる。発生した場合は葉裏を水で洗い流し、花き類・観葉植物のハダニ類に登録のある薬剤（ベニカXファインスプレーなど）で駆除する。
 
 ### 幹がぶよぶよになる
 

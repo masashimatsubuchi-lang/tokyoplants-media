@@ -29,11 +29,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
     note: "リドレイの板付けに使う長繊維水苔。根元を最小限に覆う程度に使うのが基本。★4.3・35件・残り18点・出荷元Amazon（2026-10-27 商品ページ確認）"
     price: "¥2,180"
-  - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
-    asin: "B0CG35V5CD"
-    image: "https://m.media-amazon.com/images/I/8135YWs3OAL._AC_SL200_.jpg"
-    note: "通気性重視のリドレイ管理に向く天然コルク板。★4.0・229件・残り7点・出荷元Amazon（2026-10-27 商品ページ確認）"
-    price: "¥2,980"
+  - title: "WinJapan コルク樹皮 大サイズ 200×300mm 1枚"
+    asin: "B09ZNKR7TX"
+    image: "https://m.media-amazon.com/images/I/71BoDPRuIlL._AC_SL200_.jpg"
+    note: "通気性重視のリドレイに向く、200×300mmの天然コルク板。評価★4.0・レビュー232件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。サイズは商品ページの「大サイズ 200×300 1枚」の表記"
+    price: "¥1,980"
 ---
 
 # ビカクシダ・リドレイ｜貯水葉が美しい上級者向け種の育て方
@@ -149,7 +149,7 @@ amazonProducts:
 
 リドレイは板付け管理が基本である。鉢植えは通気性を確保しにくく、蒸れのリスクが高いため推奨されない。
 
-- **着生板**: コルク板、ヘゴ板、焼き杉板などが使用される。コルク板は通気性と耐久性に優れ、最も一般的な選択肢である。[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22)のような凹凸のある天然コルクは通気性が高く、蒸れに弱いリドレイとの相性がよい。水苔・板の詳しい選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、[板付け板・コルク4選](/review/platycerium-mounting-board-cork)を参照
+- **着生板**: コルク板、ヘゴ板、焼き杉板などが使用される。コルク板は通気性と耐久性に優れ、最も一般的な選択肢である。[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B09ZNKR7TX?tag=tokyoplants0f-22)のような凹凸のある天然コルクは通気性が高く、蒸れに弱いリドレイとの相性がよい。水苔・板の詳しい選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、[板付け板・コルク4選](/review/platycerium-mounting-board-cork)を参照
 - **着生材（根元に詰めるもの）**: 水苔（ミズゴケ）が標準。ただし水苔の量は最小限にとどめ、根元が常に湿った状態にならないよう注意する。水苔にベラボン（ヤシチップ）を混ぜて通気性を上げる方法もある。繊維が長く扱いやすい[ニュージーランド産の圧縮水苔AAAハイグレード](https://www.amazon.co.jp/dp/B0CY2VJ3D3?tag=tokyoplants0f-22)なら、少量でも根元にまとめやすい
 - **固定**: テグスやワイヤーで板に固定する。根が活着すれば自力で固定されるが、リドレイは根の張りが遅いため、半年〜1年以上かかる場合がある
 

@@ -16,9 +16,11 @@ relatedSlugs:
   - review/houseplant-fertilizer-products-comparison
 hideAmazonBlock: true
 amazonProducts:
-  - title: ハイポネックス 専用液肥 観葉植物用 450ml
-    asin: B07ZTM6H4H
-    note: 観葉植物専用配合
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "水で薄めて使う、定番の液体肥料。評価★4.3・レビュー8,049件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。観葉植物には500倍に薄めて使う（メーカー公式サイトの表示）。N-P-K＝6-10-5"
+    price: "¥526"
   - title: リキダス 800ml
     asin: B01NBTAX3J
     note: 活力剤・植え替え後の回復促進
@@ -66,7 +68,7 @@ baseProducts:
 
 | 目的 | 推奨バランス | 代表例 |
 |------|------------|--------|
-| 葉を大きく・美しく育てたい | N高め | 観葉植物専用液肥 |
+| 葉を大きく・美しく育てたい | N高め | 観葉植物用と表示された液肥（N-P-Kはラベルで確認） |
 | 根張りを促進したい | P高め | マグァンプK（6-40-6） |
 | 全体的に丈夫にしたい | 均等 | ハイポネックス原液（6-10-5） |
 | 開花させたい（アンスリウム等） | P・K高め | 花・実用液肥 |
@@ -207,22 +209,20 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 
 ## 液肥・活力剤をもう一歩踏み込んで選ぶなら
 
-ハイポネックス原液・マグァンプK・プロミック・ハイポニカ液体肥料といった定番製品の評価・レビュー数を比較しながら「結局どれを買うべきか」を1本に絞って知りたい方は、[観葉植物の肥料比較｜ハイポネックス・マグァンプK等](https://media.tokyoplants.com/review/houseplant-fertilizer-products-comparison)で製品別に詳しく比較しています。ここでは、その比較記事では扱っていない「観葉植物専用液肥」と「活力剤」という、もう一段踏み込んだ2つの選択肢を紹介します。
+ハイポネックス原液・マグァンプK・プロミック・ハイポニカ液体肥料といった定番製品の評価・レビュー数を比較しながら「結局どれを買うべきか」を1本に絞って知りたい方は、[観葉植物の肥料比較｜ハイポネックス・マグァンプK等](https://media.tokyoplants.com/review/houseplant-fertilizer-products-comparison)で製品別に詳しく比較しています。ここでは、観葉植物専用の液肥が生産終了した後の液肥の選び方と、比較記事では扱っていない「活力剤」の2つを紹介します。
 
-### 1. ハイポネックス 専用液肥 観葉植物用 450ml（液肥）
+### 1. ハイポネックス原液 800ml（液肥）
 
-ハイポネックスの観葉植物専用ライン。原液に比べて窒素の比率がやや高く設計されており、葉の色つやを維持しやすい。希釈倍率は500倍が標準。
+この欄では以前、ハイポネックスの「専用液肥 観葉植物用」（N-P-K＝7-4-4、ビタミン・トレハロース配合）を紹介していた。しかしメーカー公式サイトでは**2024年に生産終了**と表示されている（2026-11-13に確認）。通販には在庫が残っていても、今後は手に入りにくくなるため、同じメーカーの定番であるハイポネックス原液に切り替えた。
 
-原液との最大の違いは、観葉植物に特化した微量元素の配合バランスにある。室内管理で不足しがちな鉄やマグネシウムが強化されており、葉色のくすみや黄化が気になる株には原液よりもこちらのほうが効果を感じやすい場合がある。
+原液は観葉植物専用ではないが、メーカーの使用量表では観葉植物が**500倍・1週間に1回**の区分に入っている。N-P-K＝6-10-5で、生産終了した専用液肥（7-4-4）よりリン酸の比率が高く、窒素の比率は低い。成長期だけ与え、冬は止めるという使い方は変わらない。
 
-価格は原液よりやや高めだが、観葉植物だけに使うなら専用品のほうが合理的。他の植物にも使い回したい場合は原液を選ぶ、という棲み分けになる。
-
-**向いている人**: 観葉植物の葉色を重視する方、専用配合で管理したい方
+**向いている人**: 観葉植物とほかの鉢植えを同じ液肥で管理したい方、まず液肥を1本だけ持っておきたい方
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B07ZTM6H4H?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/I/41-AFmQrrHL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス 観葉植物用液肥</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B0027WPD7O?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">ハイポネックス原液 800ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
@@ -253,7 +253,6 @@ N・P・K 以外にも植物に不可欠な栄養素があります。
 |------------|------|------|--------|
 | 手間を最小限にしたい | マグァンプK 中粒 | プロミック | — |
 | しっかり管理したい | マグァンプK 中粒 | ハイポネックス原液（500倍・週1回） | リキダス |
-| 観葉植物だけに使う | マグァンプK 中粒 | 専用液肥 観葉植物用 | リキダス |
 | 植え替え直後の回復 | — | — | リキダス（単体で使用可） |
 
 ---

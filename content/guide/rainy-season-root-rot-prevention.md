@@ -24,10 +24,11 @@ amazonProducts:
     asin: "B0CKF99LL6"
     image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
     price: "¥1,670"
-  - title: "ITANSE スリット鉢 7号 3個セット"
-    asin: "B08CXB5KTH"
-    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
-    price: "¥2,880"
+  - title: "三晃物産 すくすくいい根ポット スリット鉢 5号 5個（直径15cm×高さ15cm・日本製）"
+    asin: "B0GYSJD3ZB"
+    image: "https://m.media-amazon.com/images/I/71pGO482qhL._AC_SL200_.jpg"
+    note: "側面のスリットから水と空気が抜け、鉢の中が乾きやすい5号鉢。評価★4.5・レビュー82件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。容量1.7L・ポリプロピレン製（商品ページの表示）"
+    price: "¥1,420"
 ---
 
 # 観葉植物の梅雨対策｜根腐れを防ぐ水やり・培地・置き場所のすべて

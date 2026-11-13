@@ -34,7 +34,7 @@ amazonProducts:
     asin: "B09ZNKR7TX"
     image: "https://m.media-amazon.com/images/I/71BoDPRuIlL._AC_SL200_.jpg"
     note: "200×300mmの天然コルク樹皮。凹凸に根が掴まりやすい。評価★4.0・レビュー232件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。サイズは商品ページで選択されている「大サイズ 200×300 1枚」の表記"
-    price: "¥1,782"
+    price: "¥1,980"
   - title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g"
     asin: "B0CY2VJ3D3"
     image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"

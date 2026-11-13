@@ -18,17 +18,16 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "ハイポネックス 専用液肥 観葉植物用 450ml"
-    asin: "B07ZTM6H4H"
-    image: "https://m.media-amazon.com/images/I/41-AFmQrrHL._AC_SL200_.jpg"
-    price: "¥990"
-  - title: "ITANSE スリット鉢 7号 3個セット"
-    asin: "B08CXB5KTH"
-    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
-    price: "¥2,880"
-  - title: "住友化学園芸 オルトランDX粒剤 200g"
-    asin: "B004MK7RW8"
-    price: "¥891"
+  - title: "ハイポネックス原液 800ml"
+    asin: "B0027WPD7O"
+    image: "https://m.media-amazon.com/images/I/6100huHPt9L._AC_SL200_.jpg"
+    note: "水で薄めて使う、定番の液体肥料。評価★4.3・レビュー8,049件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。観葉植物には500倍に薄めて使う（メーカー公式サイトの表示）。N-P-K＝6-10-5"
+    price: "¥526"
+  - title: "三晃物産 すくすくいい根ポット スリット鉢 5号 5個（直径15cm×高さ15cm・日本製）"
+    asin: "B0GYSJD3ZB"
+    image: "https://m.media-amazon.com/images/I/71pGO482qhL._AC_SL200_.jpg"
+    note: "側面のスリットから排水・通気できる5号鉢。評価★4.5・レビュー82件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。容量1.7L・ポリプロピレン製（商品ページの表示）"
+    price: "¥1,420"
   - title: "ハイポネックス 錠剤肥料 観葉植物用 約70錠"
     asin: "B006LWGFBO"
     price: "¥577"
@@ -147,10 +146,7 @@ siblings:
 
 ### 推奨肥料と使い方
 
-**液体肥料**（ハイポネックス専用液肥 観葉植物用）: 水で500〜1000倍に希釈し、水やりの代わりに月2〜3回施用。窒素(N)分が高い観葉植物専用タイプが葉色の維持に効果的。
-
-</a>
-</div>
+**液体肥料**（ハイポネックス原液など）: 観葉植物には水で500倍に希釈し（メーカーの表示）、水やりの代わりに月2〜3回施用。以前あった観葉植物専用の「専用液肥 観葉植物用」は2024年に生産終了しています。
 
 ---
 

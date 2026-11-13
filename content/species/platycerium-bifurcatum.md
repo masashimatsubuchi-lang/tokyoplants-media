@@ -28,11 +28,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
     note: "ビフルカツムの板付け・鉢植えどちらにも使える長繊維水苔。★4.3・35件・残り18点・出荷元Amazon（2026-10-27 商品ページ確認）"
     price: "¥2,180"
-  - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
-    asin: "B0CG35V5CD"
-    image: "https://m.media-amazon.com/images/I/8135YWs3OAL._AC_SL200_.jpg"
-    note: "初めての板付けに扱いやすい天然コルク板。★4.0・229件・残り7点・出荷元Amazon（2026-10-27 商品ページ確認）"
-    price: "¥2,980"
+  - title: "WinJapan コルク樹皮 大サイズ 200×300mm 1枚"
+    asin: "B09ZNKR7TX"
+    image: "https://m.media-amazon.com/images/I/71BoDPRuIlL._AC_SL200_.jpg"
+    note: "初めての板付けに扱いやすい、200×300mmの天然コルク板。評価★4.0・レビュー232件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。サイズは商品ページの「大サイズ 200×300 1枚」の表記"
+    price: "¥1,980"
   - title: "福井金属工芸 石膏ボード用JフックS(シングル) 2個入 耐荷重7kg"
     asin: "B01HRIGMJ0"
     note: "板付け後に壁へ吊るす定番フック。安全耐荷重7kgで賃貸住宅でも使いやすい。★4.0・756件・在庫あり・出荷元Amazon.co.jp（2026-10-27 商品ページ確認）"
@@ -165,7 +165,7 @@ amazonProducts:
 
 ### 板付け vs 鉢植え vs 苔玉
 
-**板付け：** コルク板・焼き杉板・ヘゴ板などに水苔を盛り、株を固定する方法。通気性が最も良く、ビカクシダ本来の着生形態に近い。壁掛けにすればスペースも取らない。ただし乾燥が速いため、夏場は水やり頻度が上がる。板は凹凸のある[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22)のような天然素材だと根が活着しやすく、壁に掛ける際は石膏ボード用の[Jフック](https://www.amazon.co.jp/dp/B01HRIGMJ0?tag=tokyoplants0f-22)があると賃貸住宅でも設置しやすい。板の比較は[板付け板・コルク4選](/review/platycerium-mounting-board-cork)を参照。
+**板付け：** コルク板・焼き杉板・ヘゴ板などに水苔を盛り、株を固定する方法。通気性が最も良く、ビカクシダ本来の着生形態に近い。壁掛けにすればスペースも取らない。ただし乾燥が速いため、夏場は水やり頻度が上がる。板は凹凸のある[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B09ZNKR7TX?tag=tokyoplants0f-22)のような天然素材だと根が活着しやすく、壁に掛ける際は石膏ボード用の[Jフック](https://www.amazon.co.jp/dp/B01HRIGMJ0?tag=tokyoplants0f-22)があると賃貸住宅でも設置しやすい。板の比較は[板付け板・コルク4選](/review/platycerium-mounting-board-cork)を参照。
 
 **鉢植え：** 素焼き鉢に水苔を詰めて植える方法。板付けより水持ちが良く、水やり頻度を抑えられる。管理のしやすさでは初心者に向いている。ただし鉢底の蒸れに注意が必要。
 

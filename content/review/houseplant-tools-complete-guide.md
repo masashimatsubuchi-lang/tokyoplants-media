@@ -34,10 +34,11 @@ amazonProducts:
     asin: "B0027WPD7O"
     note: "液肥の定番。水やり時に希釈して使用。即効性で成長促進"
     price: "¥503"
-  - title: "住友化学園芸 オルトランDX粒剤 200g"
-    asin: "B004MK7RW8"
-    note: "土に混ぜるだけで浸透移行性。アブラムシ・カイガラムシに"
-    price: "¥891"
+  - title: "KINCHO園芸 ベニカXファインスプレー 420ml"
+    asin: "B003ULEF52"
+    image: "https://m.media-amazon.com/images/I/61sE9NkVEeL._AC_SL200_.jpg"
+    note: "観葉植物のハダニとアブラムシに使えるスプレー。評価★4.3・レビュー4,634件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象）。農薬登録第22506号で、花き類・観葉植物（ばら、花月を除く）の行にハダニ類・アブラムシ類・コナジラミ類などがあり、カイガラムシ類は含まれない（2026-11-13に農薬登録情報で確認）"
+    price: "¥706"
   - title: "HAWS ヘリテイジカン 1L（室内用ジョウロ）"
     asin: "B000UPVBQM"
     note: "英国老舗ブランドの室内用ジョウロ。細口ノズルで根元に正確に水やり"
@@ -81,7 +82,7 @@ amazonProducts:
 | 土 | 観葉植物用培養土 | 赤玉土・パーライト | カスタム配合 |
 | 水やり | 細口ジョウロ | 土壌水分計 | 底面給水トレー |
 | 肥料 | 液肥（ハイポネックス） | 緩効性粒剤（マグァンプ） | リキダス |
-| 虫対策 | オルトランDX | ベニカXスプレー | 粘着シート |
+| 虫対策 | 新しい株の隔離・葉水 | ベニカXファインスプレー | 粘着シート |
 | 環境管理 | 温湿度計 | サーキュレーター | タイマーコンセント |
 | 光 | — | クリップライト | 植物育成ライト |
 
@@ -195,16 +196,18 @@ HAWS（ホーズ）はイギリスのジョウロ専門メーカーで、創業1
 
 ### なぜ室内の植物に虫がつくのか
 
-観葉植物につく害虫の多くは、**新しく購入した植物の土や葉から持ち込まれます**。スーパーや植物ショップで購入した時点で、目には見えない卵や幼虫がすでに存在していることが珍しくありません。購入後すぐに**予防的な土の処理と薬剤の施用**を行うことが、室内への害虫拡散を防ぐ最も有効な方法です。
+観葉植物につく害虫の多くは、**新しく購入した植物の土や葉から持ち込まれます**。スーパーや植物ショップで購入した時点で、目には見えない卵や幼虫がすでに存在していることが珍しくありません。購入後は**2週間ほど他の株から離して置き、葉の裏や土の表面を観察する**ことが、室内への害虫拡散を防ぐ最も確実な方法です。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B004MK7RW8?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B004MK7RW8.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">住友化学園芸 オルトランDX粒剤 200g</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B003ULEF52?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/61sE9NkVEeL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">KINCHO園芸 ベニカXファインスプレー 420ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
-オルトランDXは「浸透移行性殺虫剤」です。土に混ぜ込むと根から吸収され、植物全体（茎・葉・汁液）に成分が移行します。これを食べたり吸汁したりした害虫が駆除されるしくみです。植え替え時に土へ混ぜ込むだけで約2〜3ヶ月効果が持続するため、**予防目的で使うのが最も効果的**。
+虫を見つけたときに1本あると安心なのが、ベニカXファインスプレーです。農薬は「どの作物のどの虫に使えるか」が登録で決まっていて、この製品は**花き類・観葉植物のハダニ類・アブラムシ類・コナジラミ類**などに登録があります（農薬登録第22506号）。一方で**カイガラムシ類は観葉植物では適用外**なので、歯ブラシや綿棒でこすり落とすのが基本です。
+
+よく「植え替え時に混ぜておく予防薬」として紹介されるオルトランDX粒剤は、花き類・観葉植物の登録が**アブラムシ類だけ**で、使い方も「発生初期に株元へまく」と決められています。コバエやカイガラムシの予防に土へ混ぜ込む使い方は、ラベルの範囲から外れます。
 
 ### 早期発見のコツ
 
@@ -314,7 +317,7 @@ NEO AMATERAS LED 20W はRa97・高PPFDを両立した国内最高水準の育成
 
 - **スリット鉢**（排水性・通気性の確保）
 - **排水性の高い培養土**（根腐れ防止）
-- **オルトランDX**（購入時の害虫予防）
+- **ベニカXファインスプレー**（ハダニ・アブラムシを見つけたときに）
 - **液体肥料（ハイポネックス）**（成長期の栄養補給）
 
 この4点だけで、観葉植物の失敗原因のうち大部分（根腐れ・害虫・栄養不足）に対処できます。

@@ -14,9 +14,11 @@ relatedSlugs:
   - "review/houseplant-pest-control-tools"
   - "guide/houseplant-pests-identification-chart"
 amazonProducts:
-  - title: "フマキラー カダンセーフ 1000ml"
-    asin: "B076CR3NC4"
-    note: "食品由来成分の殺虫殺菌剤。低刺激でクローラー期の予防処理に使いやすい"
+  - title: "KINCHO園芸 カイガラムシエアゾール 480ml"
+    asin: "B00PVB5GTI"
+    image: "https://m.media-amazon.com/images/I/71UpEiZUvgL._AC_SL200_.jpg"
+    note: "観葉植物のカイガラムシに使える数少ないスプレー。評価★4.0・レビュー1,641件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象）。農薬登録第23518号で、作物名「花き類・観葉植物」の適用害虫にカイガラムシ類があることを2026-11-13に農薬登録情報で確認"
+    price: "¥782"
 ---
 
 茎や葉柄に小さな茶色い突起がつき、触っても動かない。葉や床がベタつき、黒いすすのような汚れが出る。これらはカイガラムシ被害の代表症状です。カイガラムシは発見が遅れると株全体の生育を長期間阻害し、見た目の悪化だけでなく二次障害（すす病）を招きます。
@@ -63,20 +65,22 @@ amazonProducts:
 
 ### 4. 薬剤処理を複数回で設計する
 
-ラベル準拠で適用可能な薬剤を使い、5〜7日間隔で複数回処理します。新規孵化個体への追撃を想定し、単回で終えない運用が必要です。
+ラベル準拠で適用可能な薬剤を使い、ラベルの回数の範囲で、間隔を空けて複数回処理します。新規孵化個体への追撃を想定し、単回で終えない運用が必要です。
 
-カイガラムシは成虫になると殻や蝋質に覆われ、一般的な浸透移行性の薬剤が効きにくくなります。そこで有効なのが物理的に窒息させるタイプの薬剤です。マシン油乳剤は害虫の呼吸孔を油膜で塞いで駆除する仕組みで、殻に守られた成虫にも効果が期待できます（Amazonのレビュー評価が確認できなかったため、購入リンクの掲載は見送っています）。ただし新芽の展開を阻害するおそれがあるため、使用は休眠期（冬季）が基本です。
+ここで注意したいのが「観葉植物に使える薬剤」の少なさです。農薬は作物と害虫の組み合わせごとに使える範囲が決まっていて、2026-11-13に農林水産省の農薬登録情報提供システムで確認した範囲では、**花き類・観葉植物のカイガラムシ類に登録のある家庭向け製品はカイガラムシエアゾール（KINCHO園芸・登録第23518号）**です。
 
-孵化直後の移動幼虫（クローラー）期には、食品由来成分でできたカダンセーフのような低刺激タイプのスプレーも選択肢になります。膜で虫体を覆って駆除する仕組みで、ペットや小さな子供がいる家庭でも使いやすいのが利点です。
+カイガラムシ退治の定番として紹介されるマシン油乳剤は、確認できた製品の登録が樹木類・果樹などで、花き類・観葉植物の行はありません。食品成分のカダンセーフ（登録第20924号）も、花き類・観葉植物の登録はアブラムシ類・ハダニ類・コナジラミ類などで、カイガラムシ類は含まれません。ベニカXファインスプレーも、カイガラムシ類の登録は樹木類などの行だけです。
+
+カイガラムシエアゾールも、殻や蝋に覆われた成虫には効きにくいため、孵化直後の移動幼虫（クローラー）を狙って使い、成虫は物理除去で落とすのが基本です。
 
 <div style="margin:1.5rem 0;border:1px solid #fbbf24;border-radius:1rem;overflow:hidden;background:linear-gradient(135deg,#fffbeb,#fff)">
-<a href="https://www.amazon.co.jp/dp/B076CR3NC4?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
-<img src="https://m.media-amazon.com/images/P/B076CR3NC4.01._SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
-<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">フマキラー カダンセーフ 1000ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
+<a href="https://www.amazon.co.jp/dp/B00PVB5GTI?tag=tokyoplants0f-22" target="_blank" rel="sponsored noopener noreferrer" style="display:flex;align-items:center;gap:1rem;padding:1rem 1.25rem;text-decoration:none;color:inherit">
+<img src="https://m.media-amazon.com/images/I/71UpEiZUvgL._AC_SL160_.jpg" alt="" style="width:80px;height:80px;object-fit:contain;border-radius:0.5rem;flex-shrink:0;background:#fffbeb" loading="lazy" />
+<div><p style="margin:0;font-weight:700;font-size:15px;color:#92400e">KINCHO園芸 カイガラムシエアゾール 480ml</p><p style="margin:4px 0 0;font-size:12px;color:#78716c">Amazon で見る →</p></div>
 </a>
 </div>
 
-浸透移行性のオルトランDXやベニカXファインスプレーなど、他の害虫にも併用しやすい薬剤との使い分けは[観葉植物の虫対策グッズおすすめ5選](https://media.tokyoplants.com/review/houseplant-pest-control-tools)で詳しく比較しています。
+オルトランDX粒剤（観葉植物ではアブラムシ類のみ）やベニカXファインスプレー（観葉植物ではハダニ類・アブラムシ類など）といった、カイガラムシ以外の虫に使う薬剤との使い分けは[観葉植物の虫対策グッズおすすめ5選](https://media.tokyoplants.com/review/houseplant-pest-control-tools)で詳しく比較しています。
 
 ### 5. 2週間の重点監視を行う
 

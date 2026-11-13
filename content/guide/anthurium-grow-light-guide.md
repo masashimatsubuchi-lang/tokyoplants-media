@@ -27,7 +27,7 @@ amazonProducts:
   - title: "BRIM FLORA クリップ式 植物育成ライト 26W"
     asin: "B0CLD6QSDD"
     image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
-    note: "色温度4000〜4500K・10段階調光・4/8/12時間タイマー付き。1〜2鉢への補光入門に。評価★4.3・レビュー944件（2026-09-27 Amazon直接確認・在庫あり・Prime対象）"
+    note: "1〜2鉢に光を足す入門向けのクリップ式ライト。評価★4.3・レビュー1,004件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。色温度4000〜4500K、10段階の調光と、3・9・12時間で自動消灯するタイマー付き（商品ページの説明欄の表示）"
     price: "¥4,780"
   - title: "BRIM SOL 24W 植物育成ライト（E26口金）"
     asin: "B0B3M47RQJ"

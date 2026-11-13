@@ -27,11 +27,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/71a4phytQzL._AC_SL200_.jpg"
     price: "¥1,670"
     note: "根腐れ防止材として鉢底に敷ける国産天然ゼオライト。評価★4.4・レビュー70件（2026-09-28 Amazon直接確認・在庫あり）"
-  - title: "ITANSE スリット鉢 7号 3個セット"
-    asin: "B08CXB5KTH"
-    image: "https://m.media-amazon.com/images/I/41On0ibrPcL._AC_SL200_.jpg"
-    price: "¥2,880"
-    note: "側面スリットで鉢内の通気を確保し、過湿と根のサークリングを防ぐ。評価★4.2・レビュー83件（2026-09-28 Amazon直接確認・在庫あり）"
+  - title: "三晃物産 すくすくいい根ポット スリット鉢 5号 5個（直径15cm×高さ15cm・日本製）"
+    asin: "B0GYSJD3ZB"
+    image: "https://m.media-amazon.com/images/I/71pGO482qhL._AC_SL200_.jpg"
+    note: "側面のスリットで鉢内の通気を確保し、過湿を防ぐ5号鉢。評価★4.5・レビュー82件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。容量1.7L・ポリプロピレン製（商品ページの表示）"
+    price: "¥1,420"
 ---
 
 「アロカシアの葉が突然黄色くなった」「土がいつまでも乾かない」——アロカシアは観葉植物のなかでも特に根腐れを起こしやすい植物です。ただし、根腐れは避けられない宿命ではありません。原因と仕組みを理解すれば、対処も予防もできます。

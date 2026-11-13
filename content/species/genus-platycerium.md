@@ -30,11 +30,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SL200_.jpg"
     note: "ビカクシダの板付け・仕立て直しに使う長繊維の水苔。★4.3・35件・残り18点・出荷元Amazon（2026-10-27 商品ページ確認）。tokyoplantsの水苔選びの考え方は「水苔おすすめ5選」で解説"
     price: "¥2,180"
-  - title: "WinJapan コルク樹皮 特大300×400mm 1枚"
-    asin: "B0CG35V5CD"
-    image: "https://m.media-amazon.com/images/I/8135YWs3OAL._AC_SL200_.jpg"
-    note: "初めての板付けに使いやすい天然コルク板。★4.0・229件・残り7点・出荷元Amazon（2026-10-27 商品ページ確認）"
-    price: "¥2,980"
+  - title: "WinJapan コルク樹皮 大サイズ 200×300mm 1枚"
+    asin: "B09ZNKR7TX"
+    image: "https://m.media-amazon.com/images/I/71BoDPRuIlL._AC_SL200_.jpg"
+    note: "初めての板付けに使いやすい、200×300mmの天然コルク板。評価★4.0・レビュー232件（2026-11-13にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。サイズは商品ページの「大サイズ 200×300 1枚」の表記"
+    price: "¥1,980"
   - title: "福井金属工芸 石膏ボード用JフックS(シングル) 2個入 耐荷重7kg"
     asin: "B01HRIGMJ0"
     note: "板付け後に壁へ吊るす定番フック。安全耐荷重7kgで賃貸住宅でも使いやすい。★4.0・756件・在庫あり・出荷元Amazon.co.jp（2026-10-27 商品ページ確認）"
@@ -209,7 +209,7 @@ amazonProducts:
 
 ### 板付けに使う資材の選び方
 
-板付けの出来を左右するのは、株そのものよりも水苔と板の質であることが多い。水苔は繊維の長さで扱いやすさが変わるため、初めての板付けにはAAA以上の長繊維タイプの[水苔](https://www.amazon.co.jp/dp/B0CY2VJ3D3?tag=tokyoplants0f-22)が失敗しにくい。板は天然コルク板が通気性・保水性・見た目のバランスに優れ、[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B0CG35V5CD?tag=tokyoplants0f-22)のような凹凸のある天然素材だと根が活着しやすい。仕立てた板を壁に飾る段階では、石膏ボード用の[Jフック](https://www.amazon.co.jp/dp/B01HRIGMJ0?tag=tokyoplants0f-22)のような賃貸でも使えるピンフックがあると設置がスムーズになる。水苔の詳しい選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、板の比較は[板付け板・コルク4選](/review/platycerium-mounting-board-cork)で解説している。
+板付けの出来を左右するのは、株そのものよりも水苔と板の質であることが多い。水苔は繊維の長さで扱いやすさが変わるため、初めての板付けにはAAA以上の長繊維タイプの[水苔](https://www.amazon.co.jp/dp/B0CY2VJ3D3?tag=tokyoplants0f-22)が失敗しにくい。板は天然コルク板が通気性・保水性・見た目のバランスに優れ、[WinJapanのコルク樹皮](https://www.amazon.co.jp/dp/B09ZNKR7TX?tag=tokyoplants0f-22)のような凹凸のある天然素材だと根が活着しやすい。仕立てた板を壁に飾る段階では、石膏ボード用の[Jフック](https://www.amazon.co.jp/dp/B01HRIGMJ0?tag=tokyoplants0f-22)のような賃貸でも使えるピンフックがあると設置がスムーズになる。水苔の詳しい選び方は[水苔おすすめ5選](/soil/sphagnum-moss-recommended)、板の比較は[板付け板・コルク4選](/review/platycerium-mounting-board-cork)で解説している。
 
 <!-- character-note character="kuro" type="tip" -->
 板付けの資材は「安いものでまず試す」より「繊維が長い水苔・凹凸のある天然コルク」を選んだほうが、根の活着が早く結果的に失敗が少ないよ。最初の一式にこそ品質を優先したい。
