@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1788437063440-a6623dac36ac?w=1200&q=80
 title: "観葉植物417種の原産地・適温・湿度一覧｜Green Collection図鑑"
 description: "tokyoplants運営元が開発する観葉植物管理アプリ「Green Collection」の植物図鑑データベースから、観葉植物417種の原産地・適正温度・適正湿度を学名順に一覧化。栽培管理の目安として横断的に比較できるリファレンス記事です。"
 date: "2026-09-09"
-updated: "2026-10-27"
+updated: "2026-11-13"
 category: "research"
 tags: ["観葉植物", "原産地", "耐寒温度", "データベース", "Green Collection"]
 author: "tokyoplants 編集部"
@@ -137,10 +137,10 @@ amazonProducts:
 | *Anthurium dressleri* | アンスリウム・ドレスレリ | パナマ、コロンビア | 20〜28℃ | 60〜80% |
 | *Anthurium faustomirandae* | アンスリウム・ファウストミランダエ | メキシコ | 20〜28℃ | 60〜80% |
 | *Anthurium forgetii* | アンスリウム・フォルゲティ | コロンビア原産 | 20〜28℃ | 60〜70% |
-| *Anthurium hookeri* | アンスリウム・フーケリー | 中南米原産 | 18〜28℃ | 60〜75% |
+| *Anthurium hookeri* | アンスリウム・フーケリー | 小アンティル諸島（セントルシアなど）〜南米北部（ベネズエラ・ギアナ地方） | 18〜28℃ | 60〜75% |
 | *Anthurium luxurians* | アンスリウム・ルクスリアンス | コロンビア原産 | 20〜28℃ | 70〜90% |
 | *Anthurium magnificum* | アンスリウム・マグニフィカム | コロンビア原産 | 20〜28℃ | 70〜80% |
-| *Anthurium papillilaminum* | アンスリウム・パピリラミナム | パナマ原産 | 20〜28℃ | 65〜80% |
+| *Anthurium papillilaminum* | アンスリウム・パピリラミナム | パナマ原産 | 20〜28℃ | 60〜80% |
 | *Anthurium pedatoradiatum* | アンスリウム・ペダトラジアタム | メキシコ原産 | 15〜26℃ | 60〜80% |
 | *Anthurium plowmanii* | アンスリウム・プロウマニー | 南米（ペルー、ボリビア、ブラジル） | 20〜28℃ | 50〜70% |
 | *Anthurium regale* | アンスリウム・レガレ | ペルー原産 | 20〜28℃ | 60〜80% |
@@ -150,7 +150,7 @@ amazonProducts:
 | *Anthurium veitchii* | アンスリウム・ベイチー（ヴェイチー） | コロンビア原産 | 18〜30℃ | 60〜80% |
 | *Anthurium vittariifolium* | アンスリウム・ビッタリフォリウム | エクアドル原産 | 20〜28℃ | 65〜80% |
 | *Anthurium warocqueanum* | アンスリウム・ワロクアーナム | コロンビア（雲霧林） | 18〜25℃ | 80%以上 |
-| *Anthurium wendlingeri* | アンスリウム・ウェンドリンゲリ | エクアドル | 20〜28℃ | 60〜80% |
+| *Anthurium wendlingeri* | アンスリウム・ウェンドリンゲリ | ニカラグア南東部〜コロンビア北西部（コスタリカ・パナマを含む） | 20〜28℃ | 60〜80% |
 | *Asparagus aethiopicus 'Myersii'* | アスパラガス・マイヤーシー（フォックステールファーン） | 南アフリカ | 15〜25℃ | 40〜60% |
 | *Asparagus aethiopicus 'Sprengeri'* | アスパラガス・スプレンゲリー | 南アフリカ | 15〜25℃ | 40〜60% |
 | *Asparagus setaceus* | アスパラガス・セタケウス（アスパラガスファーン） | 南アフリカ | 15〜25℃ | 40〜60% |
@@ -263,13 +263,13 @@ amazonProducts:
 | 学名 | 和名・流通名 | 原産地 | 適正温度 | 適正湿度 |
 |------|-------------|--------|---------|---------|
 | *Epipremnum amplissimum* | エピプレムナム・アンプリッシマム | フィリピン原産 | 18〜28℃ | 55〜70% |
-| *Epipremnum aureum* | ポトス | フランス領ポリネシア（ソロモン諸島原産） | 18〜30℃ | 40〜60% |
-| *Epipremnum aureum 'Enjoy'* | ポトス・エンジョイ | 交配園芸品種（原種はソロモン諸島） | 18〜28℃ | 45〜60% |
-| *Epipremnum aureum 'Glacier'* | エピプレムナム・オーレウム・グレイシャー | ソロモン諸島原産種の園芸品種 | 15〜28℃ | 40〜60% |
-| *Epipremnum aureum 'Global Green'* | ポトス・グローバルグリーン | 交配園芸品種（原種はソロモン諸島） | 18〜28℃ | 45〜60% |
-| *Epipremnum aureum 'Jade'* | エピプレムナム・オーレウム・ジェイド | ソロモン諸島原産種の園芸品種 | 15〜28℃ | 40〜60% |
-| *Epipremnum aureum 'Marble Queen'* | ポトス・マーブルクイーン | 交配園芸品種（原種はソロモン諸島） | 18〜28℃ | 45〜60% |
-| *Epipremnum aureum 'Neon'* | エピプレムナム・オーレウム・ネオン | ソロモン諸島原産種の園芸品種 | 15〜28℃ | 40〜60% |
+| *Epipremnum aureum* | ポトス | 仏領ポリネシア・ソシエテ諸島のモーレア島 | 18〜30℃ | 40〜60% |
+| *Epipremnum aureum 'Enjoy'* | ポトス・エンジョイ | 園芸品種（マーブルクイーン系の枝変わり。原種はモーレア島） | 18〜28℃ | 45〜60% |
+| *Epipremnum aureum 'Glacier'* | エピプレムナム・オーレウム・グレイシャー | モーレア島原産種の園芸品種 | 15〜28℃ | 40〜60% |
+| *Epipremnum aureum 'Global Green'* | ポトス・グローバルグリーン | 園芸品種（原種はモーレア島） | 18〜28℃ | 45〜60% |
+| *Epipremnum aureum 'Jade'* | エピプレムナム・オーレウム・ジェイド | モーレア島原産種の園芸品種 | 15〜28℃ | 40〜60% |
+| *Epipremnum aureum 'Marble Queen'* | ポトス・マーブルクイーン | 園芸品種（原種はモーレア島） | 18〜28℃ | 45〜60% |
+| *Epipremnum aureum 'Neon'* | エピプレムナム・オーレウム・ネオン | モーレア島原産種の園芸品種 | 15〜28℃ | 40〜60% |
 | *Epipremnum pinnatum* | エピプレムナム・ピナツム | 東南アジア原産 | 18〜28℃ | 50〜70% |
 | *Epipremnum pinnatum 'Cebu Blue'* | エピプレムナム・セブブルー | フィリピン・セブ島原産 | 18〜28℃ | 50〜70% |
 | *Epipremnum spp.* | エピプレムナム（種類不明） | 東南アジア〜太平洋諸島（種により異なる） | 18〜30℃ | 40〜60% |

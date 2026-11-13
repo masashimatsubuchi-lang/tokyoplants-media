@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1639200551412-eae0f4d77290?w=800&q=80"
 title: "観葉植物の耐寒性ランキング｜耐寒温度一覧"
 description: "観葉植物37種の耐寒温度を0℃台から18℃まで一覧化。寒さに強い順に並べ、室温別にどれから室内へ入れるかの判断基準と冬越し管理の基本をまとめました。"
 date: "2026-09-07"
-updated: "2026-11-04"
+updated: "2026-11-13"
 category: "guide"
 tags: ["冬越し", "耐寒性", "温度管理", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -110,7 +110,7 @@ amazonProducts:
 | [ポトス](/species/pothos-epipremnum-aureum) | 8℃ | 15℃以上 | 寒さで葉が黄変することがある |
 | [ドラセナ・マージナータ](/species/dracaena-marginata) | 8℃ | 10℃以上 | マッサンゲアナは10℃推奨 |
 | [サンスベリア](/species/sansevieria) | 10℃ | 15℃以上 | 断水気味なら5℃程度まで耐える |
-| [ザミオクルカス](/species/zamioculcas-zamiifolia) | 10℃ | 15℃以上 | 塊茎があるので乾かし気味で越冬 |
+| [ザミオクルカス](/species/zamioculcas-zamiifolia) | 10℃ | 15℃以上 | 地下の根茎に水を蓄えるので乾かし気味で越冬 |
 | [スパティフィラム](/species/spathiphyllum-wallisii) | 10℃ | 15℃以上 | 低温で花が上がらなくなる |
 | [テーブルヤシ](/species/chamaedorea-elegans) | 10℃ | 15℃以上 | 耐陰性は高いが寒さは標準 |
 | [ペペロミア](/species/genus-peperomia) | 10℃ | 15℃以上 | 多肉質の種は過湿に特に注意 |
@@ -123,7 +123,7 @@ amazonProducts:
 | [スキンダプサス](/species/scindapsus-pictus) | 13℃ | 15℃以上 | トレビー系は15℃以上が望ましい |
 | [シンゴニウム](/species/syngonium-podophyllum) | 13℃ | 15℃以上 | — |
 | [アロカシア](/guide/alocasia-winter-care) | 15℃ | 15〜18℃ | 10℃を割ると落葉・休眠に入る |
-| [アグラオネマ](/species/genus-aglaonema) | 15℃ | 18℃以上 | ピクタムなど斑の美しい種ほど弱い |
+| [アグラオネマ](/species/genus-aglaonema) | 15℃ | 15℃以上 | 品種差が大きく、シルバークイーンは12.8℃・24時間で葉を傷める（[冬越しの記事](/guide/aglaonema-winter-care)） |
 | [ラフィドフォラ・テトラスペルマ](/species/rhaphidophora-tetrasperma) | 15℃ | 18℃以上 | 成長が速いぶん低温で止まりやすい |
 | [ビカクシダ・リドレイ](/species/platycerium-ridleyi) | 15℃ | 18℃以上 | ビフルカツムと同じ感覚で管理しない |
 | [アロカシア・アズラニー](/species/alocasia-azlanii) | **18℃** | 20℃以上 | 本記事で最も寒さに弱い。加温ケースが安心 |
