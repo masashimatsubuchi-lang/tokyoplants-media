@@ -13,7 +13,16 @@ const nextConfig: NextConfig = {
     ],
   },
   async headers() {
+    // 2026-11-15: public/ の画像は既定で max-age=0 になり、記事を開くたびにブラウザが
+    // 1枚ずつサーバーへ確認しに来ていた（Vercelのリクエスト数に毎回加算される）。
+    // ブラウザに7日間保存させる。同じファイル名のまま画像を差し替えると最大7日は古い画像が
+    // 見えるので、差し替えるときはファイル名を変える。
+    const weekCache = [{ key: "Cache-Control", value: "public, max-age=604800, stale-while-revalidate=86400" }];
     return [
+      { source: "/images/:path*", headers: weekCache },
+      { source: "/characters/:path*", headers: weekCache },
+      { source: "/videos/:path*", headers: weekCache },
+      // /shop/ は BASE ショップが読み込む pages.js があり、更新をすぐ反映させたいので対象外
       // iOSのUniversal Link（Green Collectionのともだち招待）で必須。
       // Appleのクローラは Content-Type: application/json 以外を受け付けず、
       // 拡張子なしファイルはNextの静的配信だと text/plain になってしまうため明示する。
