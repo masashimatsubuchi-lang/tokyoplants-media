@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/Link";
 import { notFound } from "next/navigation";
 import { DEFAULT_AUTHOR_SLUG, getAllAuthors, getAuthorBySlug } from "@/lib/authors";
 import { getPostsByAuthor } from "@/lib/posts";

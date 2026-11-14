@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Link";
 
 const PAGE_TITLE = "tokyoplants MEDIAについて";
 const PAGE_DESCRIPTION =

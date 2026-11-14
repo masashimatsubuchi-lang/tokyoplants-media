@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Link";
 import {
   RECOMMENDED_OWN_ITEMS,
   RECOMMENDED_SECTIONS,

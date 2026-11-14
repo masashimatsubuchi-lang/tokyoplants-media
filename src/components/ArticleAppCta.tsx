@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/Link";
 
 // 記事のfrontmatterの appCta に一言を書いた記事だけに出す。
 // EC・アフィリエイト導線と競合しないよう、soil / review / 育成ライト系には設置しない。

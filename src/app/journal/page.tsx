@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Link";
 import ArticleCard from "@/components/ArticleCard";
 import { resolveRelatedPosts } from "@/lib/posts";
 import { JOURNAL_APPROVED, JOURNAL_SECTIONS } from "@/lib/journalCuration";

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
+import Link from "@/components/Link";
 import { PostMeta } from "@/lib/posts";
 import { Category } from "@/lib/categories";
 import ArticleCard from "./ArticleCard";

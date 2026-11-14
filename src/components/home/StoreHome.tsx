@@ -1,6 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
-import Link from "next/link";
+import Link from "@/components/Link";
 import { getPostsByCategory, getAllTags, getPostsByTag } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import { getPopularPosts } from "@/lib/popular";

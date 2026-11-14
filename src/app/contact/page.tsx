@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import Link from "next/link";
+import Link from "@/components/Link";
 import ContactForm from "@/components/ContactForm";
 
 const PAGE_TITLE = "お問い合わせ";

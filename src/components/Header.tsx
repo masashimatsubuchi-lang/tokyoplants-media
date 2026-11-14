@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "@/components/Link";
 import { categories } from "@/lib/categories";
 
 export default function Header() {

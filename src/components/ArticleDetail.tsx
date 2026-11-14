@@ -26,7 +26,7 @@ import ArticleAppCta from "./ArticleAppCta";
 import AuthorCard from "./AuthorCard";
 import { getAuthorForPost } from "@/lib/authors";
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/Link";
 import Script from "next/script";
 
 type TocItem = {

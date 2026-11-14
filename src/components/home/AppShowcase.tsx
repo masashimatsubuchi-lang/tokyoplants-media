@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/Link";
 import { useEffect, useRef } from "react";
 
 // トップページのGreen Collection紹介。文言と動画は /app のヒーローと同じものを使う。

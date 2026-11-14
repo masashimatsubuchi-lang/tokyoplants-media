@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import Link from "next/link";
+import Link from "@/components/Link";
 import AppStoreButton from "@/components/AppStoreButton";
 import FeatureVideo from "@/components/FeatureVideo";
 import HeroVideo from "@/components/HeroVideo";
