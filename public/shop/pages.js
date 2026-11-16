@@ -848,6 +848,116 @@
     }, true);
   }
 
+  // ===== 商品ページの検索対策（2026-11-17） =====
+  // 1) テーマ（initJsonLd）が作る Product の構造化データに、評価・送料・返品・説明・SKU を足す。
+  //    評価は BASE の「良い／普通／悪い」を 3／2／1 として、その商品のレビュー全件（ページで隠している「悪い」も含む）で出す。
+  //    隠した評価を除いて計算すると Google のガイドライン違反になるため、必ず全件で数える。
+  //    送料はページの「※送料は¥800です」を読む（¥10,000以上は無料）。返品は特商法の表記どおり「欠陥品以外は不可」。
+  // 2) 関連商品の画像に代替テキスト、中身の無い h1（非表示のコミュニティ見出し）を消す。
+  // 3) 主力商品に「よくある質問」を出す（事実の出典: 商品説明・media の記事）。
+  var ITEM_FAQ = {
+    '99620939': [
+      ['何号の鉢に、どのくらい使いますか？', '植え替えに使う土の量は、5号鉢で約0.9L、6号鉢で約1.5L、7号鉢で約2.5Lが目安です。2Lは5〜6号鉢1つ分、7号以上の鉢や複数の鉢をまとめて植え替えるときは10Lが便利です。'],
+      ['虫は出ませんか？', '有機質（ヤシの繊維・発酵樹皮・ミミズ堆肥・ピートモス）を約7割含むため、無機質が主体の土と比べると、コバエなどが出る可能性はあります。受け皿に水をためない、表面が乾いてから水をやる、といった管理でリスクを下げられます。虫をできるだけ避けたい場合は、無機質の <a href="' + base + '/items/142692278">HYDRO MINERAL</a> もご検討ください。'],
+      ['肥料は入っていますか？', 'ミミズ堆肥（10%）を配合しており、カルシウム・マグネシウム・カリ・リン酸などの養分を含みます。成長期に生育を早めたいときは、市販の液体肥料を併用してください。'],
+      ['どんな植物に向いていますか？', 'アンスリウム、モンステラ、フィロデンドロンなど、サトイモ科の熱帯植物に向けて配合しています。乾燥を好む多肉植物・塊根植物・サンスベリアや、着生植物のビカクシダには、それぞれ専用の配合の用土をおすすめします。'],
+      ['2Lと10Lの違いは？', '中身は同じです。10Lは2L×5袋分の量を、4袋分の価格（¥4,800）でお求めいただけます。']
+    ],
+    '142692278': [
+      ['ふつうの鉢でも使えますか？', '使えます。穴のあいた鉢では、水はけのよい無機用土として使えます。いちばん安定して育てられるのは、鉢の下に水をためるハイドロカルチャーや底面給水鉢です。'],
+      ['何号の鉢に、どのくらい使いますか？', '鉢に入れる量は、5号鉢で約0.9L、6号鉢で約1.5Lが目安です。2Lで5〜6号鉢1つ分になります。'],
+      ['肥料は必要ですか？', '緩効性肥料（オスモコート・エグザクト）を0.5%配合しているので、植え替えから約8〜9ヶ月は水だけで育てられます。'],
+      ['虫は出にくいですか？', '富士山の溶岩石とゼオライトだけの無機用土で、虫のエサになる有機質を含まないため、土に比べて虫が発生しにくくなっています。'],
+      ['石の大きさは？', '約3〜5mmです。アロカシア、モンステラ、フィロデンドロンなどの植え込みに使いやすい粒の大きさです。']
+    ]
+  };
+  function itemFaq(id, detail) {
+    var list = ITEM_FAQ[id];
+    var acc = detail.querySelector('.tp-acc');
+    if (!list || !acc || detail.querySelector('.tp-faq')) return;
+    var box = document.createElement('div');
+    box.className = 'tp-ins tp-faq';
+    box.innerHTML = '<section><h2>よくある質問</h2><div class="tp-acc">' + list.map(function (qa) {
+      return '<details><summary>' + esc(qa[0]) + '</summary><div>' + qa[1] + '</div></details>';
+    }).join('') + '</div></section>';
+    acc.parentNode.insertBefore(box, acc.nextSibling);
+  }
+  function itemAlts(detail) {
+    document.querySelectorAll('.item-list-item').forEach(function (li) {
+      var img = li.querySelector('img');
+      if (!img || img.alt) return;
+      var name = (li.querySelector('.name, .title, .item-title') || {}).textContent;
+      if (name) img.alt = name.trim().slice(0, 120);
+    });
+    document.querySelectorAll('h1').forEach(function (h) { if (!h.textContent.trim()) h.remove(); });
+  }
+  function itemReviews(id, done) {
+    var count = { g: 0, n: 0, b: 0 };
+    (function page(p) {
+      fetch(base + '/items/' + id + '/reviews?format=item&score=&page=' + p, { credentials: 'same-origin' })
+        .then(function (r) { return r.ok ? r.text() : ''; })
+        .then(function (html) {
+          var rows = html.split('review01__listChild').slice(1);
+          rows.forEach(function (c) {
+            if (/ico--good/.test(c)) count.g++;
+            else if (/ico--bad/.test(c)) count.b++;
+            else if (/ico--normal/.test(c)) count.n++;
+          });
+          if (rows.length >= 20 && p < 10) page(p + 1); else done(count);
+        })
+        .catch(function () { done(count); });
+    })(1);
+  }
+  function itemSeo() {
+    var id = (path.match(/^\/items\/(\d+)/) || [])[1];
+    var detail = document.querySelector('.item-detail-inner');
+    if (!id || !detail) return;
+    itemAlts(detail);
+    itemFaq(id, detail);
+    (function wait(t) {
+      var ld = Array.prototype.find.call(document.querySelectorAll('script[type="application/ld+json"]'), function (s) { return /"@type":"Product"/.test(s.textContent); });
+      var ship = Array.prototype.find.call(document.querySelectorAll('.item-detail p.attention, p.attention'), function (p) { return /送料は¥|国内送料は無料/.test(p.textContent); });
+      if ((!ld || !ship) && t < 50) return setTimeout(function () { wait(t + 1); }, 100);
+      if (!ld) return;
+      var data;
+      try { data = JSON.parse(ld.textContent); } catch (e) { return; }
+      if (ld.dataset.tpSeo) return;
+      ld.dataset.tpSeo = '1';
+      var desc = (document.querySelector('meta[name="description"]') || {}).content || '';
+      if (desc) data.description = desc.slice(0, 500);
+      data.sku = id;
+      data.productID = id;
+      var offer = data.offers || {};
+      var price = Number(offer.price) || 0;
+      offer.itemCondition = 'https://schema.org/NewCondition';
+      offer.seller = { '@type': 'Organization', name: 'tokyoplants' };
+      var fee = price >= 10000 ? 0 : ship && (ship.textContent.match(/送料は¥([\d,]+)/) || [])[1];
+      if (fee !== undefined && fee !== null && fee !== '') {
+        offer.shippingDetails = {
+          '@type': 'OfferShippingDetails',
+          shippingRate: { '@type': 'MonetaryAmount', value: Number(String(fee).replace(/,/g, '')), currency: 'JPY' },
+          shippingDestination: { '@type': 'DefinedRegion', addressCountry: 'JP' }
+        };
+      }
+      offer.hasMerchantReturnPolicy = {
+        '@type': 'MerchantReturnPolicy', applicableCountry: 'JP',
+        returnPolicyCategory: 'https://schema.org/MerchantReturnNotPermitted'
+      };
+      data.offers = offer;
+      itemReviews(id, function (c) {
+        var total = c.g + c.n + c.b;
+        if (total > 0) {
+          data.aggregateRating = {
+            '@type': 'AggregateRating', ratingValue: Math.round((3 * c.g + 2 * c.n + c.b) / total * 100) / 100,
+            bestRating: 3, worstRating: 1, ratingCount: total, reviewCount: total
+          };
+        }
+        ld.textContent = JSON.stringify(data);
+      });
+      ld.textContent = JSON.stringify(data); // 評価の取得に失敗しても、送料・返品は先に入れておく
+    })(0);
+  }
+
   function run() {
     if (path === '/') { pickSocks(); pickSishi(); pickOrder(); topClickTracking(); }
     var style = document.createElement('style');
@@ -866,7 +976,7 @@
     })(0);
     // ソックス・SISHICRAFT: テーマが説明文を節に分け終えてから（.tp-acc ができてから）動かす
     if (/^\/items\/\d+/.test(path)) (function waitSocks(t) {
-      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) { socksPage(); sishiPage(); }
+      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) { socksPage(); sishiPage(); itemSeo(); }
       else setTimeout(function () { waitSocks(t + 1); }, 100);
     })(0);
   }
