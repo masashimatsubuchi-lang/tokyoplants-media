@@ -908,6 +908,7 @@
         .catch(function () { done(count); });
     })(1);
   }
+  var YUPACKET = { '135803882': 1, '164675173': 1, '164953353': 1, '164551101': 1 }; // タオル・タオル3枚セット・ソックス・ギフトバッグ
   function itemSeo() {
     var id = (path.match(/^\/items\/(\d+)/) || [])[1];
     var detail = document.querySelector('.item-detail-inner');
@@ -916,7 +917,7 @@
     itemFaq(id, detail);
     (function wait(t) {
       var ld = Array.prototype.find.call(document.querySelectorAll('script[type="application/ld+json"]'), function (s) { return /"@type":"Product"/.test(s.textContent); });
-      var ship = Array.prototype.find.call(document.querySelectorAll('.item-detail p.attention, p.attention'), function (p) { return /送料は¥|国内送料は無料/.test(p.textContent); });
+      var ship = Array.prototype.find.call(document.querySelectorAll('.item-detail p.attention, p.attention'), function (p) { return /送料/.test(p.textContent) && p.querySelector('b'); });
       if ((!ld || !ship) && t < 50) return setTimeout(function () { wait(t + 1); }, 100);
       if (!ld) return;
       var data;
@@ -931,11 +932,14 @@
       var price = Number(offer.price) || 0;
       offer.itemCondition = 'https://schema.org/NewCondition';
       offer.seller = { '@type': 'Organization', name: 'tokyoplants' };
-      var fee = price >= 10000 ? 0 : ship && (ship.textContent.match(/送料は¥([\d,]+)/) || [])[1];
-      if (fee !== undefined && fee !== null && fee !== '') {
+      // ページの「※送料は<b>¥800</b>です」を読む。読めないとき（Google の描画など）は、案内ページの送料表どおり
+      // ゆうパケットの商品は¥500、それ以外はゆうパックの¥800（どちらも¥10,000以上は無料）
+      var shown = ship && ((ship.querySelector('b') || ship).textContent.match(/[¥￥]\s*([\d,]+)/) || [])[1];
+      var fee = price >= 10000 ? 0 : shown ? Number(shown.replace(/,/g, '')) : (YUPACKET[id] ? 500 : 800);
+      if (fee >= 0) {
         offer.shippingDetails = {
           '@type': 'OfferShippingDetails',
-          shippingRate: { '@type': 'MonetaryAmount', value: Number(String(fee).replace(/,/g, '')), currency: 'JPY' },
+          shippingRate: { '@type': 'MonetaryAmount', value: fee, currency: 'JPY' },
           shippingDestination: { '@type': 'DefinedRegion', addressCountry: 'JP' }
         };
       }
