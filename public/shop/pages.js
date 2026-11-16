@@ -829,8 +829,27 @@
     });
   }
 
+  // TOP のクリック計測（2026-11-17）。STORE のアイコン列と PICK UP のカードは同じ商品に飛ぶものがあり、
+  // 移動先のページビューでは区別できないため、押した場所ごとに別のイベント名で送る。
+  // 送り先はショップの GA4（G-TZ5ML4HS7P、プロパティ 381982667）だけ。BASE 側の測定IDには送らない。
+  // link_url / link_text は GA4 の既定のディメンション（リンク先URL・リンクテキスト）で見られる。
+  function topClickTracking() {
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('.tp-coll a, .tp-pick a.tp-card-link');
+      if (!a || typeof window.gtag !== 'function') return;
+      var icon = a.closest('.tp-coll');
+      var text = icon ? (a.querySelector('span') || a).textContent : (a.getAttribute('aria-label') || '').replace(/を見る$/, '');
+      window.gtag('event', icon ? 'top_icon_click' : 'top_pickup_click', {
+        send_to: 'G-TZ5ML4HS7P',
+        link_url: a.href,
+        link_text: text.trim(),
+        transport_type: 'beacon'
+      });
+    }, true);
+  }
+
   function run() {
-    if (path === '/') { pickSocks(); pickSishi(); pickOrder(); }
+    if (path === '/') { pickSocks(); pickSishi(); pickOrder(); topClickTracking(); }
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
