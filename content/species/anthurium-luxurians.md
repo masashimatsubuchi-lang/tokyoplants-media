@@ -34,10 +34,10 @@ amazonProducts:
     note: "ケース内で弱い気流を作り、蒸れを防ぐ6cmのUSBファン。評価★4.1・レビュー339件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。強・中・弱の3段階で、24時間連続稼働に対応（商品ページの表示）"
     price: "¥1,275"
   - title: "BRIM PANEL A 45W 植物育成パネルライト"
-    asin: "B0CP4BVWMN"
-    image: "https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL200_.jpg"
-    note: "ケースの外から当てる、パネル型の育成ライト。評価★4.5・レビュー372件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥6,795"
+    asin: "B0CP4BWTK7"
+    image: "https://m.media-amazon.com/images/I/71scZtEpbxL._AC_SL200_.jpg"
+    note: "ケースの外から当てる、パネル型の育成ライト（1枚）。評価★4.5・レビュー380件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
+    price: "¥3,946"
 ---
 
 # アンスリウム・ルクスリアンス｜泡立つ葉と湿度管理

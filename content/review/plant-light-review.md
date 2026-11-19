@@ -3,7 +3,7 @@ image: "https://plus.unsplash.com/premium_photo-1663045332703-5027b30ee79c?w=800
 title: "植物育成ライト おすすめ5選｜価格比較つき"
 description: "観葉植物・ビカクシダ向けの育成ライト5機種を価格・PPFD・演色性・電気代で比較。3,426円から14,000円まで、置き場所と株数から選ぶ基準を解説します。"
 date: "2026-02-21"
-updated: "2026-10-22"
+updated: "2026-11-20"
 category: "review"
 tags: ["植物育成ライト", "LED", "レビュー", "室内栽培", "ビカクシダ", "育成ライト"]
 author: "tokyoplants 編集部"
@@ -53,11 +53,11 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/61jt+XByDeL._AC_SL200_.jpg"
     price: "¥14,000"
     note: "★4.8・Prime対象・在庫残りわずか / 電球型・色温度4000-5000K・Ra97（2026-10-22にAmazon商品ページで確認）"
-  - title: "BRIM PANEL A 植物育成パネルライト"
-    asin: "B0CP4BVWMN"
-    image: "https://m.media-amazon.com/images/I/71KvklTOC0L._AC_SL200_.jpg"
-    price: "¥7,386"
-    note: "★4.5・在庫あり・Prime対象 / パネル型・広範囲照射（2026-10-22にAmazon商品ページで確認）"
+  - title: "BRIM PANEL A 45W 植物育成パネルライト（1枚）"
+    asin: "B0CP4BWTK7"
+    image: "https://m.media-amazon.com/images/I/71scZtEpbxL._AC_SL200_.jpg"
+    price: "¥3,946"
+    note: "★4.5・レビュー380件・在庫あり・Prime対象 / パネル型・広範囲照射（2026-11-20にAmazon商品ページで確認）"
   - title: "BRIM SOL 24W 植物育成ライト"
     asin: "B0B3M47RQJ"
     image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
@@ -214,7 +214,7 @@ PPFDは距離に応じて急激に減衰する。メーカー公称値は特定�
 | 照射範囲 | 狭い（1〜2株） | 狭い〜中程度 | 広い（棚全体） |
 | PPFD | 高い（集中照射） | 中程度 | 高い（均一） |
 | 設置の手軽さ | 別途ソケット・スタンドが必要 | クリップで即設置 | 吊り下げ金具が必要 |
-| 価格帯 | 3,400〜14,000円 | 3,000〜8,000円 | 7,400〜30,000円 |
+| 価格帯 | 3,400〜14,000円 | 3,000〜8,000円 | 3,900〜30,000円 |
 | 月間電気代目安 | 186〜223円 | 112〜242円 | 419〜930円 |
 | 向いている人 | 1〜3株に集中的に光を当てたい | 初めて導入する・タイマー重視 | 棚や複数鉢を一括管理したい |
 | 代表製品 | AMATERAS／TSUKUYOMI／BRIM SOL | BRIM FLORA | BRIM PANEL A |
@@ -225,13 +225,13 @@ PPFDは距離に応じて急激に減衰する。メーカー公称値は特定�
 
 ### まず一覧で比べる
 
-価格・性能・ランニングコストを1枚にまとめました。**価格と評価は2026-10-22にAmazon商品ページで確認**（変動するため購入前に最新をご確認ください）。電気代は31円/kWh・1日10時間×30日で算出しています（計算式：W ÷ 1000 × 時間 × 日数 × 31）。
+価格・性能・ランニングコストを1枚にまとめました。**価格と評価は2026-10-22にAmazon商品ページで確認**（BRIM PANEL Aのみ2026-11-20に再確認。変動するため購入前に最新をご確認ください）。電気代は31円/kWh・1日10時間×30日で算出しています（計算式：W ÷ 1000 × 時間 × 日数 × 31）。
 
 | 製品 | タイプ | 価格 | 評価 | 消費電力 | 公称PPFD | 演色性 | 月の電気代 |
 |---|---|---|---|---|---|---|---|
 | [BRIM SOL 24W](https://www.amazon.co.jp/dp/B0B3M47RQJ?tag=tokyoplants0f-22) | 電球型（E26） | **¥3,426** | ★4.4 | 24W | 700（素子直下40cm） | Ra96〜98.5 | 約223円 |
 | [BRIM FLORA](https://www.amazon.co.jp/dp/B0CLD6QSDD?tag=tokyoplants0f-22) | クリップ式 | **¥4,780** | ★4.2 | 26W（3ヘッド） | 非公開 | Ra90 | 約242円 |
-| [BRIM PANEL A](https://www.amazon.co.jp/dp/B0CP4BVWMN?tag=tokyoplants0f-22) | パネル型 | **¥7,386** | ★4.5 | 45W | 非公開 | Ra90〜94 | 約419円 |
+| [BRIM PANEL A](https://www.amazon.co.jp/dp/B0CP4BWTK7?tag=tokyoplants0f-22) | パネル型 | **¥3,946**（1枚） | ★4.5 | 45W | 非公開 | Ra90〜94 | 約419円 |
 | [NEO AMATERAS 20W](https://www.amazon.co.jp/dp/B0BXPKS4S7?tag=tokyoplants0f-22) | 電球型（E26） | **¥14,000** | ★4.7 | 20W | 406（40cm） | Ra97 | 約186円 |
 | [NEO TSUKUYOMI 20W](https://www.amazon.co.jp/dp/B0BZM6X9GW?tag=tokyoplants0f-22) | 電球型（E26） | **¥14,000** | ★4.8 | 20W | 507（40cm） | Ra97 | 約186円 |
 
@@ -302,9 +302,9 @@ BRIM SOLと同シリーズのエントリーモデル。調光機能とタイマ
 **強み**: 広範囲照射で均一性が高い、棚管理との相性がよい、1台で複数株をカバー
 **注意点**: 吊り下げ金具やフックの設置が必要、本体サイズがある程度大きい
 
-**価格**: ¥7,386（45W・★4.5・在庫あり・Prime対象。2026-10-22確認）。電球型を3台買い足すより安く収まることが多い
+**価格**: ¥3,946（45W・1枚・★4.5・在庫あり・Prime対象。2026-11-20確認）。同じ商品ページで選べる2枚セットは¥7,386なので、1枚の値段と取り違えないよう注意。1枚の価格は電球型のSOL 24W（¥3,426）1台と大きく変わらず、ソケットも要らないため、照らしたい株が3つ以上並ぶならパネル1枚のほうが安く収まりやすい
 
-→ [BRIM PANEL A をAmazonで見る](https://www.amazon.co.jp/dp/B0CP4BVWMN?tag=tokyoplants0f-22)
+→ [BRIM PANEL A をAmazonで見る](https://www.amazon.co.jp/dp/B0CP4BWTK7?tag=tokyoplants0f-22)
 
 <!-- amazon-cards title="レビューした5製品" -->
 <!-- /amazon-cards -->
