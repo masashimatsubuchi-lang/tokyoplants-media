@@ -14,6 +14,7 @@ relatedSlugs:
   - "review/thermo-hygrometer-comparison"
   - "guide/winter-hardiness-ranking-houseplants"
   - "research/grow-light-electricity-cost"
+  - "guide/metal-rack-greenhouse-diy"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

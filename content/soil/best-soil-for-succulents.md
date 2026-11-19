@@ -15,6 +15,8 @@ relatedSlugs:
   - "soil/drainage-stones-guide"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/succulent-winter-care"
+  - "guide/cactus-winter-care"
 amazonProducts:
   - title: "花ごころ さぼてん多肉植物の土 5L"
     asin: "B000IAA2F0"

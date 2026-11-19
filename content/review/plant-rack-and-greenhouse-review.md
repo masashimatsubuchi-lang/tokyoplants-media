@@ -17,6 +17,7 @@ relatedSlugs:
   - "guide/alocasia-winter-care"
   - "review/heat-mat-for-houseplants-comparison"
   - "review/winter-insulation-goods-for-houseplants"
+  - "guide/metal-rack-greenhouse-diy"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -37,7 +38,6 @@ amazonProducts:
   - title: "タカショー ビニール温室 4段 GRH-N03T"
     asin: "B009HI3Z1C"
     note: "大容量4段・保温保湿・冬越し向け"
-
 ---
 
 # 植物育成ラック・温室 おすすめ5選｜タイプ別レビュー

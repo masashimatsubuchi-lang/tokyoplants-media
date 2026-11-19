@@ -19,6 +19,7 @@ relatedSlugs:
   - "guide/winter-placement-room-map"
   - "research/winter-survival-map-by-region-japan"
   - "species/yucca-elephantipes"
+  - "guide/succulent-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -95,7 +96,7 @@ amazonProducts:
 | [アイビー（ヘデラ）](/species/hedera-helix) | 5℃ | 8℃以上 | 屋外でも越冬する強健種。室内なら余裕 |
 | [フィカス・プミラ](/species/ficus-pumila) | 5℃ | 8℃以上 | フィカス属では最も丈夫 |
 | [金のなる木](/species/crassula-ovata) | 5℃ | 8℃以上 | 霜に当てない。冬は断水気味に |
-| [ハオルチア](/species/genus-haworthia) | 5℃ | 8℃以上 | 冬型寄り。過湿のほうが危険 |
+| [ハオルチア](/species/genus-haworthia) | 5℃ | 8℃以上 | 春秋型。冬は休むので過湿のほうが危険 |
 | [ホヤ・カルノーサ](/species/hoya-carnosa) | 5℃ | 10℃以上 | 0℃以下は厳禁 |
 | [ユッカ・エレファンティペス](/species/yucca-elephantipes) | 5℃前後 | 8℃以上 | 園芸情報に幅があり、余裕を見る |
 | [パキラ](/guide/pachira-care) | 5℃ | 8〜10℃以上 | 10℃を下回ると成長が止まる |
