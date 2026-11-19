@@ -4,9 +4,8 @@ import data from "@/data/shop-comparison.json";
  * 観葉植物の通販比較（review/houseplant-online-shop-comparison）の比較表データ。
  * 2026-11-19 導入。表は Markdown に直書きせず src/data/shop-comparison.json から作る。
  *
- * - 価格・在庫は scripts/update-shop-comparison.mjs が毎朝自動で更新する
- *   （AND PLANTS＝Shopifyの商品JSON、楽天＝楽天市場商品検索API。APIのIDが無いあいだは手動）
- * - 送料・HitoHana など自動で取れない項目は月1回の手動確認（manualCheckedAt）
+ * - 価格・在庫・送料は月1回、商品ページを見て手動で更新する（2026-11-19 オーナー判断で自動更新はしない）。
+ *   更新したら各行の checkedAt と manualCheckedAt を確認日にする。並び順は描画時に決まるので並べ替え不要
  * - Amazon は価格を出さない（アソシエイトの規約上、表示するなら常に最新である必要があるため）
  * - 並び順は描画時に「送料込み総額の安い順」で決める。売り切れ・取得失敗・手動で外したものは順位外
  */

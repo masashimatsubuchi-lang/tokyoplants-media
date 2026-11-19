@@ -15,7 +15,7 @@
  *       自社商品（soil / hydro / pot）を写真つきの商品カードで出す。箇条書きはその商品の良い点・注意点。
  *       amazon="true" なら frontmatter の amazonProducts を「他の選択肢」として下に並べる
  *   <!-- shop-compare id="monstera-8" --><!-- /shop-compare -->
- *       通販比較の表。src/data/shop-comparison.json の tables[id] を送料込み総額の安い順に描画（毎朝自動更新）
+ *       通販比較の表。src/data/shop-comparison.json の tables[id] を送料込み総額の安い順に描画（価格は月1回の手動確認）
  *
  * 内側はremarkで既にHTML化されているので、ここでは <li> / <h4> / <table> を素朴に切り出す。
  * 入れ子のブロックには対応しない。
