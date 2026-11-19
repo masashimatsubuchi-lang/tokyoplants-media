@@ -16,6 +16,7 @@ relatedSlugs:
   - "species/hoya-pubicalyx"
   - "guide/hoya-not-flowering-causes"
   - "soil/repotting-soil-guide"
+  - "guide/hoya-propagation"
 baseProducts:
   - title: "All plants｜観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

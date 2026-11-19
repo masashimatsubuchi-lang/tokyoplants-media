@@ -20,6 +20,7 @@ relatedSlugs:
   - "species/platycerium-bifurcatum"
   - "species/platycerium-ridleyi"
   - "species/platycerium-willinckii"
+  - "guide/platycerium-fertilizer"
 baseProducts:
   - title: "ビカクシダの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382103"

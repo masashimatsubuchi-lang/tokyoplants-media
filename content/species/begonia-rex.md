@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/begonia-care-guide"
   - "guide/begonia-propagation"
   - "guide/begonia-winter-care"
+  - "guide/begonia-powdery-mildew-pests"
 baseProducts:
   - title: "tokyoplants Begonia｜ベゴニア一覧"
     url: "https://www.tokyoplants.com/categories/7114659"

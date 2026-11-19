@@ -26,6 +26,8 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/anthurium-humidity-guide"
   - "guide/anthurium-propagation"
+  - "research/anthurium-hybrid-names-guide"
+  - "species/anthurium-moodeanum"
 baseProducts:
   - title: Anthurium Warocqueanum｜アンスリウム・ワロクアーナム
     url: 'https://www.tokyoplants.com/items/94920117'
