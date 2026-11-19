@@ -32,6 +32,8 @@ relatedSlugs:
   - "research/grow-light-electricity-cost"
   - "guide/leggy-plant-stretching-causes"
   - "research/light-intensity-by-window-direction"
+  - "guide/winter-placement-room-map"
+  - "guide/winter-hardiness-ranking-houseplants"
 amazonProducts:
   - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
     asin: "B0CJBM2WV9"
@@ -143,6 +145,8 @@ DLI = PPFD（μmol/m²/s）× 照射秒数 ÷ 1,000,000
 | 夏はライト不要だった窓際の株 | 10〜12時間を秋冬だけ。4〜5月で止める |
 | 年間ライトに頼っている株 | 通年10〜12時間。季節で変えなくてよい |
 | 室温が15℃を下回る部屋 | **光より先に温度**。低温では光を増やしても代謝が追いつかない |
+
+部屋のどこが夜に冷えるかは[観葉植物の冬の置き場所（部屋の温度マップ）](/guide/winter-placement-room-map)、育てている品種が何℃まで耐えられるかは[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)で確認できます。
 
 <!-- character-note character="shadee" type="warning" -->
 秋冬に点灯時間を延ばすと、株は「まだ成長期だ」と判断して水を使い始める。でも室温が低い時期は土が乾きにくいから、夏と同じ間隔で水をやると根腐れしやすいんだ。補光を始めたら、土の乾き方をもう一度見直してね。

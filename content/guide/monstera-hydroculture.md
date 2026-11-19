@@ -14,6 +14,7 @@ relatedSlugs:
   - "soil/hydroculture-medium-comparison"
   - "review/moss-pole-comparison"
   - "guide/hydroculture-winter-care"
+  - "guide/monstera-winter-care"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -123,7 +124,7 @@ amazonProducts:
 
 ### 冬の水管理で変わること
 
-冬は蒸発が遅くなるぶん、同じ感覚で補水すると水位が下がりきらないまま水を足し続けることになります。表の「10〜14日に1回」も日数ではなく水位で判断するのが基本です。加えて、冷たい水をそのまま注ぐと根が傷みやすいため、室温に近づけた水を使うこと、夜間に冷え込む窓際からは株を離すことを意識してください。詳細は[ハイドロカルチャーの冬越し](/guide/hydroculture-winter-care)で解説しています。
+冬は蒸発が遅くなるぶん、同じ感覚で補水すると水位が下がりきらないまま水を足し続けることになります。表の「10〜14日に1回」も日数ではなく水位で判断するのが基本です。加えて、冷たい水をそのまま注ぐと根が傷みやすいため、室温に近づけた水を使うこと、夜間に冷え込む窓際からは株を離すことを意識してください。詳細は[ハイドロカルチャーの冬越し](/guide/hydroculture-winter-care)で解説しています。モンステラ自体が何℃まで耐えられるか、窓際からどこへ移すかは[モンステラの冬越しと耐寒温度](/guide/monstera-winter-care)にまとめています。
 
 <!-- character-note character="shadee" type="tip" -->
 水位がゼロになった日をメモしておくと、次の補水タイミングがぐっと読みやすくなるよ。容器が透明なら、藻が生える前に「そろそろ空になりそう」のタイミングで先に確認する習慣をつけてみて。

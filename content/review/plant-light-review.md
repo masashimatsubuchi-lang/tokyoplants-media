@@ -26,6 +26,7 @@ relatedSlugs:
   - "research/houseplant-grow-light-guide"
   - "guide/platycerium-grow-light-guide"
   - "guide/anthurium-grow-light-guide"
+  - "guide/monstera-grow-light-guide"
   - "guide/monstera-care"
   - "guide/alocasia-care-guide"
   - "review/circulator-for-houseplants-review"
@@ -35,6 +36,7 @@ relatedSlugs:
   - "guide/grow-light-hours-per-day"
   - "review/cheap-grow-light-check"
   - "guide/sunlight-replacement-light"
+  - "guide/winter-placement-room-map"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -323,7 +325,7 @@ BRIM製品（SOL 24W・FLORA・PANEL A）の選び分けは [BRIM(ブリム)植�
 
 ### 効果はどこに現れるか
 
-育成ライトの効果は、すでに展開した葉ではなく**次に出てくる新葉**に現れる。徒長して間延びした茎や、光量不足で小さくなった既存の葉が元に戻ることはないため、「変化がない」と判断する前に新芽の大きさ・節間の詰まり方・斑の入り方を見比べるとよい。逆に、新葉が以前と変わらず小さいままなら、距離が遠すぎるか照射時間が足りていない可能性が高い。
+育成ライトの効果は、すでに展開した葉ではなく**次に出てくる新葉**に現れる。徒長して間延びした茎や、光量不足で小さくなった既存の葉が元に戻ることはないため、「変化がない」と判断する前に新芽の大きさ・節間の詰まり方・斑の入り方を見比べるとよい。逆に、新葉が以前と変わらず小さいままなら、距離が遠すぎるか照射時間が足りていない可能性が高い。冬は光量に加えて室温の低さでも生育が鈍るため、ライトを当てている場所の夜間の温度も[観葉植物の冬の置き場所（部屋の温度マップ）](/guide/winter-placement-room-map)で確認しておきたい。
 
 ---
 

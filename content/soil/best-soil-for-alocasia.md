@@ -12,6 +12,7 @@ relatedSlugs:
   - "soil/bellabon-for-houseplants"
   - "guide/alocasia-care-guide"
   - "guide/alocasia-root-rot-treatment"
+  - "guide/alocasia-winter-care"
   - "guide/repotting-houseplants-complete-guide"
   - "soil/kunzan-for-houseplants"
   - "soil/houseplant-soil-hub-guide"
@@ -273,7 +274,7 @@ HYDRO MINERAL 単体での使用も可能です。鉢底に少量のゼオライ
 
 ### 失敗3：冬に過湿管理する
 
-冬は成長が止まり、水分の消費量が夏の半分以下になります。夏と同じペースで水をやると土が乾かず、根腐れが急速に進行します。冬は水やり頻度を大幅に減らし、葉水で湿度を補いましょう。
+冬は成長が止まり、水分の消費量が夏の半分以下になります。夏と同じペースで水をやると土が乾かず、根腐れが急速に進行します。冬は水やり頻度を大幅に減らし、葉水で湿度を補いましょう。温度の下限や置き場所まで含めた冬の管理は[アロカシアの冬越し・温度管理ガイド](/guide/alocasia-winter-care)にまとめています。
 
 ### 失敗4：腐葉土を多く入れる
 

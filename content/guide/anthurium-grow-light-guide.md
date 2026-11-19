@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/anthurium-care-for-beginners"
   - "review/plant-light-review"
   - "research/houseplant-grow-light-guide"
+  - "guide/anthurium-winter-care"
   - "guide/anthurium-warocqueanum-care-guide"
   - "species/anthurium-regale"
   - "species/anthurium-crystallinum"
@@ -231,7 +232,7 @@ PPFD 100〜200というのは、観葉植物の中でもかなり控えめな数
 | 遮光（レース・すだれ） | × | × | △ | ○ | ◎ | ◎ | ◎ | ◎ | ○ | △ | × | × |
 <!-- /calendar -->
 
-冬は日射角度が低く日照時間も短いため、同じ置き場所でも夏より光量が落ちます。ただし冬は同時に生育も鈍るので、**光を足すより先に温度（15℃以上）を確保する**のが優先です。逆に夏は窓際の直射が最も危険な時期で、遮光を強めるか窓から離す判断が要ります。
+冬は日射角度が低く日照時間も短いため、同じ置き場所でも夏より光量が落ちます。ただし冬は同時に生育も鈍るので、**光を足すより先に温度（15℃以上）を確保する**のが優先です（温度と湿度の保ち方は[アンスリウムの冬越し](/guide/anthurium-winter-care)で解説しています）。逆に夏は窓際の直射が最も危険な時期で、遮光を強めるか窓から離す判断が要ります。
 
 ## よくある失敗
 

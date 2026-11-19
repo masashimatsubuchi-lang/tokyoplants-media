@@ -18,6 +18,8 @@ relatedSlugs:
   - "guide/winter-hardiness-ranking-houseplants"
   - "guide/winter-placement-room-map"
   - "review/heat-mat-for-houseplants-comparison"
+  - "review/winter-insulation-goods-for-houseplants"
+  - "review/plant-light-review"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -147,7 +149,7 @@ amazonProducts:
 | 部屋の中央・奥 | △ 光量不足になりやすい | ◎ 温度が安定 | 補光とセットなら可 |
 | 暖房の風が当たる位置 | × 葉が乾く | × 葉が乾く | **不可** |
 
-夜だけ部屋の中央へ移動させるのが理想ですが、毎日は難しいものです。**厚手のカーテンを鉢と窓の間に引く**だけでも、窓際の冷気はかなり遮れます。
+夜だけ部屋の中央へ移動させるのが理想ですが、毎日は難しいものです。**厚手のカーテンを鉢と窓の間に引く**だけでも、窓際の冷気はかなり遮れます。床からの冷えを防ぐ鉢スタンドや不織布などは[観葉植物の保温グッズ比較](/review/winter-insulation-goods-for-houseplants)で、部屋の中央に置く場合の補光は[植物育成ライトのおすすめ](/review/plant-light-review)で比較しています。
 
 ### 水やり——「乾いてから3〜5日」の測り方
 

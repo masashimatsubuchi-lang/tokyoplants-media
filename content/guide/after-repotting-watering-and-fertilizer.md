@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/root-rot-causes-and-recovery"
   - "soil/repotting-soil-guide"
+  - "guide/winter-heating-appliances-and-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -222,7 +223,7 @@ tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） �
 
 - **明るい日陰が基本**：植え替え後1〜2週間は直射日光を避けます。光合成のために光は必要ですが、強い直射日光はエネルギー消費を高め、回復の妨げになります。室内ならレースカーテン越しの窓辺、屋外管理の株は日陰〜半日陰へ一時移動させます
 - **風通しを確保する**：回復期は土が乾きにくいため、風通しが悪いと過湿になりやすくなります。サーキュレーターで緩やかな空気の流れを作ると、土の乾きが適度に促され、病害菌の繁殖も抑えられます。ただし風が株に直接当たり続けないようにします
-- **気温の急変を避ける**：冷え込みが加わるとストレスが重なり、回復が遅れます。冷暖房の風が直接当たる場所、玄関や窓際など温度差の大きい場所は避けてください
+- **気温の急変を避ける**：冷え込みが加わるとストレスが重なり、回復が遅れます。冷暖房の風が直接当たる場所、玄関や窓際など温度差の大きい場所は避けてください。冬に養生する場合は、エアコン・ストーブなど暖房器具ごとの置き方を[暖房器具別｜観葉植物を冬に枯らさない置き方](/guide/winter-heating-appliances-and-houseplants)で確認しておくと安心です
 
 ---
 

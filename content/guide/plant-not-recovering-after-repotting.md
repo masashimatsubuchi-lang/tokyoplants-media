@@ -18,6 +18,7 @@ relatedSlugs:
   - "guide/repotting-without-upsizing"
   - "guide/monstera-repotting-guide"
   - "guide/autumn-repotting-guide"
+  - "guide/winter-placement-room-map"
   - "guide/alocasia-repotting-guide"
   - "guide/philodendron-repotting-guide"
 baseProducts:
@@ -164,7 +165,7 @@ amazonProducts:
 | ウンベラータ・ゴムの木 | 2〜3週間 | 根が大きい大型樹木系。冬の植え替えは特に回復が遅れやすい |
 | サンスベリア・ザミオクルカス | 2〜4週間 | 根のダメージには強いが過湿が最大の敵。水やりを控えめに |
 
-秋以降に植え替えてしまった株は、そもそも回復のペースが落ちます。時期ごとの考え方は [秋の植え替えガイド](/guide/autumn-repotting-guide) を参照してください。
+秋以降に植え替えてしまった株は、そもそも回復のペースが落ちます。時期ごとの考え方は [秋の植え替えガイド](/guide/autumn-repotting-guide) を参照してください。冬に養生する場合は、表の「冬でも最低15℃以上」を保てる場所を [観葉植物の冬の置き場所（部屋の温度マップ）](/guide/winter-placement-room-map) で探しておくと安心です。
 
 ---
 

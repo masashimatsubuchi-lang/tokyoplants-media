@@ -14,6 +14,7 @@ tags:
 author: tokyoplants 編集部
 relatedSlugs:
   - guide/alocasia-care-guide
+  - guide/alocasia-winter-care
   - soil/hydroculture-medium-comparison
   - guide/bottom-watering-houseplants
   - guide/hydroculture-to-soil-transition
@@ -160,7 +161,7 @@ amazonProducts:
 | **光** | 明るい日陰〜半日陰。窓から1〜2m | 直射で葉焼け、暗すぎると徒長 |
 | **湿度** | **60〜80%** | 葉先の枯れ込み、ハダニの発生 |
 
-ハイドロカルチャーでは土植えより**根が冷えやすい**点に注意してください。冬は容器を床に直置きせず、台の上や断熱マットの上に置いて冷気から守ります。窓際は日中明るくても夜間に冷え込むため、夜だけ部屋の内側へ移動させるのが確実です。
+ハイドロカルチャーでは土植えより**根が冷えやすい**点に注意してください。冬は容器を床に直置きせず、台の上や断熱マットの上に置いて冷気から守ります。窓際は日中明るくても夜間に冷え込むため、夜だけ部屋の内側へ移動させるのが確実です。温度の下限や休眠した株の見分け方など、冬越し全体の流れは[アロカシアの冬越し・温度管理ガイド](/guide/alocasia-winter-care)にまとめています。
 
 湿度についてはハイドロでも土でも要求は変わりません。水面からの蒸発があるぶん株元の湿度はやや上がりますが、部屋全体の乾燥は補えないので、冬は加湿器を併用してください。日常管理の詳細は[アロカシアの育て方完全ガイド](/guide/alocasia-care-guide)、品種ごとの違いは図鑑記事（例：[アロカシア・サンデリアーナ](/species/alocasia-sanderiana)）を参照してください。
 

@@ -15,6 +15,7 @@ author: "tokyoplants 編集部"
 appCta: "ビカクシダの水やり間隔は株ごとに違います。株ごとに記録を残せます。"
 relatedSlugs:
   - "guide/platycerium-grow-light-guide"
+  - "guide/platycerium-winter-care"
   - "review/platycerium-mounting-board-cork"
   - "soil/sphagnum-moss-recommended"
   - "soil/best-soil-for-platycerium"
@@ -154,7 +155,7 @@ amazonProducts:
 | 秋 | 生育が緩やかに | 頻度を徐々に減らしていく移行期 | 夏の頻度のまま10月を過ごす |
 | 冬（休眠に近い状態） | 生育がほぼ止まる | 頻度を大きく落とす。過湿による根腐れが最も起きやすい | 暖房で室温が高いのを「夏と同じ」と勘違いする |
 
-冬場は気温が低く水の消費・蒸発が遅いため、夏と同じ感覚で水を与えると過湿になります。「冬は乾かし気味」を意識し、貯水葉や水苔の状態を確認してから水やりしましょう。
+冬場は気温が低く水の消費・蒸発が遅いため、夏と同じ感覚で水を与えると過湿になります。「冬は乾かし気味」を意識し、貯水葉や水苔の状態を確認してから水やりしましょう。耐寒温度や夜間の置き場所まで含めた冬の管理は[ビカクシダの冬越し](/guide/platycerium-winter-care)で解説しています。
 
 <!-- character-note character="shadee" type="warning" -->
 冬に気をつけたいのは、水やりそのものより「水をあげたあと乾かないこと」なんだ。日が短くて風も通らない時期は、午前中に済ませて、夕方までに表面が乾いている状態を目指すといいよ。水やりの日付はアプリで記録しておくと、間隔が詰まりすぎているのに気づきやすいよ。

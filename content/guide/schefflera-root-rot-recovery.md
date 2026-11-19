@@ -12,6 +12,7 @@ relatedSlugs:
   - "guide/philodendron-root-rot-causes-and-recovery"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/choosing-pot-size-for-repotting"
+  - "guide/winter-watering-houseplants"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -80,7 +81,7 @@ amazonProducts:
 
 過湿状態が続くと、根の周囲の土が常に水分で満たされ、根が呼吸に必要な酸素を得られなくなります。酸欠が続くと嫌気性の腐敗菌が増殖し、根の組織を分解し始めます。これが根腐れです。シェフレラは本来「乾かし気味」の管理が合う植物のため、他の観葉植物と同じ感覚で水やりの間隔を決めると、知らないうちに常に湿った状態を作ってしまいます。
 
-初期段階では地上部の変化がわかりにくく、下葉が黄色くなり始めた頃には根のダメージがすでに進行していることも珍しくありません。冬場は気温の低下で根の活動が鈍るため、夏と同じ頻度で水やりを続けると特にリスクが高まります。
+初期段階では地上部の変化がわかりにくく、下葉が黄色くなり始めた頃には根のダメージがすでに進行していることも珍しくありません。冬場は気温の低下で根の活動が鈍るため、夏と同じ頻度で水やりを続けると特にリスクが高まります。冬の水やり間隔の空け方は[観葉植物の冬の水やり](/guide/winter-watering-houseplants)で解説しています。
 
 <!-- character-note character="kuro" type="point" -->
 「丈夫な植物」というイメージが先行しがちだけど、シェフレラの丈夫さは主に乾燥や暗さへの耐性の話であって、過湿への耐性が高いわけではないんだ。丈夫さの中身を正しく理解しておくと、水やりの判断がぶれにくくなるよ。

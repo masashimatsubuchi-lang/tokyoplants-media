@@ -11,8 +11,11 @@ relatedSlugs:
   - "soil/platycerium-moss-mounting-medium"
   - "guide/platycerium-grow-light-guide"
   - "guide/platycerium-placement-guide"
+  - "guide/platycerium-winter-care"
   - "soil/sphagnum-moss-recommended"
   - "soil/peat-moss-for-houseplants"
+  - "guide/platycerium-pup-division"
+  - "guide/platycerium-fertilizer"
 amazonProducts:
   - title: "花ごころ 洋らんバーク 厳選された醗酵バーク 5L"
     asin: "B000IAA00M"
@@ -156,7 +159,7 @@ amazonProducts:
 
 ## 植え替えの手順と適期
 
-適期は生育期の**5〜9月**。頻度は1〜2年に1回が目安です。
+適期は生育期の**5〜9月**。頻度は1〜2年に1回が目安です。秋〜冬に用土の劣化に気づいた場合も、根腐れなど急を要する状態でなければ適期まで待ち、冬の間は[ビカクシダの冬越し](/guide/platycerium-winter-care)に沿って水やりを控えめにして乗り切ります。
 
 <!-- steps title="鉢植えビカクシダの植え替え" -->
 1. **抜く**：鉢から株を抜き、古いバーク・水苔を根を傷めないようほぐしながら落とす。崩れて細かくなった部分は特に念入りに取り除く

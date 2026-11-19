@@ -14,6 +14,7 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/platycerium-watering-guide"
   - "guide/platycerium-placement-guide"
+  - "guide/platycerium-winter-care"
   - "review/plant-light-review"
   - "review/neo-amateras-review"
   - "research/houseplant-grow-light-guide"
@@ -121,6 +122,8 @@ PPFDの数値だけだと難しく感じるかもしれないけど、目安は�
 
 - 冬季は自然光が短くなるため、**12時間**に延ばすと生長が維持しやすい
 - 24時間点灯はNG（植物にも夜間休息が必要）
+
+冬はライトで光を補うのと同時に、温度と水やりの落とし方も切り替える時期です。耐寒温度や冬の水やり頻度は[ビカクシダの冬越し](/guide/platycerium-winter-care)にまとめています。
 
 <!-- callout type="warning" title="近づけるのは「1〜2週間見てから」" -->
 ライトが近すぎると**葉焼け（白化・黄変）**が起き、焼けた部分は元に戻りません。導入直後は上表より遠めに置き、新葉の出方を見ながら少しずつ詰めてください。

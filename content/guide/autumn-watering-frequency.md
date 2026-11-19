@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/rainy-season-watering-tips"
   - "guide/summer-watering-guide"
   - "guide/winter-watering-houseplants"
+  - "guide/winter-hardiness-ranking-houseplants"
   - "guide/root-rot-causes-and-recovery"
   - "soil/repotting-soil-guide"
 baseProducts:
@@ -106,7 +107,7 @@ amazonProducts:
 - 水やりは気温が上がり始める午前中に行う
 - 品種によっては10月以降さらに間隔を空け、冬の断水気味の管理に近づけていく
 
-秋の切り替えをうまくこなせると、根が健やかな状態で冬の休眠期を迎えられます。水はけのよい土を使っていれば、秋から冬にかけての根腐れリスクもさらに下げられます。
+秋の切り替えをうまくこなせると、根が健やかな状態で冬の休眠期を迎えられます。水はけのよい土を使っていれば、秋から冬にかけての根腐れリスクもさらに下げられます。水やりの切り替えと並行して、育てている品種が何℃まで耐えられるかを[観葉植物の耐寒性ランキング](/guide/winter-hardiness-ranking-houseplants)で確認し、置き場所の見直しも早めに済ませておきましょう。
 
 → 関連商品リンク
 - [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)

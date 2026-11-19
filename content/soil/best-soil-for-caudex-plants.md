@@ -11,6 +11,7 @@ relatedSlugs:
   - "species/stephania-erecta"
   - "species/genus-stephania"
   - "guide/stephania-kaweesakii-complete-guide"
+  - "guide/caudex-plant-winter-care"
 amazonProducts:
   - title: "KINCHO園芸（旧 住友化学園芸）培養土 MYPLANTS 健やかに育てるソイル アガベ・多肉植物・塊根植物用 2L"
     asin: "B0DP6XGJPD"
@@ -102,7 +103,7 @@ amazonProducts:
 
 多くの塊根植物は気温の低下とともに地上部を落として休眠に入ります。休眠期は水やりをほぼ停止し、土を乾燥した状態に保つことが重要です。湿気の多い場所（洗面台の下や結露しやすい窓辺など）は避け、日当たりの良い室内の暖かい場所で管理しましょう。
 
-休眠中に土が湿った状態が続くと、水を吸う能力が低下した塊根が過湿にさらされ、腐敗のリスクが高まります。
+休眠中に土が湿った状態が続くと、水を吸う能力が低下した塊根が過湿にさらされ、腐敗のリスクが高まります。休眠中か枯れているかの見分け方や冬の最低温度の目安は[塊根植物の冬の休眠期の育て方](/guide/caudex-plant-winter-care)で解説しています。
 
 ## よくある失敗例
 

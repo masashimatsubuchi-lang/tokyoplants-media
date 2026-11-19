@@ -21,6 +21,8 @@ relatedSlugs:
   - "guide/winter-dont-do-list"
   - "review/thermo-hygrometer-comparison"
   - "review/winter-insulation-goods-for-houseplants"
+  - "review/plant-light-review"
+  - "guide/normal-led-vs-grow-light"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -159,6 +161,8 @@ amazonProducts:
 5. **光を足す**：温度優先で暗くなった場所には、明るい時間に窓寄りへ寄せるか[育成ライト](/research/houseplant-grow-light-guide)を併用する
 6. **2週間後に葉を見る**：葉先の黒ずみ（低温）、葉先の茶変やカサつき（乾燥）、徒長（光不足）で微調整する
 <!-- /steps -->
+
+手順5で育成ライトを選ぶときは、機種ごとの比較を[植物育成ライトのおすすめ](/review/plant-light-review)に、手持ちのLED照明で代用できるかの判断を[普通のLEDと育成ライトの違い](/guide/normal-led-vs-grow-light)にまとめています。
 
 手順1の温度計、床から鉢を上げて動かす台、手順5の育成ライトの一例です。
 

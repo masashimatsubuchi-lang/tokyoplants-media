@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/soil-to-hydroculture-transition"
   - "soil/hydroculture-medium-comparison"
+  - "guide/hydroculture-winter-care"
   - "guide/philodendron-hydroculture"
   - "review/hydroponic-kit-comparison"
 baseProducts:
@@ -94,7 +95,7 @@ amazonProducts:
 - 鉢底ネット
 - 竹串または水分確認用スティック
 
-最適期は5〜7月、最低でも室温20℃前後を安定確保できる時期です。真冬は回復が遅くリスクが高まります（[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)）。
+最適期は5〜7月、最低でも室温20℃前後を安定確保できる時期です。真冬は回復が遅くリスクが高まります（[植え替え完全ガイド](/guide/repotting-houseplants-complete-guide)）。春まで待つ間は、ハイドロのまま[冬の水位管理](/guide/hydroculture-winter-care)に切り替えて越冬させるのが安全です。
 
 準備物のうち、鉢底ネット・粗めの粒・水分確認用スティックはAmazonでもそろいます。
 

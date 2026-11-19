@@ -21,6 +21,7 @@ relatedSlugs:
   - "guide/hydroculture-to-soil-transition"
   - "guide/root-rot-causes-and-recovery"
   - "guide/hydroculture-winter-care"
+  - "guide/normal-led-vs-grow-light"
   - "species/spathiphyllum-wallisii"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
@@ -441,6 +442,8 @@ HYDRO MINERALは、tokyoplantsが開発した**ハイドロカルチャー専用
 | 過湿 | 水位が常にMAX付近／培地が乾く期間がない | 水位を下げ、乾湿サイクルを取り直す |
 | 根腐れ | 培地を掘ると根が黒い・臭う | 根を切除して植え直す |
 | 光量不足 | 新葉が小さい・徒長している | 明るい間接光の場所へ移動 |
+
+日照時間が短くなる冬や、窓から離れた棚・デスクで育てている場合は、育成ライトで光を補う方法もあります。家庭用の照明で足りるかどうかは[普通のLEDと育成ライトの違い](/guide/normal-led-vs-grow-light)で解説しています。
 
 ### 培地や水が臭い
 

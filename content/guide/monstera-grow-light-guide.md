@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/monstera-care"
   - "review/plant-light-review"
   - "research/houseplant-grow-light-guide"
+  - "guide/monstera-winter-care"
   - "species/monstera-deliciosa"
   - "species/monstera-albo-variegata"
   - "species/monstera-thai-constellation"
@@ -129,7 +130,7 @@ amazonProducts:
 | 安定性 | 天候・季節で変動 | 一定 |
 | 冬の光量 | 急減する | 補完できる |
 
-モンステラは夏の直射日光で葉焼けを起こしやすいため、育成ライトで安定した光環境を作る方が失敗が少ないです。
+モンステラは夏の直射日光で葉焼けを起こしやすいため、育成ライトで安定した光環境を作る方が失敗が少ないです。冬は光量だけでなく窓際の夜間の冷え込みにも注意が必要なので、温度の目安と置き場所は[モンステラの冬越しと耐寒温度](/guide/monstera-winter-care)もあわせて確認してください。
 
 ---
 

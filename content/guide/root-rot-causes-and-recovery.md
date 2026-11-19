@@ -20,6 +20,7 @@ relatedSlugs:
   - "guide/philodendron-root-rot-causes-and-recovery"
   - "guide/anthurium-root-rot-causes-and-recovery"
   - "guide/rainy-season-root-rot-prevention"
+  - "guide/winter-watering-houseplants"
   - "research/root-rot-mechanism-science"
   - "review/smart-soil-moisture-sensor-comparison"
 baseProducts:
@@ -273,6 +274,8 @@ tokyoplantsの『I'm original SOIL（tokyoplantsプレミアム培養土）』�
 <!-- /calendar -->
 
 6月は成長期ですが、日照不足と高湿度で土が乾かず、水やり量を上げると危険な月です。→ 「[梅雨の根腐れ対策](/guide/rainy-season-root-rot-prevention)」
+
+12〜2月は植物の吸水量が落ち、同じ量を与えても土が乾くまでの日数が延びます。冬の間隔の空け方と水やりの時間帯は「[観葉植物の冬の水やり](/guide/winter-watering-houseplants)」にまとめています。
 
 ---
 

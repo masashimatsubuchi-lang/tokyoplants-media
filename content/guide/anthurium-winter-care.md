@@ -19,6 +19,7 @@ relatedSlugs:
   - "review/plant-rack-and-greenhouse-review"
   - "guide/anthurium-flowering"
   - "guide/anthurium-humidity-guide"
+  - "guide/anthurium-grow-light-guide"
   - "guide/anthurium-leaf-problems"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
@@ -131,7 +132,7 @@ amazonProducts:
 4. **[湿度計](/review/thermo-hygrometer-comparison)を株のそばに置く**：部屋全体の湿度と株周りの湿度は数%〜10%以上違うことがある
 5. **加湿器で底上げする**：冬の室内湿度は45〜60%を軸に管理する。ビロード葉系はさらに高めを狙う
 
-加湿器の選び方と、加湿しすぎたときの除湿の考え方は[冬の湿度管理｜加湿器と除湿機の使い分け](/review/winter-humidity-control-humidifier-dehumidifier)で解説しています。
+加湿器の選び方と、加湿しすぎたときの除湿の考え方は[冬の湿度管理｜加湿器と除湿機の使い分け](/review/winter-humidity-control-humidifier-dehumidifier)で解説しています。窓から離した結果、明るさが足りなくなる場合は、育成ライトで光を補う方法もあります（[アンスリウムにライトは必要？育成ライトの選び方](/guide/anthurium-grow-light-guide)）。
 
 手順4の温湿度計と、手順5の加湿器の一例です。加湿器は蒸気が葉に直接当たらない位置に置いてください。
 

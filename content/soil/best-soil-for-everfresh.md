@@ -16,6 +16,7 @@ relatedSlugs:
   - "soil/best-soil-for-alocasia"
   - "soil/best-soil-for-umbellata"
   - "species/cojoba-arborea-everfresh"
+  - "guide/winter-watering-houseplants"
   - "soil/when-to-replace-soil"
   - "soil/reusing-houseplant-soil"
   - "soil/soil-amount-for-planters"
@@ -239,7 +240,7 @@ amazonProducts:
 
 ### 失敗2：冬の水やり過多
 
-冬は成長が鈍り、水の消費量が激減します。成長期と同じ頻度で水やりすると土が乾かないまま次の水やりをすることになり、過湿から根腐れへ進行します。冬は「土の表面が乾いてから2〜3日後」を目安に頻度を落としてください。
+冬は成長が鈍り、水の消費量が激減します。成長期と同じ頻度で水やりすると土が乾かないまま次の水やりをすることになり、過湿から根腐れへ進行します。冬は「土の表面が乾いてから2〜3日後」を目安に頻度を落としてください。水やりの時間帯や室温の目安など、観葉植物全般の冬の水やりの考え方は[観葉植物の冬の水やり](/guide/winter-watering-houseplants)で解説しています。
 
 ### 失敗3：一般培養土をそのまま使う
 
