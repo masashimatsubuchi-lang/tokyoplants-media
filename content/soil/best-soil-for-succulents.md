@@ -17,6 +17,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/succulent-winter-care"
   - "guide/cactus-winter-care"
+  - "review/succulent-cactus-grow-light"
 amazonProducts:
   - title: "花ごころ さぼてん多肉植物の土 5L"
     asin: "B000IAA2F0"

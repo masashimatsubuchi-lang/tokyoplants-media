@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/sunburn-houseplants"
   - "guide/repotting-houseplants-complete-guide"
   - "guide/cats-and-houseplants-safety"
+  - "review/succulent-cactus-grow-light"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
