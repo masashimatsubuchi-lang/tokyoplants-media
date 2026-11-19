@@ -6,6 +6,15 @@ date: "2026-11-09"
 category: "guide"
 tags: ["パキラ", "冬越し", "温度管理", "冬の水やり", "冬の管理"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "guide/pachira-care"
+    role: "育て方の実務"
+  - slug: "guide/pachira-winter-care"
+    role: "冬越し"
+  - slug: "soil/best-soil-for-pachira"
+    role: "土の配合"
+  - slug: "review/pachira-online-shop-comparison"
+    role: "通販で買う"
 relatedSlugs:
   - "guide/pachira-care"
   - "guide/pachira-yellow-leaves-falling"

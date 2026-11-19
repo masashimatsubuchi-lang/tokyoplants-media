@@ -32,6 +32,15 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/61lLIqs+9oL._AC_SL200_.jpg"
     note: "黒く傷んだ根や伸びた気根を、つぶさずに切れる剪定ばさみ。評価★4.5・レビュー1,605件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
     price: "¥3,681"
+siblings:
+  - slug: "guide/gajumaru-care"
+    role: "育て方の実務"
+  - slug: "guide/gajumaru-winter-care"
+    role: "冬越し"
+  - slug: "soil/best-soil-for-gajumaru"
+    role: "土の選び方"
+  - slug: "review/gajumaru-online-shop-comparison"
+    role: "通販で買う"
 ---
 
 ガジュマルは根が旺盛に育つ植物です。放置しておくと根詰まりを起こし、葉が落ちたり急激に弱ったりします。そのときに土を見直さないまま植え替えると、同じ問題を繰り返します。

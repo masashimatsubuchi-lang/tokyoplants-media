@@ -42,6 +42,17 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
     note: "冬の光不足に、株の横から光を足せる調光つきライト。評価★4.3・レビュー997件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
     price: "¥4,445"
+siblings:
+  - slug: "guide/monstera-care"
+    role: "育て方の実務"
+  - slug: "guide/monstera-winter-care"
+    role: "冬越し"
+  - slug: "guide/monstera-repotting-guide"
+    role: "植え替え"
+  - slug: "species/monstera-deliciosa"
+    role: "図鑑・品種情報"
+  - slug: "review/monstera-online-shop-comparison"
+    role: "通販で買う"
 ---
 
 # モンステラの冬越しは10℃以上が目安｜5℃を下回ると組織に障害が出る

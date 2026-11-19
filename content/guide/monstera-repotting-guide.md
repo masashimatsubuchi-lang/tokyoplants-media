@@ -23,6 +23,17 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
     note: "ココヤシ繊維を7mmのアルミ芯に巻いた太さ約3cm・120cmタイプ。挿し込み部15cmを見込んでも十分な長さがあり、付属の麻紐・結束バンド・マジックテープで茎の太さに合わせて固定できる。★4.4・191件・在庫あり・出荷元Amazon（2026-10-27 商品ページ確認）"
     price: "¥1,499"
+siblings:
+  - slug: "guide/monstera-care"
+    role: "育て方の実務"
+  - slug: "guide/monstera-winter-care"
+    role: "冬越し"
+  - slug: "guide/monstera-repotting-guide"
+    role: "植え替え"
+  - slug: "species/monstera-deliciosa"
+    role: "図鑑・品種情報"
+  - slug: "review/monstera-online-shop-comparison"
+    role: "通販で買う"
 ---
 
 モンステラは成長が旺盛で、1〜2年で根が鉢いっぱいになります。「葉が小さくなった」「水の吸いが悪い」と感じたら、植え替えのサインです。この記事ではモンステラに特化した植え替え方法を、時期・土・鉢・気根の処理まで詳しく解説します。

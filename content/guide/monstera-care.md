@@ -8,6 +8,17 @@ category: "guide"
 author: "tokyoplants 編集部"
 appCta: "はじめての一株は、続けられる仕組みがあると気が楽になります。"
 tags: ["モンステラ", "育て方", "完全ガイド", "初心者"]
+siblings:
+  - slug: "guide/monstera-care"
+    role: "育て方の実務"
+  - slug: "guide/monstera-winter-care"
+    role: "冬越し"
+  - slug: "guide/monstera-repotting-guide"
+    role: "植え替え"
+  - slug: "species/monstera-deliciosa"
+    role: "図鑑・品種情報"
+  - slug: "review/monstera-online-shop-comparison"
+    role: "通販で買う"
 relatedSlugs:
   - "species/monstera-deliciosa"
   - "soil/how-to-mix-soil-for-houseplants"

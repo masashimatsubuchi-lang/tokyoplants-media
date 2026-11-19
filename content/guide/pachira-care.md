@@ -6,6 +6,15 @@ date: "2026-02-18"
 category: "guide"
 tags: ["パキラ", "育て方", "初心者"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "guide/pachira-care"
+    role: "育て方の実務"
+  - slug: "guide/pachira-winter-care"
+    role: "冬越し"
+  - slug: "soil/best-soil-for-pachira"
+    role: "土の配合"
+  - slug: "review/pachira-online-shop-comparison"
+    role: "通販で買う"
 relatedSlugs:
   - "soil/best-soil-for-pachira"
   - "guide/repotting-houseplants-complete-guide"

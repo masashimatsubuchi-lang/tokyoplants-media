@@ -7,6 +7,15 @@ updated: "2026-11-05"
 category: "soil"
 tags: ["パキラ", "用土", "植え替え", "おすすめ", "根腐れ"]
 author: "tokyoplants 編集部"
+siblings:
+  - slug: "guide/pachira-care"
+    role: "育て方の実務"
+  - slug: "guide/pachira-winter-care"
+    role: "冬越し"
+  - slug: "soil/best-soil-for-pachira"
+    role: "土の配合"
+  - slug: "review/pachira-online-shop-comparison"
+    role: "通販で買う"
 relatedSlugs:
   - "soil/repotting-soil-guide"
   - "soil/how-to-mix-soil-for-houseplants"

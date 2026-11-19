@@ -30,6 +30,15 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/61p8tLTEZYL._AC_SL200_.jpg"
     note: "白い樹液から手を守る、ラテックスフリーのニトリル手袋。評価★4.3・レビュー3,716件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。100枚入りの使いきりタイプ（商品ページの表示）"
     price: "¥1,020"
+siblings:
+  - slug: "guide/gajumaru-care"
+    role: "育て方の実務"
+  - slug: "guide/gajumaru-winter-care"
+    role: "冬越し"
+  - slug: "soil/best-soil-for-gajumaru"
+    role: "土の選び方"
+  - slug: "review/gajumaru-online-shop-comparison"
+    role: "通販で買う"
 ---
 
 # ガジュマルの育て方｜丸坊主と気根

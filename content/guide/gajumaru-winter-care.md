@@ -30,6 +30,15 @@ amazonProducts:
     asin: "B0BJDP1CJX"
     image: "https://m.media-amazon.com/images/I/617YHDiY3rL._AC_SL200_.jpg"
     note: "細かい霧が出て、葉裏にも向けて噴霧できる振り子式の霧吹き。評価★4.2・レビュー1,194件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元と販売元Amazon.co.jp・Prime対象）"
+siblings:
+  - slug: "guide/gajumaru-care"
+    role: "育て方の実務"
+  - slug: "guide/gajumaru-winter-care"
+    role: "冬越し"
+  - slug: "soil/best-soil-for-gajumaru"
+    role: "土の選び方"
+  - slug: "review/gajumaru-online-shop-comparison"
+    role: "通販で買う"
 ---
 
 # ガジュマルの冬越し、ベランダのままは危険｜鉢植えは10℃前に室内へ

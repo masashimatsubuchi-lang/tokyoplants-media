@@ -8,6 +8,17 @@ category: "species"
 tags: ["モンステラ", "斑入り", "育て方", "完全ガイド"]
 author: "tokyoplants 編集部"
 genus: "monstera"
+siblings:
+  - slug: "guide/monstera-care"
+    role: "育て方の実務"
+  - slug: "guide/monstera-winter-care"
+    role: "冬越し"
+  - slug: "guide/monstera-repotting-guide"
+    role: "植え替え"
+  - slug: "species/monstera-deliciosa"
+    role: "図鑑・品種情報"
+  - slug: "review/monstera-online-shop-comparison"
+    role: "通販で買う"
 relatedSlugs:
   - "species/genus-monstera"
   - "guide/monstera-care"
