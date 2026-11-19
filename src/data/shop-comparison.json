@@ -1,0 +1,1355 @@
+{
+  "updatedAt": "2026-11-18",
+  "manualCheckedAt": "2026-11-18",
+  "tables": {
+    "monstera-5": {
+      "plant": "モンステラ・デリシオーサ",
+      "spec": "5号前後（卓上〜小型）",
+      "items": [
+        {
+          "seller": "フラワーネット 日本花キ流通（楽天）",
+          "url": "https://item.rakuten.co.jp/nihonkakiryuutuu/10005578/",
+          "product": "鉢植え",
+          "size": "5号／高さの記載なし",
+          "price": 2980,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "北海道・沖縄などへは送れない。東北・中国・四国・九州は+200円",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "nihonkakiryuutuu:10005578"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "園芸ネット プラス（楽天）",
+          "url": "https://item.rakuten.co.jp/engei2/187858/",
+          "product": "鉢植え",
+          "size": "5号／高さの記載なし",
+          "price": 2399,
+          "shipping": 1100,
+          "photo": "代表",
+          "note": "楽天の「3,980円以上で送料無料」の対象外",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "engei2:187858"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "miipas（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B0FRRZ6C3M?tag=tokyoplants0f-22",
+          "product": "プラ鉢",
+          "size": "5号／45〜55cm（起点なし）",
+          "price": 3531,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "出品者からの出荷",
+          "source": {
+            "type": "amazon",
+            "asin": "B0FRRZ6C3M"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "幸せの花急便（楽天）",
+          "url": "https://item.rakuten.co.jp/hanakyubin/10000124/",
+          "product": "陶器鉢・受け皿付き",
+          "size": "5号／50〜60cm（鉢を含む）",
+          "price": 4280,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "北海道+1,500円、沖縄+3,000円",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hanakyubin:10000124"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/monsteradeliciosa-s",
+          "product": "化粧鉢と鉢皿のセット（植え替え済み）",
+          "size": "6号／45〜65cm（起点なし）",
+          "price": 8980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "1号大きい。同店の4号は売り切れ",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "monsteradeliciosa-s",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "monstera-8": {
+      "plant": "モンステラ・デリシオーサ",
+      "spec": "7〜8号（床置きの中型）",
+      "items": [
+        {
+          "seller": "charm（楽天）",
+          "url": "https://item.rakuten.co.jp/chanet3980/345347/",
+          "product": "硬質プラ鉢",
+          "size": "8号／高さの記載なし",
+          "price": 6429,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "冬は北海道・積雪地域へ送れない場合あり",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "chanet3980:345347"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "彩植健美（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B0DCDQBMQ7?tag=tokyoplants0f-22",
+          "product": "プラ鉢・受け皿付き",
+          "size": "7号／60〜80cm（鉢底から）",
+          "price": 6480,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "1号小さい。出品者からの出荷",
+          "source": {
+            "type": "amazon",
+            "asin": "B0DCDQBMQ7"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "花のアリマツ（楽天）",
+          "url": "https://item.rakuten.co.jp/hananoarimatsu/ag-180203-7-5/",
+          "product": "白い角鉢",
+          "size": "8号／全高70〜80cm（起点なし）",
+          "price": 8030,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "離島などは追加送料の場合あり",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hananoarimatsu:ag-180203-7-5"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "塚口ガーデン（Yahoo!ショッピング）",
+          "url": "https://store.shopping.yahoo.co.jp/tsukaguchi/monsbigpura.html",
+          "product": "樹脂鉢・皿付き",
+          "size": "8号／約90cm（目安・起点なし）",
+          "price": 10230,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "北海道・東北・沖縄・離島へは届けない",
+          "source": {
+            "type": "yahoo"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "パーフェクトグリーン（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B01HS30VWS?tag=tokyoplants0f-22",
+          "product": "セラアート鉢・受け皿付き",
+          "size": "8号／80〜90cm（鉢底から）",
+          "price": 11200,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "出品者からの出荷",
+          "source": {
+            "type": "amazon",
+            "asin": "B01HS30VWS"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "松村農園（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B0CZPDKV5Q?tag=tokyoplants0f-22",
+          "product": "角高陶器鉢・受け皿付き",
+          "size": "8号／約95cm（鉢を含む）",
+          "price": 12100,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "出荷元の表示が生産農家（松村農園）",
+          "source": {
+            "type": "amazon",
+            "asin": "B0CZPDKV5Q"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/monstera/monstera-30",
+          "product": "株立ち・プラ鉢",
+          "size": "8号／70〜99cm（起点なし）",
+          "price": 12980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道・沖縄+1,100円",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/monsteradeliciosa-m",
+          "product": "化粧鉢と鉢皿のセット（植え替え済み）",
+          "size": "8号／70〜90cm（起点なし）",
+          "price": 17980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,500円、沖縄へは送らない",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "monsteradeliciosa-m",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "花うるる（楽天）",
+          "url": "https://item.rakuten.co.jp/hanaururu/kan-mons08-001/",
+          "product": "角高陶器鉢・受け皿付き",
+          "size": "8号／約100cm（鉢を含む）",
+          "price": 17800,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hanaururu:kan-mons08-001"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0,
+          "excluded": "北海道・東北への追加送料がページ内で2通り（+500円と+9,000円）あるため順位から外した"
+        }
+      ]
+    },
+    "monstera-10": {
+      "plant": "モンステラ・デリシオーサ",
+      "spec": "10号（大型）",
+      "items": [
+        {
+          "seller": "ブルーミンググレイス（楽天）",
+          "url": "https://item.rakuten.co.jp/bloomgrace/kanyou-009/",
+          "product": "プラ鉢",
+          "size": "10号／約150cm（起点なし）・幅約80cm",
+          "price": 16980,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "九州・北海道+2,200円、沖縄へは送れない。5営業日以内に発送",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "bloomgrace:kanyou-009"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "MAKIMO PLANT（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B002B61Z6E?tag=tokyoplants0f-22",
+          "product": "ヘゴ仕立て",
+          "size": "10号／約150cm〜（ヘゴを含む・起点なし）",
+          "price": 15800,
+          "shipping": 1500,
+          "photo": "記載なし",
+          "note": "東京あてでも送料がかかる。鉢の仕様は確認できず",
+          "source": {
+            "type": "amazon",
+            "asin": "B002B61Z6E"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "カワナミプランテーション（楽天）",
+          "url": "https://item.rakuten.co.jp/e-kawanami/10000090/",
+          "product": "プラ鉢・受け皿（鉢カバーなし）",
+          "size": "10号／140〜160cm（鉢底から）・幅80〜100cm",
+          "price": 17800,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "高さの表記がページ内で3通りある。北海道+2,750円、冬は寒冷地へ送らない",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "e-kawanami:10000090"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "ビジネスフラワー（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B01BEVOY2I?tag=tokyoplants0f-22",
+          "product": "白い鉢カバー付き",
+          "size": "10号／高さの記載を確認できず",
+          "price": 18700,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道・沖縄へは送れない",
+          "source": {
+            "type": "amazon",
+            "asin": "B01BEVOY2I"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/monstera/monstera-19",
+          "product": "支柱仕立て・鉢カバー付き",
+          "size": "10号／140〜159cm（起点なし）",
+          "price": 27060,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,750円、沖縄へは送れない",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "スズキラン園（楽天）",
+          "url": "https://item.rakuten.co.jp/yoran/monsutera-10/",
+          "product": "ヘゴ柱・かご・受け皿付き",
+          "size": "10号／約150cm（起点なし）",
+          "price": 22000,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "yoran:monsutera-10"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0,
+          "excluded": "「個人宛発送可能」と明記。北海道・沖縄に送れるかどうかの記載がページ内で食い違うため順位から外した"
+        }
+      ]
+    },
+    "pachira-small": {
+      "plant": "パキラ",
+      "spec": "3〜5号（卓上）",
+      "items": [
+        {
+          "seller": "LAND PLANTS（楽天）",
+          "url": "https://item.rakuten.co.jp/land-plants/pachira-001/",
+          "product": "幹太（太い1本の幹）・白プラ鉢・受け皿付き",
+          "size": "4号／25〜35cm（起点なし）",
+          "price": 2980,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "land-plants:pachira-001"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/pachira-tableplants-s",
+          "product": "編み込み（説明文）・鉢カバー",
+          "size": "3号／15〜25cm（起点なし）",
+          "price": 2980,
+          "shipping": 880,
+          "photo": "代表＋実物写真",
+          "note": "小型は1点ごとに送料880円",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "pachira-tableplants-s",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/pachira/pachira-512",
+          "product": "ねじり・鉢カバー付き",
+          "size": "4号／〜50cm（起点なし）",
+          "price": 4620,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "鉢カバーは「3号鉢用」と記載",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "ソラニワ（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B0DXTLVX9R?tag=tokyoplants0f-22",
+          "product": "編み込み（商品名に「実生」も併記）・プラ鉢",
+          "size": "5号／高さの記載なし",
+          "price": 4840,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "商品名に「農場直送」とあるが、出荷元の農園名は確認できず",
+          "source": {
+            "type": "amazon",
+            "asin": "B0DXTLVX9R"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "花のアリマツ（楽天）",
+          "url": "https://item.rakuten.co.jp/hananoarimatsu/agt-576/",
+          "product": "編み込み・セラアート鉢・受け皿付き",
+          "size": "5号／全高約53cm（起点なし）",
+          "price": 5500,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hananoarimatsu:agt-576"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "miipas（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B0F6CR6NC3?tag=tokyoplants0f-22",
+          "product": "ねじり・鉢カバー付き",
+          "size": "5号／45〜55cm（起点なし）",
+          "price": 5599,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "出品者からの出荷",
+          "source": {
+            "type": "amazon",
+            "asin": "B0F6CR6NC3"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "pachira-8-braided": {
+      "plant": "パキラ",
+      "spec": "8号・編み込み（床置きの中型）",
+      "items": [
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/pachiratwisted-m",
+          "product": "ねじり・化粧鉢と鉢皿（植え替え済み）",
+          "size": "8号／80〜100cm（起点なし）",
+          "price": 12980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "置き配・宅配ボックスでは受け取れない",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "pachiratwisted-m",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "e-RAN（楽天）",
+          "url": "https://item.rakuten.co.jp/eran/10357815/",
+          "product": "5本編み・鉢と受け皿（鉢色を選べる）",
+          "size": "8号／130〜140cm（鉢底から葉先まで）",
+          "price": 13000,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "北海道+1,700円（日時指定不可）",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "eran:10357815"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/pachira/pachira-11",
+          "product": "ねじり・鉢カバー付き",
+          "size": "8号／120〜139cm（起点なし）",
+          "price": 16500,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,750円、沖縄へは送れない",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "pachira-8-single": {
+      "plant": "パキラ",
+      "spec": "8号・1本幹（朴・実生）",
+      "items": [
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/pachira-m",
+          "product": "形「ノーマル」（写真は1本幹。実生かどうかの記載なし）",
+          "size": "8号／75〜110cm（起点なし）",
+          "price": 13980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "pachira-m",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "園芸ネット プラス（楽天）",
+          "url": "https://item.rakuten.co.jp/engei2/270095/",
+          "product": "実生株",
+          "size": "8号／高さの記載なし",
+          "price": 14397,
+          "shipping": 1100,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "engei2:270095"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/pachira/pachira-89",
+          "product": "朴（太い1本の幹）・鉢カバー付き",
+          "size": "8号／120〜139cm（起点なし）",
+          "price": 17820,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "同店の実生8号（高さ目安190〜219cm）は東京圏にだけ届ける",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "pachira-10": {
+      "plant": "パキラ",
+      "spec": "10号以上（大型）",
+      "items": [
+        {
+          "seller": "MAKIMO PLANT（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B002B6586W?tag=tokyoplants0f-22",
+          "product": "スタンダード（仕立ての記載なし）",
+          "size": "10号／約180cm（起点なし）",
+          "price": 14000,
+          "shipping": 1500,
+          "photo": "記載なし",
+          "note": "東京あてでも送料がかかる。鉢の仕様は確認できず",
+          "source": {
+            "type": "amazon",
+            "asin": "B002B6586W"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/pachira-l",
+          "product": "ノーマル・化粧鉢（外径30cm）",
+          "size": "10号／115〜140cm（起点なし）",
+          "price": 19850,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "pachira-l",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "幸せの花急便（楽天）",
+          "url": "https://item.rakuten.co.jp/hanakyubin/10000350/",
+          "product": "5本編み（説明文）・プラ鉢",
+          "size": "10号／165〜175cm（鉢を含む）",
+          "price": 20000,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "鉢カバー付きもある。北海道+2,000円（日時指定不可）、沖縄へは送れない",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hanakyubin:10000350"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/pachira/pachira-25",
+          "product": "ねじり・鉢カバー付き",
+          "size": "10号／140〜159cm（起点なし）",
+          "price": 23100,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,750円、沖縄へは送れない",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "gajumaru-small": {
+      "plant": "ガジュマル",
+      "spec": "3〜4号（卓上）",
+      "items": [
+        {
+          "seller": "SAKURAグループ（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B0DTK9VX4M?tag=tokyoplants0f-22",
+          "product": "仕立ての記載なし・鉢付き",
+          "size": "4号／高さの記載なし",
+          "price": 2380,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "鉢の見た目は仕入れ時期で変わると記載。出品者からの出荷",
+          "source": {
+            "type": "amazon",
+            "asin": "B0DTK9VX4M"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "LAND PLANTS（楽天）",
+          "url": "https://item.rakuten.co.jp/land-plants/ga-029-2/",
+          "product": "幹太・白プラ鉢・受け皿付き",
+          "size": "4号／20〜25cm（起点なし）",
+          "price": 2980,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "land-plants:ga-029-2"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/ficus-retusa/chinese-banyan-2",
+          "product": "股仕立て・プラ鉢",
+          "size": "4号／〜50cm（起点なし）",
+          "price": 3080,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/chinesebanyan-tableplants-s",
+          "product": "仕立ての記載なし・鉢カバー",
+          "size": "3号／20cm前後（起点なし）",
+          "price": 2980,
+          "shipping": 880,
+          "photo": "代表＋実物写真",
+          "note": "鉢の色によっては売り切れ",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "chinesebanyan-tableplants-s",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "gajumaru-8": {
+      "plant": "ガジュマル",
+      "spec": "8号・曲がり仕立て（床置き）",
+      "items": [
+        {
+          "seller": "花のギフト社（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B0CRYBD7CC?tag=tokyoplants0f-22",
+          "product": "昇り竜のような曲がり（説明文）・鉢と鉢皿",
+          "size": "8号／約70cm（器を含む）",
+          "price": 11800,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "鉢のデザインは変わる場合あり。出品者からの出荷",
+          "source": {
+            "type": "amazon",
+            "asin": "B0CRYBD7CC"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "the・green（楽天）",
+          "url": "https://item.rakuten.co.jp/the-green/nobori8sera/",
+          "product": "昇り竜（S字）・白セラアート鉢・受け皿付き",
+          "size": "8号／高さの記載なし",
+          "price": 13000,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "北海道・沖縄・離島へは届けないと記載",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "the-green:nobori8sera"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/ficus-retusa/chinese-banyan-63",
+          "product": "曲がり・プラ鉢",
+          "size": "8号／70〜99cm（起点なし）",
+          "price": 13640,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "鉢カバー付き・「8の字」仕立てもある",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "umbellata-8": {
+      "plant": "フィカス・ウンベラータ",
+      "spec": "8号",
+      "items": [
+        {
+          "seller": "花のアリマツ（楽天）",
+          "url": "https://item.rakuten.co.jp/hananoarimatsu/agt-17/",
+          "product": "幹が分かれた幅広タイプ・セラアート鉢・受け皿付き",
+          "size": "8号／全高100〜120cm・最大幅60〜70cm（起点なし）",
+          "price": 10450,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "北海道は送料2,000円",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hananoarimatsu:agt-17"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "LAND PLANTS（楽天）",
+          "url": "https://item.rakuten.co.jp/land-plants/10000554/",
+          "product": "自然樹形・白セラアート鉢・受け皿付き",
+          "size": "8号／90cm（起点なし）",
+          "price": 12800,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "北海道・沖縄も送料無料の表示（離島は追加の場合あり）",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "land-plants:10000554"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/ficus-umbellata/ficus-umbellata-29",
+          "product": "ノーマル・プラ鉢",
+          "size": "8号／120〜139cm（起点なし）",
+          "price": 13200,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "受け皿の付属の記載なし",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "産地マーケット（Amazon）",
+          "url": "https://www.amazon.co.jp/dp/B07H7D2FBQ?tag=tokyoplants0f-22",
+          "product": "曲がり（S字）・樹脂鉢・受け皿付き",
+          "size": "8号／約130cm（鉢底から）",
+          "price": 12800,
+          "shipping": 2500,
+          "photo": "代表",
+          "note": "仕立てがほかの3件と違う。出品者からの出荷",
+          "source": {
+            "type": "amazon",
+            "asin": "B07H7D2FBQ"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "umbellata-10": {
+      "plant": "フィカス・ウンベラータ",
+      "spec": "10号（大型）",
+      "items": [
+        {
+          "seller": "花右衛門（楽天）",
+          "url": "https://item.rakuten.co.jp/hanaemon/617645/",
+          "product": "鉢の材質の記載なし",
+          "size": "10号／160cm（鉢を含む）",
+          "price": 13200,
+          "shipping": 3800,
+          "photo": "記載なし",
+          "note": "会社・店舗あては送料が1,000円安くなる",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hanaemon:617645"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/ficus-umbellata/ficus-umbellata-28",
+          "product": "ノーマル・プラ鉢",
+          "size": "10号／160〜169cm（起点なし）",
+          "price": 19800,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,750円、沖縄へは送れない",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "the・green（楽天）",
+          "url": "https://item.rakuten.co.jp/the-green/unbe10/",
+          "product": "鉢の材質の記載なし（写真の鉢カバーは別売）",
+          "size": "10号／160〜180cm（鉢底から）",
+          "price": 22000,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "北海道・沖縄・離島へは送れないと記載。冬は東北・信越・北陸へ送らない",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "the-green:unbe10"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/umbellata-l",
+          "product": "化粧鉢と鉢皿",
+          "size": "10号／130〜145cm（起点なし）",
+          "price": 26980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,500円",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "umbellata-l",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "LAND PLANTS（楽天）",
+          "url": "https://item.rakuten.co.jp/land-plants/10008555/",
+          "product": "自然樹形・白セラアート鉢・受け皿付き",
+          "size": "10号／150〜180cm・幅90〜130cm（起点なし）",
+          "price": 32800,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "北海道は送料7,700円（同じ店の8号は無料）",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "land-plants:10008555"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "augusta-8": {
+      "plant": "ストレリチア・オーガスタ",
+      "spec": "8号",
+      "items": [
+        {
+          "seller": "LAND PLANTS（楽天）",
+          "url": "https://item.rakuten.co.jp/land-plants/10000572/",
+          "product": "「ニコライ」表記・白セラアート鉢・受け皿付き",
+          "size": "8号／90〜120cm・幅55〜65cm（起点なし）",
+          "price": 11111,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "land-plants:10000572"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "the・green（楽天）",
+          "url": "https://item.rakuten.co.jp/the-green/oga8sera/",
+          "product": "黒セラアート鉢・受け皿付き",
+          "size": "8号／90〜110cm（鉢底から）",
+          "price": 12000,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "北海道・沖縄・離島へは届けないと記載。お届けは原則玄関まで",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "the-green:oga8sera"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/augusta/augusta-43",
+          "product": "プラ鉢",
+          "size": "8号／70〜99cm（起点なし）",
+          "price": 12980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "室内に置くなら受け皿を用意するよう説明あり",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "augusta-10": {
+      "plant": "ストレリチア・オーガスタ",
+      "spec": "10号",
+      "items": [
+        {
+          "seller": "e-RAN（楽天）",
+          "url": "https://item.rakuten.co.jp/eran/10359856/",
+          "product": "2〜3株立ち・プラ鉢・受け皿付き",
+          "size": "10号／約150cm（鉢底から葉先まで）",
+          "price": 17000,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "輸送中に葉が傷つく場合があると明記。北海道+1,700円",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "eran:10359856"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/augusta/augusta-41",
+          "product": "プラ鉢",
+          "size": "10号／140〜159cm（起点なし）",
+          "price": 19800,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,750円、沖縄へは送れない",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/birdofparadisetree-l",
+          "product": "化粧鉢と鉢皿",
+          "size": "10号／120〜145cm（起点なし）",
+          "price": 19980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道+2,500円、沖縄へは送らない",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "birdofparadisetree-l",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "everfresh-8": {
+      "plant": "エバーフレッシュ（8号）",
+      "spec": "",
+      "items": [
+        {
+          "seller": "the・green（楽天）",
+          "url": "https://item.rakuten.co.jp/the-green/eba8wh/",
+          "product": "現品から選ぶ・白セラアート鉢・受け皿付き",
+          "size": "8号／100〜130cm（鉢底から・現品ごとに記載）",
+          "price": 12800,
+          "shipping": 0,
+          "photo": "現品",
+          "note": "現品7点のうち3点が在庫（確認時点）。北海道・沖縄・離島へは届けないと記載",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "the-green:eba8wh"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "LAND PLANTS（楽天）",
+          "url": "https://item.rakuten.co.jp/land-plants/10000588/",
+          "product": "自然樹形・白セラアート鉢・受け皿付き",
+          "size": "8号／90〜100cm・幅50〜70cm（起点なし）",
+          "price": 13980,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "land-plants:10000588"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/everfresh/everfresh-36",
+          "product": "株立ち（ボサ造り）・鉢カバー付き",
+          "size": "8号／120〜139cm（起点なし）",
+          "price": 18150,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "鉢カバーなしの8号は曲がり仕立てのみ",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "benghalensis-8": {
+      "plant": "フィカス・ベンガレンシス（8号・曲がり仕立て）",
+      "spec": "",
+      "items": [
+        {
+          "seller": "the・green（楽天）",
+          "url": "https://item.rakuten.co.jp/the-green/bengal8wh-s/",
+          "product": "S字・白セラアート鉢・受け皿付き",
+          "size": "8号／90〜100cm（鉢底から）",
+          "price": 13000,
+          "shipping": 0,
+          "photo": "代表",
+          "note": "北海道・沖縄・離島へは届けないと記載",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "the-green:bengal8wh-s"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "LAND PLANTS（楽天）",
+          "url": "https://item.rakuten.co.jp/land-plants/10000805/",
+          "product": "3Dカーブ・白セラアート鉢・受け皿付き",
+          "size": "8号／90〜100cm・幅30〜45cm（起点なし）",
+          "price": 17800,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "land-plants:10000805"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/ficus-benghalensis/ficus-benghalensis-59",
+          "product": "曲がり・プラ鉢",
+          "size": "8号／120〜139cm（起点なし）",
+          "price": 18040,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "AND PLANTS",
+          "url": "https://andplants.jp/products/benghalensiscurvedoka-m",
+          "product": "曲がり（沖縄産と表記）・化粧鉢と鉢皿",
+          "size": "8号／100〜120cm（起点なし）",
+          "price": 19980,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "「沖縄産」は産地の表記で、出荷はAND PLANTSから",
+          "source": {
+            "type": "manual",
+            "host": "andplants.jp",
+            "handle": "benghalensiscurvedoka-m",
+            "note": "AND PLANTS（Shopify）は機械的な取得を429で断っているため手動"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "sansevieria-6": {
+      "plant": "サンスベリア（6号）",
+      "spec": "",
+      "items": [
+        {
+          "seller": "幸せの花急便（楽天）",
+          "url": "https://item.rakuten.co.jp/hanakyubin/10000337/",
+          "product": "トラノオ・角プラ鉢",
+          "size": "6号／約70cm（起点なし）",
+          "price": 4780,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "陶器鉢もある。北海道+1,500円、沖縄+3,000円",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "hanakyubin:10000337"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "フラワーコーポレーション（楽天）",
+          "url": "https://item.rakuten.co.jp/flower-corp/10001266/",
+          "product": "ローレンティ・セラート鉢・受け皿付き",
+          "size": "6号／60〜80cm（商品全体）",
+          "price": 4950,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "flower-corp:10001266"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "HitoHana",
+          "url": "https://hitohana.tokyo/indoor-plants/sansevieria/sansevieria-3",
+          "product": "トラノオ・角高陶器鉢",
+          "size": "6号／70〜99cm（起点なし）",
+          "price": 7425,
+          "shipping": 0,
+          "photo": "代表＋実物写真",
+          "note": "北海道・沖縄へは送れない",
+          "source": {
+            "type": "manual"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "ITANSE（楽天）",
+          "url": "https://item.rakuten.co.jp/itanse/kan01391/",
+          "product": "ローレンティ・受け皿付き",
+          "size": "6号／高さの記載なし",
+          "price": 8280,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "itanse:kan01391"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    },
+    "pothos-small": {
+      "plant": "ポトス（4〜5号・吊り鉢を含む）",
+      "spec": "",
+      "items": [
+        {
+          "seller": "園芸ネット プラス（楽天）",
+          "url": "https://item.rakuten.co.jp/engei2/152851/",
+          "product": "ゴールデン・吊り鉢",
+          "size": "5号／つるの長さの記載なし",
+          "price": 1199,
+          "shipping": 1100,
+          "photo": "記載なし",
+          "note": "本体とほぼ同じ額の送料がかかる",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "engei2:152851"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "PLANCHU（楽天）",
+          "url": "https://item.rakuten.co.jp/planchu/200235/",
+          "product": "ゴールデン・プラ鉢・受け皿付き",
+          "size": "4号／高さの記載なし",
+          "price": 2380,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "planchu:200235"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "プランツ フルル（楽天）",
+          "url": "https://item.rakuten.co.jp/fululu/t-pts-5hng/",
+          "product": "品種の記載なし・吊り鉢・水受け皿",
+          "size": "5号／吊り具を含む全長約37cm",
+          "price": 2480,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "北海道・沖縄・離島は送料無料の対象外",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "fululu:t-pts-5hng"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        },
+        {
+          "seller": "ITANSE（楽天）",
+          "url": "https://item.rakuten.co.jp/itanse/kan00407/",
+          "product": "ゴールデン・角鉢・受け皿付き",
+          "size": "4号／高さの記載なし",
+          "price": 2980,
+          "shipping": 0,
+          "photo": "記載なし",
+          "note": "",
+          "source": {
+            "type": "rakuten",
+            "itemCode": "itanse:kan00407"
+          },
+          "stock": "in",
+          "checkedAt": "2026-11-18",
+          "failCount": 0
+        }
+      ]
+    }
+  }
+}

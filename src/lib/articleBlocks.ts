@@ -14,12 +14,14 @@
  *   <!-- product-cards title="..." own="soil" amazon="true" -->  - **向いている**：… ...  <!-- /product-cards -->
  *       自社商品（soil / hydro / pot）を写真つきの商品カードで出す。箇条書きはその商品の良い点・注意点。
  *       amazon="true" なら frontmatter の amazonProducts を「他の選択肢」として下に並べる
+ *   <!-- shop-compare id="monstera-8" --><!-- /shop-compare -->
+ *       通販比較の表。src/data/shop-comparison.json の tables[id] を送料込み総額の安い順に描画（毎朝自動更新）
  *
  * 内側はremarkで既にHTML化されているので、ここでは <li> / <h4> / <table> を素朴に切り出す。
  * 入れ子のブロックには対応しない。
  */
 
-export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar", "mix", "amazon-cards", "figure", "product-cards"] as const;
+export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar", "mix", "amazon-cards", "figure", "product-cards", "shop-compare"] as const;
 export type BlockName = (typeof BLOCK_NAMES)[number];
 
 export interface KeyFactItem {
@@ -58,7 +60,8 @@ export type ParsedBlock =
   | { kind: "mix"; title: string; items: MixItem[] }
   | { kind: "amazon-cards"; title: string; note: string }
   | { kind: "product-cards"; title: string; own: OwnProductType | null; showAmazon: boolean; points: KeyFactItem[] }
-  | { kind: "figure"; src: string; caption: string; credit: string; align: "wide" | "normal" };
+  | { kind: "figure"; src: string; caption: string; credit: string; align: "wide" | "normal" }
+  | { kind: "shop-compare"; title: string; id: string };
 
 export type OwnProductType = "soil" | "hydro" | "pot";
 
@@ -145,6 +148,8 @@ export function parseBlock(name: BlockName, attrs: Record<string, string>, inner
       const own = attrs.own === "soil" || attrs.own === "hydro" || attrs.own === "pot" ? attrs.own : null;
       return { kind: "product-cards", title, own, showAmazon: attrs.amazon === "true", points: listItems(innerHtml).map(splitLabelValue) };
     }
+    case "shop-compare":
+      return { kind: "shop-compare", title, id: attrs.id ?? "" };
     case "figure":
       return {
         kind: "figure",

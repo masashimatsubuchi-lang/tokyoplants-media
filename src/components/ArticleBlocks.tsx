@@ -3,6 +3,7 @@ import type { AmazonProduct, BaseProduct } from "@/lib/posts";
 import { OWN_PRODUCTS, findOwnInBaseProducts, ownProductUrl } from "@/lib/ownProducts";
 import { amazonIsPrime, amazonPrice, amazonShortNote } from "@/lib/amazonDisplay";
 import PrimeBadge from "@/components/PrimeBadge";
+import ShopCompare from "@/components/ShopCompare";
 
 /**
  * 記事本文に埋め込む視覚ブロック群（2026-09-22導入）。
@@ -482,6 +483,8 @@ export default function ArticleBlock({
       return <AmazonCards block={block} products={amazonProducts} />;
     case "figure":
       return <Figure block={block} />;
+    case "shop-compare":
+      return <ShopCompare id={block.id} title={block.title} />;
     case "product-cards":
       return <ProductCards block={block} baseProducts={baseProducts} amazonProducts={amazonProducts} />;
   }
