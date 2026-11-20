@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1503346339662-b25ed316827c?w=1200&q=80
 title: "誕生日プレゼント 植物好きへ｜外さない実用ギフト8選"
 description: "植物好きな友人・恋人・家族への誕生日プレゼント。相手との距離感と予算で選べる実用ギフト8つを、外すリスクつきで比較しました。¥2,000のリーフタオル全8種の選び方も解説します。"
 date: "2026-06-06"
-updated: "2026-11-04"
+updated: "2026-11-20"
 category: "research"
 tags:
   - 植物好き
@@ -12,6 +12,7 @@ tags:
   - Daily Botanical Towel
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "research/christmas-gift-houseplant-lover"
   - "research/houseplant-lover-gift-ideas"
   - "research/hikkoshi-iwai-plant-lover-gift"
   - "research/premium-plant-gift-over-10000"
@@ -56,6 +57,10 @@ amazonProducts:
 - **予算¥18,000〜**：レザー小物。節目の誕生日に
 - **避けたい**：置き場所が要るもの・香りが強いもの・手間が増えるもの
 <!-- /key-facts -->
+
+<!-- callout type="info" title="クリスマスプレゼントを探している方へ（12月）" -->
+12月に植物好きへ贈るなら、配送中の寒さで傷まないものを選ぶ、日時指定できない配送から逆算して手元で受け取っておく、といった冬ならではの条件が加わります。予算別の7つと、2026年のクリスマスに間に合わせる段取り（配送日数・まとめ買いセット・ギフトバッグの数え方）は[植物好きへのクリスマスプレゼント](/research/christmas-gift-houseplant-lover)にまとめています。12月生まれの方への誕生日プレゼントを選ぶときも参考になります。
+<!-- /callout -->
 
 ---
 
@@ -107,7 +112,7 @@ amazonProducts:
 
 植物好きへの誕生日プレゼントとして、**最初に検討してほしい一品**です。
 
-モンステラ・アンスリウム・アロカシアの葉をそのままモチーフにしたハンドタオル（マイクロファイバー／ポリエステル100%、約30cm×20cm）。吸水性が高く速乾で、植物好きのインテリアに自然になじみます。
+モンステラ・アンスリウム・アロカシアの葉をそのままモチーフにしたハンドタオル（マイクロファイバー、約30cm×20cm）。吸水性が高く速乾で、植物好きのインテリアに自然になじみます。
 
 <!-- figure src="/images/products/botanical-towel-lineup-8.webp" caption="全8種。モンステラ・デリシオーサ（緑／斑入り）、アンスリウム・ワロクアーナム（緑／深緑）、アンスリウム・キング オブ スペード（緑／黒）、アロカシア（緑／ピンク）。相手が育てている植物に合わせて選べます。" credit="tokyoplants" align="wide" --><!-- /figure -->
 

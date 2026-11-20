@@ -1,11 +1,11 @@
 ---
 image: "https://images.unsplash.com/photo-1556739478-a24ae3c30f6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
 title: "観葉植物とエアコンの風｜同じ部屋でいい、吹き出し口から1.5m離す"
-description: "夏のエアコンが観葉植物に与えるダメージ（乾燥・冷風・急激な温度差）を解説。エアコンのある部屋での正しい置き場所と、乾燥対策・葉水の効果的なやり方をまとめました。"
+description: "観葉植物はエアコンのある部屋でも、吹き出し口から1.5m離せば育てられます。冷房・暖房の風が葉を傷める仕組みと湿度の補い方、乾いた風に比較的強い種類・弱い種類まで。"
 date: "2026-06-03"
-updated: "2026-10-27"
+updated: "2026-11-20"
 category: "guide"
-tags: ["エアコン", "夏", "夏の管理"]
+tags: ["エアコン", "夏", "夏の管理", "暖房", "乾燥に強い"]
 author: "tokyoplants 編集部"
 appCta: "エアコンを使う季節は、土の乾き方が変わります。通知の間隔も合わせて調整できます。"
 relatedSlugs:
@@ -13,6 +13,9 @@ relatedSlugs:
   - "guide/rainy-season-houseplant-care"
   - "soil/hydroculture-medium-comparison"
   - "guide/winter-heating-appliances-and-houseplants"
+  - "research/humidity-and-leaf-damage-thresholds"
+  - "species/beaucarnea-recurvata"
+  - "guide/sansevieria-care"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -99,6 +102,61 @@ amazonProducts:
 
 培地の選び方については、[ハイドロ培地比較（LECA・溶岩石）](/soil/hydroculture-medium-comparison)も参考にしてください。
 
+## エアコンの風に強い観葉植物・弱い観葉植物
+
+「エアコンに強い」と言える種類は、**乾いた空気に耐えられる種類**のことです。冷房も暖房も、風が当たると葉から水が奪われ、部屋の湿度も下がります。乾燥に強い種類はこの両方に耐えやすい一方で、吹き出し口の風を直接受け続けて平気な種類はありません。強い種類を選んだ場合も、吹き出し口から1.5m以上離すのは同じです。
+
+<!-- cards cols="2" -->
+#### サンスベリア
+- 強い理由: 厚い葉に水を蓄え、低い湿度にも耐える
+- 気をつけること: 冬は水をかなり控える。過湿で根腐れしやすい
+- 詳しく: [サンスベリアの育て方](/guide/sansevieria-care)
+
+#### ザミオクルカス（ZZプラント）
+- 強い理由: 太い地下茎と葉に水を蓄え、乾燥に非常に強い
+- 気をつけること: 乾燥より寒さが苦手。冬の夜の冷え込みに注意
+- 詳しく: [ザミオクルカスの冬越し](/guide/zamioculcas-winter-care)
+
+#### トックリラン
+- 強い理由: 幹の根元に水を蓄える。冬の暖房の乾いた空気でもよく育つとされる
+- 気をつけること: 冬は水を大きく減らす
+- 詳しく: [トックリラン図鑑](/species/beaucarnea-recurvata)
+
+#### ユッカ（青年の木）
+- 強い理由: 乾燥に強く、室内の温度と湿度で十分に育つ
+- 気をつけること: 水のやりすぎが失敗のもと。冷たい風と急な温度変化を避ける
+- 詳しく: [ユッカ図鑑](/species/yucca-elephantipes)
+
+#### ハラン（アスピディストラ）
+- 強い理由: 低い湿度や暗さに耐える丈夫さで知られる
+- 気をつけること: 葉に水を蓄えないので、土の乾かしすぎは避ける
+- 詳しく: [ハラン図鑑](/species/aspidistra-elatior)
+
+#### サボテン・多肉植物
+- 強い理由: 乾いた環境の出身で、乾いた空気を苦にしない
+- 気をつけること: 冬は風よりも窓辺の冷えと水のやりすぎが問題
+- 詳しく: [多肉植物の冬越し](/guide/succulent-winter-care)
+<!-- /cards -->
+
+このほか、米ネブラスカ大学の園芸普及機関は、ポトス・フィロデンドロン・ドラセナも乾いた空気に耐える種類に挙げています。ただしサンスベリアやザミオクルカスほど強くはないので、風の当たらない場所に置き、葉先が茶色くなり始めたら湿度を補ってください（[ポトスの冬越し](/guide/pothos-winter-care)）。
+
+反対に、**エアコンのある部屋で特に傷みやすい**のは、湿度の高い環境を好む次の種類です。同じ大学の資料はシダ類・レックスベゴニア・マランタ・カラテアを高い湿度が必要な種類に挙げており、当サイトではアロカシアの冬の湿度を60%前後、ベルベット葉のアンスリウム（クリスタリナム・ワロクアーナムなど）を70〜80%以上と、高めに置いています。
+
+| 傷みやすい種類 | 起きやすい症状 | 詳しい記事 |
+|---|---|---|
+| カラテア・マランタ | 葉が巻く、葉の縁から茶色くなる | [カラテアの冬越し](/guide/calathea-winter-care)／[マランタの冬越し](/guide/maranta-winter-care) |
+| シダ類（タマシダ・アジアンタム） | 細かい葉がチリチリに乾いて落ちる | [タマシダの冬越し](/guide/nephrolepis-winter-care)／[アジアンタム属](/species/genus-adiantum) |
+| ベゴニア | 葉の縁が乾いて縮れる | [ベゴニアの冬越し](/guide/begonia-winter-care) |
+| アロカシア・ベルベット葉のアンスリウム | 葉先が枯れる、新しい葉が開ききらない | [アンスリウムの湿度管理](/guide/anthurium-humidity-guide)／[アロカシアの冬越し](/guide/alocasia-winter-care) |
+
+これらはエアコンの部屋に置くなら、吹き出し口から離したうえで、加湿器などで部屋の湿度を補うことが前提になります。目指す湿度の数字は[観葉植物の湿度は何％？](/research/humidity-and-leaf-damage-thresholds)で整理しています。冬の暖房はエアコン以外の器具（ファンヒーター・ストーブ・床暖房）で傷み方が変わるので、器具ごとの距離は[暖房器具別の置き方](/guide/winter-heating-appliances-and-houseplants)を見てください。
+
+<!-- character-note character="shadee" type="tip" -->
+乾燥に強い種類でも、エアコンの真下は避けてあげてね。冬は「乾燥に強い」より「寒さに強い」かのほうが大事な種類も多いの。ザミオクルカスやユッカは乾いた風には耐えても、暖房を切った夜の窓辺の冷えは苦手だよ。
+<!-- /character-note -->
+
+参考：University of Nebraska–Lincoln Extension in Lancaster County「Success with Houseplants – Humidity」（乾いた空気に耐える種類・高い湿度が必要な種類）https://lancaster.unl.edu/houseplants-humidity ／ NC State Extension, North Carolina Extension Gardener Plant Toolbox（*Dracaena trifasciata*：低い湿度に耐える、*Zamioculcas zamiifolia*：乾燥に非常に強い、*Beaucarnea recurvata*：冬の暖房の空気でもよく育つ、*Yucca gigantea*：乾燥に強く室内の温度・湿度で十分）https://plants.ces.ncsu.edu/
+
 ## まとめ
 
 - エアコンの冷風が直接当たると葉先が枯れ、根も冷える
@@ -106,5 +164,6 @@ amazonProducts:
 - 対策の優先順位は「置き場所を変える → 湿度を補う」の順
 - 吹き出し口から1.5m以上離し、葉水やトレーで湿度を保つ
 - ハイドロカルチャーは乾燥耐性が高く、エアコン環境に向いている
+- エアコンの風に比較的強いのはサンスベリア・ザミオクルカス・トックリラン・ユッカなど乾燥に強い種類。それでも吹き出し口の直撃は避ける
 
 夏の室内管理は「暑さ」ではなく「乾燥と冷風」がメインの敵です。置き場所の調整は今日からすぐできるので、まず鉢の位置を見直してみてください。

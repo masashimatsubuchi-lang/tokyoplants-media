@@ -1,19 +1,19 @@
 ---
 image: "https://images.unsplash.com/photo-1710866353248-312bbd5a444d?w=1200&q=80"
 title: "観葉植物の保温グッズ比較｜不織布・鉢カバー"
-description: "温室やヒートマットまでは要らない人向けに、不織布カバー・断熱鉢カバー・アルミ保温シート・床冷え対策の鉢台を比較。冷気の3つの侵入経路ごとに効く道具と、Amazonで購入できる商品を紹介します。"
+description: "観葉植物の防寒グッズを、不織布の保温カバー・断熱鉢カバー・アルミシート・鉢台の4つで比較。冷気の3つの経路ごとに効く道具と、家にある段ボールで済ませる方法も紹介します。"
 date: "2026-09-21"
 updated: "2026-11-20"
 category: "review"
-tags: ["冬越し", "保温", "不織布", "鉢カバー", "断熱シート", "観葉植物"]
+tags: ["冬越し", "保温", "防寒グッズ", "保温カバー", "不織布", "鉢カバー", "断熱シート", "観葉植物"]
 author: "tokyoplants 編集部"
 relatedSlugs:
+  - "guide/diy-winter-insulation"
   - "review/heat-mat-for-houseplants-comparison"
   - "review/plant-rack-and-greenhouse-review"
   - "guide/winter-hardiness-ranking-houseplants"
   - "guide/winter-watering-houseplants"
   - "review/greenhouse-heater-thermostat-comparison"
-  - "guide/diy-winter-insulation"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -47,6 +47,10 @@ amazonProducts:
 # 観葉植物の保温グッズ比較｜不織布・鉢カバー
 
 「温室やヒートマットを買うほどではないけれど、窓際の鉢が冬に弱る」「夜だけ何か被せておきたい」——観葉植物の冬越しで多いのが、この「温室までは要らない層」の悩みです。この記事では、ヒートマット（[観葉植物用ヒートマット比較](/review/heat-mat-for-houseplants-comparison)）と簡易温室（[プランツラックと簡易温室のレビュー](/review/plant-rack-and-greenhouse-review)）は既存記事に譲り、**不織布カバー・断熱鉢カバー・アルミ保温シート・床冷え対策の鉢台**という「電気を使わない保温グッズ」に絞って比較します。
+
+<!-- callout type="tip" title="買わずに家にあるもので済ませたい方へ" -->
+寒波の夜だけしのぎたい、まずはお金をかけずに試したい、という場合は、段ボールや発泡スチロールの箱でも、熱は作れないものの、床と窓からの冷えを断って夜の冷え方を遅らせることはできます。敷く・立てる・入れる・被せる・巻くの5つのやり方と、夕方に覆って朝に外す手順は[段ボールと発泡スチロールで観葉植物を防寒](/guide/diy-winter-insulation)にまとめています。この記事は、毎晩使う道具として買いそろえる場合の比較です。
+<!-- /callout -->
 
 <mark>※本記事で紹介するAmazon商品は、2026-09-21時点で実際にAmazon商品ページを確認し、評価・レビュー件数・在庫状況（★3.2以上・レビュー10件以上・Prime対象・在庫あり）を満たすもののみ掲載しています。価格・在庫は変動するため、ご購入前に最新情報をAmazon商品ページでご確認ください。</mark>
 
