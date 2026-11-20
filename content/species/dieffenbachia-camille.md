@@ -10,6 +10,7 @@ genus: "dieffenbachia"
 relatedSlugs:
   - "guide/cats-and-houseplants-safety"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/dieffenbachia-winter-care"
 baseProducts:
   - title: "希少植物一覧｜All plants"
     url: "https://www.tokyoplants.com/categories/6382090"

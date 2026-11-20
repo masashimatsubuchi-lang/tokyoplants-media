@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "guide/cats-and-houseplants-safety"
   - "guide/succulent-winter-care"
+  - "guide/crassula-winter-care"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

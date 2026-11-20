@@ -16,6 +16,8 @@ relatedSlugs:
   - "guide/winter-hardiness-ranking-houseplants"
   - "guide/winter-dont-do-list"
   - "review/thermo-hygrometer-comparison"
+  - "guide/croton-winter-care"
+  - "guide/coffee-plant-winter-care"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

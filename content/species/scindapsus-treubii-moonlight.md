@@ -14,6 +14,7 @@ relatedSlugs:
   - "species/rhaphidophora-tetrasperma"
   - "guide/pothos-care"
   - "soil/hydroculture-complete-guide"
+  - "guide/scindapsus-winter-care"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
