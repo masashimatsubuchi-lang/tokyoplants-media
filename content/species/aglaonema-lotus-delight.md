@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1504575749324-47f312846203?w=1200&q=80
 title: "アグラオネマ・ロータスデライト｜Aglaonema 'Lotus Delight' 図鑑"
 description: "アグラオネマ・ロータスデライト（Aglaonema 'Lotus Delight'）の特徴・育て方を解説。ピンク〜レッドの華やかな葉色が特徴の人気観葉植物の図鑑ページです。"
 date: "2026-06-09"
+updated: "2026-11-21"
 category: "species"
 genus: "aglaonema"
 tags:
@@ -23,13 +24,8 @@ amazonProducts:
   - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
     asin: "B0B3M47RQJ"
     image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "直下約40cmでPPFD 700と公表された電球型ライト。100〜250に合わせるなら40cmより離して使う。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
+    note: "直下約40cmでPPFD 700と公表された電球型ライト。100〜250に合わせるなら40cmより離して使う。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）。新型は約450g（商品ページの表示）"
     price: "¥3,426"
-  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
-    asin: "B0C2JTFF2Y"
-    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
-    price: "¥1,910"
   - title: "サンアンドホープ パーライト 5L"
     asin: "B0FN7QL8JY"
     image: "https://m.media-amazon.com/images/I/517JqeUVVLL._AC_SL200_.jpg"
@@ -142,7 +138,7 @@ amazonProducts:
 
 成長期（4〜9月）に月1〜2回の薄めの液肥（規定量の半分）を与える。冬は施肥停止。
 
-距離つきのPPFDを公表している電球型の育成ライトと取り付け用のクリップソケット、用土に混ぜるパーライトの例です。
+距離つきのPPFDを公表している電球型の育成ライトと、用土に混ぜるパーライトの例です。この電球型（BRIM SOL 24W）は新型で約450gあるため、耐荷重の大きいソケットやスタンドと組み合わせてください（BRIMのクリップソケットCS01の表示は最大約350g）。取り付け方は[植物育成ライトの設置例](/guide/grow-light-installation-ideas)にまとめています。
 
 <!-- amazon-cards title="発色を保つ補光と用土の素材" -->
 <!-- /amazon-cards -->

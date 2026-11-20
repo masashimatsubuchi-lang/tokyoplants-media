@@ -3,6 +3,7 @@ image: "https://baseec-img-mng.akamaized.net/images/item/origin/24c18a86d53507b3
 title: "モンステラ・ミント｜希少な斑入りモンステラの特徴と育て方"
 description: "モンステラ・ミント（Monstera Mint）の基本情報、ミント斑の仕組み、タイコンステレーションとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
+updated: "2026-11-21"
 category: "species"
 tags: ["モンステラ", "斑入り", "希少種"]
 author: "tokyoplants 編集部"
@@ -36,13 +37,8 @@ amazonProducts:
   - title: "BRIM SOL 24W 植物育成ライト（5800K）"
     asin: "B0B3M47RQJ"
     image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "直下約40cmでPPFD700と公表された、電球型の育成ライト。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。目安の200〜350に合わせるなら、それより距離を離して使う"
+    note: "直下約40cmでPPFD700と公表された、電球型の育成ライト。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）。目安の200〜350に合わせるなら、それより距離を離して使う。新型は約450g（商品ページの表示）"
     price: "¥3,426"
-  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
-    asin: "B0C2JTFF2Y"
-    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・出荷元Amazon・Prime対象）"
-    price: "¥1,910"
   - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
     asin: "B0F1K913VB"
     image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
@@ -165,7 +161,7 @@ amazonProducts:
 
 モスポールに誘引すると葉が大型化し、ミント斑が美しく入った大きな葉が展開しやすくなる。斑入り品種は支柱への誘引がより重要で、大きな葉に入る美しいミント模様を楽しみたいなら必須。
 
-PPFD 200〜350を確保するための電球型育成ライトとクリップソケット、誘引に使える支柱の例です。ライトは近づけるほどPPFDが上がるため、距離で調整します。
+PPFD 200〜350を確保するための電球型育成ライトと、誘引に使える支柱の例です。ライトは近づけるほどPPFDが上がるため、距離で調整します。この電球型（BRIM SOL 24W）は新型で約450gあるため、耐荷重の大きいソケットやスタンドと組み合わせてください（BRIMのクリップソケットCS01の表示は最大約350g）。取り付け方は[植物育成ライトの設置例](/guide/grow-light-installation-ideas)にまとめています。
 
 <!-- amazon-cards title="PPFDを確保する育成ライトと、誘引用の支柱" -->
 <!-- /amazon-cards -->

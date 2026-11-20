@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1643410286915-a5c403c6cf76?w=1200&q=80
 title: "アガベの冬越し｜室内に取り込む温度の目安と育成ライトでの徒長対策"
 description: "品種がわからない株は夜5℃を下回る前に室内へ。パリーのように乾いていれば強い寒さに耐える種もあります。室内で締まった姿を保つ光の量と、ライトの距離・点灯時間も。"
 date: "2026-11-21"
+updated: "2026-11-21"
 category: "guide"
 tags: ["アガベ", "冬越し", "徒長", "育成ライト", "多肉植物", "耐寒性"]
 author: "tokyoplants 編集部"
@@ -19,13 +20,8 @@ amazonProducts:
   - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
     asin: "B0B3M47RQJ"
     image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "室内に取り込んだアガベの真上から、強い光を当てる電球型。評価★4.4・レビュー686件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・販売元BRIM・出荷元Amazon）。PPFD 700（直下約40cm、メーカー表示）"
+    note: "室内に取り込んだアガベの真上から、強い光を当てる電球型。評価★4.4・レビュー686件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・販売元BRIM・出荷元Amazon）。PPFD 700（直下約40cm、メーカー表示）。新型は約450g（商品ページの表示）"
     price: "¥3,426"
-  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
-    asin: "B0C2JTFF2Y"
-    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "電球型ライトを棚板に挟み、株との距離を決めて留める。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・販売元BRIM・出荷元Amazon）"
-    price: "¥2,123"
   - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
     asin: "B0CJBM2WV9"
     image: "https://m.media-amazon.com/images/I/51B2UmXbU4L._AC_SL200_.jpg"
@@ -100,9 +96,9 @@ amazonProducts:
 - **締まった姿を保つ目安**：PPFD 400〜600以上
 - **夜は消す**：アガベを含む多くの多肉植物は、夜に気孔を開いて二酸化炭素を取り込む仕組み（CAM型光合成）を持つので、暗い時間も必要です
 
-たとえばBRIM SOL 24Wは、メーカーが「直下約40cmでPPFD 700」と公表しています。光はおおよそ距離の2乗に反比例して弱くなるので、計算上はPPFD 400に届くのは約50cmまでです。ただしこれはライトの真下1点の値なので、実際には株の頭から30〜40cmに置き、1灯で照らすのは真下の1〜2鉢と考えます。鉢が多いなら、パネル型の比較を[パネル型育成ライト](/review/panel-grow-light-comparison)で扱っています。
+たとえばBRIM SOL 24Wは、メーカーが「直下約40cmでPPFD 700」と公表しています。光はおおよそ距離の2乗に反比例して弱くなるので、計算上はPPFD 400に届くのは約50cmまでです。ただしこれはライトの真下1点の値なので、実際には株の頭から30〜40cmに置き、1灯で照らすのは真下の1〜2鉢と考えます。なお、SOL 24Wは新型で約450gあるため、耐荷重の大きいソケットやスタンドと組み合わせてください（BRIMのクリップソケットCS01の表示は最大約350g）。取り付け方は[植物育成ライトの設置例](/guide/grow-light-installation-ideas)にまとめています。鉢が多いなら、パネル型の比較を[パネル型育成ライト](/review/panel-grow-light-comparison)で扱っています。
 
-<!-- amazon-cards title="室内のアガベに強い光を足す電球型ライト・ソケット・タイマー" -->
+<!-- amazon-cards title="室内のアガベに強い光を足す電球型ライトとタイマー" -->
 <!-- /amazon-cards -->
 
 <!-- character-note character="shadee" type="tip" -->

@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1632900931939-9a1028f7cef6?w=1200&q=80
 title: "ザミオクルカス・レイブンはなぜ黒い？葉の色素の科学"
 description: "ザミオクルカス・レイブンの葉が黒くなる仕組みを、アントシアニンという色素の観点から解説。新芽が緑から黒へ変化する理由、光との関係、育成のヒントまで紹介します。"
 date: "2026-09-02"
+updated: "2026-11-21"
 category: "research"
 tags: ["ザミオクルカス", "レイブン", "観葉植物 科学", "色素"]
 author: "tokyoplants 編集部"
@@ -14,16 +15,16 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
-    asin: "B0B3M47RQJ"
-    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "窓から遠い暗い部屋で、明るさを足す電球型の育成ライト。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥3,426"
+  - title: "HaruDesign 植物育成ライト GL-A 6K（E26・白色系5800K）"
+    asin: "B0BG1G3WNT"
+    image: "https://m.media-amazon.com/images/I/51NVvKTfgbL._AC_SL200_.jpg"
+    note: "暗い部屋で明るさを足す、350gと軽い電球型の育成ライト。評価★4.5・レビュー384件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元HaruDesign）。350g・22W・Ra98・製品3年保証（商品ページの表示）。PPFDの数値は文字では公表されていない"
+    price: "¥3,376"
   - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
     asin: "B0C2JTFF2Y"
     image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、向きを変えられるソケット。評価★4.3・レビュー312件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥1,910"
+    note: "E26の育成ライトを棚や机に挟み、向きを変えられるソケット。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。支えられる重さは最大約350g（商品ページの表示）"
+    price: "¥2,123"
 ---
 
 ザミオクルカス・レイブン（*Zamioculcas zamiifolia* 'Raven'）は、光沢のある葉が黒紫〜漆黒に染まる印象的な品種です。「植物なのになぜここまで黒くなるのか」——この記事では、レイブンの葉色を決める色素の仕組みを、植物の色素に関する一般的な科学知識をもとに解説します。
@@ -62,7 +63,7 @@ amazonProducts:
 - 新芽が緑色のうちは心配しすぎず、成熟を待つ
 - 極端な低光量の環境では、葉色が黒くなりきらず緑〜オリーブ色にとどまりやすい
 
-窓から離れた暗い部屋に置く場合は、育成ライトで明るさを足す方法もあります。電球型の育成ライトと、それを取り付けるクリップ式のソケットの例です。
+窓から離れた暗い部屋に置く場合は、育成ライトで明るさを足す方法もあります。電球型の育成ライトと、それを取り付けるクリップ式のソケットの例です。電球（約350g）は、ソケットが支えられる重さ（最大約350g）に収まる組み合わせにしています。
 
 <!-- amazon-cards title="暗い部屋で光を足す" -->
 <!-- /amazon-cards -->

@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1723650226205-b53e61b09452?w=1200&q=80
 title: "モンステラ・エレクトロライト｜Monstera 'Electro Light' 図鑑"
 description: "モンステラ・エレクトロライト（Monstera 'Electro Light'）の特徴・育て方を解説。明るいライムグリーン〜ゴールドの発色が鮮烈な希少モンステラカルチバーの図鑑ページです。"
 date: "2026-06-09"
+updated: "2026-11-21"
 category: "species"
 genus: "monstera"
 tags:
@@ -24,16 +25,16 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/135803882"
     price: "¥2,000"
 amazonProducts:
-  - title: "BRIM SOL 24W 植物育成ライト（5800K）"
-    asin: "B0B3M47RQJ"
-    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "株との距離で強さを調整して、発色に必要な光を補う電球型ライト。5800KモデルはLED直下約40cmでPPFD 700（商品ページの表示）。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
-    price: "¥3,426"
+  - title: "HaruDesign 植物育成ライト GL-A 6K（E26・白色系5800K）"
+    asin: "B0BG1G3WNT"
+    image: "https://m.media-amazon.com/images/I/51NVvKTfgbL._AC_SL200_.jpg"
+    note: "発色に足りない光を、株との距離で調整して補う電球型。評価★4.5・レビュー384件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元HaruDesign）。350g・22W・Ra98・製品3年保証（商品ページの表示）。PPFDの数値は文字では公表されていない"
+    price: "¥3,376"
   - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
     asin: "B0C2JTFF2Y"
     image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・Amazon出荷）"
-    price: "¥1,910"
+    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。支えられる重さは最大約350g（商品ページの表示）"
+    price: "¥2,123"
   - title: "園芸支柱 120cm 太め ココスティック（曲げられるタイプ）"
     asin: "B0F1K913VB"
     image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
@@ -157,7 +158,7 @@ amazonProducts:
 
 通気性と排水性を確保した配合が基本。市販の観葉植物用培養土にパーライトを20〜30%足し、スリット鉢を使うと過湿を避けやすい。モンステラ属として上方向への誘引が葉のサイズアップと切れ込みの発達を促すため、ヘゴ棒・モスポール・ジュートロープ巻きポールのいずれかを早めに立てておく。植え替えの手順は[モンステラの植え替えガイド](/guide/monstera-repotting-guide)を参照。
 
-窓辺だけで発色に足りる光が取れない場合の育成ライトと、上へ誘引する支柱の例です。ライトは距離で光の強さが大きく変わるため、近づけすぎると葉焼けの原因になります。
+窓辺だけで発色に足りる光が取れない場合の育成ライトと取り付け用のクリップソケット、上へ誘引する支柱の例です。ライトは距離で光の強さが大きく変わるため、近づけすぎると葉焼けの原因になります。この電球型はPPFDの数値を公表していないので、新しい葉のゴールドの乗り具合を見ながら距離を決めてください。
 
 <!-- amazon-cards title="発色のための補光と、上へ誘引する支柱" -->
 <!-- /amazon-cards -->

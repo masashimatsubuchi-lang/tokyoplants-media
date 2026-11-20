@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1702110563841-7f738c8cd6fa?auto=format
 title: "窓の方角で光量はどれだけ違う？観葉植物の置き場所の目安"
 description: "東西南北の窓の方角と窓からの距離で、室内の光量がどう変わるかを園芸の一般的な知見をもとに整理。方角ごとの特徴、距離による減衰、植物タイプ別の置き場所の考え方を解説します。"
 date: "2026-02-17"
+updated: "2026-11-21"
 category: "research"
 tags: ["光量", "置き場所", "日照", "研究"]
 author: "tokyoplants 編集部"
@@ -19,16 +20,16 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
-    asin: "B0B3M47RQJ"
-    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "窓から離れた鉢に光を足せる、電球型の育成ライト。口金はE26で、点灯にはクリップソケットなどの器具が別に必要。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥3,426"
+  - title: "HaruDesign 植物育成ライト GL-A 6K（E26・白色系5800K）"
+    asin: "B0BG1G3WNT"
+    image: "https://m.media-amazon.com/images/I/51NVvKTfgbL._AC_SL200_.jpg"
+    note: "窓から離れた鉢に光を足せる、350gと軽い電球型ライト。評価★4.5・レビュー384件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元HaruDesign）。350g・22W・Ra98・製品3年保証（商品ページの表示）。PPFDの数値は文字では公表されていない"
+    price: "¥3,376"
   - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
     asin: "B0C2JTFF2Y"
     image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥1,910"
+    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。支えられる重さは最大約350g（商品ページの表示）"
+    price: "¥2,123"
   - title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）"
     asin: "B0CLD6QSDD"
     image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SL200_.jpg"
@@ -106,7 +107,7 @@ amazonProducts:
 
 育成ライトで補光する場合に必要な光量の目安（PPFD）は、[観葉植物にライトは必要？](/research/houseplant-grow-light-guide)で詳しく解説しています。
 
-窓から1m以内に置けない株を補光するなら、電球型をクリップソケットで寄せる方法と、クリップ式の一体型があります。
+窓から1m以内に置けない株を補光するなら、電球型をクリップソケットで寄せる方法と、クリップ式の一体型があります。電球型は、電球の重さがソケットの耐荷重に収まる組み合わせを選びます（下の例は約350gの電球と、最大約350gまで支えるソケット）。
 
 <!-- amazon-cards title="窓から離れた場所で光を足す" -->
 <!-- /amazon-cards -->

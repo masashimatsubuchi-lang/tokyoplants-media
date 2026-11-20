@@ -3,7 +3,7 @@ image: "https://baseec-img-mng.akamaized.net/images/item/origin/aa740281218aeabe
 title: "アグラオネマの発色が悪いのは光量不足｜耐陰性が高い＝色が出る、ではない"
 description: "赤やピンクが緑に戻ってしまうアグラオネマの発色を回復させる方法。発色に必要な光量をPPFDとluxで示し、温度・肥料・品種の限界まで原因別に解説します。"
 date: "2026-10-14"
-updated: "2026-10-27"
+updated: "2026-11-21"
 category: "guide"
 tags: ["アグラオネマ", "発色", "光量", "カラーリーフ"]
 author: "tokyoplants 編集部"
@@ -25,13 +25,8 @@ amazonProducts:
   - title: "BRIM SOL 24W 植物育成ライト（5800K）"
     asin: "B0B3M47RQJ"
     image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "株の近くに寄せて当てる、電球型の育成ライト。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。5800KモデルはLED素子直下約40cmでPPFD 700と表示（商品ページの表示）"
+    note: "株の近くに寄せて当てる、電球型の育成ライト。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）。5800KモデルはLED素子直下約40cmでPPFD 700と表示、新型は約450g（商品ページの表示）"
     price: "¥3,426"
-  - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
-    asin: "B0C2JTFF2Y"
-    image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株との距離を詰められる。評価★4.3・レビュー312件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥1,910"
   - title: "タニタ デジタル温湿度計 TT-538 BK（最高・最低の記録つき）"
     asin: "B002B54J4U"
     image: "https://m.media-amazon.com/images/I/61J8vPVgBdL._AC_SL200_.jpg"
@@ -151,7 +146,7 @@ amazonProducts:
 
 なお、アグラオネマの生育適温は22〜28℃で、15℃を下回ると成長そのものが止まります。発色を狙うなら、生存に必要な温度より一段高い水準が必要だと考えてください。
 
-④で株の近くに寄せて当てる育成ライトとクリップソケット、⑤で窓辺の夜の最低温度を確かめる温湿度計の例です。
+④で距離つきのPPFDを公表している電球型の育成ライト、⑤で窓辺の夜の最低温度を確かめる温湿度計の例です。この電球型（BRIM SOL 24W）は新型で約450gあるため、耐荷重の大きいソケットやスタンドと組み合わせてください（BRIMのクリップソケットCS01の表示は最大約350g）。取り付け方は[植物育成ライトの設置例](/guide/grow-light-installation-ideas)にまとめています。
 
 <!-- amazon-cards title="光を足す道具と、夜の温度を確かめる道具" -->
 <!-- /amazon-cards -->

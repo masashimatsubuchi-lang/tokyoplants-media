@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1623325943583-d658515e0889?w=1200&q=80
 title: "バリエガータとは斑入りのこと｜キメラ型と安定型で斑の残り方が違う"
 description: "アルボ・タイコンステレーション・ミラクル……バリエガータ植物の「斑」はなぜ出るのか。キメラ型・安定型の違い、リバージョンの仕組み、斑の安定性を科学的に解説します。"
 date: "2026-06-10"
-updated: "2026-10-27"
+updated: "2026-11-21"
 category: "research"
 tags:
   - バリエガータ
@@ -28,16 +28,16 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
-    asin: "B0B3M47RQJ"
-    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "PPFDを距離40cmの条件つきで公表している、電球型の育成ライト。口金はE26で、点灯にはクリップソケットなどの器具が別に必要。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥3,426"
+  - title: "HaruDesign 植物育成ライト GL-A 6K（E26・白色系5800K）"
+    asin: "B0BG1G3WNT"
+    image: "https://m.media-amazon.com/images/I/51NVvKTfgbL._AC_SL200_.jpg"
+    note: "窓辺で足りない斑入り株に、上から光を足す軽い電球型。評価★4.5・レビュー384件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元HaruDesign）。350g・22W・Ra98・製品3年保証（商品ページの表示）。PPFDの数値は文字では公表されていない"
+    price: "¥3,376"
   - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
     asin: "B0C2JTFF2Y"
     image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー312件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥1,910"
+    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。支えられる重さは最大約350g（商品ページの表示）"
+    price: "¥2,123"
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"
     image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
@@ -186,7 +186,7 @@ L2の細胞は分裂するたびにランダムに娘細胞へ分配されるた
 
 水管理においては過湿・過乾燥どちらもストレスとなる。根のダメージは株全体のストレスシグナルとなり、成長点における細胞競争に影響する可能性がある。排水性の高い用土を使い、根が健全に機能する環境を維持することが斑の安定にも寄与する。
 
-窓辺だけでは光が足りない斑入り株に光を足す育成ライトと、昼夜の温度差を確かめる温湿度計の例です。ライトは株からの距離で光の強さが変わるため、白斑の葉焼けに注意して距離を調整します。
+窓辺だけでは光が足りない斑入り株に光を足す電球型の育成ライトと取り付け用のクリップソケット、昼夜の温度差を確かめる温湿度計の例です。ライトは株からの距離で光の強さが変わるため、白斑の葉焼けに注意して距離を調整します。この電球型はPPFDの数値を公表していないので、新しい葉の斑と色を見ながら距離を決めてください。
 
 <!-- amazon-cards title="光量の補いと、温度の安定を確かめる道具" -->
 <!-- /amazon-cards -->

@@ -3,6 +3,7 @@ image: "https://baseec-img-mng.akamaized.net/images/item/origin/b7f3dfbb4a962d50
 title: "アロカシア・ドラゴンブレス｜Alocasia 'Dragon Breath' 図鑑"
 description: "アロカシア・ドラゴンブレス（Alocasia 'Dragon Breath'）の特徴・育て方を解説。濃緑のドラゴンスケール様の葉脈とメタリック光沢が特徴の希少カルチバーです。"
 date: "2026-06-09"
+updated: "2026-11-21"
 category: "species"
 genus: "alocasia"
 tags:
@@ -20,16 +21,16 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
-    asin: "B0B3M47RQJ"
-    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "直下約40cmでPPFD 700と公表された電球型ライト。150〜300に合わせるなら40cmより離して使う。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
-    price: "¥3,426"
+  - title: "HaruDesign 植物育成ライト GL-A 6K（E26・白色系5800K）"
+    asin: "B0BG1G3WNT"
+    image: "https://m.media-amazon.com/images/I/51NVvKTfgbL._AC_SL200_.jpg"
+    note: "暗い室内で補光する、350gと軽い電球型の育成ライト。評価★4.5・レビュー384件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元HaruDesign）。350g・22W・Ra98・製品3年保証（商品ページの表示）。PPFDの数値は文字では公表されていない"
+    price: "¥3,376"
   - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
     asin: "B0C2JTFF2Y"
     image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon・販売元BRIM）"
-    price: "¥1,910"
+    note: "E26の育成ライトを棚や机に挟み、株との距離を調整できる。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。支えられる重さは最大約350g（商品ページの表示）"
+    price: "¥2,123"
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"
     image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
@@ -137,7 +138,7 @@ amazonProducts:
 
 Aurea（オーレア）と呼ばれる金色発色を持つ個体を管理する際は、通常個体より一層の光量確保が重要だ。<mark>**ゴールド色はカロテノイド系色素の発現によるもので、光合成の活性が高い状態で安定する傾向がある——つまり光量不足ではゴールドが薄れ、通常個体と見分けがつかなくなる。**</mark>育成ライトでPPFD 200以上を確保することがAurea発色を維持する最も確実な方法だ。また、過剰な窒素肥料は葉緑素を過剰生産させ、ゴールドを打ち消す緑化を引き起こす可能性があるため、薄めの液肥を月1回程度に留める。
 
-暗い室内で補光に使える電球型の育成ライトと取り付け用のクリップソケット、湿度60〜80%を確かめる温湿度計の例です。
+暗い室内で補光に使える電球型の育成ライトと取り付け用のクリップソケット、湿度60〜80%を確かめる温湿度計の例です。この電球型はPPFDの数値を公表していないので、新しい葉の色の乗り具合を見ながら距離を決めてください。
 
 <!-- amazon-cards title="補光と湿度管理の道具" -->
 <!-- /amazon-cards -->

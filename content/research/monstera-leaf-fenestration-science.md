@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1778653540789-c4262387c652?w=1200&q=80
 title: "モンステラの葉に穴が開く理由｜進化の科学"
 description: "モンステラの葉になぜ穴や切れ込み（フェネストレーション）ができるのか。光を効率よく捉える説、水を通す説、風への耐性説、食害を減らす説など、複数の科学的仮説を研究論文をもとに紹介します。"
 date: "2026-09-03"
+updated: "2026-11-21"
 category: "research"
 tags:
   - モンステラ
@@ -31,16 +32,16 @@ amazonProducts:
     image: "https://m.media-amazon.com/images/I/71oTpMWx6gL._AC_SL200_.jpg"
     note: "気根を絡ませながら上へ誘引できる、ココヤシ繊維の120cm支柱。評価★4.4・レビュー195件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
     price: "¥1,349"
-  - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
-    asin: "B0B3M47RQJ"
-    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "窓から遠い株に、上から光を足せる電球型の育成ライト。口金はE26で、点灯にはクリップソケットなどの器具が別に必要。評価★4.4・レビュー685件（2026-11-20にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥3,426"
+  - title: "HaruDesign 植物育成ライト GL-A 6K（E26・白色系5800K）"
+    asin: "B0BG1G3WNT"
+    image: "https://m.media-amazon.com/images/I/51NVvKTfgbL._AC_SL200_.jpg"
+    note: "窓から遠い株に、上から光を足せる軽い電球型ライト。評価★4.5・レビュー384件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元HaruDesign）。350g・22W・Ra98・製品3年保証（商品ページの表示）。PPFDの数値は文字では公表されていない"
+    price: "¥3,376"
   - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
     asin: "B0C2JTFF2Y"
     image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー312件（2026-11-10にAmazon商品ページで確認／在庫あり・Prime対象・出荷元Amazon）"
-    price: "¥1,910"
+    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。支えられる重さは最大約350g（商品ページの表示）"
+    price: "¥2,123"
 ---
 
 # モンステラの葉に穴が開く理由｜進化の科学

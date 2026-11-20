@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1767457421396-efff3d560ad1?w=1200&q=80
 title: "冬の日照不足で観葉植物が徒長する｜窓際の光は夏と比べてどれだけ減るか"
 description: "東京の12月の日射量は5月の半分以下、新潟は4分の1以下。減るのは晴れの時間ではなく光の強さと日の長さです。気象庁・国立天文台のデータで、窓の方角別の冬の光と徒長の防ぎ方を整理。"
 date: "2026-11-21"
+updated: "2026-11-21"
 category: "research"
 tags: ["日照不足", "徒長", "冬越し", "光量", "窓際", "育成ライト"]
 author: "tokyoplants 編集部"
@@ -19,15 +20,15 @@ baseProducts:
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
 amazonProducts:
-  - title: "BRIM SOL 24W 植物育成ライト 白色系 5800K（E26）"
-    asin: "B0B3M47RQJ"
-    image: "https://m.media-amazon.com/images/I/71B+1-FFtjL._AC_SL200_.jpg"
-    note: "冬に足りなくなる光を、窓から離れた鉢に足せる電球型。評価★4.4・レビュー686件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。PPFD 700（LED素子直下・距離約40cm、商品ページの表示）"
-    price: "¥3,426"
+  - title: "HaruDesign 植物育成ライト GL-A 6K（E26・白色系5800K）"
+    asin: "B0BG1G3WNT"
+    image: "https://m.media-amazon.com/images/I/51NVvKTfgbL._AC_SL200_.jpg"
+    note: "冬に足りない光を、窓から離れた鉢に足す軽い電球型。評価★4.5・レビュー384件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元HaruDesign）。350g・22W・Ra98・製品3年保証（商品ページの表示）。PPFDの数値は文字では公表されていない"
+    price: "¥3,376"
   - title: "BRIM クリップソケット E26（植物育成ライト対応・CS01-BK）"
     asin: "B0C2JTFF2Y"
     image: "https://m.media-amazon.com/images/I/61hYCiIfKUL._AC_SL200_.jpg"
-    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）"
+    note: "E26の育成ライトを棚や机に挟み、株の近くまで寄せられる。評価★4.3・レビュー318件（2026-11-20にAmazon商品ページで確認／在庫あり・出荷元Amazon・販売元BRIM）。支えられる重さは最大約350g（商品ページの表示）"
     price: "¥2,123"
   - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
     asin: "B0CJBM2WV9"
@@ -158,7 +159,7 @@ amazonProducts:
 6. **育成ライトで補う**：北向きの部屋、窓から離れた場所、日本海側では、1日8〜12時間の補光を考える（[植物育成ライトは1日何時間つける？](/guide/grow-light-hours-per-day)）
 <!-- /steps -->
 
-育成ライトの電気代は、24Wの電球型を1日10時間・30日つけて、**24W ÷ 1000 × 10時間 × 30日 × 31円/kWh ≒ 223円/月**です。光の色の選び方は[育成ライトは白色と暖色どっち？](/guide/grow-light-color-white-warm)にまとめています。
+育成ライトの電気代は、下で紹介している22Wの電球型を1日10時間・30日つけて、**22W ÷ 1000 × 10時間 × 30日 × 31円/kWh ≒ 205円/月**です。光の色の選び方は[育成ライトは白色と暖色どっち？](/guide/grow-light-color-white-warm)にまとめています。
 
 <!-- amazon-cards title="冬の光を補う育成ライトとタイマー" note="Amazonアソシエイトリンクを含みます。評価・在庫は2026-11-20に商品ページで確認したものです。" -->
 <!-- /amazon-cards -->
