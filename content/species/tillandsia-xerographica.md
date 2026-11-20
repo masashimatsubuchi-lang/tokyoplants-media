@@ -10,6 +10,7 @@ genus: "tillandsia"
 relatedSlugs:
   - "guide/air-plants-tillandsia-guide"
   - "guide/root-rot-causes-and-recovery"
+  - "guide/tillandsia-winter-care"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

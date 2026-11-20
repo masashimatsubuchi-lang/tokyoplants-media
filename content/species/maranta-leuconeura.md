@@ -14,6 +14,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "guide/root-rot-causes-and-recovery"
   - "guide/cats-and-houseplants-safety"
+  - "guide/maranta-winter-care"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

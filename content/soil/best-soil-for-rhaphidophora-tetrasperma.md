@@ -22,6 +22,8 @@ siblings:
     role: "図鑑・品種情報"
   - slug: "soil/best-soil-for-rhaphidophora-tetrasperma"
     role: "土の選び方"
+  - slug: "guide/rhaphidophora-winter-care"
+    role: "冬越し"
 amazonProducts:
   - title: "サンアンドホープ パーライト 5L"
     asin: "B0FN7QL8JY"

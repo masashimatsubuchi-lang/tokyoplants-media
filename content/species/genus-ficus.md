@@ -19,6 +19,7 @@ relatedSlugs:
   - "guide/root-rot-causes-and-recovery"
   - "species/ficus-audrey"
   - "soil/best-soil-for-ficus"
+  - "guide/rubber-tree-winter-care"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

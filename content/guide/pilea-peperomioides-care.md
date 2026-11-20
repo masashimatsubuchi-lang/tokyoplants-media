@@ -21,6 +21,8 @@ siblings:
     role: "育て方の実務"
   - slug: "species/pilea-peperomioides"
     role: "図鑑・品種情報"
+  - slug: "guide/pilea-winter-care"
+    role: "冬越し"
 amazonProducts:
   - title: "サンアンドホープ パーライト 5L"
     asin: "B0FN7QL8JY"

@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/leaf-tip-browning-causes"
   - "review/winter-humidity-control-humidifier-dehumidifier"
   - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/maranta-winter-care"
 baseProducts:
   - title: "I'm original SOIL（tokyoplantsプレミアム培養土）"
     url: "https://www.tokyoplants.com/items/99620939"

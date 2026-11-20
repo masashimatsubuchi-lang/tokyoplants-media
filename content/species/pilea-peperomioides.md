@@ -23,6 +23,8 @@ siblings:
     role: "育て方の実務"
   - slug: "species/pilea-peperomioides"
     role: "図鑑・品種情報"
+  - slug: "guide/pilea-winter-care"
+    role: "冬越し"
 amazonProducts:
   - title: "サンアンドホープ パーライト 5L"
     asin: "B0FN7QL8JY"
@@ -60,7 +62,7 @@ amazonProducts:
 | 生育型 | 常緑多年草・直立性 |
 | 草丈 | 室内管理で20〜40cm程度 |
 | 葉の形 | 円形・コイン状（葉柄が葉の中央につく盾状葉） |
-| 耐寒性 | 弱い（最低気温10℃以上を維持） |
+| 耐寒性 | 普通（冬も最低気温10℃以上を維持） |
 | 難易度 | ★★☆☆☆（初心者向け） |
 | 毒性 | 特に報告なし（ペットに対する強い毒性報告は少ない） |
 

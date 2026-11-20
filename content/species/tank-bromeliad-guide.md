@@ -25,6 +25,8 @@ siblings:
     role: "株分け・増殖"
   - slug: "guide/tank-bromeliad-mounting"
     role: "着生・板付け"
+  - slug: "guide/tank-bromeliad-winter-care"
+    role: "冬越し"
 baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"

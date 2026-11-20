@@ -16,6 +16,7 @@ relatedSlugs:
   - "research/bromeliaceae-classification"
   - "soil/best-soil-for-orchid-houseplant"
   - "guide/scale-insects-houseplants-control"
+  - "guide/tank-bromeliad-winter-care"
 baseProducts:
   - title: "ブロメリア / Bromeliad（商品一覧）"
     url: "https://www.tokyoplants.com/categories/6382101"

@@ -15,6 +15,7 @@ relatedSlugs:
   - "soil/indoor-houseplant-soil"
   - "guide/bottom-watering-houseplants"
   - "guide/cats-and-houseplants-safety"
+  - "guide/peperomia-winter-care"
 baseProducts:
   - title: "観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

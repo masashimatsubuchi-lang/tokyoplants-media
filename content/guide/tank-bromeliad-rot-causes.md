@@ -24,6 +24,8 @@ siblings:
     role: "株分け・増殖"
   - slug: "guide/tank-bromeliad-mounting"
     role: "着生・板付け"
+  - slug: "guide/tank-bromeliad-winter-care"
+    role: "冬越し"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"

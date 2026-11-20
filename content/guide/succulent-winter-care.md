@@ -21,6 +21,8 @@ relatedSlugs:
   - "species/genus-agave"
   - "guide/winter-placement-room-map"
   - "guide/winter-hardiness-ranking-houseplants"
+  - "guide/aloe-winter-care"
+  - "guide/agave-winter-care"
 amazonProducts:
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"

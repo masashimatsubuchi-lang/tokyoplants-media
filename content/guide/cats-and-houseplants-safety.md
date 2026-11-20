@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1772714037381-cf6a20be3152?w=1200&q=80
 title: "猫と観葉植物｜まず避けるのはユリとソテツ。カラテアやパキラは非毒性"
 description: "猫がいる家庭で気をつけたい観葉植物を、ASPCA（米国動物虐待防止協会）の毒性植物データベースなど信頼できる情報源をもとに整理。特に危険なユリ・ソテツ、サトイモ科のシュウ酸カルシウム、一般に毒性が報告されていない植物、誤食を防ぐ置き方、万一食べたときの対処までを解説します。"
 date: "2026-08-27"
-updated: "2026-10-27"
+updated: "2026-11-21"
 category: "guide"
 tags: ["猫", "ペット", "安全", "中毒", "誤食", "サトイモ科", "ユリ", "室内グリーン"]
 author: "tokyoplants 編集部"
@@ -189,7 +189,7 @@ ASPCAの毒性植物データベースで「Non-Toxic to Cats（猫に対して�
 | パキラ | *Pachira aquatica* | Money Tree／Non-Toxic to Dogs, Cats, Horses |
 | アレカヤシ | *Dypsis lutescens* | Areca Palm／Non-Toxic to Dogs, Cats, Horses |
 | テーブルヤシ | *Chamaedorea elegans* | Bamboo Palm（別名 Parlor Palm）／Non-Toxic to Dogs, Cats, Horses |
-| ボストンファン（タマシダ） | *Nephrolepis exaltata* | Boston Fern／Non-Toxic to Dogs, Cats |
+| ボストンファン（セイヨウタマシダ） | *Nephrolepis exaltata* | Boston Fern／Non-Toxic to Dogs, Cats |
 | オリヅルラン | *Chlorophytum comosum* | Spider Plant／Non-Toxic to Dogs, Cats |
 | アルストロメリア | *Alstroemeria* | Peruvian Lily／Non-Toxic to Dogs, Cats, Horses |
 

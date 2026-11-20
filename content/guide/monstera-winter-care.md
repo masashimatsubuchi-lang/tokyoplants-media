@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/winter-placement-room-map"
   - "guide/bringing-plants-indoors-timing"
   - "review/winter-insulation-goods-for-houseplants"
+  - "guide/rhaphidophora-winter-care"
 baseProducts:
   - title: "モンステラの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382102"

@@ -13,6 +13,7 @@ relatedSlugs:
   - "soil/repotting-soil-guide"
   - "research/humidity-and-leaf-damage-thresholds"
   - "research/misting-effects-on-houseplants"
+  - "guide/fittonia-winter-care"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

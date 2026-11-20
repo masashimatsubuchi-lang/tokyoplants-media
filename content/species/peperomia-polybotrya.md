@@ -1,5 +1,5 @@
 ---
-image: "https://images.unsplash.com/photo-1631038093177-b709a7048b44?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1610630876605-97b3e670f56c?rect=0,560,2944,1960&w=1200&q=80"
 title: "ペペロミア・ポリボトリアの育て方｜しずく型の葉が美しいレインドロップ"
 description: "ペペロミア・ポリボトリア（Peperomia polybotrya、通称レインドロップ）の基本情報、しずく型の光沢葉の特徴、育て方とよくあるトラブルを図鑑形式で解説します。"
 date: "2026-09-15"
