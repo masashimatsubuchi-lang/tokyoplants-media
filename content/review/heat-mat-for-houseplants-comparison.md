@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1663075845418-4468e6bf3f0a?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1647550232391-f758832be5c2?w=1200&q=80"
 title: "観葉植物用ヒートマットおすすめ比較｜冬越し・発根促進"
 description: "観葉植物の冬越しと挿し木の発根促進、両方に使えるヒートマットのおすすめを比較。サーモスタットの有無、サイズの選び方、Amazonで購入できる商品を紹介します。"
 date: "2026-09-15"

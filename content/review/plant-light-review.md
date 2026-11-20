@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1663045332703-5027b30ee79c?w=800&q=80"
+image: "https://images.unsplash.com/photo-1793948680758-40f4380125aa?w=800&q=80"
 title: "植物育成ライト おすすめ5選｜価格比較つき"
 description: "観葉植物・ビカクシダ向けの育成ライト5機種を価格・PPFD・演色性・電気代で比較。3,426円から14,000円まで、置き場所と株数から選ぶ基準を解説します。"
 date: "2026-02-21"

@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1681223965092-c1dd4d9fcb17?w=800&q=80"
+image: "https://images.unsplash.com/photo-1693414948175-f4a900185390?w=800&q=80"
 title: "市販の観葉植物の土には何が入っている？｜成分と正しい選び方を解説"
 description: "市販の観葉植物の土の中身は何か？赤玉土・ココピート・パーライトなどの役割と、失敗しない選び方を初心者向けに解説。素材を単体で買い足す場合のおすすめ商品も紹介します。"
 date: "2026-02-13"

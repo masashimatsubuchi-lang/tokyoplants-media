@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1667533288566-42d320cf7923?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1770349781649-b7722e0de3fc?w=1200&q=80"
 title: "インドアジャングル最新号はNo.11アガベ交配種特集｜全11号の発売日一覧"
 description: "INDOOR JUNGLEの最新号はNo.11（2026年9月29日発売、特集AGAVE HYBRIDS 2026）。全11号の発売日と特集テーマ、入手方法を一覧にまとめました。"
 date: "2026-06-09"

@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1664015821166-d88627c6bb26?w=800&q=80"
+image: "https://images.unsplash.com/photo-1791057160805-584c85a503b0?w=800&q=80"
 title: "モンステラの土おすすめ配合｜粗い素材を5割、水が10秒で抜ければ合格"
 description: "モンステラの植え替えに使う土の選び方を徹底解説。最適な配合レシピ、市販土の改良方法、植え替え手順と時期、植え替え後のケアまでまとめました。"
 date: "2026-02-16"

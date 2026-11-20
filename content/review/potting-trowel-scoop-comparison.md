@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1776720096230-b1e88f096b49?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1712912828048-c2cde21a6885?w=1200&q=80"
 title: "観葉植物の移植ゴテ・スコップおすすめ比較"
 description: "観葉植物の植え替えに使う移植ゴテ・スコップのおすすめを比較。鉢のサイズ・用土の粒の大きさ別の選び方と、Amazonで購入できる定番アイテムを紹介します。"
 date: "2026-09-15"

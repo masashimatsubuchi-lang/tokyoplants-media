@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1723841984849-7f2918e5f160?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1646346835113-b83a4097983b?w=1200&q=80"
 title: "コーヒーかす・卵の殻は肥料になる？｜迷信と使い方"
 description: "コーヒーかすや卵の殻は観葉植物の肥料になるのか。窒素飢餓やコバエのリスク、pHをめぐる誤解、正しい下処理と使用量の目安、使わないほうがよい場面まで整理します。"
 date: "2026-09-05"

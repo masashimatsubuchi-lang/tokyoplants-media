@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1682125214175-3b14830c79a4?w=800&q=80"
+image: "https://images.unsplash.com/photo-1693414894875-07af73204a5a?w=800&q=80"
 title: "観葉植物の土の白い粒の正体は？"
 description: "土の白い粒を、水に浮くか・指で潰れるか・水に溶けるかの3テストで6パターンに見分ける方法。パーライト・肥料・カビ・虫・塩類の違いと対処法がわかります。"
 date: "2026-02-16"

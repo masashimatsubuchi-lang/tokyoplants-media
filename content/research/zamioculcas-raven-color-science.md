@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1686071978237-045211ad85ec?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1632900931939-9a1028f7cef6?w=1200&q=80"
 title: "ザミオクルカス・レイブンはなぜ黒い？葉の色素の科学"
 description: "ザミオクルカス・レイブンの葉が黒くなる仕組みを、アントシアニンという色素の観点から解説。新芽が緑から黒へ変化する理由、光との関係、育成のヒントまで紹介します。"
 date: "2026-09-02"

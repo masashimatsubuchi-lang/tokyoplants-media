@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1661696080503-5235f7509490?w=800&q=80"
+image: "https://images.unsplash.com/photo-1654700205964-c4a987881361?w=800&q=80"
 title: "観葉植物の土に虫が湧く原因と対策"
 description: "土からコバエが湧く原因と駆除法。生活環から逆算した表土を乾かす日数とトラップを続ける週数、花き類・観葉植物で登録のある農薬4剤を一次情報で整理しました。"
 date: "2026-02-16"

@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1678677946745-47819646a87e?w=800&q=80"
+image: "https://images.unsplash.com/photo-1620293106076-ad27d651efe3?w=800&q=80"
 title: "観葉植物の水はけが悪いときの改善法"
 description: "水はけが悪い原因を土・鉢・管理の3つに切り分け、秒数と重さで測る診断法、鉢底にできる停滞水層の仕組み、改良資材6種の比較と混ぜる割合まで具体的に解説します。"
 date: "2026-02-16"

@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1661902899911-d7b89906e638?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1679092890025-dc41b2a38433?w=1200&q=80"
 title: "水やりチェッカーのおすすめ｜迷ったらSUStee、6号まではM、7号以上はL"
 description: "水やりチェッカーのおすすめは電池不要の色変化式SUStee。3.5〜6号鉢はM、7号以上や深い鉢はLが目安です。pHも測れるアナログ式との違い、使い方の注意点も解説します。"
 date: "2026-07-07"

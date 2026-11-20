@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1764329344681-cfc3473fe8e2?w=800&q=80"
+image: "https://images.unsplash.com/photo-1783149173467-74e30fc23434?w=800&q=80"
 title: "観葉植物の霧吹きおすすめ｜選び方"
 description: "葉水用の霧吹きを方式別に比較。1ストロークの噴霧量から必要な握り回数を計算し、トリガー式・蓄圧式・電動の向き不向き、水の選び方、使用後の手入れまで実測値をもとに解説します。"
 date: "2026-02-18"

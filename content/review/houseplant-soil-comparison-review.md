@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1681701892276-447be2f1ea99?w=800&q=80"
+image: "https://images.unsplash.com/photo-1560678136-82b84350ae70?w=800&q=80"
 title: "観葉植物の土を徹底比較｜市販5タイプの特徴と選び方"
 description: "市販の観葉植物用土5タイプを排水性・保水性・価格で比較。植物に合った土の選び方がわかります。"
 date: "2026-02-18"

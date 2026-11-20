@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1675783105468-7fb8e0a3e7e8?w=800&q=80"
+image: "https://images.unsplash.com/photo-1680882123487-0ca066a3a03e?w=800&q=80"
 title: "ポトス・トラデスカンティア向けハンギング比較"
 description: "ポトスやトラデスカンティアなど垂れ下がり系の観葉植物を吊るして飾るための、ハンギングプランター・マクラメハンガー・壁掛けフックを比較。賃貸でも使える石膏ボード対応フックも紹介します。"
 date: "2026-09-07"

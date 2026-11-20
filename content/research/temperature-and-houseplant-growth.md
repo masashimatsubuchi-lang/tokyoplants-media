@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1663134263055-af041e57a634?w=800&q=80"
+image: "https://images.unsplash.com/photo-1597280683920-5ef8eca23fac?w=800&q=80"
 title: "観葉植物の適温は20〜28℃前後｜15℃で成長が止まり、10℃以下が続くと傷む"
 description: "観葉植物の適温は多くが20〜28℃前後。15℃を下回ると熱帯性の種は成長がほぼ止まり、10℃以下が続くと低温障害のリスクが高まる。秋に室内へ取り込む目安や季節別の室温管理も整理。"
 date: "2026-02-18"

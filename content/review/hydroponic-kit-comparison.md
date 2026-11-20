@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1663045309813-ae741e2f9062?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1682629088818-1ec55d0cf45b?w=1200&q=80"
 title: "水耕栽培キットおすすめ比較｜LEDライト付きで新しく育てる"
 description: "LEDライト付き水耕栽培キットのおすすめを比較。iDOO・EastForce・聖新陶芸など、Amazonで評価・レビュー件数が確認できる商品を「定番・コスパ重視」「アプリ管理したい人向け」「まずは安く試したい人向け」の目的別に整理して紹介します。"
 date: "2026-08-06"

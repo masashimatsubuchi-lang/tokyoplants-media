@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1728447874319-af8fa0ba2ed4?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1647967847108-23df641ae451?w=1200&q=80"
 title: "苔玉の土は、けと土だけでも作れる｜赤玉土と5:5で混ぜるとひび割れにくい"
 description: "苔玉の作り方と土（けと土・赤玉土）の配合比率を解説。用意するもの、手順、向いている植物、水やり・管理方法、秋のギフトにおすすめの理由まで初心者向けに紹介します。"
 date: "2026-09-03"
