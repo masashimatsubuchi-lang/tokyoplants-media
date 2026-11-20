@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1770836554434-75c5c88914ad?w=800&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/e127745fcbb1905b14da8696dc68822e.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "フィロデンドロン属とは｜主な品種・育て方・特徴を解説"
 description: "フィロデンドロン属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"

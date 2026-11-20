@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1669357657874-34944fa0be68?w=1200&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/d5f2fc2101fac5cd677a29cc7d4706c3.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "モンステラ・ミラクル｜Monstera 'Miracle' 図鑑"
 description: "モンステラ・ミラクル（Monstera 'Miracle'）の特徴・育て方を解説。斑の面積が大きく安定したバリエガータとして知られる希少モンステラの図鑑ページです。"
 date: "2026-06-09"

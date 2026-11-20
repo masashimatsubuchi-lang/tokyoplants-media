@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1665408511551-525a24a75ac5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/39b3953d460458986e14a40256e7ca82.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "モンステラ・タイコンステレーション｜斑入りモンステラの特徴と育て方"
 description: "モンステラ・タイコンステレーション（Thai Constellation）の基本情報、組織培養で安定した斑の仕組み、アルボとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"

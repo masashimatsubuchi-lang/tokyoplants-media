@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1745414417952-8c1975684892?w=800&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/c35798cd9f275d73885cafee8b097887.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "アロカシア・フライデック｜白葉脈が映えるベルベット系アロカシアの育て方"
 description: "アロカシア・フライデックの基本情報、白葉脈の魅力、ブラックベルベットとの比較、育て方、休眠期の管理、よくあるトラブルを詳しく解説します。"
 date: "2026-06-09"

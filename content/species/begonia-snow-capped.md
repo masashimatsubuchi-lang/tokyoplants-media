@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1740017727948-f367c3984a41?w=1200&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/592f92a4459585c75255f4c2baa0358a.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "ベゴニア・スノーキャップドの銀点と白斑は別物｜白斑が多い株ほど光が要る"
 description: "ベゴニア・スノーキャップド バリエガータ（Begonia 'Snow Capped' variegated）の図鑑。木立性（ケーン型）という株のつくり、銀白の斑点と斑入りの違い、光・温度・水やり、茎挿しでの増やし方、購入時のチェックまで解説します。"
 date: "2026-06-09"

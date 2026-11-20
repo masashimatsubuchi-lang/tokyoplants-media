@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1743947642524-f1cddd6cb625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1570641798336-7696b1de5827?w=1200&q=80"
 title: "ZZプラント（ザミオクルカス）が弱る原因の大半は水のやりすぎ｜乾いて数日待つ"
 description: "ザミオクルカス（ZZ plant）の特徴、根茎が水を蓄える仕組み、レイヴン等の品種、置き場所、水やり、植え替え、増やし方、トラブル対策を図鑑形式で解説します。"
 date: "2026-06-09"

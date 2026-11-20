@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1663962975773-44cfbefe880b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1586883573403-cb7ee339755b?w=1200&q=80"
 title: "ポトス（エピプレムナム）の育て方と品種"
 description: "ポトス（エピプレムナム・アウレウム）の基本情報、人気品種の特徴、育て方、増やし方、飾り方を図鑑形式で解説。初心者にも育てやすい理由と注意点がわかります。"
 date: "2026-06-09"

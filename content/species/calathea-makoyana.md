@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1673615874947-c748b9d9a919?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1616276595426-81d5a3cfc772?w=1200&q=80"
 title: "カラテア・マコヤナ（孔雀の葉）の育て方｜複雑な葉模様の秘密"
 description: "カラテア・マコヤナ（孔雀の葉、Calathea makoyana）の基本情報、名前の由来、複雑な葉模様の特徴、育て方、よくあるトラブルと対処法を一次情報に基づいて解説します。"
 date: "2026-09-07"

@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1675342786681-e33a19414cfd?w=800&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/43d225b7805ec216d27d4a5cbf87ec0d.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "ペペロミア・アルギレイアは迷ったら水やりしない｜スイカペペの冬は12℃以上"
 description: "ペペロミア・アルギレイア（スイカペペ）の基本情報、スイカ柄の仕組み、ケイパレータとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"

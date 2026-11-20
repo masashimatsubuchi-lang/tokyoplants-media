@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1777051496881-e5a0b7f8374f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://images.unsplash.com/photo-1713274843051-6251d947f1bf?w=1200&q=80"
 title: "ビカクシダ・ビフルカツム｜初心者向きな定番種の育て方"
 description: "ビカクシダ・ビフルカツムの基本情報、胞子葉と貯水葉の特徴、板付け・鉢植えでの育て方、トラブル対策、増やし方を専門的に解説します。"
 date: "2026-06-09"

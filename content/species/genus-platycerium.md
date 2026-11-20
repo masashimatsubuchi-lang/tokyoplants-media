@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1680040211019-29a8dbb250d5?w=800&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/9d7c471fd75af3da61f551474e37fdbe.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "プラティセリウムとは？ビカクシダの属名で、約18種・2種類の葉をもつ着生シダ"
 description: "プラティセリウムは和名ビカクシダの属名で、約18種の着生シダ。胞子葉と貯水葉の2種類の葉の役割、代表品種の一覧、板付け・苔玉での育て方とトラブル対処をまとめました。"
 date: "2026-02-17"

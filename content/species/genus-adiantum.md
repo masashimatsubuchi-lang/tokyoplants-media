@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1781965327365-f1da636bf3f5?w=800&q=80"
+image: "https://images.unsplash.com/photo-1711381894196-eccd64454251?w=1200&q=80"
 title: "アジアンタムとは｜代表品種と湿度管理のコツを解説"
 description: "アジアンタム属（Adiantum）の基本情報、代表的な流通種、繊細な葉を保つための湿度・水管理のコツ、よくあるトラブルをまとめた図鑑ページです。"
 date: "2026-09-07"

@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1673969608352-ec2d84279614?w=800&q=80"
+image: "https://images.unsplash.com/photo-1593482892540-73c9199d8949?w=1200&q=80"
 title: "サンスベリア｜空気清浄効果と品種・育て方を徹底解説"
 description: "サンスベリア（サンセベリア）の品種一覧、CAM型光合成の仕組み、育て方、水やり、冬越し方法を図鑑形式で解説。空気清浄効果の真実についても詳しく説明します。"
 date: "2026-06-09"

@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1675819563384-d9d4f49b81b2?w=1200&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/d2260e26c8a5beae241aaa422cc65b1b.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "アロカシア属とは｜東南アジア原産の約80種、コロカシアとは葉の向きで見分ける"
 description: "アロカシア属は東南アジア〜オセアニア原産の約80種。葉が上向きならアロカシア、下向きならコロカシアと見分けられる。代表品種、ジュエルアロカシア、共通の育て方とトラブルまで。"
 date: "2026-02-17"

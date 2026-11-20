@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1724426106409-a5e6d3fa2b30?w=1200&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/b7f3dfbb4a962d50f7fc41190b2b185b.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "アロカシア・ドラゴンブレス｜Alocasia 'Dragon Breath' 図鑑"
 description: "アロカシア・ドラゴンブレス（Alocasia 'Dragon Breath'）の特徴・育て方を解説。濃緑のドラゴンスケール様の葉脈とメタリック光沢が特徴の希少カルチバーです。"
 date: "2026-06-09"

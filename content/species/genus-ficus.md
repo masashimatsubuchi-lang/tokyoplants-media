@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1668096747016-86fa87cb01a5?w=800&q=80"
+image: "https://images.unsplash.com/photo-1669392597221-bbfd4b6e13ff?w=1200&q=80"
 title: "フィカスとは？ゴムの木・ガジュマル・イチジクを含む約800種の属"
 description: "フィカス属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"

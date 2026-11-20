@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1764329345357-77574e35f6a5?w=800&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/044c1d944c3d361550894dfe4a9f758d.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "ペペロミア属とは｜主な品種・育て方・特徴を解説"
 description: "ペペロミア属の基本情報、代表的な品種一覧、育て方の共通ポイント、よくあるトラブルと対処法をまとめた図鑑ページです。"
 date: "2026-02-17"

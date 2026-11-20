@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1677666021181-35c0a6336a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/24c18a86d53507b331f30a458b621f69.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "モンステラ・ミント｜希少な斑入りモンステラの特徴と育て方"
 description: "モンステラ・ミント（Monstera Mint）の基本情報、ミント斑の仕組み、タイコンステレーションとの比較、育て方、増やし方、よくあるトラブルを解説します。"
 date: "2026-06-09"
