@@ -32,6 +32,7 @@ relatedSlugs:
   - "review/cheap-grow-light-check"
   - "research/why-houseplants-die-5-factors"
   - "research/houseplant-origin-temperature-database"
+  - "guide/grow-light-installation-ideas"
 amazonProducts:
   - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
     asin: "B0B3M47RQJ"

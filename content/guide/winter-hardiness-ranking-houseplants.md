@@ -28,7 +28,7 @@ hubIndex:
   title: "冬の管理に関する記事一覧"
   groups:
     - label: "冬の基本と置き場所"
-      match: "^guide/(winter-watering|winter-placement|winter-dont-do-list|bringing-plants-indoors|autumn-winter-humidity|year-end-watering|buying-houseplants-online-in-winter|december-houseplant-care|january-houseplant-care|unheated-room-winter|window-condensation|diy-winter-insulation)"
+      match: "^guide/(winter-watering|winter-placement|winter-dont-do-list|bringing-plants-indoors|autumn-winter-humidity|year-end-watering|buying-houseplants-online-in-winter|december-houseplant-care|january-houseplant-care|unheated-room-winter|window-condensation|diy-winter-insulation|winter-flowering-houseplants)"
     - label: "冬のトラブルと対処"
       match: "^guide/(winter-leaf-drop|winter-emergency|winter-heating-appliances)"
     - label: "植物別の冬越し"
@@ -36,7 +36,7 @@ hubIndex:
     - label: "冬の道具・設備"
       match: "^(review/(winter-insulation|winter-humidity-control|heat-mat|greenhouse-heater|grow-tent|thermo-hygrometer|plant-rack-and-greenhouse)|guide/metal-rack-greenhouse)"
     - label: "仕組みを知る"
-      match: "^research/(chilling-injury|winter-heating-and-leaf|winter-survival-map|caudex-plant-winter|temperature-and-houseplant-growth|winter-daylight)"
+      match: "^research/(chilling-injury|winter-heating-and-leaf|winter-survival-map|caudex-plant-winter|temperature-and-houseplant-growth|winter-daylight|houseplant-dormancy-winter)"
 amazonProducts:
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"

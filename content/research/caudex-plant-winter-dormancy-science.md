@@ -12,6 +12,7 @@ relatedSlugs:
   - "species/stephania-erecta"
   - "guide/caudex-plant-winter-care"
   - "soil/best-soil-for-caudex-plants"
+  - "research/houseplant-dormancy-winter"
 baseProducts:
   - title: "ステファニアの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382099"

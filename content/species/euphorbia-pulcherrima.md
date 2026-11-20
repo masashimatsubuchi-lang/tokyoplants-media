@@ -13,6 +13,7 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "guide/winter-placement-room-map"
   - "guide/cats-and-houseplants-safety"
+  - "guide/winter-flowering-houseplants"
 baseProducts:
   - title: "All plants｜観葉植物の商品一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

@@ -40,6 +40,7 @@ relatedSlugs:
   - "review/cheap-grow-light-check"
   - "guide/sunlight-replacement-light"
   - "guide/winter-placement-room-map"
+  - "review/e26-grow-light-bulb-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
@@ -217,6 +218,7 @@ PPFDは距離に応じて急激に減衰する。メーカー公称値は特定�
 - 手持ちのデスクライトやクリップ式ソケットに取り付けて使う。照射範囲は狭いがPPFDの集中度が高く、少数の株に効率よく光を届けられる
 - BARREL社の AMATERAS・TSUKUYOMI がこのカテゴリの代表製品で、20Wクラスで高いPPFDと演色性を両立している
 - 比較：この記事の5選のうち3製品（AMATERAS・TSUKUYOMI・BRIM SOL）が電球型。下の「おすすめ5選レビュー」で比べている
+- 詳しい比較：[植物育成ライトのE26電球型おすすめ](/review/e26-grow-light-bulb-comparison)。BRIM・HaruDesignの電球型と、手持ちのソケットやスタンドに付ける前に確かめたい耐荷重
 <!-- /cards -->
 
 <!-- callout type="info" title="多肉植物・サボテンはタイプより先に光の量で選ぶ" -->

@@ -22,6 +22,7 @@ relatedSlugs:
   - "guide/gift-plant-first-care"
   - "species/euphorbia-pulcherrima"
   - "research/christmas-tree-alternative-houseplants"
+  - "guide/winter-flowering-houseplants"
 baseProducts:
   - title: "Daily Botanical Towel｜リーフタオル"
     url: "https://www.tokyoplants.com/items/135803882"

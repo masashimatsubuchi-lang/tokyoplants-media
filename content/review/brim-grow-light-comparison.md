@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/alocasia-care-guide"
   - "review/bar-type-grow-light-comparison"
   - "guide/grow-light-color-white-warm"
+  - "review/e26-grow-light-bulb-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
