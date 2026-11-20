@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1764266637780-c4bb54218ab4?w=1200&q=80"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/3ab9b7381e051bd75304904a0ecfd8ba.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "塊根植物の休眠｜冬に葉を落とすのは原産地の乾季に水を失わないため"
 description: "塊根植物（コーデックス）が冬に落葉して休眠する仕組みを、植物ホルモン・水分ストレスの観点から解説。ステファニアを例に、休眠中の管理のヒントも紹介します。"
 date: "2026-09-02"

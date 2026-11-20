@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1764329345321-e5a7ea70ad0e?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1723650879990-dae890387cff?w=1200&q=80"
 title: "ピレア・ペペロミオイデスの育て方｜子株の増やし方"
 description: "ピレア・ペペロミオイデスの育て方を、置き場所・水やり・仕立て直しの具体的な手順で解説。株元に出る子株の切り分けタイミングと株分け・水挿しの詳しいやり方も紹介します。"
 date: "2026-09-03"

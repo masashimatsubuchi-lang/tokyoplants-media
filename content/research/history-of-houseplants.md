@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1739452120315-2c6da6bd9277?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1773441272701-d0590bf8c49e?w=1200&q=80"
 title: "知られざる観葉植物の歴史｜古代から令和まで、植物と人の2000年"
 description: "なぜ私たちは室内に植物を飾るのか。古代ローマの貴族、19世紀の植物探検家、ヴィクトリア朝のシダ熱、そしてコロナ禍のプランツブームまで——観葉植物の歴史を辿ります。"
 date: "2026-06-08"

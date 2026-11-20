@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1663090954212-88347330513e?w=800&q=80"
+image: "https://images.unsplash.com/photo-1602424847711-2d2e831afc5d?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-y=0.6"
 title: "観葉植物を大きくしない植え替え｜根を1/3切って同じ鉢に戻す"
 description: "観葉植物をこれ以上大きくしたくないときの植え替え方法を解説。同じ鉢に戻す手順、根の剪定方法、地上部の切り戻しまで具体的に説明します。"
 date: "2026-02-17"

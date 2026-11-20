@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1677623061869-d1372f0bebe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080"
+image: "https://baseec-img-mng.akamaized.net/images/item/origin/d2169278b9cd57461bb382566a83efe3.jpg?imformat=generic&q=90&im=Resize,width=1200,type=normal"
 title: "アンスリウム・レガレとワロクアーナムの違い｜選び方"
 description: "葉形・難易度・湿度要求に加え、用土・鉢・光・温度下限・成長速度まで比較表で整理。幼株のうちの見分け方と、購入後最初の1ヶ月にやることまで解説します。"
 date: "2026-06-03"

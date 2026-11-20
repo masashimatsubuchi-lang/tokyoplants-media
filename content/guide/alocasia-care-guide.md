@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1764329343978-eddf330ac825?w=800&q=80"
+image: "https://images.unsplash.com/photo-1766139435733-fbd31cba848b?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-y=0.6"
 title: "アロカシアの育て方｜水やり・湿度・冬越しの要点"
 description: "アロカシアは過湿と寒さに弱い植物。水やりの間隔、湿度の作り方、15℃を下回る冬の扱い、品種ごとの差までを実務の手順で解説します。"
 date: "2026-02-16"

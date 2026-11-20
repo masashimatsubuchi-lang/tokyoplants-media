@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1683309567810-4d232ee83d2f?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1578852612716-854e527abf2e?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-y=0.5"
 title: "植物の成長記録をつけると育成が上手くなる理由"
 description: "水やりや成長の記録をつけることが植物育成の上達につながる理由を、自己モニタリングと習慣形成に関する研究から解説します。"
 date: "2026-09-02"

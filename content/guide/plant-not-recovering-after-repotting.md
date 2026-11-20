@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1680125276268-3a72a87412a2?w=800&q=80"
+image: "https://images.unsplash.com/photo-1612791397238-4fe881a5eab0?w=1200&q=80"
 title: "植え替え後に元気がない｜原因と回復までの手順"
 description: "植え替え後のしおれは根が水を吸えていないサイン。肥料をいつから再開するか、水やりをどう控えるか、回復の目安と危ないサインを切り分けて解説します。"
 date: "2026-02-17"

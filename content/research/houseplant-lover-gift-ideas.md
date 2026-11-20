@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1661699972347-122ab0bc4679?w=800&q=80"
+image: "https://images.unsplash.com/photo-1678716218812-84a067dab439?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-y=0.6"
 title: "観葉植物好きが喜ぶプレゼント10選｜失敗しない選び方"
 description: "観葉植物好きへのプレゼントで外さない10品を¥2,000〜¥18,000で整理。生体を避けたほうがいい理由と、リーフタオル全8種から相手に合う柄を選ぶコツまで具体的に解説します。"
 date: "2026-02-20"

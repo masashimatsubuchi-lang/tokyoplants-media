@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1669148911895-a95de51d09ca?w=800&q=80"
+image: "https://images.unsplash.com/photo-1701284620019-0b538a9f068a?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-y=0.68"
 title: "観葉植物の底面給水のやり方｜培地・容器・頻度を解説"
 description: "観葉植物の底面給水の仕組みと正しいやり方を解説。過湿・根腐れを防ぐ容器の選び方、最適な培地の条件、水換えの頻度まで具体的にわかります。"
 date: "2026-06-03"

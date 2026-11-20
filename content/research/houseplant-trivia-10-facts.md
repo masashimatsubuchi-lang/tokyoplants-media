@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1673105873283-33d329cbe3b0?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1604762524889-3e2fcc145683?w=1200&q=80"
 title: "明日誰かに話したくなる観葉植物の豆知識10選"
 description: "モンステラの葉に穴があく本当の理由、アンスリウムの「花」の正体、植物が会話をする仕組みなど——観葉植物好きなら知っておきたい、思わず誰かに話したくなる豆知識を10個まとめました。"
 date: "2026-06-08"

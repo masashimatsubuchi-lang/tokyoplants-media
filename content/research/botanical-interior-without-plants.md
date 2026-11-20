@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1680125268023-b726a02f3200?w=800&q=80"
+image: "https://images.unsplash.com/photo-1787507136009-19ae8d98d867?w=1200&q=80"
 title: "植物を置かないボタニカルインテリア"
 description: "観葉植物が置けない理由を5つに分けて本当に無理なのかを判定。そのうえでモチーフ雑貨で空間を作る方法と、フェイクグリーンの失敗しない選び方を解説します。"
 date: "2026-02-20"

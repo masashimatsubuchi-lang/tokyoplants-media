@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1679093463998-7ffd5327ce1a?w=800&q=80"
+image: "https://images.unsplash.com/photo-1777554886285-391eab7f4260?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-y=0.55"
 title: "観葉植物の根っこ、切っても大丈夫？黒い根は全部、健康な根は1/3まで"
 description: "観葉植物の根は切っても大丈夫。全体の1/3までを目安に、白い根を残して黒く傷んだ根から切ります。切る量の見極め方、道具、切ったあとの水やりと養生までを手順で解説します。"
 date: "2026-02-17"

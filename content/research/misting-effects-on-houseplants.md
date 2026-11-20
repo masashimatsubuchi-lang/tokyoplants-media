@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1664372898775-1034c55f2f41?w=800&q=80"
+image: "https://images.unsplash.com/photo-1614785246748-edc43ab91f76?w=1200&q=80"
 title: "葉水は本当に効果がある？観葉植物への効果と限界を整理"
 description: "観葉植物の葉水（霧吹き）にはどんな効果があるのか。園芸の一般的な知見をもとに、加湿・葉の清掃・ハダニ予防それぞれの効果と限界、正しいやり方、葉水を避けるべき植物を整理します。"
 date: "2026-02-18"

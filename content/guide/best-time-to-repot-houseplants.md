@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1678988087051-9c229235e8a2?w=800&q=80"
+image: "https://images.unsplash.com/photo-1624867267619-a9d300bc5192?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-x=0.6&fp-y=0.5&fp-z=1.4"
 title: "観葉植物の植え替え時期はいつ？最適は5〜6月、11〜2月は避ける"
 description: "観葉植物の植え替えに最適な時期を月別カレンダーで解説。植え替えのベストシーズン、避けるべき時期、時期を問わず植え替えが必要なサインまでわかります。"
 date: "2026-02-17"

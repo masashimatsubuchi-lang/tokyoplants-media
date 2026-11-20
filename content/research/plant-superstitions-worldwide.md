@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1724414056314-3ae17fa2175c?w=1200&q=80"
+image: "https://images.unsplash.com/photo-1667312070021-5af315e7bfb3?w=1200&q=80&ar=3:2&fit=crop&crop=focalpoint&fp-y=0.55"
 title: "「その植物、玄関に置いてはいけない」——世界の植物タブーと迷信を検証する"
 description: "サンスベリアは不吉、クワズイモは毒、玄関にモンステラは縁起が悪い……植物にまつわる迷信は世界中に存在します。その由来と、科学的に正しい部分・そうでない部分を整理します。"
 date: "2026-06-08"

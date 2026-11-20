@@ -1,5 +1,5 @@
 ---
-image: "https://plus.unsplash.com/premium_photo-1680127401354-ccc306081883?w=800&q=80"
+image: "https://images.unsplash.com/photo-1446292831938-bf9e56685fda?w=1200&q=80"
 title: "観葉植物の鉢の選び方｜サイズ・素材・形状の正しい選び方"
 description: "観葉植物の植え替えで鉢のサイズに迷っている方へ。号数の仕組み、一回り大きい鉢の目安、素材別の特徴、植物タイプ別のおすすめ鉢を解説します。"
 date: "2026-02-17"
