@@ -34,6 +34,7 @@ relatedSlugs:
   - "research/why-houseplants-die-5-factors"
   - "research/light-intensity-by-window-direction"
   - "guide/leggy-plant-stretching-causes"
+  - "review/ppfd-meter-comparison"
 amazonProducts:
   - title: "BRIM SOL 24W 植物育成ライト（5800K・E26）"
     asin: "B0B3M47RQJ"

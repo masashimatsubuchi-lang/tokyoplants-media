@@ -35,6 +35,7 @@ relatedSlugs:
   - "guide/winter-placement-room-map"
   - "guide/winter-hardiness-ranking-houseplants"
   - "guide/grow-light-installation-ideas"
+  - "review/ppfd-meter-comparison"
 amazonProducts:
   - title: "リーベックス コンセントタイマー デジタルタイマー PT80DW"
     asin: "B0CJBM2WV9"

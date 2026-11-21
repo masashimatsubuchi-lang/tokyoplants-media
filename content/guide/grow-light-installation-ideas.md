@@ -15,6 +15,7 @@ relatedSlugs:
   - "review/panel-grow-light-comparison"
   - "guide/sunlight-replacement-light"
   - "review/plant-rack-and-greenhouse-review"
+  - "review/ppfd-meter-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
