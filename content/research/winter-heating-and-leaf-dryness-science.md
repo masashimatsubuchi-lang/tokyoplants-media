@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1647783323572-da0d17c11489?w=1200&q=80
 title: "暖房の種類で違う？観葉植物の乾燥ダメージの仕組みと対策"
 description: "エアコン・石油ファンヒーター・電気ストーブなど暖房器具の種類ごとに、観葉植物への乾燥ダメージのメカニズムがどう違うのかを解説。冬の置き場所と距離の目安がわかります。"
 date: "2026-09-02"
-updated: "2026-11-04"
+updated: "2026-11-22"
 category: "research"
 tags:
   - 冬の管理
@@ -27,7 +27,7 @@ amazonProducts:
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"
     image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
-    note: "株のすぐそばに置き、暖房中の湿度が45〜60%に届いているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
+    note: "株のすぐそばに置き、暖房中の湿度が50〜60%に届いているか確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）。本体に68日分のデータを保存（商品ページの表示）"
     price: "¥2,680"
   - title: "SwitchBot サーキュレーター Lite（DCモーター・静音・首振り）"
     asin: "B0D9896MPY"
@@ -79,7 +79,7 @@ amazonProducts:
 
 - 吹き出し口の直線上・直下は避け、対角線上に植物を置く
 - サーキュレーターで室内の空気を循環させ、風が一点に集中しないようにする
-- [加湿器](/review/winter-humidity-control-humidifier-dehumidifier)を併用し、相対湿度45〜60%を目安に管理する（一般的な観葉植物の目安。高湿度を好む種はさらに上）
+- [加湿器](/review/winter-humidity-control-humidifier-dehumidifier)を併用し、相対湿度50〜60%を目安に管理する（一般的な観葉植物の目安。高湿度を好む種はさらに上）
 
 ### 石油ファンヒーター・電気ファンヒーター
 

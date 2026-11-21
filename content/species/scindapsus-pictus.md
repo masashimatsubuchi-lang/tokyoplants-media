@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1642380804902-68e9f2aab350?w=1200&q=80
 title: "シンダプサス・ピクタスの育て方｜シルバーの模様が美しいサテン質の観葉植物"
 description: "シンダプサス・ピクタス（サテンポトス）の育て方を詳しく解説。マット質の葉に銀色のスポット模様が入る人気品種。光・水やり・増やし方のポイントをわかりやすく紹介。"
 date: "2026-06-09"
+updated: "2026-11-22"
 category: "species"
 tags:
   - 観葉植物 育て方
@@ -37,7 +38,7 @@ amazonProducts:
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"
     image: "https://m.media-amazon.com/images/I/619p7vVZCDL._AC_SL200_.jpg"
-    note: "湿度が40%を下回っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
+    note: "湿度が50%を下回っていないか、記録で確かめる。評価★4.4・レビュー6,352件（2026-11-11にAmazon商品ページで確認／在庫あり・Prime対象・出荷元と販売元はAmazon.co.jp）"
     price: "¥2,680"
 ---
 

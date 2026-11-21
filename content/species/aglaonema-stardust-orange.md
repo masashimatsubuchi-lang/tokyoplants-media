@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1629099534513-bbc256e2b58a?w=1200&q=80
 title: "アグラオネマ・スターダストオレンジ｜Aglaonema 'Stardust Orange' 図鑑"
 description: "アグラオネマ・スターダストオレンジ（Aglaonema 'Stardust Orange'）の特徴・育て方を解説。オレンジ〜レッドの斑点模様が星のように散るカラフルな観葉植物の図鑑ページです。"
 date: "2026-06-09"
+updated: "2026-11-22"
 category: "species"
 genus: "aglaonema"
 tags:
@@ -184,7 +185,7 @@ amazonProducts:
 
 **原因:** 低湿度・エアコンの直風・水不足。
 
-**対処:** エアコンの風が直接当たらない場所に移動し、湿度を40〜60%に維持する。
+**対処:** エアコンの風が直接当たらない場所に移動し、湿度を50〜60%に維持する。
 
 ### 根腐れ
 
