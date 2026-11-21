@@ -23,7 +23,12 @@ body {
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* 日本語の書体を明示する（2026-11-22）。以前は Arial のみの指定で、和文は端末任せだった。
+     読者の約8割がスマホなので、iPhone はヒラギノ、Android は Noto Sans JP が選ばれる並びにする。 */
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+    "Noto Sans JP", "Yu Gothic", YuGothic, Meiryo, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
   /* 日本語の行末・行頭の扱い（2026-09-27 オーナー指摘で修正）。
      以前は word-break: break-word を指定しており、これは仕様上
      overflow-wrap: anywhere と同義でどこでも改行できてしまうため、
@@ -96,6 +101,140 @@ body {
   font-weight: 600;
   color: #27272a;
   white-space: nowrap;
+}
+
+/* ---------- スマホでは表を行ごとのカードにする（2026-11-22）----------
+   幅375pxの画面に約540pxの表を出すと右の列が隠れ、横スクロールに気づかれずに
+   読み飛ばされていた。見出し行のある単純な表（ArticleDetail の labelTableCells で
+   class="table-stack" と data-label を付けたもの）だけを縦積みにする。
+   1列目（項目名）をカードの見出しにし、残りの列は「見出し：値」の2列で並べる。 */
+@media (max-width: 639px) {
+  .prose .table-scroll:has(> table.table-stack) {
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+  }
+  .prose table.table-stack {
+    display: block;
+    min-width: 0;
+    font-size: 14.5px;
+    line-height: 1.7;
+  }
+  .prose table.table-stack thead {
+    display: none;
+  }
+  .prose table.table-stack tbody {
+    display: block;
+  }
+  .prose table.table-stack tbody tr {
+    display: block;
+    margin: 0 0 0.75rem;
+    border: 1px solid #e4e4e7;
+    border-radius: 0.75rem;
+    background: #fff;
+    overflow: hidden;
+  }
+  .prose table.table-stack tbody tr:nth-child(even) {
+    background: #fff;
+  }
+  .prose table.table-stack tbody td {
+    display: grid;
+    grid-template-columns: minmax(5.5em, 34%) 1fr;
+    gap: 0.75rem;
+    padding: 0.55rem 0.9rem;
+    border-bottom: 1px solid #f4f4f5;
+  }
+  .prose table.table-stack tbody td:last-child {
+    border-bottom: 0;
+  }
+  .prose table.table-stack tbody td::before {
+    content: attr(data-label);
+    color: #71717a;
+    font-size: 12.5px;
+    font-weight: 600;
+    line-height: 1.7;
+  }
+  .prose table.table-stack tbody td {
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+  }
+  /* 1列目はカードの見出し */
+  .prose table.table-stack tbody td:first-child {
+    display: block;
+    white-space: normal;
+    background: #f4f4f5;
+    color: #18181b;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0.6rem 0.9rem;
+  }
+  .prose table.table-stack tbody td:first-child::before {
+    content: none;
+  }
+  /* 2列の表は、行ごとのカードではなく1枚の枠の中の一覧にする */
+  .prose .table-scroll:has(> table.table-pair) {
+    border: 1px solid #e4e4e7;
+    border-radius: 0.75rem;
+    background: #fff;
+    overflow: hidden;
+  }
+  .prose table.table-pair tbody tr {
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid #e4e4e7;
+  }
+  .prose table.table-pair tbody tr:last-child {
+    border-bottom: 0;
+  }
+  .prose table.table-pair tbody td {
+    display: block;
+    border-bottom: 0;
+  }
+  .prose table.table-pair tbody td::before {
+    content: none;
+  }
+  .prose table.table-pair tbody td:first-child {
+    background: transparent;
+    font-size: 14.5px;
+    padding-bottom: 0;
+  }
+  .prose table.table-pair tbody td:last-child {
+    padding-top: 0.15rem;
+    padding-bottom: 0.65rem;
+  }
+}
+
+/* ---------- 本文の読みやすさ（スマホ前提、2026-11-22）----------
+   本文の要素だけに当てる。not-prose の部品（商品カード・注釈など）には効かせない。 */
+.prose :where(h2):not(:where(.not-prose, .not-prose *)) {
+  padding-bottom: 0.45rem;
+  border-bottom: 2px solid #ccfbf1;
+}
+@media (max-width: 639px) {
+  .prose {
+    font-size: 16.5px;
+  }
+  .prose :where(h2):not(:where(.not-prose, .not-prose *)) {
+    font-size: 21px;
+    line-height: 1.45;
+    margin-top: 2.6em;
+    margin-bottom: 0.9em;
+  }
+  .prose :where(h3):not(:where(.not-prose, .not-prose *)) {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 1.8em;
+  }
+  .prose :where(p):not(:where(.not-prose, .not-prose *)) {
+    margin-top: 0;
+    margin-bottom: 1.1em;
+  }
+  .prose :where(li):not(:where(.not-prose, .not-prose *)) {
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+  }
 }
 
 

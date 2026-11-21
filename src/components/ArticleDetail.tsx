@@ -206,7 +206,36 @@ function insertBeforeLastSection(segments: ContentSegment[], seg: ContentSegment
  * 外側の div でスクロールさせる。
  */
 function wrapTables(html: string): string {
-  return html.replace(/<table>([\s\S]*?)<\/table>/g, (m) => `<div class="table-scroll">${m}</div>`);
+  return html.replace(/<table>([\s\S]*?)<\/table>/g, (m) => `<div class="table-scroll">${labelTableCells(m)}</div>`);
+}
+
+/**
+ * スマホでは表を横スクロールではなく「行ごとのカード」で見せる（2026-11-22）。
+ * 幅375pxの画面に34rem（約540px）の表を出すと、右の列が隠れたまま読み飛ばされていた。
+ * CSSだけで縦積みにできるよう、各セルに見出し列の名前を data-label として持たせる。
+ * 見出しが無い表・セルの結合がある表は従来どおり横スクロールにする（globals.css 側で判定）。
+ */
+function labelTableCells(table: string): string {
+  const thead = /<thead>([\s\S]*?)<\/thead>/.exec(table);
+  if (!thead) return table;
+  const labels = [...thead[1].matchAll(/<th[^>]*>([\s\S]*?)<\/th>/g)].map((m) =>
+    stripHtml(m[1]).replace(/"/g, "&quot;"),
+  );
+  if (labels.length < 2 || /colspan|rowspan/.test(table)) return table;
+  const body = table.replace(/<tbody>([\s\S]*?)<\/tbody>/, (_, rows: string) => {
+    const labeled = rows.replace(/<tr>([\s\S]*?)<\/tr>/g, (_r, cells: string) => {
+      let i = 0;
+      const withLabels = cells.replace(/<td(\s[^>]*)?>/g, (_t, attrs: string | undefined) => {
+        const label = labels[i++] ?? "";
+        return `<td${attrs ?? ""} data-label="${label}">`;
+      });
+      return `<tr>${withLabels}</tr>`;
+    });
+    return `<tbody>${labeled}</tbody>`;
+  });
+  // 2列の表（項目と内容）は行ごとのカードにすると縦に長くなりすぎるので、詰めた一覧にする
+  const cls = labels.length === 2 ? "table-stack table-pair" : "table-stack";
+  return body.replace("<table>", `<table class="${cls}">`);
 }
 
 /** 最初の <h1>...</h1> を除去（frontmatter の title と重複するため） */
@@ -294,7 +323,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
 
       {/* Hero Image */}
       {post.image && (
-        <div className="relative h-64 md:h-96 w-full bg-gray-100">
+        // スマホでは写真を低めにして、最初の1画面にタイトルと本文の冒頭が入るようにする（2026-11-22）
+        <div className="relative h-48 sm:h-64 md:h-96 w-full bg-gray-100">
           <Image
             src={post.image}
             alt={post.title}
@@ -306,14 +336,15 @@ export default function ArticleDetail({ post }: { post: Post }) {
         </div>
       )}
 
-      <article className="mx-auto max-w-6xl px-4 py-12 md:py-16">
+      <article className="mx-auto max-w-6xl px-4 pt-5 pb-12 md:py-16">
         {/* Breadcrumb */}
-        <nav className="mb-8 text-[13px] text-zinc-400 flex flex-wrap items-center gap-y-1">
+        <nav className="mb-4 md:mb-8 text-[13px] text-zinc-400 flex flex-wrap items-center gap-y-1">
           <Link href="/" className="hover:text-zinc-900 transition-colors">トップ</Link>
           <span className="mx-2">/</span>
           <Link href={`/${post.category}`} className="hover:text-zinc-900 transition-colors">{category?.name}</Link>
-          <span className="mx-2">/</span>
-          <span className="text-zinc-600 break-all">{post.title}</span>
+          {/* 記事タイトルは直下の見出しと同じなので、スマホでは省いて1行に収める */}
+          <span className="mx-2 hidden md:inline">/</span>
+          <span className="hidden md:inline text-zinc-600 break-all">{post.title}</span>
         </nav>
 
         <div className="grid gap-10 lg:grid-cols-[1fr_280px] lg:items-start">
@@ -321,8 +352,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
             {/* Header */}
             <header>
               <span className="text-[11px] font-semibold uppercase tracking-[0.15em] text-teal-700">{category?.name}</span>
-              <h1 className="mt-3 text-2xl md:text-4xl font-extrabold tracking-tight text-zinc-900 leading-tight">{post.title}</h1>
-              <div className="mt-4 flex items-center gap-4 text-[13px] text-zinc-500">
+              <h1 className="mt-2 md:mt-3 text-[22px] md:text-4xl font-extrabold tracking-tight text-zinc-900 leading-snug md:leading-tight">{post.title}</h1>
+              <div className="mt-3 md:mt-4 flex flex-wrap items-center gap-x-4 gap-y-1 text-[12px] md:text-[13px] text-zinc-500">
                 <time dateTime={post.date}>{post.date}</time>
                 {post.updated && (
                   <span className="flex items-center gap-1">
@@ -338,7 +369,8 @@ export default function ArticleDetail({ post }: { post: Post }) {
                 </span>
               </div>
               {post.tags && post.tags.length > 0 && (
-                <div className="mt-4 flex flex-wrap gap-2">
+                // タグはスマホでは記事の最後に回す（冒頭で2行を使い、本文が2画面目に押し出されていたため）
+                <div className="mt-4 hidden md:flex flex-wrap gap-2">
                   {post.tags.map((tag) => (
                     <Link
                       key={tag}
@@ -377,7 +409,7 @@ export default function ArticleDetail({ post }: { post: Post }) {
             )}
 
             {/* Content */}
-            <div className="prose prose-zinc mt-10 max-w-none prose-headings:scroll-mt-28 prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-700 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-700 prose-li:leading-[1.85]">
+            <div className="prose prose-zinc mt-6 md:mt-10 max-w-none prose-headings:scroll-mt-28 prose-headings:tracking-tight prose-headings:font-bold prose-p:leading-[1.85] prose-p:text-zinc-700 prose-a:text-teal-700 prose-a:no-underline prose-a:hover:underline prose-strong:text-zinc-800 prose-li:text-zinc-700 prose-li:leading-[1.85]">
               {contentSegments.map((seg, i) => {
                 if (seg.type === "html") {
                   return seg.html ? <div key={i} dangerouslySetInnerHTML={{ __html: seg.html }} /> : null;
@@ -407,6 +439,20 @@ export default function ArticleDetail({ post }: { post: Post }) {
             </div>
 
             {hubGroups.length > 0 && <HubIndex title={post.hubIndex?.title} groups={hubGroups} />}
+
+            {post.tags && post.tags.length > 0 && (
+              <div className="mt-10 flex flex-wrap gap-2 md:hidden">
+                {post.tags.map((tag) => (
+                  <Link
+                    key={tag}
+                    href={`/tag/${encodeURIComponent(tag)}`}
+                    className="inline-flex items-center gap-0.5 rounded-full border border-gray-200 bg-gray-50 px-3 py-1.5 text-[13px] font-medium text-gray-600"
+                  >
+                    <span className="text-teal-500">#</span>{tag}
+                  </Link>
+                ))}
+              </div>
+            )}
 
             <AuthorCard author={author} />
 

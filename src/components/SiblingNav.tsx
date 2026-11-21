@@ -19,33 +19,50 @@ export default function SiblingNav({
   const rows = items.filter((i) => i.post || i.slug === currentSlug);
   if (rows.length < 2) return null;
 
+  const list = (
+    <ul className="space-y-1.5">
+      {rows.map((r) => {
+        const isCurrent = r.slug === currentSlug;
+        return (
+          <li key={r.slug} className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5 text-[13.5px] leading-snug">
+            <span className="shrink-0 rounded-md bg-white px-2 py-0.5 text-[11px] font-bold text-teal-800 ring-1 ring-teal-200">
+              {r.role}
+            </span>
+            {isCurrent ? (
+              <span className="font-bold text-zinc-800">この記事</span>
+            ) : (
+              <Link
+                href={`/${r.slug}`}
+                className="text-zinc-600 underline-offset-2 hover:text-teal-700 hover:underline"
+              >
+                {(r.post?.title ?? r.slug).replace(/[｜|][\s\S]*/, "").trim()}
+              </Link>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+  );
+
+  // スマホでは折りたたむ（2026-11-22）。開いたままだと冒頭の1画面を占め、本文が2画面目に押し出されていた
   return (
-    <nav className="not-prose my-6 rounded-xl border border-teal-100 bg-teal-50/40 px-4 py-3.5 sm:px-5">
-      <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.15em] text-teal-700">
-        読み分けガイド
-      </p>
-      <ul className="space-y-1.5">
-        {rows.map((r) => {
-          const isCurrent = r.slug === currentSlug;
-          return (
-            <li key={r.slug} className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5 text-[13.5px] leading-snug">
-              <span className="shrink-0 rounded-md bg-white px-2 py-0.5 text-[11px] font-bold text-teal-800 ring-1 ring-teal-200">
-                {r.role}
-              </span>
-              {isCurrent ? (
-                <span className="font-bold text-zinc-800">この記事</span>
-              ) : (
-                <Link
-                  href={`/${r.slug}`}
-                  className="text-zinc-600 underline-offset-2 hover:text-teal-700 hover:underline"
-                >
-                  {(r.post?.title ?? r.slug).replace(/[｜|][\s\S]*/, "").trim()}
-                </Link>
-              )}
-            </li>
-          );
-        })}
-      </ul>
-    </nav>
+    <>
+      <details className="not-prose group my-4 rounded-xl border border-teal-100 bg-teal-50/40 md:hidden">
+        <summary className="flex cursor-pointer list-none items-center gap-2 px-4 py-3">
+          <span className="text-[11px] font-bold uppercase tracking-[0.15em] text-teal-700">読み分けガイド</span>
+          <span className="ml-auto text-[12px] text-zinc-500">関連{rows.length - 1}本</span>
+          <svg className="h-4 w-4 shrink-0 text-zinc-400 transition-transform group-open:rotate-180" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+            <path d="M5 8l5 5 5-5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </summary>
+        <div className="border-t border-teal-100 px-4 py-3">{list}</div>
+      </details>
+      <nav className="not-prose my-6 hidden rounded-xl border border-teal-100 bg-teal-50/40 px-4 py-3.5 sm:px-5 md:block">
+        <p className="mb-2 text-[11px] font-bold uppercase tracking-[0.15em] text-teal-700">
+          読み分けガイド
+        </p>
+        {list}
+      </nav>
+    </>
   );
 }

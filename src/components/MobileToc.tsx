@@ -22,7 +22,7 @@ export default function MobileToc({ items }: { items: TocEntry[] }): ReactNode {
   if (headings.length < 4) return null;
 
   return (
-    <details className="not-prose group my-6 rounded-2xl border border-zinc-200 bg-zinc-50/80 lg:hidden">
+    <details className="not-prose group my-4 md:my-6 rounded-2xl border border-zinc-200 bg-zinc-50/80 lg:hidden">
       <summary className="flex cursor-pointer list-none items-center gap-2 px-4 py-3">
         <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-600">
           Contents
