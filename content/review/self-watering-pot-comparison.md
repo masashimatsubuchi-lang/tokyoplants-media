@@ -11,6 +11,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "guide/root-rot-causes-and-recovery"
   - "soil/repotting-soil-guide"
+  - "review/automatic-plant-watering-device-comparison"
 amazonProducts:
   - title: "T4U 12cm 給水プランター 4個セット（Medium）"
     asin: "B0CWRL4LK3"
