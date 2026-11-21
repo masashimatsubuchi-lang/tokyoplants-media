@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/plant-not-recovering-after-repotting"
   - "guide/choosing-pot-size-for-repotting"
   - "species/ficus-umbellata"
+  - "review/large-planter-pot-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

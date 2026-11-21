@@ -13,6 +13,7 @@ relatedSlugs:
   - "review/plant-caddy-stand-with-wheels-comparison"
   - "guide/no-drainage-hole-pot-guide"
   - "guide/fungus-gnat-prevention-rainy-season"
+  - "review/large-planter-pot-comparison"
 amazonProducts:
   - title: "大和プラスチック 鉢皿 深皿 5号（φ155×H50mm）ホワイト"
     asin: "B006P9OYWU"

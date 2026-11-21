@@ -13,6 +13,7 @@ relatedSlugs:
   - "species/monstera-deliciosa"
   - "soil/best-soil-for-monstera"
   - "guide/plant-not-recovering-after-repotting"
+  - "review/large-planter-pot-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"

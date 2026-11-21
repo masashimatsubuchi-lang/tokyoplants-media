@@ -13,6 +13,7 @@ relatedSlugs:
   - "soil/drainage-stones-guide"
   - "soil/improve-drainage-for-houseplants"
   - "guide/no-drainage-hole-pot-guide"
+  - "review/large-planter-pot-comparison"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
