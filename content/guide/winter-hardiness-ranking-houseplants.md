@@ -34,7 +34,7 @@ hubIndex:
     - label: "植物別の冬越し"
       match: "^guide/(alocasia-winter|anthurium-winter|monstera-winter|platycerium-winter|caudex-plant-winter|hydroculture-winter|jewel-orchid-winter|succulent-winter|cactus-winter|schefflera-winter|rubber-tree-winter|peperomia-winter|syngonium-winter|pilea-winter|spathiphyllum-winter|maranta-winter|parlor-palm-winter|hedera-winter|fittonia-winter|rhaphidophora-winter|tank-bromeliad-winter|nephrolepis-winter|aloe-winter|agave-winter|tillandsia-winter|stephania-dormancy|calathea-winter|hoya-winter|zamioculcas-winter|aglaonema-winter|strelitzia-winter|pachira-winter|umbellata-winter|gajumaru-winter|pothos-winter|dracaena-fragrans-winter|begonia-winter|philodendron-winter|adiantum-winter|dieffenbachia-winter|scindapsus-winter|coffee-plant-winter|crassula-winter|croton-winter)"
     - label: "冬の道具・設備"
-      match: "^(review/(winter-insulation|winter-humidity-control|heat-mat|greenhouse-heater|grow-tent|thermo-hygrometer|plant-rack-and-greenhouse)|guide/metal-rack-greenhouse)"
+      match: "^(review/(winter-insulation|winter-humidity-control|heat-mat|greenhouse-heater|grow-tent|thermo-hygrometer|plant-rack-and-greenhouse|indoor-glass-greenhouse|ppfd-meter)|guide/metal-rack-greenhouse)"
     - label: "仕組みを知る"
       match: "^research/(chilling-injury|winter-heating-and-leaf|winter-survival-map|caudex-plant-winter|temperature-and-houseplant-growth|winter-daylight|houseplant-dormancy-winter)"
 amazonProducts:

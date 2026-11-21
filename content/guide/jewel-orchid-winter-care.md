@@ -23,6 +23,7 @@ relatedSlugs:
   - "review/thermo-hygrometer-comparison"
   - "review/heat-mat-for-houseplants-comparison"
   - "review/winter-humidity-control-humidifier-dehumidifier"
+  - "review/indoor-glass-greenhouse-cabinet"
 baseProducts:
   - title: "ジュエルオーキッドの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382104"
