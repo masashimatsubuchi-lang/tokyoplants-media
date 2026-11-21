@@ -212,6 +212,10 @@ body {
   padding-bottom: 0.45rem;
   border-bottom: 2px solid #ccfbf1;
 }
+/* 見出しに下線を付けたので、見出しの直前の区切り線（---）は二重線になるため出さない */
+.prose hr:has(+ h2) {
+  display: none;
+}
 @media (max-width: 639px) {
   .prose {
     font-size: 16.5px;

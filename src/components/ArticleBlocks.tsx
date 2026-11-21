@@ -22,12 +22,14 @@ function BlockTitle({ eyebrow, title }: { eyebrow: string; title: string }) {
   );
 }
 
-/* ---------- key-facts: 記事冒頭の「30秒でわかる」要約グリッド ---------- */
+/* ---------- key-facts: 記事冒頭の「30秒でわかる」要約 ----------
+   2026-11-22 オーナー指摘「黒いデザインが馴染んでいない」で、黒地から
+   ほかの視覚ブロック（stats・callout）と同じ淡いミント系に変更。 */
 function KeyFacts({ block }: { block: Extract<ParsedBlock, { kind: "key-facts" }> }) {
   return (
-    <section className="not-prose my-8 rounded-2xl bg-zinc-900 p-5 text-white sm:p-6">
-      <BlockTitleDark eyebrow="At a glance" title={block.title || "この記事の要点"} />
-      <dl className="grid grid-cols-1 gap-x-6 gap-y-3.5 sm:grid-cols-2">
+    <section className="not-prose my-8 rounded-2xl border border-emerald-100 bg-emerald-50/50 px-4 py-4 sm:px-6 sm:py-5">
+      <BlockTitle eyebrow="At a glance" title={block.title || "この記事の要点"} />
+      <dl className="divide-y divide-emerald-100/80 sm:grid sm:grid-cols-2 sm:gap-x-8 sm:divide-y-0">
         {block.items.map((it, i) => {
           // 短いラベルは横並び、長いラベルは値の上に積む。
           // 固定幅(5.5em)の列に長い語を入れると2〜3文字ずつ折り返されて読めなくなる
@@ -36,19 +38,19 @@ function KeyFacts({ block }: { block: Extract<ParsedBlock, { kind: "key-facts" }
           return (
             <div
               key={i}
-              className={`border-l-2 border-emerald-400 pl-3 ${stacked ? "flex flex-col gap-1" : "flex gap-3"}`}
+              className={`py-2.5 sm:border-t sm:border-emerald-100/80 ${stacked ? "flex flex-col gap-0.5" : "flex gap-3"}`}
             >
               <dt
                 className={
                   stacked
-                    ? "text-[11.5px] font-bold leading-snug text-emerald-300"
-                    : "w-[5.5em] shrink-0 text-[12px] font-semibold leading-6 text-zinc-400"
+                    ? "text-[12px] font-bold leading-snug text-emerald-700"
+                    : "w-[5.5em] shrink-0 text-[12.5px] font-bold leading-6 text-emerald-700"
                 }
               >
                 {it.label}
               </dt>
               <dd
-                className="text-[14px] font-medium leading-[1.7] text-zinc-50 [&_strong]:font-bold [&_strong]:text-emerald-300 [&_a]:underline"
+                className="text-[14.5px] leading-[1.7] text-zinc-800 [&_strong]:font-bold [&_strong]:text-zinc-900 [&_strong]:[background:linear-gradient(transparent_62%,#a7f3d0_62%)] [&_a]:text-teal-700 [&_a]:underline"
                 dangerouslySetInnerHTML={{ __html: it.valueHtml }}
               />
             </div>
@@ -56,15 +58,6 @@ function KeyFacts({ block }: { block: Extract<ParsedBlock, { kind: "key-facts" }
         })}
       </dl>
     </section>
-  );
-}
-
-function BlockTitleDark({ eyebrow, title }: { eyebrow: string; title: string }) {
-  return (
-    <div className="mb-4 flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
-      <span className="shrink-0 whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.2em] text-emerald-400">{eyebrow}</span>
-      <span className="min-w-0 text-[15px] font-bold text-white">{title}</span>
-    </div>
   );
 }
 
