@@ -16,6 +16,7 @@ relatedSlugs:
   - "guide/anthurium-warocqueanum-care-guide"
   - "soil/mushroom-on-houseplant-soil"
   - "review/indoor-glass-greenhouse-cabinet"
+  - "review/paludarium-glass-case-comparison"
 amazonProducts:
   - title: "ELUTENG 小型USBファン 4cm（3段階風量調節）"
     asin: "B01N7QQYZ5"

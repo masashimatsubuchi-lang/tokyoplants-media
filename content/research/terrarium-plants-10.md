@@ -18,6 +18,7 @@ relatedSlugs:
   - "species/genus-adiantum"
   - "species/ficus-pumila"
   - "species/peperomia-caperata"
+  - "review/paludarium-glass-case-comparison"
 baseProducts:
   - title: "tokyoplants All plants｜観葉植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

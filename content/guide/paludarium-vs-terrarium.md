@@ -16,6 +16,7 @@ relatedSlugs:
   - "research/humidity-and-leaf-damage-thresholds"
   - "soil/hydroculture-medium-comparison"
   - "species/fittonia-albivenis"
+  - "review/paludarium-glass-case-comparison"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"

@@ -19,6 +19,7 @@ relatedSlugs:
   - "guide/closed-container-mold-prevention"
   - "guide/paludarium-vs-terrarium"
   - "soil/sphagnum-moss-recommended"
+  - "review/paludarium-glass-case-comparison"
 baseProducts:
   - title: "ジュエルオーキッドの商品一覧"
     url: "https://www.tokyoplants.com/categories/6382104"

@@ -17,6 +17,7 @@ relatedSlugs:
   - "research/jewel-orchid-cites-rules"
   - "soil/sphagnum-moss-recommended"
   - "guide/closed-container-mold-prevention"
+  - "review/paludarium-glass-case-comparison"
 baseProducts:
   - title: "ジュエルオーキッド / Jewel Orchid"
     url: "https://www.tokyoplants.com/categories/6382104"

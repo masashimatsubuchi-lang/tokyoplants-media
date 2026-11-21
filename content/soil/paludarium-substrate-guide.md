@@ -17,6 +17,7 @@ relatedSlugs:
   - "soil/zeolite-for-houseplants"
   - "soil/semi-hydro-layering-guide"
   - "soil/sphagnum-moss-recommended"
+  - "review/paludarium-glass-case-comparison"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
