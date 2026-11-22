@@ -37,7 +37,7 @@ function withExistingVariants(product: OwnProduct): OwnProduct {
 export default function StoreHome() {
   const collection = OWN_COLLECTION.map(withExistingVariants);
   const ranking = READER_RANKING.slice(0, RANKING_LIMIT);
-  // よく読まれている記事は記事末尾と同じ GA4 の閲覧数リスト（scripts/update-popular.mjs で月1回作り直す）
+  // 読者に選ばれている記事は記事末尾と同じリスト。ショップへのクリック数を主に並べる（scripts/update-popular.mjs で月1回作り直す）
   const editorsPick = getPopularPosts([], 9);
   const pickedSlugs = new Set(editorsPick.map((p) => p.slug));
   const categoryTabs = (["soil", "guide", "species", "research", "review"] as const).map((slug) => {
@@ -148,10 +148,10 @@ export default function StoreHome() {
         {editorsPick.length > 0 && (
           <div className="mt-14">
             <div className="store-gutter">
-              <h3 className="mx-auto max-w-[1180px] text-[19px] font-semibold md:text-[21px]">よく読まれている記事</h3>
+              <h3 className="mx-auto max-w-[1180px] text-[19px] font-semibold md:text-[21px]">読者に選ばれている記事</h3>
             </div>
             <div className="mt-4">
-              <ShelfScroller label="よく読まれている記事">
+              <ShelfScroller label="読者に選ばれている記事">
                 {editorsPick.map((post) => (
                   <div key={`${post.category}-${post.slug}`} className="w-[78%] shrink-0 snap-start sm:w-[300px]">
                     {/* 棚のカードは幅300px前後なので、3倍密度の画面でも足りる900pxで取り寄せる */}

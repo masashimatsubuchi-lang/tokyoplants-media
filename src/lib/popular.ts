@@ -2,7 +2,8 @@ import popularData from "@/data/popular-articles.json";
 import { getAllPosts, type PostMeta } from "./posts";
 
 /**
- * 「よく読まれている記事」の元データ。
+ * 「読者に選ばれている記事」（旧「よく読まれている記事」）の元データ。
+ * 2026-11-22から、閲覧数ではなくショップへのクリック数を主に並べている（scripts/update-popular.mjs）。
  *
  * GA4はビルド時に叩けないので、エクスポートから作った静的リスト
  * （src/data/popular-articles.json）を読む。更新手順は

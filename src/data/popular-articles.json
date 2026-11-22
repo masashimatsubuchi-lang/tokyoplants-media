@@ -1,130 +1,160 @@
 {
-  "_note": "GA4「tokyoplants｜media」プロパティの表示回数から作成した人気記事リスト。記事末尾とトップの『よく読まれている記事』で使う。scripts/update-popular.mjs で作り直す。",
+  "_note": "GA4から作成した『読者に選ばれている記事』。tokyoplantsの商品を載せている記事を、ショップへのクリック数（直近90日）＋閲覧数（直近28日）÷500 の点数で並べる。記事末尾とトップで使う。scripts/update-popular.mjs で作り直す。",
   "period": {
-    "start": "2026-09-30",
-    "end": "2026-10-27"
+    "start": "2026-10-25",
+    "end": "2026-11-21"
   },
-  "generatedAt": "2026-10-28",
+  "generatedAt": "2026-11-22",
   "items": [
     {
-      "slug": "research/100yen-shop-rare-houseplants",
-      "views": 882
-    },
-    {
-      "slug": "species/stephania-erecta",
-      "views": 782
-    },
-    {
       "slug": "soil/neko-chip-vs-original-soil",
-      "views": 743
+      "views": 455,
+      "ecClicks": 25
     },
     {
-      "slug": "review/plant-light-review",
-      "views": 726
-    },
-    {
-      "slug": "guide/platycerium-grow-light-guide",
-      "views": 501
+      "slug": "research/birthday-gift-plant-lover",
+      "views": 70,
+      "ecClicks": 21
     },
     {
       "slug": "soil/best-soil-for-alocasia",
-      "views": 422
-    },
-    {
-      "slug": "guide/plant-not-recovering-after-repotting",
-      "views": 362
-    },
-    {
-      "slug": "guide/monstera-hydroculture",
-      "views": 330
-    },
-    {
-      "slug": "guide/monstera-grow-light-guide",
-      "views": 308
-    },
-    {
-      "slug": "guide/no-drainage-hole-pot-guide",
-      "views": 296
-    },
-    {
-      "slug": "review/brim-grow-light-comparison",
-      "views": 285
-    },
-    {
-      "slug": "review/bar-type-grow-light-comparison",
-      "views": 281
-    },
-    {
-      "slug": "guide/hydroculture-to-soil-transition",
-      "views": 233
-    },
-    {
-      "slug": "species/monstera-burle-marxii-flame",
-      "views": 222
-    },
-    {
-      "slug": "soil/best-soil-for-everfresh",
-      "views": 215
-    },
-    {
-      "slug": "species/begonia-pavonina",
-      "views": 197
-    },
-    {
-      "slug": "species/alocasia-venom",
-      "views": 194
-    },
-    {
-      "slug": "soil/best-soil-for-gajumaru",
-      "views": 192
-    },
-    {
-      "slug": "guide/root-rot-causes-and-recovery",
-      "views": 190
-    },
-    {
-      "slug": "soil/bellabon-for-houseplants",
-      "views": 178
-    },
-    {
-      "slug": "soil/best-soil-for-calathea",
-      "views": 174
-    },
-    {
-      "slug": "soil/best-soil-for-pachira",
-      "views": 168
+      "views": 235,
+      "ecClicks": 14
     },
     {
       "slug": "soil/best-soil-for-umbellata",
-      "views": 162
+      "views": 114,
+      "ecClicks": 14
     },
     {
-      "slug": "review/plant-rack-and-greenhouse-review",
-      "views": 162
+      "slug": "soil/best-soil-for-everfresh",
+      "views": 151,
+      "ecClicks": 13
     },
     {
-      "slug": "guide/alocasia-winter-care",
-      "views": 151
+      "slug": "guide/anthurium-warocqueanum-care-guide",
+      "views": 150,
+      "ecClicks": 8
     },
     {
-      "slug": "species/alocasia-nobillis",
-      "views": 150
+      "slug": "guide/monstera-hydroculture",
+      "views": 232,
+      "ecClicks": 7
     },
     {
-      "slug": "species/alocasia-silver-dragon",
-      "views": 145
+      "slug": "guide/no-drainage-hole-pot-guide",
+      "views": 232,
+      "ecClicks": 7
     },
     {
-      "slug": "guide/anthurium-grow-light-guide",
-      "views": 142
+      "slug": "soil/best-soil-for-gajumaru",
+      "views": 138,
+      "ecClicks": 7
+    },
+    {
+      "slug": "soil/best-soil-for-calathea",
+      "views": 120,
+      "ecClicks": 6
+    },
+    {
+      "slug": "soil/best-soil-for-pachira",
+      "views": 108,
+      "ecClicks": 6
+    },
+    {
+      "slug": "soil/best-soil-for-zamioculcas",
+      "views": 40,
+      "ecClicks": 6
+    },
+    {
+      "slug": "research/houseplant-lover-gift-ideas",
+      "views": 19,
+      "ecClicks": 6
+    },
+    {
+      "slug": "soil/akadama-hard-vs-regular",
+      "views": 10,
+      "ecClicks": 6
+    },
+    {
+      "slug": "species/monstera-burle-marxii-flame",
+      "views": 244,
+      "ecClicks": 5
+    },
+    {
+      "slug": "soil/bellabon-for-houseplants",
+      "views": 106,
+      "ecClicks": 5
+    },
+    {
+      "slug": "soil/best-soil-for-pothos",
+      "views": 93,
+      "ecClicks": 5
+    },
+    {
+      "slug": "species/stephania-erecta",
+      "views": 579,
+      "ecClicks": 4
     },
     {
       "slug": "soil/repotting-soil-guide",
-      "views": 142
+      "views": 72,
+      "ecClicks": 5
     },
     {
-      "slug": "guide/alocasia-hydroculture",
-      "views": 141
+      "slug": "soil/best-soil-for-philodendron",
+      "views": 59,
+      "ecClicks": 5
+    },
+    {
+      "slug": "guide/jewel-orchid-propagation",
+      "views": 58,
+      "ecClicks": 5
+    },
+    {
+      "slug": "guide/monstera-care",
+      "views": 52,
+      "ecClicks": 5
+    },
+    {
+      "slug": "research/tokyo-rare-houseplant-specialty-shops",
+      "views": 50,
+      "ecClicks": 5
+    },
+    {
+      "slug": "species/alocasia-ninja-tricolor",
+      "views": 37,
+      "ecClicks": 5
+    },
+    {
+      "slug": "soil/hydroculture-medium-comparison",
+      "views": 32,
+      "ecClicks": 5
+    },
+    {
+      "slug": "species/alocasia-holy-grail",
+      "views": 24,
+      "ecClicks": 5
+    },
+    {
+      "slug": "species/alocasia-venom",
+      "views": 202,
+      "ecClicks": 4
+    },
+    {
+      "slug": "species/alocasia-melo",
+      "views": 104,
+      "ecClicks": 4
+    },
+    {
+      "slug": "soil/zeolite-for-houseplants",
+      "views": 74,
+      "ecClicks": 4
+    },
+    {
+      "slug": "guide/jewel-alocasia-types-comparison",
+      "views": 52,
+      "ecClicks": 4
     }
   ]
 }

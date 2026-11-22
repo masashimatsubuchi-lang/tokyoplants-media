@@ -517,12 +517,13 @@ export default function ArticleDetail({ post }: { post: Post }) {
             {/* Related Posts */}
             <PostScroller posts={relatedPosts} title="関連記事" cols={2} />
 
-            {/* よく読まれている記事（サイト全体の人気。文脈で拾えなかった読者の受け皿） */}
+            {/* 読者に選ばれている記事（2026-11-22〜。閲覧数ではなく、ショップへのクリックが多い記事を主に並べる。
+                並べ方は scripts/update-popular.mjs の冒頭を参照） */}
             <PostScroller
               posts={popularPosts}
-              eyebrow="Popular"
-              title="よく読まれている記事"
-              description="tokyoplants MEDIAでいま読まれている記事です。"
+              eyebrow="Pick up"
+              title="読者に選ばれている記事"
+              description="土や道具を選ぶときによく参考にされている記事です。"
               rank
             />
 

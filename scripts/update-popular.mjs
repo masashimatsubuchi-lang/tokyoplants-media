@@ -8,7 +8,14 @@
  *   node scripts/update-popular.mjs --dry-run       # 書き出さずに結果だけ表示
  *
  * 書き出すファイル
- *   src/data/popular-articles.json  記事末尾とトップの「よく読まれている記事」（上位30本）
+ *   src/data/popular-articles.json  記事末尾とトップの「読者に選ばれている記事」（上位30本）
+ *
+ * 「読者に選ばれている記事」の並べ方（2026-11-22 オーナーと決定）
+ *   閲覧数だけで並べると、1位が100均の記事のように tokyoplants の商品販売に直結しない記事になる。
+ *   そこで「ショップへのクリック（ec_click）が多い記事」を主に並べ、閲覧数は補助にする。
+ *     点数 = ショップへのクリック数（直近90日）＋ 閲覧数（直近28日）÷ 500
+ *   （500閲覧＝1クリック相当。クリックは件数が少ないので期間を長めに取る）
+ *   対象は baseProducts に tokyoplants の商品（www.tokyoplants.com）を載せている記事だけ。
  *   src/data/home-ranking.json      トップの人気ランキング（15位まで）
  *
  * 人気ランキングの並べ方（2026-10-28 オーナーと決定）
@@ -158,9 +165,43 @@ async function fetchPageViews(token) {
   return pv;
 }
 
+/** pagePath 別のイベント数（ショップへのクリック ec_click など）。期間は days 日 */
+async function fetchEventByPage(token, eventName, nDays) {
+  const start = ymd(new Date(new Date(endDate).getTime() - (nDays - 1) * 86400000));
+  const res = await fetch(`https://analyticsdata.googleapis.com/v1beta/${PROPERTY}:runReport`, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+    body: JSON.stringify({
+      dateRanges: [{ startDate: start, endDate }],
+      dimensions: [{ name: "pagePath" }],
+      metrics: [{ name: "eventCount" }],
+      dimensionFilter: {
+        andGroup: {
+          expressions: [
+            { filter: { fieldName: "hostName", stringFilter: { value: HOST } } },
+            { filter: { fieldName: "eventName", stringFilter: { value: eventName } } },
+          ],
+        },
+      },
+      limit: 5000,
+    }),
+  });
+  if (!res.ok) throw new Error(`GA4 ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  const m = new Map();
+  for (const r of (await res.json()).rows ?? []) {
+    const p = r.dimensionValues[0].value.replace(/[?#].*$/, "").replace(/\/$/, "");
+    m.set(p, (m.get(p) ?? 0) + Number(r.metricValues[0].value));
+  }
+  return m;
+}
+
+const EC_DAYS = 90;
+const PV_PER_CLICK = 500;
+
 /* ---------- 集計 ---------- */
 const token = await getAccessToken();
 const pv = await fetchPageViews(token);
+const ec = await fetchEventByPage(token, "ec_click", EC_DAYS);
 
 const articles = [];
 const score = new Map(); // asin → { views, articles, title }
@@ -169,8 +210,10 @@ for (const cat of CATEGORIES) {
     if (!f.endsWith(".md")) continue;
     const slug = `${cat}/${f.replace(/\.md$/, "")}`;
     const views = pv.get(`/${slug}`) ?? 0;
-    articles.push({ slug, views });
     const { data } = matter(readFileSync(join("content", cat, f), "utf8"));
+    const sellsOwn = (data.baseProducts ?? []).some((b) => /tokyoplants\.com/.test(b.url ?? ""));
+    const ecClicks = ec.get(`/${slug}`) ?? 0;
+    articles.push({ slug, views, ecClicks, sellsOwn, score: ecClicks + views / PV_PER_CLICK });
     const seen = new Set(); // 同じ記事に同じ商品が2回載っていても1回と数える
     for (const p of data.amazonProducts ?? []) {
       if (!p.asin) continue;
@@ -186,9 +229,10 @@ for (const cat of CATEGORIES) {
 }
 
 const popular = articles
-  .filter((a) => a.views > 0)
-  .sort((a, b) => b.views - a.views)
-  .slice(0, POPULAR_COUNT);
+  .filter((a) => a.sellsOwn && a.views > 0)
+  .sort((a, b) => b.score - a.score || b.views - a.views)
+  .slice(0, POPULAR_COUNT)
+  .map(({ slug, views, ecClicks }) => ({ slug, views, ecClicks }));
 
 const ranking = [];
 const pending = [];
@@ -204,8 +248,8 @@ for (const s of [...score.values()].sort((a, b) => b.views - a.views)) {
 
 /* ---------- 出力 ---------- */
 console.log(`期間 ${startDate} 〜 ${endDate}\n`);
-console.log("よく読まれている記事（上位10）");
-for (const a of popular.slice(0, 10)) console.log(`  ${String(a.views).padStart(5)}  ${a.slug}`);
+console.log(`読者に選ばれている記事（上位10。ショップへのクリックは直近${EC_DAYS}日）`);
+for (const a of popular.slice(0, 10)) console.log(`  クリック${String(a.ecClicks).padStart(3)}  閲覧${String(a.views).padStart(5)}  ${a.slug}`);
 console.log("\n人気ランキング");
 ranking.forEach((r, i) => console.log(`  ${String(i + 1).padStart(2)}位 ${String(r.views).padStart(5)}  ${r.asin}  ${r.title}`));
 if (pending.length) {
@@ -224,7 +268,7 @@ writeFileSync(
   "src/data/popular-articles.json",
   JSON.stringify(
     {
-      _note: "GA4「tokyoplants｜media」プロパティの表示回数から作成した人気記事リスト。記事末尾とトップの『よく読まれている記事』で使う。scripts/update-popular.mjs で作り直す。",
+      _note: "GA4から作成した『読者に選ばれている記事』。tokyoplantsの商品を載せている記事を、ショップへのクリック数（直近90日）＋閲覧数（直近28日）÷500 の点数で並べる。記事末尾とトップで使う。scripts/update-popular.mjs で作り直す。",
       period,
       generatedAt,
       items: popular,
