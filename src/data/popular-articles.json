@@ -1,5 +1,5 @@
 {
-  "_note": "GA4から作成した『読者に選ばれている記事』。tokyoplantsの商品を載せている記事を、ショップへのクリック数（直近90日）＋閲覧数（直近28日）÷500 の点数で並べる。記事末尾とトップで使う。scripts/update-popular.mjs で作り直す。",
+  "_note": "GA4から作成した『読者に選ばれている記事』。ショップへのクリック＋Amazonへのクリック×0.2（直近90日）＋閲覧数（直近28日）÷500 の点数で並べ、上位12本は1カテゴリ5本まで。記事末尾とトップで使う。scripts/update-popular.mjs で作り直す。",
   "period": {
     "start": "2026-10-25",
     "end": "2026-11-21"
@@ -7,154 +7,184 @@
   "generatedAt": "2026-11-22",
   "items": [
     {
+      "slug": "review/plant-light-review",
+      "views": 771,
+      "ecClicks": 1,
+      "amazonClicks": 285
+    },
+    {
       "slug": "soil/neko-chip-vs-original-soil",
       "views": 455,
-      "ecClicks": 25
+      "ecClicks": 25,
+      "amazonClicks": 25
     },
     {
       "slug": "research/birthday-gift-plant-lover",
       "views": 70,
-      "ecClicks": 21
+      "ecClicks": 21,
+      "amazonClicks": 6
+    },
+    {
+      "slug": "review/plant-rack-and-greenhouse-review",
+      "views": 184,
+      "ecClicks": 1,
+      "amazonClicks": 95
+    },
+    {
+      "slug": "guide/platycerium-grow-light-guide",
+      "views": 431,
+      "ecClicks": 2,
+      "amazonClicks": 68
     },
     {
       "slug": "soil/best-soil-for-alocasia",
       "views": 235,
-      "ecClicks": 14
+      "ecClicks": 14,
+      "amazonClicks": 0
     },
     {
       "slug": "soil/best-soil-for-umbellata",
       "views": 114,
-      "ecClicks": 14
+      "ecClicks": 14,
+      "amazonClicks": 0
     },
     {
       "slug": "soil/best-soil-for-everfresh",
       "views": 151,
-      "ecClicks": 13
+      "ecClicks": 13,
+      "amazonClicks": 0
+    },
+    {
+      "slug": "soil/sphagnum-moss-recommended",
+      "views": 134,
+      "ecClicks": 0,
+      "amazonClicks": 59
+    },
+    {
+      "slug": "review/bar-type-grow-light-comparison",
+      "views": 255,
+      "ecClicks": 0,
+      "amazonClicks": 45
     },
     {
       "slug": "guide/anthurium-warocqueanum-care-guide",
       "views": 150,
-      "ecClicks": 8
+      "ecClicks": 8,
+      "amazonClicks": 0
     },
     {
       "slug": "guide/monstera-hydroculture",
       "views": 232,
-      "ecClicks": 7
-    },
-    {
-      "slug": "guide/no-drainage-hole-pot-guide",
-      "views": 232,
-      "ecClicks": 7
-    },
-    {
-      "slug": "soil/best-soil-for-gajumaru",
-      "views": 138,
-      "ecClicks": 7
-    },
-    {
-      "slug": "soil/best-soil-for-calathea",
-      "views": 120,
-      "ecClicks": 6
+      "ecClicks": 7,
+      "amazonClicks": 2
     },
     {
       "slug": "soil/best-soil-for-pachira",
       "views": 108,
-      "ecClicks": 6
+      "ecClicks": 6,
+      "amazonClicks": 7
+    },
+    {
+      "slug": "soil/best-soil-for-gajumaru",
+      "views": 138,
+      "ecClicks": 7,
+      "amazonClicks": 1
+    },
+    {
+      "slug": "guide/no-drainage-hole-pot-guide",
+      "views": 232,
+      "ecClicks": 7,
+      "amazonClicks": 0
+    },
+    {
+      "slug": "review/heat-mat-for-houseplants-comparison",
+      "views": 86,
+      "ecClicks": 0,
+      "amazonClicks": 34
+    },
+    {
+      "slug": "guide/monstera-grow-light-guide",
+      "views": 263,
+      "ecClicks": 0,
+      "amazonClicks": 32
+    },
+    {
+      "slug": "soil/best-soil-for-calathea",
+      "views": 120,
+      "ecClicks": 6,
+      "amazonClicks": 0
     },
     {
       "slug": "soil/best-soil-for-zamioculcas",
       "views": 40,
-      "ecClicks": 6
+      "ecClicks": 6,
+      "amazonClicks": 0
     },
     {
       "slug": "research/houseplant-lover-gift-ideas",
       "views": 19,
-      "ecClicks": 6
+      "ecClicks": 6,
+      "amazonClicks": 0
     },
     {
       "slug": "soil/akadama-hard-vs-regular",
       "views": 10,
-      "ecClicks": 6
+      "ecClicks": 6,
+      "amazonClicks": 0
+    },
+    {
+      "slug": "soil/best-soil-for-hoya",
+      "views": 49,
+      "ecClicks": 4,
+      "amazonClicks": 8
     },
     {
       "slug": "species/monstera-burle-marxii-flame",
       "views": 244,
-      "ecClicks": 5
-    },
-    {
-      "slug": "soil/bellabon-for-houseplants",
-      "views": 106,
-      "ecClicks": 5
-    },
-    {
-      "slug": "soil/best-soil-for-pothos",
-      "views": 93,
-      "ecClicks": 5
+      "ecClicks": 5,
+      "amazonClicks": 1
     },
     {
       "slug": "species/stephania-erecta",
       "views": 579,
-      "ecClicks": 4
-    },
-    {
-      "slug": "soil/repotting-soil-guide",
-      "views": 72,
-      "ecClicks": 5
-    },
-    {
-      "slug": "soil/best-soil-for-philodendron",
-      "views": 59,
-      "ecClicks": 5
-    },
-    {
-      "slug": "guide/jewel-orchid-propagation",
-      "views": 58,
-      "ecClicks": 5
-    },
-    {
-      "slug": "guide/monstera-care",
-      "views": 52,
-      "ecClicks": 5
-    },
-    {
-      "slug": "research/tokyo-rare-houseplant-specialty-shops",
-      "views": 50,
-      "ecClicks": 5
-    },
-    {
-      "slug": "species/alocasia-ninja-tricolor",
-      "views": 37,
-      "ecClicks": 5
+      "ecClicks": 4,
+      "amazonClicks": 2
     },
     {
       "slug": "soil/hydroculture-medium-comparison",
       "views": 32,
-      "ecClicks": 5
+      "ecClicks": 5,
+      "amazonClicks": 1
     },
     {
-      "slug": "species/alocasia-holy-grail",
-      "views": 24,
-      "ecClicks": 5
+      "slug": "soil/bellabon-for-houseplants",
+      "views": 106,
+      "ecClicks": 5,
+      "amazonClicks": 0
     },
     {
-      "slug": "species/alocasia-venom",
-      "views": 202,
-      "ecClicks": 4
+      "slug": "soil/best-soil-for-pothos",
+      "views": 93,
+      "ecClicks": 5,
+      "amazonClicks": 0
     },
     {
-      "slug": "species/alocasia-melo",
-      "views": 104,
-      "ecClicks": 4
+      "slug": "soil/repotting-soil-guide",
+      "views": 72,
+      "ecClicks": 5,
+      "amazonClicks": 0
     },
     {
-      "slug": "soil/zeolite-for-houseplants",
-      "views": 74,
-      "ecClicks": 4
+      "slug": "soil/best-soil-for-philodendron",
+      "views": 59,
+      "ecClicks": 5,
+      "amazonClicks": 0
     },
     {
-      "slug": "guide/jewel-alocasia-types-comparison",
-      "views": 52,
-      "ecClicks": 4
+      "slug": "guide/jewel-orchid-propagation",
+      "views": 58,
+      "ecClicks": 5,
+      "amazonClicks": 0
     }
   ]
 }

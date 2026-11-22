@@ -13,9 +13,11 @@
  * 「読者に選ばれている記事」の並べ方（2026-11-22 オーナーと決定）
  *   閲覧数だけで並べると、1位が100均の記事のように tokyoplants の商品販売に直結しない記事になる。
  *   そこで「ショップへのクリック（ec_click）が多い記事」を主に並べ、閲覧数は補助にする。
- *     点数 = ショップへのクリック数（直近90日）＋ 閲覧数（直近28日）÷ 500
- *   （500閲覧＝1クリック相当。クリックは件数が少ないので期間を長めに取る）
- *   対象は baseProducts に tokyoplants の商品（www.tokyoplants.com）を載せている記事だけ。
+ *     点数 = ショップへのクリック数 ＋ Amazonへのクリック数 × 0.2（どちらも直近90日）＋ 閲覧数（直近28日）÷ 500
+ *   （500閲覧＝ショップ1クリック相当。クリックは件数が少ないので期間を長めに取る）
+ *   対象は tokyoplants の商品（baseProducts）か Amazon の商品（amazonProducts）を載せている記事。
+ *   2026-11-23 オーナー「土の割合が多い。Amazonの売上につながるライトの記事なども」で Amazon を加え、
+ *   上位12本は1カテゴリ5本までにした（土の記事ばかりになるのを防ぐ）。
  *   src/data/home-ranking.json      トップの人気ランキング（15位まで）
  *
  * 人気ランキングの並べ方（2026-10-28 オーナーと決定）
@@ -197,11 +199,17 @@ async function fetchEventByPage(token, eventName, nDays) {
 
 const EC_DAYS = 90;
 const PV_PER_CLICK = 500;
+/** Amazonへのクリック1回の重み。紹介料は購入額の数%で、自社ショップの販売より1件あたりの売上がずっと小さいので0.2回分に数える */
+const AMAZON_WEIGHT = 0.2;
+/** 同じカテゴリが続きすぎないよう、上位12本のうち1カテゴリは最大この本数まで（土の記事ばかりになるのを防ぐ） */
+const MAX_PER_CATEGORY_TOP = 5;
+const TOP_WINDOW = 12;
 
 /* ---------- 集計 ---------- */
 const token = await getAccessToken();
 const pv = await fetchPageViews(token);
 const ec = await fetchEventByPage(token, "ec_click", EC_DAYS);
+const amz = await fetchEventByPage(token, "amazon_click", EC_DAYS);
 
 const articles = [];
 const score = new Map(); // asin → { views, articles, title }
@@ -212,8 +220,18 @@ for (const cat of CATEGORIES) {
     const views = pv.get(`/${slug}`) ?? 0;
     const { data } = matter(readFileSync(join("content", cat, f), "utf8"));
     const sellsOwn = (data.baseProducts ?? []).some((b) => /tokyoplants\.com/.test(b.url ?? ""));
+    const sellsAmazon = (data.amazonProducts ?? []).length > 0;
     const ecClicks = ec.get(`/${slug}`) ?? 0;
-    articles.push({ slug, views, ecClicks, sellsOwn, score: ecClicks + views / PV_PER_CLICK });
+    const amazonClicks = amz.get(`/${slug}`) ?? 0;
+    articles.push({
+      slug,
+      views,
+      ecClicks,
+      amazonClicks,
+      category: cat,
+      eligible: sellsOwn || sellsAmazon,
+      score: ecClicks + amazonClicks * AMAZON_WEIGHT + views / PV_PER_CLICK,
+    });
     const seen = new Set(); // 同じ記事に同じ商品が2回載っていても1回と数える
     for (const p of data.amazonProducts ?? []) {
       if (!p.asin) continue;
@@ -228,11 +246,20 @@ for (const cat of CATEGORIES) {
   }
 }
 
-const popular = articles
-  .filter((a) => a.sellsOwn && a.views > 0)
-  .sort((a, b) => b.score - a.score || b.views - a.views)
+const sorted = articles.filter((a) => a.eligible && a.views > 0).sort((a, b) => b.score - a.score || b.views - a.views);
+// 上位 TOP_WINDOW 本は1カテゴリ MAX_PER_CATEGORY_TOP 本まで。あふれた記事はその後ろに回す
+const head = [];
+const overflow = [];
+const perCat = {};
+for (const a of sorted) {
+  if (head.length < TOP_WINDOW && (perCat[a.category] ?? 0) < MAX_PER_CATEGORY_TOP) {
+    head.push(a);
+    perCat[a.category] = (perCat[a.category] ?? 0) + 1;
+  } else overflow.push(a);
+}
+const popular = [...head, ...overflow]
   .slice(0, POPULAR_COUNT)
-  .map(({ slug, views, ecClicks }) => ({ slug, views, ecClicks }));
+  .map(({ slug, views, ecClicks, amazonClicks }) => ({ slug, views, ecClicks, amazonClicks }));
 
 const ranking = [];
 const pending = [];
@@ -249,7 +276,7 @@ for (const s of [...score.values()].sort((a, b) => b.views - a.views)) {
 /* ---------- 出力 ---------- */
 console.log(`期間 ${startDate} 〜 ${endDate}\n`);
 console.log(`読者に選ばれている記事（上位10。ショップへのクリックは直近${EC_DAYS}日）`);
-for (const a of popular.slice(0, 10)) console.log(`  クリック${String(a.ecClicks).padStart(3)}  閲覧${String(a.views).padStart(5)}  ${a.slug}`);
+for (const a of popular.slice(0, 12)) console.log(`  ショップ${String(a.ecClicks).padStart(3)}  Amazon${String(a.amazonClicks).padStart(4)}  閲覧${String(a.views).padStart(5)}  ${a.slug}`);
 console.log("\n人気ランキング");
 ranking.forEach((r, i) => console.log(`  ${String(i + 1).padStart(2)}位 ${String(r.views).padStart(5)}  ${r.asin}  ${r.title}`));
 if (pending.length) {
@@ -268,7 +295,7 @@ writeFileSync(
   "src/data/popular-articles.json",
   JSON.stringify(
     {
-      _note: "GA4から作成した『読者に選ばれている記事』。tokyoplantsの商品を載せている記事を、ショップへのクリック数（直近90日）＋閲覧数（直近28日）÷500 の点数で並べる。記事末尾とトップで使う。scripts/update-popular.mjs で作り直す。",
+      _note: "GA4から作成した『読者に選ばれている記事』。ショップへのクリック＋Amazonへのクリック×0.2（直近90日）＋閲覧数（直近28日）÷500 の点数で並べ、上位12本は1カテゴリ5本まで。記事末尾とトップで使う。scripts/update-popular.mjs で作り直す。",
       period,
       generatedAt,
       items: popular,
