@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "@/components/Link";
 import { usePathname } from "next/navigation";
+import { useAmazonSaleActive } from "@/components/AmazonSale";
 
 const DISMISS_KEY = "app-promo-banner-dismissed";
 
@@ -11,7 +12,9 @@ export default function AppPromoBanner() {
   // アプリのLP（/app）では同じApp Store導線が主役なので、このバナーは邪魔にしかならない。
   // トップ（/）もページ中ほどにアプリの紹介欄（AppShowcase）があり二重になるので出さない（2026-10-28）。
   const pathname = usePathname();
-  const hidden = pathname === "/app" || pathname === "/";
+  // Amazonのセール期間中は上部の帯をセールの告知に譲る（帯が2本並ぶと本文が押し下げられる）
+  const saleActive = useAmazonSaleActive();
+  const hidden = pathname === "/app" || pathname === "/" || saleActive;
 
   useEffect(() => {
     try {

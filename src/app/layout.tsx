@@ -5,6 +5,7 @@ import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import AppPromoBanner from "@/components/AppPromoBanner";
+import { AmazonSaleStrip } from "@/components/AmazonSale";
 import "./globals.css";
 import ClickTracker from "@/components/ClickTracker";
 
@@ -180,6 +181,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
         />
+        <AmazonSaleStrip />
         <AppPromoBanner />
         <ClickTracker />
         <Header />

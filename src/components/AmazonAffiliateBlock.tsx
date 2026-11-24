@@ -1,3 +1,4 @@
+import { AmazonSaleNotice } from "@/components/AmazonSale";
 import { AmazonProduct } from "@/lib/posts";
 import { amazonIsPrime, amazonShortNote } from "@/lib/amazonDisplay";
 import PrimeBadge from "@/components/PrimeBadge";
@@ -46,7 +47,7 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
       <div className="flex items-center justify-between gap-4">
         <h2 className="text-xl font-extrabold tracking-tight text-gray-900">Amazonで関連商品を見る</h2>
         <a
-          href="https://www.amazon.co.jp"
+          href={`https://www.amazon.co.jp/?tag=${associateTag}`}
           target="_blank"
           rel="sponsored noopener noreferrer"
           className="text-sm font-semibold text-amber-700 hover:text-amber-900 transition-colors"
@@ -58,6 +59,10 @@ export default function AmazonAffiliateBlock({ products }: { products: AmazonPro
       <p className="mt-2 text-xs leading-relaxed text-gray-500">
         ※本セクションにはAmazonアソシエイトリンクを含みます。
       </p>
+
+      <div className="mt-4">
+        <AmazonSaleNotice />
+      </div>
 
       <div className="mt-5 grid gap-4 sm:grid-cols-2">
         {products.map((product, index) => {

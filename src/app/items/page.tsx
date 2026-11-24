@@ -1,3 +1,4 @@
+import { AmazonSaleNotice } from "@/components/AmazonSale";
 import { Metadata } from "next";
 import Link from "@/components/Link";
 import {
@@ -12,7 +13,7 @@ import FaqJsonLd from "@/components/FaqJsonLd";
 
 const PAGE_TITLE = "tokyoplantsのおすすめアイテム｜記事で紹介した道具まとめ";
 const PAGE_DESCRIPTION =
-  "tokyoplants MEDIAの記事で実際に紹介・検証した観葉植物の道具を、植え替える・育てる・環境を測る・害虫対策・置き場所を整えるの用途別にまとめました。tokyoplants公式商品とAmazonアソシエイト商品を掲載しています。";
+  "tokyoplants MEDIAの記事で紹介している観葉植物の道具を、植え替える・育てる・環境を測る・害虫対策・置き場所を整えるの用途別にまとめました。tokyoplants公式商品とAmazonアソシエイト商品を掲載しています。";
 
 export const metadata: Metadata = {
   title: PAGE_TITLE,
@@ -223,8 +224,11 @@ export default function RecommendedItemsPage() {
         tokyoplantsのおすすめアイテム
       </h1>
       <p className="mt-4 max-w-2xl text-[15px] leading-relaxed text-zinc-600">
-        記事の中で実際に使って、良かったものだけを集めました。植え替える・育てる・環境を整えるなど、用途別にまとめています。気になったら紹介記事もあわせてチェックしてみてください。
+        記事の中で紹介している道具から、選定基準を満たすものを集めました。植え替える・育てる・環境を整えるなど、用途別にまとめています。気になったら紹介記事もあわせてチェックしてみてください。
       </p>
+      <div className="mt-6 max-w-2xl">
+        <AmazonSaleNotice />
+      </div>
 
       {/* tokyoplants公式アイテム */}
       <section className="mt-10">

@@ -4,6 +4,7 @@ import Link from "@/components/Link";
 import { getPostsByCategory, getAllTags, getPostsByTag } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import { getPopularPosts } from "@/lib/popular";
+import { AmazonSaleNotice } from "@/components/AmazonSale";
 import { OWN_COLLECTION, OwnProduct, RANKING_LIMIT, READER_RANKING } from "@/lib/homeStorefront";
 import ArticleCard from "@/components/ArticleCard";
 import CategoryTabs from "@/components/CategoryTabs";
@@ -87,6 +88,9 @@ export default function StoreHome() {
         <div className="store-gutter">
           <div className="mx-auto max-w-[1180px]">
             <SectionTitle id="ranking-heading" strong="人気ランキング" rest="よく読まれている記事の道具。" />
+            <div className="mt-5 max-w-[640px]">
+              <AmazonSaleNotice />
+            </div>
           </div>
         </div>
         <div className="mt-8 md:mt-10">

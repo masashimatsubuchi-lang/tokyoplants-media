@@ -4,6 +4,7 @@ import { OWN_PRODUCTS, findOwnInBaseProducts, ownProductUrl } from "@/lib/ownPro
 import { amazonIsPrime, amazonPrice, amazonShortNote } from "@/lib/amazonDisplay";
 import PrimeBadge from "@/components/PrimeBadge";
 import ShopCompare from "@/components/ShopCompare";
+import { AmazonSaleNotice } from "@/components/AmazonSale";
 
 /**
  * 記事本文に埋め込む視覚ブロック群（2026-09-22導入）。
@@ -281,6 +282,7 @@ function AmazonCards({
         <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-amber-700">Amazon</span>
         <span className="text-[15px] font-bold text-zinc-800">{block.title || "Amazonで買えるサイズ"}</span>
       </div>
+      <AmazonSaleNotice />
       <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
         {products.map((p) => (
           <a
