@@ -86,7 +86,7 @@ amazonProducts:
 
 ### STEP2: 置き場所を変えるか、育成ライトを検討する
 
-日照条件の良い窓際に移動できるなら、まずは置き場所の変更から試します。窓際に十分なスペースがない、または冬場に日照時間が短くなる地域の場合は、育成ライトの導入が現実的な解決策です。育成ライトの必要性・選び方・植物タイプ別の設置距離については[観葉植物にライトは必要？](/research/houseplant-grow-light-guide)、実機のレビューは[植物育成ライトおすすめ5選](/review/plant-light-review)を参考にしてください。
+日照条件の良い窓際に移動できるなら、まずは置き場所の変更から試します。窓際に十分なスペースがない、または冬場に日照時間が短くなる地域の場合は、育成ライトの導入が現実的な解決策です。育成ライトの必要性・選び方・植物タイプ別の設置距離については[観葉植物にライトは必要？](/research/houseplant-grow-light-guide)、実機のレビューは[植物育成ライト おすすめ12選](/review/plant-light-review)を参考にしてください。
 
 ### STEP3: 徒長した茎を切り戻す
 
@@ -150,4 +150,4 @@ amazonProducts:
 
 → 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
-→ 関連記事: [窓の方角で光量はどれだけ違う？](/research/light-intensity-by-window-direction) / [観葉植物にライトは必要？](/research/houseplant-grow-light-guide) / [植物育成ライトおすすめ5選](/review/plant-light-review)
+→ 関連記事: [窓の方角で光量はどれだけ違う？](/research/light-intensity-by-window-direction) / [観葉植物にライトは必要？](/research/houseplant-grow-light-guide) / [植物育成ライト おすすめ12選](/review/plant-light-review)

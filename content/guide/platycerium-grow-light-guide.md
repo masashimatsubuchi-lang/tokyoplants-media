@@ -154,7 +154,7 @@ PPFDの数値だけだと難しく感じるかもしれないけど、目安は�
 
 ビカクシダの棚の目安も含めた手順は[植物育成ライトのパネル型おすすめ](/review/panel-grow-light-comparison)、棚・スタンド・ダクトレールへの取り付け方は[植物育成ライトの設置例](/guide/grow-light-installation-ideas)にまとめています。
 
-具体的なスペック比較・価格は **[植物育成ライト おすすめ5選レビュー](/review/plant-light-review)**、AMATERASのPPFD実測値の読み解き方や距離別の使用感は **[NEO AMATERAS LEDレビュー](/review/neo-amateras-review)** を参照してください。
+具体的なスペック比較・価格は **[植物育成ライト おすすめ12選](/review/plant-light-review)**、AMATERASのPPFD実測値の読み解き方や距離別の使用感は **[NEO AMATERAS LEDレビュー](/review/neo-amateras-review)** を参照してください。
 
 光量以外の置き場所（屋外・屋内の選び方、直射日光の当て方、季節ごとの管理）は **[ビカクシダの置き場所ガイド](/guide/platycerium-placement-guide)** で解説しています。
 

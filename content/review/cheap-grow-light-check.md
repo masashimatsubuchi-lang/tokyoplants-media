@@ -167,7 +167,7 @@ amazonProducts:
 
 「無印良品のライトを探していた」理由が、部屋になじむシンプルな見た目なら、育成ライトの側にも白い本体で白色光（4000〜5000K前後）、演色性Ra90以上の製品があります。
 
-光の色の選び方は[育成ライトは白色と暖色どっち？](/guide/grow-light-color-white-warm)、製品の比較は[植物育成ライト おすすめ5選](/review/plant-light-review)を参考にしてください。
+光の色の選び方は[育成ライトは白色と暖色どっち？](/guide/grow-light-color-white-warm)、製品の比較は[植物育成ライト おすすめ12選](/review/plant-light-review)を参考にしてください。
 
 つまり、「100均の植物育成ライト」「ニトリの育成ライト」を探している方が実際に手にできるのは、ほとんどの場合、育成用に設計された製品ではなく**一般照明**です。
 
@@ -215,7 +215,7 @@ amazonProducts:
 
 だからこそ、判断材料は価格ではなく**「測定距離つきのPPFDが書いてあるかどうか」**になります。価格そのものより、この情報の有無が使い勝手を大きく変えます。
 
-ここから上の価格帯で、実際にどの製品がどんなスペックを公表しているかは[クリップ式LED栽培ライト比較](/review/clip-type-grow-light-comparison)、[植物育成ライト バータイプ おすすめ5選](/review/bar-type-grow-light-comparison)、[植物育成ライト おすすめ5選](/review/plant-light-review)で機種ごとに比較しています。
+ここから上の価格帯で、実際にどの製品がどんなスペックを公表しているかは[クリップ式LED栽培ライト比較](/review/clip-type-grow-light-comparison)、[植物育成ライト バータイプ おすすめ5選](/review/bar-type-grow-light-comparison)、[植物育成ライト おすすめ12選](/review/plant-light-review)で機種ごとに比較しています。
 
 鉢が増えて棚1段をまとめて照らしたくなったら、棚の広さから合計ワット数と枚数を決める[植物育成ライトのパネル型おすすめ](/review/panel-grow-light-comparison)も参考になります。
 

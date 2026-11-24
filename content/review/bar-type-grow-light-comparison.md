@@ -57,7 +57,7 @@ amazonProducts:
 
 | 記事 | 内容 |
 |---|---|
-| [総合](/review/plant-light-review) | 観葉植物・ビカクシダ向けの選び方と、タイプ横断のおすすめ5選 |
+| [総合](/review/plant-light-review) | 観葉植物・ビカクシダ向けの選び方と、タイプ横断のおすすめ12選 |
 | **バータイプ特化（この記事）** | 棚・複数株を照らすバー型だけを5機種比較 |
 | [BRIM専門](/review/brim-grow-light-comparison) | 国内ブランドBRIMの選び分け（主力3機種＋ラインナップ全体） |
 
@@ -302,4 +302,4 @@ T5型の連結式バーライトで知られるBarrinaは、海外のレビュ�
 
 スポットタイプとバータイプを組み合わせて使うのもおすすめです。バーで棚全体を底上げし、特に光量が必要な株にだけスポットを追加する方法が、コストと効果のバランスに最も優れています。
 
-タイプ横断の比較は[植物育成ライトおすすめ5選](/review/plant-light-review)、国内ブランドBRIMの選び分けは[BRIM育成ライト比較](/review/brim-grow-light-comparison)をご覧ください。
+タイプ横断の比較は[植物育成ライト おすすめ12選](/review/plant-light-review)、国内ブランドBRIMの選び分けは[BRIM育成ライト比較](/review/brim-grow-light-comparison)をご覧ください。

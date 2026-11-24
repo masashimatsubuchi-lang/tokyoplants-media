@@ -148,4 +148,4 @@ amazonProducts:
 
 → 関連商品リンク: [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
-→ 関連記事: [植物育成ライトおすすめ5選](/review/plant-light-review) / [BRIM(ブリム)植物育成ライト3機種を比較](/review/brim-grow-light-comparison) / [バータイプ育成ライトおすすめ5選](/review/bar-type-grow-light-comparison)
+→ 関連記事: [植物育成ライト おすすめ12選](/review/plant-light-review) / [BRIM(ブリム)植物育成ライト3機種を比較](/review/brim-grow-light-comparison) / [バータイプ育成ライトおすすめ5選](/review/bar-type-grow-light-comparison)
