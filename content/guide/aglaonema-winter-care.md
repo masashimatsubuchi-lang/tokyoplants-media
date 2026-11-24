@@ -150,6 +150,8 @@ amazonProducts:
 
 冬の乾燥した室内ではハダニが増えます。湿度は50%を下回らないよう加湿器で補ってください。ハダニの見分け方と対処は[アグラオネマの害虫・病気](/guide/aglaonema-pests-diseases)にまとめています。
 
+同じサトイモ科で葉の模様が似ているディフェンバキアも、寒さに弱い植物です。冬の置き場所は[ディフェンバキアの冬越し](/guide/dieffenbachia-winter-care)で解説しています。
+
 <!-- amazon-cards title="夜15℃を守るための道具" -->
 <!-- /amazon-cards -->
 

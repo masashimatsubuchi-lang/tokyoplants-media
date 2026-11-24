@@ -92,6 +92,8 @@ amazonProducts:
 
 冬の水やり間隔の空け方は[観葉植物の冬の水やり](/guide/winter-watering-houseplants)で解説しています。
 
+シェフレラに絞った冬の置き場所と水やりは[シェフレラ（カポック）の冬越し](/guide/schefflera-winter-care)にまとめています。
+
 <!-- character-note character="kuro" type="point" -->
 「丈夫な植物」というイメージが先行しがちだけど、シェフレラの丈夫さは主に乾燥や暗さへの耐性の話であって、過湿への耐性が高いわけではないんだ。丈夫さの中身を正しく理解しておくと、水やりの判断がぶれにくくなるよ。
 <!-- /character-note -->

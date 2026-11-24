@@ -53,6 +53,8 @@ amazonProducts:
 
 人の肌感覚は季節や体調によって変わりやすく、実際の湿度とズレが生じがちです。特に[エアコンの効いた部屋](/guide/winter-heating-appliances-and-houseplants)は、体感以上に湿度が下がっていることが多く、葉先の枯れ込みの原因になります。
 
+乾燥の影響が特に出やすいのは、葉の薄い植物です。[アジアンタムの冬越し](/guide/adiantum-winter-care)や[マランタの冬越し](/guide/maranta-winter-care)では、冬の乾燥から葉を守る置き方を解説しています。
+
 <!-- character-note character="shadee" type="point" -->
 「乾燥してる気がする」と思った時点で、実はもう結構前から湿度は下がっていることが多いよ。感覚に頼らず数値で確認するクセをつけると、対応がワンテンポ早くなる。
 <!-- /character-note -->
