@@ -959,7 +959,6 @@
       '.tp-sen-points figcaption{padding:12px 14px 14px}' +
       '.tp-sen-points b{display:block;font:700 14px/1.45 var(--tp-font);color:var(--tp-green,#22614c);margin-bottom:6px}' +
       '.tp-sen-points span{display:block;font:400 12.5px/1.65 var(--tp-font);color:var(--tp-ink,#1d1d1f)}' +
-      '.tp-sen-photo{display:block;width:100%;aspect-ratio:1;object-fit:cover;border-radius:16px;margin:0 0 10px}' +
       '.tp-sen-size{background:#fff;border-radius:16px;padding:16px 12px 8px;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
       '.tp-sen-svg{display:block;width:100%;max-width:420px;height:auto;margin:0 auto;font-family:var(--tp-font)}' +
       '.tp-sen-cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}' +
@@ -997,7 +996,7 @@
         '<figure><img src="' + SEN_IMG + 'texture.jpg" alt="グレーの受け皿の表面" loading="lazy"><figcaption><b>陶器のような、マットな質感</b><span>植物由来の繊維を配合したセルロースファイバー複合樹脂。軽く、割れにくい素材です（メーカー説明）。</span></figcaption></figure>' +
         '<figure><img src="' + SEN_IMG + 'slit.jpg" alt="光が抜ける Sen ローリーポットのスリット" loading="lazy"><figcaption><b>光と風が通るスリット</b><span>縦のスリットが空気と水の通り道に。鉢底ネットを敷かずに使えます。傾けても起き上がる、まるいかたちです。</span></figcaption></figure>' +
       '</div></section>' +
-      '<section><h2>大きさを比べる</h2><img class="tp-sen-photo" src="' + SEN_IMG + 'sizes.jpg" alt="大きさの違う2つの Sen ローリーポット（ブラック）" loading="lazy"><div class="tp-sen-size">' + senDiagram(id) + '</div>' +
+      '<section><h2>大きさを比べる</h2><div class="tp-sen-size">' + senDiagram(id) + '</div>' +
         '<p class="tp-ins-note">カタログの寸法から、縮尺をそろえて描いた図です。' + m.size + 'の直径' + m.d + 'cmは、' + m.ref + 'の大きさです。</p></section>' +
       '<section><h2>サイズとカラー</h2><div class="tp-sen-cards">' +
         card('166998845', 'ブラック', 'pot-s-bk.jpg') + card('166998845', 'グレー', 'pot-s-gy.jpg') +
