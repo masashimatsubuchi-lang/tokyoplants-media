@@ -176,6 +176,30 @@ baseProducts:
 ```
 説明文は図の下で2行以内に収まる短さにする（3列だとスマホで1列約100px）。
 
+2026-11-26に次の6種を追加。列の意味は `src/components/Illustration.tsx` 冒頭のコメントが正本。
+
+```
+<!-- illust name="range" title="耐寒温度の目安" unit="℃" min="-5" max="20" color="blue" target="10-25" target-label="室内の目安" -->
+- パキラ | 5-10 | 補足（任意）
+- アロカシア | 15+          ← 「以上」は + を付ける。1点だけなら「5」で丸印
+<!-- /illust -->
+
+<!-- illust name="flow" title="冬に根腐れが起きる流れ" tone="warning" -->   ← tone は warning（最後が悪い結果）/ good（最後が良い結果）
+- 気温が下がる | 根の吸水が落ちる
+- 根腐れ | 根が黒く柔らかくなる
+<!-- /illust -->
+
+<!-- illust name="pot-section" title="鉢の中の層" hole="false" -->   ← 列は上の層から：名前 | 説明 | soil/stone/hydro/bark/mulch/water | 厚さの比（waterは鉢の高さに対する水位 0〜1）
+- 培養土 | 根が張る層 | soil | 3
+- 鉢底石 | 水をためる | stone | 1
+- 水位 | 鉢の1/5まで | water | 0.2
+<!-- /illust -->
+
+<!-- illust name="roots" title="根の状態" -->   ← healthy / rotten / bound（根詰まり）/ dry
+<!-- illust name="room-zones" title="冬の置き場所" -->   ← 名前 | 説明 | window/good/heater/floor/high。図に番号が付く
+<!-- illust name="leaf-check" title="葉の症状と原因" -->   ← healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black
+```
+
 使い分けの目安：1記事あたり key-facts 1 ＋ 他を合計3〜6個。同じブロックを連続で並べない。CharacterNote（2〜4箇所）とは併用する。従来のMarkdown表も引き続き使ってよいが、「数値を見せる」場面は stats、「順番がある」場面は steps、「複数を並べる」場面は cards を優先する。
 
 ## 電気代の計算に使う電力単価（2026-09-26確定）
