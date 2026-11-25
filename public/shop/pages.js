@@ -912,8 +912,8 @@
   // 八幡化成 Sen ローリーポット 丸（2026-11-25）: キャッチ・写真つきの3つのポイント・サイズの比較図・サイズとカラーの一覧を出す
   // 数値はカタログ（Sen_catalog_2026 p.5・p.8）。写真はメーカー提供（media/public/shop/sen/）。価格は BASE と手で合わせる（変えたらここも直す）
   var SEN = {
-    '166998845': { size: 'S', d: 14.8, h: 10.4, vol: '1.2L', pd: 13.8, ph: 0.9, price: '¥2,530', ref: '5号鉢（直径15cm）とほぼ同じ' },
-    '166998875': { size: 'M', d: 19.7, h: 13.9, vol: '2.9L', pd: 18.4, ph: 1.1, price: '¥3,850', ref: '6号鉢（直径18cm）と7号鉢（直径21cm）の間' }
+    '166998845': { size: 'S', d: 14.8, h: 10.4, vol: '1.2L', pd: 13.8, ph: 0.9, price: '¥2,500', ref: '5号鉢（直径15cm）とほぼ同じ' },
+    '166998875': { size: 'M', d: 19.7, h: 13.9, vol: '2.9L', pd: 18.4, ph: 1.1, price: '¥3,800', ref: '6号鉢（直径18cm）と7号鉢（直径21cm）の間' }
   };
   var SEN_IMG = 'https://media.tokyoplants.com/shop/sen/';
   function senDiagram(id) {
@@ -959,6 +959,7 @@
       '.tp-sen-points figcaption{padding:12px 14px 14px}' +
       '.tp-sen-points b{display:block;font:700 14px/1.45 var(--tp-font);color:var(--tp-green,#22614c);margin-bottom:6px}' +
       '.tp-sen-points span{display:block;font:400 12.5px/1.65 var(--tp-font);color:var(--tp-ink,#1d1d1f)}' +
+      '.tp-sen-photo{display:block;width:100%;aspect-ratio:1;object-fit:cover;border-radius:16px;margin:0 0 10px}' +
       '.tp-sen-size{background:#fff;border-radius:16px;padding:16px 12px 8px;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
       '.tp-sen-svg{display:block;width:100%;max-width:420px;height:auto;margin:0 auto;font-family:var(--tp-font)}' +
       '.tp-sen-cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}' +
@@ -996,7 +997,7 @@
         '<figure><img src="' + SEN_IMG + 'texture.jpg" alt="グレーの受け皿の表面" loading="lazy"><figcaption><b>陶器のような、マットな質感</b><span>植物由来の繊維を配合したセルロースファイバー複合樹脂。軽く、割れにくい素材です（メーカー説明）。</span></figcaption></figure>' +
         '<figure><img src="' + SEN_IMG + 'slit.jpg" alt="光が抜ける Sen ローリーポットのスリット" loading="lazy"><figcaption><b>光と風が通るスリット</b><span>縦のスリットが空気と水の通り道に。鉢底ネットを敷かずに使えます。傾けても起き上がる、まるいかたちです。</span></figcaption></figure>' +
       '</div></section>' +
-      '<section><h2>大きさを比べる</h2><div class="tp-sen-size">' + senDiagram(id) + '</div>' +
+      '<section><h2>大きさを比べる</h2><img class="tp-sen-photo" src="' + SEN_IMG + 'sizes.jpg" alt="大きさの違う2つの Sen ローリーポット（ブラック）" loading="lazy"><div class="tp-sen-size">' + senDiagram(id) + '</div>' +
         '<p class="tp-ins-note">カタログの寸法から、縮尺をそろえて描いた図です。' + m.size + 'の直径' + m.d + 'cmは、' + m.ref + 'の大きさです。</p></section>' +
       '<section><h2>サイズとカラー</h2><div class="tp-sen-cards">' +
         card('166998845', 'ブラック', 'pot-s-bk.jpg') + card('166998845', 'グレー', 'pot-s-gy.jpg') +
