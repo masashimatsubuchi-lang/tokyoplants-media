@@ -909,6 +909,123 @@
     })(1);
   }
   var YUPACKET = { '135803882': 1, '164675173': 1, '164953353': 1, '164551101': 1 }; // タオル・タオル3枚セット・ソックス・ギフトバッグ
+  // 八幡化成 Sen ローリーポット 丸（2026-11-25）: キャッチ・写真つきの3つのポイント・サイズの比較図・サイズとカラーの一覧を出す
+  // 数値はカタログ（Sen_catalog_2026 p.5・p.8）。写真はメーカー提供（media/public/shop/sen/）。価格は BASE と手で合わせる（変えたらここも直す）
+  var SEN = {
+    '166998845': { size: 'S', d: 14.8, h: 10.4, vol: '1.2L', pd: 13.8, ph: 0.9, price: '¥2,530', ref: '5号鉢（直径15cm）とほぼ同じ' },
+    '166998875': { size: 'M', d: 19.7, h: 13.9, vol: '2.9L', pd: 18.4, ph: 1.1, price: '¥3,850', ref: '6号鉢（直径18cm）と7号鉢（直径21cm）の間' }
+  };
+  var SEN_IMG = 'https://media.tokyoplants.com/shop/sen/';
+  function senDiagram(id) {
+    var k = 8, yb = 168, order = ['166998845', '166998875'], cxs = [96, 252], svg = '';
+    order.forEach(function (key, n) {
+      var m = SEN[key], here = key === id, cx = cxs[n];
+      var w = m.d * k, h = m.h * k, pw = m.pd * k, ph = Math.max(m.ph * k, 6), top = yb - ph - h;
+      var fill = here ? '#2f3833' : '#c9cdca', ink = here ? 'var(--tp-green,#22614c)' : '#8a8f8c';
+      var P = function (fx, fy) { return (cx + fx * w).toFixed(1) + ',' + (top + fy * h).toFixed(1); };
+      svg +=
+        '<rect x="' + (cx - pw / 2).toFixed(1) + '" y="' + (yb - ph) + '" width="' + pw.toFixed(1) + '" height="' + ph + '" rx="3" fill="' + fill + '" opacity=".75"/>' +
+        '<path d="M' + P(-0.43, 0) + ' C' + P(-0.5, 0.12) + ' ' + P(-0.53, 0.55) + ' ' + P(-0.45, 0.76) + ' C' + P(-0.38, 0.95) + ' ' + P(-0.31, 1) + ' ' + P(-0.24, 1) +
+        ' L' + P(0.24, 1) + ' C' + P(0.31, 1) + ' ' + P(0.38, 0.95) + ' ' + P(0.45, 0.76) + ' C' + P(0.53, 0.55) + ' ' + P(0.5, 0.12) + ' ' + P(0.43, 0) + ' Z" fill="' + fill + '"/>' +
+        '<path d="M' + P(-0.16, 0.02) + ' Q' + P(-0.19, 0.55) + ' ' + P(-0.12, 0.99) + ' M' + P(0.16, 0.02) + ' Q' + P(0.19, 0.55) + ' ' + P(0.12, 0.99) + '" stroke="#fff" stroke-opacity=".55" stroke-width="1" fill="none"/>' +
+        '<text x="' + cx + '" y="' + (top - 8) + '" text-anchor="middle" font-size="11" fill="' + ink + '">直径' + m.d + 'cm</text>' +
+        '<text x="' + cx + '" y="' + (yb + 22) + '" text-anchor="middle" font-size="15" font-weight="700" fill="' + ink + '">' + m.size + (here ? '（このページ）' : '') + '</text>' +
+        '<text x="' + cx + '" y="' + (yb + 40) + '" text-anchor="middle" font-size="11.5" fill="' + ink + '">高さ' + m.h + 'cm・容量' + m.vol + '</text>' +
+        '<text x="' + cx + '" y="' + (yb + 56) + '" text-anchor="middle" font-size="10.5" fill="#8a8f8c">受け皿 直径' + m.pd + 'cm</text>';
+    });
+    return '<svg class="tp-sen-svg" viewBox="0 0 350 232" role="img" aria-label="S と M の大きさの比較図"><line x1="10" y1="' + yb + '" x2="340" y2="' + yb + '" stroke="#e3e1dc"/>' + svg + '</svg>';
+  }
+  function senSelectColor(color) {
+    var form = document.querySelector('.item-detail-inner form');
+    if (!form) return;
+    var btn = Array.prototype.find.call(form.querySelectorAll('button, label, a'), function (b) { return b.textContent.trim() === color; });
+    if (btn) btn.click();
+    else Array.prototype.forEach.call(form.querySelectorAll('select'), function (s) {
+      var o = Array.prototype.find.call(s.options, function (op) { return op.textContent.trim() === color; });
+      if (o) { s.value = o.value; s.dispatchEvent(new Event('change', { bubbles: true })); }
+    });
+    form.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+  function senPage() {
+    var id = (path.match(/^\/items\/(\d+)/) || [])[1];
+    var detail = document.querySelector('.item-detail-inner');
+    if (!SEN[id] || !detail || detail.dataset.tpSen) return;
+    detail.dataset.tpSen = '1';
+    var css = document.createElement('style');
+    css.textContent =
+      '.tp-sen-points{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}' +
+      '.tp-sen-points figure{margin:0;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
+      '.tp-sen-points img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover}' +
+      '.tp-sen-points figcaption{padding:12px 14px 14px}' +
+      '.tp-sen-points b{display:block;font:700 14px/1.45 var(--tp-font);color:var(--tp-green,#22614c);margin-bottom:6px}' +
+      '.tp-sen-points span{display:block;font:400 12.5px/1.65 var(--tp-font);color:var(--tp-ink,#1d1d1f)}' +
+      '.tp-sen-size{background:#fff;border-radius:16px;padding:16px 12px 8px;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
+      '.tp-sen-svg{display:block;width:100%;max-width:420px;height:auto;margin:0 auto;font-family:var(--tp-font)}' +
+      '.tp-sen-cards{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}' +
+      '.tp-sen-card{display:block;border:1px solid #e3e1dc;border-radius:12px;overflow:hidden;color:inherit;text-decoration:none;background:#fff;cursor:pointer}' +
+      '.tp-sen-card.is-here{border:2px solid var(--tp-green,#22614c)}' +
+      '.tp-sen-card img{display:block;width:100%;aspect-ratio:1;object-fit:cover}' +
+      '.tp-sen-card span{display:block;padding:0 10px}' +
+      '.tp-sen-card .t{padding-top:8px;font-size:10px;letter-spacing:.06em;color:var(--tp-green,#22614c)}' +
+      '.tp-sen-card .n{font-weight:600;font-size:14px;line-height:1.4}' +
+      '.tp-sen-card .s{font-size:11px;color:#6b6b6b;line-height:1.5}' +
+      '.tp-sen-card .p{padding-bottom:10px;font-size:13px;margin-top:2px}' +
+      '@media (max-width:767px){.tp-sen-points{grid-template-columns:1fr}.tp-sen-cards{grid-template-columns:repeat(2,1fr)}}';
+    document.head.appendChild(css);
+
+    // 見出しの下に、商品名の2つ目の区切り（キャッチ）を小さく添える（ソックスと同じ見せ方）
+    var h1 = detail.querySelector('h1');
+    var sub = (document.title.split(/[｜|]/)[1] || '').trim();
+    if (h1 && sub && !h1.querySelector('.tp-tw-sub')) h1.innerHTML = esc(h1.textContent.trim()) + '<span class="tp-tw-sub">' + esc(sub) + '</span>';
+
+    var card = function (key, color, file) {
+      var m = SEN[key], here = key === id;
+      return '<a class="tp-sen-card' + (here ? ' is-here' : '') + '" href="' + (here ? '#' : base + '/items/' + key) + '" data-color="' + color + '">' +
+        '<img src="' + SEN_IMG + file + '" alt="Sen ローリーポット 丸 ' + m.size + ' ' + color + '" loading="lazy">' +
+        '<span class="t">' + (here ? 'このページ' : 'ほかのサイズ') + '</span>' +
+        '<span class="n">' + m.size + '・' + color + '</span>' +
+        '<span class="s">直径' + m.d + 'cm・' + m.vol + '</span>' +
+        '<span class="p">' + m.price + '</span></a>';
+    };
+    var m = SEN[id];
+    var ins = document.createElement('div');
+    ins.className = 'tp-ins';
+    ins.innerHTML =
+      '<section><h2>3つのポイント</h2><div class="tp-sen-points">' +
+        '<figure><img src="' + SEN_IMG + 'set.jpg" alt="受け皿に載せた Sen ローリーポット（ブラック）" loading="lazy"><figcaption><b>鉢と受け皿が、同じ色</b><span>同じ素材・同じ色の専用プレート（受け皿）がセット。受け皿だけが浮いて見えることがありません。</span></figcaption></figure>' +
+        '<figure><img src="' + SEN_IMG + 'texture.jpg" alt="グレーの受け皿の表面" loading="lazy"><figcaption><b>陶器のような、マットな質感</b><span>植物由来の繊維を配合したセルロースファイバー複合樹脂。軽く、割れにくい素材です（メーカー説明）。</span></figcaption></figure>' +
+        '<figure><img src="' + SEN_IMG + 'slit.jpg" alt="光が抜ける Sen ローリーポットのスリット" loading="lazy"><figcaption><b>光と風が通るスリット</b><span>縦のスリットが空気と水の通り道に。鉢底ネットを敷かずに使えます。傾けても起き上がる、まるいかたちです。</span></figcaption></figure>' +
+      '</div></section>' +
+      '<section><h2>大きさを比べる</h2><div class="tp-sen-size">' + senDiagram(id) + '</div>' +
+        '<p class="tp-ins-note">カタログの寸法から、縮尺をそろえて描いた図です。' + m.size + 'の直径' + m.d + 'cmは、' + m.ref + 'の大きさです。</p></section>' +
+      '<section><h2>サイズとカラー</h2><div class="tp-sen-cards">' +
+        card('166998845', 'ブラック', 'pot-s-bk.jpg') + card('166998845', 'グレー', 'pot-s-gy.jpg') +
+        card('166998875', 'ブラック', 'pot-m-bk.jpg') + card('166998875', 'グレー', 'pot-m-gy.jpg') +
+      '</div><p class="tp-ins-note">カラーはこのページの「種類」から、' + (m.size === 'S' ? 'M' : 'S') + 'サイズはカードからお選びいただけます。どちらも同じ色の受け皿付きです。</p></section>';
+    ins.querySelectorAll('.tp-sen-card.is-here').forEach(function (a) {
+      a.addEventListener('click', function (e) { e.preventDefault(); senSelectColor(a.dataset.color); });
+    });
+    var acc = detail.querySelector('.tp-acc');
+    var traits = detail.querySelector('.tp-pdp-traits');
+    var intro = traits && traits.firstElementChild;
+    if (intro && intro.tagName === 'DIV') traits.insertBefore(ins, intro.nextSibling);
+    else if (acc) acc.parentNode.insertBefore(ins, acc);
+    else if (traits) traits.parentNode.insertBefore(ins, traits.nextSibling);
+    else return;
+    // 図と一覧に重なる説明文の節（サイズとカラー）は折りたたみの中へ移す
+    if (traits && acc) {
+      traits.querySelectorAll('h2').forEach(function (h) {
+        if (!/サイズとカラー/.test(h.textContent) || ins.contains(h)) return;
+        var body = h.nextElementSibling;
+        var d = document.createElement('details');
+        d.innerHTML = '<summary>' + esc(h.textContent) + '（数値）</summary>';
+        if (body && body.tagName === 'DIV') d.appendChild(body);
+        acc.insertBefore(d, acc.firstChild);
+        h.remove();
+      });
+    }
+  }
+
   // 他社の商品（仕入れ品）は、テーマが定番品に付ける「TOKYOPLANTS ORIGINAL」を書き換える（2026-11-25 Sen ローリーポット）
   var BRAND_LABEL = [[/Sen ローリーポット|Roly Pot/, 'SELECTED ITEM  /  HACHIMAN']];
   function itemBrandLabel(detail) {
@@ -989,7 +1106,7 @@
     })(0);
     // ソックス・SISHICRAFT: テーマが説明文を節に分け終えてから（.tp-acc ができてから）動かす
     if (/^\/items\/\d+/.test(path)) (function waitSocks(t) {
-      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) { socksPage(); sishiPage(); itemSeo(); }
+      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) { socksPage(); sishiPage(); senPage(); itemSeo(); }
       else setTimeout(function () { waitSocks(t + 1); }, 100);
     })(0);
   }
