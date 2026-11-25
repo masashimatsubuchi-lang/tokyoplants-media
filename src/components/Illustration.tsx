@@ -16,13 +16,14 @@
  *                  attrs: unit="℃" min max step target="200-350" target-label color="green|blue|amber|red"
  *   flow           原因→結果・手順の流れ。列: 見出し | 説明。attrs: tone="warning|good"
  *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
- *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry
+ *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry/cut（腐った先と切る位置）
+ *                  茎の断面 stem-ok / stem-bad、球茎・塊茎 tuber-firm / tuber-rot
  *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/back（部屋の奥）/heater/floor/high
  *                  attrs: mode="light" で窓際を日差し、heater をエアコンの風として描く（光・直射の話のとき）
- *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black
+ *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black/mold（白いカビ）/mites（ハダニのかすり状）
  *                  ビカクシダの胞子葉の向き: antler-down（垂れる＝光は足りている）/ antler-up（立ち上がる＝光が足りない）
  *   bars           0から伸ばす横棒（電気代・価格など）。列: ラベル | 数値 | 補足。attrs: unit="円" prefix="約" max color
- *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵になる
+ *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、roots="small" で根が中心だけ（大きすぎる鉢）
  */
 import type { ParsedBlock } from "@/lib/articleBlocks";
 
@@ -622,6 +623,8 @@ function PotSection({ block }: { block: IllustBlock }) {
   const water = block.rows.find((r) => r[2] === "water");
   const hole = block.attrs.hole !== "false";
   const caudex = block.attrs.plant === "caudex";
+  const saucer = block.attrs.saucer;
+  const smallRoots = block.attrs.roots === "small"; // "dry" = 受け皿だけ / "water" = 受け皿に水が溜まっている
   const top = 70;
   const bottom = 206;
   const total = layers.reduce((n, r) => n + (Number(r[3]) || 1), 0) || 1;
@@ -670,8 +673,10 @@ function PotSection({ block }: { block: IllustBlock }) {
                 <LayerTexture type={b.type} y={b.y} h={b.h} seed={b.i * 17 + 3} />
               </g>
             ))}
-            {/* 根 */}
-            <g stroke="#f3ead8" strokeWidth={2} fill="none" strokeLinecap="round" opacity={0.9}>
+            {/* 根（roots="small" は根が中心だけ。外側の土が湿ったまま残る） */}
+            {smallRoots && <rect x={0} y={74} width={200} height={140} fill={C.water} opacity={0.28} />}
+            {smallRoots && <rect x={78} y={70} width={44} height={70} rx={14} fill={LAYER_FILL.soil} />}
+            <g stroke="#f3ead8" strokeWidth={2} fill="none" strokeLinecap="round" opacity={0.9} transform={smallRoots ? "translate(100 72) scale(0.35 0.6) translate(-100 -72)" : undefined}>
               <path d="M100 72 C94 100 80 120 70 150" />
               <path d="M100 72 C104 104 118 124 130 152" />
               <path d="M100 72 C100 110 98 130 100 166" />
@@ -690,12 +695,19 @@ function PotSection({ block }: { block: IllustBlock }) {
               <line x1={58} y1={70} x2={142} y2={70} stroke="#fff" strokeWidth={1.2} strokeDasharray="3 3" opacity={0.8} />
             </g>
           )}
-          {hole ? (
+          {hole && !saucer ? (
             <>
               <rect x={90} y={206} width={20} height={6} fill="#f3f0ea" />
               <path d="M100 214 L100 220" stroke={C.blue} strokeWidth={2} strokeLinecap="round" />
             </>
           ) : null}
+          {saucer && (
+            <>
+              <path d="M22 212 L178 212 L172 221 L28 221 Z" fill="#cdbfae" />
+              {saucer === "water" && <rect x={30} y={212} width={140} height={6} fill={C.water} />}
+              <rect x={90} y={206} width={20} height={6} fill={saucer === "water" ? C.water : "#f3f0ea"} />
+            </>
+          )}
         </svg>
         <ul className="space-y-2.5">
           {block.rows
@@ -711,6 +723,8 @@ function PotSection({ block }: { block: IllustBlock }) {
             ))}
           {!hole && <li className="text-[11.5px] text-zinc-500">※鉢底穴のない鉢</li>}
           {caudex && <li className="text-[11.5px] text-zinc-500">※点線が土の表面</li>}
+          {saucer === "water" && <li className="text-[11.5px] text-zinc-500">※受け皿に水が溜まったまま</li>}
+          {smallRoots && <li className="text-[11.5px] text-zinc-500">※青い部分は根の届かない、湿ったままの土</li>}
         </ul>
       </div>
     </Frame>
@@ -721,6 +735,53 @@ function PotSection({ block }: { block: IllustBlock }) {
  * 根の状態の見分け。列: ラベル | 説明 | healthy/rotten/bound/dry
  */
 function RootsIcon({ type, seed }: { type: string; seed: number }) {
+  if (type === "stem-ok" || type === "stem-bad" || type === "tuber-firm" || type === "tuber-rot") {
+    const stem = type.startsWith("stem");
+    const bad = type === "stem-bad" || type === "tuber-rot";
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[140px] rounded-xl" aria-hidden="true">
+        <rect width={120} height={120} rx={12} fill="#f7f3ec" />
+        {stem ? (
+          <>
+            <circle cx={60} cy={60} r={40} fill="#5f8f4e" />
+            <circle cx={60} cy={60} r={33} fill={bad ? "#5b4030" : "#dfe9c8"} />
+            <circle cx={60} cy={60} r={14} fill={bad ? "#2e2119" : "#f2f4e4"} />
+          </>
+        ) : (
+          <>
+            <ellipse cx={60} cy={66} rx={38} ry={32} fill={bad ? "#6b5141" : "#9b7a58"} />
+            {bad ? (
+              <>
+                <ellipse cx={48} cy={74} rx={14} ry={10} fill="#3d2c22" />
+                <g stroke="#a08a72" strokeWidth={1.4} fill="none">
+                  <path d="M88 22 q4 4 0 8 q-4 4 0 8" />
+                  <path d="M96 20 q4 4 0 8 q-4 4 0 8" />
+                </g>
+              </>
+            ) : (
+              <path d="M44 52 q8 -6 16 0 M64 48 q8 -6 16 0" stroke="#7d5f42" strokeWidth={2} fill="none" />
+            )}
+            <path d="M60 34 C58 24 60 16 64 8" stroke={C.leafD} strokeWidth={3} fill="none" />
+          </>
+        )}
+      </svg>
+    );
+  }
+  if (type === "cut") {
+    // 1本の根：株元側が白く健康、先が黒く腐っている。境目の少し上（健康な側）に切る線
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[140px] rounded-xl" aria-hidden="true">
+        <rect width={120} height={120} rx={12} fill="#7a6149" />
+        <rect x={50} y={6} width={20} height={16} rx={4} fill={C.leafD} />
+        <path d="M60 22 C60 40 58 52 60 66" stroke="#f4ecd9" strokeWidth={6} fill="none" strokeLinecap="round" />
+        <path d="M60 66 C62 80 58 94 62 112" stroke="#2a1f17" strokeWidth={6} fill="none" strokeLinecap="round" />
+        <path d="M58 38 l-10 6 M61 50 l10 5" stroke="#f4ecd9" strokeWidth={1.5} />
+        <line x1={34} y1={56} x2={86} y2={56} stroke="#fff" strokeWidth={2} strokeDasharray="4 3" />
+        <path d="M88 50 l8 6 l-8 6" stroke="#fff" strokeWidth={2} fill="none" strokeLinecap="round" strokeLinejoin="round" />
+        <text x={26} y={52} fontSize={9} fill="#fff" fontWeight={700}>切る</text>
+      </svg>
+    );
+  }
   const rand = rng(seed);
   const strands: React.ReactNode[] = [];
   const n = type === "bound" ? 9 : 11;
@@ -939,6 +1000,15 @@ function LeafIcon({ type, idx }: { type: string; idx: number }) {
           ))}
         {type === "burn" && <path d="M44 34 C60 26 82 36 78 54 C74 70 50 66 42 54 C38 46 38 38 44 34 Z" fill="#efe9d8" stroke="#a7835a" strokeWidth={2} />}
         {type === "black" && <path d="M0 84 Q40 70 60 86 Q84 70 120 82 L120 120 L0 120 Z" fill="#2e2620" />}
+        {type === "mold" &&
+          [
+            [46, 50, 10], [72, 44, 8], [60, 72, 11], [42, 82, 7],
+          ].map(([x, y, r], i) => <circle key={i} cx={x} cy={y} r={r} fill="#f1efe8" opacity={0.85} />)}
+        {type === "mites" &&
+          Array.from({ length: 70 }, (_, i) => {
+            const rr = rng(i + 3);
+            return <circle key={i} cx={24 + rr() * 72} cy={20 + rr() * 80} r={1.2} fill="#e9ecd2" />;
+          })}
       </g>
       <path d="M60 108 L60 20" stroke="#2f5e3b" strokeWidth={2} opacity={type === "pale" ? 0.4 : 0.7} />
     </>

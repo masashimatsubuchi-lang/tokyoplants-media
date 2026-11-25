@@ -223,13 +223,13 @@ T5型の連結式バーライトで知られるBarrinaは、海外のレビュ�
 
 **計算式**: 消費電力(W) ÷ 1000 × 点灯時間(h) × 日数 × 31円/kWh
 
-| モデル | 消費電力 | 12h点灯/日の月間電気代 |
-|--------|---------|-------------------|
-| BARREL ROKI-LINE PRO | 38W | 約424円/月 |
-| HaruDesign GL-T5 L530 | 36W | 約402円/月 |
-| HaruDesign BAR LIGHT L610 | 32W | 約357円/月 |
-| BARREL GROW LINE 120cm型 | 25W | 約279円/月 |
-| GOODGOODS SL-G120P／GROW LINE 60cm型 | 18W | 約201円/月 |
+<!-- illust name="bars" title="5機種の月の電気代" unit="円" prefix="約" caption="補足は消費電力です。" -->
+- ROKI-LINE PRO | 424 | 38W
+- GL-T5 L530 | 402 | 36W
+- BAR LIGHT L610 | 357 | 32W
+- GROW LINE 120cm型 | 279 | 25W
+- SL-G120P | 201 | 18W（GROW LINE 60cm型も同じ）
+<!-- /illust -->
 
 ※電気代単価31円/kWh・1日12時間×30日で計算（サイト共通の試算条件）。点灯時間やW数を変えたときの早見表は[育成ライトの電気代の計算](/research/grow-light-electricity-cost)にまとめています。
 

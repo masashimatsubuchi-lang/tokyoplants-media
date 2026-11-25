@@ -200,6 +200,25 @@ baseProducts:
 <!-- illust name="leaf-check" title="葉の症状と原因" -->   ← healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black
 ```
 
+2026-11-26の2回目の追加：
+- `bars`：0から伸ばす横棒（電気代・価格・日数の比較）。列は「ラベル | 数値 | 補足」。attrsは unit="円" と prefix="約"。
+- `range` に「下限＋安全圏」の書き方：`- パキラ | 5/8+` と書くと、下限5の丸印と、安全圏8以上の薄い棒が1行に重なる。
+- `room-zones`：mode="light" にすると、窓際を日差し、heater をエアコンの風として描く（光・直射の話のとき）。種類に back（部屋の奥）を追加。
+- `pot-section`：plant="caudex" で塊根を土の上に半分出した絵になる。層の種類に charcoal（くん炭の黒い層）を追加。
+- `leaf-check`：antler-down（ビカクシダの胞子葉が垂れる＝光は足りている）と antler-up（立ち上がる＝光が足りない）を追加。
+- `flow` は常に縦に並ぶ。4〜6段でもよい。
+
+2026-11-26の3回目の追加：
+- `leaf-check`：mold（葉の白いカビ）、mites（ハダニのかすり状の跡）を追加。
+- `roots`：次の種類を追加。
+  - cut：腐った根の先と、切る位置
+  - stem-ok／stem-bad：茎の断面。挿し穂に使える／使えない
+  - tuber-firm／tuber-rot：球茎・塊茎。硬い／腐っている
+- `pot-section`：次の2つを追加。
+  - saucer="water"：受け皿に水が溜まった絵
+  - roots="small"：大きすぎる鉢。根の届かない外側の土が湿ったまま残る絵
+- `bars` は1行に数値を1つ書く。幅のある値（2〜3日など）は range を使う。
+
 使い分けの目安：1記事あたり key-facts 1 ＋ 他を合計3〜6個。同じブロックを連続で並べない。CharacterNote（2〜4箇所）とは併用する。従来のMarkdown表も引き続き使ってよいが、「数値を見せる」場面は stats、「順番がある」場面は steps、「複数を並べる」場面は cards を優先する。
 
 ## 電気代の計算に使う電力単価（2026-09-26確定）
