@@ -857,7 +857,7 @@
   // 3) 主力商品に「よくある質問」を出す（事実の出典: 商品説明・media の記事）。
   var ITEM_FAQ = {
     '99620939': [
-      ['何号の鉢に、どのくらい使いますか？', '植え替えに使う土の量は、5号鉢で約0.9L、6号鉢で約1.5L、7号鉢で約2.5Lが目安です。2Lは5〜6号鉢1つ分、7号以上の鉢や複数の鉢をまとめて植え替えるときは10Lが便利です。'],
+      ['何号の鉢に、どのくらい使いますか？', '植え替えに使う土の量は、5号鉢で約0.9L、6号鉢で約1.5L、7号鉢で約2.5Lが目安です。2Lなら5号鉢2つ分・6号鉢1つ分です。7号以上の鉢や、複数の鉢をまとめて植え替えるときは10Lが便利です（10Lで5号鉢なら約11鉢分）。'],
       ['虫は出ませんか？', '有機質（ヤシの繊維・発酵樹皮・ミミズ堆肥・ピートモス）を約7割含むため、無機質が主体の土と比べると、コバエなどが出る可能性はあります。受け皿に水をためない、表面が乾いてから水をやる、といった管理でリスクを下げられます。虫をできるだけ避けたい場合は、無機質の <a href="' + base + '/items/142692278">HYDRO MINERAL</a> もご検討ください。'],
       ['肥料は入っていますか？', 'ミミズ堆肥（10%）を配合しており、カルシウム・マグネシウム・カリ・リン酸などの養分を含みます。成長期に生育を早めたいときは、市販の液体肥料を併用してください。'],
       ['どんな植物に向いていますか？', 'アンスリウム、モンステラ、フィロデンドロンなど、サトイモ科の熱帯植物に向けて配合しています。乾燥を好む多肉植物・塊根植物・サンスベリアや、着生植物のビカクシダには、それぞれ専用の配合の用土をおすすめします。'],
@@ -1026,6 +1026,476 @@
     }
   }
 
+  // 定番商品のページを「写真つきの3つのポイント＋図」に（2026-11-25 オーナー依頼「Sen のような構成を他の商品にも」。スマホ前提）
+  // テーマ（item.html の INSIGHT）や socksPage・sishiPage が出す文字だけのポイントを写真つきに置き換え、図の節を足す
+  // 写真はその商品の BASE の商品画像。数値は商品説明文・テーマの仕様表と同じもの（変えたらここも直す）
+  var BIMG = function (f, w) { return 'https://baseec-img-mng.akamaized.net/images/item/origin/' + f + '?imformat=generic&q=85&im=Resize,width=' + (w || 800) + ',type=normal'; };
+  var SISHI_PAINT = ['6306e36ca6a9f4bd80d01b303de9c2cf.jpg', '筆で斑を描き入れている SISHICRAFT のレザーの葉', '台湾のレザーアーティストの手仕事', 'SISHICRAFT が裁断から染色、成形まで、すべて手作業で仕上げています。'];
+  var RICH = {
+    // I'm original SOIL
+    '99620939': {
+      points: [
+        ['9bb9b1c47e8a6eb2f695f822ffcd9689.jpg', '手のひらにのせた I\'m original SOIL', '根が呼吸できる、粗めの粒', '粒が大きめで、土の中に空気の通り道ができます。水はけと保水を両立し、根腐れしにくい土です。'],
+        ['2850eda46a2de132cf37f323dd627852.jpg', '並べた6種類の素材', '6種類の天然素材をブレンド', 'ヤシの繊維・日向石・蘭の発酵樹皮・ミミズ堆肥・ピートモス・パーライト。アンスリウム、モンステラなどサトイモ科の植物に。'],
+        ['08b6582886d4ee5f9265c49d464cf353.jpg', '2L と 10L のパッケージ', '使う分だけ、ジップ付き', '2Lと10Lの2サイズ。使う分だけ取り出して、口を閉じて保管できます。']
+      ],
+      mats: [
+        ['08d24ca81e68a4c70c5dfd51ecdeb00b.png', '#6b4f33', '天然ヤシの繊維', 30, '水はけと通気性を高める'],
+        ['7189a8387c4d3d35a4586a255f891f84.png', '#9c8a72', '日向石', 20, '宮崎県の多孔質の軽石。根に酸素を届ける'],
+        ['8081f351659ccc4c9f4db51731539c21.png', '#3f2f22', '蘭の発酵樹皮', 20, '水分を保ちながら通気性もキープ'],
+        ['4bf21735df47576bf04e3d0100f82c12.png', '#22614c', 'ミミズ堆肥', 10, '天然の土壌改良材。土をふんわり保つ'],
+        ['f0a5378247f7b071d6b9992159fe9ec1.png', '#7d6a4f', 'ピートモス', 10, '水分を保ち、乾燥を防ぐ'],
+        ['6b0e75cadfe7774d21585cb75ad1910e.png', '#b8b4aa', 'パーライト', 10, '軽く、水はけと通気性を高める']
+      ]
+    },
+    // HYDRO MINERAL
+    '142692278': {
+      points: [
+        ['a885f550628ada49a7d2bcedf87e5c74.jpg', 'HYDRO MINERAL に植えたアロカシア', '土を使わない無機用土', '溶岩石とゼオライトだけ。虫のエサになる有機質を含まないので、清潔に扱えます。'],
+        ['bbb9432140b0580c9dc193bc86655612.jpg', '富士山の溶岩石', '水と空気を両立', '無数の気泡を持つ多孔質の石が、水と空気の通り道をつくり、根腐れを防ぎます。'],
+        ['ecfcde3c21a152db9166e547cb9fa1c3.jpg', 'HYDRO MINERAL のパッケージ', '肥料入りで、約8〜9ヶ月は水だけ', '緩効性肥料（オスモコート・エグザクト）を0.5%配合。植え替えから約8〜9ヶ月は肥料を足さずに育てられます。']
+      ],
+      mats: [
+        ['bbb9432140b0580c9dc193bc86655612.jpg', '#5a4a43', '富士山の溶岩石', 75, '無数の気泡を持つ多孔質。根が呼吸しやすい'],
+        ['6661a363862f6589377c2743cb349d84.jpg', '#b9b3a3', '島根県産ゼオライト', 25, '老廃物やアンモニアを吸着し、水を傷みにくくする']
+      ]
+    },
+    // Daily Botanical Towel（単品）
+    '135803882': {
+      points: [
+        ['0af482b5151e74eba79b4f216e49d24b.jpg', '全8種類のリーフタオル', '実在する植物の葉がモチーフ', 'モンステラ、アンスリウム、アロカシアの葉のシルエットから。全8種類。'],
+        ['3fc3c08053e41ab89e244b7af5e78054.jpg', 'キッチンに掛けたタオルで手をふく', '吸水性が高く、速乾', 'マイクロファイバー素材。キッチンや洗面所で、毎日使えます。'],
+        ['4b0f1fe144eab6f9774f9695921e34b7.jpg', 'ドアノブに掛けたモンステラのタオル', 'ループで、掛けて飾れる', '引っ掛けやすいループ付き。使わないときも、壁やドアノブで植物のように飾れます。']
+      ]
+    },
+    // Daily Botanical Socks
+    '164953353': {
+      points: [
+        ['4d8621560a2debd5847c1d617ca0c6fd.jpg', '後ろ側に MONSTERA と MONDAY の文字', 'ふたつそろうと、MONSTERA MONDAY', '後ろ側に、左「MONSTERA」・右「MONDAY」。前側にはハート形のモンステラの葉。'],
+        ['2f6b88e70c13cc4bb89ed252d02c9d9d.jpg', '編み込んだモンステラの葉', 'なめらかなコーマコットン', '短い繊維を取り除いた糸で、毛羽が少なく肌ざわりがなめらか。'],
+        ['be144c267fc0aeeeef1dc0cba99c31bc.jpg', '紙製パッケージに入ったソックス', '贈り物にも', 'オリジナルの紙製パッケージ入り。ギフトバッグ（1袋¥300）でも包めます。']
+      ]
+    },
+    // SISHICRAFT
+    '143263775': { points: [SISHI_PAINT,
+      ['b95a9fd58a66c79ec04b0c3882a26d3f.jpg', '手に持った斑入りモンステラの鉢植え', '植物タンニン鞣しのイタリアンレザー', '葉も茎もレザー。使うほどに表情が変わる、革ならではの経年変化を楽しめます。'],
+      ['ddcc2cb431e28bbdae445da88bd24236.jpg', '台にのせた斑入りモンステラ', 'ひとつずつ違う表情', '手作業のため、形や斑の入り方に個体差があります。']] },
+    '146918176': { points: [SISHI_PAINT,
+      ['91f468db8bdd6810d5e4c28ea087f330.jpg', 'タイコンステレーションのキーホルダー', '植物タンニン鞣しのイタリアンレザー', '使うほどに表情が変わる、革ならではの経年変化を楽しめます。'],
+      ['1cb729aed1faab6850569c283848c132.jpg', '箱に入ったキーホルダー', 'ひとつずつ違う表情', '手作業のため、形や斑の入り方に個体差があります。SISHICRAFT の箱入り。']] },
+    '146918957': { points: [SISHI_PAINT,
+      ['9ba40e909fd44c6ffd8d1d462b83f36d.jpg', 'アルボのしおり', '植物タンニン鞣しのイタリアンレザー', '使うほどに表情が変わる、革ならではの経年変化を楽しめます。'],
+      ['0ee539c93ad26822696152c2d7bb7d38.jpg', '箱に入ったしおり', 'ひとつずつ違う表情', '手作業のため、形や斑の入り方に個体差があります。SISHICRAFT の箱入り。']] },
+    '165042659': { points: [
+      ['bcafeb63cd15b2831986994a3900e715.jpg', '鉢のまわりに絡む革の気根', '気根まで、すべて革で', '茎に巻きつき、鉢の外で絡み合う気根まで革で仕立てています。表面はあえて少しざらつかせています。'],
+      ['51ece75f9923ea085f0a8a04271f85c7.jpg', 'タイコンステレーションの斑の葉', 'タイコンステレーションの斑', 'クリーム〜黄色の斑と細かな散り斑を、一枚ずつ手で描いています。'],
+      ['272ceca6c6b91554be00a76ad952b3fa.jpg', '台にのせた気根モデル', '日本で初めてのご紹介', '数量限定の予約販売です。発送は12月1日から順次。']] },
+    // MOCHI POT（テーマに要約ブロックがないので、節ごと作る）
+    '140571906': {
+      points: [
+        ['62247ac7220290eb29743208d7bab973.png', '鉢の内側のメッシュ構造', '内側は、細かいメッシュ構造', '通気性と排水性を確保するため、鉢の内部に細かいメッシュ構造を採用しています。'],
+        ['9f1a48ba51da110b6eef8605c6c1f253.png', '鉢と受け皿', '高さのある受け皿', '受け皿に高さを持たせて、水をしっかり溜められるようにしています。'],
+        ['b9f874ba39df50583db2361153a390c1.png', 'OLIVE と GRAY の MOCHI POT', 'OLIVE と GRAY の2色', '3Dプリント（PETG）でつくった、ぷっくりした形。軽く、耐水性・耐久性に優れた素材です。']
+      ]
+    }
+  };
+
+  function richCss() {
+    if (document.getElementById('tp-rich-css')) return;
+    var css = document.createElement('style');
+    css.id = 'tp-rich-css';
+    css.textContent =
+      '.tp-pts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}' +
+      '.tp-pts figure{margin:0;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
+      '.tp-pts img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover}' +
+      '.tp-pts figcaption{padding:12px 14px 14px}' +
+      '.tp-pts b{display:block;font:700 15px/1.45 var(--tp-font);color:var(--tp-green,#22614c);margin-bottom:6px}' +
+      '.tp-pts span{display:block;font:400 13px/1.7 var(--tp-font);color:var(--tp-ink,#1d1d1f)}' +
+      '.tp-mats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;list-style:none;margin:12px 0 0;padding:0}' +
+      '.tp-mats li{margin:0;background:#fff;border-radius:14px;overflow:hidden;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
+      '.tp-mats img{display:block;width:100%;aspect-ratio:1;object-fit:cover}' +
+      '.tp-mats div{padding:10px 12px 12px;border-top:4px solid var(--c)}' +
+      '.tp-mats b{display:block;font:700 13.5px/1.4 var(--tp-font);color:var(--tp-ink,#1d1d1f)}' +
+      '.tp-mats em{display:block;font:700 18px/1.3 var(--tp-font);font-style:normal;color:var(--tp-green,#22614c)}' +
+      '.tp-mats small{display:block;margin-top:4px;font:400 12px/1.6 var(--tp-font);color:#555}' +
+      '.tp-mats.is-two{grid-template-columns:1fr 1fr}' +
+      '.tp-split{display:flex;height:30px;border-radius:8px;overflow:hidden;margin-top:8px;font:700 12px/30px var(--tp-font);color:#fff;text-align:center}' +
+      '.tp-split i{font-style:normal;white-space:nowrap;overflow:hidden}' +
+      '.tp-fig{background:#fff;border-radius:16px;padding:16px 10px 10px;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
+      '.tp-fig svg{display:block;width:100%;max-width:480px;height:auto;margin:0 auto;font-family:var(--tp-font)}' +
+      '.tp-fig + .tp-ins-table{margin-top:12px}' +
+      '.tp-pick{display:grid;grid-template-columns:1fr 1fr;gap:10px}' +
+      '.tp-pick button{display:block;width:100%;text-align:left;border:1px solid #e3e1dc;border-radius:14px;background:#fff;padding:12px;color:inherit;cursor:pointer;font-family:var(--tp-font)}' +
+      '.tp-pick button.is-on{border:2px solid var(--tp-green,#22614c);padding:11px}' +
+      '.tp-pick svg{display:block;width:auto;max-width:100%;height:64px;margin-bottom:8px}' +
+      '.tp-pick b{display:block;font:700 18px/1.3 var(--tp-font)}' +
+      '.tp-pick .pr{display:block;font:700 15px/1.4 var(--tp-font);color:var(--tp-green,#22614c)}' +
+      '.tp-pick small{display:block;font:400 12px/1.6 var(--tp-font);color:#555;margin-top:4px}' +
+      '@media (max-width:767px){.tp-pts{grid-template-columns:1fr}.tp-mats{grid-template-columns:1fr 1fr}}';
+    document.head.appendChild(css);
+  }
+  function ptsHtml(list) {
+    return '<div class="tp-pts">' + list.map(function (p) {
+      return '<figure><img src="' + BIMG(p[0]) + '" alt="' + esc(p[1]) + '" loading="lazy"><figcaption><b>' + esc(p[2]) + '</b><span>' + esc(p[3]) + '</span></figcaption></figure>';
+    }).join('') + '</div>';
+  }
+  function matsHtml(list) {
+    return '<ul class="tp-mats' + (list.length === 2 ? ' is-two' : '') + '">' + list.map(function (m) {
+      return '<li style="--c:' + m[1] + '"><img src="' + BIMG(m[0], 480) + '" alt="' + esc(m[2]) + '" loading="lazy"><div><em>' + m[3] + '%</em><b>' + esc(m[2]) + '</b><small>' + esc(m[4]) + '</small></div></li>';
+    }).join('') + '</ul>';
+  }
+  function insSec(ins, re) {
+    return Array.prototype.filter.call(ins.querySelectorAll(':scope > section'), function (s) {
+      var h = s.querySelector('h2');
+      return h && re.test(h.textContent);
+    })[0];
+  }
+  function addSec(ins, html, beforeRe) {
+    var s = document.createElement('section');
+    s.innerHTML = html;
+    var ref = beforeRe && insSec(ins, beforeRe);
+    if (ref) ins.insertBefore(s, ref); else ins.appendChild(s);
+    return s;
+  }
+  // 決まった値で散らばる乱数（描くたびに同じ図になるように）
+  function seeded(n) { return function () { n = (n * 16807) % 2147483647; return (n - 1) / 2147483646; }; }
+
+  // 土の断面: 一般的な土（細かい粒が詰まる）と SOIL（粗い粒のすき間を空気と水が通る）
+  function soilSectionSvg() {
+    var r = seeded(7), left = '', right = '', placed = [];
+    for (var y = 0; y < 13; y++) for (var x = 0; x < 13; x++) {
+      var px = 22 + x * 8.4 + (y % 2) * 4.2 + (r() - .5) * 2, py = 40 + y * 8 + (r() - .5) * 2;
+      left += '<circle cx="' + px.toFixed(1) + '" cy="' + py.toFixed(1) + '" r="' + (4.6 + r() * .8).toFixed(1) + '" fill="' + ['#5b4632', '#6e5741', '#4a3a2a'][x % 3] + '"/>';
+    }
+    for (var i = 0; i < 3000 && placed.length < 40; i++) {
+      var cx = 200 + r() * 128, cy = 26 + r() * 128, rad = 6 + r() * 6.5, ok = Math.hypot(cx - 264, cy - 90) < 62 + rad * .4;
+      for (var j = 0; j < placed.length; j++) {
+        var p = placed[j];
+        if (!ok || Math.hypot(p[0] - cx, p[1] - cy) < p[2] + rad + 3) { ok = false; break; }
+      }
+      if (!ok) continue;
+      placed.push([cx, cy, rad]);
+      var col = ['#7a5a3a', '#c9bfae', '#3f2f22', '#9c8a72', '#e9e6df'][placed.length % 5];
+      right += '<ellipse cx="' + cx.toFixed(1) + '" cy="' + cy.toFixed(1) + '" rx="' + rad.toFixed(1) + '" ry="' + (rad * (.75 + r() * .2)).toFixed(1) + '" transform="rotate(' + Math.round(r() * 180) + ' ' + cx.toFixed(1) + ' ' + cy.toFixed(1) + ')" fill="' + col + '"/>';
+    }
+    var arrow = function (x, y) { return '<path d="M' + x + ' ' + y + ' v-26 m-4 7 l4 -7 l4 7" stroke="#4a90c2" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>'; };
+    return '<svg viewBox="0 0 350 210" role="img" aria-label="一般的な土と I\'m original SOIL の断面のイメージ">' +
+      '<defs><clipPath id="tpc1"><circle cx="76" cy="90" r="62"/></clipPath><clipPath id="tpc2"><circle cx="264" cy="90" r="62"/></clipPath></defs>' +
+      '<circle cx="76" cy="90" r="62" fill="#3a2d21"/><g clip-path="url(#tpc1)">' + left + '</g><circle cx="76" cy="90" r="62" fill="none" stroke="#d8d4cc"/>' +
+      '<circle cx="264" cy="90" r="62" fill="#f4f1ea"/><g clip-path="url(#tpc2)">' + right + arrow(222, 140) + arrow(262, 128) + arrow(302, 138) + '</g><circle cx="264" cy="90" r="62" fill="none" stroke="var(--tp-green,#22614c)" stroke-width="2"/>' +
+      '<text x="76" y="176" text-anchor="middle" font-size="13" font-weight="700" fill="#6b6b6b">一般的な土</text>' +
+      '<text x="76" y="195" text-anchor="middle" font-size="12.5" fill="#6b6b6b">細かい粒が詰まりやすい</text>' +
+      '<text x="264" y="176" text-anchor="middle" font-size="13" font-weight="700" fill="var(--tp-green,#22614c)">I\'m original SOIL</text>' +
+      '<text x="264" y="195" text-anchor="middle" font-size="12.5" fill="var(--tp-green,#22614c)">すき間を空気と水が通る</text>' +
+      '</svg>';
+  }
+  // 鉢の大きさと土の量（5・6・7号を縮尺をそろえて描く。量の目安は ITEM_FAQ と同じ）
+  function soilPotsSvg() {
+    var pots = [[5, 15, 0.9], [6, 18, 1.5], [7, 21, 2.5]], k = 5.2, yb = 178, x = 11, svg = '';
+    pots.forEach(function (p) {
+      var w = p[1] * k, h = p[1] * k * .82, bw = w * .72, cx = x + w / 2, top = yb - h;
+      var n2 = Math.floor(2 / p[2] + 1e-9), n10 = Math.floor(10 / p[2] + 1e-9);
+      svg +=
+        '<path d="M' + (cx - w / 2) + ' ' + top + ' L' + (cx + w / 2) + ' ' + top + ' L' + (cx + bw / 2) + ' ' + yb + ' L' + (cx - bw / 2) + ' ' + yb + ' Z" fill="#e9e4da"/>' +
+        '<path d="M' + (cx - w / 2 + 4) + ' ' + (top + 8) + ' L' + (cx + w / 2 - 4) + ' ' + (top + 8) + ' L' + (cx + bw / 2 - 3) + ' ' + (yb - 3) + ' L' + (cx - bw / 2 + 3) + ' ' + (yb - 3) + ' Z" fill="#5b4632"/>' +
+        '<rect x="' + (cx - w / 2 - 3) + '" y="' + (top - 6) + '" width="' + (w + 6) + '" height="7" rx="2" fill="#d6cfc2"/>' +
+        '<text x="' + cx + '" y="' + (top + h / 2 + 10) + '" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">' + p[2] + 'L</text>' +
+        '<text x="' + cx + '" y="' + (top - 14) + '" text-anchor="middle" font-size="15" font-weight="700" fill="var(--tp-ink,#1d1d1f)">' + p[0] + '号</text>' +
+        '<text x="' + cx + '" y="' + (yb + 18) + '" text-anchor="middle" font-size="12" fill="#8a8f8c">直径' + p[1] + 'cm</text>' +
+        '<text x="' + cx + '" y="' + (yb + 42) + '" text-anchor="middle" font-size="13.5" fill="var(--tp-ink,#1d1d1f)">' + (n2 ? '2Lで <tspan font-weight="700">' + n2 + '鉢</tspan>' : '2Lでは不足') + '</text>' +
+        '<text x="' + cx + '" y="' + (yb + 62) + '" text-anchor="middle" font-size="13.5" fill="var(--tp-green,#22614c)">10Lで <tspan font-weight="700">' + n10 + '鉢</tspan></text>';
+      x += w + 18;
+    });
+    return '<svg viewBox="0 0 350 248" role="img" aria-label="5号鉢は約0.9L、6号鉢は約1.5L、7号鉢は約2.5Lの土を使います"><line x1="4" y1="178" x2="346" y2="178" stroke="#e3e1dc"/>' + svg + '</svg>';
+  }
+  function bagSvg(n, big) {
+    var s = '', w = big ? 26 : 34, h = big ? 40 : 52;
+    for (var i = 0; i < n; i++) {
+      var x = 4 + i * (w + 4), y = 62 - h, free = big && i === n - 1;
+      s += '<rect x="' + x + '" y="' + y + '" width="' + w + '" height="' + h + '" rx="5" fill="' + (free ? '#fff' : '#22614c') + '" stroke="#22614c" stroke-width="1.5"' + (free ? ' stroke-dasharray="3 2"' : '') + '/>' +
+        '<rect x="' + (x + 4) + '" y="' + (y + 5) + '" width="' + (w - 8) + '" height="3" rx="1.5" fill="' + (free ? '#22614c' : '#fff') + '" opacity=".6"/>' +
+        (free ? '<text x="' + (x + w / 2) + '" y="' + (y + h / 2 + 5) + '" text-anchor="middle" font-size="10" font-weight="700" fill="#22614c">無料</text>' : '<text x="' + (x + w / 2) + '" y="' + (y + h / 2 + 6) + '" text-anchor="middle" font-size="11" font-weight="700" fill="#fff">2L</text>');
+    }
+    return '<svg viewBox="0 0 ' + (n * (w + 4) + 4) + ' 64" preserveAspectRatio="xMinYMid meet" aria-hidden="true">' + s + '</svg>';
+  }
+  // HYDRO MINERAL の使い方（鉢の下に水をためる／ふつうの鉢）
+  function hydroUseSvg() {
+    var r = seeded(11);
+    var stones = function (x0, y0, w, h) {
+      var s = '';
+      for (var y = 0; y < h; y += 9) for (var x = 0; x < w; x += 10) {
+        s += '<circle cx="' + (x0 + x + 5 + (r() - .5) * 4).toFixed(1) + '" cy="' + (y0 + y + 4 + (r() - .5) * 3).toFixed(1) + '" r="' + (3.4 + r() * 1.6).toFixed(1) + '" fill="' + (r() < .75 ? '#5a4a43' : '#cfc9bb') + '"/>';
+      }
+      return s;
+    };
+    var plant = function (cx, y) { return '<path d="M' + cx + ' ' + y + ' C' + (cx - 2) + ' ' + (y - 24) + ' ' + (cx - 20) + ' ' + (y - 36) + ' ' + (cx - 34) + ' ' + (y - 40) + ' C' + (cx - 22) + ' ' + (y - 56) + ' ' + (cx - 4) + ' ' + (y - 46) + ' ' + cx + ' ' + y + ' M' + cx + ' ' + y + ' C' + (cx + 3) + ' ' + (y - 30) + ' ' + (cx + 22) + ' ' + (y - 48) + ' ' + (cx + 36) + ' ' + (y - 50) + ' C' + (cx + 30) + ' ' + (y - 30) + ' ' + (cx + 10) + ' ' + (y - 22) + ' ' + cx + ' ' + y + '" fill="#2f7d5b"/>'; };
+    return '<svg viewBox="0 0 350 250" role="img" aria-label="鉢の下に水をためる使い方と、穴のあいたふつうの鉢での使い方">' +
+      '<defs><clipPath id="tph1"><path d="M28 86 L148 86 L138 186 L38 186 Z"/></clipPath><clipPath id="tph2"><path d="M202 86 L322 86 L312 176 L212 176 Z"/></clipPath></defs>' +
+      // 左: 穴のない鉢・水をためる
+      plant(88, 92) +
+      '<g clip-path="url(#tph1)"><rect x="20" y="152" width="140" height="40" fill="#bfe0f2"/>' + stones(30, 92, 116, 92) + '</g>' +
+      '<path d="M28 86 L148 86 L138 186 L38 186 Z" fill="none" stroke="#9aa39f" stroke-width="2"/>' +
+      '<path d="M58 176 v-18 m-4 6 l4 -6 l4 6 M88 176 v-18 m-4 6 l4 -6 l4 6 M118 176 v-18 m-4 6 l4 -6 l4 6" stroke="#2f7fb5" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>' +
+      '<rect x="44" y="16" width="88" height="22" rx="11" fill="var(--tp-green,#22614c)"/><text x="88" y="31" text-anchor="middle" font-size="11.5" font-weight="700" fill="#fff">いちばん安定</text>' +
+      '<text x="88" y="210" text-anchor="middle" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">鉢の下に水をためる</text>' +
+      '<text x="88" y="228" text-anchor="middle" font-size="12" fill="#6b6b6b">ハイドロ・底面給水鉢</text>' +
+      '<text x="88" y="244" text-anchor="middle" font-size="12" fill="#6b6b6b">必要な分だけ吸い上げる</text>' +
+      // 右: 穴のあいた鉢
+      plant(262, 92) +
+      '<g clip-path="url(#tph2)">' + stones(204, 92, 116, 84) + '</g>' +
+      '<path d="M202 86 L322 86 L312 176 L212 176 Z" fill="none" stroke="#9aa39f" stroke-width="2"/>' +
+      '<path d="M252 176 h20" stroke="#fff" stroke-width="3"/>' +
+      '<path d="M262 178 v12 m-4 -5 l4 5 l4 -5" stroke="#2f7fb5" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>' +
+      '<rect x="206" y="192" width="112" height="6" rx="3" fill="#d6cfc2"/>' +
+      '<text x="262" y="214" text-anchor="middle" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">穴のあいたふつうの鉢</text>' +
+      '<text x="262" y="232" text-anchor="middle" font-size="12" fill="#6b6b6b">水はけのよい用土として</text>' +
+      '</svg>';
+  }
+  // タオルの大きさ（A4 の紙と重ねる）
+  function towelSizeSvg() {
+    var k = 5.6, w = 20 * k, h = 30 * k, x0 = 120, y0 = 22;
+    var a4w = 21 * k, a4h = 29.7 * k, cx = x0 + w / 2;
+    var leaf = 'M' + cx + ' ' + y0 + ' C' + (cx + w * .62) + ' ' + (y0 + h * .02) + ' ' + (cx + w * .52) + ' ' + (y0 + h * .62) + ' ' + cx + ' ' + (y0 + h) +
+      ' C' + (cx - w * .52) + ' ' + (y0 + h * .62) + ' ' + (cx - w * .62) + ' ' + (y0 + h * .02) + ' ' + cx + ' ' + y0 + ' Z';
+    var veins = 'M' + cx + ' ' + (y0 + 6) + ' L' + cx + ' ' + (y0 + h - 10);
+    for (var i = 1; i <= 5; i++) {
+      var yy = y0 + h * (.02 + i * .13), dx = w * (.4 - i * .055);
+      veins += ' M' + cx + ' ' + yy + ' Q' + (cx + dx * .7) + ' ' + (yy + 6) + ' ' + (cx + dx) + ' ' + (yy + 26) + ' M' + cx + ' ' + yy + ' Q' + (cx - dx * .7) + ' ' + (yy + 6) + ' ' + (cx - dx) + ' ' + (yy + 26);
+    }
+    return '<svg viewBox="0 0 350 220" role="img" aria-label="タオルは約30×20cmで、A4の紙とほぼ同じ大きさです">' +
+      '<rect x="' + (cx - a4w / 2) + '" y="' + (y0 + (h - a4h) / 2) + '" width="' + a4w + '" height="' + a4h + '" fill="#fbfaf7" stroke="#b8b4aa" stroke-dasharray="5 4"/>' +
+      '<text x="' + (cx + a4w / 2 - 6) + '" y="' + (y0 + (h - a4h) / 2 + a4h - 8) + '" text-anchor="end" font-size="10.5" fill="#8a8f8c">A4</text>' +
+      '<path d="M' + (cx - 5) + ' ' + (y0 + 4) + ' C' + (cx - 9) + ' ' + (y0 - 16) + ' ' + (cx + 9) + ' ' + (y0 - 16) + ' ' + (cx + 5) + ' ' + (y0 + 4) + '" stroke="#4f8f5f" stroke-width="3" fill="none"/><path d="' + leaf + '" fill="#4f8f5f" opacity=".92"/><path d="' + veins + '" stroke="#e8f0d8" stroke-width="1.6" fill="none" stroke-linecap="round"/>' +
+      '<path d="M' + (x0 - 20) + ' ' + y0 + ' v' + h + ' M' + (x0 - 24) + ' ' + y0 + ' h8 M' + (x0 - 24) + ' ' + (y0 + h) + ' h8" stroke="#555" stroke-width="1.2"/>' +
+      '<text x="' + (x0 - 28) + '" y="' + (y0 + h / 2 + 4) + '" text-anchor="end" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">約30cm</text>' +
+      '<path d="M' + x0 + ' ' + (y0 + h + 12) + ' h' + w + ' M' + x0 + ' ' + (y0 + h + 8) + ' v8 M' + (x0 + w) + ' ' + (y0 + h + 8) + ' v8" stroke="#555" stroke-width="1.2"/>' +
+      '<text x="' + cx + '" y="' + (y0 + h + 30) + '" text-anchor="middle" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">約20cm</text>' +
+      '</svg>';
+  }
+  // ソックスの足のサイズ（cm の物差しに2サイズの範囲を重ねる）
+  function socksSizeSvg() {
+    var x0 = 30, k = 41, y = 78, s = '';
+    for (var c = 21; c <= 29; c++) {
+      var x = x0 + (c - 21) * k;
+      s += '<line x1="' + x + '" y1="' + y + '" x2="' + x + '" y2="' + (y + (c % 1 ? 4 : 8)) + '" stroke="#8a8f8c"/><text x="' + x + '" y="' + (y + 22) + '" text-anchor="middle" font-size="11.5" fill="#6b6b6b">' + c + '</text>';
+    }
+    var band = function (a, b, row, label, col) {
+      var xa = x0 + (a - 21) * k, xb = x0 + (b - 21) * k, yy = 16 + row * 28;
+      return '<rect x="' + xa + '" y="' + yy + '" width="' + (xb - xa) + '" height="22" rx="11" fill="' + col + '"/>' +
+        '<text x="' + ((xa + xb) / 2) + '" y="' + (yy + 15.5) + '" text-anchor="middle" font-size="12.5" font-weight="700" fill="#fff">' + label + '</text>';
+    };
+    return '<svg viewBox="0 0 350 112" role="img" aria-label="S/Mは足のサイズ22〜25cm、M/Lは25〜28cm">' +
+      band(22, 25, 0, 'S/M　22〜25cm', '#5f9c7a') + band(25, 28, 1, 'M/L　25〜28cm', 'var(--tp-green,#22614c)') +
+      '<line x1="' + x0 + '" y1="' + y + '" x2="' + (x0 + 8 * k) + '" y2="' + y + '" stroke="#8a8f8c"/>' + s +
+      '<text x="' + (x0 + 8 * k) + '" y="' + (y + 22) + '" text-anchor="start" dx="10" font-size="11" fill="#8a8f8c">cm</text></svg>';
+  }
+  // MOCHI POT の大きさ（側面。内径・深さは点線）
+  function mochiSizeSvg() {
+    var k = 14, w = 11.5 * k, h = 9.8 * k, cx = 165, yb = 176, top = yb - h, iw = 8 * k, ih = 7 * k, s = '';
+    for (var i = 0; i < 3; i++) {
+      var ry = h / 6, cy = top + ry + i * h / 3;
+      s += '<rect x="' + (cx - w / 2) + '" y="' + (cy - ry) + '" width="' + w + '" height="' + (ry * 2) + '" rx="' + ry + '" fill="#7d8a5a"/>';
+    }
+    return '<svg viewBox="0 0 350 236" role="img" aria-label="MOCHI POT は高さ約9.8cm、直径約11.5cm、内径約8cm・深さ約7cm">' +
+      s + '<rect x="' + (cx - iw / 2) + '" y="' + top + '" width="' + iw + '" height="' + ih + '" fill="none" stroke="#fff" stroke-width="1.5" stroke-dasharray="4 3"/>' +
+      '<path d="M' + (cx - w / 2) + ' ' + (top - 12) + ' h' + w + ' M' + (cx - w / 2) + ' ' + (top - 16) + ' v8 M' + (cx + w / 2) + ' ' + (top - 16) + ' v8" stroke="#555" stroke-width="1.2"/>' +
+      '<text x="' + cx + '" y="' + (top - 20) + '" text-anchor="middle" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">直径 約11.5cm</text>' +
+      '<path d="M' + (cx + w / 2 + 14) + ' ' + top + ' v' + h + ' M' + (cx + w / 2 + 10) + ' ' + top + ' h8 M' + (cx + w / 2 + 10) + ' ' + yb + ' h8" stroke="#555" stroke-width="1.2"/>' +
+      '<text x="' + (cx + w / 2 + 24) + '" y="' + (top + h / 2 - 4) + '" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">高さ</text>' +
+      '<text x="' + (cx + w / 2 + 24) + '" y="' + (top + h / 2 + 13) + '" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">約9.8cm</text>' +
+      '<line x1="40" y1="' + yb + '" x2="310" y2="' + yb + '" stroke="#e3e1dc"/>' +
+      '<text x="175" y="' + (yb + 24) + '" text-anchor="middle" font-size="12.5" fill="#6b6b6b">3号鉢サイズ・重さ約133g</text>' +
+      '<text x="175" y="' + (yb + 44) + '" text-anchor="middle" font-size="12.5" fill="#6b6b6b">点線は内側（内径約8cm・深さ約7cm）</text>' +
+      '</svg>';
+  }
+  function soilPickOption(re) {
+    var sel = document.querySelector('.item-detail-inner select[id^="x_optionSelect"]');
+    if (!sel) return;
+    var o = Array.prototype.filter.call(sel.options, function (op) { return re.test(op.text.trim()); })[0];
+    if (o) { sel.value = o.value; sel.dispatchEvent(new Event('change', { bubbles: true })); }
+    sel.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+
+  function richPage() {
+    var id = (path.match(/^\/items\/(\d+)/) || [])[1];
+    var detail = document.querySelector('.item-detail-inner');
+    var cfg = RICH[id];
+    if (!cfg || !detail || detail.dataset.tpRich) return;
+    detail.dataset.tpRich = '1';
+    richCss();
+
+    // MOCHI POT はテーマの要約ブロックがないので、書き出しの段落の後ろに作る（Sen と同じ位置）
+    if (id === '140571906' && !detail.querySelector('.tp-ins')) {
+      var box = document.createElement('div');
+      box.className = 'tp-ins';
+      box.innerHTML = '<section><h2>3つのポイント</h2><div class="tp-ins-points"></div></section>' +
+        '<section><h2>大きさ</h2><div class="tp-fig">' + mochiSizeSvg() + '</div>' +
+        '<table class="tp-ins-table"><tbody>' +
+          '<tr><th>サイズ</th><td>3号鉢サイズ／高さ約9.8cm・直径約11.5cm</td></tr>' +
+          '<tr><th>内側</th><td>内径約8cm・深さ約7cm</td></tr>' +
+          '<tr><th>重さ</th><td>約133g</td></tr>' +
+          '<tr><th>素材</th><td>PETG（3Dプリント）</td></tr>' +
+          '<tr><th>カラー</th><td>OLIVE／GRAY（「種類」からお選びください）</td></tr>' +
+        '</tbody></table><p class="tp-ins-note">3Dプリントのため、積層跡や細かなムラ、糸引きが見られる場合があります。</p></section>';
+      var acc0 = detail.querySelector('.tp-acc');
+      var traits0 = detail.querySelector('.tp-pdp-traits');
+      var intro0 = traits0 && traits0.firstElementChild;
+      if (intro0 && intro0.tagName === 'DIV') traits0.insertBefore(box, intro0.nextSibling);
+      else if (acc0) acc0.parentNode.insertBefore(box, acc0);
+      else if (traits0) traits0.parentNode.insertBefore(box, traits0.nextSibling);
+      else return;
+    }
+
+    // 文字だけのポイントを、写真つきに置き換える
+    Array.prototype.forEach.call(detail.querySelectorAll('.tp-ins .tp-ins-points'), function (old) {
+      var d = document.createElement('div');
+      d.innerHTML = ptsHtml(cfg.points);
+      old.parentNode.replaceChild(d.firstChild, old);
+    });
+    var ins = detail.querySelector('.tp-ins');
+    if (!ins) return;
+
+    // 配合の凡例を、素材の写真つきのカードに
+    if (cfg.mats) {
+      var legend = ins.querySelector('.tp-ins-legend');
+      if (legend) {
+        var t = document.createElement('div');
+        t.innerHTML = matsHtml(cfg.mats);
+        legend.parentNode.replaceChild(t.firstChild, legend);
+      }
+    }
+
+    if (id === '99620939') {
+      var mix = insSec(ins, /^配合/);
+      var bar = mix && mix.querySelector('.tp-ins-bar');
+      if (bar) {
+        var split = document.createElement('div');
+        split.className = 'tp-split';
+        split.setAttribute('role', 'img');
+        split.setAttribute('aria-label', '有機質70%、無機質30%');
+        split.innerHTML = '<i style="width:70%;background:#6b4f33">有機質 70%</i><i style="width:30%;background:#b8b4aa;color:#1d1d1f">無機質 30%</i>';
+        bar.parentNode.insertBefore(split, bar.nextSibling);
+      }
+      var diff = insSec(ins, /違い/);
+      var dt = diff && diff.querySelector('.tp-ins-table');
+      if (dt) {
+        var fig = document.createElement('div');
+        fig.className = 'tp-fig';
+        fig.innerHTML = soilSectionSvg();
+        dt.parentNode.insertBefore(fig, dt);
+      }
+      addSec(ins, '<h2>鉢の大きさと土の量</h2><div class="tp-fig">' + soilPotsSvg() + '</div>' +
+        '<p class="tp-ins-note">植え替えに使う土の量の目安です。鉢の形や根鉢の大きさで変わります。</p>', /^サイズ/);
+      var size = insSec(ins, /^サイズ/);
+      if (size) {
+        size.innerHTML = '<h2>サイズ</h2><div class="tp-pick">' +
+          '<button type="button" data-re="^2L">' + bagSvg(1, false) + '<b>2L</b><span class="pr">¥1,200</span><small>1Lあたり¥600<br>まずは少量から試したい方に</small></button>' +
+          '<button type="button" data-re="^10L">' + bagSvg(5, true) + '<b>10L</b><span class="pr">¥4,800</span><small>1Lあたり¥480<br>2L×5袋分が、4袋分の価格</small></button>' +
+          '</div><p class="tp-ins-note">中身は同じです。タップすると、サイズを選んだ状態で購入欄に移ります。</p>';
+        var btns = size.querySelectorAll('button');
+        var mark = function () {
+          var sel = document.querySelector('.item-detail-inner select[id^="x_optionSelect"]');
+          var cur = sel && sel.options[sel.selectedIndex] ? sel.options[sel.selectedIndex].text.trim() : '';
+          Array.prototype.forEach.call(btns, function (b) { b.classList.toggle('is-on', !!cur && new RegExp(b.dataset.re).test(cur)); });
+        };
+        Array.prototype.forEach.call(btns, function (b) {
+          b.addEventListener('click', function () { soilPickOption(new RegExp(b.dataset.re)); mark(); });
+        });
+        Array.prototype.forEach.call(document.querySelectorAll('.item-detail-inner select[id^="x_optionSelect"]'), function (s) { s.addEventListener('change', mark); });
+        mark();
+      }
+    }
+    if (id === '142692278') {
+      addSec(ins, '<h2>使い方</h2><div class="tp-fig">' + hydroUseSvg() + '</div>' +
+        '<p class="tp-ins-note">石の大きさは約3〜5mm。鉢に入れる量は、5号鉢で約0.9L、6号鉢で約1.5Lが目安です。</p>', /選び方/);
+    }
+    if (id === '135803882') {
+      addSec(ins, '<h2>大きさ</h2><div class="tp-fig">' + towelSizeSvg() + '</div>' +
+        '<p class="tp-ins-note">約30×20cm。A4の紙（21×29.7cm）とほぼ同じ大きさです。形は柄によって少しずつ違います。</p>', /^仕様/);
+    }
+    if (id === '164953353') {
+      var ss = insSec(ins, /^サイズ/);
+      var st = ss && ss.querySelector('.tp-ins-table');
+      if (st) {
+        var f2 = document.createElement('div');
+        f2.className = 'tp-fig';
+        f2.innerHTML = socksSizeSvg();
+        st.parentNode.replaceChild(f2, st);
+      }
+    }
+  }
+
+  // 植物（一点もの）のページ: 属ごとの「育て方の目安」を4つのアイコンで出し、media の育て方の記事へつなぐ（2026-11-25）
+  // 値は media の育て方の記事（link の記事）から。湿度は「50%以上」に統一（2026-11-22 オーナー決定）
+  var CARE = [
+    [/^Anthurium\b/i, 'アンスリウム', 'guide/anthurium-care-for-beginners', [
+      ['sun', '光', '明るい間接光。直射日光は葉焼けのもと'],
+      ['drop', '水やり', '土の表面が乾き、鉢が軽くなってから'],
+      ['temp', '冬の温度', '15℃以上が理想。10℃を下回らない場所に'],
+      ['mist', '湿度', '50%以上。エアコンの風は直接当てない']]],
+    [/^Alocasia\b/i, 'アロカシア', 'guide/alocasia-care-guide', [
+      ['sun', '光', 'レースカーテン越しの明るい間接光。直射日光はNG'],
+      ['drop', '水やり', '土が乾いてから。受け皿の水は捨てる'],
+      ['temp', '冬の温度', '15℃以上を保つ（品種により異なる）'],
+      ['mist', '湿度', '50%以上。冬の暖房の乾燥に注意']]],
+    [/^Stephania\b/i, 'ステファニア', 'guide/stephania-kaweesakii-complete-guide', [
+      ['sun', '光', '明るい間接光。直射日光で葉焼けする'],
+      ['drop', '水やり', '土が完全に乾いてから。迷ったら1日待つ'],
+      ['temp', '冬の温度', '最低10℃以上。5℃以下で塊根が傷む'],
+      ['leaf', '育つ季節', '夏型。冬は落葉して休眠し、芽が出てから水やりを再開']]],
+    [/^Phyllanthus\b/i, 'フィランサス', 'species/phyllanthus-urinaria-pink-variegated', [
+      ['sun', '光', '明るい間接光。斑入りは光多めに、直射は不可'],
+      ['drop', '水やり', '表土が乾いたらたっぷり。冬は乾いて2〜3日後'],
+      ['temp', '冬の温度', '最低15℃以上。夜は窓際から離す'],
+      ['mist', '湿度', '50%以上。乾燥すると葉先が茶色くなる']]],
+    [/^Monstera\b/i, 'モンステラ', 'guide/monstera-care', [
+      ['sun', '光', 'レースカーテン越しの明るい間接光を長時間'],
+      ['drop', '水やり', '土が乾いてから、鉢底から流れるまで'],
+      ['temp', '冬の温度', '10℃以上を確保する'],
+      ['mist', '湿度', '50%以上。冬は葉水か加湿器で補う']]]
+  ];
+  var CARE_ICON = {
+    sun: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2.5M12 19.5V22M2 12h2.5M19.5 12H22M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M4.9 19.1l1.8-1.8M17.3 6.7l1.8-1.8"/>',
+    drop: '<path d="M12 3c3.5 4.4 6 7.6 6 10.6A6 6 0 0 1 6 13.6C6 10.6 8.5 7.4 12 3Z"/>',
+    temp: '<path d="M10 4a2 2 0 1 1 4 0v9.3a4 4 0 1 1-4 0Z"/><path d="M12 9v7"/>',
+    mist: '<path d="M4 8c2.5-2 5.5-2 8 0s5.5 2 8 0M4 13c2.5-2 5.5-2 8 0s5.5 2 8 0M4 18c2.5-2 5.5-2 8 0s5.5 2 8 0"/>',
+    leaf: '<path d="M5 19C5 10 10 5 20 4c-1 10-6 15-15 15Z"/><path d="M5 19 13 11"/>'
+  };
+  function plantCarePage() {
+    var id = (path.match(/^\/items\/(\d+)/) || [])[1];
+    var detail = document.querySelector('.item-detail-inner');
+    if (!id || RICH[id] || SEN[id] || !detail || detail.dataset.tpCare) return;
+    var title = (document.title.split(/[｜|│]/)[0] || '').replace(/^\s*[【<][^】>]*[】>]\s*/, '').trim();
+    if (!/[｜|│]\s*観葉植物\s*$/.test(document.title.split(' | tokyoplants')[0])) return; // 商品名の最後が「｜観葉植物」の植物だけ
+    var hit = CARE.filter(function (c) { return c[0].test(title); })[0];
+    if (!hit) return;
+    detail.dataset.tpCare = '1';
+    richCss();
+    var css = document.createElement('style');
+    css.textContent =
+      '.tp-care{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}' +
+      '.tp-care div{background:#fff;border-radius:14px;padding:14px 12px;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
+      '.tp-care svg{width:26px;height:26px;fill:none;stroke:var(--tp-green,#22614c);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;display:block;margin-bottom:6px}' +
+      '.tp-care b{display:block;font:700 13px/1.4 var(--tp-font);color:var(--tp-green,#22614c)}' +
+      '.tp-care span{display:block;margin-top:3px;font:400 13px/1.65 var(--tp-font);color:var(--tp-ink,#1d1d1f)}' +
+      '.tp-care-go{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:12px;padding:14px;border-radius:999px;background:var(--tp-green,#22614c);color:#fff !important;text-decoration:none;font:700 14px/1.3 var(--tp-font)}' +
+      '@media (max-width:767px){.tp-care{grid-template-columns:1fr 1fr}}';
+    document.head.appendChild(css);
+    var box = document.createElement('div');
+    box.className = 'tp-ins';
+    box.innerHTML = '<section><h2>' + esc(hit[1]) + 'の育て方の目安</h2><div class="tp-care">' + hit[3].map(function (r) {
+      return '<div><svg viewBox="0 0 24 24" aria-hidden="true">' + CARE_ICON[r[0]] + '</svg><b>' + esc(r[1]) + '</b><span>' + esc(r[2]) + '</span></div>';
+    }).join('') + '</div>' +
+      '<a class="tp-care-go" href="' + MEDIA + '/' + hit[2] + '?utm_source=shop&amp;utm_medium=item&amp;utm_content=care" target="_blank" rel="noopener">' + esc(hit[1]) + 'の育て方を詳しく読む</a>' +
+      '<p class="tp-ins-note">属としての一般的な目安です。株の状態や季節に合わせて調整してください。</p></section>';
+    var acc = detail.querySelector('.tp-acc');
+    var traits = detail.querySelector('.tp-pdp-traits');
+    var intro = traits && traits.firstElementChild;
+    if (intro && intro.tagName === 'DIV') traits.insertBefore(box, intro.nextSibling);
+    else if (acc) acc.parentNode.insertBefore(box, acc);
+    else if (traits) traits.parentNode.insertBefore(box, traits.nextSibling);
+  }
+
   // 他社の商品（仕入れ品）は、テーマが定番品に付ける「TOKYOPLANTS ORIGINAL」を書き換える（2026-11-25 Sen ローリーポット）
   var BRAND_LABEL = [[/Sen ローリーポット|Roly Pot/, 'SELECTED ITEM  /  HACHIMAN']];
   function itemBrandLabel(detail) {
@@ -1106,7 +1576,7 @@
     })(0);
     // ソックス・SISHICRAFT: テーマが説明文を節に分け終えてから（.tp-acc ができてから）動かす
     if (/^\/items\/\d+/.test(path)) (function waitSocks(t) {
-      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) { socksPage(); sishiPage(); senPage(); itemSeo(); }
+      if (document.querySelector('.item-detail-inner .tp-acc') || t > 40) { socksPage(); sishiPage(); senPage(); richPage(); plantCarePage(); itemSeo(); }
       else setTimeout(function () { waitSocks(t + 1); }, 100);
     })(0);
   }
