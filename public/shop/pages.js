@@ -633,44 +633,7 @@
     var h1 = detail.querySelector('h1');
     var sub = (document.title.split(/[｜|]/)[1] || '').trim();
     if (h1 && sub) h1.innerHTML = esc(h1.textContent.trim()) + '<span class="tp-tw-sub">' + esc(sub) + '</span>';
-
-    var ins = document.createElement('div');
-    ins.className = 'tp-ins';
-    ins.innerHTML =
-      '<section><h2>3つのポイント</h2><div class="tp-ins-points">' +
-        '<div><b>ふたつそろうと、MONSTERA MONDAY</b><span>後ろ側に、左「MONSTERA」・右「MONDAY」。前側にはハート形のモンステラの葉。</span></div>' +
-        '<div><b>なめらかなコーマコットン</b><span>短い繊維を取り除いた糸で、毛羽が少なく肌ざわりがなめらか。</span></div>' +
-        '<div><b>贈り物にも</b><span>オリジナルの紙製パッケージ入り。ギフトバッグ（1袋¥300）でも包めます。</span></div>' +
-      '</div></section>' +
-      '<section><h2>サイズ</h2><table class="tp-ins-table"><thead><tr><th></th><th>S/M</th><th>M/L</th></tr></thead><tbody>' +
-        '<tr><th>足のサイズ</th><td>22〜25cm</td><td>25〜28cm</td></tr>' +
-      '</tbody></table><p class="tp-ins-note">性別を問わないユニセックスの2サイズ。「種類」からお選びください。</p></section>' +
-      '<section><h2>仕様</h2><table class="tp-ins-table"><tbody>' +
-        '<tr><th>カラー</th><td>グリーン</td></tr>' +
-        '<tr><th>デザイン</th><td>前側にモンステラの葉、後ろ側に「MONSTERA」「MONDAY」</td></tr>' +
-        '<tr><th>素材</th><td>コーマコットンを使用（製造元による）</td></tr>' +
-        '<tr><th>パッケージ</th><td>オリジナルデザインの紙製パッケージ</td></tr>' +
-        '<tr><th>ラッピング</th><td>赤いリボン付き不織布ギフトバッグ。<a href="' + base + '/items/164551101">ギフトバッグ</a>（1袋¥300）を一緒にカートへ</td></tr>' +
-        '<tr><th>配送</th><td>ゆうパケット（ポスト投函）全国一律¥500・追跡あり・日時指定不可</td></tr>' +
-      '</tbody></table></section>';
-    var acc = detail.querySelector('.tp-acc');
-    var traits = detail.querySelector('.tp-pdp-traits');
-    if (acc) acc.parentNode.insertBefore(ins, acc);
-    else if (traits) traits.parentNode.insertBefore(ins, traits.nextSibling);
-    else return;
-    // 表と重なる説明文の節（サイズ・素材・ギフトラッピング）は折りたたみの中へ移す
-    if (traits && acc) {
-      var first = acc.firstChild; // 元の順（サイズ→素材→ギフト）のまま、配送などの前に並べる
-      traits.querySelectorAll('h2').forEach(function (h) {
-        if (!/サイズ|素材|ギフト/.test(h.textContent)) return;
-        var body = h.nextElementSibling;
-        var d = document.createElement('details');
-        d.innerHTML = '<summary>' + esc(h.textContent) + '</summary>';
-        if (body && body.tagName === 'DIV') d.appendChild(body);
-        acc.insertBefore(d, first);
-        h.remove();
-      });
-    }
+    // 説明のブロック（ポイント・サイズ・仕様）は出さない。世界観を優先し、説明文をそのまま読んでもらう（2026-11-25 オーナー判断）
   }
 
   // SISHICRAFT のモンステラ2モデル（2026-11-04）: どちらのページにも「2つのモデル」の比較を出し、タイコンステレーションにはポイントと仕様表も足す
@@ -1060,22 +1023,6 @@
         ['6661a363862f6589377c2743cb349d84.jpg', '#b9b3a3', '島根県産ゼオライト', 25, '老廃物やアンモニアを吸着し、水を傷みにくくする']
       ]
     },
-    // Daily Botanical Towel（単品）
-    '135803882': {
-      points: [
-        ['0af482b5151e74eba79b4f216e49d24b.jpg', '全8種類のリーフタオル', '実在する植物の葉がモチーフ', 'モンステラ、アンスリウム、アロカシアの葉のシルエットから。全8種類。'],
-        ['3fc3c08053e41ab89e244b7af5e78054.jpg', 'キッチンに掛けたタオルで手をふく', '吸水性が高く、速乾', 'マイクロファイバー素材。キッチンや洗面所で、毎日使えます。'],
-        ['4b0f1fe144eab6f9774f9695921e34b7.jpg', 'ドアノブに掛けたモンステラのタオル', 'ループで、掛けて飾れる', '引っ掛けやすいループ付き。使わないときも、壁やドアノブで植物のように飾れます。']
-      ]
-    },
-    // Daily Botanical Socks
-    '164953353': {
-      points: [
-        ['4d8621560a2debd5847c1d617ca0c6fd.jpg', '後ろ側に MONSTERA と MONDAY の文字', 'ふたつそろうと、MONSTERA MONDAY', '後ろ側に、左「MONSTERA」・右「MONDAY」。前側にはハート形のモンステラの葉。'],
-        ['2f6b88e70c13cc4bb89ed252d02c9d9d.jpg', '編み込んだモンステラの葉', 'なめらかなコーマコットン', '短い繊維を取り除いた糸で、毛羽が少なく肌ざわりがなめらか。'],
-        ['be144c267fc0aeeeef1dc0cba99c31bc.jpg', '紙製パッケージに入ったソックス', '贈り物にも', 'オリジナルの紙製パッケージ入り。ギフトバッグ（1袋¥300）でも包めます。']
-      ]
-    },
     // SISHICRAFT
     '143263775': { points: [SISHI_PAINT,
       ['b95a9fd58a66c79ec04b0c3882a26d3f.jpg', '手に持った斑入りモンステラの鉢植え', '植物タンニン鞣しのイタリアンレザー', '葉も茎もレザー。使うほどに表情が変わる、革ならではの経年変化を楽しめます。'],
@@ -1251,44 +1198,6 @@
       '<text x="262" y="232" text-anchor="middle" font-size="12" fill="#6b6b6b">水はけのよい用土として</text>' +
       '</svg>';
   }
-  // タオルの大きさ（A4 の紙と重ねる）
-  function towelSizeSvg() {
-    var k = 5.6, w = 20 * k, h = 30 * k, x0 = 120, y0 = 22;
-    var a4w = 21 * k, a4h = 29.7 * k, cx = x0 + w / 2;
-    var leaf = 'M' + cx + ' ' + y0 + ' C' + (cx + w * .62) + ' ' + (y0 + h * .02) + ' ' + (cx + w * .52) + ' ' + (y0 + h * .62) + ' ' + cx + ' ' + (y0 + h) +
-      ' C' + (cx - w * .52) + ' ' + (y0 + h * .62) + ' ' + (cx - w * .62) + ' ' + (y0 + h * .02) + ' ' + cx + ' ' + y0 + ' Z';
-    var veins = 'M' + cx + ' ' + (y0 + 6) + ' L' + cx + ' ' + (y0 + h - 10);
-    for (var i = 1; i <= 5; i++) {
-      var yy = y0 + h * (.02 + i * .13), dx = w * (.4 - i * .055);
-      veins += ' M' + cx + ' ' + yy + ' Q' + (cx + dx * .7) + ' ' + (yy + 6) + ' ' + (cx + dx) + ' ' + (yy + 26) + ' M' + cx + ' ' + yy + ' Q' + (cx - dx * .7) + ' ' + (yy + 6) + ' ' + (cx - dx) + ' ' + (yy + 26);
-    }
-    return '<svg viewBox="0 0 350 220" role="img" aria-label="タオルは約30×20cmで、A4の紙とほぼ同じ大きさです">' +
-      '<rect x="' + (cx - a4w / 2) + '" y="' + (y0 + (h - a4h) / 2) + '" width="' + a4w + '" height="' + a4h + '" fill="#fbfaf7" stroke="#b8b4aa" stroke-dasharray="5 4"/>' +
-      '<text x="' + (cx + a4w / 2 - 6) + '" y="' + (y0 + (h - a4h) / 2 + a4h - 8) + '" text-anchor="end" font-size="10.5" fill="#8a8f8c">A4</text>' +
-      '<path d="M' + (cx - 5) + ' ' + (y0 + 4) + ' C' + (cx - 9) + ' ' + (y0 - 16) + ' ' + (cx + 9) + ' ' + (y0 - 16) + ' ' + (cx + 5) + ' ' + (y0 + 4) + '" stroke="#4f8f5f" stroke-width="3" fill="none"/><path d="' + leaf + '" fill="#4f8f5f" opacity=".92"/><path d="' + veins + '" stroke="#e8f0d8" stroke-width="1.6" fill="none" stroke-linecap="round"/>' +
-      '<path d="M' + (x0 - 20) + ' ' + y0 + ' v' + h + ' M' + (x0 - 24) + ' ' + y0 + ' h8 M' + (x0 - 24) + ' ' + (y0 + h) + ' h8" stroke="#555" stroke-width="1.2"/>' +
-      '<text x="' + (x0 - 28) + '" y="' + (y0 + h / 2 + 4) + '" text-anchor="end" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">約30cm</text>' +
-      '<path d="M' + x0 + ' ' + (y0 + h + 12) + ' h' + w + ' M' + x0 + ' ' + (y0 + h + 8) + ' v8 M' + (x0 + w) + ' ' + (y0 + h + 8) + ' v8" stroke="#555" stroke-width="1.2"/>' +
-      '<text x="' + cx + '" y="' + (y0 + h + 30) + '" text-anchor="middle" font-size="13" font-weight="700" fill="var(--tp-ink,#1d1d1f)">約20cm</text>' +
-      '</svg>';
-  }
-  // ソックスの足のサイズ（cm の物差しに2サイズの範囲を重ねる）
-  function socksSizeSvg() {
-    var x0 = 30, k = 41, y = 78, s = '';
-    for (var c = 21; c <= 29; c++) {
-      var x = x0 + (c - 21) * k;
-      s += '<line x1="' + x + '" y1="' + y + '" x2="' + x + '" y2="' + (y + (c % 1 ? 4 : 8)) + '" stroke="#8a8f8c"/><text x="' + x + '" y="' + (y + 22) + '" text-anchor="middle" font-size="11.5" fill="#6b6b6b">' + c + '</text>';
-    }
-    var band = function (a, b, row, label, col) {
-      var xa = x0 + (a - 21) * k, xb = x0 + (b - 21) * k, yy = 16 + row * 28;
-      return '<rect x="' + xa + '" y="' + yy + '" width="' + (xb - xa) + '" height="22" rx="11" fill="' + col + '"/>' +
-        '<text x="' + ((xa + xb) / 2) + '" y="' + (yy + 15.5) + '" text-anchor="middle" font-size="12.5" font-weight="700" fill="#fff">' + label + '</text>';
-    };
-    return '<svg viewBox="0 0 350 112" role="img" aria-label="S/Mは足のサイズ22〜25cm、M/Lは25〜28cm">' +
-      band(22, 25, 0, 'S/M　22〜25cm', '#5f9c7a') + band(25, 28, 1, 'M/L　25〜28cm', 'var(--tp-green,#22614c)') +
-      '<line x1="' + x0 + '" y1="' + y + '" x2="' + (x0 + 8 * k) + '" y2="' + y + '" stroke="#8a8f8c"/>' + s +
-      '<text x="' + (x0 + 8 * k) + '" y="' + (y + 22) + '" text-anchor="start" dx="10" font-size="11" fill="#8a8f8c">cm</text></svg>';
-  }
   // MOCHI POT の大きさ（側面。内径・深さは点線）
   function mochiSizeSvg() {
     var k = 14, w = 11.5 * k, h = 9.8 * k, cx = 165, yb = 176, top = yb - h, iw = 8 * k, ih = 7 * k, s = '';
@@ -1319,6 +1228,8 @@
   function richPage() {
     var id = (path.match(/^\/items\/(\d+)/) || [])[1];
     var detail = document.querySelector('.item-detail-inner');
+    // タオルは説明のブロックを出さない（世界観を優先、2026-11-25 オーナー判断）。柄の選択・まとめ買い・ギフトの案内は towelPage が出す
+    if (TOWEL[id] && detail) Array.prototype.forEach.call(detail.querySelectorAll('.tp-ins'), function (e) { e.remove(); });
     var cfg = RICH[id];
     if (!cfg || !detail || detail.dataset.tpRich) return;
     detail.dataset.tpRich = '1';
@@ -1408,20 +1319,6 @@
     if (id === '142692278') {
       addSec(ins, '<h2>使い方</h2><div class="tp-fig">' + hydroUseSvg() + '</div>' +
         '<p class="tp-ins-note">石の大きさは約3〜5mm。鉢に入れる量は、5号鉢で約0.9L、6号鉢で約1.5Lが目安です。</p>', /選び方/);
-    }
-    if (id === '135803882') {
-      addSec(ins, '<h2>大きさ</h2><div class="tp-fig">' + towelSizeSvg() + '</div>' +
-        '<p class="tp-ins-note">約30×20cm。A4の紙（21×29.7cm）とほぼ同じ大きさです。形は柄によって少しずつ違います。</p>', /^仕様/);
-    }
-    if (id === '164953353') {
-      var ss = insSec(ins, /^サイズ/);
-      var st = ss && ss.querySelector('.tp-ins-table');
-      if (st) {
-        var f2 = document.createElement('div');
-        f2.className = 'tp-fig';
-        f2.innerHTML = socksSizeSvg();
-        st.parentNode.replaceChild(f2, st);
-      }
     }
   }
 
