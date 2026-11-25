@@ -909,10 +909,19 @@
     })(1);
   }
   var YUPACKET = { '135803882': 1, '164675173': 1, '164953353': 1, '164551101': 1 }; // タオル・タオル3枚セット・ソックス・ギフトバッグ
+  // 他社の商品（仕入れ品）は、テーマが定番品に付ける「TOKYOPLANTS ORIGINAL」を書き換える（2026-11-25 Sen ローリーポット）
+  var BRAND_LABEL = [[/Sen ローリーポット|Roly Pot/, 'SELECTED ITEM  /  HACHIMAN']];
+  function itemBrandLabel(detail) {
+    var over = detail.querySelector('.tp-pdp-over');
+    var name = (detail.querySelector('h1') || {}).textContent || '';
+    var hit = BRAND_LABEL.find(function (b) { return b[0].test(name); });
+    if (over && hit) over.textContent = hit[1];
+  }
   function itemSeo() {
     var id = (path.match(/^\/items\/(\d+)/) || [])[1];
     var detail = document.querySelector('.item-detail-inner');
     if (!id || !detail) return;
+    itemBrandLabel(detail);
     itemAlts(detail);
     itemFaq(id, detail);
     (function wait(t) {
