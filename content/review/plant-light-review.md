@@ -160,6 +160,8 @@ amazonProducts:
 | [BRIM専門](/review/brim-grow-light-comparison) | 国内ブランドBRIMの3機種（PANEL A・SOL 24W・FLORA）の選び分け |
 | [多肉植物・サボテン向け](/review/succulent-cactus-grow-light) | 多肉植物に要る光の量と、届く距離の計算 |
 
+種から育てた苗や挿し木のトレーを照らすなら、苗に要る光の量から選ぶ[育苗ライトおすすめ](/review/seedling-grow-light)も参考にしてください。
+
 ---
 
 ## おすすめ12選の一覧と選定基準
