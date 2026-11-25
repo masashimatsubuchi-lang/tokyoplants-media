@@ -15,13 +15,16 @@
  *       自社商品（soil / hydro / pot）を写真つきの商品カードで出す。箇条書きはその商品の良い点・注意点。
  *       amazon="true" なら frontmatter の amazonProducts を「他の選択肢」として下に並べる
  *   <!-- shop-compare id="monstera-8" --><!-- /shop-compare -->
+ *   <!-- illust name="soil-grain" title="…" caption="…" -->  - ラベル | 説明 | 種類 ...  <!-- /illust -->
+ *       手描き風のSVG図解（2026-11-26 導入）。name ごとの図は src/components/Illustration.tsx。
+ *       箇条書きは「|」区切りの列として図に渡す（列の意味は図ごとに違う。Illustration.tsx の各図のコメント参照）
  *       通販比較の表。src/data/shop-comparison.json の tables[id] を送料込み総額の安い順に描画（価格は月1回の手動確認）
  *
  * 内側はremarkで既にHTML化されているので、ここでは <li> / <h4> / <table> を素朴に切り出す。
  * 入れ子のブロックには対応しない。
  */
 
-export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar", "mix", "amazon-cards", "figure", "product-cards", "shop-compare"] as const;
+export const BLOCK_NAMES = ["key-facts", "stats", "steps", "callout", "cards", "calendar", "mix", "amazon-cards", "figure", "product-cards", "shop-compare", "illust"] as const;
 export type BlockName = (typeof BLOCK_NAMES)[number];
 
 export interface KeyFactItem {
@@ -61,7 +64,8 @@ export type ParsedBlock =
   | { kind: "amazon-cards"; title: string; note: string }
   | { kind: "product-cards"; title: string; own: OwnProductType | null; showAmazon: boolean; points: KeyFactItem[] }
   | { kind: "figure"; src: string; caption: string; credit: string; align: "wide" | "normal" }
-  | { kind: "shop-compare"; title: string; id: string };
+  | { kind: "shop-compare"; title: string; id: string }
+  | { kind: "illust"; name: string; title: string; caption: string; attrs: Record<string, string>; rows: string[][] };
 
 export type OwnProductType = "soil" | "hydro" | "pot";
 
@@ -150,6 +154,15 @@ export function parseBlock(name: BlockName, attrs: Record<string, string>, inner
     }
     case "shop-compare":
       return { kind: "shop-compare", title, id: attrs.id ?? "" };
+    case "illust":
+      return {
+        kind: "illust",
+        name: attrs.name ?? "",
+        title,
+        caption: attrs.caption ?? "",
+        attrs,
+        rows: listItems(innerHtml).map((li) => stripTags(li).split("|").map((x) => x.trim())),
+      };
     case "figure":
       return {
         kind: "figure",

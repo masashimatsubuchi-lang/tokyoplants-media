@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1612339490298-26de583dd107?crop=entrop
 title: "ねこチップとは｜メリット・デメリット・使い方"
 description: "ねこチップはココチップと日向石を混ぜた資材で培養土ではありません。メリットは水はけと虫の出にくさ、デメリットは栄養ほぼゼロと乾きやすさ。使い方・配合3例・自作の比率も紹介。"
 date: "2026-06-05"
-updated: "2026-11-22"
+updated: "2026-11-26"
 category: "soil"
 tags: ["用土比較"]
 author: "tokyoplants 編集部"
@@ -352,7 +352,13 @@ SNSやオンラインの植物コミュニティでは「ねこチップに変�
 
 ## I'm original SOILとの違い（比較テーブル）
 
-ねこチップと、tokyoplantsが展開する『I'm original SOIL』はどう違うのか。以下の比較テーブルで整理します。
+ねこチップと、tokyoplantsが展開する『I'm original SOIL』はどう違うのか。まず粒とすき間のちがいを図で見てから、比較テーブルで整理します。
+
+<!-- illust name="soil-grain" title="粒とすき間のちがい" caption="粒の大きさとすき間のイメージ図です。実際の粒の形や大きさは製品ごとに異なります。" -->
+- 一般的な培養土 | 細かい粒が詰まりやすい | fine
+- ねこチップ | すき間が多く乾きやすい | coarse
+- I'm original SOIL | すき間＋水を抱える素材 | mixed | ours
+<!-- /illust -->
 
 | 比較項目 | ねこチップ | I'm original SOIL |
 |---|---|---|

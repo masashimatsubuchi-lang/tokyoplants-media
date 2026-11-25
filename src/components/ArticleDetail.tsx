@@ -49,7 +49,7 @@ type ContentSegment =
 
 function parseMarkerAttrs(raw: string): Record<string, string> {
   const attrs: Record<string, string> = {};
-  const attrPattern = /(\w+)="([^"]*)"/g;
+  const attrPattern = /([\w-]+)="([^"]*)"/g;
   let m: RegExpExecArray | null;
   while ((m = attrPattern.exec(raw)) !== null) {
     attrs[m[1]] = m[2];

@@ -4,6 +4,7 @@ import { OWN_PRODUCTS, findOwnInBaseProducts, ownProductUrl } from "@/lib/ownPro
 import { amazonIsPrime, amazonPrice, amazonShortNote } from "@/lib/amazonDisplay";
 import PrimeBadge from "@/components/PrimeBadge";
 import ShopCompare from "@/components/ShopCompare";
+import Illustration from "@/components/Illustration";
 import { AmazonSaleNotice } from "@/components/AmazonSale";
 
 /**
@@ -480,6 +481,8 @@ export default function ArticleBlock({
       return <Figure block={block} />;
     case "shop-compare":
       return <ShopCompare id={block.id} title={block.title} />;
+    case "illust":
+      return <Illustration block={block} />;
     case "product-cards":
       return <ProductCards block={block} baseProducts={baseProducts} amazonProducts={amazonProducts} />;
   }
