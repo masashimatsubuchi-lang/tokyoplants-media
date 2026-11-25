@@ -12,12 +12,17 @@
  *   light-distance 距離が2倍で明るさ約1/4。箇条書きなし。attrs: near="20cm" far="40cm"
  *   ppfd-scale     必要なPPFDの幅の比較（range の単位をPPFDにしたもの）
  *   range          数値の幅（温度・湿度など）。列: ラベル | 30-80 / 400-600+ / -5-10 / 5（1点） | 補足（任意）
+ *                  「5/10+」と書くと、下限5の丸印と安全圏10以上の薄い棒を1行に重ねる
  *                  attrs: unit="℃" min max step target="200-350" target-label color="green|blue|amber|red"
  *   flow           原因→結果・手順の流れ。列: 見出し | 説明。attrs: tone="warning|good"
- *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/stone/hydro/bark/mulch/water | 厚さの比。attrs: hole="false"
+ *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
  *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry
- *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/heater/floor/high
+ *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/back（部屋の奥）/heater/floor/high
+ *                  attrs: mode="light" で窓際を日差し、heater をエアコンの風として描く（光・直射の話のとき）
  *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black
+ *                  ビカクシダの胞子葉の向き: antler-down（垂れる＝光は足りている）/ antler-up（立ち上がる＝光が足りない）
+ *   bars           0から伸ばす横棒（電気代・価格など）。列: ラベル | 数値 | 補足。attrs: unit="円" prefix="約" max color
+ *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵になる
  */
 import type { ParsedBlock } from "@/lib/articleBlocks";
 
@@ -375,8 +380,14 @@ function LightDistance({ block }: { block: IllustBlock }) {
  *   値は「150-300」「400-600+」「-5-10」「5」（1点は丸印）。「以上」「+」で右端まで伸ばす
  * attrs: unit / min / max / step / target="200-350" / target-label / color="green|blue|amber|red"
  */
-type Range = { min: number; max: number; open: boolean; point: boolean };
+type Range = { min: number; max: number; open: boolean; point: boolean; safe?: Range | null };
 function parseRange(s: string): Range | null {
+  // 「5/10+」= 下限の丸印5と、安全圏10以上の棒を同じ行に描く
+  if (s.includes("/")) {
+    const [a, b] = s.split("/");
+    const p = parseRange(a);
+    if (p) return { ...p, point: p.min === p.max && !p.open, safe: parseRange(b) };
+  }
   const t = s.replace(/,/g, "").replace(/[℃%]/g, "").trim();
   const m = t.match(/^(-?\d+(?:\.\d+)?)(?:\s*[-〜~]\s*(-?\d+(?:\.\d+)?))?\s*(\+|以上)?/);
   if (!m) return null;
@@ -385,6 +396,11 @@ function parseRange(s: string): Range | null {
   return { min: Math.min(a, b), max: Math.max(a, b), open: !!m[3], point: m[2] === undefined && !m[3] };
 }
 const RANGE_COLORS: Record<string, string> = { green: "#3f8a5f", blue: "#3f7fb8", amber: "#c98a2b", red: "#c0573f" };
+
+/** 数値のすぐ後ろに付けて読める短い単位（℃・%・cm・円など）だけ付ける。µmol/m²/s のような長い単位は軸の端に出す */
+function unitSuffix(unit: string) {
+  return unit && unit.length <= 3 ? unit : "";
+}
 
 function niceStep(span: number) {
   const raw = span / 5;
@@ -403,24 +419,45 @@ function RangeBars({ block, defaultUnit = "" }: { block: IllustBlock; defaultUni
   for (let t = Math.ceil(lo / step) * step; t <= hi + 1e-9; t += step) ticks.push(Math.round(t * 100) / 100);
   const target = block.attrs.target ? parseRange(block.attrs.target) : null;
   const color = RANGE_COLORS[block.attrs.color ?? "green"] ?? RANGE_COLORS.green;
+  const hasSafe = rows.some((r) => r.p!.safe);
   const pos = (v: number) => Math.max(0, Math.min(100, ((v - lo) / (hi - lo)) * 100));
   const pct = (v: number) => `${pos(v)}%`;
   const fmt = (r: (typeof rows)[number]) => {
     const p = r.p!;
-    if (p.point) return `${p.min}${unit === "℃" || unit === "%" ? unit : ""}`;
-    const u = unit === "℃" || unit === "%" ? unit : "";
+    const u = unitSuffix(unit);
+    if (p.safe) {
+      const low = p.min === p.max ? `${p.min}${u}` : `${p.min}〜${p.max}${u}`;
+      return `下限${low}・安全圏${p.safe.min}${u}${p.safe.open ? "以上" : `〜${p.safe.max}${u}`}`;
+    }
+    if (p.point) return `${p.min}${u}`;
     return p.open ? `${p.min}${u}以上` : `${p.min}〜${p.max}${u}`;
   };
   return (
     <Frame
       block={block}
       legend={
-        target ? (
-          <span className="inline-flex items-center gap-1.5">
-            <span className="inline-block h-2.5 w-4 rounded-sm bg-[#22614c]/15 ring-1 ring-[#22614c]/30" />
-            {block.attrs["target-label"] || "目標"}（{target.min}〜{target.max}
-            {unit === "℃" || unit === "%" ? unit : ""}）
-          </span>
+        target || hasSafe ? (
+          <>
+            {target && (
+              <span className="inline-flex items-center gap-1.5">
+                <span className="inline-block h-2.5 w-4 rounded-sm bg-[#22614c]/15 ring-1 ring-[#22614c]/30" />
+                {block.attrs["target-label"] || "目標"}（{target.min}〜{target.max}
+                {unitSuffix(unit)}）
+              </span>
+            )}
+            {hasSafe && (
+              <>
+                <span className="inline-flex items-center gap-1.5">
+                  <span className="inline-block h-3 w-3 rounded-full" style={{ background: color }} />
+                  下限（これを割ると危険）
+                </span>
+                <span className="inline-flex items-center gap-1.5">
+                  <span className="inline-block h-2.5 w-5 rounded-full" style={{ background: `${color}40` }} />
+                  安全圏
+                </span>
+              </>
+            )}
+          </>
         ) : undefined
       }
     >
@@ -438,6 +475,16 @@ function RangeBars({ block, defaultUnit = "" }: { block: IllustBlock; defaultUni
               {/* .prose div[style] が幅を100%に固定するので、style付きの要素は span にする */}
               {target && (
                 <span className="absolute inset-y-[-4px] block bg-[#22614c]/10" style={{ left: pct(target.min), width: `${pos(target.max) - pos(target.min)}%` }} />
+              )}
+              {r.p!.safe && (
+                <span
+                  className="absolute inset-y-1 block rounded-full"
+                  style={{
+                    left: pct(r.p!.safe.min),
+                    width: r.p!.safe.open ? `${100 - pos(r.p!.safe.min)}%` : `${pos(r.p!.safe.max) - pos(r.p!.safe.min)}%`,
+                    background: `${color}40`,
+                  }}
+                />
               )}
               {r.p!.point ? (
                 <span className="absolute top-1/2 block h-4 w-4 -translate-x-1/2 -translate-y-1/2 rounded-full ring-2 ring-white" style={{ left: pct(r.p!.min), background: color }} />
@@ -470,6 +517,41 @@ function RangeBars({ block, defaultUnit = "" }: { block: IllustBlock; defaultUni
   );
 }
 
+/* ---------- bars ----------
+ * 0から伸ばす横棒。列: ラベル | 数値 | 補足（任意）。attrs: unit="円" max color prefix="約"
+ */
+function Bars({ block }: { block: IllustBlock }) {
+  const unit = block.attrs.unit ?? "";
+  const prefix = block.attrs.prefix ?? "";
+  const rows = block.rows
+    .map((r) => ({ label: r[0], v: Number((r[1] ?? "").replace(/[^0-9.\-]/g, "")), raw: r[1] ?? "", note: r[2] ?? "" }))
+    .filter((r) => r.label && Number.isFinite(r.v));
+  const max = Number(block.attrs.max) || Math.max(...rows.map((r) => r.v)) || 1;
+  const color = RANGE_COLORS[block.attrs.color ?? "green"] ?? RANGE_COLORS.green;
+  return (
+    <Frame block={block}>
+      <div className="space-y-2">
+        {rows.map((r, i) => (
+          <div key={i} className="grid grid-cols-[6.5rem_1fr] items-center gap-2 sm:grid-cols-[9rem_1fr]">
+            <div className="leading-tight">
+              <p className="text-[12.5px] font-bold text-zinc-800">{r.label}</p>
+              {r.note && <p className="text-[11px] text-zinc-500">{r.note}</p>}
+            </div>
+            <div className="flex items-center gap-2">
+              <span className="block h-4 rounded-r-full" style={{ width: `${Math.max(2, (r.v / max) * 78)}%`, background: color }} />
+              <span className="shrink-0 text-[12px] font-bold text-zinc-700">
+                {prefix}
+                {r.v.toLocaleString("ja-JP")}
+                {unit}
+              </span>
+            </div>
+          </div>
+        ))}
+      </div>
+    </Frame>
+  );
+}
+
 /* ---------- flow ----------
  * 原因→結果、手順の流れを矢印でつなぐ。列: 見出し | 説明（任意）
  * attrs: tone="warning|good|neutral"（最後の箱の色）
@@ -479,10 +561,11 @@ function Flow({ block }: { block: IllustBlock }) {
   const tone = block.attrs.tone ?? "neutral";
   const last =
     tone === "warning" ? "border-[#c0573f] bg-[#fbeee9] text-[#8f3a26]" : tone === "good" ? "border-[#22614c] bg-[#e9f3ee] text-[#1b4d3c]" : "border-zinc-400 bg-white text-zinc-800";
-  const horizontal = rows.length <= 4;
+  // 横並びは記事の本文幅だと箱が細くなり文字が縦に詰まるので、常に縦に並べる（読者の約8割はスマホ）
+  const horizontal = false;
   return (
     <Frame block={block}>
-      <ol className={`flex flex-col items-stretch gap-0 ${horizontal ? "sm:flex-row sm:items-stretch" : ""}`}>
+      <ol className={`mx-auto flex max-w-md flex-col items-stretch gap-0 ${horizontal ? "sm:flex-row sm:items-stretch" : ""}`}>
         {rows.map((r, i) => {
           const isLast = i === rows.length - 1;
           return (
@@ -509,12 +592,14 @@ function Flow({ block }: { block: IllustBlock }) {
  *   water は層ではなく、鉢底からの水位として重ねる（比は鉢の高さに対する割合 0〜1、既定0.2）
  * attrs: hole="false" で鉢底穴なし
  */
-const LAYER_FILL: Record<string, string> = { soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
+const LAYER_FILL: Record<string, string> = { charcoal: "#2a2725", soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
 
 function LayerTexture({ type, y, h, seed }: { type: string; y: number; h: number; seed: number }) {
   const rand = rng(seed);
   const out: React.ReactNode[] = [];
-  if (type === "soil") {
+  if (type === "charcoal") {
+    for (let i = 0; i < Math.round(h * 3); i++) out.push(<rect key={i} x={24 + rand() * 152} y={y + rand() * h} width={3 + rand() * 3} height={1.5} fill="#4a4542" />);
+  } else if (type === "soil") {
     for (let i = 0; i < Math.round(h * 2.2); i++) out.push(<circle key={i} cx={30 + rand() * 140} cy={y + rand() * h} r={1 + rand() * 1.4} fill={rand() < 0.5 ? "#5a4635" : "#7d644c"} />);
   } else if (type === "stone" || type === "hydro" || type === "mulch") {
     const r = type === "mulch" ? 4.5 : 5.5;
@@ -536,6 +621,7 @@ function PotSection({ block }: { block: IllustBlock }) {
   const layers = block.rows.filter((r) => r[0] && r[2] !== "water");
   const water = block.rows.find((r) => r[2] === "water");
   const hole = block.attrs.hole !== "false";
+  const caudex = block.attrs.plant === "caudex";
   const top = 70;
   const bottom = 206;
   const total = layers.reduce((n, r) => n + (Number(r[3]) || 1), 0) || 1;
@@ -554,11 +640,28 @@ function PotSection({ block }: { block: IllustBlock }) {
               <path d="M22 66 L178 66 L161 206 L39 206 Z" />
             </clipPath>
           </defs>
-          {/* 植物 */}
-          <path d="M100 70 C98 50 96 36 92 22" stroke={C.leafD} strokeWidth={3} fill="none" />
-          <ellipse cx={74} cy={30} rx={26} ry={12} transform="rotate(-25 74 30)" fill={C.leaf} />
-          <ellipse cx={124} cy={26} rx={28} ry={12} transform="rotate(20 124 26)" fill={C.leafD} />
-          <ellipse cx={96} cy={14} rx={12} ry={14} fill={C.leaf} />
+          {/* 植物（塊根植物は鉢の上に塊根を描く） */}
+          {caudex ? (
+            <g stroke={C.leafD} strokeWidth={2} fill="none">
+              <path d="M96 44 C86 26 70 18 56 16" />
+              <path d="M104 44 C112 24 128 16 146 14" />
+              <path d="M100 42 C100 28 98 16 100 4" />
+            </g>
+          ) : (
+            <>
+              <path d="M100 70 C98 50 96 36 92 22" stroke={C.leafD} strokeWidth={3} fill="none" />
+              <ellipse cx={74} cy={30} rx={26} ry={12} transform="rotate(-25 74 30)" fill={C.leaf} />
+              <ellipse cx={124} cy={26} rx={28} ry={12} transform="rotate(20 124 26)" fill={C.leafD} />
+              <ellipse cx={96} cy={14} rx={12} ry={14} fill={C.leaf} />
+            </>
+          )}
+          {caudex && (
+            <>
+              <circle cx={52} cy={18} r={9} fill={C.leaf} />
+              <circle cx={150} cy={14} r={10} fill={C.leafD} />
+              <circle cx={100} cy={6} r={8} fill={C.leaf} />
+            </>
+          )}
           <path d={pot} fill="#d9b796" />
           <g clipPath={`url(#pot-${block.title.length})`}>
             {bands.map((b) => (
@@ -579,6 +682,14 @@ function PotSection({ block }: { block: IllustBlock }) {
             {water && <line x1={0} y1={waterTop} x2={200} y2={waterTop} stroke={C.blue} strokeWidth={1.5} strokeDasharray="4 3" />}
           </g>
           <path d={pot} fill="none" stroke="#b08a66" strokeWidth={4} strokeLinejoin="round" />
+          {caudex && (
+            <g>
+              <ellipse cx={100} cy={72} rx={38} ry={32} fill="#8a6a4e" />
+              <path d="M66 80 C80 98 120 98 134 80 C124 104 76 104 66 80 Z" fill="#6f533c" opacity={0.6} />
+              <path d="M80 54 q6 -4 12 0 M108 50 q6 -4 12 0 M90 68 q6 -4 12 0" stroke="#6f533c" strokeWidth={2} fill="none" strokeLinecap="round" />
+              <line x1={58} y1={70} x2={142} y2={70} stroke="#fff" strokeWidth={1.2} strokeDasharray="3 3" opacity={0.8} />
+            </g>
+          )}
           {hole ? (
             <>
               <rect x={90} y={206} width={20} height={6} fill="#f3f0ea" />
@@ -599,6 +710,7 @@ function PotSection({ block }: { block: IllustBlock }) {
               </li>
             ))}
           {!hole && <li className="text-[11.5px] text-zinc-500">※鉢底穴のない鉢</li>}
+          {caudex && <li className="text-[11.5px] text-zinc-500">※点線が土の表面</li>}
         </ul>
       </div>
     </Frame>
@@ -684,17 +796,19 @@ function Roots({ block }: { block: IllustBlock }) {
  */
 const ZONE_POS: Record<string, { x: number; y: number }> = {
   window: { x: 52, y: 128 },
-  good: { x: 168, y: 112 },
+  good: { x: 130, y: 112 },
+  back: { x: 206, y: 112 },
   heater: { x: 262, y: 128 },
   floor: { x: 104, y: 176 },
   high: { x: 168, y: 46 },
 };
-const ZONE_TONE: Record<string, string> = { window: "#3f7fb8", good: "#22614c", heater: "#c0573f", floor: "#3f7fb8", high: "#c98a2b" };
+const ZONE_TONE: Record<string, string> = { window: "#3f7fb8", good: "#22614c", back: "#c98a2b", heater: "#c0573f", floor: "#3f7fb8", high: "#c98a2b" };
 
 function RoomZones({ block }: { block: IllustBlock }) {
   const rows = block.rows.filter((r) => r[0]);
   const types = rows.map((r) => r[2] || "good");
   const showHeater = block.attrs.heater !== "false" && types.includes("heater");
+  const lightMode = block.attrs.mode === "light";
   return (
     <Frame block={block}>
       <svg viewBox="0 0 330 200" className="mx-auto block w-full max-w-[480px]" aria-hidden="true">
@@ -704,8 +818,12 @@ function RoomZones({ block }: { block: IllustBlock }) {
         {/* 窓 */}
         <rect x={0} y={24} width={16} height={130} fill="#cfe3f3" stroke="#9fb6c8" strokeWidth={2} />
         <line x1={8} y1={24} x2={8} y2={154} stroke="#9fb6c8" strokeWidth={1.5} />
-        {/* 冷気 */}
-        <rect x={16} y={24} width={90} height={166} fill="url(#coldgrad)" />
+        {/* 冷気（mode="light" のときは日差し） */}
+        {lightMode ? (
+          <path d="M16 24 L16 154 L150 190 L118 190 Z M16 24 L118 190 L70 190 Z" fill="#f6d77a" opacity={0.35} />
+        ) : (
+          <rect x={16} y={24} width={90} height={166} fill="url(#coldgrad)" />
+        )}
         <defs>
           <linearGradient id="coldgrad" x1="0" x2="1" y1="0" y2="0">
             <stop offset="0" stopColor="#7fb6e3" stopOpacity={0.35} />
@@ -716,13 +834,31 @@ function RoomZones({ block }: { block: IllustBlock }) {
             <stop offset="1" stopColor="#e9a28a" stopOpacity={0} />
           </linearGradient>
         </defs>
-        <g stroke={C.blue} strokeWidth={2} fill="none" strokeLinecap="round" opacity={0.8}>
-          <path d="M24 40 L24 150 Q24 178 50 180 L120 182" />
-          <path d="M116 177 L122 182 L116 187" />
-          <path d="M36 60 L36 150 Q36 168 56 170 L92 171" />
-        </g>
-        {/* 暖房 */}
-        {showHeater && (
+        {!lightMode && (
+          <g stroke={C.blue} strokeWidth={2} fill="none" strokeLinecap="round" opacity={0.8}>
+            <path d="M24 40 L24 150 Q24 178 50 180 L120 182" />
+            <path d="M116 177 L122 182 L116 187" />
+            <path d="M36 60 L36 150 Q36 168 56 170 L92 171" />
+          </g>
+        )}
+        {lightMode && (
+          <g stroke="#e0b23a" strokeWidth={2} strokeLinecap="round">
+            <line x1={4} y1={10} x2={12} y2={18} />
+            <line x1={18} y1={4} x2={20} y2={14} />
+          </g>
+        )}
+        {/* 暖房（mode="light" のときは壁の上のエアコンの風） */}
+        {showHeater && lightMode && (
+          <>
+            <rect x={262} y={14} width={64} height={18} rx={4} fill="#eeeae3" stroke="#b9b1a4" />
+            <g stroke="#9aa7b3" strokeWidth={1.8} fill="none" strokeLinecap="round">
+              <path d="M276 38 q-8 18 -20 34" />
+              <path d="M292 38 q-8 22 -24 44" />
+              <path d="M308 38 q-6 22 -20 48" />
+            </g>
+          </>
+        )}
+        {showHeater && !lightMode && (
           <>
             <rect x={220} y={100} width={92} height={90} fill="url(#warmgrad)" />
             <rect x={300} y={128} width={26} height={62} rx={3} fill="#e7e2da" stroke="#b9b1a4" />
@@ -807,6 +943,25 @@ function LeafIcon({ type, idx }: { type: string; idx: number }) {
       <path d="M60 108 L60 20" stroke="#2f5e3b" strokeWidth={2} opacity={type === "pale" ? 0.4 : 0.7} />
     </>
   );
+  if (type === "antler-down" || type === "antler-up") {
+    const up = type === "antler-up";
+    const fronds = up
+      ? ["M60 62 C54 40 44 26 34 10 M44 26 C36 22 28 20 22 22", "M60 62 C62 40 66 24 72 8 M66 26 C74 18 82 14 90 14", "M60 62 C70 50 84 42 100 36"]
+      : ["M60 66 C44 76 34 92 30 112 M36 88 C26 90 18 96 14 104", "M60 66 C70 82 78 96 86 114 M76 90 C86 92 94 98 100 108", "M60 66 C58 84 56 100 56 116"];
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[110px]" aria-hidden="true">
+        <rect x={34} y={30} width={52} height={60} rx={3} fill="#c9a77f" />
+        <g stroke={C.leaf} strokeWidth={6} fill="none" strokeLinecap="round">
+          {fronds.map((d, i) => (
+            <path key={i} d={d} />
+          ))}
+        </g>
+        <ellipse cx={60} cy={62} rx={22} ry={18} fill="#a88a5c" />
+        <ellipse cx={60} cy={58} rx={16} ry={11} fill="#c2a56f" />
+        <path d={up ? "M104 30 l0 -14 m-5 5 l5 -5 l5 5" : "M104 92 l0 14 m-5 -5 l5 5 l5 -5"} stroke="#71717a" strokeWidth={2} fill="none" strokeLinecap="round" />
+      </svg>
+    );
+  }
   if (type === "droop") {
     return (
       <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[110px]" aria-hidden="true">
@@ -864,6 +1019,8 @@ export default function Illustration({ block }: { block: IllustBlock }) {
       return <RangeBars block={block} />;
     case "flow":
       return <Flow block={block} />;
+    case "bars":
+      return <Bars block={block} />;
     case "pot-section":
       return <PotSection block={block} />;
     case "roots":

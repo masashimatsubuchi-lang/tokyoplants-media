@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1639200551412-eae0f4d77290?w=800&q=80"
 title: "観葉植物の耐寒性ランキング｜耐寒温度一覧と寒さに強い種類"
 description: "寒さに強い観葉植物はカンノンチク・オリヅルラン・アイビーなど5℃前後まで耐える種類、弱いのはアロカシアやアンスリウム。37種の耐寒温度を寒さに強い順に一覧にし、室温別の置き方も。"
 date: "2026-09-07"
-updated: "2026-11-22"
+updated: "2026-11-26"
 category: "guide"
 tags: ["冬越し", "耐寒性", "温度管理", "観葉植物"]
 author: "tokyoplants 編集部"
@@ -97,45 +97,93 @@ amazonProducts:
 
 管理は安全圏の数字を狙ってください。数値はtokyoplants内の各品種ページと揃えています。
 
-| 植物 | 下限の目安 | 安全圏 | メモ |
-|---|---|---|---|
-| [カンノンチク・シュロチク](/species/genus-rhapis) | 0〜3℃ | 5℃以上 | 観葉植物のなかで最も寒さに強い部類 |
-| [オリヅルラン](/species/chlorophytum-comosum) | 5℃ | 8℃以上 | 0℃近くまで耐えるとされるが霜は不可 |
-| [アイビー（ヘデラ）](/species/hedera-helix) | 5℃ | 8℃以上 | 屋外でも越冬する強健種。室内なら余裕 |
-| [フィカス・プミラ](/species/ficus-pumila) | 5℃ | 8℃以上 | フィカス属では最も丈夫 |
-| [金のなる木](/species/crassula-ovata) | 5℃ | 8℃以上 | 霜に当てない。冬は断水気味に |
-| [ハオルチア](/species/genus-haworthia) | 5℃ | 8℃以上 | 春秋型。冬は休むので過湿のほうが危険 |
-| [ホヤ・カルノーサ](/species/hoya-carnosa) | 5℃ | 10℃以上 | 0℃以下は厳禁 |
-| [ユッカ・エレファンティペス](/species/yucca-elephantipes) | 5℃前後 | 8℃以上 | 園芸情報に幅があり、余裕を見る |
-| [パキラ](/guide/pachira-care) | 5℃ | 8〜10℃以上 | 10℃を下回ると成長が止まる |
-| [ガジュマル](/guide/gajumaru-care) | 5℃前後 | 8〜10℃以上 | 成長を維持したいなら10℃ |
-| [モンステラ・デリシオーサ](/species/monstera-deliciosa) | 5℃ | 10℃以上 | 斑入り品種は15℃以上 |
-| [モンステラ・アダンソニー](/species/monstera-adansonii) | 5℃ | 10℃以上 | — |
-| [ビカクシダ・ビフルカツム](/species/platycerium-bifurcatum) | 5℃ | 10℃以上 | 属内では最も丈夫 |
-| [キセログラフィカ](/species/tillandsia-xerographica) | 5℃ | 10℃以上 | 冬は濡れたまま放置しない |
-| [ストレリチア](/species/genus-strelitzia) | 5〜8℃ | 10℃以上 | 種により差がある |
-| [フィカス・ベンジャミン](/species/ficus-benjamina) | 5〜10℃ | 10℃以上 | 寒さより環境変化で落葉しやすい |
-| [トックリラン](/species/beaucarnea-recurvata) | 5〜10℃ | 10℃以上 | 幹に水を蓄えるぶん過湿に弱い |
-| [ポトス](/species/pothos-epipremnum-aureum) | 8℃ | 15℃以上 | 寒さで葉が黄変することがある |
-| [ドラセナ・マージナータ](/species/dracaena-marginata) | 8℃ | 10℃以上 | マッサンゲアナは10℃推奨 |
-| [サンスベリア](/species/sansevieria) | 10℃ | 15℃以上 | 断水気味なら5℃程度まで耐える |
-| [ザミオクルカス](/species/zamioculcas-zamiifolia) | 10℃ | 15℃以上 | 地下の根茎に水を蓄えるので乾かし気味で越冬 |
-| [スパティフィラム](/species/spathiphyllum-wallisii) | 10℃ | 15℃以上 | 低温で花が上がらなくなる |
-| [テーブルヤシ](/species/chamaedorea-elegans) | 10℃ | 15℃以上 | 耐陰性は高いが寒さは標準 |
-| [ペペロミア](/species/genus-peperomia) | 10℃ | 15℃以上 | 多肉質の種は過湿に特に注意 |
-| [フィカス・ウンベラータ](/species/ficus-umbellata) | 10℃ | 15℃以上 | 冷気で一気に落葉する |
-| [フィカス・リラータ](/species/ficus-lyrata) | 10℃ | 15℃以上 | — |
-| [フィロデンドロン](/species/genus-philodendron) | 10℃ | 15℃以上 | 希少種は15℃以上が前提 |
-| [カラテア](/species/genus-calathea) | 10℃ | 15℃以上 | 白斑系（ホワイトフュージョン等）は15℃以上 |
-| [ビカクシダ・ウィリンキー](/species/platycerium-willinckii) | 10℃ | 15℃以上 | ビフルカツムより寒さに弱い |
-| [アンスリウム](/guide/anthurium-care-for-beginners) | 10℃ | 15℃以上 | 希少種は15〜20℃ |
-| [スキンダプサス](/species/scindapsus-pictus) | 13℃ | 15℃以上 | トレビー系は15℃以上が望ましい |
-| [シンゴニウム](/species/syngonium-podophyllum) | 13℃ | 15℃以上 | — |
-| [アロカシア](/guide/alocasia-winter-care) | 15℃ | 15〜18℃ | 10℃を割ると落葉・休眠に入る |
-| [アグラオネマ](/species/genus-aglaonema) | 15℃ | 15℃以上 | 品種差が大きく、シルバークイーンは12.8℃・24時間で葉を傷める（[冬越しの記事](/guide/aglaonema-winter-care)） |
-| [ラフィドフォラ・テトラスペルマ](/species/rhaphidophora-tetrasperma) | 15℃ | 18℃以上 | 成長が速いぶん低温で止まりやすい |
-| [ビカクシダ・リドレイ](/species/platycerium-ridleyi) | 15℃ | 18℃以上 | ビフルカツムと同じ感覚で管理しない |
-| [アロカシア・アズラニー](/species/alocasia-azlanii) | **18℃** | 20℃以上 | 本記事で最も寒さに弱い。加温ケースが安心 |
+<!-- illust name="range" title="下限0〜5℃：寒さに強い" unit="℃" min="0" max="25" step="5" color="blue" -->
+- カンノンチク・シュロチク | 0-3/5+
+- オリヅルラン | 5/8+
+- アイビー（ヘデラ） | 5/8+
+- フィカス・プミラ | 5/8+
+- 金のなる木 | 5/8+
+- ハオルチア | 5/8+
+- ホヤ・カルノーサ | 5/10+
+- ユッカ・エレファンティペス | 5/8+
+- パキラ | 5/8+ | 安全圏は8〜10℃以上
+- ガジュマル | 5/8+ | 安全圏は8〜10℃以上
+- モンステラ・デリシオーサ | 5/10+
+- モンステラ・アダンソニー | 5/10+
+- ビカクシダ・ビフルカツム | 5/10+
+- キセログラフィカ | 5/10+
+<!-- /illust -->
+
+<!-- illust name="range" title="下限5〜10℃：標準" unit="℃" min="0" max="25" step="5" color="blue" -->
+- ストレリチア | 5-8/10+
+- フィカス・ベンジャミン | 5-10/10+
+- トックリラン | 5-10/10+
+- ポトス | 8/15+
+- ドラセナ・マージナータ | 8/10+
+- サンスベリア | 10/15+
+- ザミオクルカス | 10/15+
+- スパティフィラム | 10/15+
+- テーブルヤシ | 10/15+
+- ペペロミア | 10/15+
+- フィカス・ウンベラータ | 10/15+
+- フィカス・リラータ | 10/15+
+- フィロデンドロン | 10/15+
+- カラテア | 10/15+
+- ビカクシダ・ウィリンキー | 10/15+
+- アンスリウム | 10/15+
+<!-- /illust -->
+
+<!-- illust name="range" title="下限13〜18℃：寒さに弱い" unit="℃" min="0" max="25" step="5" color="blue" -->
+- スキンダプサス | 13/15+
+- シンゴニウム | 13/15+
+- アロカシア | 15/15-18
+- アグラオネマ | 15/15+
+- ラフィドフォラ・テトラスペルマ | 15/18+
+- ビカクシダ・リドレイ | 15/18+
+- アロカシア・アズラニー | 18/20+
+<!-- /illust -->
+
+種類ごとの注意点と、詳しい記事は次のとおりです。
+
+| 植物 | 冬の注意点 |
+|---|---|
+| [カンノンチク・シュロチク](/species/genus-rhapis) | 観葉植物のなかで最も寒さに強い部類 |
+| [オリヅルラン](/species/chlorophytum-comosum) | 0℃近くまで耐えるとされるが霜は不可 |
+| [アイビー（ヘデラ）](/species/hedera-helix) | 屋外でも越冬する強健種。室内なら余裕 |
+| [フィカス・プミラ](/species/ficus-pumila) | フィカス属では最も丈夫 |
+| [金のなる木](/species/crassula-ovata) | 霜に当てない。冬は断水気味に |
+| [ハオルチア](/species/genus-haworthia) | 春秋型。冬は休むので過湿のほうが危険 |
+| [ホヤ・カルノーサ](/species/hoya-carnosa) | 0℃以下は厳禁 |
+| [ユッカ・エレファンティペス](/species/yucca-elephantipes) | 下限は5℃前後。園芸情報に幅があり、余裕を見る |
+| [パキラ](/guide/pachira-care) | 10℃を下回ると成長が止まる |
+| [ガジュマル](/guide/gajumaru-care) | 下限は5℃前後。成長を維持したいなら10℃ |
+| [モンステラ・デリシオーサ](/species/monstera-deliciosa) | 斑入り品種は15℃以上 |
+| [モンステラ・アダンソニー](/species/monstera-adansonii) | — |
+| [ビカクシダ・ビフルカツム](/species/platycerium-bifurcatum) | 属内では最も丈夫 |
+| [キセログラフィカ](/species/tillandsia-xerographica) | 冬は濡れたまま放置しない |
+| [ストレリチア](/species/genus-strelitzia) | 種により差がある |
+| [フィカス・ベンジャミン](/species/ficus-benjamina) | 寒さより環境変化で落葉しやすい |
+| [トックリラン](/species/beaucarnea-recurvata) | 幹に水を蓄えるぶん過湿に弱い |
+| [ポトス](/species/pothos-epipremnum-aureum) | 寒さで葉が黄変することがある |
+| [ドラセナ・マージナータ](/species/dracaena-marginata) | マッサンゲアナは10℃推奨 |
+| [サンスベリア](/species/sansevieria) | 断水気味なら5℃程度まで耐える |
+| [ザミオクルカス](/species/zamioculcas-zamiifolia) | 地下の根茎に水を蓄えるので乾かし気味で越冬 |
+| [スパティフィラム](/species/spathiphyllum-wallisii) | 低温で花が上がらなくなる |
+| [テーブルヤシ](/species/chamaedorea-elegans) | 耐陰性は高いが寒さは標準 |
+| [ペペロミア](/species/genus-peperomia) | 多肉質の種は過湿に特に注意 |
+| [フィカス・ウンベラータ](/species/ficus-umbellata) | 冷気で一気に落葉する |
+| [フィカス・リラータ](/species/ficus-lyrata) | — |
+| [フィロデンドロン](/species/genus-philodendron) | 希少種は15℃以上が前提 |
+| [カラテア](/species/genus-calathea) | 白斑系（ホワイトフュージョン等）は15℃以上 |
+| [ビカクシダ・ウィリンキー](/species/platycerium-willinckii) | ビフルカツムより寒さに弱い |
+| [アンスリウム](/guide/anthurium-care-for-beginners) | 希少種は15〜20℃ |
+| [スキンダプサス](/species/scindapsus-pictus) | トレビー系は15℃以上が望ましい |
+| [シンゴニウム](/species/syngonium-podophyllum) | — |
+| [アロカシア](/guide/alocasia-winter-care) | 10℃を割ると落葉・休眠に入る |
+| [アグラオネマ](/species/genus-aglaonema) | 品種差が大きく、シルバークイーンは12.8℃・24時間で葉を傷める（[冬越しの記事](/guide/aglaonema-winter-care)） |
+| [ラフィドフォラ・テトラスペルマ](/species/rhaphidophora-tetrasperma) | 成長が速いぶん低温で止まりやすい |
+| [ビカクシダ・リドレイ](/species/platycerium-ridleyi) | ビフルカツムと同じ感覚で管理しない |
+| [アロカシア・アズラニー](/species/alocasia-azlanii) | 本記事で最も寒さに弱い。加温ケースが安心 |
 
 <!-- callout type="warning" title="「下限」は健康な成株・短時間を前提にした数字" -->
 一覧の数値は、**健康な成株が、短時間その温度にさらされた場合**の目安です。次の条件が重なると、同じ温度でもダメージが出ます。
@@ -176,13 +224,21 @@ amazonProducts:
 
 ### 1. 置き場所を「窓際の冷気」と「暖房の風」から遠ざける
 
-窓ガラス付近は、夜間に室内中央より5〜10℃低くなることがあります。カーテンを閉める、鉢を窓から30cm〜1m離すといった対策で冷気を遮断しましょう。
+<!-- illust name="room-zones" title="冬の置き場所" -->
+- 窓ガラス付近 | 夜は室内中央より5〜10℃低くなることも | window
+- 窓から30cm〜1m離す | カーテンも閉めて冷気を遮る | good
+- 温風が直接当たる場所 | 乾いた熱風で葉焼けに似た症状 | heater
+<!-- /illust -->
 
-逆にエアコンやヒーターの温風が直接当たる場所も、乾いた熱風が葉の水分を奪い、葉焼けに似た症状を引き起こすため避けてください。
+エアコンやヒーターの温風は葉の水分を奪います。冷気を避けて窓から離すときも、暖房の風の通り道に入れないようにしてください。
 
 ### 2. 水やりの頻度を大きく落とす
 
-気温が下がると根の吸水力・蒸散量ともに低下します。夏と同じ感覚で水やりを続けると、吸収されない水分が土中に滞留し、根腐れの最大の原因になります。
+<!-- illust name="flow" title="冬の水やりで根腐れする流れ" tone="warning" -->
+- 気温が下がる | 根の吸水・蒸散が落ちる
+- 夏と同じ水やり | 吸収されない水が土に残る
+- 根腐れ | 水の滞留が最大の原因
+<!-- /illust -->
 
 目安として、耐寒性が標準以下の種は夏の水やり間隔の2倍以上を空け、土が完全に乾いてから与えるようにしましょう。季節ごとの水やり調整の基本は「[観葉植物の冬の水やり完全ガイド](/guide/winter-watering-houseplants)」で解説しています。
 
