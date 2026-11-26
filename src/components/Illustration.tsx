@@ -7,7 +7,7 @@
  *   箇条書きは「|」で列に分ける。列の意味は図ごとに下のコメントのとおり。
  *
  * 図の一覧
- *   soil-grain     土の粒とすき間の比較（2〜3個）。列: ラベル | 説明 | fine/coarse/mixed/grain-s/grain-m/grain-l | ours（任意）
+ *   soil-grain     土の粒とすき間の比較（2〜3個）。列: ラベル | 説明 | fine/coarse/mixed/mineral（溶岩石×ゼオライト）/grain-s/grain-m/grain-l | ours（任意）
  *                  grain-s/m/l は同じ素材の粒の大きさ違い（矢印は粒のすき間の通り道）
  *   light-types    育成ライト4タイプの照らし方。列: タイプ名 | 説明 | bulb/clip/panel/bar
  *   light-distance 距離が2倍で明るさ約1/4。箇条書きなし。attrs: near="20cm" far="40cm"
@@ -17,16 +17,17 @@
  *                  「5/10+」と書くと、下限5の丸印と安全圏10以上の薄い棒を1行に重ねる
  *                  attrs: unit="℃" min max step target="200-350" target-label color="green|blue|amber|red"
  *   flow           原因→結果・手順の流れ。列: 見出し | 説明。attrs: tone="warning|good"
- *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/dry-soil（表面だけ乾いた層）/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
- *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry/cut（腐った先と切る位置）
+ *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/dry-soil（表面だけ乾いた層）/moss（水苔）/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
+ *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry/cut（腐った先と切る位置）/base-rot（茎の付け根が黒く軟らかい）
  *                  茎の断面 stem-ok / stem-bad、球茎・塊茎 tuber-firm / tuber-rot
  *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/back（部屋の奥）/heater/floor/high
  *                  attrs: mode="light" で窓際を日差し、heater をエアコンの風として描く（光・直射の話のとき）
  *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black/mold（白いカビ）/mites（ハダニのかすり状）
  *                  leggy（徒長）/ small（新しい葉が小さい。薄く元の大きさを重ねる）/ purple（赤紫を帯びる）
  *                  ビカクシダの胞子葉の向き: antler-down（垂れる＝光は足りている）/ antler-up（立ち上がる＝光が足りない）
+ *   branch         問いから分かれる判断の図。attrs: question。列: 条件 | 結論 | 説明 | good/warning/neutral
  *   bars           0から伸ばす横棒（電気代・価格など）。列: ラベル | 数値 | 補足。attrs: unit="円" prefix="約" max color
- *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、saucer="pebble" で湿度トレー（小石の上に鉢）、roots="small" で根が中心だけ（大きすぎる鉢）
+ *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、saucer="pebble" で湿度トレー（小石の上に鉢）、pot="glass" でガラス容器、roots="small" で根が中心だけ（大きすぎる鉢）
  */
 import type { ParsedBlock } from "@/lib/articleBlocks";
 
@@ -140,9 +141,12 @@ function SoilCircle({ type, ours, seed }: { type: string; ours: boolean; seed: n
     const isMixed = type === "mixed";
     // grain-s / grain-m / grain-l は同じ素材で粒の大きさだけを変えた見本
     const size = type === "grain-s" ? [5, 8] : type === "grain-m" ? [9, 13] : type === "grain-l" ? [15, 22] : null;
+    const mineral = type === "mineral";
     const grains = isMixed
       ? placeGrains(seed, 40, 10, 17, 3.5, ["chip", "stone", "bark", "chip", "stone"])
-      : size
+      : mineral
+        ? placeGrains(seed, 40, 11, 17, 4, ["stone"]).map((g, i) => ({ ...g, fill: i % 3 === 0 ? "#e6e1d6" : i % 2 ? "#9a5a44" : "#7f4a37" }))
+        : size
         ? placeGrains(seed, 200, size[0], size[1], size[0] * 0.3, ["chip"])
         : placeGrains(seed, 40, 12, 19, 3.5, ["chip", "stone"]);
     const small: React.ReactNode[] = [];
@@ -575,6 +579,41 @@ function Bars({ block }: { block: IllustBlock }) {
   );
 }
 
+/* ---------- branch ----------
+ * 問いから2〜3方向に分かれる判断の図。attrs: question="黄色くなっているのはどの葉？"
+ * 列: 分かれる条件 | 結論 | 説明（任意）| good/warning/neutral（任意）
+ */
+function Branch({ block }: { block: IllustBlock }) {
+  const rows = block.rows.filter((r) => r[0]);
+  const tones: Record<string, string> = {
+    good: "border-[#22614c] bg-[#e9f3ee] text-[#1b4d3c]",
+    warning: "border-[#c0573f] bg-[#fbeee9] text-[#8f3a26]",
+    neutral: "border-zinc-300 bg-white text-zinc-800",
+  };
+  const cols = rows.length >= 3 ? "sm:grid-cols-3" : "grid-cols-2";
+  return (
+    <Frame block={block}>
+      {block.attrs.question && (
+        <p className="mx-auto max-w-xs rounded-xl border-2 border-zinc-700 bg-white px-3 py-2.5 text-center text-[14px] font-bold text-zinc-800">{block.attrs.question}</p>
+      )}
+      <div className={`mt-2 grid gap-3 ${cols}`}>
+        {rows.map((r, i) => (
+          <div key={i} className="flex flex-col items-center">
+            <svg viewBox="0 0 24 24" className="h-5 w-5 text-zinc-400" aria-hidden="true">
+              <path d="M12 3 L12 18 M6 13 L12 19 L18 13" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+            <p className="mb-1.5 text-center text-[12.5px] font-bold text-zinc-600">{r[0]}</p>
+            <div className={`w-full flex-1 rounded-xl border-2 px-3 py-2.5 text-center ${tones[r[3] ?? "neutral"] ?? tones.neutral}`}>
+              <p className="text-[13.5px] font-bold leading-snug">{r[1]}</p>
+              {r[2] && <p className="mt-0.5 text-[12px] leading-snug opacity-80">{r[2]}</p>}
+            </div>
+          </div>
+        ))}
+      </div>
+    </Frame>
+  );
+}
+
 /* ---------- flow ----------
  * 原因→結果、手順の流れを矢印でつなぐ。列: 見出し | 説明（任意）
  * attrs: tone="warning|good|neutral"（最後の箱の色）
@@ -615,12 +654,19 @@ function Flow({ block }: { block: IllustBlock }) {
  *   water は層ではなく、鉢底からの水位として重ねる（比は鉢の高さに対する割合 0〜1、既定0.2）
  * attrs: hole="false" で鉢底穴なし
  */
-const LAYER_FILL: Record<string, string> = { charcoal: "#2a2725", "dry-soil": "#b39a7c", soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
+const LAYER_FILL: Record<string, string> = { moss: "#b9a77a", charcoal: "#2a2725", "dry-soil": "#b39a7c", soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
 
 function LayerTexture({ type, y, h, seed }: { type: string; y: number; h: number; seed: number }) {
   const rand = rng(seed);
   const out: React.ReactNode[] = [];
-  if (type === "charcoal") {
+  if (type === "moss") {
+    // 水苔：明るい茶色〜くすんだ緑の繊維
+    for (let i = 0; i < Math.round(h * 2.5); i++) {
+      const x = 24 + rand() * 152;
+      const yy = y + rand() * h;
+      out.push(<path key={i} d={`M${x} ${yy} q${4 + rand() * 4} ${-3 + rand() * 6} ${8 + rand() * 6} 0`} stroke={rand() < 0.5 ? "#8f8a5a" : "#d3c49a"} strokeWidth={1.4} fill="none" />);
+    }
+  } else if (type === "charcoal") {
     for (let i = 0; i < Math.round(h * 3); i++) out.push(<rect key={i} x={24 + rand() * 152} y={y + rand() * h} width={3 + rand() * 3} height={1.5} fill="#4a4542" />);
   } else if (type === "soil" || type === "dry-soil") {
     for (let i = 0; i < Math.round(h * 2.2); i++) out.push(<circle key={i} cx={30 + rand() * 140} cy={y + rand() * h} r={1 + rand() * 1.4} fill={rand() < 0.5 ? "#5a4635" : "#7d644c"} />);
@@ -654,7 +700,8 @@ function PotSection({ block }: { block: IllustBlock }) {
   const bands = layers.map((r, i) => ({ y: top + heights.slice(0, i).reduce((a, b) => a + b, 0), h: heights[i], type: r[2] || "soil", i }));
   const waterRatio = water ? Math.min(1, Number(water[3]) || 0.2) : 0;
   const waterTop = bottom - waterRatio * (bottom - top);
-  const pot = "M18 64 L182 64 L164 210 L36 210 Z";
+  const glass = block.attrs.pot === "glass";
+  const pot = glass ? "M30 64 L170 64 L170 210 L30 210 Z" : "M18 64 L182 64 L164 210 L36 210 Z";
   const swatch = (t: string) => (t === "water" ? C.water : LAYER_FILL[t] ?? "#6b5440");
   return (
     <Frame block={block}>
@@ -662,7 +709,7 @@ function PotSection({ block }: { block: IllustBlock }) {
         <svg viewBox="0 0 200 222" className="block w-full" aria-hidden="true">
           <defs>
             <clipPath id={`pot-${block.title.length}`}>
-              <path d="M22 66 L178 66 L161 206 L39 206 Z" />
+              <path d={glass ? "M33 66 L167 66 L167 207 L33 207 Z" : "M22 66 L178 66 L161 206 L39 206 Z"} />
             </clipPath>
           </defs>
           {/* 植物（塊根植物は鉢の上に塊根を描く） */}
@@ -687,7 +734,7 @@ function PotSection({ block }: { block: IllustBlock }) {
               <circle cx={100} cy={6} r={8} fill={C.leaf} />
             </>
           )}
-          <path d={pot} fill="#d9b796" />
+          <path d={pot} fill={glass ? "#eef4f6" : "#d9b796"} />
           <g clipPath={`url(#pot-${block.title.length})`}>
             {bands.map((b) => (
               <g key={b.i}>
@@ -708,7 +755,8 @@ function PotSection({ block }: { block: IllustBlock }) {
             {water && <rect x={0} y={waterTop} width={200} height={bottom - waterTop + 6} fill={C.water} opacity={0.55} />}
             {water && <line x1={0} y1={waterTop} x2={200} y2={waterTop} stroke={C.blue} strokeWidth={1.5} strokeDasharray="4 3" />}
           </g>
-          <path d={pot} fill="none" stroke="#b08a66" strokeWidth={4} strokeLinejoin="round" />
+          <path d={pot} fill="none" stroke={glass ? "#9fb6c8" : "#b08a66"} strokeWidth={glass ? 3 : 4} strokeLinejoin="round" opacity={glass ? 0.9 : 1} />
+          {glass && <line x1={40} y1={74} x2={40} y2={196} stroke="#fff" strokeWidth={3} opacity={0.8} strokeLinecap="round" />}
           {caudex && (
             <g>
               <ellipse cx={100} cy={72} rx={38} ry={32} fill="#8a6a4e" />
@@ -796,6 +844,19 @@ function RootsIcon({ type, seed }: { type: string; seed: number }) {
             <path d="M60 34 C58 24 60 16 64 8" stroke={C.leafD} strokeWidth={3} fill="none" />
           </>
         )}
+      </svg>
+    );
+  }
+  if (type === "base-rot") {
+    // 茎の付け根（土の際）が黒く軟らかくなっている
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[140px] rounded-xl" aria-hidden="true">
+        <rect width={120} height={120} rx={12} fill="#f7f3ec" />
+        <rect x={0} y={84} width={120} height={36} fill="#7a6149" />
+        <path d="M56 84 L56 30 L64 30 L64 84 Z" fill="#5f8f4e" />
+        <path d="M55 64 Q60 60 65 64 L66 88 L54 88 Z" fill="#2e2119" />
+        <ellipse cx={42} cy={30} rx={16} ry={8} transform="rotate(-20 42 30)" fill={C.leaf} />
+        <ellipse cx={78} cy={26} rx={16} ry={8} transform="rotate(20 78 26)" fill={C.leafD} />
       </svg>
     );
   }
@@ -1145,6 +1206,8 @@ export default function Illustration({ block }: { block: IllustBlock }) {
       return <Flow block={block} />;
     case "bars":
       return <Bars block={block} />;
+    case "branch":
+      return <Branch block={block} />;
     case "pot-section":
       return <PotSection block={block} />;
     case "roots":

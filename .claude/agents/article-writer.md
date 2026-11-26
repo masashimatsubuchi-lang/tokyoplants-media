@@ -226,6 +226,13 @@ baseProducts:
 - `pot-section`：層の種類に dry-soil（表面だけ乾いた層）、saucer="pebble"（小石を敷いた湿度トレーの上に鉢）。
 - `light-types`：2〜3タイプだけでも並べられる。
 
+2026-11-26の5回目の追加：
+- `branch`：問いから2〜3方向に分かれる判断の図。attrs の question="…" に問いを書く。列は「条件 | 結論 | 説明 | good/warning/neutral」。
+- `soil-grain`：mineral（溶岩石×ゼオライトなどの無機培地）。
+- `roots`：base-rot（茎の付け根が黒く軟らかい）。
+- `pot-section`：層に moss（水苔）を追加。pot="glass" でガラス容器。
+- **本文に残っているインラインstyleのHTML図解（`<div style="display:flex…">` など）は、同じ内容を illust で描けるなら illust に置き換える。** 描けないものはそのまま残し、報告する。
+
 使い分けの目安：1記事あたり key-facts 1 ＋ 他を合計3〜6個。同じブロックを連続で並べない。CharacterNote（2〜4箇所）とは併用する。従来のMarkdown表も引き続き使ってよいが、「数値を見せる」場面は stats、「順番がある」場面は steps、「複数を並べる」場面は cards を優先する。
 
 ## 電気代の計算に使う電力単価（2026-09-26確定）

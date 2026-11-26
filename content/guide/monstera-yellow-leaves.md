@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1769536205238-d7180c9936bd?w=1200&q=80
 title: "モンステラの葉が黄色いのは寿命？下葉1枚なら様子見、新葉なら過湿を疑う"
 description: "モンステラの葉が黄色くなる原因を、新葉と下葉の違いで見分ける方法を解説。過湿・根腐れ、低温、光量不足、肥料トラブルなど原因別のチェックリストと対処法がわかります。"
 date: "2026-09-11"
-updated: "2026-11-22"
+updated: "2026-11-26"
 category: "guide"
 tags: ["モンステラ", "黄変", "トラブル", "育て方", "根腐れ"]
 author: "tokyoplants 編集部"
@@ -53,23 +53,10 @@ amazonProducts:
 
 詳しい見分け方は以下で解説しますが、根腐れが強く疑われる場合は土の状態と根を最優先で確認してください。
 
-<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
-<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">黄色くなっているのはどの葉？</div>
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
-<span style="flex:1;min-width:140px;text-align:center">↙ 下葉が1枚だけ</span>
-<span style="flex:1;min-width:140px;text-align:center">↘ 新葉／複数枚同時</span>
-</div>
-<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
-<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
-<p style="margin:0;font-weight:700;color:#166534;font-size:14px">自然な老化・世代交代</p>
-<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">数週間かけてゆっくり進行／心配不要</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">要チェック：過湿・低温・光量・肥料のいずれか</p>
-<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">数日〜1週間で急速に進行することも。原因別チェックへ↓</p>
-</div>
-</div>
-</div>
+<!-- illust name="branch" title="まず、どの葉かで切り分ける" question="黄色くなっているのはどの葉？" -->
+- 下葉が1枚だけ | 自然な老化・世代交代 | 数週間かけてゆっくり進む。心配不要 | good
+- 新葉、または複数枚が同時に | 要チェック：過湿・低温・光量・肥料 | 数日〜1週間で急に進むことも。原因別のチェックへ | warning
+<!-- /illust -->
 
 ---
 
@@ -100,15 +87,34 @@ amazonProducts:
 
 ## 新葉が黄色くなる原因
 
-新葉（新しく展開したばかりの葉、または株の上部の若い葉）が黄色くなる場合は、老化ではなく管理環境の問題であるケースがほとんどです。原因を一つずつ確認していきましょう。
+新葉（新しく展開したばかりの葉、または株の上部の若い葉）が黄色くなる場合は、老化ではなく管理環境の問題であるケースがほとんどです。まず症状から当たりをつけ、原因を一つずつ確認していきましょう。
+
+<!-- illust name="leaf-check" title="新葉の症状と原因の目安" -->
+- 黄色く変色する | 過湿・根腐れ（最多） | yellow
+- しおれ・葉先が乾く | 水切れ・乾燥 | droop
+- 薄い色で展開する | 光量不足 | pale
+- 白っぽい黄〜茶の斑点 | 直射日光（葉焼け） | burn
+- 黄色く小さく展開 | 生育期の肥料切れ | small
+- 白い斑点状の変色 | ハダニ・カイガラムシ | mites
+<!-- /illust -->
 
 ### 1. 過湿による根のダメージ（最も多い原因）
 
-モンステラの黄変で最も多いのは、水のやりすぎによる根のダメージです。土が常に湿った状態が続くと根が酸素不足になり、水分や養分をうまく吸収できなくなって葉が黄色くなります。
+モンステラの黄変で最も多いのは、水のやりすぎによる根のダメージです。
 
-この場合、土は湿っているのに葉がしおれるという一見矛盾した症状が出ることもあります。
+<!-- illust name="flow" title="過湿で葉が黄色くなる流れ" tone="warning" -->
+- 土が常に湿ったまま | 水のやりすぎが続く
+- 根が酸素不足になる | 根が呼吸できない
+- 水分や養分を吸えない | 土は湿っているのに葉がしおれることも
+- 葉が黄色くなる
+<!-- /illust -->
 
-**チェック方法**：鉢から株を抜き、根の色を確認する。白〜クリーム色なら健全、茶色〜黒色でぶよぶよしていれば根腐れが進行しています。
+**チェック方法**：鉢から株を抜き、根の色を確認する。
+
+<!-- illust name="roots" title="抜いた根の見分け" -->
+- 健全な根 | 白〜クリーム色 | healthy
+- 根腐れが進行 | 茶色〜黒色でぶよぶよ | rotten
+<!-- /illust -->
 
 <!-- character-note character="shadee" type="warning" -->
 土の表面だけ見て「乾いているから大丈夫」と判断するのは危険だよ。モンステラは鉢の中の方が乾きにくいから、表面が乾いていても中はまだ湿っていることが多いんだ。指を第二関節くらいまで差し込んで確認する習慣をつけてね。
@@ -124,7 +130,13 @@ amazonProducts:
 
 光が足りないと、新葉が黄色っぽく薄い色で展開したり、葉柄が徒長したりします。逆に直射日光が強く当たりすぎると、葉焼けと黄変（白っぽい黄色〜茶色の斑点）が起こることもあります。
 
-**チェック方法**：置き場所がレースカーテン越しの明るい間接光かどうかを確認する。窓から2m以上離れている場合は光量不足の可能性が高くなります。
+<!-- illust name="room-zones" title="光の当たり方と置き場所" mode="light" -->
+- 直射が強く当たる窓際 | 葉焼けと黄変が起こることも | window
+- レースカーテン越し | 明るい間接光。基本の置き場所 | good
+- 窓から2m以上離れた場所 | 光量不足の可能性が高い | back
+<!-- /illust -->
+
+**チェック方法**：置き場所が図の2（レースカーテン越しの明るい間接光）になっているかを確認する。
 
 ### 4. 肥料不足・肥料過多
 
@@ -136,7 +148,18 @@ amazonProducts:
 
 気温が10℃を下回る状態が続くと、モンステラは生育が鈍り、葉が黄変・落葉することがあります。5℃を下回ると組織そのものに障害が出始めるため、冬場の窓際や暖房を切った部屋の冷え込みには注意が必要です。
 
-**チェック方法**：室温が10℃以上を保てているか確認する。特に夜間の窓際は冷気が伝わりやすいため、カーテンを閉める、窓から離すなどの対策が有効です。
+<!-- illust name="range" title="モンステラの冬の温度ライン" unit="℃" min="0" max="25" step="5" color="blue" -->
+- 緑葉種 | 5/10+ | 5℃未満で組織に障害が出始める
+- 斑入り品種 | 15+ | 緑葉種より寒さに弱い
+<!-- /illust -->
+
+**チェック方法**：室温が10℃以上を保てているか確認する。特に夜間の窓際は冷気が伝わりやすいため、置き場所を見直します。
+
+<!-- illust name="room-zones" title="冬の置き場所" -->
+- 夜の窓際 | 冷気が伝わる。カーテンを閉める | window
+- 窓から離した場所 | 室温10℃以上を保ちやすい | good
+- 暖房の吹き出し口の近く | 乾燥した温風で葉が傷む | heater
+<!-- /illust -->
 
 ### 6. 病害虫（ハダニ・カイガラムシなど）
 

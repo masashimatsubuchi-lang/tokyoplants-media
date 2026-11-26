@@ -70,7 +70,16 @@ export type ParsedBlock =
 export type OwnProductType = "soil" | "hydro" | "pot";
 
 export function stripTags(html: string): string {
-  return html.replace(/<[^>]+>/g, "").replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">").trim();
+  // remark は「<」を &#x3C; のような数値文字参照で出すことがあるので、それも戻す（図解の「<10」が消えていた）
+  return html
+    .replace(/<[^>]+>/g, "")
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, "&")
+    .trim();
 }
 
 function listItems(html: string): string[] {
