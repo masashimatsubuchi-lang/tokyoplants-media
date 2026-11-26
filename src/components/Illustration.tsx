@@ -7,23 +7,26 @@
  *   箇条書きは「|」で列に分ける。列の意味は図ごとに下のコメントのとおり。
  *
  * 図の一覧
- *   soil-grain     土の粒とすき間の比較（2〜3個）。列: ラベル | 説明 | fine/coarse/mixed | ours（任意）
+ *   soil-grain     土の粒とすき間の比較（2〜3個）。列: ラベル | 説明 | fine/coarse/mixed/grain-s/grain-m/grain-l | ours（任意）
+ *                  grain-s/m/l は同じ素材の粒の大きさ違い（矢印は粒のすき間の通り道）
  *   light-types    育成ライト4タイプの照らし方。列: タイプ名 | 説明 | bulb/clip/panel/bar
  *   light-distance 距離が2倍で明るさ約1/4。箇条書きなし。attrs: near="20cm" far="40cm"
  *   ppfd-scale     必要なPPFDの幅の比較（range の単位をPPFDにしたもの）
  *   range          数値の幅（温度・湿度など）。列: ラベル | 30-80 / 400-600+ / -5-10 / 5（1点） | 補足（任意）
+ *                  「<10」「10未満」は左端から10までの帯（下限を決めない）
  *                  「5/10+」と書くと、下限5の丸印と安全圏10以上の薄い棒を1行に重ねる
  *                  attrs: unit="℃" min max step target="200-350" target-label color="green|blue|amber|red"
  *   flow           原因→結果・手順の流れ。列: 見出し | 説明。attrs: tone="warning|good"
- *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
+ *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/dry-soil（表面だけ乾いた層）/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
  *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry/cut（腐った先と切る位置）
  *                  茎の断面 stem-ok / stem-bad、球茎・塊茎 tuber-firm / tuber-rot
  *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/back（部屋の奥）/heater/floor/high
  *                  attrs: mode="light" で窓際を日差し、heater をエアコンの風として描く（光・直射の話のとき）
  *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black/mold（白いカビ）/mites（ハダニのかすり状）
+ *                  leggy（徒長）/ small（新しい葉が小さい。薄く元の大きさを重ねる）/ purple（赤紫を帯びる）
  *                  ビカクシダの胞子葉の向き: antler-down（垂れる＝光は足りている）/ antler-up（立ち上がる＝光が足りない）
  *   bars           0から伸ばす横棒（電気代・価格など）。列: ラベル | 数値 | 補足。attrs: unit="円" prefix="約" max color
- *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、roots="small" で根が中心だけ（大きすぎる鉢）
+ *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、saucer="pebble" で湿度トレー（小石の上に鉢）、roots="small" で根が中心だけ（大きすぎる鉢）
  */
 import type { ParsedBlock } from "@/lib/articleBlocks";
 
@@ -135,9 +138,13 @@ function SoilCircle({ type, ours, seed }: { type: string; ours: boolean; seed: n
     );
   } else {
     const isMixed = type === "mixed";
+    // grain-s / grain-m / grain-l は同じ素材で粒の大きさだけを変えた見本
+    const size = type === "grain-s" ? [5, 8] : type === "grain-m" ? [9, 13] : type === "grain-l" ? [15, 22] : null;
     const grains = isMixed
       ? placeGrains(seed, 40, 10, 17, 3.5, ["chip", "stone", "bark", "chip", "stone"])
-      : placeGrains(seed, 40, 12, 19, 3.5, ["chip", "stone"]);
+      : size
+        ? placeGrains(seed, 200, size[0], size[1], size[0] * 0.3, ["chip"])
+        : placeGrains(seed, 40, 12, 19, 3.5, ["chip", "stone"]);
     const small: React.ReactNode[] = [];
     const drops: React.ReactNode[] = [];
     if (isMixed) {
@@ -320,7 +327,7 @@ function LightTypes({ block }: { block: IllustBlock }) {
   const rows = block.rows.filter((r) => r[0]);
   return (
     <Frame block={block}>
-      <div className="grid grid-cols-2 gap-x-3 gap-y-5 sm:grid-cols-4">
+      <div className={`grid gap-x-3 gap-y-5 ${rows.length === 3 ? "grid-cols-3" : rows.length === 2 ? "grid-cols-2" : "grid-cols-2 sm:grid-cols-4"}`}>
         {rows.map((r, i) => (
           <div key={i} className="text-center">
             <svg viewBox="0 0 120 104" className="mx-auto block w-full max-w-[150px] rounded-xl bg-white/70" aria-hidden="true">
@@ -381,8 +388,14 @@ function LightDistance({ block }: { block: IllustBlock }) {
  *   値は「150-300」「400-600+」「-5-10」「5」（1点は丸印）。「以上」「+」で右端まで伸ばす
  * attrs: unit / min / max / step / target="200-350" / target-label / color="green|blue|amber|red"
  */
-type Range = { min: number; max: number; open: boolean; point: boolean; safe?: Range | null };
+type Range = { min: number; max: number; open: boolean; point: boolean; safe?: Range | null; openLow?: boolean };
 function parseRange(s: string): Range | null {
+  // 「<10」「10未満」= 左端から10まで（下限を決めない帯）
+  const low = s.replace(/[℃%]/g, "").trim().match(/^(?:<\s*(-?\d+(?:\.\d+)?)|(-?\d+(?:\.\d+)?)\s*未満)$/);
+  if (low) {
+    const v = Number(low[1] ?? low[2]);
+    return { min: v, max: v, open: false, point: false, openLow: true };
+  }
   // 「5/10+」= 下限の丸印5と、安全圏10以上の棒を同じ行に描く
   if (s.includes("/")) {
     const [a, b] = s.split("/");
@@ -418,14 +431,19 @@ function RangeBars({ block, defaultUnit = "" }: { block: IllustBlock; defaultUni
   const step = Number(block.attrs.step) || niceStep(hi - lo);
   const ticks: number[] = [];
   for (let t = Math.ceil(lo / step) * step; t <= hi + 1e-9; t += step) ticks.push(Math.round(t * 100) / 100);
+  // 桁の大きい目盛りはスマホ幅で重なるので、文字数の合計が多いときは1つおきに間引く
+  const tickChars = ticks.reduce((n, t) => n + t.toLocaleString("ja-JP").length + 1, 0);
+  const shownTicks = tickChars > 26 ? ticks.filter((_, i) => i % 2 === 0) : ticks;
   const target = block.attrs.target ? parseRange(block.attrs.target) : null;
   const color = RANGE_COLORS[block.attrs.color ?? "green"] ?? RANGE_COLORS.green;
   const hasSafe = rows.some((r) => r.p!.safe);
   const pos = (v: number) => Math.max(0, Math.min(100, ((v - lo) / (hi - lo)) * 100));
   const pct = (v: number) => `${pos(v)}%`;
+  const n = (v: number) => v.toLocaleString("ja-JP");
   const fmt = (r: (typeof rows)[number]) => {
-    const p = r.p!;
+    const p = { ...r.p!, min: n(r.p!.min), max: n(r.p!.max), safe: r.p!.safe ? { ...r.p!.safe, min: n(r.p!.safe.min), max: n(r.p!.safe.max) } : null };
     const u = unitSuffix(unit);
+    if (p.openLow) return `${p.max}${u}未満`;
     if (p.safe) {
       const low = p.min === p.max ? `${p.min}${u}` : `${p.min}〜${p.max}${u}`;
       return `下限${low}・安全圏${p.safe.min}${u}${p.safe.open ? "以上" : `〜${p.safe.max}${u}`}`;
@@ -493,10 +511,14 @@ function RangeBars({ block, defaultUnit = "" }: { block: IllustBlock; defaultUni
                 <span
                   className="absolute inset-y-0 block rounded-full"
                   style={{
-                    left: pct(r.p!.min),
-                    width: r.p!.open ? `${100 - pos(r.p!.min)}%` : `${pos(r.p!.max) - pos(r.p!.min)}%`,
+                    left: r.p!.openLow ? "0%" : pct(r.p!.min),
+                    width: r.p!.openLow ? `${pos(r.p!.max)}%` : r.p!.open ? `${100 - pos(r.p!.min)}%` : `${pos(r.p!.max) - pos(r.p!.min)}%`,
                     minWidth: 8,
-                    background: r.p!.open ? `linear-gradient(90deg,${color},${color} 60%,${color}26)` : color,
+                    background: r.p!.openLow
+                      ? `linear-gradient(90deg,${color}26,${color} 40%,${color})`
+                      : r.p!.open
+                        ? `linear-gradient(90deg,${color},${color} 60%,${color}26)`
+                        : color,
                   }}
                 />
               )}
@@ -506,9 +528,9 @@ function RangeBars({ block, defaultUnit = "" }: { block: IllustBlock; defaultUni
         <div className="grid grid-cols-[7.5rem_1fr] gap-2 sm:grid-cols-[10rem_1fr]">
           <p className="text-right text-[10px] text-zinc-400">{unit}</p>
           <div className="relative h-4">
-            {ticks.map((t) => (
+            {shownTicks.map((t) => (
               <span key={t} className="absolute -translate-x-1/2 text-[10px] text-zinc-400" style={{ left: pct(t) }}>
-                {t}
+                {t.toLocaleString("ja-JP")}
               </span>
             ))}
           </div>
@@ -593,14 +615,14 @@ function Flow({ block }: { block: IllustBlock }) {
  *   water は層ではなく、鉢底からの水位として重ねる（比は鉢の高さに対する割合 0〜1、既定0.2）
  * attrs: hole="false" で鉢底穴なし
  */
-const LAYER_FILL: Record<string, string> = { charcoal: "#2a2725", soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
+const LAYER_FILL: Record<string, string> = { charcoal: "#2a2725", "dry-soil": "#b39a7c", soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
 
 function LayerTexture({ type, y, h, seed }: { type: string; y: number; h: number; seed: number }) {
   const rand = rng(seed);
   const out: React.ReactNode[] = [];
   if (type === "charcoal") {
     for (let i = 0; i < Math.round(h * 3); i++) out.push(<rect key={i} x={24 + rand() * 152} y={y + rand() * h} width={3 + rand() * 3} height={1.5} fill="#4a4542" />);
-  } else if (type === "soil") {
+  } else if (type === "soil" || type === "dry-soil") {
     for (let i = 0; i < Math.round(h * 2.2); i++) out.push(<circle key={i} cx={30 + rand() * 140} cy={y + rand() * h} r={1 + rand() * 1.4} fill={rand() < 0.5 ? "#5a4635" : "#7d644c"} />);
   } else if (type === "stone" || type === "hydro" || type === "mulch") {
     const r = type === "mulch" ? 4.5 : 5.5;
@@ -623,7 +645,7 @@ function PotSection({ block }: { block: IllustBlock }) {
   const water = block.rows.find((r) => r[2] === "water");
   const hole = block.attrs.hole !== "false";
   const caudex = block.attrs.plant === "caudex";
-  const saucer = block.attrs.saucer;
+  const saucer = block.attrs.saucer; // "dry" 受け皿だけ / "water" 受け皿に水が溜まっている / "pebble" 小石を敷いた湿度トレーの上
   const smallRoots = block.attrs.roots === "small"; // "dry" = 受け皿だけ / "water" = 受け皿に水が溜まっている
   const top = 70;
   const bottom = 206;
@@ -701,7 +723,16 @@ function PotSection({ block }: { block: IllustBlock }) {
               <path d="M100 214 L100 220" stroke={C.blue} strokeWidth={2} strokeLinecap="round" />
             </>
           ) : null}
-          {saucer && (
+          {saucer === "pebble" && (
+            <>
+              <path d="M8 206 L192 206 L186 221 L14 221 Z" fill="#cdbfae" />
+              <rect x={14} y={213} width={172} height={7} fill={C.water} />
+              {Array.from({ length: 22 }, (_, i) => (
+                <circle key={i} cx={18 + i * 7.8} cy={211 + (i % 2) * 2} r={4} fill={i % 3 ? "#d6cdbb" : "#bfb49e"} />
+              ))}
+            </>
+          )}
+          {saucer && saucer !== "pebble" && (
             <>
               <path d="M22 212 L178 212 L172 221 L28 221 Z" fill="#cdbfae" />
               {saucer === "water" && <rect x={30} y={212} width={140} height={6} fill={C.water} />}
@@ -724,6 +755,7 @@ function PotSection({ block }: { block: IllustBlock }) {
           {!hole && <li className="text-[11.5px] text-zinc-500">※鉢底穴のない鉢</li>}
           {caudex && <li className="text-[11.5px] text-zinc-500">※点線が土の表面</li>}
           {saucer === "water" && <li className="text-[11.5px] text-zinc-500">※受け皿に水が溜まったまま</li>}
+          {saucer === "pebble" && <li className="text-[11.5px] text-zinc-500">※鉢底は小石の上。水に浸からない</li>}
           {smallRoots && <li className="text-[11.5px] text-zinc-500">※青い部分は根の届かない、湿ったままの土</li>}
         </ul>
       </div>
@@ -977,7 +1009,7 @@ function RoomZones({ block }: { block: IllustBlock }) {
 const LEAF_PATH = "M60 108 C26 92 14 58 30 26 C42 6 78 6 90 26 C106 58 94 92 60 108 Z";
 function LeafIcon({ type, idx }: { type: string; idx: number }) {
   const id = `leaf-${idx}-${type}`;
-  const base = type === "yellow" ? "#d9c24f" : type === "pale" ? "#a9c98f" : C.leaf;
+  const base = type === "yellow" ? "#d9c24f" : type === "pale" || type === "leggy" ? "#a9c98f" : type === "purple" ? "#7d5a72" : C.leaf;
   const leaf = (
     <>
       <defs>
@@ -1013,6 +1045,28 @@ function LeafIcon({ type, idx }: { type: string; idx: number }) {
       <path d="M60 108 L60 20" stroke="#2f5e3b" strokeWidth={2} opacity={type === "pale" ? 0.4 : 0.7} />
     </>
   );
+  if (type === "leggy") {
+    // 徒長：節と節の間が長く伸び、葉が小さく色が薄い
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[110px]" aria-hidden="true">
+        <path d="M60 116 C58 90 64 60 58 8" stroke="#8fb07a" strokeWidth={2.5} fill="none" />
+        {[96, 64, 34, 12].map((y, i) => (
+          <ellipse key={i} cx={i % 2 ? 46 : 74} cy={y} rx={11} ry={5} transform={`rotate(${i % 2 ? -25 : 25} ${i % 2 ? 46 : 74} ${y})`} fill="#a9c98f" />
+        ))}
+        <g stroke="#71717a" strokeWidth={1.2}>
+          <path d="M92 96 L92 64 M88 92 l4 4 l4 -4 M88 68 l4 -4 l4 4" fill="none" />
+        </g>
+      </svg>
+    );
+  }
+  if (type === "small") {
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[110px]" aria-hidden="true">
+        <g transform="translate(18 30) scale(0.45)">{leaf}</g>
+        <g transform="translate(58 6) scale(0.85)" opacity={0.25}>{leaf}</g>
+      </svg>
+    );
+  }
   if (type === "antler-down" || type === "antler-up") {
     const up = type === "antler-up";
     const fronds = up
