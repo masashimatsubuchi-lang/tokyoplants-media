@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1640924417677-285594eeef10?w=1200&q=80
 title: "モンステラの葉に茶色い斑点が出る原因と対処法"
 description: "モンステラの葉に現れる茶色い斑点の原因を、葉焼け・根腐れ・病気・水切れ・害虫の5パターンに分けて解説。斑点の形・広がり方での見分け方と、それぞれの対処法を紹介します。"
 date: "2026-09-02"
+updated: "2026-11-27"
 category: "guide"
 tags: ["モンステラ", "茶色い斑点", "トラブル", "葉焼け", "病気"]
 author: "tokyoplants 編集部"
@@ -41,43 +42,17 @@ amazonProducts:
 
 <mark>モンステラの茶色い斑点は「斑点の形」「発生場所」「広がり方」の3点を観察すれば、多くの場合原因を絞り込めます。</mark>
 
-主な原因と見分け方の要点は次の通りです。
+主な原因と見分け方の要点は次の図の通りです。
 
-| 原因 | 斑点の特徴 |
-|------|-----------|
-| 葉焼け | 光が当たる面に集中、パリパリした質感 |
-| 根腐れ・過湿 | 下葉から黄変を伴い、水っぽく柔らかい |
-| 病気（斑点病など） | 不規則な形、周囲に黄色いハロー（輪）ができることが多い |
-| 水切れ | 葉の縁・先端から乾いたように茶色くなる |
-| 害虫（ハダニなど） | 細かい斑点が葉全体に散らばる、糸状のものが見える場合も |
+<!-- illust name="leaf-check" title="斑点の出方と原因" -->
+- 光の当たる面にパリパリの斑点 | 葉焼け | burn
+- 下葉から黄変・水っぽく柔らかい | 根腐れ・過湿 | yellow
+- 不規則な形・黄色いハロー | 病気（斑点病など） | spots
+- 縁・先端から乾いて茶色 | 水切れ | brown-tip
+- 細かい斑点が全体に散る | 害虫（ハダニなど） | mites
+<!-- /illust -->
 
 まず全体像を確認し、該当する原因のセクションを参照してください。
-
-<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
-<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">茶色い斑点はどこに、どんな形で出ている？</div>
-<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center;margin-top:0.75rem">
-<div style="flex:1;min-width:220px;border:2px solid #ea580c;border-radius:0.75rem;padding:0.75rem;background:#fff7ed;text-align:center">
-<p style="margin:0;font-weight:700;color:#9a3412;font-size:14px">光が当たる面に集中／パリパリ</p>
-<p style="margin:4px 0 0;font-size:12px;color:#c2410c">→ 葉焼け</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">下葉から黄変／水っぽく柔らかい</p>
-<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">→ 根腐れ・過湿</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #9333ea;border-radius:0.75rem;padding:0.75rem;background:#faf5ff;text-align:center">
-<p style="margin:0;font-weight:700;color:#6b21a8;font-size:14px">不規則な形／黄色いハロー</p>
-<p style="margin:4px 0 0;font-size:12px;color:#7e22ce">→ 病気（斑点病など）</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #2563eb;border-radius:0.75rem;padding:0.75rem;background:#eff6ff;text-align:center">
-<p style="margin:0;font-weight:700;color:#1e40af;font-size:14px">縁・先端から乾いたように茶色</p>
-<p style="margin:4px 0 0;font-size:12px;color:#1d4ed8">→ 水切れ</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
-<p style="margin:0;font-weight:700;color:#166534;font-size:14px">細かい斑点が全体に散らばる</p>
-<p style="margin:4px 0 0;font-size:12px;color:#15803d">→ 害虫（ハダニなど）</p>
-</div>
-</div>
-</div>
 
 ## 理由・仕組み
 
@@ -91,7 +66,16 @@ amazonProducts:
 
 ### 病気（斑点病・炭疽病など）
 
-湿度が高く風通しの悪い環境が続くと、糸状菌（カビ）による斑点病が発生することがあります。この場合の斑点は不規則な形をしており、周囲に黄色い輪（ハロー）ができることが多いのが特徴です。進行すると斑点同士がつながり、葉全体に広がっていきます。病気による斑点は放置すると株全体に感染が広がるため、早期の対処が必要です。
+湿度が高く風通しの悪い環境が続くと、糸状菌（カビ）による斑点病が発生することがあります。斑点は不規則な形で、周囲に黄色い輪（ハロー）ができることが多いのが特徴です。
+
+<!-- illust name="flow" title="斑点病が広がる流れ" tone="warning" -->
+- 高湿度・風通しの悪さが続く | 糸状菌（カビ）が発生しやすい
+- 不規則な斑点が出る | 周囲に黄色い輪（ハロー）
+- 斑点同士がつながる | 葉全体に広がる
+- 株全体に感染が広がる | 放置した場合
+<!-- /illust -->
+
+放置すると株全体に広がるため、早期の対処が必要です。
 
 ### 水切れによる斑点
 
@@ -109,11 +93,26 @@ amazonProducts:
 
 ### ステップ2：根の状態を確認する
 
-下葉からの黄変や、土の異臭、鉢の重さに違和感がある場合は根腐れの可能性が高いです。鉢から株を抜いて根の色を確認し、黒く変色していれば傷んだ部分を切除して排水性の高い用土に植え替えます。詳しい手順は「[観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)」を参照してください。
+下葉からの黄変や、土の異臭、鉢の重さに違和感がある場合は根腐れの可能性が高いです。鉢から株を抜いて根の色を確認します。
+
+<!-- illust name="roots" title="抜いた根の見分け" -->
+- 傷んでいない根 | 切らずに残す | healthy
+- 黒く変色した根 | 根腐れのサイン | rotten
+- 傷んだ部分を切る | 切除して植え替え | cut
+<!-- /illust -->
+
+黒く変色した部分を切除したら、排水性の高い用土に植え替えます。詳しい手順は「[観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)」を参照してください。
 
 ### ステップ3：置き場所を見直す
 
-斑点が光の当たる面に集中している場合は葉焼けです。すぐに直射日光の当たらない場所へ移動し、レースカーテン越しの明るい場所で管理してください。焼けた葉自体は元に戻りませんが、新しい葉には影響しません。
+斑点が光の当たる面に集中している場合は葉焼けです。すぐに移動させてください。
+
+<!-- illust name="room-zones" title="葉焼けしたときの移し先" mode="light" -->
+- 直射日光・夏の西日が当たる窓際 | 葉焼けが起きやすい | window
+- レースカーテン越しの明るい場所 | ここへ移して管理する | good
+<!-- /illust -->
+
+焼けた葉自体は元に戻りませんが、新しい葉には影響しません。
 
 ### ステップ4：病気の可能性を確認する
 
