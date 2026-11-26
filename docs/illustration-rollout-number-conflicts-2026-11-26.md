@@ -244,3 +244,70 @@
 
 ### フロリダビューティー（species/philodendron-florida-beauty）
 - 理想の置き場所に「西向きのカーテン越し」がある一方、温度の節は「真夏の西日は避けて」。
+
+## 76〜95位で見つかったもの
+
+### ウィリンキー（species/platycerium-willinckii）
+- 子株を分ける目安が2通りある。
+  - トラブル節：貯水葉3枚以上
+  - 増やし方の節：2〜3枚以上
+
+### エルチョコレッド（species/philodendron-el-choco-red）
+- 「日本の一般的な室内（40〜60%）でも育てられます」とある。
+- 湿度50%以上を目標とするルールと照らして、書き方を確認する。
+
+### リドレイのPPFD（優先度：高）
+- 図鑑（species/platycerium-ridleyi）：150〜300。
+- ライト記事（guide/platycerium-grow-light-guide）の図と本文：300〜500。
+- 2つの範囲は重ならない。ライト記事の図は、ライト記事の本文から作ったもの。
+
+### ステファニアの芽吹きの温度
+- 冬越しの記事と guide/stephania-dormancy-and-sprouting：20℃以上。
+- guide/stephania-kaweesakii-care の201行目：「15℃以上の日が続くまで」。
+
+### グロリオーサム（species/philodendron-gloriosum）の湿度
+- 理想は60〜80%、トラブル表の対処欄は「60〜70%に上げ」。
+- 50%を下回ったときの症状が箇所によって違う。
+  - key-facts：葉縁が枯れる
+  - stats：新葉が展開不良
+
+### ステファニアの適温（属と種の食い違い）
+| 記事 | 生育適温 | 休眠に入る温度 |
+|---|---|---|
+| species/genus-stephania | 22〜30℃ | 15℃を下回ると |
+| species/stephania-erecta | 15〜35℃ | 10℃以下 |
+
+### ノビリス（species/alocasia-nobillis）
+- 適温
+  - ノビリス：20〜28℃
+  - 母種（species/alocasia-sanderiana）：18〜30℃
+- 植え替え時期が記事の中で2通りある。
+  - 用土の節：5〜6月
+  - トラブルのカード：5〜8月
+
+### 土の乾き具合（soil/how-to-check-soil-dryness）
+指で確かめられる深さが2通りある。
+- stats：約3cm
+- 結論・カード：2〜3cm
+
+### 根腐れの科学（research/root-rot-mechanism-science）
+ファクトチェックの候補。
+- 「38 ATP」は古い理論値。現在は約30〜32とされることが多い。
+- AFPの概算値とフェーズの期間に出典がない。
+- 「壊死した根細胞がエチレンを大量に放出」は要確認。
+
+### ビロード系アンスリウムの比較（species/velvet-anthurium-types-comparison）
+- フォルゲティの葉の形が、個別記事と根本から違う。優先度：高（同定の誤りの疑い）。
+  - この記事：細長い披針形、魚骨状の銀脈、20〜45cm
+  - species/anthurium-forgetii：丸い盾状（頂裂なし）、シルバーの斑点、15〜30cm
+- 「一般的な室内湿度」が2通りある。
+  - 結論・クラリネルビウムの節：50〜70%
+  - ワロクアーナムの節・加湿器の説明：40〜50%
+- ワロクアーナムの湿度
+  - この記事：常時80%以上
+  - 専用記事：70〜80%以上
+
+### アズラニー（species/alocasia-azlanii）
+- トラブル欄「冬に葉が全部落ちた」の原因と対処が噛み合わない。
+  - 原因：低温による休眠
+  - 対処：18℃以上を保って春を待つ

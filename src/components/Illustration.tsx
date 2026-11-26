@@ -22,7 +22,8 @@
  *                  茎の断面 stem-ok / stem-bad、球茎・塊茎 tuber-firm / tuber-rot
  *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/back（部屋の奥）/heater/floor/high
  *                  attrs: mode="light" で窓際を日差し、heater をエアコンの風として描く（光・直射の話のとき）
- *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black/mold（白いカビ）/mites（ハダニのかすり状）
+ *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black/mold（白いカビ）/mites（ハダニのかすり状）/black-tip（葉先が黒く枯れる）/bud-rot（新芽が黒く溶ける）
+ *                  curl は内側に巻く。curl-out（縁が外側へ反る）/ wavy（縁・葉先が波打つ）
  *                  leggy（徒長）/ small（新しい葉が小さい。薄く元の大きさを重ねる）/ purple（赤紫を帯びる）
  *                  ビカクシダの胞子葉の向き: antler-down（垂れる＝光は足りている）/ antler-up（立ち上がる＝光が足りない）
  *   branch         問いから分かれる判断の図。attrs: question。列: 条件 | 結論 | 説明 | good/warning/neutral
@@ -1081,6 +1082,7 @@ function LeafIcon({ type, idx }: { type: string; idx: number }) {
       <path d={LEAF_PATH} fill={base} />
       <g clipPath={`url(#${id})`}>
         {type === "brown-tip" && <path d="M0 0 L120 0 L120 28 Q60 40 0 28 Z" fill="#9a6a3c" />}
+        {type === "black-tip" && <path d="M0 0 L120 0 L120 30 Q60 42 0 30 Z" fill="#2e2620" />}
         {type === "yellow" && <path d="M0 70 L120 70 L120 120 L0 120 Z" fill="#c9a640" opacity={0.6} />}
         {type === "spots" &&
           [
@@ -1106,6 +1108,35 @@ function LeafIcon({ type, idx }: { type: string; idx: number }) {
       <path d="M60 108 L60 20" stroke="#2f5e3b" strokeWidth={2} opacity={type === "pale" ? 0.4 : 0.7} />
     </>
   );
+  if (type === "curl-out" || type === "wavy") {
+    // curl-out：縁が外側（裏側）へ反る。wavy：葉先・縁が波打つ
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[110px]" aria-hidden="true">
+        {type === "curl-out" ? (
+          <>
+            <path d="M60 108 C30 96 22 60 34 28 C44 10 76 10 86 28 C98 60 90 96 60 108 Z" fill={C.leaf} />
+            <path d="M34 28 C26 56 28 86 44 102 L36 104 C18 86 16 52 28 24 Z" fill="#9cc48a" />
+            <path d="M86 28 C94 56 92 86 76 102 L84 104 C102 86 104 52 92 24 Z" fill="#9cc48a" />
+          </>
+        ) : (
+          <path d="M60 108 C40 100 26 86 24 66 q6 -6 2 -12 q-6 -6 2 -14 q6 -6 4 -14 C40 14 52 8 60 8 C68 8 80 14 86 26 q-2 8 4 14 q8 8 2 14 q-4 6 2 12 C92 86 80 100 60 108 Z" fill={C.leaf} />
+        )}
+        <path d="M60 108 L60 20" stroke="#2f5e3b" strokeWidth={2} opacity={0.7} />
+      </svg>
+    );
+  }
+  if (type === "bud-rot") {
+    // 新芽・成長点が黒く溶ける
+    return (
+      <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[110px]" aria-hidden="true">
+        <path d="M60 118 L60 52" stroke={C.leafD} strokeWidth={4} />
+        <ellipse cx={36} cy={74} rx={22} ry={10} transform="rotate(-25 36 74)" fill={C.leaf} />
+        <ellipse cx={84} cy={70} rx={22} ry={10} transform="rotate(25 84 70)" fill={C.leafD} />
+        <path d="M52 52 C50 36 56 24 62 18 C68 26 70 40 66 52 Z" fill="#2e2620" />
+        <path d="M54 54 q6 6 12 0" stroke="#2e2620" strokeWidth={3} fill="none" />
+      </svg>
+    );
+  }
   if (type === "leggy") {
     // 徒長：節と節の間が長く伸び、葉が小さく色が薄い
     return (

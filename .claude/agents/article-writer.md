@@ -231,6 +231,7 @@ baseProducts:
 - `soil-grain`：mineral（溶岩石×ゼオライトなどの無機培地）。
 - `roots`：base-rot（茎の付け根が黒く軟らかい）。
 - `pot-section`：層に moss（水苔）を追加。pot="glass" でガラス容器。
+- `leaf-check`：black-tip（葉先が黒く枯れる）、bud-rot（新芽が黒く溶ける）、curl-out（縁が外側へ反る）、wavy（縁・葉先が波打つ）を追加。curl は内側に巻く形。
 - **本文に残っているインラインstyleのHTML図解（`<div style="display:flex…">` など）は、同じ内容を illust で描けるなら illust に置き換える。** 描けないものはそのまま残し、報告する。
 
 使い分けの目安：1記事あたり key-facts 1 ＋ 他を合計3〜6個。同じブロックを連続で並べない。CharacterNote（2〜4箇所）とは併用する。従来のMarkdown表も引き続き使ってよいが、「数値を見せる」場面は stats、「順番がある」場面は steps、「複数を並べる」場面は cards を優先する。
