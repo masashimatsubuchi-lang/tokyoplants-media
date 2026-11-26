@@ -7,7 +7,7 @@
  *   箇条書きは「|」で列に分ける。列の意味は図ごとに下のコメントのとおり。
  *
  * 図の一覧
- *   soil-grain     土の粒とすき間の比較（2〜3個）。列: ラベル | 説明 | fine/coarse/mixed/mineral（溶岩石×ゼオライト）/grain-s/grain-m/grain-l | ours（任意）
+ *   soil-grain     土の粒とすき間の比較（2〜3個）。列: ラベル | 説明 | fine/coarse/mixed/mineral（溶岩石×ゼオライト）/leca（球形のハイドロボール）/grain-s/grain-m/grain-l | ours（任意）
  *                  grain-s/m/l は同じ素材の粒の大きさ違い（矢印は粒のすき間の通り道）
  *   light-types    育成ライト4タイプの照らし方。列: タイプ名 | 説明 | bulb/clip/panel/bar
  *   light-distance 距離が2倍で明るさ約1/4。箇条書きなし。attrs: near="20cm" far="40cm"
@@ -19,7 +19,7 @@
  *   flow           原因→結果・手順の流れ。列: 見出し | 説明。attrs: tone="warning|good"
  *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/dry-soil（表面だけ乾いた層）/moss（水苔）/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
  *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry/cut（腐った先と切る位置）/base-rot（茎の付け根が黒く軟らかい）
- *                  茎の断面 stem-ok / stem-bad、球茎・塊茎 tuber-firm / tuber-rot
+ *                  茎の断面 stem-ok / stem-bad、球茎・塊茎 tuber-firm / tuber-rot / tuber-dry（水切れで縮んだ）
  *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/back（部屋の奥）/heater/floor/high
  *                  attrs: mode="light" で窓際を日差し、heater をエアコンの風として描く（光・直射の話のとき）
  *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black/mold（白いカビ）/mites（ハダニのかすり状）/black-tip（葉先が黒く枯れる）/bud-rot（新芽が黒く溶ける）
@@ -28,7 +28,7 @@
  *                  ビカクシダの胞子葉の向き: antler-down（垂れる＝光は足りている）/ antler-up（立ち上がる＝光が足りない）
  *   branch         問いから分かれる判断の図。attrs: question。列: 条件 | 結論 | 説明 | good/warning/neutral
  *   bars           0から伸ばす横棒（電気代・価格など）。列: ラベル | 数値 | 補足。attrs: unit="円" prefix="約" max color
- *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、saucer="pebble" で湿度トレー（小石の上に鉢）、pot="glass" でガラス容器、roots="small" で根が中心だけ（大きすぎる鉢）
+ *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、saucer="pebble" で湿度トレー（小石の上に鉢）、pot="glass" でガラス容器（lid="true" でふた付き＝密閉）、roots="small" で根が中心だけ（大きすぎる鉢）
  */
 import type { ParsedBlock } from "@/lib/articleBlocks";
 
@@ -145,7 +145,9 @@ function SoilCircle({ type, ours, seed }: { type: string; ours: boolean; seed: n
     const mineral = type === "mineral";
     const grains = isMixed
       ? placeGrains(seed, 40, 10, 17, 3.5, ["chip", "stone", "bark", "chip", "stone"])
-      : mineral
+      : type === "leca"
+        ? placeGrains(seed, 30, 13, 17, 4, ["stone"]).map((g) => ({ ...g, ry: g.rx, fill: "#b5674a" }))
+        : mineral
         ? placeGrains(seed, 40, 11, 17, 4, ["stone"]).map((g, i) => ({ ...g, fill: i % 3 === 0 ? "#e6e1d6" : i % 2 ? "#9a5a44" : "#7f4a37" }))
         : size
         ? placeGrains(seed, 200, size[0], size[1], size[0] * 0.3, ["chip"])
@@ -702,7 +704,8 @@ function PotSection({ block }: { block: IllustBlock }) {
   const waterRatio = water ? Math.min(1, Number(water[3]) || 0.2) : 0;
   const waterTop = bottom - waterRatio * (bottom - top);
   const glass = block.attrs.pot === "glass";
-  const pot = glass ? "M30 64 L170 64 L170 210 L30 210 Z" : "M18 64 L182 64 L164 210 L36 210 Z";
+  // ガラス容器は植物まで収まる背の高い瓶として描く
+  const pot = glass ? "M30 8 L170 8 L170 210 L30 210 Z" : "M18 64 L182 64 L164 210 L36 210 Z";
   const swatch = (t: string) => (t === "water" ? C.water : LAYER_FILL[t] ?? "#6b5440");
   return (
     <Frame block={block}>
@@ -735,7 +738,7 @@ function PotSection({ block }: { block: IllustBlock }) {
               <circle cx={100} cy={6} r={8} fill={C.leaf} />
             </>
           )}
-          <path d={pot} fill={glass ? "#eef4f6" : "#d9b796"} />
+          <path d={pot} fill={glass ? "#dfeaf0" : "#d9b796"} fillOpacity={glass ? 0.35 : 1} />
           <g clipPath={`url(#pot-${block.title.length})`}>
             {bands.map((b) => (
               <g key={b.i}>
@@ -758,6 +761,7 @@ function PotSection({ block }: { block: IllustBlock }) {
           </g>
           <path d={pot} fill="none" stroke={glass ? "#9fb6c8" : "#b08a66"} strokeWidth={glass ? 3 : 4} strokeLinejoin="round" opacity={glass ? 0.9 : 1} />
           {glass && <line x1={40} y1={74} x2={40} y2={196} stroke="#fff" strokeWidth={3} opacity={0.8} strokeLinecap="round" />}
+          {glass && block.attrs.lid === "true" && <rect x={24} y={1} width={152} height={8} rx={3} fill="#c9d9e3" stroke="#9fb6c8" />}
           {caudex && (
             <g>
               <ellipse cx={100} cy={72} rx={38} ry={32} fill="#8a6a4e" />
@@ -816,9 +820,10 @@ function PotSection({ block }: { block: IllustBlock }) {
  * 根の状態の見分け。列: ラベル | 説明 | healthy/rotten/bound/dry
  */
 function RootsIcon({ type, seed }: { type: string; seed: number }) {
-  if (type === "stem-ok" || type === "stem-bad" || type === "tuber-firm" || type === "tuber-rot") {
+  if (type === "stem-ok" || type === "stem-bad" || type === "tuber-firm" || type === "tuber-rot" || type === "tuber-dry") {
     const stem = type.startsWith("stem");
     const bad = type === "stem-bad" || type === "tuber-rot";
+    const dry = type === "tuber-dry";
     return (
       <svg viewBox="0 0 120 120" className="mx-auto block w-full max-w-[140px] rounded-xl" aria-hidden="true">
         <rect width={120} height={120} rx={12} fill="#f7f3ec" />
@@ -830,8 +835,14 @@ function RootsIcon({ type, seed }: { type: string; seed: number }) {
           </>
         ) : (
           <>
-            <ellipse cx={60} cy={66} rx={38} ry={32} fill={bad ? "#6b5141" : "#9b7a58"} />
-            {bad ? (
+            <ellipse cx={60} cy={66} rx={dry ? 32 : 38} ry={dry ? 26 : 32} fill={bad ? "#6b5141" : dry ? "#b39a7c" : "#9b7a58"} />
+            {dry ? (
+              <g stroke="#8a7158" strokeWidth={1.6} fill="none" strokeLinecap="round">
+                <path d="M38 56 q10 4 20 0 q10 -4 22 2" />
+                <path d="M36 68 q12 5 24 0 q12 -5 24 1" />
+                <path d="M40 80 q10 4 20 0 q10 -4 20 1" />
+              </g>
+            ) : bad ? (
               <>
                 <ellipse cx={48} cy={74} rx={14} ry={10} fill="#3d2c22" />
                 <g stroke="#a08a72" strokeWidth={1.4} fill="none">
