@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1778472259927-74bab16a5a71?w=800&q=80"
 title: "パキラの葉が落ちる・黄色い原因｜季節別の見分け方"
 description: "パキラの葉が落ちる・黄色くなる原因を季節別に解説。冬の自然な落葉と、根腐れ・水切れ・光量不足などトラブルによる落葉の見分け方、症状別の対処法をまとめました。"
 date: "2026-07-15"
-updated: "2026-11-20"
+updated: "2026-11-27"
 category: "guide"
 tags: ["パキラ", "葉が落ちる", "葉が黄色い", "トラブル", "育て方"]
 author: "tokyoplants 編集部"
@@ -49,23 +49,10 @@ amazonProducts:
 冬の落葉は、[パキラの冬越し](/guide/pachira-winter-care)の「冬にパキラの葉が落ちるとき」で詳しく扱っています。下葉の自然な落葉・根腐れ・窓際の冷気・暖房の風・取り込み直後の環境の変化の5つを落ち方で見分ける表と、確かめる順番、冬の置き場所（夜8〜10℃以上）と水やりの目安までを1本にまとめています。この記事は、季節を問わない原因の一覧として読んでください。
 <!-- /callout -->
 
-<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
-<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">落葉の季節と枚数は？</div>
-<div style="display:flex;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
-<span>↙ 冬に下葉が数枚だけ</span>
-<span>↘ それ以外（春〜秋／大量・新芽）</span>
-</div>
-<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
-<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
-<p style="margin:0;font-weight:700;color:#166534;font-size:14px">自然な生理落葉</p>
-<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">1〜2週間で数枚程度のペース／新芽は健康／心配不要</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">要チェック：根腐れ・乾燥・光量・環境ストレスのいずれか</p>
-<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">葉の落ち方（しおれる／パリパリ）で原因を絞り込む↓</p>
-</div>
-</div>
-</div>
+<!-- illust name="branch" title="まず落ち方で分ける" question="落葉の季節と枚数は？" -->
+- 冬に下葉が数枚だけ | 自然な生理落葉 | 1〜2週間で数枚。新芽は健康 | good
+- 春〜秋、または大量・新芽まで | 要チェック | 根腐れ・乾燥・光量・環境ストレス | warning
+<!-- /illust -->
 
 まずは以下の早見表で状況を確認してください。
 
@@ -104,7 +91,14 @@ amazonProducts:
 
 パキラの落葉で最も多い原因が、水のやりすぎによる根腐れです。パキラは幹に水分を蓄える性質があり、乾燥には強い反面、常に湿った土は苦手です。
 
-土が過湿の状態が続くと根が呼吸できなくなり、根腐れが進行します。根が傷むと水や養分を吸い上げられなくなり、結果として葉が黄色くしおれて落ちます。特に**冬場は水の吸収量が落ちるため、夏と同じ頻度で水やりを続けると簡単に過湿になります**。
+<!-- illust name="flow" title="過湿から落葉までの流れ" tone="warning" -->
+- 土が湿ったまま続く | 冬は夏と同じ頻度で簡単に過湿
+- 根が呼吸できない | 根腐れが進行する
+- 水や養分を吸えない | 根が傷んで働かない
+- 葉が黄色くしおれて落ちる
+<!-- /illust -->
+
+特に**冬場は水の吸収量が落ちるため、夏と同じ頻度で水やりを続けると簡単に過湿になります**。
 
 幹を押してぶよぶよする、土から異臭がする、といった症状があれば根腐れの可能性が高いです。根腐れの詳しい原因の見分け方・復活手順は[観葉植物が根腐れする原因と復活方法](/guide/root-rot-causes-and-recovery)で詳しく解説しています。
 
@@ -115,6 +109,12 @@ amazonProducts:
 ### 3. 水切れ・乾燥
 
 反対に、水切れによっても葉は落ちます。ただし根腐れとは症状が異なり、**葉先や縁からパリパリに乾いて茶色くなり、そのまま落ちる**のが特徴です。
+
+<!-- illust name="leaf-check" title="落ちる葉の状態で見分ける" -->
+- 黄色くしおれて落ちる | 過湿・根腐れ | yellow
+- 葉先・縁からパリパリ | 水切れ・乾燥 | brown-tip
+- 黒い斑点・虫がつく | 病害虫 | spots
+<!-- /illust -->
 
 長期間水やりを忘れた場合のほか、エアコンの風が直接当たり続けて土や葉が乾燥している場合にも起こります。特に冬は暖房、夏は冷房の風が直接当たる場所は要注意です。
 
@@ -134,8 +134,14 @@ amazonProducts:
 
 置き場所そのものは変えていなくても、以下のような環境変化がストレスとなり落葉を招くことがあります。
 
-- エアコンやヒーターの風が直接当たる
-- 窓際で夜間の冷え込みが強い
+<!-- illust name="room-zones" title="落葉を招きやすい場所" -->
+- 窓際・玄関 | 夜間の冷え込みが強い | window
+- 部屋の中央寄り | 室温が安定する。冬はここへ | good
+- 冷暖房の風が当たる所 | 土や葉が乾く | heater
+<!-- /illust -->
+
+ほかにも、次のような変化が落葉のきっかけになります。
+
 - 季節の変わり目で室温が大きく上下する
 - 外出・帰省などで数日間、極端な高温・低温にさらされた
 
@@ -159,9 +165,13 @@ amazonProducts:
 
 まず思い出してほしいのは、**「下葉が数枚、ゆっくり落ちるのは自然」**ということです。パキラにとって冬は休眠期であり、多少の落葉は正常な代謝の一部です。
 
+<!-- illust name="range" title="冬の夜の最低温度" unit="℃" min="0" max="20" step="5" color="blue" -->
+- パキラ | 5/8+ | 5℃は耐えるだけの下限
+<!-- /illust -->
+
 チェックすべきポイント:
 
-- 夜の最低温度が8〜10℃以上あるか（5℃は耐えるだけの下限。窓際の冷気に当たっていないか）
+- 夜の最低温度が8〜10℃以上あるか（窓際の冷気に当たっていないか）
 - 水やりの頻度を冬仕様（土が乾いてから2〜3日後）に落としているか
 - 落葉が下葉だけでなく、新芽や上部の葉にも及んでいないか
 - 落葉のペースが急激（1週間で葉の半分以上など）でないか
@@ -183,7 +193,15 @@ amazonProducts:
 
 ### 過湿・根腐れが疑われる場合
 
-水やりを一旦止め、土を完全に乾かします。幹がぶよぶよしている、土から異臭がするなど根腐れが進行しているサインがあれば、鉢から抜いて根の状態を確認しましょう。黒く変色した根は切除し、排水性の高い土で植え替える必要があります。詳しい手順は[観葉植物が根腐れする原因と復活方法](/guide/root-rot-causes-and-recovery)を参照してください。
+水やりを一旦止め、土を完全に乾かします。幹がぶよぶよしている、土から異臭がするなど根腐れが進行しているサインがあれば、鉢から抜いて根の状態を確認しましょう。黒く変色した根は切除し、排水性の高い土で植え替える必要があります。
+
+<!-- illust name="roots" title="根腐れのサイン" -->
+- 健全な根 | 黒ずみのない根は残す | healthy
+- 腐った根 | 黒く変色。切除する | cut
+- 幹の付け根 | 押すとぶよぶよする | base-rot
+<!-- /illust -->
+
+詳しい手順は[観葉植物が根腐れする原因と復活方法](/guide/root-rot-causes-and-recovery)を参照してください。
 
 ### 水切れ・乾燥が疑われる場合
 

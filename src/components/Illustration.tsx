@@ -17,7 +17,7 @@
  *                  「5/10+」と書くと、下限5の丸印と安全圏10以上の薄い棒を1行に重ねる
  *                  attrs: unit="℃" min max step target="200-350" target-label color="green|blue|amber|red"
  *   flow           原因→結果・手順の流れ。列: 見出し | 説明。attrs: tone="warning|good"
- *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/dry-soil（表面だけ乾いた層）/moss（水苔）/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
+ *   pot-section    鉢の断面。列（上の層から）: 名前 | 説明 | soil/dry-soil（表面だけ乾いた層）/moss（水苔）/net（仕切りの不織布・ネット。比は0.15ほど）/stone/hydro/bark/mulch/charcoal/water | 厚さの比。attrs: hole="false"
  *   roots          根の状態。列: ラベル | 説明 | healthy/rotten/bound/dry/cut（腐った先と切る位置）/base-rot（茎の付け根が黒く軟らかい）
  *                  茎の断面 stem-ok / stem-bad、球茎・塊茎 tuber-firm / tuber-rot / tuber-dry（水切れで縮んだ）
  *   room-zones     部屋の置き場所。列: 名前 | 説明 | window/good/back（部屋の奥）/heater/floor/high
@@ -25,7 +25,8 @@
  *   leaf-check     葉の症状。列: 症状 | 原因 | healthy/yellow/brown-tip/spots/droop/curl/pale/burn/black/mold（白いカビ）/mites（ハダニのかすり状）/black-tip（葉先が黒く枯れる）/bud-rot（新芽が黒く溶ける）
  *                  curl は内側に巻く。curl-out（縁が外側へ反る）/ wavy（縁・葉先が波打つ）
  *                  leggy（徒長）/ small（新しい葉が小さい。薄く元の大きさを重ねる）/ purple（赤紫を帯びる）
- *                  ビカクシダの胞子葉の向き: antler-down（垂れる＝光は足りている）/ antler-up（立ち上がる＝光が足りない）
+ *                  ビカクシダの胞子葉の向き: antler-down（垂れる）/ antler-up（立ち上がる）。種ごとの形の違いを比べるときだけ使う。
+ *                  ⚠️向きで光の過不足は判定できない（NC State・ウィスコンシン大学の解説では向きは種・株の性質。2026-11-26確認）
  *   branch         問いから分かれる判断の図。attrs: question。列: 条件 | 結論 | 説明 | good/warning/neutral
  *   bars           0から伸ばす横棒（電気代・価格など）。列: ラベル | 数値 | 補足。attrs: unit="円" prefix="約" max color
  *   pot-section は attrs: plant="caudex" で塊根を土の上に半分出した絵、saucer="water" で受け皿に水が溜まった絵、saucer="pebble" で湿度トレー（小石の上に鉢）、pot="glass" でガラス容器（lid="true" でふた付き＝密閉）、roots="small" で根が中心だけ（大きすぎる鉢）
@@ -657,12 +658,16 @@ function Flow({ block }: { block: IllustBlock }) {
  *   water は層ではなく、鉢底からの水位として重ねる（比は鉢の高さに対する割合 0〜1、既定0.2）
  * attrs: hole="false" で鉢底穴なし
  */
-const LAYER_FILL: Record<string, string> = { moss: "#b9a77a", charcoal: "#2a2725", "dry-soil": "#b39a7c", soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
+const LAYER_FILL: Record<string, string> = { net: "#e8e4dc", moss: "#b9a77a", charcoal: "#2a2725", "dry-soil": "#b39a7c", soil: "#6b5440", stone: "#cfc6b4", hydro: "#9a5a44", bark: "#8a6844", mulch: "#e3ddd0" };
 
 function LayerTexture({ type, y, h, seed }: { type: string; y: number; h: number; seed: number }) {
   const rand = rng(seed);
   const out: React.ReactNode[] = [];
-  if (type === "moss") {
+  if (type === "net") {
+    // 仕切り（鉢底ネット・不織布）：薄い格子
+    for (let x = 24; x < 178; x += 6) out.push(<line key={`v${x}`} x1={x} y1={y} x2={x} y2={y + h} stroke="#b9b1a4" strokeWidth={0.8} />);
+    out.push(<line key="t" x1={20} y1={y + h / 2} x2={180} y2={y + h / 2} stroke="#b9b1a4" strokeWidth={0.8} />);
+  } else if (type === "moss") {
     // 水苔：明るい茶色〜くすんだ緑の繊維
     for (let i = 0; i < Math.round(h * 2.5); i++) {
       const x = 24 + rand() * 152;

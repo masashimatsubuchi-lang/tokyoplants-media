@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1789305577898-76ce710d4198?w=1200&q=80
 title: "アグラオネマの葉が黄色い｜1枚ずつなら寿命、同時に複数枚なら根腐れ"
 description: "アグラオネマの葉が黄色くなる・元気がない原因を、自然な下葉の老化・過湿による根腐れ・光量不足の3つに切り分けて解説。それぞれの見分け方と具体的な対処法がわかります。"
 date: "2026-09-15"
-updated: "2026-10-27"
+updated: "2026-11-27"
 category: "guide"
 tags: ["アグラオネマ", "黄色", "元気ない", "根腐れ", "育て方"]
 author: "tokyoplants 編集部"
@@ -43,29 +43,22 @@ amazonProducts:
 
 <mark>アグラオネマの葉の黄変は、「自然な下葉の老化」「過湿による根腐れ」「光量不足」の3つに大きく分けて考えると原因を特定しやすくなります。</mark>
 
-- **下葉が1枚だけ、数週間かけてゆっくり黄色くなる**：自然な世代交代。心配いりません。
-- **複数の葉が同時に、数日〜1週間程度の短い期間で黄変する。土がいつまでも湿っている**：過湿による根腐れの疑いが強く、早めの対処が必要です。
-- **新しく展開する葉が黄緑っぽく薄い色で小さい。株全体になんとなく生気がない**：光量不足のサインです。特に赤・ピンク系の品種で顕著に現れます。
+<!-- illust name="leaf-check" title="黄変の3つのパターン" -->
+- 下葉1枚がゆっくり黄色 | 自然な老化。心配なし | yellow
+- 複数枚が同時に黄色 | 過湿による根腐れの疑い | yellow
+- 新葉が薄い色で小さい | 光量不足のサイン | pale
+<!-- /illust -->
 
-まずは「黄色くなっている葉の位置・枚数・進行スピード」と「土の湿り具合」を確認し、以下の表で自分の株がどのパターンに近いかを照らし合わせてください。
+根腐れの黄変は数日〜1週間程度の短い期間で進み、土がいつまでも湿っているのが目印で、早めの対処が必要です。
 
-<div style="margin:1.5rem 0;border:2px solid #92400e;border-radius:1rem;padding:1rem;background:linear-gradient(135deg,#fffbeb,#fff)">
-<div style="text-align:center;border:2px solid #d97706;border-radius:0.75rem;padding:0.75rem;background:#fff;font-weight:700;color:#92400e;max-width:320px;margin:0 auto;font-size:14px">黄色いのは下葉1枚だけ？</div>
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:2.5rem;margin:0.6rem 0;font-weight:700;color:#d97706;font-size:13px">
-<span style="flex:1;min-width:140px;text-align:center">↙ はい・ゆっくり進行</span>
-<span style="flex:1;min-width:140px;text-align:center">↘ いいえ・複数枚 or 急速</span>
-</div>
-<div style="display:flex;gap:1rem;flex-wrap:wrap;justify-content:center">
-<div style="flex:1;min-width:220px;border:2px solid #16a34a;border-radius:0.75rem;padding:0.75rem;background:#f0fdf4;text-align:center">
-<p style="margin:0;font-weight:700;color:#166534;font-size:14px">自然な老化</p>
-<p style="margin:4px 0 0;font-size:12px;color:#4d7c0f">経過観察でOK。枯れたら葉の付け根から切除する</p>
-</div>
-<div style="flex:1;min-width:220px;border:2px solid #dc2626;border-radius:0.75rem;padding:0.75rem;background:#fef2f2;text-align:center">
-<p style="margin:0;font-weight:700;color:#991b1b;font-size:14px">要チェック：土の状態を確認</p>
-<p style="margin:4px 0 0;font-size:12px;color:#b91c1c">湿ったままなら根腐れ、乾燥・新葉が薄いなら光量不足を疑う</p>
-</div>
-</div>
-</div>
+光量不足では新葉が黄緑っぽくなり、株全体になんとなく生気がなくなります。特に赤・ピンク系の品種で顕著に現れます。
+
+まずは「黄色くなっている葉の位置・枚数・進行スピード」と「土の湿り具合」を確認し、下の図で自分の株がどのパターンに近いかを照らし合わせてください。
+
+<!-- illust name="branch" title="まず枚数と速さで分ける" question="黄色いのは下葉1枚だけ？" -->
+- はい・ゆっくり進行 | 自然な老化 | 経過観察でよい。枯れたら付け根から切る | good
+- いいえ・複数枚か急速 | 土の状態を確認 | 湿ったままなら根腐れ、乾く・新葉が薄いなら光量不足 | warning
+<!-- /illust -->
 
 ## 理由・仕組み
 
@@ -102,7 +95,15 @@ amazonProducts:
 「土が乾く前に次の水やり」を繰り返していないか振り返ってみて。アグラオネマは耐陰性の高さから丈夫だと思われがちだけど、過湿への耐性はそこまで高くないんだ。
 <!-- /character-note -->
 
-疑わしい場合は、鉢から株を抜いて根を確認します。健康な根は白〜薄い茶色でハリがあり、根腐れした根は黒〜濃い茶色で触ると崩れます。根腐れが確認できた場合の切除・乾燥・植え替えの具体的な6ステップは[観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)で詳しく解説しています。
+疑わしい場合は、鉢から株を抜いて根を確認します。
+
+<!-- illust name="roots" title="抜いたときの根の見分け" -->
+- 健康な根 | 白〜薄い茶色でハリ | healthy
+- 根腐れした根 | 黒〜濃い茶色で崩れる | rotten
+- 茎の根元 | ぶよぶよと柔らかい | base-rot
+<!-- /illust -->
+
+根腐れが確認できた場合の切除・乾燥・植え替えの具体的な6ステップは[観葉植物の根腐れは復活できる？原因と6ステップの対処法](/guide/root-rot-causes-and-recovery)で詳しく解説しています。
 
 ### 3. 光量不足を確認する
 
@@ -128,7 +129,14 @@ amazonProducts:
 
 ### 光量不足が疑われる場合
 
-レースカーテン越しの明るい間接光が入る窓際に移動します。ただし、これまで暗い場所に置いていた株をいきなり強い光に当てると葉焼けを起こすため、数日〜1週間かけて段階的に明るい場所へ慣らしていくのが安全です。窓際に十分なスペースがない場合は、植物育成ライトの導入も選択肢になります。
+レースカーテン越しの明るい間接光が入る窓際に移動します。
+
+<!-- illust name="room-zones" title="光量不足のときの移動先" mode="light" -->
+- 部屋の奥・北向き | 新葉が薄く小さくなりやすい | back
+- レース越しの窓際 | 明るい間接光。移動先に | good
+<!-- /illust -->
+
+ただし、これまで暗い場所に置いていた株をいきなり強い光に当てると葉焼けを起こすため、数日〜1週間かけて段階的に明るい場所へ慣らしていくのが安全です。窓際に十分なスペースがない場合は、植物育成ライトの導入も選択肢になります。
 
 <!-- character-note character="shadee" type="tip" -->
 黄変に気づいた日と、その前の水やり日をアプリなどに記録しておくと、次に似た症状が出たときに「これは何日前に水をやったから根腐れかも」とすぐ振り返れて便利だよ。
