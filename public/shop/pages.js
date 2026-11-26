@@ -875,14 +875,14 @@
   // 八幡化成 Sen ローリーポット 丸（2026-11-25）: キャッチ・写真つきの3つのポイント・サイズの比較図・サイズとカラーの一覧を出す
   // 数値はカタログ（Sen_catalog_2026 p.5・p.8）。写真はメーカー提供（media/public/shop/sen/）。価格は BASE と手で合わせる（変えたらここも直す）
   var SEN = {
-    '166998845': { size: 'S', d: 14.8, h: 10.4, vol: '1.2L', pd: 13.8, ph: 0.9, price: '¥2,500', ref: '5号鉢（直径15cm）とほぼ同じ' },
-    '166998875': { size: 'M', d: 19.7, h: 13.9, vol: '2.9L', pd: 18.4, ph: 1.1, price: '¥3,800', ref: '6号鉢（直径18cm）と7号鉢（直径21cm）の間' }
+    '166998845': { size: 'S', d: 14.8, h: 10.4, vol: '1.2L', pd: 13.8, ph: 0.9, price: '¥2,600', ref: '5号鉢（直径15cm）とほぼ同じ' },
+    '166998875': { size: 'M', d: 19.7, h: 13.9, vol: '2.9L', pd: 18.4, ph: 1.1, price: '¥3,900', ref: '6号鉢（直径18cm）と7号鉢（直径21cm）の間' }
   };
   var SEN_IMG = 'https://media.tokyoplants.com/shop/sen/';
   // 一緒に使う付属品（2026-11-26）。公開されている（ページが開ける）ものだけ「あわせて使う」に出す
   var SEN_ACC = [
-    { id: '167062417', img: 'stand.jpg', name: 'チアーズスタンド 丸 S', sub: '鉢をのせて、高さを出すスタンド', price: '¥900', only: 'S' },
-    { id: '167089954', img: 'rope.jpg', name: '専用ロープ（Sフック付）', sub: '吊り下げホールに通して、吊り鉢に', price: '¥900' }
+    { id: '167062417', img: 'stand.jpg', name: 'チアーズスタンド 丸 S', sub: '鉢をのせて、高さを出すスタンド', price: '¥1,000', only: 'S' },
+    { id: '167089954', img: 'rope.jpg', name: '専用ロープ（Sフック付）', sub: '吊り下げホールに通して、吊り鉢に', price: '¥1,000' }
   ];
   function senAccessories(ins, size) {
     var list = SEN_ACC.filter(function (a) { return !a.only || a.only === size; });
