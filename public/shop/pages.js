@@ -879,6 +879,32 @@
     '166998875': { size: 'M', d: 19.7, h: 13.9, vol: '2.9L', pd: 18.4, ph: 1.1, price: '¥3,800', ref: '6号鉢（直径18cm）と7号鉢（直径21cm）の間' }
   };
   var SEN_IMG = 'https://media.tokyoplants.com/shop/sen/';
+  // 一緒に使う付属品（2026-11-26）。公開されている（ページが開ける）ものだけ「あわせて使う」に出す
+  var SEN_ACC = [
+    { id: '167062417', img: 'stand.jpg', name: 'チアーズスタンド 丸 S', sub: '鉢をのせて、高さを出すスタンド', price: '¥900', only: 'S' },
+    { id: '167089954', img: 'rope.jpg', name: '専用ロープ（Sフック付）', sub: '吊り下げホールに通して、吊り鉢に', price: '¥900' }
+  ];
+  function senAccessories(ins, size) {
+    var list = SEN_ACC.filter(function (a) { return !a.only || a.only === size; });
+    Promise.all(list.map(function (a) {
+      return fetch(base + '/items/' + a.id, { method: 'HEAD', credentials: 'same-origin' })
+        .then(function (r) { return r.ok ? a : null; })
+        .catch(function () { return null; });
+    })).then(function (ok) {
+      ok = ok.filter(Boolean);
+      if (!ok.length) return;
+      var sec = document.createElement('section');
+      sec.innerHTML = '<h2>あわせて使う</h2><div class="tp-sen-cards tp-sen-acc">' + ok.map(function (a) {
+        return '<a class="tp-sen-card" href="' + base + '/items/' + a.id + '">' +
+          '<img src="' + SEN_IMG + a.img + '" alt="Sen ' + esc(a.name) + '" loading="lazy">' +
+          '<span class="t">別売り</span><span class="n">' + esc(a.name) + '</span>' +
+          '<span class="s">' + esc(a.sub) + '</span><span class="p">' + a.price + '</span></a>';
+      }).join('') + '</div>' +
+        (size === 'M' && ok.every(function (a) { return a.id !== '167062417'; }) ? '<p class="tp-ins-note">チアーズスタンドは S サイズ専用です。</p>' : '') +
+        (size === 'S' && ok.some(function (a) { return a.id === '167062417'; }) ? '<p class="tp-ins-note">スタンドにのせるときは、受け皿は使いません。</p>' : '');
+      ins.appendChild(sec);
+    });
+  }
   function senDiagram(id) {
     var k = 8, yb = 168, order = ['166998845', '166998875'], cxs = [96, 252], svg = '';
     order.forEach(function (key, n) {
@@ -933,6 +959,7 @@
       '.tp-sen-card .n{font-weight:600;font-size:14px;line-height:1.4}' +
       '.tp-sen-card .s{font-size:11px;color:#6b6b6b;line-height:1.5}' +
       '.tp-sen-card .p{padding-bottom:10px;font-size:13px;margin-top:2px}' +
+      '.tp-sen-acc{grid-template-columns:repeat(2,1fr);max-width:520px}' +
       '@media (max-width:767px){.tp-sen-points{grid-template-columns:1fr}.tp-sen-cards{grid-template-columns:repeat(2,1fr)}}';
     document.head.appendChild(css);
 
@@ -968,6 +995,7 @@
     ins.querySelectorAll('.tp-sen-card.is-here').forEach(function (a) {
       a.addEventListener('click', function (e) { e.preventDefault(); senSelectColor(a.dataset.color); });
     });
+    senAccessories(ins, m.size);
     var acc = detail.querySelector('.tp-acc');
     var traits = detail.querySelector('.tp-pdp-traits');
     var intro = traits && traits.firstElementChild;
