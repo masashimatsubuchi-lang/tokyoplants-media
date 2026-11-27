@@ -271,7 +271,7 @@
     var cols = document.createElement('div');
     cols.style.display = 'contents';
     cols.innerHTML =
-      col('SHOP', [['Plants｜植物', base + '/categories/6382090'], ['Soil &amp; Care｜土', base + '/categories/6820321'], ['Towels｜タオル', base + '/items/135803882'], ['Items｜雑貨', base + '/categories/7207689']]) +
+      col('SHOP', [['Plants｜植物', base + '/categories/6382090'], ['Soil｜土', base + '/categories/6820321'], ['Towels｜タオル', base + '/items/135803882'], ['Pots｜鉢', base + '/categories/7903582'], ['Items｜雑貨', base + '/categories/7207689']]) +
       col('GUIDE', [['ショップについて', about], ['お届けと送料', about + '#tp-shipping'], ['お支払い方法', about + '#tp-payment'], ['よくある質問', about + '#faq'], ['お問い合わせ', contact]]) +
       col('MORE', [['メンバーシップ', member], ['マイページ', mypage], ['Journal｜読みもの', MEDIA + '/journal?utm_source=shop&utm_medium=footer'], ['植物図鑑・育て方', MEDIA + '/?utm_source=shop&utm_medium=footer'], ['Green Collection｜アプリ', MEDIA + '/app?utm_source=shop&utm_medium=footer'], ['Instagram', IG]]);
     var aboutBox = top.querySelector('.footer-about');
@@ -1666,7 +1666,26 @@
     })(0);
   }
 
+  // ヘッダー・ドロワーのメニュー：「Soil &amp; Care」を「Soil」に、「Pots」（鉢カテゴリー 7903582）を Items の前に足す。テーマ側に入ったら二重にならない
+  function menuPots() {
+    document.querySelectorAll('.header-menu, .tp-drawer-main').forEach(function (ul) {
+      var soil = ul.querySelector('a[href*="/categories/6820321"]');
+      if (soil) soil.textContent = 'Soil';
+      if (ul.querySelector('a[href*="/categories/7903582"]')) return;
+      var items = ul.querySelector('a[href*="/categories/7207689"]');
+      if (!items) return;
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = base + '/categories/7903582';
+      a.dataset.tpPath = '/categories/7903582';
+      a.textContent = 'Pots';
+      li.appendChild(a);
+      items.parentNode.parentNode.insertBefore(li, items.parentNode);
+    });
+  }
+
   function run() {
+    menuPots();
     if (path === '/') { pickSocks(); pickSishi(); pickSen(); collSen(); pickOrder(); topClickTracking(); }
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
