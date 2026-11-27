@@ -806,7 +806,7 @@
     card.innerHTML =
       '<a class="tp-card-link" href="' + base + '/items/166998845" data-tp-path="/items/166998845" aria-label="Sen ローリーポットを見る"></a>' +
       '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜Hachiman-kasei</span>' +
-      '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">植物を引き立てる、まるい鉢。</span><span class="tp-card-award">iF・Red Dot デザイン賞 受賞</span><span class="tp-card-price">¥2,600</span></div>' +
+      '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">光と風が通る、まるい鉢。</span><span class="tp-card-award">iF・Red Dot デザイン賞 受賞</span><span class="tp-card-price">¥2,600</span></div>' +
       '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick.jpg" alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" loading="lazy"></div>' +
       '<div class="tp-vars tp-vars--size" role="group" aria-label="Sen ローリーポットのサイズ">' +
         '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥2,600" data-path="/items/166998845" aria-pressed="true" aria-label="S">S</button>' +
