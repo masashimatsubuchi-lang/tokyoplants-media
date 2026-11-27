@@ -818,10 +818,10 @@
   }
   function collSen() {
     var coll = document.querySelector('.tp-coll');
-    if (!coll || coll.querySelector('[data-tp-path="/categories/7901645"]')) return;
+    if (!coll || coll.querySelector('[data-tp-path="/categories/7903585"]')) return;
     var a = document.createElement('a');
-    a.href = base + '/categories/7901645';
-    a.dataset.tpPath = '/categories/7901645';
+    a.href = base + '/categories/7903585';
+    a.dataset.tpPath = '/categories/7903585';
     a.innerHTML = '<img src="https://media.tokyoplants.com/shop/sen/collection.png" alt="Sen" loading="lazy"><span>Sen</span>';
     var mochi = coll.querySelector('[data-tp-path="/categories/7276989"]');
     coll.insertBefore(a, mochi || null); // 鉢どうしで並ぶよう、MOCHI POT の前に
