@@ -805,7 +805,7 @@
     card.className = 'tp-card tp-card--sen';
     card.innerHTML =
       '<a class="tp-card-link" href="' + base + '/items/166998845" data-tp-path="/items/166998845" aria-label="Sen ローリーポットを見る"></a>' +
-      '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜八幡化成</span>' +
+      '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜Hachiman-kasei</span>' +
       '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">植物を引き立てる、まるい鉢。</span><span class="tp-card-price">¥2,600</span></div>' +
       '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick.jpg" alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" loading="lazy"></div>' +
       '<div class="tp-vars tp-vars--size" role="group" aria-label="Sen ローリーポットのサイズ">' +
