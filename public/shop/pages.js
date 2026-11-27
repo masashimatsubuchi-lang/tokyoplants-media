@@ -779,10 +779,10 @@
       if (b) { e.preventDefault(); pick(b); }
     });
     // 最初に出すのは白斑の鉢植え（手で持った写真）。2026-11-27 オーナー指示。
-    // 写真を少し下げて、上のフェードでモンステラの葉が切れないようにする（ずらした分の上端はフェードを延ばして隠す）
+    // 上のフェードは写真の上24%。葉に少しかかってよいが、境界がくっきり出るのは NG。写真は下げない（2026-11-27 オーナー）
     var css = document.createElement('style');
-    css.textContent = '.tp-pick .tp-card--sishi .tp-card-photo.is-low{-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 14%,#000 38%);mask-image:linear-gradient(180deg,transparent 0,transparent 14%,#000 38%)}' +
-      '.tp-pick .tp-card--sishi .tp-card-photo.is-low img{transform:translateY(14%)}';
+    css.textContent = '.tp-pick .tp-card--sishi .tp-card-photo.is-low{-webkit-mask-image:linear-gradient(180deg,transparent 0,#000 24%);mask-image:linear-gradient(180deg,transparent 0,#000 24%)}' +
+      '.tp-pick .tp-card--sishi .tp-card-photo.is-low img{transform:none}';
     document.head.appendChild(css);
     var white = vars.querySelector('[data-path="/items/143263775"]');
     if (white) white.dataset.low = '1';
@@ -797,7 +797,7 @@
     var pick = document.querySelector('.tp-pick');
     if (!pick || pick.querySelector('.tp-card--sen')) return;
     var css = document.createElement('style');
-    css.textContent = '.tp-pick .tp-card--sen{--card-bg:linear-gradient(180deg,#eef2f2 0%,#dbe2e3 100%);--card-kind:#4d5a58}' +
+    css.textContent = '.tp-pick .tp-card--sen .tp-card-award{display:inline-flex;align-items:center;gap:5px;margin:2px 0 6px;font:600 11.5px/1.4 var(--tp-font);color:#4d5a58;letter-spacing:.02em}' + '.tp-pick .tp-card--sen{--card-bg:linear-gradient(180deg,#eef2f2 0%,#dbe2e3 100%);--card-kind:#4d5a58}' +
       // 6枚になったので、PC は3枚×2段にする（5列の指定より後に置く）
       '@media (min-width:1181px){.tp-wrap .tp-pick{grid-template-columns:repeat(3,1fr);gap:20px}.tp-pick .tp-card-name{font-size:26px}.tp-pick .tp-card-body{padding:30px 26px 0}}';
     document.head.appendChild(css);
@@ -806,7 +806,7 @@
     card.innerHTML =
       '<a class="tp-card-link" href="' + base + '/items/166998845" data-tp-path="/items/166998845" aria-label="Sen ローリーポットを見る"></a>' +
       '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜Hachiman-kasei</span>' +
-      '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">植物を引き立てる、まるい鉢。</span><span class="tp-card-price">¥2,600</span></div>' +
+      '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">光と風が通る、まるい鉢。</span><span class="tp-card-award">iF・Red Dot デザイン賞 受賞</span><span class="tp-card-price">¥2,600</span></div>' +
       '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick.jpg" alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" loading="lazy"></div>' +
       '<div class="tp-vars tp-vars--size" role="group" aria-label="Sen ローリーポットのサイズ">' +
         '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥2,600" data-path="/items/166998845" aria-pressed="true" aria-label="S">S</button>' +
@@ -1002,6 +1002,10 @@
     var css = document.createElement('style');
     css.id = 'tp-sen-css';
     css.textContent =
+      '.tp-sen-award{display:flex;align-items:center;gap:10px;width:fit-content;max-width:100%;margin:12px 0 6px;padding:8px 14px 8px 10px;background:#fff;border-radius:12px;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
+      '.tp-sen-award img{display:block;height:34px;width:auto}' +
+      '.tp-sen-award span{font:500 11px/1.45 var(--tp-font);color:#55595e;letter-spacing:.01em}' +
+      '.tp-sen-award b{display:block;font-weight:700;color:var(--tp-ink,#1d1d1f)}' +
       '.tp-sen-points{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}' +
       '.tp-sen-points figure{margin:0;background:#fff;border-radius:16px;overflow:hidden;box-shadow:0 1px 6px rgba(0,0,0,.05)}' +
       '.tp-sen-points img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover}' +
@@ -1023,6 +1027,18 @@
       '@media (max-width:767px){.tp-sen-points{grid-template-columns:1fr}.tp-sen-cards{grid-template-columns:repeat(2,1fr)}}';
     document.head.appendChild(css);
   }
+  // Sen の受賞バッジ（iF DESIGN AWARD 2026・Red Dot Design Award 2026。ロゴはメーカー提供、掲載はオーナー確認済み 2026-11-25）。
+  // 見出しのすぐ下に出す。2026-11-27 オーナー依頼（サブタイトルは別案を検討中）
+  function senAward(h1) {
+    if (!h1 || h1.parentNode.querySelector('.tp-sen-award')) return;
+    var d = document.createElement('div');
+    d.className = 'tp-sen-award';
+    d.innerHTML = '<img src="' + SEN_IMG + 'award-if.jpg" alt="iF DESIGN AWARD 2026" width="66" height="34">' +
+      '<img src="' + SEN_IMG + 'award-reddot.png" alt="Red Dot Design Award 2026 winner" width="59" height="34">' +
+      '<span>iF DESIGN AWARD 2026<br>Red Dot Design Award 2026<b>受賞シリーズ</b></span>';
+    h1.insertAdjacentElement('afterend', d);
+  }
+
   function senPage() {
     var id = (path.match(/^\/items\/(\d+)/) || [])[1];
     var detail = document.querySelector('.item-detail-inner');
@@ -1034,6 +1050,7 @@
     var h1 = detail.querySelector('h1');
     var sub = (document.title.split(/[｜|]/)[1] || '').trim();
     if (h1 && sub && !h1.querySelector('.tp-tw-sub')) h1.innerHTML = esc(h1.textContent.trim()) + '<span class="tp-tw-sub">' + esc(sub) + '</span>';
+    senAward(h1);
 
     var card = function (key, color, file) {
       var m = SEN[key], here = key === id;
@@ -1588,6 +1605,7 @@
     var h1 = detail.querySelector('h1');
     var sub = (document.title.split(/[｜|]/)[1] || '').trim();
     if (h1 && sub && !h1.querySelector('.tp-tw-sub')) h1.innerHTML = esc(h1.textContent.trim()) + '<span class="tp-tw-sub">' + esc(sub) + '</span>';
+    senAward(h1);
     var ins = document.createElement('div');
     ins.className = 'tp-ins';
     ins.innerHTML =
