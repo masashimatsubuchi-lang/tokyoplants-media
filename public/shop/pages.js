@@ -781,8 +781,58 @@
     pick(btn);
   }
 
+
+  // TOP の PICK UP と STORE のアイコン列に Sen（八幡化成のローリーポット）を足す（2026-11-27 オーナー依頼）。テーマは文字数の上限に近いのでここで足す
+  // 写真はオーナー提供の TOP 写真（media/public/shop/sen/pick.jpg）、アイコンはメーカーの単品写真を切り抜いて S（黒）と M（グレー）を実寸比で並べたもの
+  // 価格は BASE と手で合わせる（S ¥2,600・M ¥3,800。変えたら SEN と一緒に直す）
+  function pickSen() {
+    var pick = document.querySelector('.tp-pick');
+    if (!pick || pick.querySelector('.tp-card--sen')) return;
+    var css = document.createElement('style');
+    css.textContent = '.tp-pick .tp-card--sen{--card-bg:linear-gradient(180deg,#eef2f2 0%,#dbe2e3 100%);--card-kind:#4d5a58}' +
+      // 6枚になったので、PC は3枚×2段にする（5列の指定より後に置く）
+      '@media (min-width:1181px){.tp-wrap .tp-pick{grid-template-columns:repeat(3,1fr);gap:20px}.tp-pick .tp-card-name{font-size:26px}.tp-pick .tp-card-body{padding:30px 26px 0}}';
+    document.head.appendChild(css);
+    var card = document.createElement('article');
+    card.className = 'tp-card tp-card--sen';
+    card.innerHTML =
+      '<a class="tp-card-link" href="' + base + '/items/166998845" data-tp-path="/items/166998845" aria-label="Sen ローリーポットを見る"></a>' +
+      '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜八幡化成</span>' +
+      '<span class="tp-card-name">Sen ローリーポット</span><span class="tp-card-copy">植物を引き立てる、まるい鉢。</span><span class="tp-card-price">¥2,600</span></div>' +
+      '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick.jpg" alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" loading="lazy"></div>' +
+      '<div class="tp-vars tp-vars--size" role="group" aria-label="Sen ローリーポットのサイズ">' +
+        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥2,600" data-path="/items/166998845" aria-pressed="true" aria-label="S">S</button>' +
+        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥3,800" data-path="/items/166998875" aria-pressed="false" aria-label="M">M</button></div>';
+    pick.insertBefore(card, pick.firstChild);
+    var link = card.querySelector('.tp-card-link');
+    var price = card.querySelector('.tp-card-price');
+    card.querySelector('.tp-vars').addEventListener('click', function (e) {
+      var b = e.target.closest('button');
+      if (!b) return;
+      e.preventDefault();
+      card.querySelectorAll('.tp-vars button').forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      price.textContent = b.dataset.price;
+      link.href = base + b.dataset.path;
+      link.dataset.tpPath = b.dataset.path;
+    });
+  }
+  function collSen() {
+    var coll = document.querySelector('.tp-coll');
+    if (!coll || coll.querySelector('[data-tp-path="/categories/7901645"]')) return;
+    var a = document.createElement('a');
+    a.href = base + '/categories/7901645';
+    a.dataset.tpPath = '/categories/7901645';
+    a.innerHTML = '<img src="https://media.tokyoplants.com/shop/sen/collection.png" alt="Sen" loading="lazy"><span>Sen</span>';
+    var mochi = coll.querySelector('[data-tp-path="/categories/7276989"]');
+    coll.insertBefore(a, mochi || null); // 鉢どうしで並ぶよう、MOCHI POT の前に
+    var css = document.createElement('style');
+    css.textContent = '.tp-wrap .tp-coll{grid-template-columns:repeat(9,1fr)}.tp-wrap .tp-coll img{max-width:100%}'; // スマホは横スクロール（display:flex）なので列の指定は効かない
+    document.head.appendChild(css);
+  }
+
   // PICK UP の並び。新作の SISHICRAFT を先頭に（2026-11-04 オーナー依頼）、明るいカードと暗いカードが交互になるように並べる
-  var PICK_ORDER = ['sishi', 'soil', 'socks', 'select', 'towel'];
+  // 2026-11-27 新作の Sen を先頭に（明るい・暗いが交互になるように）
+  var PICK_ORDER = ['sen', 'soil', 'sishi', 'select', 'socks', 'towel'];
   function pickOrder() {
     var list = document.querySelector('.tp-pick');
     if (!list) return;
@@ -1617,7 +1667,7 @@
   }
 
   function run() {
-    if (path === '/') { pickSocks(); pickSishi(); pickOrder(); topClickTracking(); }
+    if (path === '/') { pickSocks(); pickSishi(); pickSen(); collSen(); pickOrder(); topClickTracking(); }
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
