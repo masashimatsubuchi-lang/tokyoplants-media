@@ -799,16 +799,15 @@
       '<a class="tp-card-link" href="' + base + '/items/166998845" data-tp-path="/items/166998845" aria-label="Sen ローリーポットを見る"></a>' +
       '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜八幡化成</span>' +
       '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">植物を引き立てる、まるい鉢。</span><span class="tp-card-price">¥2,600</span></div>' +
-      '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick-S.jpg" alt="Sen ローリーポット 丸 S（ブラック）" loading="lazy"></div>' +
+      '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick.jpg" alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" loading="lazy"></div>' +
       '<div class="tp-vars tp-vars--size" role="group" aria-label="Sen ローリーポットのサイズ">' +
-        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick-S.jpg" data-alt="Sen ローリーポット 丸 S（ブラック）" data-price="¥2,600" data-path="/items/166998845" aria-pressed="true" aria-label="S">S</button>' +
-        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick-M.jpg" data-alt="Sen ローリーポット 丸 M（ブラック）" data-price="¥3,800" data-path="/items/166998875" aria-pressed="false" aria-label="M">M</button></div>';
+        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥2,600" data-path="/items/166998845" aria-pressed="true" aria-label="S">S</button>' +
+        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥3,800" data-path="/items/166998875" aria-pressed="false" aria-label="M">M</button></div>';
     pick.insertBefore(card, pick.firstChild);
     var link = card.querySelector('.tp-card-link');
     var price = card.querySelector('.tp-card-price');
-    // サイズで写真を切り替える（同じ距離で撮ったメーカーの単品写真なので、大きさの違いがそのまま見える）
+    // data-img でサイズごとに写真を変えられる（2026-11-27 オーナー判断で胡蝶蘭の写真に統一。単品写真の pick-S/M は撤去）
     var photo = card.querySelector('.tp-card-photo img');
-    new Image().src = 'https://media.tokyoplants.com/shop/sen/pick-M.jpg';
     card.querySelector('.tp-vars').addEventListener('click', function (e) {
       var b = e.target.closest('button');
       if (!b) return;
