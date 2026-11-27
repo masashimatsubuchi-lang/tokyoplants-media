@@ -9,7 +9,6 @@ author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/repotting-tools-checklist"
   - "guide/repotting-houseplants-complete-guide"
-  - "review/houseplant-tools-complete-guide"
   - "species/genus-philodendron"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"

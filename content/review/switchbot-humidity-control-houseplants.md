@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1747224317348-887f7ed01d34?w=1200&q=80
 title: "SwitchBotで観葉植物を自動管理｜湿度・温度・育成ライト・留守中の見守り"
 description: "湿度は50%でON・60%でOFFの加湿器連携、育成ライトの定時点灯、窓際が冷えたときの温度通知、留守中のカメラ確認まで。機器の組み合わせ3通りと価格帯の目安も整理。"
 date: "2026-07-06"
-updated: "2026-11-27"
+updated: "2026-11-28"
 category: "review"
 tags: ["SwitchBot", "湿度管理", "スマートホーム", "観葉植物", "自動化", "育成ライト", "冬越し"]
 author: "tokyoplants 編集部"
@@ -13,7 +13,6 @@ relatedSlugs:
   - "review/grow-light-timer-smart-plug-comparison"
   - "guide/winter-placement-room-map"
   - "guide/houseplant-care-during-travel"
-  - "review/houseplant-tools-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "review/circulator-for-houseplants-review"
   - "review/watering-checker-comparison"
@@ -346,5 +345,5 @@ SwitchBot純正の加湿器はWi-Fi機能を内蔵しているため、プラグ
 - [育成ライトのタイマー・スマートプラグ比較](/review/grow-light-timer-smart-plug-comparison)
 - [観葉植物の冬の置き場所｜部屋の温度マップで選ぶ](/guide/winter-placement-room-map)
 - [旅行中の観葉植物の水やり](/guide/houseplant-care-during-travel)
-- [観葉植物の便利グッズ完全ガイド](/review/houseplant-tools-complete-guide)
+- [tokyoplantsのおすすめアイテム（記事で紹介した道具まとめ）](/items)
 - [根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)

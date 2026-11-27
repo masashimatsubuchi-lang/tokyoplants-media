@@ -3,12 +3,11 @@ image: "https://images.unsplash.com/photo-1679092890025-dc41b2a38433?w=1200&q=80
 title: "水やりチェッカーのおすすめ｜迷ったらSUStee、6号まではM、7号以上はL"
 description: "水やりチェッカーのおすすめは電池不要の色変化式SUStee。3.5〜6号鉢はM、7号以上や深い鉢はLが目安です。pHも測れるアナログ式との違い、使い方の注意点も解説します。"
 date: "2026-07-07"
-updated: "2026-10-27"
+updated: "2026-11-28"
 category: "review"
 tags: ["水やりチェッカー", "土壌水分計", "観葉植物", "水やり", "根腐れ防止"]
 author: "tokyoplants 編集部"
 relatedSlugs:
-  - "review/houseplant-tools-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "review/switchbot-humidity-control-houseplants"
   - "soil/when-to-replace-soil"
@@ -172,7 +171,7 @@ SUStee（サスティー）は電池不要で、土に挿しておくだけで�
 - [観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』](https://www.tokyoplants.com/items/99620939)
 
 → 関連記事
-- [観葉植物の便利グッズ完全ガイド](/review/houseplant-tools-complete-guide)
+- [tokyoplantsのおすすめアイテム（記事で紹介した道具まとめ）](/items)
 - [根腐れの原因と復活方法](/guide/root-rot-causes-and-recovery)
 - [SwitchBotで観葉植物の湿度管理を自動化](/review/switchbot-humidity-control-houseplants)
 - [観葉植物の土の入れ替え時期と方法](/soil/when-to-replace-soil)

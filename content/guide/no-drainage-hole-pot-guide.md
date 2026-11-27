@@ -15,6 +15,7 @@ relatedSlugs:
   - "guide/choosing-pot-size-for-repotting"
   - "soil/improve-drainage-for-houseplants"
   - "review/sen-roly-pot"
+  - "guide/pot-cover-guide"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"

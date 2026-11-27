@@ -19,6 +19,7 @@ relatedSlugs:
   - "soil/best-soil-for-pothos"
   - "soil/best-soil-for-tradescantia"
   - "review/sen-roly-pot"
+  - "guide/hanging-houseplants-guide"
 amazonProducts:
   - title: "リッチェル(Richell) ハンギングボール プレーン 5号 グレー"
     asin: "B0928GVB1B"

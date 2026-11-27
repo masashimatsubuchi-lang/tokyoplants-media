@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1621460248083-6271cc4437a8?crop=entrop
 title: "植え替えに必要な道具リスト｜初心者向けAmazon厳選アイテム"
 description: "観葉植物の植え替えに必要な道具を初心者向けに解説。鉢・ハサミ・スコップ・じょうろなど各アイテムの選び方に加え、Amazonで評価の高い実物商品も紹介。あると便利なグッズや100均で代用できるものもまとめました。"
 date: "2026-06-05"
-updated: "2026-11-27"
+updated: "2026-11-28"
 category: "guide"
 tags: ["植え替え", "初心者", "道具", "Amazon"]
 author: "tokyoplants 編集部"
@@ -14,7 +14,6 @@ relatedSlugs:
   - "guide/choosing-pot-size-for-repotting"
   - "review/plant-label-maker-review"
   - "review/drainage-net-comparison"
-  - "review/houseplant-tools-complete-guide"
   - "soil/zeolite-for-houseplants"
   - "guide/houseplant-pruning-basics"
 baseProducts:
@@ -119,7 +118,7 @@ amazonProducts:
 
 底に穴が開いた本格仕様でありながら、受け皿がセットになっているため排水対策も一緒に済むデザイン鉢です。評価★4.1・レビュー693件（確認済み）と実績も十分。プラスチック鉢からワンランク上げて部屋のインテリアに馴染ませたい植え替えにおすすめです。
 
-なお、通気性・排水性を最優先するなら側面にスリットが入った「スリット鉢」も選択肢のひとつです。根詰まりを防ぐスリット鉢の仕組みとおすすめ商品は[観葉植物の道具おすすめ完全まとめ](/review/houseplant-tools-complete-guide)で詳しく紹介しています。
+なお、通気性・排水性を最優先するなら側面にスリットが入った「スリット鉢」も選択肢のひとつです。スリット鉢の仕組みと選び方は[スリット鉢とは？](/guide/slit-pot-guide)で詳しく紹介しています。
 
 スリット入りで受け皿も一緒にそろう鉢の例として、tokyoplantsで扱っているHachiman-kaseiの鉢も挙げておきます。
 

@@ -20,6 +20,7 @@ relatedSlugs:
   - "guide/winter-dont-do-list"
   - "review/hanging-planter-hook-comparison-pothos-tradescantia"
   - "review/sen-roly-pot"
+  - "guide/hanging-houseplants-guide"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
