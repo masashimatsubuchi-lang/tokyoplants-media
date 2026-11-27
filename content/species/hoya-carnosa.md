@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1612363148951-15f16817648f?crop=entrop
 title: "ホヤ・カルノーサ（サクララン）｜甘い香りの花と多肉質葉の育て方図鑑"
 description: "ホヤ・カルノーサ（サクラン）の基本情報、星型の甘い花の咲かせ方、多肉質葉の特徴、水やり・剪定・増やし方を図鑑形式で詳しく解説します。"
 date: "2026-06-09"
+updated: "2026-11-28"
 category: "species"
 tags: ["ホヤ", "サクララン", "花"]
 author: "tokyoplants 編集部"
@@ -16,6 +17,7 @@ relatedSlugs:
   - "guide/bottom-watering-houseplants"
   - "guide/hoya-propagation"
   - "guide/hoya-winter-care"
+  - "review/sen-roly-pot"
 baseProducts:
   - title: "tokyoplants All plants｜希少植物一覧"
     url: "https://www.tokyoplants.com/categories/6382090"
@@ -23,6 +25,15 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
+  - title: "Sen 専用ロープ（Sフック付）"
+    url: "https://www.tokyoplants.com/items/167089954"
+    price: "¥1,000"
 amazonProducts:
   - title: "SUStee（サスティー）水やりチェッカー Mサイズ"
     asin: "B0764P7D64"
@@ -172,6 +183,16 @@ amazonProducts:
 - **トレリス**: 格子状のフレームに蔓を絡ませて仕立てます。壁面のグリーンインテリアとして活用できます。
 - **ヘゴ棒**: 着生植物本来の生育スタイルに近い仕立て方です。根が棒に活着することで、より旺盛に育ちます。
 - **棚置き**: 棚の端に置いて蔓を垂らすシンプルな飾り方。どんなインテリアにも馴染みます。
+
+ハンギングにする場合、置いて使う鉢を専用ロープで吊り鉢にできるタイプもあります。tokyoplantsで扱っているHachiman-kaseiの鉢（仕入れ品）を一例として挙げます。吊るさないときは棚置きにも使えます。
+
+<!-- product-cards title="専用ロープで吊り鉢にできる鉢" own="sen" -->
+- **向いている**：鉢のスリット上部にある小さな穴に、別売りの専用ロープ（S字フック付き、S・M兼用）を通すと吊り鉢になる。側面と底のスリットで水が抜けやすく、乾かし気味に育てるホヤと合わせやすい。吊るさないときは、セットの同じ色の受け皿にのせて棚に置ける
+- **注意**：ホヤは根詰まり気味のほうが花をつけやすいので、株に対して大きすぎるサイズは選ばない。吊るす位置は高いぶん乾きやすい傾向があるが、水やりは「土が完全に乾いてから」を変えない。花の蜜が下に落ちることがあるので、真下に家具を置かない。室内向けの商品で、春〜秋に屋外の半日陰へ出す株には使わない
+- **サイズ**：S は直径14.8cm（5号鉢とほぼ同じ）、M は19.7cm（6号と7号の間）（カタログ表記）
+<!-- /product-cards -->
+
+サイズの選び方と専用ロープの付け方は[Sen ローリーポットの紹介記事](/review/sen-roly-pot)で詳しく書いています。
 
 ### 温度
 

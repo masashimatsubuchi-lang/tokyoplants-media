@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1649087419668-a8ee9df9bc51?w=1200&q=80
 title: "ポトスの冬越しは8℃が下限、吊り鉢は窓に触れたつる先から冷える"
 description: "15℃以上なら傷まずに越せます。窓辺の吊り鉢はガラスに触れたつる先から冷え、葉の中央に茶色い斑が散ったら低温か急な温度差のサイン。水挿し・斑入りの注意点と水やり間隔まで。"
 date: "2026-11-09"
-updated: "2026-11-20"
+updated: "2026-11-28"
 category: "guide"
 tags: ["ポトス", "冬越し", "温度管理", "冬の水やり", "ハンギング"]
 author: "tokyoplants 編集部"
@@ -18,10 +18,21 @@ relatedSlugs:
   - "guide/winter-watering-houseplants"
   - "guide/winter-placement-room-map"
   - "guide/winter-dont-do-list"
+  - "review/hanging-planter-hook-comparison-pothos-tradescantia"
+  - "review/sen-roly-pot"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
+  - title: "Sen 専用ロープ（Sフック付）"
+    url: "https://www.tokyoplants.com/items/167089954"
+    price: "¥1,000"
 amazonProducts:
   - title: "BRIM FLORA 植物育成ライト 26W 3ヘッド（クリップ式）"
     asin: "B0CLD6QSDD"
@@ -121,6 +132,16 @@ UF/IFASのガイドは、古い葉が黄色くなる原因を「用土が乾き�
 <!-- /cards -->
 
 部屋の中でどこが何℃になりやすいかは[冬の置き場所マップ](/guide/winter-placement-room-map)、床や窓の冷気を遮る道具は[保温グッズの比較](/review/winter-insulation-goods-for-houseplants)にまとめています。暖房の温風が当たる場所は、葉の縁から乾いて傷むので避けてください（[暖房器具と観葉植物](/guide/winter-heating-appliances-and-houseplants)）。
+
+吊り鉢は、フックの位置を変えるだけで窓から離せるのが利点です。吊るす鉢を探しているなら、置いて使う鉢を専用ロープで吊り鉢にできるタイプもあります。tokyoplantsで扱っているHachiman-kaseiの鉢（仕入れ品）を一例として挙げます。
+
+<!-- product-cards title="専用ロープで吊り鉢にできる鉢" own="sen" -->
+- **向いている**：鉢のスリット上部にある小さな穴に、別売りの専用ロープ（S字フック付き、S・M兼用）を通すと吊り鉢になる。春に窓辺へ戻すときや、吊るさない時期は、セットの同じ色の受け皿にのせて棚に置ける
+- **注意**：冬は窓から離した位置に吊る。高い位置は暖気で乾きやすく、スリット鉢もスリットのない鉢より乾きやすい傾向がある。それでも冬は水を控える時期なので、見た目で足さず、下ろして重さで確かめる。水やりはシンクで行い、水が切れてから吊るし直す。掛け先は水やり後の重さに耐えられるものを選ぶ。室内向けの商品で、屋外での使用はおすすめしていない
+- **サイズ**：S は直径14.8cm（5号鉢とほぼ同じ）、M は19.7cm（6号と7号の間）（カタログ表記）。植え替えは冬を避け、春から初夏に
+<!-- /product-cards -->
+
+鉢のサイズの選び方と専用ロープの付け方は[Sen ローリーポットの紹介記事](/review/sen-roly-pot)、掛け先のフックの選び方は[吊り鉢フックの比較](/review/hanging-planter-hook-comparison-pothos-tradescantia)で扱っています。
 
 ### 2. ポトスの冬の水やり
 

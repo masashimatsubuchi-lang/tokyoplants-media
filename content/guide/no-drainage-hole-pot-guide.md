@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?crop=entrop
 title: "観葉植物の穴なし鉢の使い方｜水やりと根腐れ対策"
 description: "穴なし鉢（排水穴なし）で観葉植物を育てる方法を解説。水やりの頻度・量の調整、根腐れを防ぐ土・培地の選び方、HYDRO MINERALを使った安全な管理方法まで詳しく説明します。"
 date: "2026-06-05"
-updated: "2026-11-26"
+updated: "2026-11-28"
 category: "guide"
 tags: ["水やり", "根腐れ", "インテリア"]
 author: "tokyoplants 編集部"
@@ -14,6 +14,7 @@ relatedSlugs:
   - "guide/pot-material-comparison"
   - "guide/choosing-pot-size-for-repotting"
   - "soil/improve-drainage-for-houseplants"
+  - "review/sen-roly-pot"
 baseProducts:
   - title: "HYDRO MINERAL 2L｜溶岩石×ゼオライトの培地"
     url: "https://www.tokyoplants.com/items/142692278"
@@ -21,6 +22,12 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
 amazonProducts:
   - title: "日本ポリ鉢 プレステラ深型90 5個組 ブラック（スリット入り硬質ポット）"
     asin: "B0CJM6XYP5"
@@ -225,6 +232,22 @@ amazonProducts:
 
 <!-- amazon-cards title="インナーポット方式と水やり判断に" -->
 <!-- /amazon-cards -->
+
+### 穴なし鉢にこだわらないという選び方
+
+穴なし鉢を選ぶ理由が「見た目」なら、穴のある鉢のなかから見た目のよいものを選ぶ方法もあります。底穴やスリットがあれば余分な水は鉢の外へ抜けるので、ここまで書いてきた水の量の計算や、溜まった水の吸い出しは要りません。
+
+その代わり、受け皿は必要です。受け皿に溜まった水はそのつど捨てます。受け皿の選び方は[観葉植物の受け皿の選び方](/review/saucer-selection-guide)にまとめています。
+
+tokyoplantsでは、鉢と同じ色の受け皿がセットになったHachiman-kaseiのスリット鉢を扱っています。仕入れ品で、tokyoplantsのオリジナル商品ではありません。
+
+<!-- product-cards title="穴とスリットがあり、受け皿の色までそろう鉢" own="sen" -->
+- **向いている**：穴なし鉢の質感は好きだが、水やりは普通の鉢と同じにしたい人。素材は植物由来の繊維を配合した樹脂で、陶器やコンクリートを思わせるマットな質感。側面と底にスリットが入り、鉢底ネットなしで使える
+- **注意**：スリットのない鉢より土が乾きやすい傾向があるので、替えた直後は土の中まで乾いたかを確かめてから水をやる。受け皿は高さ S 0.9cm・M 1.1cm と浅いので、たっぷり与えるときはシンクで水を切ってから戻す。室内向けの商品で、屋外での使用はおすすめしていない
+- **サイズ**：S は直径14.8cm・1.2L（5号鉢とほぼ同じ）、M は直径19.7cm・2.9L（カタログ表記）。色はブラックとグレー
+<!-- /product-cards -->
+
+サイズの選び方や飾り方は[Sen ローリーポットの紹介記事](/review/sen-roly-pot)で詳しく書いています。
 
 ---
 
