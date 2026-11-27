@@ -797,7 +797,7 @@
     var pick = document.querySelector('.tp-pick');
     if (!pick || pick.querySelector('.tp-card--sen')) return;
     var css = document.createElement('style');
-    css.textContent = '.tp-pick .tp-card--sen .tp-card-award{display:inline-flex;align-items:center;gap:5px;margin:2px 0 6px;font:600 11.5px/1.4 var(--tp-font);color:#4d5a58;letter-spacing:.02em}.tp-pick .tp-card--sen .tp-card-award:before{content:"";width:7px;height:7px;border-radius:50%;background:#c8102e}' + '.tp-pick .tp-card--sen{--card-bg:linear-gradient(180deg,#eef2f2 0%,#dbe2e3 100%);--card-kind:#4d5a58}' +
+    css.textContent = '.tp-pick .tp-card--sen .tp-card-award{display:inline-flex;align-items:center;gap:5px;margin:2px 0 6px;font:600 11.5px/1.4 var(--tp-font);color:#4d5a58;letter-spacing:.02em}' + '.tp-pick .tp-card--sen{--card-bg:linear-gradient(180deg,#eef2f2 0%,#dbe2e3 100%);--card-kind:#4d5a58}' +
       // 6枚になったので、PC は3枚×2段にする（5列の指定より後に置く）
       '@media (min-width:1181px){.tp-wrap .tp-pick{grid-template-columns:repeat(3,1fr);gap:20px}.tp-pick .tp-card-name{font-size:26px}.tp-pick .tp-card-body{padding:30px 26px 0}}';
     document.head.appendChild(css);
