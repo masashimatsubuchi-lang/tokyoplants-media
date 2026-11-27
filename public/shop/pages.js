@@ -779,10 +779,10 @@
       if (b) { e.preventDefault(); pick(b); }
     });
     // 最初に出すのは白斑の鉢植え（手で持った写真）。2026-11-27 オーナー指示。
-    // 上のフェードを短くして（写真の上12%だけ）、モンステラの葉が薄くならないようにする。下げすぎは NG（2026-11-27 オーナー）
+    // 上のフェードは写真の上24%。葉に少しかかってよいが、境界がくっきり出るのは NG。写真は下げない（2026-11-27 オーナー）
     var css = document.createElement('style');
-    css.textContent = '.tp-pick .tp-card--sishi .tp-card-photo.is-low{-webkit-mask-image:linear-gradient(180deg,transparent 0,#000 12%);mask-image:linear-gradient(180deg,transparent 0,#000 12%)}' +
-      '.tp-pick .tp-card--sishi .tp-card-photo.is-low img{transform:translateY(3%)}';
+    css.textContent = '.tp-pick .tp-card--sishi .tp-card-photo.is-low{-webkit-mask-image:linear-gradient(180deg,transparent 0,#000 24%);mask-image:linear-gradient(180deg,transparent 0,#000 24%)}' +
+      '.tp-pick .tp-card--sishi .tp-card-photo.is-low img{transform:none}';
     document.head.appendChild(css);
     var white = vars.querySelector('[data-path="/items/143263775"]');
     if (white) white.dataset.low = '1';
