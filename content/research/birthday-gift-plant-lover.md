@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1503346339662-b25ed316827c?w=1200&q=80
 title: "誕生日プレゼント 植物好きへ｜外さない実用ギフト8選"
 description: "植物好きな友人・恋人・家族への誕生日プレゼント。相手との距離感と予算で選べる実用ギフト8つを、外すリスクつきで比較しました。¥2,000のリーフタオル全8種の選び方も解説します。"
 date: "2026-06-06"
-updated: "2026-11-26"
+updated: "2026-11-27"
 category: "research"
 tags:
   - 植物好き
@@ -30,6 +30,12 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
 amazonProducts:
   - title: "HAWS(ホーズ) ヘリテイジカン 1L グリーン"
     asin: "B000UPVBQM"
@@ -222,6 +228,13 @@ tokyoplantsの「I'm original SOIL（tokyoplantsプレミアム培養土）」�
 「自分では買わないけど欲しかった」を狙えれば最高のプレゼントになります。ただし**難易度は高め**です。鉢は号数（サイズ）が合わないと使えず、相手の株のサイズと部屋の雰囲気の両方を知っている必要があります。
 
 不安なら、**サイズを選ばない鉢カバーや受け皿**に逃がすのも手です。
+
+相手の株の大きさがわかっているなら、tokyoplantsで扱っている八幡化成の鉢も候補になります。
+
+<!-- product-cards title="鉢と受け皿がそろって届く鉢" own="sen" -->
+- **向いている**：鉢と同じ素材・同じ色の受け皿がセット。陶器やコンクリートを思わせるマットな質感で、色はブラックとグレー。iF DESIGN AWARD 2026・Red Dot Design Award 2026 を受賞したシリーズ
+- **注意**：上のとおり号数が合わないと使えない。S は直径14.8cm（5号鉢とほぼ同じ）、M は19.7cm（6号と7号の間）なので、相手の鉢の大きさを確かめてから。室内向けの商品
+<!-- /product-cards -->
 
 ---
 

@@ -15,6 +15,8 @@ export interface OwnProduct {
   price: string;
   /** utm_campaign */
   campaign: string;
+  /** カード上の小さな見出し。省略時は「tokyoplants オリジナル」（仕入れ品はメーカー名を出す） */
+  badge?: string;
 }
 
 export const OWN_PRODUCTS: Record<OwnProductType, OwnProduct> = {
@@ -42,11 +44,22 @@ export const OWN_PRODUCTS: Record<OwnProductType, OwnProduct> = {
     price: "¥1,500",
     campaign: "mochi-pot",
   },
+  // 仕入れ品（八幡化成）。リンク先は S・M・スタンド・ロープが並ぶ Sen のカテゴリー。価格は BASE（2026-11-27）
+  sen: {
+    name: "Sen ローリーポット 丸（鉢と受け皿のセット）",
+    spec: "スリット入りのまるい鉢と同色の受け皿。S（直径14.8cm）・M（19.7cm）、ブラック／グレー",
+    image: "/images/products/sen/pot-s-bk.jpg",
+    url: "https://www.tokyoplants.com/categories/7903585",
+    price: "¥2,600〜",
+    campaign: "sen",
+    badge: "SELECTED ITEM｜八幡化成",
+  },
 };
 
 /** baseProducts の中から、その自社商品の行を探す（価格を記事側の値に合わせるため） */
 export function findOwnInBaseProducts(type: OwnProductType, products: BaseProduct[] = []): BaseProduct | undefined {
   const id = OWN_PRODUCTS[type].url.split("/items/")[1];
+  if (!id) return undefined;
   return products.find((p) => p.url.includes(`/items/${id}`));
 }
 

@@ -2,6 +2,14 @@ import Image from "next/image";
 
 const SHOP_PRODUCTS = [
   {
+    title: "Sen ローリーポット 丸\n鉢と受け皿のセット",
+    price: "¥2,600〜",
+    url: "https://www.tokyoplants.com/categories/7903585?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
+    image: "/images/products/sen/pot-s-bk.jpg",
+    tags: ["NEW", "八幡化成"],
+    soldOut: false,
+  },
+  {
     title: "観葉植物の土\n『 I'm original SOIL 』",
     price: "¥1,200〜",
     url: "https://www.tokyoplants.com/items/99620939?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",

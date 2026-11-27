@@ -280,7 +280,11 @@ export default function ArticleDetail({ post }: { post: Post }) {
   const hasInlineAmazonCards =
     /<!--\s*amazon-cards[\s>]/.test(post.contentHtml) || /<!--\s*product-cards\b[^>]*\bamazon="true"/.test(post.contentHtml);
   // 本文の product-cards で自社商品をカードで出している記事は、自動の商品バナーを入れない（二重表示になる）
-  const hasOwnProductCards = /<!--\s*product-cards\b[^>]*\bown="(soil|hydro|pot)"/.test(post.contentHtml);
+  // Sen（仕入れ品の鉢）のカードは、自動バナーの主役が Sen のときだけ抑止する（土の記事に鉢のカードを足しても土のバナーは残す）
+  const ownCardTypes = [...post.contentHtml.matchAll(/<!--\s*product-cards\b[^>]*\bown="(\w+)"/g)].map((m) => m[1]);
+  const hasOwnProductCards = ownCardTypes.some(
+    (t) => t === "soil" || t === "hydro" || t === "pot" || (t === "sen" && primaryInlineType(post.baseProducts) === "sen"),
+  );
   const hasAmazonProducts =
     !post.hideAmazonBlock && !hasInlineAmazonCards && post.amazonProducts && post.amazonProducts.length > 0;
   const hasBaseProducts = post.baseProducts && post.baseProducts.length > 0;

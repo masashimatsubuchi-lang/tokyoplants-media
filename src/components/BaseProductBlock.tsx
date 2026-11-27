@@ -20,6 +20,16 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("MOCHI POT") || product.url.includes("/items/140571906");
   };
 
+  // 八幡化成 Sen（S・M・チアーズスタンド・専用ロープ）。仕入れ品
+  const SEN_IMAGES: Record<string, string> = {
+    "166998845": "/images/products/sen/pot-s-bk.jpg",
+    "166998875": "/images/products/sen/pot-m-gy.jpg",
+    "167062417": "/images/products/sen/stand-s-bk.jpg",
+    "167089954": "/images/products/sen/rope-hang.jpg",
+  };
+  const senId = (product: BaseProduct): string | undefined =>
+    Object.keys(SEN_IMAGES).find((id) => product.url.includes(`/items/${id}`));
+
   const isHydroProduct = (product: BaseProduct): boolean => {
     return product.title.includes("HYDRO MINERAL") || product.url.includes("/items/142692278");
   };
@@ -55,6 +65,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isTowelProduct(product)) return addUtm(product.url, "botanical-towel");
     if (isSocksProduct(product)) return addUtm(product.url, "botanical-socks");
     if (isMochiPot(product)) return addUtm(product.url, "mochi-pot");
+    if (senId(product)) return addUtm(product.url, "sen");
     return addUtm(product.url, "other");
   };
 
@@ -66,6 +77,8 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     if (isSocksProduct(product)) return "/images/products/botanical-socks-main.jpg";
     if (isHydroProduct(product)) return "/images/products/hydro-mineral-main.jpg";
     if (isMochiPot(product)) return "/images/products/mochi-pot-main.jpg";
+    const sen = senId(product);
+    if (sen) return SEN_IMAGES[sen];
     if (isWarocqueanum(product)) return "/images/products/anthurium-warocqueanum-group.jpg";
     if (isRegale(product)) return "/images/products/anthurium-regale-group.jpg";
     if (isHolyGrail(product)) return "/images/products/alocasia-holy-grail-group.jpg";

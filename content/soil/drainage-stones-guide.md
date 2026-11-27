@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1566149391802-0ed755b3f72b?w=800&q=80"
 title: "観葉植物に鉢底石は必要？プラ鉢は入れる、スリット鉢なら省略できる"
 description: "観葉植物の鉢底石は本当に必要なのか。鉢底石の役割、適切な量、おすすめ素材、代用品まで解説し、Amazonで人気の鉢底石商品も比較して紹介します。鉢底石ありなしの違いと、正しい使い方がわかります。"
 date: "2026-02-16"
-updated: "2026-11-04"
+updated: "2026-11-27"
 category: "soil"
 tags: ["排水性", "植え替え", "用土", "鉢底石", "Amazon", "おすすめ"]
 author: "tokyoplants 編集部"
@@ -13,10 +13,17 @@ relatedSlugs:
   - "guide/repotting-houseplants-complete-guide"
   - "guide/root-rot-causes-and-recovery"
   - "review/drainage-net-comparison"
+  - "review/sen-roly-pot"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
 amazonProducts:
   - title: "花ごころ きれいな鉢底石 2L"
     asin: "B07K1PBN1J"
@@ -167,6 +174,13 @@ amazonProducts:
 ### スリット鉢を使っている場合
 
 スリット鉢は側面にスリット（切れ込み）があり、底面だけでなく側面からも排水・通気されます。排水性が非常に高いため、鉢底石がなくても水はけの問題は起きにくいです。
+
+スリット鉢は育苗用の黒いプラ鉢のほか、部屋に置ける見た目のものもあります。tokyoplantsで扱っている八幡化成の鉢を一例として挙げます。
+
+<!-- product-cards title="鉢底ネットなしで使える、スリット入りの鉢" own="sen" -->
+- **向いている**：側面と底にスリットがあり、この章の「スリット鉢を使っている場合」に当たる鉢。メーカーは通気性・排水性を特長としており、鉢底ネットを敷かずに使える。同じ素材・同じ色の受け皿がセット
+- **注意**：S は直径14.8cm（5号鉢とほぼ同じ）、M は19.7cm（6号と7号の間）の2サイズで、大鉢向けではない。室内向けの商品で、屋外での使用はおすすめしていない
+<!-- /product-cards -->
 
 ### 排水性の非常に高い土を使っている場合
 

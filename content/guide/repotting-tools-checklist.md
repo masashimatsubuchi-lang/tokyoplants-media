@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1621460248083-6271cc4437a8?crop=entrop
 title: "植え替えに必要な道具リスト｜初心者向けAmazon厳選アイテム"
 description: "観葉植物の植え替えに必要な道具を初心者向けに解説。鉢・ハサミ・スコップ・じょうろなど各アイテムの選び方に加え、Amazonで評価の高い実物商品も紹介。あると便利なグッズや100均で代用できるものもまとめました。"
 date: "2026-06-05"
-updated: "2026-11-04"
+updated: "2026-11-27"
 category: "guide"
 tags: ["植え替え", "初心者", "道具", "Amazon"]
 author: "tokyoplants 編集部"
@@ -21,6 +21,12 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
 amazonProducts:
   - title: "ダルトン(Dulton) 植木鉢 5号 ターコイズ 陶器鉢（受け皿付き）"
     asin: "B0DG8MH6BL"
@@ -114,6 +120,14 @@ amazonProducts:
 底に穴が開いた本格仕様でありながら、受け皿がセットになっているため排水対策も一緒に済むデザイン鉢です。評価★4.1・レビュー693件（確認済み）と実績も十分。プラスチック鉢からワンランク上げて部屋のインテリアに馴染ませたい植え替えにおすすめです。
 
 なお、通気性・排水性を最優先するなら側面にスリットが入った「スリット鉢」も選択肢のひとつです。根詰まりを防ぐスリット鉢の仕組みとおすすめ商品は[観葉植物の道具おすすめ完全まとめ](/review/houseplant-tools-complete-guide)で詳しく紹介しています。
+
+スリット入りで受け皿も一緒にそろう鉢の例として、tokyoplantsで扱っている八幡化成の鉢も挙げておきます。
+
+<!-- product-cards title="スリット入りで、受け皿もそろう鉢" own="sen" -->
+- **向いている**：スリット鉢の通気性・排水性（メーカーの説明）と、そのまま飾れる見た目を両方ほしい場合。鉢底ネットを敷かずに使え、鉢と同じ素材・同じ色の受け皿がセット
+- **サイズ**：S は直径14.8cm（5号鉢とほぼ同じ）、M は19.7cm（6号と7号の間）の2つ
+- **注意**：上の「サイズの選び方」のとおり、今の鉢より一回り大きいかを測ってから選ぶ。室内向けの商品で、屋外での使用はおすすめしていない
+<!-- /product-cards -->
 
 ---
 

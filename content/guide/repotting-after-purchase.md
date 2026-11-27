@@ -3,7 +3,7 @@ image: /images/products/repotting-after-purchase-header.jpg
 title: 観葉植物を買ったらすぐ植え替える？｜判断基準と正しい手順
 description: 観葉植物を購入した直後に植え替えるべきか迷っていませんか？すぐ植え替えるケース・待つべきケースの判断基準と、失敗しない手順を解説します。
 date: '2026-03-03'
-updated: '2026-11-26'
+updated: '2026-11-27'
 category: guide
 tags:
   - 植え替え
@@ -20,6 +20,12 @@ baseProducts:
   - title: 観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』
     url: 'https://www.tokyoplants.com/items/99620939'
     price: '¥1,200〜'
+  - title: Sen ローリーポット 丸 S 鉢と受け皿のセット
+    url: 'https://www.tokyoplants.com/items/166998845'
+    price: '¥2,600'
+  - title: Sen ローリーポット 丸 M 鉢と受け皿のセット
+    url: 'https://www.tokyoplants.com/items/166998875'
+    price: '¥3,800'
 amazonProducts:
   - title: "高儀 Sun Garden 鉢底ネット 中目 500×1000mm"
     asin: "B00J7P6UYO"
@@ -104,6 +110,14 @@ amazonProducts:
 <!-- illust name="pot-section" title="鉢が大きすぎると" roots="small" -->
 - 用土 | 根の届かない土が乾きにくく、根腐れの原因に | soil
 <!-- /illust -->
+
+買ったときのプラスチック鉢やビニールポットから、部屋に置く鉢へ移すときの一例として、tokyoplantsで扱っている八幡化成の鉢を挙げます。
+
+<!-- product-cards title="買ったときの鉢から植え替える先に" own="sen" -->
+- **向いている**：側面と底にスリットがあり（メーカーは通気性・排水性を特長としている）、鉢底ネットなしで使える。同じ素材・同じ色の受け皿がセットで、植え替えたらそのまま飾れる
+- **サイズ**：S は直径14.8cm（5号鉢とほぼ同じ）で、4号（12cm）の株の一回り上。M は19.7cm（6号と7号の間）
+- **注意**：秋〜冬に買った株は、根詰まりがなければこの記事のとおり春まで待ってから植え替える。室内向けの商品で、屋外での使用はおすすめしていない
+<!-- /product-cards -->
 
 **土の選び方**: 室内管理なら排水性・通気性を重視した配合がベストです。自分で混ぜる場合の例です。
 

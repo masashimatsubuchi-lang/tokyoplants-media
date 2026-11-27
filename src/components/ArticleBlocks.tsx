@@ -360,7 +360,7 @@ function ProductCards({
             loading="lazy"
           />
           <div className="min-w-0 flex-1">
-            <p className="text-[11px] font-semibold text-emerald-700">tokyoplants オリジナル</p>
+            <p className="text-[11px] font-semibold text-emerald-700">{own.badge ?? "tokyoplants オリジナル"}</p>
             <p className="mt-0.5 text-[15px] font-bold leading-snug text-zinc-900">{own.name}</p>
             <p className="mt-1 text-[12px] leading-snug text-zinc-500">{own.spec}</p>
             <p className="mt-1.5 text-[15px] font-extrabold text-emerald-700">{price}</p>

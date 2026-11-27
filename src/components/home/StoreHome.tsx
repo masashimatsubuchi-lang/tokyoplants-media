@@ -10,6 +10,7 @@ import ArticleCard from "@/components/ArticleCard";
 import CategoryTabs from "@/components/CategoryTabs";
 import AppShowcase from "./AppShowcase";
 import CollectionCard from "./CollectionCard";
+import FeatureBanner from "./FeatureBanner";
 import RankingCard from "./RankingCard";
 import ShelfScroller from "./ShelfScroller";
 
@@ -63,6 +64,8 @@ export default function StoreHome() {
               つくった、土と道具。
             </h1>
           </div>
+          {/* 新入荷のバナー（2026-11-27 Sen）。入れ替えるときは FeatureBanner.tsx を差し替える */}
+          <FeatureBanner />
         </div>
       </section>
 

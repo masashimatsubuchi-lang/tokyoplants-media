@@ -67,7 +67,7 @@ export type ParsedBlock =
   | { kind: "shop-compare"; title: string; id: string }
   | { kind: "illust"; name: string; title: string; caption: string; attrs: Record<string, string>; rows: string[][] };
 
-export type OwnProductType = "soil" | "hydro" | "pot";
+export type OwnProductType = "soil" | "hydro" | "pot" | "sen";
 
 export function stripTags(html: string): string {
   // remark は「<」を &#x3C; のような数値文字参照で出すことがあるので、それも戻す（図解の「<10」が消えていた）
@@ -158,7 +158,7 @@ export function parseBlock(name: BlockName, attrs: Record<string, string>, inner
     case "amazon-cards":
       return { kind: "amazon-cards", title, note: attrs.note ?? "" };
     case "product-cards": {
-      const own = attrs.own === "soil" || attrs.own === "hydro" || attrs.own === "pot" ? attrs.own : null;
+      const own = attrs.own === "soil" || attrs.own === "hydro" || attrs.own === "pot" || attrs.own === "sen" ? attrs.own : null;
       return { kind: "product-cards", title, own, showAmazon: attrs.amazon === "true", points: listItems(innerHtml).map(splitLabelValue) };
     }
     case "shop-compare":

@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1578704694513-08946e996642?w=1200&q=80
 title: "クリスマスプレゼント 植物好きへ｜枯れない冬ギフト7選"
 description: "2026年のクリスマスに植物好きへ贈るなら、配送の寒さで傷まない「枯れないギフト」から。リーフタオル全8種とまとめ買いセット、予算別の7つ、イブに間に合わせる段取りまで。"
 date: "2026-09-02"
-updated: "2026-11-20"
+updated: "2026-11-27"
 category: "research"
 tags:
   - プレゼント
@@ -36,6 +36,12 @@ baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
 amazonProducts:
   - title: "SwitchBot 温湿度計プラス（大画面）"
     asin: "B09PYKJ6CS"
@@ -183,6 +189,13 @@ tokyoplants の『 I'm original SOIL（tokyoplantsプレミアム培養土） �
 - テラコッタ・セラミック・マットホワイトなど素材感のあるもの
 - 現在育てている植物のサイズに合う鉢サイズ（7〜10号が汎用的）
 - 冬らしい深みのある色味（アイボリー・グレージュなど）を選ぶと季節感が出る
+
+卓上サイズの株を育てている相手なら、tokyoplantsで扱っている八幡化成の鉢も候補になります。
+
+<!-- product-cards title="冬に贈って、春の植え替えで使ってもらう鉢" own="sen" -->
+- **向いている**：鉢と同じ素材・同じ色の受け皿がセット。陶器やコンクリートを思わせるマットな質感で、色はブラックとグレー。iF DESIGN AWARD 2026・Red Dot Design Award 2026 を受賞したシリーズ
+- **注意**：S は直径14.8cm（5号鉢とほぼ同じ）、M は19.7cm（6号と7号の間）で、上に挙げた7〜10号より小さい。下の表のとおり植え替えは春なので、鉢だけ先に渡す形になる。室内向けの商品
+<!-- /product-cards -->
 
 ---
 

@@ -3,6 +3,7 @@ image: "https://images.unsplash.com/photo-1446292831938-bf9e56685fda?w=1200&q=80
 title: "観葉植物の鉢の選び方｜サイズ・素材・形状の正しい選び方"
 description: "観葉植物の植え替えで鉢のサイズに迷っている方へ。号数の仕組み、一回り大きい鉢の目安、素材別の特徴、植物タイプ別のおすすめ鉢を解説します。"
 date: "2026-02-17"
+updated: "2026-11-27"
 category: "guide"
 tags: ["植え替え", "鉢", "選び方"]
 author: "tokyoplants 編集部"
@@ -13,10 +14,17 @@ relatedSlugs:
   - "guide/no-drainage-hole-pot-guide"
   - "guide/plant-not-recovering-after-repotting"
   - "review/large-planter-pot-comparison"
+  - "review/sen-roly-pot"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
 amazonProducts:
   - title: "花ごころ きれいな鉢底石 2L"
     asin: "B07K1PBN1J"
@@ -158,6 +166,14 @@ amazonProducts:
 | 根腐れしにくい | 鉢カバーとの併用が前提 |
 
 側面にスリット（切れ込み）があり、底面だけでなく側面からも排水・通気される鉢。根腐れ対策として最も効果的。見た目のシンプルさは鉢カバーでカバーできます。
+
+鉢カバーを使わず、スリット鉢そのものを飾る選び方もあります。tokyoplantsで扱っている八幡化成の鉢を一例として挙げます。
+
+<!-- product-cards title="鉢カバーなしで飾れるスリット鉢" own="sen" -->
+- **向いている**：鉢を見せて飾りたい場合。側面と底にスリットがあり（メーカーは通気性・排水性を特長としている）、鉢底ネットなしで使える。同じ素材・同じ色の受け皿がセット
+- **サイズ**：S は直径14.8cm（5号鉢とほぼ同じ）で、4号からの1号UPの目安になる。M は19.7cm（6号と7号の間）
+- **注意**：直径はカタログ表記の値で、号数の直径と同じ測り方とは限らない。今の鉢の直径と比べてから選ぶ。室内向けの商品で、屋外での使用はおすすめしていない
+<!-- /product-cards -->
 
 ---
 

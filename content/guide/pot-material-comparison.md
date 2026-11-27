@@ -3,7 +3,7 @@ image: "https://images.unsplash.com/photo-1468531390554-9f62f9767a87?crop=entrop
 title: "テラコッタと陶器の違いは釉薬の有無。乾きやすいのは素焼きのテラコッタ"
 description: "観葉植物の鉢素材（陶器・テラコッタ・プラスチック・セメント）の特徴を徹底比較。土の乾き方・根腐れリスク・重さ・価格帯の違いと、植物別のおすすめ素材を解説します。"
 date: "2026-06-05"
-updated: "2026-10-27"
+updated: "2026-11-27"
 category: "guide"
 tags: ["鉢"]
 author: "tokyoplants 編集部"
@@ -14,10 +14,17 @@ relatedSlugs:
   - "soil/improve-drainage-for-houseplants"
   - "guide/no-drainage-hole-pot-guide"
   - "review/large-planter-pot-comparison"
+  - "review/sen-roly-pot"
 baseProducts:
   - title: "観葉植物の土『 I'm original SOIL（tokyoplantsプレミアム培養土） 』"
     url: "https://www.tokyoplants.com/items/99620939"
     price: "¥1,200〜"
+  - title: "Sen ローリーポット 丸 S 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998845"
+    price: "¥2,600"
+  - title: "Sen ローリーポット 丸 M 鉢と受け皿のセット"
+    url: "https://www.tokyoplants.com/items/166998875"
+    price: "¥3,800"
 amazonProducts:
   - title: "日本ポリ鉢 プレステラ深型90 5個組 ブラック（スリット入り硬質ポット）"
     asin: "B0CJM6XYP5"
@@ -252,6 +259,15 @@ tokyoplants の **I'm original SOIL（tokyoplantsプレミアム培養土）** �
 
 <!-- amazon-cards title="二重鉢の内鉢と乾き具合のチェック" -->
 <!-- /amazon-cards -->
+
+### スリットで通気・排水を補った樹脂の鉢を選ぶ
+
+二重鉢にしない方法として、鉢そのものに空気と水の通り道をつくった樹脂系の鉢もあります。tokyoplantsで扱っている八幡化成の鉢を一例として挙げます。
+
+<!-- product-cards title="二重鉢にせず、そのまま飾れる樹脂の鉢" own="sen" -->
+- **向いている**：素材はセルロースファイバー複合樹脂（植物由来の繊維を配合した樹脂）で、陶器やコンクリートを思わせるマットな質感。側面と底のスリットが空気と水の通り道になる（メーカーは通気性・排水性を特長としている）。同じ色の受け皿がセット
+- **注意**：通り道はスリットによるもので、テラコッタと同じ乾き方になるとは考えず、植え替え後しばらくは土の中まで乾いたかを確かめる。サイズはS（直径14.8cm）とM（19.7cm）の2つ。室内向けの商品で、屋外での使用はおすすめしていない
+<!-- /product-cards -->
 
 ### 素材の質感をインテリアスタイルに合わせる
 
