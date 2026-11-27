@@ -768,6 +768,7 @@
       vars.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
       img.src = b.dataset.img;
       img.parentNode.classList.toggle('is-cutout', b.dataset.cut === '1');
+      img.parentNode.classList.toggle('is-low', b.dataset.low === '1');
       img.alt = b.dataset.alt;
       price.textContent = b.dataset.price;
       link.href = link.href.replace(link.dataset.tpPath, b.dataset.path);
@@ -777,8 +778,15 @@
       var b = e.target.closest('button');
       if (b) { e.preventDefault(); pick(b); }
     });
-    // 最初に出すのはタイコンステレーション（台座の写真）。2026-11-04 に一度白斑にしたが、同日オーナー指示で戻した
-    pick(btn);
+    // 最初に出すのは白斑の鉢植え（手で持った写真）。2026-11-27 オーナー指示。
+    // 写真を少し下げて、上のフェードでモンステラの葉が切れないようにする（ずらした分の上端はフェードを延ばして隠す）
+    var css = document.createElement('style');
+    css.textContent = '.tp-pick .tp-card--sishi .tp-card-photo.is-low{-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 14%,#000 38%);mask-image:linear-gradient(180deg,transparent 0,transparent 14%,#000 38%)}' +
+      '.tp-pick .tp-card--sishi .tp-card-photo.is-low img{transform:translateY(14%)}';
+    document.head.appendChild(css);
+    var white = vars.querySelector('[data-path="/items/143263775"]');
+    if (white) white.dataset.low = '1';
+    pick(white || btn);
   }
 
 
