@@ -43,7 +43,7 @@ const SHOP_PRODUCTS = [
   },
   {
     title: "MOCHI POT｜3号\n3Dプリント鉢",
-    price: "¥2,800",
+    price: "¥1,500",
     url: "https://www.tokyoplants.com/items/140571906?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "https://baseec-img-mng.akamaized.net/images/item/origin/1a71835fed9fdffb01911db4835fcd54.png",
     tags: ["Olive / Gray", "通気性メッシュ"],

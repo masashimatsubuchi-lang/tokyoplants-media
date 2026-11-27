@@ -10,6 +10,16 @@ import { resolveRelatedPosts } from "@/lib/posts";
 import { amazonPrice } from "@/lib/amazonDisplay";
 import { FaqItem } from "@/lib/faq";
 import FaqJsonLd from "@/components/FaqJsonLd";
+import shopIndex from "@/data/shop-search-products.json";
+
+// 在庫は毎日の在庫索引（scripts の shop-search、毎朝更新）から読む。売り切れの商品は「売り切れ」と出し、構造化データも OutOfStock にする
+const SOLD_OUT_IDS = new Set(
+  (shopIndex.products as { id: number; available: boolean }[]).filter((p) => !p.available).map((p) => String(p.id)),
+);
+function isSoldOut(url?: string): boolean {
+  const id = url?.match(/\/items\/(\d+)/)?.[1];
+  return !!id && SOLD_OUT_IDS.has(id);
+}
 
 const PAGE_TITLE = "tokyoplantsのおすすめアイテム｜記事で紹介した道具まとめ";
 const PAGE_DESCRIPTION =
@@ -32,7 +42,7 @@ const ASSOCIATE_TAG = process.env.AMAZON_ASSOCIATE_TAG || "tokyoplants0f-22";
 // 自社商品の構造化データ（AI検索・検索エンジンが商品として読めるように）。事実は BASE の商品説明（2026-11-04 時点）
 // 価格を変えたら public/llms.txt と recommendedItems.ts も直す
 const SITE = "https://media.tokyoplants.com";
-const OWN_PRODUCTS = [
+const OWN_PRODUCTS: { name: string; url: string; image: string; description: string; low: number; high?: number; availability?: string; brand?: string }[] = [
   {
     name: "I'm original SOIL（tokyoplantsプレミアム培養土）",
     url: "https://www.tokyoplants.com/items/99620939",
@@ -41,7 +51,6 @@ const OWN_PRODUCTS = [
       "観葉植物用の培養土。天然ヤシの繊維30%・日向石20%・蘭の発酵樹皮20%・ミミズ堆肥10%・ピートモス10%・パーライト10%。粗めの粒で通気性と水はけがよく、アンスリウム・モンステラなどサトイモ科の熱帯植物向け。2L・10L。",
     low: 1200,
     high: 4800,
-    availability: "InStock",
   },
   {
     name: "HYDRO MINERAL 2L",
@@ -50,7 +59,6 @@ const OWN_PRODUCTS = [
     description:
       "土を使わない無機用土。富士山の溶岩石75%・島根県産ゼオライト25%に緩効性肥料0.5%配合で、約8〜9ヶ月は水だけで育てられる。ハイドロカルチャー・底面給水鉢向け。",
     low: 1480,
-    availability: "InStock",
   },
   {
     name: "Daily Botanical Towel",
@@ -59,7 +67,6 @@ const OWN_PRODUCTS = [
     description:
       "モンステラ・アンスリウム・アロカシアの葉の形をしたマイクロファイバーのタオル（約30×20cm、全8種）。植物好きへのギフトに。",
     low: 2000,
-    availability: "InStock",
   },
   {
     name: "Daily Botanical Socks（MONSTERA MONDAY）",
@@ -68,7 +75,6 @@ const OWN_PRODUCTS = [
     description:
       "モンステラの葉を編み込んだグリーンのソックス。ユニセックス2サイズ（S/M 22〜25cm、M/L 25〜28cm）、コーマコットン使用、紙製パッケージ入り。",
     low: 2000,
-    availability: "InStock",
   },
   {
     name: "Leather Botanical Collection（SISHICRAFT × tokyoplants）",
@@ -79,6 +85,23 @@ const OWN_PRODUCTS = [
     low: 19800,
     high: 29800,
     availability: "PreOrder",
+  },
+  {
+    name: "MOCHI POT（モチポット）3号",
+    url: "https://www.tokyoplants.com/items/140571906",
+    image: "/images/products/mochi-pot-main.jpg",
+    description: "3Dプリントでつくる観葉植物の鉢（PETG）。内側にメッシュ構造、高さのある受け皿つき。OLIVE／GRAY。",
+    low: 1500,
+  },
+  {
+    name: "Sen ローリーポット 丸（鉢と受け皿のセット）",
+    url: "https://www.tokyoplants.com/categories/7903585",
+    image: "/images/products/sen/pot-s-bk.jpg",
+    description:
+      "Hachiman-kasei（八幡化成）の植木鉢と同色の受け皿のセット。S（直径14.8cm・1.2L）¥2,600／M（直径19.7cm・2.9L）¥3,800、ブラック／グレー。側面と底にスリット、セルロースファイバー複合樹脂。iF DESIGN AWARD 2026・Red Dot Design Award 2026 受賞。室内向け。",
+    low: 2600,
+    high: 3800,
+    brand: "Hachiman-kasei",
   },
 ];
 
@@ -98,15 +121,25 @@ const ITEMS_FAQ: FaqItem[] = [
       "葉の形をしたタオル「Daily Botanical Towel」（2,000円〜、3枚・6枚・全8種のセットあり）、モンステラ柄のソックス「Daily Botanical Socks」（2,000円）、革で作られた植物「Leather Botanical Collection」（19,800円〜）があります。ギフトバッグ（1袋300円）でお包みできます。",
   },
   {
+    question: "tokyoplants で鉢は買えますか？",
+    answer:
+      "オリジナルの3Dプリント鉢「MOCHI POT」（3号・1,500円）と、Hachiman-kasei（八幡化成）の「Sen ローリーポット 丸」（鉢と同色の受け皿のセット、S 2,600円・M 3,800円）を扱っています。Sen には専用のスタンド（S用）と吊り鉢用のロープ（各1,000円）もあります。",
+  },
+  {
     question: "どこで買えますか？",
     answer: "tokyoplants オンラインストア（https://www.tokyoplants.com）で購入できます。",
   },
 ];
 
+function availabilityOf(p: { url: string; availability?: string }): string {
+  if (isSoldOut(p.url)) return "OutOfStock";
+  return p.availability ?? "InStock";
+}
+
 const itemsJsonLd = {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  name: "tokyoplants公式アイテム",
+  name: "tokyoplantsのアイテム",
   itemListElement: OWN_PRODUCTS.map((p, i) => ({
     "@type": "ListItem",
     position: i + 1,
@@ -116,10 +149,10 @@ const itemsJsonLd = {
       url: p.url,
       image: SITE + p.image,
       description: p.description,
-      brand: { "@type": "Brand", name: "tokyoplants" },
+      brand: { "@type": "Brand", name: p.brand ?? "tokyoplants" },
       offers: p.high
-        ? { "@type": "AggregateOffer", priceCurrency: "JPY", lowPrice: p.low, highPrice: p.high, availability: `https://schema.org/${p.availability}`, url: p.url }
-        : { "@type": "Offer", priceCurrency: "JPY", price: p.low, availability: `https://schema.org/${p.availability}`, url: p.url },
+        ? { "@type": "AggregateOffer", priceCurrency: "JPY", lowPrice: p.low, highPrice: p.high, availability: `https://schema.org/${availabilityOf(p)}`, url: p.url }
+        : { "@type": "Offer", priceCurrency: "JPY", price: p.low, availability: `https://schema.org/${availabilityOf(p)}`, url: p.url },
     },
   })),
 };
@@ -152,6 +185,7 @@ function ItemCard({ item }: { item: RecommendedItem }) {
   const href = isOwn ? getTokyoplantsUrl(item.url!) : getAmazonUrl(item.asin!);
   const imageUrl = item.image ?? (isOwn ? undefined : getAmazonImageUrl(item.asin!));
   const related = firstRelatedTitle(item.relatedSlugs);
+  const soldOut = isOwn && isSoldOut(item.url);
 
   return (
     <div
@@ -176,14 +210,17 @@ function ItemCard({ item }: { item: RecommendedItem }) {
             isOwn ? "bg-emerald-600" : "bg-amber-500"
           }`}
         >
-          {isOwn ? "tokyoplants公式" : "Amazon"}
+          {item.badge ?? (isOwn ? "tokyoplants公式" : "Amazon")}
         </span>
+        {soldOut && (
+          <span className="absolute right-3 top-3 rounded-full bg-zinc-700 px-2 py-0.5 text-[10px] font-bold text-white">売り切れ</span>
+        )}
       </div>
 
       <div className="flex flex-1 flex-col p-4">
         <p className="text-[15px] font-bold leading-snug text-gray-900">{item.title}</p>
         {/* Amazon商品の価格は表示しない（SHOW_AMAZON_PRICES）。自社商品は出す */}
-        {price && <p className="mt-0.5 text-sm font-bold text-gray-700">{price}</p>}
+        {price && <p className="mt-0.5 text-sm font-bold text-gray-700">{price}{soldOut && <span className="ml-2 text-xs font-semibold text-zinc-500">現在売り切れ</span>}</p>}
         <p className="mt-2 text-[13px] leading-relaxed text-gray-600">{item.reason}</p>
 
         {related && (
@@ -232,8 +269,8 @@ export default function RecommendedItemsPage() {
 
       {/* tokyoplants公式アイテム */}
       <section className="mt-10">
-        <h2 className="text-xl font-extrabold tracking-tight text-gray-900">tokyoplants公式アイテム</h2>
-        <p className="mt-1 text-[13px] text-gray-500">tokyoplantsが自社で開発・販売している商品</p>
+        <h2 className="text-xl font-extrabold tracking-tight text-gray-900">tokyoplantsのアイテム</h2>
+        <p className="mt-1 text-[13px] text-gray-500">tokyoplantsのオリジナル商品と、tokyoplantsで販売しているセレクト商品</p>
         <div className="mt-5 -mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto px-4 pb-2">
           {RECOMMENDED_OWN_ITEMS.map((item) => (
             <ItemCard key={item.title} item={item} />
@@ -270,7 +307,7 @@ export default function RecommendedItemsPage() {
       <FaqJsonLd faqs={ITEMS_FAQ} />
 
       <div className="mt-16 rounded-xl border border-gray-100 bg-gray-50/60 p-5 text-xs leading-relaxed text-gray-500">
-        掲載商品は、tokyoplants MEDIAの商品選定基準（評価★3.2以上・レビュー10件以上・在庫あり等）を満たすものの中から編集部が選んでいます。最終更新日: 2026-11-04
+        掲載商品は、tokyoplants MEDIAの商品選定基準（評価★3.2以上・レビュー10件以上・在庫あり等）を満たすものの中から編集部が選んでいます。最終更新日: 2026-11-27
         <br />
         ※本ページにはAmazonアソシエイトリンクを含みます。
       </div>

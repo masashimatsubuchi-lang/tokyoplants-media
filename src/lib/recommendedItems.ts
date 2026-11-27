@@ -19,6 +19,8 @@ export interface RecommendedItem {
    * 空(43バイトのプレースホルダーgif)になる場合の明示的な上書き用に使う */
   image?: string;
   price?: string;
+  /** カード左上の表示。省略時は tokyoplants 商品＝「tokyoplants公式」、Amazon＝「Amazon」（仕入れ品は「SELECTED」） */
+  badge?: string;
   /** なぜ選んでいるか（1文、購入判断の決め手のみ） */
   reason: string;
   /** この商品の選定根拠となった記事（content/{category}/{slug}） */
@@ -78,6 +80,26 @@ export const RECOMMENDED_OWN_ITEMS: RecommendedItem[] = [
     reason: "台湾のレザーアーティストSISHICRAFTと仕立てた、植物タンニン鞣しレザーの「革の植物」。気根まで革で表現したタイコンステレーションも。",
     relatedSlugs: ["review/leather-botanical-collection"],
   },
+  {
+    title: "MOCHI POT｜モチポット・3号",
+    source: "tokyoplants",
+    url: "https://www.tokyoplants.com/items/140571906",
+    image: "/images/products/mochi-pot-main.jpg",
+    price: "¥1,500",
+    reason: "3Dプリントでつくるオリジナルの鉢（PETG）。内側のメッシュ構造と、高さのある受け皿つき。",
+    relatedSlugs: ["guide/3d-printed-plant-pot-guide"],
+  },
+  {
+    // 仕入れ品（Hachiman-kasei）。リンク先は S・M・スタンド・ロープが並ぶカテゴリー。価格は BASE（2026-11-27）
+    title: "Sen ローリーポット 丸｜鉢と受け皿のセット",
+    source: "tokyoplants",
+    url: "https://www.tokyoplants.com/categories/7903585",
+    image: "/images/products/sen/pot-s-bk.jpg",
+    price: "¥2,600〜",
+    badge: "SELECTED",
+    reason: "側面と底にスリットの入ったまるい鉢と、同じ色の受け皿のセット。S・M、ブラック／グレー。Hachiman-kasei。",
+    relatedSlugs: ["review/sen-roly-pot"],
+  },
 ];
 
 export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
@@ -111,6 +133,14 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
         reason: "防水生地でこぼれた土をそのまま鉢に戻せる、部屋を汚さない植え替えシート。",
         relatedSlugs: ["review/repotting-mat-comparison"],
       },
+      {
+        title: "ジャパン蘭土 ニュージーランド産 圧縮水苔 AAAハイグレード 150g",
+        source: "amazon",
+        asin: "B0CY2VJ3D3",
+        image: "https://m.media-amazon.com/images/I/71Dd8gqfhZL._AC_SX679_.jpg",
+        reason: "繊維の長いNZ産AAAの水苔。アンスリウムの植え替えや気根の保湿に使える。",
+        relatedSlugs: ["soil/sphagnum-moss-recommended", "guide/anthurium-repotting"],
+      },
     ],
   },
   {
@@ -119,12 +149,21 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
     description: "日々の生育を支えるライト・風・栄養の道具",
     items: [
       {
-        title: "BARREL NEO AMATERAS LED 20W 植物育成ライト",
+        // 2026-11-27: BARREL NEO AMATERAS（レビュー8件で基準未達・育成ライト12選からも外れた）から差し替え
+        title: "BRIM FLORA クリップ式 植物育成ライト 26W 3ヘッド（調光・タイマー付き）",
         source: "amazon",
-        asin: "B0BXPKS4S7",
-        image: "https://m.media-amazon.com/images/I/51vuCabBGSL._AC_SX679_.jpg",
-        reason: "電球型で高PPFD・演色性Ra97の本格モデル。光量を要する植物にも対応。",
+        asin: "B0CLD6QSDD",
+        image: "https://m.media-amazon.com/images/I/81nywh0p0lL._AC_SX679_.jpg",
+        reason: "棚や机に挟むだけで使え、10段階の調光と自動消灯タイマーが本体に付いたクリップ式。",
         relatedSlugs: ["review/plant-light-review"],
+      },
+      {
+        title: "BRIM PANEL A 45W 植物育成パネルライト",
+        source: "amazon",
+        asin: "B0CP4BWTK7",
+        image: "https://m.media-amazon.com/images/I/71scZtEpbxL._AC_SX679_.jpg",
+        reason: "29.5×29.5cmの1枚で、棚1段の観葉植物をまとめて照らせるパネル型。",
+        relatedSlugs: ["review/panel-grow-light-comparison", "review/plant-light-review"],
       },
       {
         title: "HaruDesign 植物育成LEDライト GL-T5 L530（バー型）",
@@ -348,9 +387,17 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
   },
   {
     id: "humidity",
-    title: "加湿・除湿で季節を乗り切る",
-    description: "乾燥・過湿による葉トラブルを防ぐ、季節ごとの環境対策",
+    title: "加湿・除湿・保温で季節を乗り切る",
+    description: "乾燥・過湿による葉トラブルや、冬の冷えを防ぐ季節ごとの環境対策",
     items: [
+      {
+        title: "BRIM 植物ヒートマット HMT-330",
+        source: "amazon",
+        asin: "B0DFYXCL1H",
+        image: "https://m.media-amazon.com/images/I/81b5RN250PL._AC_SX679_.jpg",
+        reason: "サーモスタット内蔵で温度を表示で確かめながら使える、冬の挿し木・実生や寒さに弱い株の保温用マット。",
+        relatedSlugs: ["review/heat-mat-for-houseplants-comparison"],
+      },
       {
         title: "Troston 卓上加湿器 超音波式 350ml",
         source: "amazon",
@@ -400,10 +447,12 @@ export const RECOMMENDED_SECTIONS: RecommendedItemSection[] = [
     description: "植物を並べる・移動する・増やしたときの収納と設備",
     items: [
       {
-        title: "BIBILAB ビザールプランツラック LPR-800-BK",
+        // 2026-11-27: BIBILAB LPR-800（紹介記事から外れた）から差し替え
+        title: "Bamworld フラワースタンド 植物育成ライト付き 7段",
         source: "amazon",
-        asin: "B0DGFY7TMV",
-        reason: "育成ライト・サーキュレーターの取付に対応した、キャスター付き連結拡張式の植物専用ラック。",
+        asin: "B0FGW9QVR6",
+        image: "https://m.media-amazon.com/images/I/71NIClFlQVL._AC_SX679_.jpg",
+        reason: "育成ライトが付いた7段の植物棚。株が増えて窓辺に置ききれなくなったときに。",
         relatedSlugs: ["review/plant-rack-and-greenhouse-review"],
       },
       {

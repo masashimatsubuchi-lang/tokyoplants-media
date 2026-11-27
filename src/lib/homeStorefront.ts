@@ -114,7 +114,7 @@ export const OWN_COLLECTION: OwnProduct[] = [
     kind: "SISHICRAFT × tokyoplants",
     name: "Leather Botanical",
     catchCopy: "台湾で出会った、ひとつの作品。",
-    price: "¥18,000",
+    price: "¥19,800",
     image: "/images/home/sishicraft-monstera.jpg",
     alt: "SISHICRAFT 斑入りモンステラのレザー作品",
     href: ecUrl("/items/143263775", "collection-sishicraft"),
@@ -125,7 +125,7 @@ export const OWN_COLLECTION: OwnProduct[] = [
       {
         name: "鉢植え（緑／白）",
         color: "linear-gradient(135deg, #1f5c34 50%, #f0f2ea 50%)",
-        price: "¥18,000",
+        price: "¥19,800",
         image: "/images/home/sishicraft-monstera.jpg",
         alt: "SISHICRAFT 斑入りモンステラのレザー作品",
         href: ecUrl("/items/143263775", "collection-sishicraft"),
