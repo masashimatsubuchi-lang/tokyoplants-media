@@ -805,7 +805,7 @@
     card.className = 'tp-card tp-card--sen';
     card.innerHTML =
       '<a class="tp-card-link" href="' + base + '/items/166998845" data-tp-path="/items/166998845" aria-label="Sen ローリーポットを見る"></a>' +
-      '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜八幡化成</span>' +
+      '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜Hachiman-kasei</span>' +
       '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">植物を引き立てる、まるい鉢。</span><span class="tp-card-price">¥2,600</span></div>' +
       '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick.jpg" alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" loading="lazy"></div>' +
       '<div class="tp-vars tp-vars--size" role="group" aria-label="Sen ローリーポットのサイズ">' +
@@ -835,7 +835,7 @@
     a.href = base + '/categories/7903585';
     a.dataset.tpPath = '/categories/7903585';
     a.innerHTML = '<img src="https://media.tokyoplants.com/shop/sen/collection.png" alt="Sen" loading="lazy"><span>Sen</span>';
-    var mochi = coll.querySelector('[data-tp-path="/categories/7276989"]');
+    var mochi = coll.querySelector('[data-tp-path="/categories/7903586"], [data-tp-path="/categories/7276989"]');
     coll.insertBefore(a, mochi || null); // 鉢どうしで並ぶよう、MOCHI POT の前に
     var css = document.createElement('style');
     css.textContent = '.tp-wrap .tp-coll{grid-template-columns:repeat(9,1fr)}.tp-wrap .tp-coll img{max-width:100%}'; // スマホは横スクロール（display:flex）なので列の指定は効かない
@@ -1685,6 +1685,14 @@
 
   // ヘッダー・ドロワーのメニュー：「Soil &amp; Care」を「Soil」に、「Pots」（鉢カテゴリー 7903582）を Items の前に足す。テーマ側に入ったら二重にならない
   function menuPots() {
+    // 2026-11-27 に旧カテゴリー（Items 配下の MOCHI POT 7276989・Sen 7901645）が削除されたので、残っているリンクを新カテゴリーへ
+    var MOVED = { '7276989': '7903586', '7901645': '7903585' };
+    document.querySelectorAll('a[href*="/categories/7276989"], a[href*="/categories/7901645"]').forEach(function (a) {
+      var m = a.getAttribute('href').match(/categories\/(\d+)/);
+      if (!m || !MOVED[m[1]]) return;
+      a.setAttribute('href', a.getAttribute('href').replace(m[1], MOVED[m[1]]));
+      if (a.dataset.tpPath) a.dataset.tpPath = a.dataset.tpPath.replace(m[1], MOVED[m[1]]);
+    });
     document.querySelectorAll('.header-menu, .tp-drawer-main').forEach(function (ul) {
       var soil = ul.querySelector('a[href*="/categories/6820321"]');
       if (soil) soil.textContent = 'Soil';
