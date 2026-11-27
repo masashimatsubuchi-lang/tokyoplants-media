@@ -271,7 +271,7 @@
     var cols = document.createElement('div');
     cols.style.display = 'contents';
     cols.innerHTML =
-      col('SHOP', [['Plants｜植物', base + '/categories/6382090'], ['Soil &amp; Care｜土', base + '/categories/6820321'], ['Towels｜タオル', base + '/items/135803882'], ['Items｜雑貨', base + '/categories/7207689']]) +
+      col('SHOP', [['Plants｜植物', base + '/categories/6382090'], ['Soil｜土', base + '/categories/6820321'], ['Towels｜タオル', base + '/items/135803882'], ['Pots｜鉢', base + '/categories/7903582'], ['Items｜雑貨', base + '/categories/7207689']]) +
       col('GUIDE', [['ショップについて', about], ['お届けと送料', about + '#tp-shipping'], ['お支払い方法', about + '#tp-payment'], ['よくある質問', about + '#faq'], ['お問い合わせ', contact]]) +
       col('MORE', [['メンバーシップ', member], ['マイページ', mypage], ['Journal｜読みもの', MEDIA + '/journal?utm_source=shop&utm_medium=footer'], ['植物図鑑・育て方', MEDIA + '/?utm_source=shop&utm_medium=footer'], ['Green Collection｜アプリ', MEDIA + '/app?utm_source=shop&utm_medium=footer'], ['Instagram', IG]]);
     var aboutBox = top.querySelector('.footer-about');
@@ -768,6 +768,7 @@
       vars.querySelectorAll('button').forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
       img.src = b.dataset.img;
       img.parentNode.classList.toggle('is-cutout', b.dataset.cut === '1');
+      img.parentNode.classList.toggle('is-low', b.dataset.low === '1');
       img.alt = b.dataset.alt;
       price.textContent = b.dataset.price;
       link.href = link.href.replace(link.dataset.tpPath, b.dataset.path);
@@ -777,12 +778,73 @@
       var b = e.target.closest('button');
       if (b) { e.preventDefault(); pick(b); }
     });
-    // 最初に出すのはタイコンステレーション（台座の写真）。2026-11-04 に一度白斑にしたが、同日オーナー指示で戻した
-    pick(btn);
+    // 最初に出すのは白斑の鉢植え（手で持った写真）。2026-11-27 オーナー指示。
+    // 写真を少し下げて、上のフェードでモンステラの葉が切れないようにする（ずらした分の上端はフェードを延ばして隠す）
+    var css = document.createElement('style');
+    css.textContent = '.tp-pick .tp-card--sishi .tp-card-photo.is-low{-webkit-mask-image:linear-gradient(180deg,transparent 0,transparent 14%,#000 38%);mask-image:linear-gradient(180deg,transparent 0,transparent 14%,#000 38%)}' +
+      '.tp-pick .tp-card--sishi .tp-card-photo.is-low img{transform:translateY(14%)}';
+    document.head.appendChild(css);
+    var white = vars.querySelector('[data-path="/items/143263775"]');
+    if (white) white.dataset.low = '1';
+    pick(white || btn);
+  }
+
+
+  // TOP の PICK UP と STORE のアイコン列に Sen（八幡化成のローリーポット）を足す（2026-11-27 オーナー依頼）。テーマは文字数の上限に近いのでここで足す
+  // 写真はオーナー提供の TOP 写真（media/public/shop/sen/pick.jpg）、アイコンはメーカーの単品写真を切り抜いて S（黒）と M（グレー）を実寸比で並べたもの
+  // 価格は BASE と手で合わせる（S ¥2,600・M ¥3,800。変えたら SEN と一緒に直す）
+  function pickSen() {
+    var pick = document.querySelector('.tp-pick');
+    if (!pick || pick.querySelector('.tp-card--sen')) return;
+    var css = document.createElement('style');
+    css.textContent = '.tp-pick .tp-card--sen{--card-bg:linear-gradient(180deg,#eef2f2 0%,#dbe2e3 100%);--card-kind:#4d5a58}' +
+      // 6枚になったので、PC は3枚×2段にする（5列の指定より後に置く）
+      '@media (min-width:1181px){.tp-wrap .tp-pick{grid-template-columns:repeat(3,1fr);gap:20px}.tp-pick .tp-card-name{font-size:26px}.tp-pick .tp-card-body{padding:30px 26px 0}}';
+    document.head.appendChild(css);
+    var card = document.createElement('article');
+    card.className = 'tp-card tp-card--sen';
+    card.innerHTML =
+      '<a class="tp-card-link" href="' + base + '/items/166998845" data-tp-path="/items/166998845" aria-label="Sen ローリーポットを見る"></a>' +
+      '<div class="tp-card-body"><span class="tp-card-kind"><span class="tp-card-new">NEW</span>Sen｜八幡化成</span>' +
+      '<span class="tp-card-name">ローリーポット</span><span class="tp-card-copy">植物を引き立てる、まるい鉢。</span><span class="tp-card-price">¥2,600</span></div>' +
+      '<div class="tp-card-photo"><img src="https://media.tokyoplants.com/shop/sen/pick.jpg" alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" loading="lazy"></div>' +
+      '<div class="tp-vars tp-vars--size" role="group" aria-label="Sen ローリーポットのサイズ">' +
+        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥2,600" data-path="/items/166998845" aria-pressed="true" aria-label="S">S</button>' +
+        '<button type="button" data-img="https://media.tokyoplants.com/shop/sen/pick.jpg" data-alt="胡蝶蘭を植えた Sen ローリーポット（ブラック・受け皿付き）" data-price="¥3,800" data-path="/items/166998875" aria-pressed="false" aria-label="M">M</button></div>';
+    pick.insertBefore(card, pick.firstChild);
+    var link = card.querySelector('.tp-card-link');
+    var price = card.querySelector('.tp-card-price');
+    // data-img でサイズごとに写真を変えられる（2026-11-27 オーナー判断で胡蝶蘭の写真に統一。単品写真の pick-S/M は撤去）
+    var photo = card.querySelector('.tp-card-photo img');
+    card.querySelector('.tp-vars').addEventListener('click', function (e) {
+      var b = e.target.closest('button');
+      if (!b) return;
+      e.preventDefault();
+      card.querySelectorAll('.tp-vars button').forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+      price.textContent = b.dataset.price;
+      photo.src = b.dataset.img;
+      photo.alt = b.dataset.alt;
+      link.href = base + b.dataset.path;
+      link.dataset.tpPath = b.dataset.path;
+    });
+  }
+  function collSen() {
+    var coll = document.querySelector('.tp-coll');
+    if (!coll || coll.querySelector('[data-tp-path="/categories/7903585"]')) return;
+    var a = document.createElement('a');
+    a.href = base + '/categories/7903585';
+    a.dataset.tpPath = '/categories/7903585';
+    a.innerHTML = '<img src="https://media.tokyoplants.com/shop/sen/collection.png" alt="Sen" loading="lazy"><span>Sen</span>';
+    var mochi = coll.querySelector('[data-tp-path="/categories/7276989"]');
+    coll.insertBefore(a, mochi || null); // 鉢どうしで並ぶよう、MOCHI POT の前に
+    var css = document.createElement('style');
+    css.textContent = '.tp-wrap .tp-coll{grid-template-columns:repeat(9,1fr)}.tp-wrap .tp-coll img{max-width:100%}'; // スマホは横スクロール（display:flex）なので列の指定は効かない
+    document.head.appendChild(css);
   }
 
   // PICK UP の並び。新作の SISHICRAFT を先頭に（2026-11-04 オーナー依頼）、明るいカードと暗いカードが交互になるように並べる
-  var PICK_ORDER = ['sishi', 'soil', 'socks', 'select', 'towel'];
+  // 2026-11-27 新作の Sen を先頭に（明るい・暗いが交互になるように）
+  var PICK_ORDER = ['sen', 'soil', 'sishi', 'select', 'socks', 'towel'];
   function pickOrder() {
     var list = document.querySelector('.tp-pick');
     if (!list) return;
@@ -1616,8 +1678,27 @@
     })(0);
   }
 
+  // ヘッダー・ドロワーのメニュー：「Soil &amp; Care」を「Soil」に、「Pots」（鉢カテゴリー 7903582）を Items の前に足す。テーマ側に入ったら二重にならない
+  function menuPots() {
+    document.querySelectorAll('.header-menu, .tp-drawer-main').forEach(function (ul) {
+      var soil = ul.querySelector('a[href*="/categories/6820321"]');
+      if (soil) soil.textContent = 'Soil';
+      if (ul.querySelector('a[href*="/categories/7903582"]')) return;
+      var items = ul.querySelector('a[href*="/categories/7207689"]');
+      if (!items) return;
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = base + '/categories/7903582';
+      a.dataset.tpPath = '/categories/7903582';
+      a.textContent = 'Pots';
+      li.appendChild(a);
+      items.parentNode.parentNode.insertBefore(li, items.parentNode);
+    });
+  }
+
   function run() {
-    if (path === '/') { pickSocks(); pickSishi(); pickOrder(); topClickTracking(); }
+    menuPots();
+    if (path === '/') { pickSocks(); pickSishi(); pickSen(); collSen(); pickOrder(); topClickTracking(); }
     var style = document.createElement('style');
     style.id = 'tp-pages-css';
     style.textContent = CSS;
