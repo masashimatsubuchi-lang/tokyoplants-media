@@ -1087,7 +1087,12 @@
   // 定番商品のページを「写真つきの3つのポイント＋図」に（2026-11-25 オーナー依頼「Sen のような構成を他の商品にも」。スマホ前提）
   // テーマ（item.html の INSIGHT）や socksPage・sishiPage が出す文字だけのポイントを写真つきに置き換え、図の節を足す
   // 写真はその商品の BASE の商品画像。数値は商品説明文・テーマの仕様表と同じもの（変えたらここも直す）
-  var BIMG = function (f, w) { return 'https://baseec-img-mng.akamaized.net/images/item/origin/' + f + '?imformat=generic&q=85&im=Resize,width=' + (w || 800) + ',type=normal'; };
+  // Sen のスタンド・ロープは BASE の写真を入れ替える（2026-11-27 正方形にそろえた）ので、図の節で使う写真は media に置いた控えを使う
+  var SEN_ACC_LOCAL = '00bc29f8b48cc50b5fb917b81fa4f985 11477f9ee2859f345629c3434170505b 282a29f29e7c0f66e9020bf2313e59c7 4d2ede3054e9116246e35b850ef12558 711fb74b36d7b78394ea0f37ea351bb2 794c46b3fba658134c7ebd6096863384 8b1c9f3c5f88db8b135097f4a339d447 98845c74e08c98ecedee213de399956d a3d5ab0639a5e0daefc3862b7f40bd6b a4bb571cae366c6bef1de90ea36062e5 a700d3406a4119fd90853d8372c0b704 cb6b64fca5f8fd3499205f86b10b6e17 d576ddb9bde767c420366433f3349bf6';
+  var BIMG = function (f, w) {
+    if (SEN_ACC_LOCAL.indexOf(f.replace(/\.jpg$/, '')) >= 0) return 'https://media.tokyoplants.com/shop/sen/acc/' + f;
+    return 'https://baseec-img-mng.akamaized.net/images/item/origin/' + f + '?imformat=generic&q=85&im=Resize,width=' + (w || 800) + ',type=normal';
+  };
   var SISHI_PAINT = ['6306e36ca6a9f4bd80d01b303de9c2cf.jpg', '筆で斑を描き入れている SISHICRAFT のレザーの葉', '台湾のレザーアーティストの手仕事', 'SISHICRAFT が裁断から染色、成形まで、すべて手作業で仕上げています。'];
   var RICH = {
     // I'm original SOIL
