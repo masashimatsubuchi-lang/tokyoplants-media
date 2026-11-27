@@ -111,8 +111,6 @@ export default function StoreHome() {
         </div>
       </section>
 
-      <AppShowcase />
-
       {/* 読みもの */}
       <section id="reading" aria-labelledby="reading-heading" className="scroll-mt-16 bg-white py-16 md:py-24">
         <div className="store-gutter">
@@ -200,6 +198,9 @@ export default function StoreHome() {
           </div>
         </div>
       </section>
+
+      {/* アプリ紹介は最下部（2026-11-27 オーナー判断。10/29〜11/26 のクリックは閲覧326回に対し3回だったため、読みものを上に） */}
+      <AppShowcase />
 
       <section className="border-t border-[#e8e8ed] bg-white py-10">
         <div className="store-gutter">
