@@ -142,7 +142,7 @@ export const OWN_COLLECTION: OwnProduct[] = [
   },
 ];
 
-/* ---------- 新入荷のバナー（2026-11-27 八幡化成 Sen） ---------- */
+/* ---------- 新入荷のバナー（2026-11-27 Hachiman-kasei Sen） ---------- */
 
 /**
  * true: トップの先頭に新入荷のバナー（FeatureBanner.tsx）を出す。
@@ -155,7 +155,7 @@ export const SHOW_SEN_BANNER = true;
 /** 棚に戻すときの Sen のカード。価格は BASE（2026-11-27）。S・M は別の商品ページなので切り替えでリンク先も変わる */
 export const SEN_COLLECTION_CARD: OwnProduct = {
   id: "sen",
-  kind: "八幡化成のスリット鉢・受け皿つき",
+  kind: "Hachiman-kaseiのスリット鉢・受け皿つき",
   name: "Sen ローリーポット",
   catchCopy: "光と風が通う、まるい鉢。",
   price: "¥2,600",

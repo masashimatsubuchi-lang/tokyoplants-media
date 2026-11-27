@@ -3,7 +3,7 @@ import { getPostsByCategory } from "@/lib/posts";
 import { ecUrl } from "@/lib/homeStorefront";
 import FeatureBannerSlides, { type Slide } from "./FeatureBannerSlides";
 
-// トップの先頭に出す新入荷のバナー（2026-11-27 八幡化成 Sen）。
+// トップの先頭に出す新入荷のバナー（2026-11-27 Hachiman-kasei Sen）。
 // 価格は BASE の値（S ¥2,600・M ¥3,800、2026-11-27 API で確認）。BASE で価格を変えたらここも直す。
 // 紹介記事（review/sen-roly-pot）が公開されていれば「記事を読む」を出す。
 const ARTICLE = { category: "review", slug: "sen-roly-pot" } as const;
@@ -28,7 +28,7 @@ export default function FeatureBanner() {
         </div>
         <div className="flex flex-col justify-center px-6 pb-8 pt-6 md:order-1 md:w-[42%] md:px-12 md:py-12">
           <p className="text-[12px] font-semibold tracking-[0.08em] text-[#bf4800]">NEW ARRIVAL</p>
-          <p className="mt-2 text-[14px] font-semibold text-[#6e6e73]">Sen ローリーポット｜八幡化成</p>
+          <p className="mt-2 text-[14px] font-semibold text-[#6e6e73]">Sen ローリーポット｜Hachiman-kasei</p>
           <h2 className="mt-2 text-[28px] font-semibold leading-[1.2] tracking-[-0.015em] text-[#1d1d1f] md:text-[36px]">
             光と風が通う、
             <br />

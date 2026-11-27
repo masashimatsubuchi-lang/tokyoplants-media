@@ -44,7 +44,7 @@ export const OWN_PRODUCTS: Record<OwnProductType, OwnProduct> = {
     price: "¥1,500",
     campaign: "mochi-pot",
   },
-  // 仕入れ品（八幡化成）。リンク先は S・M・スタンド・ロープが並ぶ Sen のカテゴリー。価格は BASE（2026-11-27）
+  // 仕入れ品（Hachiman-kasei）。リンク先は S・M・スタンド・ロープが並ぶ Sen のカテゴリー。価格は BASE（2026-11-27）
   sen: {
     name: "Sen ローリーポット 丸（鉢と受け皿のセット）",
     spec: "スリット入りのまるい鉢と同色の受け皿。S（直径14.8cm）・M（19.7cm）、ブラック／グレー",
@@ -52,7 +52,7 @@ export const OWN_PRODUCTS: Record<OwnProductType, OwnProduct> = {
     url: "https://www.tokyoplants.com/categories/7903585",
     price: "¥2,600〜",
     campaign: "sen",
-    badge: "SELECTED ITEM｜八幡化成",
+    badge: "SELECTED ITEM｜Hachiman-kasei",
   },
 };
 

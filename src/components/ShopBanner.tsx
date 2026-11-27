@@ -6,7 +6,7 @@ const SHOP_PRODUCTS = [
     price: "¥2,600〜",
     url: "https://www.tokyoplants.com/categories/7903585?utm_source=media&utm_medium=article&utm_campaign=shop-banner&utm_content=shop-banner",
     image: "/images/products/sen/pot-s-bk.jpg",
-    tags: ["NEW", "八幡化成"],
+    tags: ["NEW", "Hachiman-kasei"],
     soldOut: false,
   },
   {

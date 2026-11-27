@@ -1,11 +1,11 @@
 ---
 image: "/images/products/sen/hero.jpg"
-title: "Sen ローリーポット｜八幡化成のスリット鉢、SとMの選び方と飾り方"
+title: "Sen ローリーポット｜Hachiman-kaseiのスリット鉢、SとMの選び方と飾り方"
 description: "Sen ローリーポット 丸は、植物由来の繊維を配合した樹脂のスリット鉢と同じ色の受け皿のセット。S（1.2L）とMの選び方、専用スタンドとロープの使い方、注意点まで。"
 date: "2026-11-27"
 updated: "2026-11-27"
 category: "review"
-tags: ["Sen ローリーポット", "八幡化成", "スリット鉢", "植木鉢", "受け皿", "吊り鉢", "インテリア"]
+tags: ["Sen ローリーポット", "Hachiman-kasei", "スリット鉢", "植木鉢", "受け皿", "吊り鉢", "インテリア"]
 author: "tokyoplants 編集部"
 relatedSlugs:
   - "guide/pot-material-comparison"
@@ -32,11 +32,11 @@ baseProducts:
     price: "¥1,200〜"
 ---
 
-# Sen ローリーポット｜八幡化成のスリット鉢、SとMの選び方と飾り方
+# Sen ローリーポット｜Hachiman-kaseiのスリット鉢、SとMの選び方と飾り方
 
 おしゃれな鉢を探していると、見た目はよくても水はけが心配だったり、受け皿だけ色が合わなかったりします。
 
-岐阜県の八幡化成がつくる「Sen ローリーポット 丸」は、陶器やコンクリートを思わせる質感に、縦のスリットを重ねた鉢です。同じ素材・同じ色の受け皿とセットになっています。
+岐阜県のHachiman-kasei（八幡化成）がつくる「Sen ローリーポット 丸」は、陶器やコンクリートを思わせる質感に、縦のスリットを重ねた鉢です。同じ素材・同じ色の受け皿とセットになっています。
 
 tokyoplants では2026年11月から、S と M の2サイズ、ブラックとグレーの2色を扱い始めました。どんな鉢か、どちらのサイズを選ぶか、スタンドやロープでの飾り方と使うときの注意を順に整理します。
 
@@ -49,7 +49,7 @@ tokyoplants では2026年11月から、S と M の2サイズ、ブラックと�
 - **価格**：S ¥2,600／M ¥3,800（税込）
 <!-- /key-facts -->
 
-<!-- figure src="/images/products/sen/sink.jpg" caption="グレーの鉢と同じ色の受け皿。まるい胴に縦のスリットが入る" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/sink.jpg" caption="グレーの鉢と同じ色の受け皿。まるい胴に縦のスリットが入る" credit="写真：Hachiman-kasei" -->
 <!-- /figure -->
 
 ## 結論：スリットで乾きやすい、室内向けの鉢と受け皿のセット
@@ -82,7 +82,7 @@ Sen シリーズは iF DESIGN AWARD 2026 と Red Dot Design Award 2026 を受賞
 
 グレーは石のような濃淡の模様、ブラックは深い黒の中に淡い模様が浮かびます。素材の特性上、模様には個体差があり、黒い点（白い点）が出ることがあります。
 
-<!-- figure src="/images/products/sen/pot-m-gy.jpg" caption="グレーの表面に出る濃淡の模様。模様の出方は1つずつ異なる" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/pot-m-gy.jpg" caption="グレーの表面に出る濃淡の模様。模様の出方は1つずつ異なる" credit="写真：Hachiman-kasei" -->
 <!-- /figure -->
 
 ### 起き上がる、まるいかたち
@@ -95,7 +95,7 @@ Sen シリーズは iF DESIGN AWARD 2026 と Red Dot Design Award 2026 を受賞
 
 スリットの上部には小さな穴（吊り下げホール）があります。別売りの専用ロープを通して吊り鉢にしたり、支柱の固定に使ったりできます。
 
-<!-- figure src="/images/products/sen/slit.jpg" caption="縦のスリットが鉢の表情になる。写真にはtokyoplantsで扱っていないサイズ・形の鉢も写っている" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/slit.jpg" caption="縦のスリットが鉢の表情になる。写真にはtokyoplantsで扱っていないサイズ・形の鉢も写っている" credit="写真：Hachiman-kasei" -->
 <!-- /figure -->
 
 <!-- character-note character="kuro" type="point" -->
@@ -108,7 +108,7 @@ Sen シリーズは iF DESIGN AWARD 2026 と Red Dot Design Award 2026 を受賞
 
 S の鉢には S のプレート、M の鉢には M のプレートが付きます。鉢と同じ素材・同じ色なので、受け皿だけが目立つことがありません。
 
-<!-- figure src="/images/products/sen/orchid-plate.jpg" caption="ブラックの鉢と同じ色の受け皿。受け皿が鉢の一部のように見える" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/orchid-plate.jpg" caption="ブラックの鉢と同じ色の受け皿。受け皿が鉢の一部のように見える" credit="写真：Hachiman-kasei" -->
 <!-- /figure -->
 
 ## S と M のどちらを選ぶか
@@ -183,7 +183,7 @@ Sen チアーズスタンド 丸 S は、ローリーポット S に取り付け
 
 色の合わせ方は、グレーの鉢にゴールドで明るく、ブラックの鉢にブラックで引き締めるのがひとつの目安です。M サイズには使えないので、スタンドで飾りたい場合は S を選んでください。
 
-<!-- figure src="/images/products/sen/stand-gold.jpg" caption="ゴールドのスタンドにのせた例。床から鉢が浮き、葉の形が見えやすくなる" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/stand-gold.jpg" caption="ゴールドのスタンドにのせた例。床から鉢が浮き、葉の形が見えやすくなる" credit="写真：Hachiman-kasei" -->
 <!-- /figure -->
 
 <!-- character-note character="shadee" type="tip" -->
@@ -203,12 +203,12 @@ Sen 専用ロープは、ローリーポットを吊り鉢にするためのロ�
 4. **掛ける**：上で長さを調整して、S字フックに掛ける
 <!-- /steps -->
 
-<!-- figure src="/images/products/sen/rope-hang.jpg" caption="ブラックの鉢を専用ロープで天井近くから吊るした例。鉢が棚や床から離れ、葉の広がりが見える" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/rope-hang.jpg" caption="ブラックの鉢を専用ロープで天井近くから吊るした例。鉢が棚や床から離れ、葉の広がりが見える" credit="写真：Hachiman-kasei" -->
 <!-- /figure -->
 
 棚や床から離して吊るすと、葉の流れや垂れ下がるつるが見えやすくなります。つる性の植物とは特に相性のよい飾り方です。
 
-<!-- figure src="/images/products/sen/rope-hoya.jpg" caption="グレーの鉢を吊るした例。鉢の縁からつるが下へ垂れる" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/rope-hoya.jpg" caption="グレーの鉢を吊るした例。鉢の縁からつるが下へ垂れる" credit="写真：Hachiman-kasei" -->
 <!-- /figure -->
 
 吊るす場所は、鉢・土・植物の重さに加えて、水やり後の重さにも耐えられることを確認してから使ってください。鉢だけで S は177g、M は313gあり、ここに土と水の重さが加わります。

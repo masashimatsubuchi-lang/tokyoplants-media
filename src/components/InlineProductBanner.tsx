@@ -44,11 +44,11 @@ const PRODUCT_META: Record<ProductType, ProductMeta> = {
     note: "溶岩石×ゼオライトの無機培地。ハイドロ・底面給水に最適。",
     img: "/images/products/hydro-mineral-main.jpg",
   },
-  // 八幡化成の仕入れ品。文言は BASE の商品説明（2026-11-27）の事実だけ
+  // Hachiman-kaseiの仕入れ品。文言は BASE の商品説明（2026-11-27）の事実だけ
   sen: {
     heading: "この記事で紹介した鉢",
     label: "Sen ローリーポット 丸（鉢と受け皿のセット）",
-    note: "スリット入りのまるい鉢と同じ色の受け皿。S・Mの2サイズ、ブラック／グレー。八幡化成。",
+    note: "スリット入りのまるい鉢と同じ色の受け皿。S・Mの2サイズ、ブラック／グレー。Hachiman-kasei。",
     img: "/images/products/sen/pot-s-bk.jpg",
   },
   warocqueanum: {

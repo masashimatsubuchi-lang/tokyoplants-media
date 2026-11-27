@@ -20,7 +20,7 @@ export default function BaseProductBlock({ products }: { products: BaseProduct[]
     return product.title.includes("MOCHI POT") || product.url.includes("/items/140571906");
   };
 
-  // 八幡化成 Sen（S・M・チアーズスタンド・専用ロープ）。仕入れ品
+  // Hachiman-kasei Sen（S・M・チアーズスタンド・専用ロープ）。仕入れ品
   const SEN_IMAGES: Record<string, string> = {
     "166998845": "/images/products/sen/pot-s-bk.jpg",
     "166998875": "/images/products/sen/pot-m-gy.jpg",

@@ -229,7 +229,7 @@ tokyoplantsの「I'm original SOIL（tokyoplantsプレミアム培養土）」�
 
 不安なら、**サイズを選ばない鉢カバーや受け皿**に逃がすのも手です。
 
-相手の株の大きさがわかっているなら、tokyoplantsで扱っている八幡化成の鉢も候補になります。
+相手の株の大きさがわかっているなら、tokyoplantsで扱っているHachiman-kaseiの鉢も候補になります。
 
 <!-- product-cards title="鉢と受け皿がそろって届く鉢" own="sen" -->
 - **向いている**：鉢と同じ素材・同じ色の受け皿がセット。陶器やコンクリートを思わせるマットな質感で、色はブラックとグレー。iF DESIGN AWARD 2026・Red Dot Design Award 2026 を受賞したシリーズ
