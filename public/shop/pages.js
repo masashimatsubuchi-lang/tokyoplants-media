@@ -835,7 +835,7 @@
     a.href = base + '/categories/7903585';
     a.dataset.tpPath = '/categories/7903585';
     a.innerHTML = '<img src="https://media.tokyoplants.com/shop/sen/collection.png" alt="Sen" loading="lazy"><span>Sen</span>';
-    var mochi = coll.querySelector('[data-tp-path="/categories/7276989"]');
+    var mochi = coll.querySelector('[data-tp-path="/categories/7903586"], [data-tp-path="/categories/7276989"]');
     coll.insertBefore(a, mochi || null); // 鉢どうしで並ぶよう、MOCHI POT の前に
     var css = document.createElement('style');
     css.textContent = '.tp-wrap .tp-coll{grid-template-columns:repeat(9,1fr)}.tp-wrap .tp-coll img{max-width:100%}'; // スマホは横スクロール（display:flex）なので列の指定は効かない
@@ -1685,6 +1685,14 @@
 
   // ヘッダー・ドロワーのメニュー：「Soil &amp; Care」を「Soil」に、「Pots」（鉢カテゴリー 7903582）を Items の前に足す。テーマ側に入ったら二重にならない
   function menuPots() {
+    // 2026-11-27 に旧カテゴリー（Items 配下の MOCHI POT 7276989・Sen 7901645）が削除されたので、残っているリンクを新カテゴリーへ
+    var MOVED = { '7276989': '7903586', '7901645': '7903585' };
+    document.querySelectorAll('a[href*="/categories/7276989"], a[href*="/categories/7901645"]').forEach(function (a) {
+      var m = a.getAttribute('href').match(/categories\/(\d+)/);
+      if (!m || !MOVED[m[1]]) return;
+      a.setAttribute('href', a.getAttribute('href').replace(m[1], MOVED[m[1]]));
+      if (a.dataset.tpPath) a.dataset.tpPath = a.dataset.tpPath.replace(m[1], MOVED[m[1]]);
+    });
     document.querySelectorAll('.header-menu, .tp-drawer-main').forEach(function (ul) {
       var soil = ul.querySelector('a[href*="/categories/6820321"]');
       if (soil) soil.textContent = 'Soil';
