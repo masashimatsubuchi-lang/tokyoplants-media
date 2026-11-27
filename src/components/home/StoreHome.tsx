@@ -5,7 +5,7 @@ import { getPostsByCategory, getAllTags, getPostsByTag } from "@/lib/posts";
 import { categories } from "@/lib/categories";
 import { getPopularPosts } from "@/lib/popular";
 import { AmazonSaleNotice } from "@/components/AmazonSale";
-import { OWN_COLLECTION, OwnProduct, RANKING_LIMIT, READER_RANKING } from "@/lib/homeStorefront";
+import { OWN_COLLECTION, OwnProduct, RANKING_LIMIT, READER_RANKING, SEN_COLLECTION_CARD, SHOW_SEN_BANNER } from "@/lib/homeStorefront";
 import ArticleCard from "@/components/ArticleCard";
 import CategoryTabs from "@/components/CategoryTabs";
 import AppShowcase from "./AppShowcase";
@@ -37,7 +37,7 @@ function withExistingVariants(product: OwnProduct): OwnProduct {
 }
 
 export default function StoreHome() {
-  const collection = OWN_COLLECTION.map(withExistingVariants);
+  const collection = (SHOW_SEN_BANNER ? OWN_COLLECTION : [SEN_COLLECTION_CARD, ...OWN_COLLECTION]).map(withExistingVariants);
   const ranking = READER_RANKING.slice(0, RANKING_LIMIT);
   // 読者に選ばれている記事は記事末尾と同じリスト。ショップへのクリック数を主に並べる（scripts/update-popular.mjs で月1回作り直す）
   const editorsPick = getPopularPosts([], 9);
@@ -64,8 +64,8 @@ export default function StoreHome() {
               つくった、土と道具。
             </h1>
           </div>
-          {/* 新入荷のバナー（2026-11-27 Sen）。入れ替えるときは FeatureBanner.tsx を差し替える */}
-          <FeatureBanner />
+          {/* 新入荷のバナー（2026-11-27 Sen）。SHOW_SEN_BANNER を false にすると消えて、Sen は「オリジナル」の棚に入る */}
+          {SHOW_SEN_BANNER && <FeatureBanner />}
         </div>
       </section>
 

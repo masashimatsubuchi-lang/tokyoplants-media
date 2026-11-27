@@ -142,6 +142,34 @@ export const OWN_COLLECTION: OwnProduct[] = [
   },
 ];
 
+/* ---------- 新入荷のバナー（2026-11-27 八幡化成 Sen） ---------- */
+
+/**
+ * true: トップの先頭に新入荷のバナー（FeatureBanner.tsx）を出す。
+ * false: バナーを消し、Sen を「オリジナル」の棚の先頭にカードで出す。
+ * オーナー方針（2026-11-27）：バナーのクリックが乏しければ棚に戻す。判断は ec_click の placement
+ * banner-sen / banner-sen-photo と、棚のカード（collection-*）の1枚あたりのクリック数を比べる。
+ */
+export const SHOW_SEN_BANNER = true;
+
+/** 棚に戻すときの Sen のカード。価格は BASE（2026-11-27）。S・M は別の商品ページなので切り替えでリンク先も変わる */
+export const SEN_COLLECTION_CARD: OwnProduct = {
+  id: "sen",
+  kind: "八幡化成のスリット鉢・受け皿つき",
+  name: "Sen ローリーポット",
+  catchCopy: "光と風が通う、まるい鉢。",
+  price: "¥2,600",
+  image: "/images/products/sen/pot-s-bk.jpg",
+  alt: "Sen ローリーポット 丸 S ブラック",
+  photo: true,
+  variantStyle: "size",
+  variants: [
+    { name: "S", price: "¥2,600", image: "/images/products/sen/pot-s-bk.jpg", alt: "Sen ローリーポット 丸 S ブラック", href: ecUrl("/items/166998845", "collection-sen-s") },
+    { name: "M", price: "¥3,800", image: "/images/products/sen/pot-m-gy.jpg", alt: "Sen ローリーポット 丸 M グレー", href: ecUrl("/items/166998875", "collection-sen-m") },
+  ],
+  href: ecUrl("/items/166998845", "collection-sen-s"),
+};
+
 /* ---------- 人気ランキング（Amazon） ---------- */
 
 /**

@@ -49,7 +49,7 @@ tokyoplants では2026年11月から、S と M の2サイズ、ブラックと�
 - **価格**：S ¥2,600／M ¥3,800（税込）
 <!-- /key-facts -->
 
-<!-- figure src="/images/products/sen/set.jpg" caption="ブラックの鉢と同じ色の受け皿。まるい胴に縦のスリットが入る" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/sink.jpg" caption="グレーの鉢と同じ色の受け皿。まるい胴に縦のスリットが入る" credit="写真：八幡化成" -->
 <!-- /figure -->
 
 ## 結論：スリットで乾きやすい、室内向けの鉢と受け皿のセット
@@ -82,7 +82,7 @@ Sen シリーズは iF DESIGN AWARD 2026 と Red Dot Design Award 2026 を受賞
 
 グレーは石のような濃淡の模様、ブラックは深い黒の中に淡い模様が浮かびます。素材の特性上、模様には個体差があり、黒い点（白い点）が出ることがあります。
 
-<!-- figure src="/images/products/sen/agave.jpg" caption="表面に出る濃淡の模様。模様の出方は1つずつ異なる" credit="写真：八幡化成" -->
+<!-- figure src="/images/products/sen/pot-m-gy.jpg" caption="グレーの表面に出る濃淡の模様。模様の出方は1つずつ異なる" credit="写真：八幡化成" -->
 <!-- /figure -->
 
 ### 起き上がる、まるいかたち

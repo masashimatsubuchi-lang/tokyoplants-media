@@ -1,35 +1,31 @@
 import Link from "@/components/Link";
 import { getPostsByCategory } from "@/lib/posts";
 import { ecUrl } from "@/lib/homeStorefront";
+import FeatureBannerSlides, { type Slide } from "./FeatureBannerSlides";
 
 // トップの先頭に出す新入荷のバナー（2026-11-27 八幡化成 Sen）。
 // 価格は BASE の値（S ¥2,600・M ¥3,800、2026-11-27 API で確認）。BASE で価格を変えたらここも直す。
 // 紹介記事（review/sen-roly-pot）が公開されていれば「記事を読む」を出す。
 const ARTICLE = { category: "review", slug: "sen-roly-pot" } as const;
 
+// 写真はオーナー指定の5枚（メーカー提供、2026-11-27）。先頭が最初に表示される
+const SLIDES: Slide[] = [
+  { src: "/images/home/sen/orchid.jpg", alt: "ブラックの Sen ローリーポットと同じ色の受け皿に植えた白い胡蝶蘭" },
+  { src: "/images/home/sen/hanging.jpg", alt: "専用ロープで吊るしたグレーの Sen ローリーポットとつる性の観葉植物" },
+  { src: "/images/home/sen/sink.jpg", alt: "グレーの Sen ローリーポットに植えた斑入りの観葉植物を手に持つ様子" },
+  { src: "/images/home/sen/stand-orchid.jpg", alt: "ゴールドのチアーズスタンドにのせた Sen ローリーポットと小さな胡蝶蘭" },
+  { src: "/images/home/sen/lineup.jpg", alt: "スタンドと受け皿に置いた Sen ローリーポットが並ぶ様子" },
+];
+
 export default function FeatureBanner() {
   const article = getPostsByCategory(ARTICLE.category).some((p) => p.slug === ARTICLE.slug);
   return (
     <div className="mx-auto mt-8 max-w-[1180px] overflow-hidden rounded-[28px] bg-white md:mt-10">
       <div className="flex flex-col md:flex-row">
-        {/* 写真。スマホは上、PCは右 */}
-        <a
-          href={ecUrl("/categories/7903585", "banner-sen-photo")}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="block md:order-2 md:w-[58%]"
-          aria-label="Sen ローリーポットをショップで見る"
-        >
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/images/products/sen/agave.jpg"
-            alt="Sen ローリーポットに植えた多肉植物"
-            width={1400}
-            height={1050}
-            className="aspect-[4/3] h-full w-full object-cover md:aspect-auto"
-            fetchPriority="high"
-          />
-        </a>
+        {/* 写真。スマホは上、PCは右。数秒ごとに切り替わる（サボテン・多肉の写真は使わない：オーナー指示 2026-11-27） */}
+        <div className="md:order-2 md:min-h-[440px] md:w-[58%]">
+          <FeatureBannerSlides slides={SLIDES} href={ecUrl("/categories/7903585", "banner-sen-photo")} />
+        </div>
         <div className="flex flex-col justify-center px-6 pb-8 pt-6 md:order-1 md:w-[42%] md:px-12 md:py-12">
           <p className="text-[12px] font-semibold tracking-[0.08em] text-[#bf4800]">NEW ARRIVAL</p>
           <p className="mt-2 text-[14px] font-semibold text-[#6e6e73]">Sen ローリーポット｜八幡化成</p>
